@@ -1,4 +1,5 @@
 * text=auto !eol
 dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
+dev/is-en.wiktionary.xml -text
 /regression-tests.sh -text
