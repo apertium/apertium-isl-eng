@@ -1,7 +1,7 @@
 LIST=`wget -O - -q http://wiki.apertium.org/wiki/Icelandic_and_English/Regression_tests | grep '<li>' | sed 's/<.*li>//g' | sed 's/ /_/g'`;
 
 #cp *.mode modes/
-basedir=/home/fran/svnroot/apertium/trunk/apertium-is-en
+basedir=`pwd`
 
 for LINE in $LIST; do
 	dir=`echo $LINE | cut -f2 -d'(' | cut -f1 -d')'`;

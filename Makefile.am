@@ -44,6 +44,7 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 
 $(PREFIX1).mode: modes.xml 
 	apertium-gen-modes modes.xml
+	cp *.mode modes/
 
 ## 
 ##	FILES WHICH AREN'T BUILD BUT ARE DISTRIBUTED
