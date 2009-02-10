@@ -1,0 +1,52 @@
+<dictionary>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+  </sdefs>
+<pardefs>
+  <pardef n="common_singular">
+    <e>
+      <p>
+        <l>ur</l>
+        <r>ur<s n="n"/><s n="sg"/></r>
+      </p>
+    </e>
+  </pardef>
+  <pardef n="hest/ur__n">
+    <e>
+      <p>
+        <l>ar</l>
+        <r>ur<s n="n"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l/>
+        <r/>
+      </p>
+      <par n="common_singular"/>
+    </e>
+  </pardef>
+  <pardef n="gest/ur__n">
+    <e>
+      <p>
+        <l>ir</l>
+        <r>ur<s n="n"/><s n="pl"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l/>
+        <r/>
+      </p>
+      <par n="common_singular"/>
+    </e>
+  </pardef>
+
+</pardefs>
+<section id="main" type="standard">
+  <e lm="gestur"><i>gest</i><par n="gest/ur__n"/></e>
+  <e lm="hestur"><i>hest</i><par n="hest/ur__n"/></e>
+</section>
+</dictionary>

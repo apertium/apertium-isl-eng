@@ -3,6 +3,7 @@
 /apertium-is-en.is-en.dix -text
 /apertium-is-en.is.dix -text
 /apertium-is-en.trules-is-en.xml -text
+dev/example.dix -text
 dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
