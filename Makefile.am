@@ -1,4 +1,4 @@
-VERSION=1.0.6
+VERSION=0.1.0
 LANG1=is
 LANG2=en
 PREFIX1=$(LANG1)-$(LANG2)
@@ -9,6 +9,10 @@ BASENAME=apertium-$(PREFIX1)
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
      $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin 
+
+##
+## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
+##
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -26,9 +30,24 @@ $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
 	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
 
+##
+##	TRANSFER RULES
+##
+
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
+
+#
+#	MODE FILE(S)
+#
+
+$(PREFIX1).mode: modes.xml 
+	apertium-gen-modes modes.xml
+
+## 
+##	FILES WHICH AREN'T BUILD BUT ARE DISTRIBUTED
+## 
 
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
@@ -42,9 +61,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 
 apertium_is_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_is_modesdir=$(prefix)/share/apertium/modes/
-
-$(PREFIX1).mode: modes.xml 
-	apertium-gen-modes modes.xml
 
 apertium_is_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin  \
