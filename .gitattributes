@@ -6,9 +6,9 @@
 /README -text
 /apertium-is-en.en.dix -text
 /apertium-is-en.is-en.dix -text
+/apertium-is-en.is-en.t1x -text
 /apertium-is-en.is.dix -text
 /apertium-is-en.post-en.dix -text
-/apertium-is-en.trules-is-en.xml -text
 /autogen.sh -text
 /configure.ac -text
 dev/example.dix -text
@@ -16,5 +16,6 @@ dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
 dev/is-tags.mapping.txt -text
+/modes.xml -text
 /regression-tests.sh -text
 /tutorial.txt -text

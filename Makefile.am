@@ -66,8 +66,8 @@ apertium_is_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin  \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX1).autopgen.bin \
-                    $(PREFIX1).prob \
 		    $(PREFIX1).t1x.bin \
+                    $(PREFIX1).prob \
 	            $(PREFIX1).mode modes.xml
 		  
 install-data-local:

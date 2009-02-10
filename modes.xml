@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="is-en" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="is-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-is-en.is-en.t1x"/>
+        <file name="is-en.t1x.bin"/>
+        <file name="is-en.autobil.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="is-en.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="is-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
