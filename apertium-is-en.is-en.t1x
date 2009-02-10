@@ -6,6 +6,14 @@
    <cat-item tags="n.*"/>
 </def-cat>
 
+<def-cat n="vrb">
+   <cat-item tags="vblex.*"/>
+</def-cat>
+
+<def-cat n="prpers">
+   <cat-item lemma="prpers" tags="prn.*"/>
+</def-cat>
+
 </section-def-cats>
 
 
@@ -19,6 +27,39 @@
    <attr-item tags="n"/>
 </def-attr>
 
+<def-attr n="a_prn">
+   <attr-item tags="prn"/>
+   <attr-item tags="prn.subj"/>
+   <attr-item tags="prn.obj"/>
+</def-attr>
+
+<def-attr n="temps">
+   <attr-item tags="pri"/>
+</def-attr>
+
+<def-attr n="pers">
+   <attr-item tags="p1"/>
+   <attr-item tags="p2"/>
+   <attr-item tags="p3"/>
+</def-attr>
+
+<def-attr n="case">
+   <attr-item tags="nom"/>
+   <attr-item tags="acc"/>
+   <attr-item tags="dat"/>
+   <attr-item tags="gen"/>
+</def-attr>
+
+<def-attr n="gender">
+   <attr-item tags="m"/>
+   <attr-item tags="f"/>
+   <attr-item tags="nt"/>
+   <attr-item tags="mf"/>
+</def-attr>
+
+<def-attr n="a_verb">
+   <attr-item tags="vblex"/>
+</def-attr>
 
 </section-def-attrs>
 
@@ -31,6 +72,37 @@
 <section-rules>
 <rule>
    <pattern>
+     <pattern-item n="prpers"/>
+   </pattern>
+   <action>
+     <choose>
+      <when>
+	<test>
+	  <equal>
+            <clip pos="1" side="sl" part="case"/>
+	    <lit-tag v="nom"/>	    
+	  </equal>
+	</test>
+	<let>
+           <clip pos="1" side="tl" part="a_prn"/>
+	   <lit-tag v="prn.subj"/>
+	</let>
+	</when>
+     </choose>
+     <out>
+       <lu>
+         <clip pos="1" side="tl" part="lem"/>
+         <clip pos="1" side="tl" part="a_prn"/>
+         <clip pos="1" side="tl" part="pers"/>
+         <clip pos="1" side="tl" part="gender"/>
+         <clip pos="1" side="tl" part="nbr"/>
+       </lu>
+     </out>
+   </action>
+</rule>
+
+<rule>
+   <pattern>
      <pattern-item n="nom"/>
    </pattern>
    <action>
@@ -39,6 +111,21 @@
          <clip pos="1" side="tl" part="lem"/>
          <clip pos="1" side="tl" part="a_nom"/>
          <clip pos="1" side="tl" part="nbr"/>
+       </lu>
+     </out>
+   </action>
+</rule>
+
+<rule>
+   <pattern>
+     <pattern-item n="vrb"/>
+   </pattern>
+   <action>
+     <out>
+       <lu>
+         <clip pos="1" side="tl" part="lem"/>
+         <clip pos="1" side="tl" part="a_verb"/>
+         <clip pos="1" side="tl" part="temps"/>
        </lu>
      </out>
    </action>
