@@ -1,5 +1,9 @@
 * text=auto !eol
+/apertium-is-en.en.dix -text
+/apertium-is-en.is-en.dix -text
+/apertium-is-en.is.dix -text
 dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
 /regression-tests.sh -text
+/tutorial.txt -text

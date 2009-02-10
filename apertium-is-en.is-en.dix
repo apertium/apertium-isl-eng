@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet/>
+   <sdefs>
+     <sdef n="n"/>
+     <sdef n="sg"/>
+     <sdef n="pl"/>
+   </sdefs>
+
+   <section id="main" type="standard">
+
+<e><p><l>hestur<s n="n"/></l><r>horse<s n="n"/></r></p></e>
+
+   </section>
+</dictionary>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+<alphabet>AÁBCDÐEÉFGHIÍJKLMNOÓPQRSTUÚVXYÝZÞÆÖaábcdðeéfghiíjklmnoópqrstuúvxyýzþæö</alphabet>
+
+<sdefs>
+   <sdef n="n"/>
+   <sdef n="sg"/>
+   <sdef n="pl"/>
+</sdefs>
+
+
+<pardefs>
+
+<pardef n="hestur__nk1">
+   <e>
+     <p>
+       <l>ur</l>
+       <r>ur<s n="n"/><s n="sg"/></r>
+     </p>
+   </e>
+   <e>
+     <p>
+       <l>ar</l>
+       <r>ur<s n="n"/><s n="pl"/></r>
+     </p>
+   </e>
+</pardef>
+
+
+</pardefs>
+
+
+<section id="main" type="standard">
+
+<e lm="hestur"><i>hest</i><par n="hestur__nk1"/></e>
+
+</section>
+
+</dictionary>
+
