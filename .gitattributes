@@ -4,10 +4,10 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-en-es.post-en.dix -text
 /apertium-is-en.en.dix -text
 /apertium-is-en.is-en.dix -text
 /apertium-is-en.is.dix -text
+/apertium-is-en.post-en.dix -text
 /apertium-is-en.trules-is-en.xml -text
 /autogen.sh -text
 /configure.ac -text
