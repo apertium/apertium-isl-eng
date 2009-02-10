@@ -1,209 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
+  <alphabet>AÁBCDÐEÉFGHIÍJKLMNOÓPQRSTUÚVXYÝZÞÆÖaábcdðeéfghiíjklmnoópqrstuúvxyýzþæö</alphabet>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="vblex"/>
+    <sdef n="p1"/>
+    <sdef n="p2"/>
+    <sdef n="p3"/>
+    <sdef n="pri"/>
+    <sdef n="prn"/>
+    <sdef n="nom"/>
+    <sdef n="acc"/>
+    <sdef n="dat"/>
+    <sdef n="gen"/>
+    <sdef n="m"/>
+    <sdef n="f"/>
+    <sdef n="mf"/>
+    <sdef n="nt"/>
+    <sdef n="sp"/>
+  </sdefs>
 
-<alphabet>AÁBCDÐEÉFGHIÍJKLMNOÓPQRSTUÚVXYÝZÞÆÖaábcdðeéfghiíjklmnoópqrstuúvxyýzþæö</alphabet>
+  <pardefs>
 
-<sdefs>
-   <sdef n="n"/>
-   <sdef n="sg"/>
-   <sdef n="pl"/>
-   <sdef n="vblex"/>
-   <sdef n="p1"/>
-   <sdef n="p2"/>
-   <sdef n="p3"/>
-   <sdef n="pri"/>
-   <sdef n="prn"/>
-   <sdef n="nom"/>
-   <sdef n="acc"/>
-   <sdef n="dat"/>
-   <sdef n="gen"/>
-   <sdef n="m"/>
-   <sdef n="f"/>
-   <sdef n="mf"/>
-   <sdef n="nt"/>
-   <sdef n="sp"/>
-</sdefs>
-
-
-
-<pardefs>
-
- <pardef n="prsubj__prn">
-
-                            <e i="">
-      <p>
-        <l>ég</l> 
-        <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
-                            <e i="">
-      <p>
-        <l>þú</l> 
-        <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
-                            <e i="">
-      <p>
-        <l>hann</l> 
-        <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
-                            <e i="">
-      <p>
-        <l>hún</l> 
-        <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
-                            <e i="">
-      <p>
-        <l>það</l> 
-        <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
-                            <e i="">
-      <p>
-        <l>við</l> 
-        <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
-                            <e i="">
-      <p>
-        <l>þeir</l> 
-        <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r> 
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>þær</l> 
-        <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r> 
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>þau</l> 
-        <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r> 
-      </p>
-    </e>
-
-
+    <pardef n="prsubj__prn">
+      <e>
+        <p>
+          <l>ég</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>þú</l>
+          <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>hann</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>hún</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>það</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>við</l>
+          <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>þeir</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>þær</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>þau</l>
+          <r>prpers<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
     </pardef>
 
+    <pardef n="hest/ur__nk1">
+      <e>
+        <p>
+          <l>ur</l>
+          <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ar</l>
+          <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
 
-<pardef n="hestur__nk1">
-   <e>
-     <p>
-       <l>ur</l>
-       <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
-     </p>
-   </e>
-   <e>
-     <p>
-       <l></l>
-       <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
-     </p>
-   </e>
-   <e>
-     <p>
-       <l>i</l>
-       <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
-     </p>
-   </e>
-   <e>
-     <p>
-       <l>s</l>
-       <r>ur<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
-     </p>
-   </e>
+    <pardef n="orð__nh1">
+      <e>
+        <p>
+          <l/>
+          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r><s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l/>
+          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
 
-   <e>
-     <p>
-       <l>ar</l>
-       <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
-     </p>
-   </e>
-   <e>
-     <p>
-       <l>a</l>
-       <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
-     </p>
-   </e>
-   <e>
-     <p>
-       <l>um</l>
-       <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
-     </p>
-   </e>
-   <e>
-     <p>
-       <l>a</l>
-       <r>ur<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
-     </p>
-   </e>
+    <pardef n="s/já__vblex">
+      <e>
+        <p>
+          <l>é</l>
+          <r>já<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>érð</l>
+          <r>já<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ér</l>
+          <r>já<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jáum</l>
+          <r>já<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jáið</l>
+          <r>já<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>já</l>
+          <r>já<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
-</pardef>
+  </pardefs>
 
-<pardef n="s/já__vblex">
-<e>
-   <p>
-     <l>é</l>
-     <r>já<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-   </p>
-</e>
-<e>
-   <p>
-     <l>érð</l>
-     <r>já<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-   </p>
-</e>
-<e>
-   <p>
-     <l>ér</l>
-     <r>já<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
-   </p>
-</e>
-<e>
-   <p>
-     <l>jáum</l>
-     <r>já<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-   </p>
-</e>
-<e>
-   <p>
-     <l>jáið</l>
-     <r>já<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-   </p>
-</e>
-<e>
-   <p>
-     <l>já</l>
-     <r>já<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
-   </p>
-</e>
-
-</pardef>
-
-</pardefs>
-
-
-<section id="main" type="standard">
-
-<e lm="pronoms personals de subjecte" i=""><i/><par n="prsubj__prn"/></e>
-<e lm="hestur"><i>hest</i><par n="hestur__nk1"/></e>
-<e lm="sjá"><i>s</i><par n="s/já__vblex"/></e>
-
-</section>
+  <section id="main" type="standard">
+    <e lm="pronoms personals de subjecte" i=""><i/><par n="prsubj__prn"/></e>
+    <e lm="hestur"><i>hest</i><par n="hest/ur__nk1"/></e>
+    <e lm="orð"><i>orð</i><par n="orð__nh1"/></e>
+    <e lm="sjá"><i>s</i><par n="s/já__vblex"/></e>
+  </section>
 
 </dictionary>
-

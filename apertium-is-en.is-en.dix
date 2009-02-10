@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-   <alphabet/>
- <sdefs>
-   <sdef n="n"/>
-   <sdef n="sg"/>
-   <sdef n="pl"/>
-   <sdef n="vblex"/>
-   <sdef n="p1"/>
-   <sdef n="p2"/>
-   <sdef n="p3"/>
-   <sdef n="pri"/>
-   <sdef n="prn"/>
-   <sdef n="nom"/>
-   <sdef n="acc"/>
-   <sdef n="dat"/>
-   <sdef n="gen"/>
-   <sdef n="m"/>
-   <sdef n="f"/>
-   <sdef n="mf"/>
-   <sdef n="nt"/>
-   <sdef n="sp"/>
- </sdefs>
+  <alphabet/>
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="vblex"/>
+    <sdef n="p1"/>
+    <sdef n="p2"/>
+    <sdef n="p3"/>
+    <sdef n="pri"/>
+    <sdef n="prn"/>
+    <sdef n="nom"/>
+    <sdef n="acc"/>
+    <sdef n="dat"/>
+    <sdef n="gen"/>
+    <sdef n="m"/>
+    <sdef n="f"/>
+    <sdef n="mf"/>
+    <sdef n="nt"/>
+    <sdef n="sp"/>
+  </sdefs>
 
-   <section id="main" type="standard">
+  <section id="main" type="standard">
+    <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
-<e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
-<e><p><l>hestur<s n="n"/></l><r>horse<s n="n"/></r></p></e>
-<e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+    <e><p><l>hestur<s n="n"/><s n="m"/></l><r>horse<s n="n"/></r></p></e>
+    <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
 
+    <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+  </section>
 
-   </section>
 </dictionary>
-
