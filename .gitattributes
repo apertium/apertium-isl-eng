@@ -15,5 +15,6 @@ dev/example.dix -text
 dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
+dev/is-tags.mapping.txt -text
 /regression-tests.sh -text
 /tutorial.txt -text
