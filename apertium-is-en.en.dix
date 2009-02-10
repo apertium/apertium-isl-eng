@@ -100,7 +100,14 @@
 <pardefs>
 
   
-   
+   <pardef n="prsubj__prn">
+   <e>
+     <p>
+       <l>I</l>
+       <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="sg"/></r>
+     </p>
+   </e>
+</pardef>
 
     <pardef n="guionet">
 
@@ -7539,7 +7546,7 @@
                             <e i="">
       <p>
         <l>ee</l> 
-        <r>ee<s n="vblex"/><s n="pres"/></r> 
+        <r>ee<s n="vblex"/><s n="pri"/></r> 
       </p>
     </e>
 
@@ -88693,7 +88700,7 @@
       <par n="urls"/>
     </e>
 
-    
+    <e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
  
 
   </section>
