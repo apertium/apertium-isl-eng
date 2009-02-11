@@ -132,6 +132,61 @@
       </e>
     </pardef>
 
+
+
+    <pardef n="tr/é__n">
+      <e>
+        <p>
+          <l>é</l>
+          <r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é</l>
+          <r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é</l>
+          <r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>és</l>
+          <r>é<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é</l>
+          <r>é<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>é</l>
+          <r>é<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jám</l>
+          <r>é<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>jáa</l>
+          <r>é<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
+
     <pardef n="orð__nh1">
       <e>
         <p>
@@ -220,6 +275,44 @@
           <r>já<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
+
+      <e>
+        <p>
+          <l>á</l>
+          <r>já<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ást</l>
+          <r>já<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>á</l>
+          <r>já<s n="vblex"/><s n="past"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áum</l>
+          <r>já<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áuð</l>
+          <r>já<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>áu</l>
+          <r>já<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
     </pardef>
 
   </pardefs>
