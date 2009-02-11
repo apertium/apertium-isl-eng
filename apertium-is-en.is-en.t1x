@@ -36,6 +36,7 @@
 
 <def-attr n="temps">
    <attr-item tags="pri"/>
+   <attr-item tags="past"/>
 </def-attr>
 
 <def-attr n="pers">

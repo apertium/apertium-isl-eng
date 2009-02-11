@@ -10,6 +10,7 @@
     <sdef n="p2"/>
     <sdef n="p3"/>
     <sdef n="pri"/>
+    <sdef n="past"/>
     <sdef n="prn"/>
     <sdef n="nom"/>
     <sdef n="acc"/>
@@ -25,6 +26,7 @@
   <section id="main" type="standard">
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
+    <e><p><l>tré<s n="n"/><s n="nt"/></l><r>tree<s n="n"/></r></p></e>
     <e><p><l>hestur<s n="n"/><s n="m"/></l><r>horse<s n="n"/></r></p></e>
     <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
 
