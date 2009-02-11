@@ -21,9 +21,61 @@
     <sdef n="mf"/>
     <sdef n="nt"/>
     <sdef n="sp"/>
+    <sdef n="def"/>
   </sdefs>
 
   <pardefs>
+
+    <pardef n="suff__det_nt">
+      <e>
+        <p>
+          <l>ið</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ið</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>inu</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sins</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unum</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>anna</l>
+          <r>hið<s n="def"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="prsubj__prn">
       <e>
@@ -133,8 +185,6 @@
       </e>
     </pardef>
 
-
-
     <pardef n="tr/é__n">
       <e>
         <p>
@@ -185,8 +235,6 @@
         </p>
       </e>
     </pardef>
-
-
 
     <pardef n="orð__nh1">
       <e>
@@ -276,7 +324,6 @@
           <r>já<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
-
       <e>
         <p>
           <l>á</l>
@@ -313,14 +360,15 @@
           <r>já<s n="vblex"/><s n="past"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
-
     </pardef>
 
   </pardefs>
 
   <section id="main" type="standard">
     <e lm="pronoms personals de subjecte" i=""><i/><par n="prsubj__prn"/></e>
+    <e lm="suffixed determiner" i=""><i/><par n="suff__det_nt"/></e>
     <e lm="hestur"><i>hest</i><par n="hest/ur__nk1"/></e>
+    <e lm="tré"><i>tr</i><par n="tr/é__n"/></e>
     <e lm="orð"><i>orð</i><par n="orð__nh1"/></e>
     <e lm="sjá"><i>s</i><par n="s/já__vblex"/></e>
   </section>
