@@ -115,7 +115,7 @@
 
   <def-macro n="conj_verb1" npar="1">
       <choose>
-        <when>
+        <when> <!-- In the third person singular, present tense, we output all the tags -->
           <test>
             <and>
               <equal>
@@ -141,7 +141,7 @@
             <clip pos="1" side="tl" part="whole"/>
           </let>            
         </when>
-        <when>
+        <when> <!-- Subjunctive gets collapsed into indicative in the present tense -->
           <test>
             <or>
               <equal>
@@ -168,7 +168,7 @@
             </concat>
           </let>            
         </when>
-        <when>
+        <when> <!-- Subjunctive gets collapsed into indicative in the past tense -->
           <test>
             <or>
               <equal>
