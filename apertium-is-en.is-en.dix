@@ -3,6 +3,7 @@
   <alphabet/>
   <sdefs>
     <sdef n="n"/>
+    <sdef n="pr"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="vblex"/>
@@ -24,21 +25,38 @@
     <sdef n="def"/>
     <sdef n="act"/>
     <sdef n="mid"/>
+    <sdef n="sent"/>
   </sdefs>
 
   <section id="main" type="standard">
-    <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <!-- Prepositions -->
+
+    <e><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+  
+  
+    <!-- Pronouns -->
+    <e><p><l>ég<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>þú<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>hann<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+
+    <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e>
     
+    <!-- Nouns -->
     <e><p><l>tré<s n="n"/><s n="nt"/></l><r>tree<s n="n"/></r></p></e>
     <e><p><l>hestur<s n="n"/><s n="m"/></l><r>horse<s n="n"/></r></p></e>
     <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
+    <e><p><l>bréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e>
+    <e><p><l>bók<s n="n"/><s n="f"/></l><r>book<s n="n"/></r></p></e>
 
+    <!-- Verbs -->
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
-
+    <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="mid"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
 
+    <!-- Punctuation -->
+    <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
   </section>
 

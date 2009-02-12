@@ -60,6 +60,10 @@
      <attr-item tags="prn.subj"/>
      <attr-item tags="prn.obj"/>
   </def-attr>
+ 
+  <def-attr n="a_art">
+     <attr-item tags="def"/>
+  </def-attr>
 
   <def-attr n="voice">
      <attr-item tags="act"/>
@@ -210,43 +214,50 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
-       <out>
-         <chunk name="nom" case="caseFirstWord">
-           <tags>
-             <tag><lit-tag v="SN"/></tag>
-             <tag><clip pos="1" side="tl" part="nbr"/></tag>
-           </tags>
-           <lu>
-             <clip pos="1" side="tl" part="lem"/>
-             <clip pos="1" side="tl" part="a_nom"/>
-             <clip pos="1" side="tl" part="nbr" link-to="2"/>
-           </lu>
-         </chunk>
-       </out>
-     </action>
-  </rule>
-
-  <rule>
-     <pattern>
-       <pattern-item n="verbcj"/>
-     </pattern>
-     <action>
-       <call-macro n="conj_verb1">
-         <with-param pos="1"/>
-       </call-macro>
-       <out>
-         <chunk name="verbcj" case="caseFirstWord">
-           <tags>
-             <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="temps"/></tag>
-              <tag><clip pos="1" side="tl" part="pers"/></tag>
-              <tag><clip pos="1" side="tl" part="nbr"/></tag>
-            </tags>
-            <lu>
-              <var n="verbfinal"/>
-            </lu>
-          </chunk>
-        </out>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <lit v="the"/>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
      </action>
   </rule>
 
@@ -258,10 +269,16 @@
      <choose>
       <when>
 	<test>
-	  <equal>
-            <clip pos="1" side="sl" part="case"/>
-	    <lit-tag v="nom"/>	    
-	  </equal>
+          <or>
+            <equal>
+              <clip pos="1" side="sl" part="case"/>
+              <lit-tag v="nom"/>	    
+            </equal>
+            <equal>
+              <clip pos="1" side="sl" part="case"/>
+              <lit-tag v="gen"/>	    
+            </equal>
+          </or>
 	</test>
 	<let>
            <clip pos="1" side="tl" part="a_prn"/>
@@ -303,6 +320,32 @@
    </action>
 </rule>
 
+
+
+  <rule>
+     <pattern>
+       <pattern-item n="verbcj"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "verbfinal" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="verbcj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="verbfinal"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
 </section-rules>
 
 </transfer>
