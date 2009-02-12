@@ -4,6 +4,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-fo-is.is.dix -text
 /apertium-is-en.en.dix -text
 /apertium-is-en.is-en.dix -text
 /apertium-is-en.is-en.t1x -text
