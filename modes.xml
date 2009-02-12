@@ -31,6 +31,31 @@
     </pipeline>
   </mode>
 
+  <mode name="is-en-postchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="is-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-is-en.is-en.t1x"/>
+        <file name="is-en.t1x.bin"/>
+        <file name="is-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-is-en.is-en.t2x"/>
+        <file name="is-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-is-en.is-en.t3x"/>
+        <file name="is-en.t3x.bin"/>
+      </program>      
+    </pipeline>
+  </mode>
+
   <mode name="is-en-interchunk">
     <pipeline>
       <program name="lt-proc">
