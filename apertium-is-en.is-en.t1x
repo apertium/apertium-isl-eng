@@ -460,13 +460,17 @@
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
-                 <lit v="the"/>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
                  <lit-tag v="det.def"/>
                  <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
                <b/>
               <lu>
-                 <clip pos="1" side="tl" part="lem"/>
+                 <get-case-from pos="3">
+                   <clip pos="1" side="tl" part="lem"/>
+                 </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
                </lu>
                <b pos="1"/>
