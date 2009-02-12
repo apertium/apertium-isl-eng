@@ -52,8 +52,11 @@
     <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
     <e><p><l>bréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e>
     <e><p><l>bók<s n="n"/><s n="f"/></l><r>book<s n="n"/></r></p></e>
+    <e><p><l>rós<s n="n"/><s n="f"/></l><r>rose<s n="n"/></r></p></e>
     <e><p><l>rúm<s n="n"/><s n="nt"/></l><r>bed<s n="n"/></r></p></e>
     <e><p><l>hundur<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
+    <e><p><l>köttur<s n="n"/><s n="m"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>systir<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
     
     
     <e><p><l>abbadís<s n="n"/><s n="f"/></l><r>abbess<s n="n"/></r></p></e>
@@ -233,7 +236,10 @@
     
     <!-- Adjectives -->
     <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
+    <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
+    <e><p><l>rauður<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>stór<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lítill<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
     
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
