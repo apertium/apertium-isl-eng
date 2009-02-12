@@ -7,6 +7,7 @@
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="vblex"/>
+    <sdef n="vbser"/>
     <sdef n="p1"/>
     <sdef n="p2"/>
     <sdef n="p3"/>
@@ -38,6 +39,7 @@
     <e><p><l>ég<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þú<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>hann<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>þeir<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e>
@@ -48,8 +50,10 @@
     <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
     <e><p><l>bréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e>
     <e><p><l>bók<s n="n"/><s n="f"/></l><r>book<s n="n"/></r></p></e>
+    <e><p><l>rúm<s n="n"/><s n="nt"/></l><r>bed<s n="n"/></r></p></e>
 
     <!-- Verbs -->
+    <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>

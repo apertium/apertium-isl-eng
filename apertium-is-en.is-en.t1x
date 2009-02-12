@@ -119,6 +119,74 @@
 
   <def-macro n="conj_verb1" npar="1">
       <choose>
+<!-- THIS IS BROKEN
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="lem"/>
+              <lit v="vera"/>
+            </equal>
+          </test>
+          <choose>
+            <when>
+              <test>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p2"/>
+                  </equal>
+                  <and>
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="pers"/>
+                        <lit-tag v="p1"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="pers"/>
+                        <lit-tag v="p3"/>
+                      </equal>
+                    </or> 
+                    <equal>
+                      <clip pos="1" side="sl" part="nbr"/>
+                      <lit-tag v="pl"/>
+                    </equal>
+                  </and> 
+                </or>
+              </test>           
+             <let>
+               <clip pos="1" side="tl" part="temps"/>
+               <lit-tag v="pres"/>
+             </let>
+             <let>
+               <var n="verbfinal"/>
+               <concat>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_verb"/>
+                 <clip pos="1" side="tl" part="temps"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </concat>
+             </let>         
+            </when>
+            <when>
+              <test>
+                <not>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p2"/>
+                  </equal>
+                </not>
+              </test>           
+             <let>
+               <var n="verbfinal"/>
+               <concat>
+                 <clip pos="1" side="tl" part="whole"/>
+               </concat>
+             </let>         
+            </when>
+
+          </choose>
+        </when>
+-->
         <when> <!-- In the third person singular, present tense, we output all the tags -->
           <test>
             <and>
@@ -283,6 +351,26 @@
 	<let>
            <clip pos="1" side="tl" part="a_prn"/>
 	   <lit-tag v="prn.subj"/>
+	</let>
+	</when>
+     </choose>
+     <choose>
+      <when>
+	<test>
+          <and>
+            <equal>
+              <clip pos="1" side="sl" part="pers"/>
+              <lit-tag v="p3"/>	    
+    	    </equal>
+      	    <equal>
+              <clip pos="1" side="sl" part="nbr"/>
+    	      <lit-tag v="pl"/>	    
+    	    </equal>
+          </and>
+	</test>
+	<let>
+           <clip pos="1" side="tl" part="gen"/>
+	   <lit-tag v="mf"/>
 	</let>
 	</when>
      </choose>
