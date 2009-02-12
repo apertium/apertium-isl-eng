@@ -244,6 +244,7 @@
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+    <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="mid"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
