@@ -56,14 +56,13 @@
     <e><p><l>hundur<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
     
     
-    
-        <e><p><l>abbadís<s n="n"/><s n="f"/></l><r>abbess<s n="n"/></r></p></e>
+    <e><p><l>abbadís<s n="n"/><s n="f"/></l><r>abbess<s n="n"/></r></p></e>
     <e><p><l>aborri<s n="n"/><s n="m"/></l><r>perch<s n="n"/></r></p></e> <!-- (genus Perca, esp. European perch, Perca fluviatilis) -->
     <e><p><l>adamsepli<s n="n"/><s n="nt"/></l><r>Adam's<b/>apple<s n="n"/></r></p></e>
     <e><p><l>afbrigði<s n="n"/><s n="nt"/></l><r>deviation<s n="n"/></r></p></e>
     <e><p><l>affosfórun<s n="n"/><s n="f"/></l><r>dephosphorylation<s n="n"/></r></p></e>
     <e><p><l>afgreiðslustúlka<s n="n"/><s n="f"/></l><r>salesgirl<s n="n"/></r></p></e>
-    <e><p><l>afhending<s n="n"/><s n="GD"/></l><r>delivery<s n="n"/></r></p></e>
+    <e><p><l>afhending<s n="n"/><s n="f"/></l><r>delivery<s n="n"/></r></p></e>
     <e><p><l>afi<s n="n"/><s n="m"/></l><r>grandfather<s n="n"/></r></p></e>
     <e><p><l>afkomandi<s n="n"/><s n="m"/></l><r>descendant<s n="n"/></r></p></e>
     <e><p><l>afkvæmi<s n="n"/><s n="nt"/></l><r>offspring<s n="n"/></r></p></e>
@@ -79,12 +78,12 @@
     <e><p><l>afmæli<s n="n"/><s n="nt"/></l><r>birthday<s n="n"/></r></p></e>
     <e><p><l>afmælisdagur<s n="n"/><s n="m"/></l><r>birth<b/>day<s n="n"/></r></p></e>
     <e><p><l>afmælisgjöf<s n="n"/><s n="f"/></l><r>birthday<b/>present<s n="n"/></r></p></e>
-    <e><p><l>afríkanska<s n="n"/><s n="GD"/></l><r>Afrikaans<s n="n"/></r></p></e>
-    <e><p><l>afsláttur<s n="n"/><s n="GD"/></l><r>discount<s n="n"/></r></p></e> <!-- (from a price) -->
+    <e><p><l>afríkanska<s n="n"/><s n="f"/></l><r>Afrikaans<s n="n"/></r></p></e>
+    <e><p><l>afsláttur<s n="n"/><s n="m"/></l><r>discount<s n="n"/></r></p></e> <!-- (from a price) -->
     <e><p><l>afstaða<s n="n"/><s n="f"/></l><r>stand<s n="n"/></r></p></e>
 <!--     <e><p><l>afstaða<s n="n"/><s n="f"/></l><r>attitude<s n="n"/></r></p></e> -->
 <!--     <e><p><l>afstaða<s n="n"/><s n="f"/></l><r>reaction<s n="n"/></r></p></e> -->
-    <e><p><l>afsteypumót<s n="n"/><s n="GD"/></l><r>mold<s n="n"/></r></p></e> <!-- (sediment surrounding and including the artifacts, features, and other materials at an archaeological site) -->
+    <e><p><l>afsteypumót<s n="n"/><s n="nt"/></l><r>mold<s n="n"/></r></p></e> <!-- (sediment surrounding and including the artifacts, features, and other materials at an archaeological site) -->
     <e><p><l>afsökun<s n="n"/><s n="f"/></l><r>excuse<s n="n"/></r></p></e>
     <e><p><l>afturbati<s n="n"/><s n="m"/></l><r>convalescence<s n="n"/></r></p></e>
     <e><p><l>afturbeyging<s n="n"/><s n="f"/></l><r>reflexivity<s n="n"/></r></p></e>
@@ -98,7 +97,7 @@
     <e><p><l>aldin<s n="n"/><s n="nt"/></l><r>fruit<s n="n"/></r></p></e>
     <e><p><l>aldur<s n="n"/><s n="m"/></l><r>age<s n="n"/></r></p></e>
     <e><p><l>alfræðirit<s n="n"/><s n="nt"/></l><r>encyclopedia<s n="n"/></r></p></e>
-    <e><p><l>algyðistrú<s n="n"/><s n="GD"/></l><r>pantheism<s n="n"/></r></p></e> <!-- (belief that the universe is divine) -->
+    <e><p><l>algyðistrú<s n="n"/><s n="f"/></l><r>pantheism<s n="n"/></r></p></e> <!-- (belief that the universe is divine) -->
     <e><p><l>alheimur<s n="n"/><s n="m"/></l><r>universe<s n="n"/></r></p></e>
     <e><p><l>aliönd<s n="n"/><s n="f"/></l><r>domestic duck<s n="n"/></r></p></e>
     <e><p><l>almenn<b/>skynsemi<s n="n"/><s n="f"/></l><r>common<b/>sense<s n="n"/></r></p></e>
@@ -112,14 +111,14 @@
     <e><p><l>alþingi<s n="n"/><s n="nt"/></l><r>Althing<s n="n"/></r></p></e>
     <e><p><l>alþingismaður<s n="n"/><s n="m"/></l><r>member<b/>of<b/>parliament<s n="n"/></r></p></e>
     <e><p><l>alþýðuflokkur<s n="n"/><s n="m"/></l><r>social<b/>democratic<b/>party<s n="n"/></r></p></e>
-    <e><p><l>ameríkín<s n="n"/><s n="GD"/></l><r>americium<s n="n"/></r></p></e> <!-- (chemical element with atomic number 95) -->
+    <e><p><l>ameríkín<s n="n"/><s n="nt"/></l><r>americium<s n="n"/></r></p></e> <!-- (chemical element with atomic number 95) -->
     <e><p><l>amma<s n="n"/><s n="f"/></l><r>grandmother<s n="n"/></r></p></e>
     <e><p><l>amper<s n="n"/><s n="nt"/></l><r>ampere<s n="n"/></r></p></e>
     <e><p><l>andardráttur<s n="n"/><s n="m"/></l><r>breath<s n="n"/></r></p></e>
     <e><p><l>andarnefja<s n="n"/><s n="f"/></l><r>bottlenose<b/>whale<s n="n"/></r></p></e>
     <e><p><l>andartak<s n="n"/><s n="m"/></l><r>moment<s n="n"/></r></p></e>
     <e><p><l>andefni<s n="n"/><s n="nt"/></l><r>antimatter<s n="n"/></r></p></e>
-    <e><p><l>andheiti<s n="n"/><s n="GD"/></l><r>antonym<s n="n"/></r></p></e> <!-- (word which has the opposite meaning). -->
+    <e><p><l>andheiti<s n="n"/><s n="nt"/></l><r>antonym<s n="n"/></r></p></e> <!-- (word which has the opposite meaning). -->
     <e><p><l>andi<s n="n"/><s n="m"/></l><r>spirit<s n="n"/></r></p></e>
     <e><p><l>andlangs<b/>herra<s n="n"/><s n="m"/></l><r>god<s n="n"/></r></p></e>
     <e><p><l>andlit<s n="n"/><s n="nt"/></l><r>face<s n="n"/></r></p></e>
@@ -143,7 +142,7 @@
 <!--    <e><p><l>apótek<s n="n"/><s n="nt"/></l><r>chemist´s<s n="n"/></r></p></e> -->
     <e><p><l>apótekari<s n="n"/><s n="m"/></l><r>apothecary<s n="n"/></r></p></e> <!-- (a person) -->
     <e><p><l>arabíska<s n="n"/><s n="f"/></l><r>Arabic<b/>language<s n="n"/></r></p></e> <!-- (language) -->
-    <e><p><l>arfi<s n="n"/><s n="GD"/></l><r>weed<s n="n"/></r></p></e>
+    <e><p><l>arfi<s n="n"/><s n="m"/></l><r>weed<s n="n"/></r></p></e>
 <!--    <e><p><l>arfur<s n="n"/><s n="m"/></l><r>heritage<s n="n"/></r></p></e> --><!-- (cultural, national, etc.) -->
     <e><p><l>arfur<s n="n"/><s n="m"/></l><r>inheritance<s n="n"/></r></p></e> <!-- (items inherited from a deceased person) -->
     <e><p><l>armbandsúr<s n="n"/><s n="nt"/></l><r>wristwatch<s n="n"/></r></p></e>
@@ -196,8 +195,8 @@
     <e><p><l>aur<s n="n"/><s n="m"/></l><r>mud<s n="n"/></r></p></e>
     <e><p><l>austur<s n="n"/><s n="nt"/></l><r>east<s n="n"/></r></p></e>
     <e><p><l>auðna<s n="n"/><s n="f"/></l><r>good<b/>fortune<s n="n"/></r></p></e>
-    <e><p><l>ax<s n="n"/><s n="GD"/></l><r>ear<b/>of<b/>corn<s n="n"/></r></p></e> <!-- (of corn) -->
-    <e><p><l>aímaríska<s n="n"/><s n="GD"/></l><r>Aymara<s n="n"/></r></p></e> <!-- (language of South America) -->
+    <e><p><l>ax<s n="n"/><s n="nt"/></l><r>ear<b/>of<b/>corn<s n="n"/></r></p></e> <!-- (of corn) -->
+    <e><p><l>aímaríska<s n="n"/><s n="f"/></l><r>Aymara<s n="n"/></r></p></e> <!-- (language of South America) -->
     <e><p><l>aínúmál<s n="n"/><s n="nt"/></l><r>Ainu<b/>language<s n="n"/></r></p></e>
     <e><p><l>aðalakkeri<s n="n"/><s n="nt"/></l><r>main<b/>anchor<s n="n"/></r></p></e>
     <e><p><l>aðalbygging<s n="n"/><s n="f"/></l><r>main<b/>building<s n="n"/></r></p></e>
@@ -228,6 +227,7 @@
 <!--    <e><p><l>aðstoð<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> -->
     <e><p><l>aðstoðarmaður<s n="n"/><s n="m"/></l><r>assistant<s n="n"/></r></p></e>
     <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstances<s n="n"/></r></p></e>
+
     
     
     
