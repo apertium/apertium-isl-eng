@@ -419,9 +419,11 @@
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
+                  <get-case-from pos ="1">
                  <lit v="the"/>
+                 </get-case-from>
                  <lit-tag v="det.def"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
                <b/>
               <lu>
@@ -437,7 +439,7 @@
                <lu>
                  <clip pos="3" side="tl" part="lem"/>
                  <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
              </chunk>
            </out>
@@ -452,7 +454,7 @@
                <lu>
                  <lit v="the"/>
                  <lit-tag v="det.def"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
                <b/>
               <lu>
@@ -468,7 +470,7 @@
                <lu>
                  <clip pos="3" side="tl" part="lem"/>
                  <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
              </chunk>
            </out>
