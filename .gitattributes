@@ -21,5 +21,7 @@ dev/is-tags.mapping.txt -text
 dev/phrases-draft1.txt -text
 /is-en.prob -text
 /modes.xml -text
+/pending-tests.sh -text
 /regression-tests.sh -text
+/run-tests.sh -text
 /tutorial.txt -text
