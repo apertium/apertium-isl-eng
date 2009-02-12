@@ -43,14 +43,6 @@
      <attr-item tags="pr"/>
   </def-attr>
 
-  <def-attr n="a_adj">
-     <attr-item tags="adj"/>
-     <attr-item tags="adj.pve"/>
-     <attr-item tags="adj.comp"/>
-     <attr-item tags="adj.sup"/>
-     <attr-item tags="adj.itg"/>
-  </def-attr>
-
   <def-attr n="a_vrb">
      <attr-item tags="vblex"/>
   </def-attr>
@@ -65,8 +57,8 @@
   <def-attr n="tns">
      <attr-item tags="pri"/>
      <attr-item tags="imp"/>
-     <attr-item tags="aor"/>
-     <attr-item tags="fti"/>
+     <attr-item tags="prs"/>
+     <attr-item tags="pss"/>
      <attr-item tags="past"/>
   </def-attr>
 
@@ -115,139 +107,17 @@
          <chunk name="nom" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SN"/></tag>
-             <tag><clip pos="1" side="tl" part="gen"/></tag>
              <tag><clip pos="1" side="tl" part="nbr"/></tag>
            </tags>
            <lu>
              <clip pos="1" side="tl" part="lem"/>
              <clip pos="1" side="tl" part="a_nom"/>
-             <clip pos="1" side="tl" part="gen" link-to="2"/>
-             <clip pos="1" side="tl" part="nbr" link-to="3"/>
+             <clip pos="1" side="tl" part="nbr" link-to="2"/>
            </lu>
          </chunk>
        </out>
      </action>
   </rule>
-
-
-<!-- Sintagmas adjetivos -->
-
-  <rule>
-     <pattern>
-       <pattern-item n="adj"/>
-     </pattern>
-     <action>
-       <choose>
-         <!--  When the adjective is in the comparative 
-               prefix with po~ -->
-         <when>
-           <test>
-             <equal>
-               <clip pos="1" side="sl" part="a_adj"/>
-               <lit-tag v="adj.comp"/>
-             </equal>
-           </test>
-           <out>
-             <chunk name="adj" case="caseFirstWord">
-               <tags>
-                 <tag><lit-tag v="SA"/></tag>
-                 <tag><clip pos="1" side="tl" part="gen"/></tag>
-                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
-               </tags>
-               <lu>
-                 <lit v="по"/>
-               </lu>
-               <lu>
-                 <clip pos="1" side="tl" part="lem"/>
-                 <lit-tag v="adj.comp"/>
-                 <clip pos="1" side="tl" part="gen"/>
-                 <clip pos="1" side="tl" part="nbr"/>
-               </lu>
-             </chunk>
-           </out>
-         </when>
-         <otherwise>
-           <out>
-             <chunk name="adj" case="caseFirstWord">
-               <tags>
-                 <tag><lit-tag v="SA"/></tag>
-                 <tag><clip pos="1" side="tl" part="gen"/></tag>
-                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
-               </tags>
-               <lu>
-                 <clip pos="1" side="tl" part="lem"/>
-                 <clip pos="1" side="tl" part="a_adj"/>
-                 <clip pos="1" side="tl" part="gen"/>
-                 <clip pos="1" side="tl" part="nbr"/>
-               </lu>
-             </chunk>
-           </out>
-         </otherwise>
-       </choose>
-     </action>
-  </rule>
-
-  <rule>
-    <pattern>
-       <pattern-item n="prefix-adj"/>
-       <pattern-item n="adj"/>
-     </pattern>
-     <action>
-       <choose>
-         <!--  When the adjective is in the superlative
-               prefix with naj~ -->
-         <when>
-           <test>
-             <and>
-               <equal>
-                 <clip pos="1" side="sl" part="lem"/>
-                 <lit v="naj"/>
-               </equal>
-               <equal>
-                 <clip pos="1" side="sl" part="a_adj"/>
-                 <lit-tag v="adj.sup"/>
-               </equal>
-             </and>
-           </test>
-           <out>
-             <chunk name="adj" case="caseFirstWord">
-               <tags>
-                 <tag><lit-tag v="SA"/></tag>
-                 <tag><clip pos="2" side="tl" part="gen"/></tag>
-                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
-               </tags>
-               <lu>
-                 <lit v="нај"/>
-               </lu>
-               <lu>
-                 <clip pos="2" side="tl" part="lem"/>
-                 <lit-tag v="adj.pve"/>
-                 <clip pos="2" side="tl" part="gen"/>
-                 <clip pos="2" side="tl" part="nbr"/>
-               </lu>
-	     </chunk>
-           </out>
-           </when>
-           <otherwise>
-             <out>
-               <chunk name="adj" case="caseFirstWord">
-                 <tags>
-                   <tag><lit-tag v="SA"/></tag>
-                   <tag><clip pos="2" side="tl" part="gen"/></tag>
-                   <tag><clip pos="2" side="tl" part="nbr"/></tag>
-                 </tags>
-                 <lu>
-                   <clip pos="2" side="tl" part="lem"/>
-                   <clip pos="1" side="tl" part="a_adj"/>
-                   <clip pos="2" side="tl" part="gen"/>
-                   <clip pos="2" side="tl" part="nbr"/>
-                 </lu>
-               </chunk>
-             </out>
-           </otherwise>
-         </choose>
-     </action>
-   </rule>
 
   <rule>
      <pattern>
@@ -266,8 +136,6 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_vrb"/>
               <clip pos="1" side="tl" part="tns"/>
-              <clip pos="1" side="tl" part="prs"/>
-              <clip pos="1" side="tl" part="nbr"/>
             </lu>
           </chunk>
         </out>
@@ -308,13 +176,21 @@
 	</when>
      </choose>
      <out>
-       <lu>
-         <clip pos="1" side="tl" part="lem"/>
-         <clip pos="1" side="tl" part="a_prn"/>
-         <clip pos="1" side="tl" part="prs"/>
-         <clip pos="1" side="tl" part="gen"/>
-         <clip pos="1" side="tl" part="nbr"/>
-       </lu>
+       <chunk name="prn" case="caseFirstWord">
+         <tags>
+           <tag><lit-tag v="SN"/></tag>
+            <tag><clip pos="1" side="tl" part="prs"/></tag>
+            <tag><clip pos="1" side="tl" part="gen"/></tag>
+            <tag><clip pos="1" side="tl" part="nbr"/></tag>
+          </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+             <clip pos="1" side="tl" part="a_prn"/>
+             <clip pos="1" side="tl" part="prs"/>
+             <clip pos="1" side="tl" part="gen"/>
+             <clip pos="1" side="tl" part="nbr"/>
+          </lu>
+       </chunk>
      </out>
    </action>
 </rule>

@@ -22,6 +22,8 @@
     <sdef n="nt"/>
     <sdef n="sp"/>
     <sdef n="def"/>
+    <sdef n="act"/>
+    <sdef n="mid"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -33,6 +35,11 @@
     <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
 
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
+
+    <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
+    <e><p><l>koma<s n="vblex"/><s n="mid"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
+
+
   </section>
 
 </dictionary>

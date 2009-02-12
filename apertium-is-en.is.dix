@@ -275,6 +275,12 @@
       </e>
       <e>
         <p>
+          <l>in</l>
+          <r><s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/><s n="def"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>um</l>
           <r><s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
         </p>
@@ -366,10 +372,10 @@
 
   <section id="main" type="standard">
     <e lm="pronoms personals de subjecte" i=""><i/><par n="prsubj__prn"/></e>
-    <e lm="suffixed determiner" i=""><i/><par n="suff__det_nt"/></e>
+<!--    <e lm="suffixed determiner" i=""><i/><par n="suff__det_nt"/></e> -->
     <e lm="hestur"><i>hest</i><par n="hest/ur__nk1"/></e>
     <e lm="tré"><i>tr</i><par n="tr/é__n"/></e>
-    <e lm="orð"><i>orð</i><par n="orð__nh1"/></e>
+    <e lm="orð"><i>orð</i><par n="orð__nh1"/><par n="suff__det_nt"/></e>
     <e lm="sjá"><i>s</i><par n="s/já__vblex"/></e>
   </section>
 
