@@ -6,9 +6,23 @@
      <cat-item tags="n.*"/>
      <cat-item tags="np.*"/>
   </def-cat>
+  <def-cat n="verbcj">
+     <!-- When voice is not marked -->
+     <cat-item tags="vblex.pri.*"/>
+     <cat-item tags="vblex.prs.*"/>
+     <cat-item tags="vblex.past.*"/>
+     <cat-item tags="vblex.pss.*"/>
+
+     <!-- When voice is marked -->
+     <cat-item tags="vblex.*.pri.*"/>
+     <cat-item tags="vblex.*.prs.*"/>
+     <cat-item tags="vblex.*.past.*"/>
+     <cat-item tags="vblex.*.pss.*"/>
+  </def-cat>
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
   </def-cat>
+ 
   <def-cat n="prn">
      <cat-item tags="prn.*"/>
   </def-cat>
@@ -21,13 +35,6 @@
   <def-cat n="det">
      <cat-item tags="det"/>
      <cat-item tags="det.*"/>
-  </def-cat>
-  <def-cat n="prefix-adj">
-     <cat-item tags="pref.adj"/>
-     <cat-item tags="pref.adj.*"/>
-  </def-cat>
-  <def-cat n="exp">
-     <cat-item tags="part.exp"/>
   </def-cat>
 </section-def-cats>
 
@@ -43,7 +50,7 @@
      <attr-item tags="pr"/>
   </def-attr>
 
-  <def-attr n="a_vrb">
+  <def-attr n="a_verb">
      <attr-item tags="vblex"/>
   </def-attr>
 
@@ -54,12 +61,20 @@
      <attr-item tags="prn.obj"/>
   </def-attr>
 
-  <def-attr n="tns">
+  <def-attr n="voice">
+     <attr-item tags="act"/>
+     <attr-item tags="mid"/>
+  </def-attr>
+
+  <def-attr n="temps">
      <attr-item tags="pri"/>
-     <attr-item tags="imp"/>
+     <attr-item tags="pres"/>
+     <attr-item tags="past"/>
      <attr-item tags="prs"/>
      <attr-item tags="pss"/>
-     <attr-item tags="past"/>
+     <attr-item tags="imp"/>
+     <attr-item tags="inf"/>
+     <attr-item tags="spn"/>
   </def-attr>
 
   <def-attr n="gen">
@@ -69,7 +84,7 @@
      <attr-item tags="mf"/>
   </def-attr>
 
-  <def-attr n="prs">
+  <def-attr n="pers">
      <attr-item tags="p1"/>
      <attr-item tags="p2"/>
      <attr-item tags="p3"/>
@@ -93,7 +108,99 @@
 <section-def-vars>
   <def-var n="number"/>
   <def-var n="genere"/>
+  <def-var n="verbfinal"/>
 </section-def-vars>
+
+<section-def-macros>
+
+  <def-macro n="conj_verb1" npar="1">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="temps"/>
+                <lit-tag v="pri"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="pers"/>
+                <lit-tag v="p3"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="pri"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <clip pos="1" side="tl" part="whole"/>
+          </let>            
+        </when>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="temps"/>
+                <lit-tag v="pri"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="temps"/>
+                <lit-tag v="prs"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="pres"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <concat>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </concat>
+          </let>            
+        </when>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="temps"/>
+                <lit-tag v="past"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="temps"/>
+                <lit-tag v="pss"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="past"/>
+          </let>
+          <let>
+            <var n="verbfinal"/>
+            <concat>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </concat>
+          </let>      
+        </when>
+      </choose>
+  </def-macro>
+
+</section-def-macros>
+
+
 
 <section-rules>
 <!-- Sintagmas nominales -->
@@ -121,21 +228,22 @@
 
   <rule>
      <pattern>
-       <pattern-item n="vblex"/>
+       <pattern-item n="verbcj"/>
      </pattern>
      <action>
+       <call-macro n="conj_verb1">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
-         <chunk name="verb" case="caseFirstWord">
+         <chunk name="verbcj" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="tns"/></tag>
-              <tag><clip pos="1" side="tl" part="prs"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_vrb"/>
-              <clip pos="1" side="tl" part="tns"/>
+              <var n="verbfinal"/>
             </lu>
           </chunk>
         </out>
@@ -165,7 +273,7 @@
       <when>
 	<test>
 	  <equal>
-            <clip pos="1" side="sl" part="prs"/>
+            <clip pos="1" side="sl" part="pers"/>
 	    <lit-tag v="p2"/>	    
 	  </equal>
 	</test>
@@ -179,14 +287,14 @@
        <chunk name="prn" case="caseFirstWord">
          <tags>
            <tag><lit-tag v="SN"/></tag>
-            <tag><clip pos="1" side="tl" part="prs"/></tag>
+            <tag><clip pos="1" side="tl" part="pers"/></tag>
             <tag><clip pos="1" side="tl" part="gen"/></tag>
             <tag><clip pos="1" side="tl" part="nbr"/></tag>
           </tags>
           <lu>
              <clip pos="1" side="tl" part="lem"/>
              <clip pos="1" side="tl" part="a_prn"/>
-             <clip pos="1" side="tl" part="prs"/>
+             <clip pos="1" side="tl" part="pers"/>
              <clip pos="1" side="tl" part="gen"/>
              <clip pos="1" side="tl" part="nbr"/>
           </lu>
