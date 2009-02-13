@@ -53446,6 +53446,10 @@
         <i>skin</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="skinny" i="">
+        <i>skin</i> 
+        <par n="happ/y__adj"/> 
+    </e>
                         <e lm="skirt" i="">
         <i>skirt</i> 
         <par n="house__n"/> 
