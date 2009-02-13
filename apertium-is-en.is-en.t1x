@@ -295,6 +295,10 @@
                <lit-tag v="def"/>
              </equal>
            </test>
+           <modify-case>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="aa"/>
+           </modify-case>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
