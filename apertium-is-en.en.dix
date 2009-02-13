@@ -12434,6 +12434,14 @@
                         <e lm="such" i=""><i>such</i><par n="other__det"/></e>
 
 
+    <e lm="Jörgína"><i>Jörgína</i><par n="Mary__np"/></e>
+    <e lm="Þóra"><i>Þóra</i><par n="Mary__np"/></e>
+    <e lm="Ýr"><i>Ýr</i><par n="Mary__np"/></e>
+    <e lm="Þórunn"><i>Þórunn</i><par n="Mary__np"/></e>
+    <e lm="Súsanna"><i>Súsanna</i><par n="Mary__np"/></e>
+    <e lm="Pála"><i>Pála</i><par n="Mary__np"/></e>
+    <e lm="Aþena"><i>Aþena</i><par n="Mary__np"/></e>
+
 	
 	                        <e lm="Aablina" i="">
         <i>Aablina</i> 
@@ -18963,6 +18971,81 @@
         <i>Zunilda</i> 
         <par n="Mary__np"/> 
     </e>
+
+
+
+    <e lm="Einir"><i>Einir</i><par n="Mark__np"/></e>
+    <e lm="Þórir"><i>Þórir</i><par n="Mark__np"/></e>
+    <e lm="Örvarr"><i>Örvarr</i><par n="Mark__np"/></e>
+    <e lm="Drengur"><i>Drengur</i><par n="Mark__np"/></e>
+    <e lm="Sigurður"><i>Sigurður</i><par n="Mark__np"/></e>
+    <e lm="Guðmundur"><i>Guðmundur</i><par n="Mark__np"/></e>
+    <e lm="Þórður"><i>Þórður</i><par n="Mark__np"/></e>
+    <e lm="Þorlákur"><i>Þorlákur</i><par n="Mark__np"/></e>
+    <e lm="Þormóður"><i>Þormóður</i><par n="Mark__np"/></e>
+    <e lm="Alrekur"><i>Alrekur</i><par n="Mark__np"/></e>
+    <e lm="Þórhallur"><i>Þórhallur</i><par n="Mark__np"/></e>
+    <e lm="Arngrímur"><i>Arngrímur</i><par n="Mark__np"/></e>
+    <e lm="Arnleifur"><i>Arnleifur</i><par n="Mark__np"/></e>
+    <e lm="Arnljótur"><i>Arnljótur</i><par n="Mark__np"/></e>
+    <e lm="Arnoddur"><i>Arnoddur</i><par n="Mark__np"/></e>
+    <e lm="Ásgautur"><i>Ásgautur</i><par n="Mark__np"/></e>
+    <e lm="Áslákur"><i>Áslákur</i><par n="Mark__np"/></e>
+    <e lm="Eldur"><i>Eldur</i><par n="Mark__np"/></e>
+    <e lm="Haukur"><i>Haukur</i><par n="Mark__np"/></e>
+    <e lm="Hlynur"><i>Hlynur</i><par n="Mark__np"/></e>
+    <e lm="Ljótur"><i>Ljótur</i><par n="Mark__np"/></e>
+    <e lm="Svanur"><i>Svanur</i><par n="Mark__np"/></e>
+    <e lm="Úlfur"><i>Úlfur</i><par n="Mark__np"/></e>
+    <e lm="Sandur"><i>Sandur</i><par n="Mark__np"/></e>
+    <e lm="Ólafur"><i>Ólafur</i><par n="Mark__np"/></e>
+    <e lm="Alfreð"><i>Alfreð</i><par n="Mark__np"/></e>
+    <e lm="Peter"><i>Peter</i><par n="Mark__np"/></e>
+    <e lm="Júlí"><i>Júlí</i><par n="Mark__np"/></e>
+    <e lm="Erik"><i>Erik</i><par n="Mark__np"/></e>
+    <e lm="Adrían"><i>Adrían</i><par n="Mark__np"/></e>
+    <e lm="Adríel"><i>Adríel</i><par n="Mark__np"/></e>
+    <e lm="Magnús"><i>Magnús</i><par n="Mark__np"/></e>
+    <e lm="Þór"><i>Þór</i><par n="Mark__np"/></e>
+    <e lm="Hermann"><i>Hermann</i><par n="Mark__np"/></e>
+    <e lm="Jón"><i>Jón</i><par n="Mark__np"/></e>
+    <e lm="Halldór"><i>Halldór</i><par n="Mark__np"/></e>
+    <e lm="Kristján"><i>Kristján</i><par n="Mark__np"/></e>
+    <e lm="Einar"><i>Einar</i><par n="Mark__np"/></e>
+    <e lm="Gunnar"><i>Gunnar</i><par n="Mark__np"/></e>
+    <e lm="Árni"><i>Árni</i><par n="Mark__np"/></e>
+    <e lm="Bjarni"><i>Bjarni</i><par n="Mark__np"/></e>
+    <e lm="Þorvaldur"><i>Þorvaldur</i><par n="Mark__np"/></e>
+    <e lm="Hafliði"><i>Hafliði</i><par n="Mark__np"/></e>
+    <e lm="Hildiþór"><i>Hildiþór</i><par n="Mark__np"/></e>
+    <e lm="Ásgrímur"><i>Ásgrímur</i><par n="Mark__np"/></e>
+    <e lm="Arnviður"><i>Arnviður</i><par n="Mark__np"/></e>
+    <e lm="Arthúr"><i>Arthúr</i><par n="Mark__np"/></e>
+    <e lm="Þorbrandur"><i>Þorbrandur</i><par n="Mark__np"/></e>
+    <e lm="Benoný"><i>Benoný</i><par n="Mark__np"/></e>
+    <e lm="Auðmundur"><i>Auðmundur</i><par n="Mark__np"/></e>
+    <e lm="Arngeir"><i>Arngeir</i><par n="Mark__np"/></e>
+    <e lm="Þorgeir"><i>Þorgeir</i><par n="Mark__np"/></e>
+    <e lm="Þorleikur"><i>Þorleikur</i><par n="Mark__np"/></e>
+    <e lm="Fabrisíus"><i>Fabrisíus</i><par n="Mark__np"/></e>
+    <e lm="Njáll"><i>Njáll</i><par n="Mark__np"/></e>
+    <e lm="Rúdólf"><i>Rúdólf</i><par n="Mark__np"/></e>
+    <e lm="Þjóðrekur"><i>Þjóðrekur</i><par n="Mark__np"/></e>
+    <e lm="Dagbjartur"><i>Dagbjartur</i><par n="Mark__np"/></e>
+    <e lm="Arnþór"><i>Arnþór</i><par n="Mark__np"/></e>
+    <e lm="Fróðmar"><i>Fróðmar</i><par n="Mark__np"/></e>
+    <e lm="Freymóður"><i>Freymóður</i><par n="Mark__np"/></e>
+    <e lm="Daniel"><i>Daniel</i><par n="Mark__np"/></e>
+    <e lm="Edward"><i>Edward</i><par n="Mark__np"/></e>
+    <e lm="Gustav"><i>Gustav</i><par n="Mark__np"/></e>
+    <e lm="Paul"><i>Paul</i><par n="Mark__np"/></e>
+    <e lm="David"><i>David</i><par n="Mark__np"/></e>
+    <e lm="Alan"><i>Alan</i><par n="Mark__np"/></e>
+    <e lm="Alfred"><i>Alfred</i><par n="Mark__np"/></e>
+    <e lm="Þorsteinn"><i>Þorsteinn</i><par n="Mark__np"/></e>
+    <e lm="Þórarinn"><i>Þórarinn</i><par n="Mark__np"/></e>
+
+
                         <e lm="Abel" i="">
         <i>Abel</i> 
         <par n="Mark__np"/> 

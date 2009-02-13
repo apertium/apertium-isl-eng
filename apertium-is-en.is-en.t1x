@@ -4,7 +4,10 @@
 <section-def-cats>
   <def-cat n="nom">
      <cat-item tags="n.*"/>
-     <cat-item tags="np.*"/>
+     <cat-item tags="np.al.*"/>
+  </def-cat>
+  <def-cat n="ant">
+     <cat-item tags="np.ant.*"/>
   </def-cat>
   <def-cat n="verbcj">
      <!-- When voice is not marked -->
@@ -361,6 +364,30 @@
        </choose>
      </action>
   </rule>
+
+  <rule>
+     <pattern>
+       <pattern-item n="ant"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="ant" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="gen" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
 
   <rule>
      <pattern>
