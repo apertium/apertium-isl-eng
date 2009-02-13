@@ -632,6 +632,10 @@
               <clip pos="1" side="sl" part="case"/>
               <lit-tag v="gen"/>
             </equal>
+            <equal>
+              <clip pos="1" side="sl" part="case"/>
+              <lit-tag v="dat"/>
+            </equal>
           </or>
         </test>
         <let>
