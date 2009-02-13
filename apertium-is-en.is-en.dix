@@ -34,6 +34,7 @@
     <sdef n="sent"/>
     <sdef n="adj"/>
     <sdef n="sint"/>
+    <sdef n="preadv"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -345,8 +346,8 @@
 
     <!-- Adverbs -->
 
-    <e><p><l>mjög<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
-    <e><p><l>virkilega<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
+    <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+    <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
