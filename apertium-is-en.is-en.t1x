@@ -131,6 +131,10 @@
      <attr-item tags="gen"/>
   </def-attr>
 
+  <def-attr n="degree">
+     <attr-item tags="comp"/>
+     <attr-item tags="sup"/>
+  </def-attr>
 </section-def-attrs>
 
 <section-def-vars>
@@ -357,6 +361,28 @@
        </choose>
      </action>
   </rule>
+
+  <rule>
+     <pattern>
+       <pattern-item n="adj"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="adj" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SA"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="degree"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
 
   <rule>
      <pattern>

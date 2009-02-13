@@ -61,12 +61,16 @@
 
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
   
   
     <!-- Pronouns -->
     <e><p><l>ég<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þú<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>hann<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>hún<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>við<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þið<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þeir<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
@@ -353,13 +357,16 @@
     <e><p><l>frjáls<s n="adj"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>stór<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>lítill<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sterkur<s n="adj"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
     
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
+    <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
     <e><p><l>vona<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
+
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="mid"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
