@@ -98,6 +98,7 @@
     <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
     <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
+    <e><p><l>jörð<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>
     
     
     <e><p><l>abbadís<s n="n"/><s n="f"/></l><r>abbess<s n="n"/></r></p></e>
@@ -361,10 +362,10 @@
     <e><p><l>rauður<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>flókinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
     <e><p><l>grannur<s n="adj"/></l><r>skinny<s n="adj"/></r></p></e>
-    <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/></r></p></e>
     <e><p><l>grár<s n="adj"/></l><r>grey<s n="adj"/></r></p></e>
 
     <e><p><l>frjáls<s n="adj"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>stór<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>lítill<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sterkur<s n="adj"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
