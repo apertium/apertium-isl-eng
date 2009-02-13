@@ -8,6 +8,11 @@
   </def-cat>
   <def-cat n="verbcj">
      <!-- When voice is not marked -->
+     <cat-item tags="vbser.pri.*"/>
+     <cat-item tags="vbser.prs.*"/>
+     <cat-item tags="vbser.past.*"/>
+     <cat-item tags="vbser.pss.*"/>
+
      <cat-item tags="vblex.pri.*"/>
      <cat-item tags="vblex.prs.*"/>
      <cat-item tags="vblex.past.*"/>
@@ -61,6 +66,7 @@
 
   <def-attr n="a_verb">
      <attr-item tags="vblex"/>
+     <attr-item tags="vbser"/>
   </def-attr>
 
   <def-attr n="a_prn">
@@ -137,7 +143,6 @@
 
   <def-macro n="conj_verb1" npar="1">
       <choose>
-<!-- THIS IS BROKEN
         <when>
           <test>
             <equal>
@@ -204,7 +209,7 @@
 
           </choose>
         </when>
--->
+
         <when> <!-- In the third person singular, present tense, we output all the tags -->
           <test>
             <and>
