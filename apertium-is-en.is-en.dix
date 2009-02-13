@@ -40,6 +40,24 @@
   <section id="main" type="standard">
     <!-- Prepositions -->
     <e><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>af<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
+    <e><p><l>andspænis<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
+    <e><p><l>án<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
+    <e><p><l>ásamt<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
+    <e><p><l>eftir<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
+    <e><p><l>frá<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
+    <e><p><l>fyrir<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+    <e><p><l>hjá<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>í<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>kringum<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
+    <e><p><l>meðal<s n="pr"/></l><r>amongst<s n="pr"/></r></p></e>
+    <e><p><l>meðfram<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
+    <e><p><l>með<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>milli<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>um<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>vegna<s n="pr"/></l><r>because<s n="pr"/></r></p></e>
+    <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
 
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
