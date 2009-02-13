@@ -47541,6 +47541,10 @@
         <i>m</i> 
         <par n="m/ouse__n"/> 
     </e>
+                        <e lm="owl" i="">
+        <i>owl</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="man" i="">
         <i>m</i> 
         <par n="m/an__n"/> 

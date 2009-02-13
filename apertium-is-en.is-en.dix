@@ -98,6 +98,8 @@
     <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
     <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
+    <e><p><l>ugla<s n="n"/><s n="f"/></l><r>owl<s n="n"/></r></p></e>
+    <e><p><l>mús<s n="n"/><s n="f"/></l><r>mouse<s n="n"/></r></p></e>
     <e><p><l>jörð<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>
     
     
@@ -381,6 +383,9 @@
     <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
     <e><p><l>vona<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
     <e><p><l>lesa<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
+    <e><p><l>fara<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>éta<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
+    <e><p><l>borða<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
 
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
@@ -392,6 +397,7 @@
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
 
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
