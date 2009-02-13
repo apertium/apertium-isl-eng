@@ -71151,6 +71151,10 @@
         <i/> 
         <par n="/good__adj"/> 
     </e>
+                        <e lm="complicated" i="">
+        <i>complicated</i> 
+        <par n="expensive__adj"/> 
+    </e>
                         <e lm="Afghan" i="">
         <i>Afghan</i> 
         <par n="expensive__adj"/> 
@@ -88720,6 +88724,10 @@
                         <e lm="in order to" i="">
       <i>in<b/>order<b/>to</i> 
       <par n="at__pr"/> 
+   </e>
+                        <e lm="in order to" i="">
+      <i>in<b/>order<b/>to</i> 
+      <par n="that__cnjsub"/> 
    </e>
 
 

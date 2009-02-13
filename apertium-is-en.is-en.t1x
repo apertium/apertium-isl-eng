@@ -11,6 +11,16 @@
   </def-cat>
   <def-cat n="verbcj">
      <!-- When voice is not marked -->
+     <cat-item tags="vaux.pri.*"/>
+     <cat-item tags="vaux.prs.*"/>
+     <cat-item tags="vaux.past.*"/>
+     <cat-item tags="vaux.pss.*"/>
+
+     <cat-item tags="vbhaver.pri.*"/>
+     <cat-item tags="vbhaver.prs.*"/>
+     <cat-item tags="vbhaver.past.*"/>
+     <cat-item tags="vbhaver.pss.*"/>
+
      <cat-item tags="vbser.pri.*"/>
      <cat-item tags="vbser.prs.*"/>
      <cat-item tags="vbser.past.*"/>
@@ -68,8 +78,10 @@
   </def-attr>
 
   <def-attr n="a_verb">
+     <attr-item tags="vaux"/>
      <attr-item tags="vblex"/>
      <attr-item tags="vbser"/>
+     <attr-item tags="vbhaver"/>
   </def-attr>
 
   <def-attr n="a_prn">
@@ -557,6 +569,98 @@
        </choose>
      </action>
   </rule>
+
+  <rule>
+     <pattern>
+       <pattern-item n="adj"/>
+       <pattern-item n="adj"/>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="4" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_adj_adj_adj_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="4" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="4" side="tl" part="nbr" link-to="2"/>
+               </lu>
+               <b/>
+              <lu>
+                 <get-case-from pos="4">
+                   <clip pos="1" side="tl" part="lem"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="3"/>
+               <lu>
+                 <clip pos="4" side="tl" part="lem"/>
+                 <clip pos="4" side="tl" part="a_nom"/>
+                 <clip pos="4" side="tl" part="nbr" link-to="2"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="adj_adj_adj_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lem"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="1"/>
+              <lu>
+                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="2"/>
+              <lu>
+                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="3"/>
+               <lu>
+                 <clip pos="4" side="tl" part="lem"/>
+                 <clip pos="4" side="tl" part="a_nom"/>
+                 <clip pos="4" side="tl" part="nbr" link-to="2"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
+  
   
   <rule>
      <pattern>

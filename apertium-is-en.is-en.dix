@@ -13,6 +13,8 @@
     <sdef n="pl"/>
     <sdef n="vblex"/>
     <sdef n="vbser"/>
+    <sdef n="vaux"/>
+    <sdef n="vbhaver"/>
     <sdef n="p1"/>
     <sdef n="p2"/>
     <sdef n="p3"/>
@@ -55,6 +57,7 @@
     <e><p><l>með<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>milli<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>um<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e><p><l>undir<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
     <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
@@ -64,6 +67,7 @@
 
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
   
   
     <!-- Pronouns -->
@@ -88,6 +92,8 @@
     <e><p><l>rúm<s n="n"/><s n="nt"/></l><r>bed<s n="n"/></r></p></e>
     <e><p><l>hundur<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
     <e><p><l>köttur<s n="n"/><s n="m"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>móðir<s n="n"/><s n="f"/></l><r>mother<s n="n"/></r></p></e>
+    <e><p><l>mamma<s n="n"/><s n="f"/></l><r>mum<s n="n"/></r></p></e>
     <e><p><l>systir<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
     <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
     <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
@@ -143,7 +149,6 @@
     <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/></r></p></e>
     <e><p><l>alur<s n="n"/><s n="m"/></l><r>awl<s n="n"/></r></p></e>
     <e><p><l>alvara<s n="n"/><s n="f"/></l><r>serious<s n="n"/></r></p></e>
-<!--    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>earnest<s n="n"/></r></p></e> -->
 <!--    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>seriousness<s n="n"/></r></p></e> -->
     <e><p><l>alviska<s n="n"/><s n="f"/></l><r>omniscience<s n="n"/></r></p></e> <!-- (capacity to know everything) -->
     <e><p><l>alþingi<s n="n"/><s n="nt"/></l><r>Althing<s n="n"/></r></p></e>
@@ -366,11 +371,15 @@
     
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
+    <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
+
+    <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
     <e><p><l>vona<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
+    <e><p><l>lesa<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
 
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
@@ -380,6 +389,8 @@
 
     <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
+
+    <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
