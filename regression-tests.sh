@@ -1,29 +1,45 @@
-LIST=`wget -O - -q http://wiki.apertium.org/wiki/Icelandic_and_English/Regression_tests | grep '<li>' | sed 's/<.*li>//g' | sed 's/ /_/g'`;
+#!/bin/bash
 
-#cp *.mode modes/
-basedir=`pwd`
+SRCLIST=`mktemp`;
+TRGLIST=`mktemp`;
+TSTLIST=`mktemp`;
 
-for LINE in $LIST; do
-	dir=`echo $LINE | cut -f2 -d'(' | cut -f1 -d')'`;
+basedir=`pwd`;
+mode=is-en
 
-	if [ $dir = "is" ]; then
-		mode="is-en";
-	elif [ $dir = "en" ]; then
-		mode="en-is";
-	else 
-		continue;
-	fi
+wget -O - -q http://wiki.apertium.org/wiki/Icelandic_and_English/Regression_tests | grep '<li>' | sed 's/<.*li>//g' | sed 's/ /_/g' | cut -f2 -d')' | sed 's/<i>//g' | sed 's/<\/i>//g' | cut -f2 -d'*' | sed 's/→/!/g' | cut -f1 -d'!' | sed 's/(note:/!/g' | sed 's/_/ /g' | sed 's/$/./g' > $SRCLIST;
+wget -O - -q http://wiki.apertium.org/wiki/Icelandic_and_English/Regression_tests | grep '<li>' | sed 's/<.*li>//g' | sed 's/ /_/g' | sed 's/(\w\w)//g' | sed 's/<i>//g' | cut -f2 -d'*' | sed 's/<\/i>_→/!/g' | cut -f2 -d'!' | sed 's/_/ /g' | sed 's/^ *//g' | sed 's/ *$//g' | sed 's/$/./g' > $TRGLIST;
 
+apertium -d . $mode < $SRCLIST > $TSTLIST;
+
+cat $SRCLIST | sed 's/\.$//g' > $SRCLIST.n; mv $SRCLIST.n $SRCLIST;
+cat $TRGLIST | sed 's/\.$//g' > $TRGLIST.n; mv $TRGLIST.n $TRGLIST;
+cat $TSTLIST | sed 's/\.$//g' | sed 's/\t/ /g' > $TSTLIST.n; mv $TSTLIST.n $TSTLIST;
+
+TOTAL=0
+CORRECT=0
+for LINE in `paste $SRCLIST $TRGLIST $TSTLIST | sed 's/ /%_%/g' | sed 's/\t/!/g'`; do
 #	echo $LINE;
-	SL=`echo $LINE | cut -f2 -d')' | sed 's/<i>//g' | sed 's/<\/i>//g' | cut -f2 -d'*' | sed 's/→/@/g' | cut -f1 -d'@' | sed 's/(note:/@/g' | sed 's/_/ /g'`;
-	TL=`echo $LINE | sed 's/(\w\w)//g' | sed 's/<i>//g' | cut -f2 -d'*' | sed 's/<\/i>_→/@/g' | cut -f2 -d'@' | sed 's/_/ /g' | sed 's/^ *//g' | sed 's/ *$//g'`;
+
+	SRC=`echo $LINE | sed 's/%_%/ /g' | cut -f1 -d'!' | sed 's/^ *//g' | sed 's/ *$//g'`;
+	TRG=`echo $LINE | sed 's/%_%/ /g' | cut -f2 -d'!' | sed 's/^ *//g' | sed 's/ *$//g'`;
+	TST=`echo $LINE | sed 's/%_%/ /g' | cut -f3 -d'!' | sed 's/^ *//g' | sed 's/ *$//g'`;
+
 	
-	TRANS=`echo $SL | apertium -d $basedir $mode | sed 's/^ *//g' | sed 's/ *$//g'`;
-
-	if [[ $TL != $TRANS ]]; then
-		echo -e $mode"\t "$SL"\n\t- $TL\n\t+ "$TRANS"\n";
+	if [[ $TRG != $TST ]]; then
+		echo -e $mode"\t  "$SRC"\n\t- $TRG\n\t+ "$TST"\n";
 	else
-		echo -e $mode"\t "$SL"\nWORKS\t  $TL\n";
+		echo -e $mode"\t  "$SRC"\nWORKS\t  $TST\n";
+		CORRECT=`expr $CORRECT + 1`;
 	fi
-
+	TOTAL=`expr $TOTAL + 1`;
 done
+
+echo $CORRECT" / "$TOTAL ;
+if [ -x /usr/bin/calc ]; then
+	WORKING=`calc $CORRECT" / "$TOTAL" * 100" | head -c 7`;
+
+	echo $WORKING"%";
+fi
+
+rm $SRCLIST $TRGLIST $TSTLIST;
