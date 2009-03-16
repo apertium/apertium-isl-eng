@@ -36,7 +36,7 @@
     <sdef n="mid"/>
     <sdef n="sent"/>
     <sdef n="adj"/>
-    <sdef n="sint"/>
+    <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
     <sdef n="preadv"/>
   </sdefs>
 
@@ -378,15 +378,16 @@
     <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
     <e><p><l>rauður<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>flókinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
-    <e><p><l>grannur<s n="adj"/></l><r>skinny<s n="adj"/></r></p></e>
-    <e><p><l>grár<s n="adj"/></l><r>grey<s n="adj"/></r></p></e>
+    <e><p><l>grannur<s n="adj"/></l><r>skinny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>grár<s n="adj"/></l><r>grey<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>blár<s n="adj"/></l><r>blue<s n="adj"/></r></p></e>
-    <e><p><l>íslenskur<s n="adj"/></l><r>Icelandic<s n="adj"/></r></p></e>
+    <e><p><l>íslenskur<s n="adj"/></l><r>Icelandic<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>frjáls<s n="adj"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>stór<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>lítill<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sterkur<s n="adj"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
     
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
@@ -403,7 +404,6 @@
     <e><p><l>borða<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>baka<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e>
     <e><p><l>búa<s n="vblex"/></l><r>live<s n="vblex"/></r></p></e>
-    <e><p><l>veikur<s n="vblex"/></l><r>sick<s n="vblex"/></r></p></e>
     
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
