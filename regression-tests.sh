@@ -18,7 +18,7 @@ cat $TSTLIST | sed 's/\.$//g' | sed 's/\t/ /g' > $TSTLIST.n; mv $TSTLIST.n $TSTL
 
 TOTAL=0
 CORRECT=0
-for LINE in `paste $SRCLIST $TRGLIST $TSTLIST | sed 's/ /%_%/g' | sed 's/\t/!/g'`; do
+for LINE in `paste -d'!' $SRCLIST $TRGLIST $TSTLIST | sed 's/ /%_%/g'`; do
 #	echo $LINE;
 
 	SRC=`echo $LINE | sed 's/%_%/ /g' | cut -f1 -d'!' | sed 's/^ *//g' | sed 's/ *$//g'`;
