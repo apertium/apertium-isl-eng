@@ -114,8 +114,10 @@
     <e><p><l>jörð<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>
     <e><p><l>vinna<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
     <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
+    <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
     
     
+    <!-- Nouns in alphabetical order from bla.xml after manual checking-->
     <e><p><l>abbadís<s n="n"/><s n="f"/></l><r>abbess<s n="n"/></r></p></e>
     <e><p><l>aborri<s n="n"/><s n="m"/></l><r>perch<s n="n"/></r></p></e> <!-- (genus Perca, esp. European perch, Perca fluviatilis) -->
     <e><p><l>adamsepli<s n="n"/><s n="nt"/></l><r>Adam's<b/>apple<s n="n"/></r></p></e>
@@ -286,11 +288,10 @@
 <!--    <e><p><l>aðstoð<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> -->
     <e><p><l>aðstoðarmaður<s n="n"/><s n="m"/></l><r>assistant<s n="n"/></r></p></e>
     <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstances<s n="n"/></r></p></e>
-    <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
+    <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
     
     <!-- Proper nouns -->
-
     <e><p><l>Einir<s n="np"/><s n="ant"/><s n="m"/></l><r>Einir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Þórir<s n="np"/><s n="ant"/><s n="m"/></l><r>Þórir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Örvarr<s n="np"/><s n="ant"/><s n="m"/></l><r>Örvarr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -379,9 +380,8 @@
     <e><p><l>flókinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
     <e><p><l>grannur<s n="adj"/></l><r>skinny<s n="adj"/></r></p></e>
     <e><p><l>grár<s n="adj"/></l><r>grey<s n="adj"/></r></p></e>
-
+    <e><p><l>blár<s n="adj"/></l><r>blue<s n="adj"/></r></p></e>
     <e><p><l>íslenskur<s n="adj"/></l><r>Icelandic<s n="adj"/></r></p></e>
-
     <e><p><l>frjáls<s n="adj"/></l><r>free<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>stór<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
@@ -391,7 +391,6 @@
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
-
     <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
@@ -404,16 +403,15 @@
     <e><p><l>borða<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>baka<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e>
     <e><p><l>búa<s n="vblex"/></l><r>live<s n="vblex"/></r></p></e>
-
+    <e><p><l>veikur<s n="vblex"/></l><r>sick<s n="vblex"/></r></p></e>
+    
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="mid"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
 
     <!-- Adverbs -->
-
     <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
-
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>

@@ -328,13 +328,13 @@
 <section-rules>
 <!-- Sintagmas nominales -->
 
-  <rule>
+  <rule><!-- rule for nouns -->
      <pattern>
        <pattern-item n="nom"/>
      </pattern>
      <action>
        <choose>
-         <when>
+         <when><!-- noun with definitive article -->
            <test>
              <equal>
                <clip pos="1" side="sl" part="a_art"/>
@@ -367,7 +367,7 @@
              </chunk>
            </out>
          </when>
-         <otherwise>
+         <otherwise><!-- noun without definitive article -->
            <out>
              <chunk name="nom" case="caseFirstWord">
                <tags>
@@ -384,7 +384,7 @@
          </otherwise>
        </choose>
      </action>
-  </rule>
+  </rule><!-- END rule for nouns -->
 
   <rule>
      <pattern>
@@ -410,7 +410,7 @@
   </rule>
 
 
-  <rule>
+  <rule><!-- rule for adjectives -->
      <pattern>
        <pattern-item n="adj"/>
      </pattern>
@@ -428,11 +428,11 @@
              </chunk>
            </out>
      </action>
-  </rule>
+  </rule><!-- END rule for adjectives -->
 
 
 
-  <rule>
+  <rule><!-- rule for 1 adjective + noun -->
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="nom"/>
@@ -497,9 +497,9 @@
          </otherwise>
        </choose>
      </action>
-  </rule>
+  </rule><!-- END rule for 1 adjective + noun -->
 
-  <rule>
+  <rule><!-- rule for 2 adjectives + noun -->
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="adj"/>
@@ -577,9 +577,9 @@
          </otherwise>
        </choose>
      </action>
-  </rule>
+  </rule><!-- END rule for 2 adjectives + noun -->
 
-  <rule>
+  <rule><!-- rule for 3 adjectives + noun -->
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="adj"/>
@@ -668,10 +668,10 @@
          </otherwise>
        </choose>
      </action>
-  </rule>
+  </rule><!-- END rule for 3 adjectives + noun -->
   
   
-  <rule>
+  <rule><!-- rule for adverb + adjective + noun -->
      <pattern>
        <pattern-item n="preadv"/>
        <pattern-item n="adj"/>
@@ -753,10 +753,10 @@
          </otherwise>
        </choose>
      </action>
-  </rule>
+  </rule><!-- END rule for adverb + adjective + noun -->
 
 
-<rule>
+<rule><!-- rule for personal pronoun -->
    <pattern>
      <pattern-item n="prnpers"/>
    </pattern>
@@ -837,7 +837,7 @@
        </chunk>
      </out>
    </action>
-</rule>
+</rule><!-- END rule for personal pronoun -->
 
 <rule>
    <pattern>
