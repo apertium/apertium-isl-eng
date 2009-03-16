@@ -1,5 +1,17 @@
 #!/bin/bash
 
+if [ -e /tmp/regression.src. ]; then
+	rm /tmp/regression.src.;
+fi
+
+if [ -e /tmp/regression.trg. ]; then
+	rm /tmp/regression.trg.;
+fi
+
+if [ -e /tmp/regression.tst. ]; then
+	rm /tmp/regression.tst.;
+fi
+
 SRCLIST=`mktemp /tmp/regression.src.`;
 TRGLIST=`mktemp /tmp/regression.trg.`;
 TSTLIST=`mktemp /tmp/regression.tst.`;
