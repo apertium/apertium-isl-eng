@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SRCLIST=`mktemp`;
-TRGLIST=`mktemp`;
-TSTLIST=`mktemp`;
+SRCLIST=`mktemp /tmp/regression.src.`;
+TRGLIST=`mktemp /tmp/regression.trg.`;
+TSTLIST=`mktemp /tmp/regression.tst.`;
 
 basedir=`pwd`;
 mode=is-en
