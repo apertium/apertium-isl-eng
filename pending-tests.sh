@@ -1,8 +1,9 @@
 #!/bin/bash
 
-SRCLIST=`mktemp`;
-TRGLIST=`mktemp`;
-TSTLIST=`mktemp`;
+
+SRCLIST=`mktemp /tmp/pending.src.`;
+TRGLIST=`mktemp /tmp/pending.trg.`;
+TSTLIST=`mktemp /tmp/pending.tst.`;
 
 basedir=`pwd`;
 mode=is-en
