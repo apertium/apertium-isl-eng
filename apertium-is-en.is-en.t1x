@@ -165,7 +165,6 @@
   <def-var n="number"/>
   <def-var n="genere"/>
   <def-var n="verbfinal"/>
-  <def-var n="pp"/>
 </section-def-vars>
 
 <section-def-macros>
@@ -888,10 +887,6 @@
             </lu>
           </chunk>
         </out>
-         <let>
-           <var n="pp"/>
-           <lit v="true"/>
-         </let>
      </action>
   </rule>
 </section-rules>

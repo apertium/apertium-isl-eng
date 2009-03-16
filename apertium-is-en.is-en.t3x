@@ -12,6 +12,9 @@
     <def-cat n="adj_nom">
       <cat-item name="adj_nom"/>
     </def-cat>
+    <def-cat n="verbcj">
+      <cat-item name="verbcj"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -163,6 +166,30 @@
              </let>
            </otherwise>
          </choose>
+       </action>
+     </rule>
+
+     <rule comment="CHUNK: verbcj"><!-- this was actually the rule for prep,
+                                    but we're not handling prepositions in t1x yet,
+                                    so we're doing this temporarily to get the
+                                    indefinite article to work-->
+       <pattern>
+         <pattern-item n="verbcj"/>
+       </pattern>
+       <action>
+         <out>
+           <lu>
+             <clip pos="1" part="whole"/>
+           </lu>
+         </out>
+         <let>
+           <var n="pp"/>
+           <lit v="true"/>
+         </let>
+         <let>
+           <var n="fullinf"/>
+           <lit v="false"/>
+         </let>
        </action>
      </rule>
 
