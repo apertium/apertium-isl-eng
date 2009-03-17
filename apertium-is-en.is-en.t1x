@@ -111,7 +111,7 @@
   
   <def-attr n="a_art">
      <attr-item tags="def"/>
-     <attr-item tags="indef"/>
+     <attr-item tags="ind"/>
   </def-attr>
 
   <def-attr n="voice">
@@ -500,7 +500,7 @@
                  <get-case-from pos="1">
                    <lit v="a"/>
                  </get-case-from>
-                 <lit-tag v="det.indef"/>
+                 <lit-tag v="det.ind"/>
                  <clip pos="2" side="tl" part="nbr" link-to="2"/>
                </lu>
                <b/>
