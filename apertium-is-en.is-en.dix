@@ -171,7 +171,7 @@
 <!--    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>seriousness<s n="n"/></r></p></e> -->
     <e><p><l>alviska<s n="n"/><s n="f"/></l><r>omniscience<s n="n"/></r></p></e> <!-- (capacity to know everything) -->
     <e><p><l>alþingi<s n="n"/><s n="nt"/></l><r>Althing<s n="n"/></r></p></e>
-    <e><p><l>alþingismaður<s n="n"/><s n="m"/></l><r>member<b/>of<b/>parliament<s n="n"/></r></p></e>
+    <e><p><l>alþingismaður<s n="n"/><s n="m"/></l><r>member<g><b/>of<b/>parliament</g><s n="n"/></r></p></e>
     <e><p><l>alþýðuflokkur<s n="n"/><s n="m"/></l><r>social<b/>democratic<b/>party<s n="n"/></r></p></e>
     <e><p><l>ameríkín<s n="n"/><s n="nt"/></l><r>americium<s n="n"/></r></p></e> <!-- (chemical element with atomic number 95) -->
     <e><p><l>amma<s n="n"/><s n="f"/></l><r>grandmother<s n="n"/></r></p></e>
