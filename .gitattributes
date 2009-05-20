@@ -24,4 +24,5 @@ dev/phrases-draft1.txt -text
 /pending-tests.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
+/todo.txt -text
 /tutorial.txt -text

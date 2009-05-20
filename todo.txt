@@ -1,0 +1,67 @@
+Hver er munurinn á þessum möppum?
+branches  incubator  tags  trunk
+---------------------------------
+
+echo "stóran hund" | ./icetaggerApertium.sh
+skilar:
+
+^stór<adj><pst><m><sg><acc><sta>$ ^hundur<n><m><sg><acc><ind>$
+
+Ofangreint gerir þá sama og Apertium pípan (en IceTagger ætti að vera nákvæmari):
+
+echo "stóran hund" | lt-proc is-en.automorf.bin | apertium-tagger -g is-en.prob
+
+sem skilar:
+
+^stór<adj><sta><pst><m><sg><acc>$ ^hundur<n><m><sg><acc><ind>$
+
+Munurinn er hvar <sta> markið er staðsett.
+
+Athuga þarf hvort is-en.prob líkanið hefur verið fengið með því að þjálfa apertium-tagger á Orðtíðnibók. 
+
+Á is-en.automorf.bin ekki að heita is.automorf.bin því þetta er morphological analysis fyrir íslensku bara.  Samsvarandi skrá fyrir ensku væri þá en.automorf.bin (eða en.autogen.bin)
+---------------------------------
+
+
+Næsta skref er þá að tengja útkomuna úr IceTagger
+við næsta módulinn í Apertium pipe-line, sem er væntanlega transfer-rules.
+
+Frá Fran:
+
+"If you look in the file "is-en.mode" in the apertium-is-en directory,
+you'll see each stage of the pipeline."
+
+Ég finn reyndar ekki þessar skrá hjá mér.  Ertu með hana hjá þér?
+Þetta er líklega modes.xml skráin.
+
+En allavega mætti hugsa sér eftirfarandi:
+
+echo "stóran hund" | lt-proc is-en.automorf.bin | apertium-tagger -g is-en.prob | apertium-transfer apertium-is-en.is-en.t1x is-en.t1x.bin is-en.autobil.bin
+
+(Af hverju þarf source skrána apertium-is-en.is-en.t1x hér? Ætti bin skráin ekki að duga?)
+
+sem skilar nú:
+
+^adj_nom<SN><sg>{^a<det><ind><2>$ ^big<adj><sint>$ ^dog<n><2>$}$
+
+
+Hvernig köllum við svo á morphological generation fyrir ensku. Svona?
+
+lt-proc en.autogen.bin
+
+En eitthvað vantar í pípunni áður en hægt er að kalla á morphological generation fyrir ensku.
+
+------------
+Til að þýða transfer rules:
+
+apertium-preprocess-transfer apertium-is-en.is-en.t1x is-en.t1x.bin
+
+þar sem apertium-is-en.is-en.t1x er source og is-en.t1x.bin hin þýdda skrá
+----------------
+
+Til að þýða bilingual dictionary:
+lt-comp lr apertium-is-en.is-en.dix is-en.autobil.bin
+lt-comp rl apertium-is-en.is-en.dix en-is.autobil.bin
+
+Ætti að vera hluta af skel sem Fran hefur búið til - athuga það.
+----------------
