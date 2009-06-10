@@ -12,7 +12,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin
+     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).mode
 
 ##
 ## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
@@ -87,8 +87,8 @@ apertium_is_en_DATA=$(PREFIX1).automorf.bin \
 	            $(PREFIX1).mode modes.xml
 		  
 install-data-local:
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	cp *.mode modes/
+	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_is_modesdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_is_endir)
