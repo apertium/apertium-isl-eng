@@ -19,6 +19,7 @@ dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
 dev/is-tags.mapping.txt -text
 dev/phrases-draft1.txt -text
+/icetaggerApertium.sh -text
 /is-en.prob -text
 /modes.xml -text
 /pending-tests.sh -text
