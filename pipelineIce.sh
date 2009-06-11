@@ -1,0 +1,1 @@
+echo "stór hundur" | ./icetaggerApertium.sh | apertium-pretransfer | apertium-transfer apertium-is-en.is-en.t1x  is-en.t1x.bin  is-en.autobil.bin  | apertium-interchunk apertium-is-en.is-en.t2x  is-en.t2x.bin

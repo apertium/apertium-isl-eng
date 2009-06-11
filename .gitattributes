@@ -23,6 +23,8 @@ dev/phrases-draft1.txt -text
 /is-en.prob -text
 /modes.xml -text
 /pending-tests.sh -text
+/pipeline.sh -text
+/pipelineIce.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
 /todo.txt -text
