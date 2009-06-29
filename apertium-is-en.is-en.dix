@@ -289,6 +289,362 @@
 <!--    <e><p><l>aðstoð<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> -->
     <e><p><l>aðstoðarmaður<s n="n"/><s n="m"/></l><r>assistant<s n="n"/></r></p></e>
     <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstances<s n="n"/></r></p></e>
+    <e><p><l>b<s n="n"/><s n="nt"/></l><r>b<s n="n"/></r></p></e>
+    <e><p><l>bak<s n="n"/><s n="nt"/></l><r>back<s n="n"/></r></p></e>
+    <e><p><l>baka<s n="n"/><s n="f"/></l><r>pie<s n="n"/></r></p></e>
+    <e><p><l>bakari<s n="n"/><s n="m"/></l><r>baker<s n="n"/></r></p></e>
+    <e><p><l>bakarí<s n="n"/><s n="nt"/></l><r>bakery<s n="n"/></r></p></e>
+<!--    <e><p><l>bakki<s n="n"/><s n="m"/></l><r>bank<s n="n"/></r></p></e> --> <!-- (edge of river or lake) -->
+    <e><p><l>bakki<s n="n"/><s n="m"/></l><r>tray<s n="n"/></r></p></e>
+    <e><p><l>bakpoki<s n="n"/><s n="m"/></l><r>backpack<s n="n"/></r></p></e>
+<!--     <e><p><l>bakpoki<s n="n"/><s n="m"/></l><r>rucksack<s n="n"/></r></p></e> -->
+<!--     <e><p><l>bakpoki<s n="n"/><s n="m"/></l><r>knapsack<s n="n"/></r></p></e> -->
+    <e><p><l>baktería<s n="n"/><s n="f"/></l><r>bacteria<s n="n"/></r></p></e>
+    <e><p><l>bakuggi<s n="n"/><s n="m"/></l><r>dorsal fin<s n="n"/></r></p></e>
+<!--     <e><p><l>baldur<s n="n"/><s n="m"/></l><r>baldr<s n="n"/></r></p></e> -->
+    <e><p><l>ball<s n="n"/><s n="nt"/></l><r>dance<s n="n"/></r></p></e>
+    <e><p><l>banabeð<s n="n"/><s n="nt"/></l><r>deathbed<s n="n"/></r></p></e>
+    <e><p><l>banani<s n="n"/><s n="m"/></l><r>banana<s n="n"/></r></p></e>
+<!--    <e><p><l>band<s n="n"/><s n="nt"/></l><r>binding<s n="n"/></r></p></e> --> <!-- (of a book) -->
+<!--    <e><p><l>band<s n="n"/><s n="nt"/></l><r>cord<s n="n"/></r></p></e> -->
+    <e><p><l>band<s n="n"/><s n="nt"/></l><r>string<s n="n"/></r></p></e>
+<!--    <e><p><l>band<s n="n"/><s n="nt"/></l><r>yarn<s n="n"/></r></p></e> -->
+    <e><p><l>bandamaður<s n="n"/><s n="m"/></l><r>ally<s n="n"/></r></p></e>
+<!--    <e><p><l>bang<s n="n"/><s n="m"/></l><r>banga<s n="n"/></r></p></e> -->
+<!--    <e><p><l>bang<s n="n"/><s n="m"/></l><r>pounding, hammering, banging<s n="n"/></r></p></e> -->
+    <e><p><l>bani<s n="n"/><s n="m"/></l><r>bane<s n="n"/></r></p></e>
+<!--    <e><p><l>bani<s n="n"/><s n="m"/></l><r>killer<s n="n"/></r></p></e> -->
+<!--    <e><p><l>bani<s n="n"/><s n="m"/></l><r>slayer<s n="n"/></r></p></e> -->
+    <e><p><l>bankaútibú<s n="n"/><s n="nt"/></l><r>bank<b/>branch<s n="n"/></r></p></e> <!-- (branch office of such an institution) -->
+    <e><p><l>banki<s n="n"/><s n="m"/></l><r>bank<s n="n"/></r></p></e>
+    <e><p><l>bann<s n="n"/><s n="nt"/></l><r>ban<s n="n"/></r></p></e>
+<!--    <e><p><l>bann<s n="n"/><s n="nt"/></l><r>prohibition<s n="n"/></r></p></e> -->
+    <e><p><l>barbari<s n="n"/><s n="m"/></l><r>barbarian<s n="n"/></r></p></e>
+<!--    <e><p><l>bardagi<s n="n"/><s n="m"/></l><r>battle<s n="n"/></r></p></e> -->
+<!--    <e><p><l>bardagi<s n="n"/><s n="m"/></l><r>brawl<s n="n"/></r></p></e> -->
+<!--    <e><p><l>bardagi<s n="n"/><s n="m"/></l><r>combat<s n="n"/></r></p></e> -->
+    <e><p><l>bardagi<s n="n"/><s n="m"/></l><r>fight<s n="n"/></r></p></e>
+    <e><p><l>barkakýli<s n="n"/><s n="nt"/></l><r>Adam's<b/>apple<s n="n"/></r></p></e>
+<!--    <e><p><l>barkakýli<s n="n"/><s n="nt"/></l><r>larynx<s n="n"/></r></p></e> -->
+    <e><p><l>barki<s n="n"/><s n="m"/></l><r>windpipe<s n="n"/></r></p></e>
+    <e><p><l>barmmerki<s n="n"/><s n="nt"/></l><r>button<s n="n"/></r></p></e> <!-- (a badge worn on clothes) -->
+    <e><p><l>barmur<s n="n"/><s n="m"/></l><r>bosom<s n="n"/></r></p></e>
+<!--    <e><p><l>barmur<s n="n"/><s n="m"/></l><r>rim<s n="n"/></r></p></e> -->
+    <e><p><l>barn<s n="n"/><s n="nt"/></l><r>child<s n="n"/></r></p></e>
+    <e><p><l>barnabarn<s n="n"/><s n="nt"/></l><r>grandchild<s n="n"/></r></p></e>
+    <e><p><l>barnaherbergi<s n="n"/><s n="nt"/></l><r>children's<b/>room<s n="n"/></r></p></e>
+<!--    <e><p><l>barnaherbergi<s n="n"/><s n="nt"/></l><r>nursery<s n="n"/></r></p></e> -->
+    <e><p><l>barnalæknir<s n="n"/><s n="m"/></l><r>pediatrician<s n="n"/></r></p></e>
+    <e><p><l>barrtré<s n="n"/><s n="nt"/></l><r>conifer<s n="n"/></r></p></e>
+    <e><p><l>bartar<s n="n"/><s n="m"/></l><r>sideburns<s n="n"/></r></p></e>
+<!--    <e><p><l>barátta<s n="n"/><s n="f"/></l><r>fight<s n="n"/></r></p></e> -->
+    <e><p><l>barátta<s n="n"/><s n="f"/></l><r>struggle<s n="n"/></r></p></e>
+    <e><p><l>barín<s n="n"/><s n="nt"/></l><r>barium<s n="n"/></r></p></e>
+    <e><p><l>barþjónn<s n="n"/><s n="m"/></l><r>bartender<s n="n"/></r></p></e>
+    <e><p><l>basalt<s n="n"/><s n="nt"/></l><r>basalt<s n="n"/></r></p></e>
+<!--    <e><p><l>bassaleikari<s n="n"/><s n="m"/></l><r>bassist<s n="n"/></r></p></e> -->
+    <e><p><l>bassaleikari<s n="n"/><s n="m"/></l><r>bass<b/>guitar<b/>player<s n="n"/></r></p></e>
+<!--    <e><p><l>bati<s n="n"/><s n="m"/></l><r>improvement<s n="n"/></r></p></e> -->
+    <e><p><l>bati<s n="n"/><s n="m"/></l><r>recovery<s n="n"/></r></p></e>
+<!--    <e><p><l>bati<s n="n"/><s n="m"/></l><r>convalescence<s n="n"/></r></p></e> -->
+<!--    <e><p><l>baugur<s n="n"/><s n="m"/></l><r>bracelet<s n="n"/></r></p></e> --> <!-- (of gold or silver) worn on the wrist -->
+    <e><p><l>baugur<s n="n"/><s n="m"/></l><r>ring<s n="n"/></r></p></e>
+<!--    <e><p><l>baun<s n="n"/><s n="f"/></l><r>bean<s n="n"/></r></p></e> -->
+    <e><p><l>baun<s n="n"/><s n="f"/></l><r>pea<s n="n"/></r></p></e>
+<!--    <e><p><l>baun<s n="n"/><s n="f"/></l><r>legume<s n="n"/></r></p></e> -->
+    <e><p><l>bavíani<s n="n"/><s n="m"/></l><r>baboon<s n="n"/></r></p></e> <!-- (primate) -->
+    <e><p><l>bað<s n="n"/><s n="nt"/></l><r>bath<s n="n"/></r></p></e>
+<!--    <e><p><l>bað<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e> -->
+    <e><p><l>baðherbergi<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
+    <e><p><l>baðkar<s n="n"/><s n="nt"/></l><r>bathtub<s n="n"/></r></p></e>
+    <e><p><l>beddi<s n="n"/><s n="m"/></l><r>cot<s n="n"/></r></p></e>
+    <e><p><l>bein<s n="n"/><s n="nt"/></l><r>bone<s n="n"/></r></p></e>
+<!--    <e><p><l>bein<s n="n"/><s n="nt"/></l><r>hafa bein í nefinu<s n="n"/></r></p></e>
+    <e><p><l>bein<s n="n"/><s n="nt"/></l><r>inn við beinið<s n="n"/></r></p></e>
+    <e><p><l>bein<s n="n"/><s n="nt"/></l><r>viðbein<s n="n"/></r></p></e> -->
+    <e><p><l>beisli<s n="n"/><s n="nt"/></l><r>bridle<s n="n"/></r></p></e>
+    <e><p><l>beita<s n="n"/><s n="f"/></l><r>bait<s n="n"/></r></p></e>
+    <e><p><l>beiðni<s n="n"/><s n="f"/></l><r>request<s n="n"/></r></p></e>
+    <e><p><l>bekkur<s n="n"/><s n="m"/></l><r>bench<s n="n"/></r></p></e>
+<!--    <e><p><l>bekkur<s n="n"/><s n="m"/></l><r>class<s n="n"/></r></p></e> --> <!-- (in school) -->
+    <e><p><l>belti<s n="n"/><s n="nt"/></l><r>belt<s n="n"/></r></p></e>
+    <e><p><l>benda<s n="n"/><s n="f"/></l><r>entanglement<s n="n"/></r></p></e> <!-- NB more often used as a verb -->
+<!--    <e><p><l>benda<s n="v"/><s n="f"/></l><r>beckon<s n="v"/></r></p></e> --> <!-- NB more often used as a verb -->
+<!--    <e><p><l>benda<s n="v"/><s n="f"/></l><r>point<s n="v"/></r></p></e> --> <!-- NB more often used as a verb -->
+<!--    <e><p><l>benda<s n="v"/><s n="f"/></l><r>show<s n="v"/></r></p></e> --> <!-- NB more often used as a verb -->
+    <e><p><l>bensín<s n="n"/><s n="nt"/></l><r>gasoline<s n="n"/></r></p></e>
+<!--    <e><p><l>bensín<s n="n"/><s n="nt"/></l><r>petrol<s n="n"/></r></p></e> -->
+    <e><p><l>bensínsala<s n="n"/><s n="f"/></l><r>gas<b/>sales<s n="n"/></r></p></e>
+    <e><p><l>bensínstöð<s n="n"/><s n="f"/></l><r>gas<b/>station<s n="n"/></r></p></e>
+    <e><p><l>berkelín<s n="n"/><s n="nt"/></l><r>berkelium<s n="n"/></r></p></e> <!-- (transuranic chemical element) -->
+    <e><p><l>berklar<s n="n"/><s n="m"/></l><r>tuberculosis<s n="n"/></r></p></e>
+    <e><p><l>beryllín<s n="n"/><s n="nt"/></l><r>beryllium<s n="n"/></r></p></e> <!-- (chemical element) -->
+    <e><p><l>beyging<s n="n"/><s n="f"/></l><r>declension<s n="n"/></r></p></e>
+    <e><p><l>beyging<s n="n"/><s n="f"/></l><r>inflection<s n="n"/></r></p></e> <!-- (a change in the form of a word that reflects a change in grammatical function) -->
+    <e><p><l>beygja<s n="n"/><s n="f"/></l><r>bend<s n="n"/></r></p></e>
+    <e><p><l>beyki<s n="n"/><s n="nt"/></l><r>beech<s n="n"/></r></p></e>
+<!--    <e><p><l>beykir<s n="n"/><s n="m"/></l><r>cooper<s n="n"/></r></p></e> --> <!-- not sure of this term in either language -->
+    <e><p><l>beykitré<s n="n"/><s n="nt"/></l><r>beech<s n="n"/></r></p></e>
+<!--    <e><p><l>biblía<s n="n"/><s n="f"/></l><r>Bible<s n="n"/></r></p></e> -->
+    <e><p><l>biblía<s n="n"/><s n="f"/></l><r>bible<s n="n"/></r></p></e>
+    <e><p><l>bifhjól<s n="n"/><s n="nt"/></l><r>motorcycle<s n="n"/></r></p></e>
+<!--    <e><p><l>bifhjól<s n="n"/><s n="nt"/></l><r>motorbike<s n="n"/></r></p></e> -->
+    <e><p><l>bifreið<s n="n"/><s n="f"/></l><r>automobile<s n="n"/></r></p></e>
+<!--    <e><p><l>bifreið<s n="n"/><s n="f"/></l><r>car<s n="n"/></r></p></e> -->
+<!--    <e><p><l>bikar<s n="n"/><s n="m"/></l><r>beaker<s n="n"/></r></p></e> -->
+<!--    <e><p><l>bikar<s n="n"/><s n="m"/></l><r>cup<s n="n"/></r></p></e> -->
+    <e><p><l>bikar<s n="n"/><s n="m"/></l><r>trophy<s n="n"/></r></p></e>
+<!--    <e><p><l>bil<s n="n"/><s n="nt"/></l><r>moment <s n="n"/></r></p></e> -->
+    <e><p><l>bil<s n="n"/><s n="nt"/></l><r>space<s n="n"/></r></p></e>
+    <e><p><l>bilun<s n="n"/><s n="f"/></l><r>breakdown<s n="n"/></r></p></e> <!-- (of a car etc.) -->
+<!--    <e><p><l>bilun<s n="n"/><s n="f"/></l><r>madness<s n="n"/></r></p></e> -->
+<!--    <e><p><l>birta<s n="n"/><s n="f"/></l><r>brightness<s n="n"/></r></p></e> -->
+    <e><p><l>birta<s n="n"/><s n="f"/></l><r>light<s n="n"/></r></p></e>
+    <e><p><l>biskup<s n="n"/><s n="m"/></l><r>bishop<s n="n"/></r></p></e>
+    <e><p><l>bismút<s n="n"/><s n="nt"/></l><r>bismuth<s n="n"/></r></p></e>
+    <e><p><l>biti<s n="n"/><s n="m"/></l><r>bite<s n="n"/></r></p></e>
+    <e><p><l>biðstöð<s n="n"/><s n="f"/></l><r>bus<b/>stop<s n="n"/></r></p></e>
+    <e><p><l>bjalla<s n="n"/><s n="f"/></l><r>bell<s n="n"/></r></p></e>
+<!--    <e><p><l>bjór<s n="n"/><s n="m"/></l><r>beaver<s n="n"/></r></p></e> -->
+    <e><p><l>bjór<s n="n"/><s n="m"/></l><r>beer<s n="n"/></r></p></e>
+    <e><p><l>bjórvömb<s n="n"/><s n="f"/></l><r>beer<b/>belly<s n="n"/></r></p></e>
+<!--    <e><p><l>björg<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> -->
+    <e><p><l>björg<s n="n"/><s n="f"/></l><r>rescue<s n="n"/></r></p></e>
+<!--    <e><p><l>björg<s n="n"/><s n="f"/></l><r>provisions<s n="n"/></r></p></e> -->
+    <!--<e><p><l>björk<s n="n"/><s n="f"/></l><r>birch<b/>tree<s n="n"/></r></p></e>-->
+    <e><p><l>björk<s n="n"/><s n="f"/></l><r>birch<s n="n"/></r></p></e>
+    <e><p><l>björn<s n="n"/><s n="m"/></l><r>bear<s n="n"/></r></p></e>
+    <e><p><l>bjúga<s n="n"/><s n="nt"/></l><r>sausage<s n="n"/></r></p></e> <!-- (usually refers to a thick type of Icelandic sausage, made from lamb and/or horsemeat, sometimes mixed with pork) -->
+    <e><p><l>bjúgur<s n="n"/><s n="m"/></l><r>edema<s n="n"/></r></p></e>
+<!--    <e><p><l>bjúgur<s n="n"/><s n="m"/></l><r>oedema<s n="n"/></r></p></e> --> <!-- British English spelling -->
+    <e><p><l>blak<s n="n"/><s n="nt"/></l><r>volleyball<s n="n"/></r></p></e>
+    <e><p><l>bland<s n="n"/><s n="nt"/></l><r>mix<s n="n"/></r></p></e>
+    <e><p><l>blanda<s n="n"/><s n="f"/></l><r>mixture<s n="n"/></r></p></e>
+    <!--<e><p><l>blað<s n="n"/><s n="nt"/></l><r>blade<s n="n"/></r></p></e> --> <!-- (of a knife or sword) -->
+    <!--<e><p><l>blað<s n="n"/><s n="nt"/></l><r>blade<b/>of<b/>grass<s n="n"/></r></p></e> --> <!-- (of grass) -->
+    <!--<e><p><l>blað<s n="n"/><s n="nt"/></l><r>leaf<s n="n"/></r></p></e>-->
+    <!--<e><p><l>blað<s n="n"/><s n="nt"/></l><r>newspaper<s n="n"/></r></p></e>-->
+    <!--<e><p><l>blað<s n="n"/><s n="nt"/></l><r>magazine<s n="n"/></r></p></e>-->
+    <e><p><l>blað<s n="n"/><s n="nt"/></l><r>paper<s n="n"/></r></p></e>
+    <!--<e><p><l>blað<s n="n"/><s n="nt"/></l><r>sheet<b/>of<b/>paper<s n="n"/></r></p></e> --> <!-- (of paper) -->
+    <e><p><l>blaðamaður<s n="n"/><s n="m"/></l><r>reporter<s n="n"/></r></p></e>
+    <!--<e><p><l>blaðamaður<s n="n"/><s n="m"/></l><r>journalist<s n="n"/></r></p></e>-->
+    <e><p><l>blaðra<s n="n"/><s n="f"/></l><r>balloon<s n="n"/></r></p></e>
+    <e><p><l>blaðsíða<s n="n"/><s n="f"/></l><r>page<s n="n"/></r></p></e>
+    <e><p><l>blek<s n="n"/><s n="nt"/></l><r>ink<s n="n"/></r></p></e>
+    <e><p><l>blekpenni<s n="n"/><s n="m"/></l><r>fountain<b/>pen<s n="n"/></r></p></e>
+    <e><p><l>blettatígur<s n="n"/><s n="m"/></l><r>cheetah<s n="n"/></r></p></e>
+    <!--<e><p><l>blettur<s n="n"/><s n="m"/></l><r>blot<s n="n"/></r></p></e>-->
+    <!--<e><p><l>blettur<s n="n"/><s n="m"/></l><r>patch<s n="n"/></r></p></e>-->
+    <e><p><l>blettur<s n="n"/><s n="m"/></l><r>stain<s n="n"/></r></p></e>
+    <e><p><l>blinda<s n="n"/><s n="f"/></l><r>blindness<s n="n"/></r></p></e>
+    <e><p><l>blokkflauta<s n="n"/><s n="f"/></l><r>recorder<s n="n"/></r></p></e> <!-- (musical instrument) -->
+    <e><p><l>blysbjalla<s n="n"/><s n="f"/></l><r>firefly<s n="n"/></r></p></e>
+    <!--<e><p><l>blása<s n="n"/><s n="f"/></l><r>blow<s n="n"/></r></p></e>--> <!-- verb-->
+    <e><p><l>blástur<s n="n"/><s n="m"/></l><r>breeze<s n="n"/></r></p></e> <!-- (windstrength 4) -->
+    <e><p><l>blásturshljóðfæri<s n="n"/><s n="nt"/></l><r>wind<b/>instrument<s n="n"/></r></p></e>
+    <e><p><l>blæjuber<s n="n"/><s n="nt"/></l><r>cape<b/>gooseberry<s n="n"/></r></p></e> <!-- (fruit of Physalis peruviana) -->
+    <e><p><l>blæðing<s n="n"/><s n="f"/></l><r>bleeding<s n="n"/></r></p></e>
+    <!--<e><p><l>blæðing<s n="n"/><s n="f"/></l><r>hemorrhage<s n="n"/></r></p></e>-->
+    <!--<e><p><l>blæðing<s n="n"/><s n="f"/></l><r>haemorrhage<s n="n"/></r></p></e> --> <!-- British English spelling -->
+    <e><p><l>blístra<s n="n"/><s n="f"/></l><r>whistle<s n="n"/></r></p></e>
+    <e><p><l>blíða<s n="n"/><s n="f"/></l><r>good<b/>weather<s n="n"/></r></p></e>
+    <!--<e><p><l>blíða<s n="n"/><s n="f"/></l><r>sex<s n="n"/></r></p></e>-->
+    <e><p><l>blóm<s n="n"/><s n="nt"/></l><r>flower<s n="n"/></r></p></e>
+    <e><p><l>blóraböggull<s n="n"/><s n="m"/></l><r>scapegoat<s n="n"/></r></p></e>
+    <e><p><l>blóð<s n="n"/><s n="nt"/></l><r>blood<s n="n"/></r></p></e>
+    <e><p><l>blóðbað<s n="n"/><s n="nt"/></l><r>bloodbath<s n="n"/></r></p></e>
+    <e><p><l>blóðflaga<s n="n"/><s n="f"/></l><r>platelet<s n="n"/></r></p></e>
+    <!--<e><p><l>blóðflaga<s n="n"/><s n="f"/></l><r>thrombocyte<s n="n"/></r></p></e>-->
+    <e><p><l>blóðnasir<s n="n"/><s n="f"/></l><r>bloody<b/>nose<s n="n"/></r></p></e>
+    <!--<e><p><l>blóðnasir<s n="n"/><s n="f"/></l><r>nosebleed<s n="n"/></r></p></e>-->
+    <e><p><l>blóðvökvi<s n="n"/><s n="m"/></l><r>blood<b/>plasma<s n="n"/></r></p></e>
+    <e><p><l>blússa<s n="n"/><s n="f"/></l><r>blouse<s n="n"/></r></p></e>
+    <e><p><l>blý<s n="n"/><s n="nt"/></l><r>lead<s n="n"/></r></p></e> <!-- (chemical element) -->
+    <e><p><l>blýantur<s n="n"/><s n="m"/></l><r>pencil<s n="n"/></r></p></e>
+    <e><p><l>bogi<s n="n"/><s n="m"/></l><r>arch<s n="n"/></r></p></e>
+    <!--<e><p><l>bogi<s n="n"/><s n="m"/></l><r>bow<s n="n"/></r></p></e>-->
+    <e><p><l>bolli<s n="n"/><s n="m"/></l><r>cup<s n="n"/></r></p></e>
+    <e><p><l>bolti<s n="n"/><s n="m"/></l><r>ball<s n="n"/></r></p></e>
+    <e><p><l>bor<s n="n"/><s n="m"/></l><r>drill<s n="n"/></r></p></e>
+    <e><p><l>borg<s n="n"/><s n="f"/></l><r>city<s n="n"/></r></p></e>
+    <!--<e><p><l>borg<s n="n"/><s n="f"/></l><r>town<s n="n"/></r></p></e>-->
+    <e><p><l>borgarastríð<s n="n"/><s n="nt"/></l><r>civil<b/>war<s n="n"/></r></p></e>
+    <e><p><l>borgari<s n="n"/><s n="m"/></l><r>citizen<s n="n"/></r></p></e>
+    <e><p><l>borgarstjóri<s n="n"/><s n="m"/></l><r>mayor<s n="n"/></r></p></e>
+    <e><p><l>borð<s n="n"/><s n="nt"/></l><r>table<s n="n"/></r></p></e>
+    <e><p><l>borðtölva<s n="n"/><s n="f"/></l><r>desktop<b/>computer<s n="n"/></r></p></e>
+    <e><p><l>botn<s n="n"/><s n="m"/></l><r>bottom<s n="n"/></r></p></e>
+    <e><p><l>boð<s n="n"/><s n="nt"/></l><r>invitation<s n="n"/></r></p></e>
+    <!--<e><p><l>boð<s n="n"/><s n="nt"/></l><r>offer<s n="n"/></r></p></e>-->
+    <!--<e><p><l>boð<s n="n"/><s n="nt"/></l><r>party<s n="n"/></r></p></e>-->
+    <e><p><l>boðháttur<s n="n"/><s n="m"/></l><r>imperative<b/>mood<s n="n"/></r></p></e>
+    <e><p><l>boðskapur<s n="n"/><s n="m"/></l><r>message<s n="n"/></r></p></e>
+    <!--<e><p><l>boðskapur<s n="n"/><s n="m"/></l><r>tidings<s n="n"/></r></p></e>-->
+    <e><p><l>bragð<s n="n"/><s n="nt"/></l><r>taste<s n="n"/></r></p></e>
+    <!--<e><p><l>bragð<s n="n"/><s n="nt"/></l><r>hold<s n="n"/></r></p></e>--> <!-- in wrestling-->
+    <!--<e><p><l>bragð<s n="n"/><s n="nt"/></l><r>trick<s n="n"/></r></p></e>-->
+    <e><p><l>brandari<s n="n"/><s n="m"/></l><r>joke<s n="n"/></r></p></e>
+    <e><p><l>braut<s n="n"/><s n="f"/></l><r>path<s n="n"/></r></p></e>
+    <!--<e><p><l>braut<s n="n"/><s n="f"/></l><r>road<s n="n"/></r></p></e>-->
+    <!--<e><p><l>braut<s n="n"/><s n="f"/></l><r>track<s n="n"/></r></p></e>-->
+    <!--<e><p><l>brauð<s n="n"/><s n="nt"/></l><r>church<b/>living<s n="n"/></r></p></e>-->
+    <e><p><l>brauð<s n="n"/><s n="nt"/></l><r>bread<s n="n"/></r></p></e>
+    <e><p><l>brauðmylsna<s n="n"/><s n="f"/></l><r>breadcrumb<s n="n"/></r></p></e>
+    <e><p><l>brauðrist<s n="n"/><s n="f"/></l><r>toaster<s n="n"/></r></p></e>
+    <!--<e><p><l>breidd<s n="n"/><s n="f"/></l><r>breadth<s n="n"/></r></p></e>-->
+    <e><p><l>breidd<s n="n"/><s n="f"/></l><r>width<s n="n"/></r></p></e>
+    <e><p><l>breiðnefur<s n="n"/><s n="m"/></l><r>platypus<s n="n"/></r></p></e>
+    <e><p><l>breiðskífa<s n="n"/><s n="f"/></l><r>lp<b/>album<s n="n"/></r></p></e>
+    <e><p><l>brella<s n="n"/><s n="f"/></l><r>trick<s n="n"/></r></p></e>
+    <e><p><l>brenna<s n="n"/><s n="f"/></l><r>bonfire<s n="n"/></r></p></e>
+    <!--<e><p><l>brennisteinn<s n="n"/><s n="m"/></l><r>brimstone<s n="n"/></r></p></e>-->
+    <e><p><l>brennisteinn<s n="n"/><s n="m"/></l><r>sulfur<s n="n"/></r></p></e>
+    <!--<e><p><l>brennisteinn<s n="n"/><s n="m"/></l><r>sulphur<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <!--<e><p><l>brennivín<s n="n"/><s n="nt"/></l><r>Brennivín<s n="n"/></r></p></e> --> <!-- an Icelandic hard liqour -->
+    <e><p><l>brennivín<s n="n"/><s n="nt"/></l><r>liquor<s n="n"/></r></p></e>
+    <e><p><l>breska<s n="n"/><s n="f"/></l><r>British<s n="n"/></r></p></e>
+    <!--<e><p><l>breyta<s n="n"/><s n="f"/></l><r>change, alter<s n="n"/></r></p></e> --> <!-- verb -->
+    <e><p><l>breyta<s n="n"/><s n="f"/></l><r>variable<s n="n"/></r></p></e>
+    <!--<e><p><l>breyting<s n="n"/><s n="f"/></l><r>alteration<s n="n"/></r></p></e>-->
+    <e><p><l>breyting<s n="n"/><s n="f"/></l><r>change<s n="n"/></r></p></e>
+    <!--<e><p><l>breytni<s n="n"/><s n="f"/></l><r>conduct<s n="n"/></r></p></e>-->
+    <e><p><l>breytni<s n="n"/><s n="f"/></l><r>behavior<s n="n"/></r></p></e>
+    <e><p><l>bridds<s n="n"/><s n="nt"/></l><r>bridge<s n="n"/></r></p></e> <!-- (card game) -->
+    <e><p><l>bringa<s n="n"/><s n="f"/></l><r>chest<s n="n"/></r></p></e>
+    <e><p><l>bringubein<s n="n"/><s n="nt"/></l><r>breastbone<s n="n"/></r></p></e>
+    <!--<e><p><l>bringubein<s n="n"/><s n="nt"/></l><r>sternum<s n="n"/></r></p></e>-->
+    <e><p><l>brjóst<s n="n"/><s n="nt"/></l><r>breast <s n="n"/></r></p></e>
+    <e><p><l>brjóstamjólk<s n="n"/><s n="f"/></l><r>breast<b/>milk<s n="n"/></r></p></e>
+    <e><p><l>brjóstsviði<s n="n"/><s n="m"/></l><r>heartburn<s n="n"/></r></p></e>
+    <e><p><l>broddgöltur<s n="n"/><s n="m"/></l><r>hedgehog<s n="n"/></r></p></e>
+    <e><p><l>brokk<s n="n"/><s n="nt"/></l><r>trot<s n="n"/></r></p></e>
+    <e><p><l>bros<s n="n"/><s n="nt"/></l><r>smile<s n="n"/></r></p></e>
+    <e><p><l>brot<s n="n"/><s n="nt"/></l><r>break<s n="n"/></r></p></e>
+    <!--<e><p><l>brot<s n="n"/><s n="nt"/></l><r>common<b/>fractions<s n="n"/></r></p></e>-->
+    <e><p><l>brottför<s n="n"/><s n="f"/></l><r>departure<s n="n"/></r></p></e>
+    <e><p><l>brunahani<s n="n"/><s n="m"/></l><r>fire<b/>hydrant<s n="n"/></r></p></e>
+    <!--<e><p><l>bruni<s n="n"/><s n="m"/></l><r>combustion<s n="n"/></r></p></e>-->
+    <e><p><l>bruni<s n="n"/><s n="m"/></l><r>fire<s n="n"/></r></p></e>
+    <e><p><l>bryggja<s n="n"/><s n="f"/></l><r>pier<s n="n"/></r></p></e>
+    <e><p><l>brynja<s n="n"/><s n="f"/></l><r>armor<s n="n"/></r></p></e> <!-- (armour) -->
+    <e><p><l>brá<s n="n"/><s n="f"/></l><r>eyelash<s n="n"/></r></p></e>
+    <!--<e><p><l>bráð<s n="n"/><s n="f"/></l><r>game<s n="n"/></r></p></e>-->
+    <e><p><l>bráð<s n="n"/><s n="f"/></l><r>wild<b/>animal<s n="n"/></r></p></e>
+    <e><p><l>bræðslumark<s n="n"/><s n="nt"/></l><r>melting<b/>point<s n="n"/></r></p></e>
+    <e><p><l>bréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e> <!-- (mail) -->
+    <e><p><l>brók<s n="n"/><s n="f"/></l><r>drawers<s n="n"/></r></p></e>
+    <!--<e><p><l>brók<s n="n"/><s n="f"/></l><r>pants<s n="n"/></r></p></e>-->
+    <e><p><l>bróm<s n="n"/><s n="nt"/></l><r>bromine<s n="n"/></r></p></e>
+    <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
+    <e><p><l>brú<s n="n"/><s n="f"/></l><r>bridge<s n="n"/></r></p></e>
+    <!--<e><p><l>brún<s n="n"/><s n="f"/></l><r>brow<s n="n"/></r></p></e>-->
+    <e><p><l>brún<s n="n"/><s n="f"/></l><r>rim<s n="n"/></r></p></e>
+    <e><p><l>brúða<s n="n"/><s n="f"/></l><r>doll<s n="n"/></r></p></e>
+    <e><p><l>brúðgumi<s n="n"/><s n="m"/></l><r>bridegroom<s n="n"/></r></p></e>
+    <e><p><l>brúðkaup<s n="n"/><s n="nt"/></l><r>wedding<s n="n"/></r></p></e>
+    <e><p><l>brúður<s n="n"/><s n="f"/></l><r>bride<s n="n"/></r></p></e>
+    <e><p><l>brúður<s n="n"/><s n="f"/></l><r>doll<s n="n"/></r></p></e>
+    <e><p><l>budda<s n="n"/><s n="f"/></l><r>purse<s n="n"/></r></p></e>
+    <e><p><l>bugur<s n="n"/><s n="m"/></l><r>brend<s n="n"/></r></p></e>
+    <!--<e><p><l>bugur<s n="n"/><s n="m"/></l><r>loop<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bugur<s n="n"/><s n="m"/></l><r>turn<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bull<s n="n"/><s n="nt"/></l><r>gibberish<s n="n"/></r></p></e>-->
+    <e><p><l>bull<s n="n"/><s n="nt"/></l><r>nonsense<s n="n"/></r></p></e>
+    <e><p><l>burkni<s n="n"/><s n="m"/></l><r>fern<s n="n"/></r></p></e>
+    <e><p><l>burður<s n="n"/><s n="m"/></l><r>birth<s n="n"/></r></p></e>
+    <e><p><l>buxur<s n="n"/><s n="nt"/></l><r>pants<s n="n"/></r></p></e>
+    <!--<e><p><l>buxur<s n="n"/><s n="nt"/></l><r>trousers<s n="n"/></r></p></e>-->
+    <e><p><l>bygg<s n="n"/><s n="nt"/></l><r>barley<s n="n"/></r></p></e> <!-- (Hordeum) -->
+    <e><p><l>bygging<s n="n"/><s n="f"/></l><r>building<s n="n"/></r></p></e>
+    <!--<e><p><l>bygging<s n="n"/><s n="f"/></l><r>construction<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bygging<s n="n"/><s n="f"/></l><r>edifice<s n="n"/></r></p></e>-->
+    <!--<e><p><l>byggð<s n="n"/><s n="f"/></l><r>habitation<s n="n"/></r></p></e>-->
+    <e><p><l>byggð<s n="n"/><s n="f"/></l><r>settlement<s n="n"/></r></p></e>
+    <!--<e><p><l>bylgja<s n="n"/><s n="f"/></l><r>billow<s n="n"/></r></p></e>-->
+    <e><p><l>bylgja<s n="n"/><s n="f"/></l><r>wave<s n="n"/></r></p></e>
+    <e><p><l>bylgjulengd<s n="n"/><s n="f"/></l><r>wavelength<s n="n"/></r></p></e>
+    <e><p><l>bylting<s n="n"/><s n="f"/></l><r>revolution<s n="n"/></r></p></e>
+    <!--<e><p><l>byrjun<s n="n"/><s n="f"/></l><r>outset<s n="n"/></r></p></e>-->
+    <e><p><l>byrjun<s n="n"/><s n="f"/></l><r>beginning<s n="n"/></r></p></e>
+    <!--<e><p><l>byssa<s n="n"/><s n="f"/></l><r>firearm<s n="n"/></r></p></e>-->
+    <e><p><l>byssa<s n="n"/><s n="f"/></l><r>gun<s n="n"/></r></p></e>
+    <!--<e><p><l>bytta<s n="n"/><s n="f"/></l><r>pail<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bytta<s n="n"/><s n="f"/></l><r>tub<s n="n"/></r></p></e>-->
+    <e><p><l>bytta<s n="n"/><s n="f"/></l><r>drunk<s n="n"/></r></p></e>
+    <e><p><l>bál<s n="n"/><s n="nt"/></l><r>fire<s n="n"/></r></p></e>
+    <e><p><l>básúna<s n="n"/><s n="f"/></l><r>trombone<s n="n"/></r></p></e>
+    <e><p><l>bátsferð<s n="n"/><s n="f"/></l><r>boat<b/>trip<s n="n"/></r></p></e>
+    <e><p><l>bátur<s n="n"/><s n="m"/></l><r>boat<s n="n"/></r></p></e>
+    <e><p><l>bæjarstjóri<s n="n"/><s n="m"/></l><r>mayor<s n="n"/></r></p></e>
+    <e><p><l>bæklingur<s n="n"/><s n="m"/></l><r>brochure<s n="n"/></r></p></e>
+    <!--<e><p><l>bæklingur<s n="n"/><s n="m"/></l><r>leaflet<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bæklingur<s n="n"/><s n="m"/></l><r>pamphlet<s n="n"/></r></p></e>-->
+    <e><p><l>bæn<s n="n"/><s n="f"/></l><r>prayer<s n="n"/></r></p></e>
+    <!--<e><p><l>bær<s n="n"/><s n="m"/></l><r>farm<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bær<s n="n"/><s n="m"/></l><r>farmstead<s n="n"/></r></p></e>-->
+    <e><p><l>bær<s n="n"/><s n="m"/></l><r>town<s n="n"/></r></p></e>
+    <!--<e><p><l>bær<s n="n"/><s n="m"/></l><r>village<s n="n"/></r></p></e>-->
+    <e><p><l>bæti<s n="n"/><s n="nt"/></l><r>byte<s n="n"/></r></p></e>
+    <e><p><l>bílaleiga<s n="n"/><s n="f"/></l><r>car<b/>rental<s n="n"/></r></p></e>
+    <e><p><l>bílaverkstæði<s n="n"/><s n="nt"/></l><r>car<b/>repair<b/>shop<s n="n"/></r></p></e>
+    <!--<e><p><l>bílaverkstæði<s n="n"/><s n="nt"/></l><r>garage<s n="n"/></r></p></e>-->
+    <e><p><l>bíldrusla<s n="n"/><s n="f"/></l><r>jalopy<s n="n"/></r></p></e> <!-- (an old and decrepit car) -->
+    <!--<e><p><l>bíll<s n="n"/><s n="m"/></l><r>automobile<s n="n"/></r></p></e>-->
+    <e><p><l>bíll<s n="n"/><s n="m"/></l><r>car<s n="n"/></r></p></e>
+    <e><p><l>bílskúr<s n="n"/><s n="m"/></l><r>garage<s n="n"/></r></p></e> <!-- (for storing a car, etc.) -->
+    <e><p><l>bílstjóri<s n="n"/><s n="m"/></l><r>driver<s n="n"/></r></p></e>
+    <!--<e><p><l>bíó<s n="n"/><s n="nt"/></l><r>cinema<s n="n"/></r></p></e>-->
+    <e><p><l>bíó<s n="n"/><s n="nt"/></l><r>movie<b/>theater<s n="n"/></r></p></e>
+    <!--<e><p><l>bófi<s n="n"/><s n="m"/></l><r>bandit<s n="n"/></r></p></e>-->
+    <e><p><l>bófi<s n="n"/><s n="m"/></l><r>crook<s n="n"/></r></p></e>
+    <!--<e><p><l>bógur<s n="n"/><s n="m"/></l><r>side<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bógur<s n="n"/><s n="m"/></l><r>bow<s n="n"/></r></p></e>-->
+    <e><p><l>bógur<s n="n"/><s n="m"/></l><r>shoulder<s n="n"/></r></p></e> <!-- (of an animal, especially as meat) -->
+    <e><p><l>bók<s n="n"/><s n="f"/></l><r>book<s n="n"/></r></p></e>
+    <e><p><l>bókasafn<s n="n"/><s n="nt"/></l><r>library<s n="n"/></r></p></e>
+    <e><p><l>bókfinka<s n="n"/><s n="f"/></l><r>chaffinch<s n="n"/></r></p></e>
+    <e><p><l>bókhveiti<s n="n"/><s n="nt"/></l><r>buckwheat<s n="n"/></r></p></e>
+    <e><p><l>bókmenntasaga<s n="n"/><s n="f"/></l><r>literary<b/>history<s n="n"/></r></p></e>
+    <e><p><l>bókstafstrú<s n="n"/><s n="f"/></l><r>orthodoxy<s n="n"/></r></p></e>
+    <e><p><l>bókstafur<s n="n"/><s n="m"/></l><r>letter<s n="n"/></r></p></e> <!-- (of the alphabet) -->
+    <!--<e><p><l>ból<s n="n"/><s n="nt"/></l><r>abode<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ból<s n="n"/><s n="nt"/></l><r>farm<s n="n"/></r></p></e>-->
+    <e><p><l>ból<s n="n"/><s n="nt"/></l><r>bed<s n="n"/></r></p></e>
+    <e><p><l>bóla<s n="n"/><s n="f"/></l><r>acne<s n="n"/></r></p></e>
+    <!--<e><p><l>bólga<s n="n"/><s n="f"/></l><r>inflammation<s n="n"/></r></p></e>-->
+    <e><p><l>bólga<s n="n"/><s n="f"/></l><r>swelling<s n="n"/></r></p></e>
+    <e><p><l>bómull<s n="n"/><s n="f"/></l><r>cotton<s n="n"/></r></p></e>
+    <e><p><l>bón<s n="n"/><s n="f"/></l><r>request<s n="n"/></r></p></e>
+    <!--<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>master<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>-->
+    <e><p><l>bóndi<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
+    <e><p><l>bór<s n="n"/><s n="nt"/></l><r>boron<s n="n"/></r></p></e>
+    <e><p><l>bót<s n="n"/><s n="f"/></l><r>cure<s n="n"/></r></p></e>
+    <e><p><l>bótúlíneitrun<s n="n"/><s n="f"/></l><r>botulism<s n="n"/></r></p></e>
+    <e><p><l>böggull<s n="n"/><s n="m"/></l><r>package<s n="n"/></r></p></e>
+    <!--<e><p><l>böggull<s n="n"/><s n="m"/></l><r>parcel<s n="n"/></r></p></e>-->
+    <e><p><l>böl<s n="n"/><s n="nt"/></l><r>evil<s n="n"/></r></p></e>
+    <!--<e><p><l>böllur<s n="n"/><s n="m"/></l><r>penis<s n="n"/></r></p></e>-->
+    <e><p><l>böllur<s n="n"/><s n="m"/></l><r>cock<s n="n"/></r></p></e>
+    <e><p><l>börkur<s n="n"/><s n="m"/></l><r>bark<s n="n"/></r></p></e> <!-- (of a tree) -->
+    <e><p><l>bú<s n="n"/><s n="nt"/></l><r>household<b/>effects<s n="n"/></r></p></e>
+    <e><p><l>búddismi<s n="n"/><s n="m"/></l><r>buddhism<s n="n"/></r></p></e>
+    <e><p><l>búfé<s n="n"/><s n="nt"/></l><r>livestock<s n="n"/></r></p></e>
+    <e><p><l>búlgarska<s n="n"/><s n="f"/></l><r>Bulgarian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>búnaður<s n="n"/><s n="m"/></l><r>equipment<s n="n"/></r></p></e>
+    <!--<e><p><l>búnaður<s n="n"/><s n="m"/></l><r>gear<s n="n"/></r></p></e>-->
+    <e><p><l>búr<s n="n"/><s n="nt"/></l><r>cage<s n="n"/></r></p></e>
+    <!--<e><p><l>búr<s n="n"/><s n="nt"/></l><r>chamber<s n="n"/></r></p></e>-->
+    <!--<e><p><l>búr<s n="n"/><s n="nt"/></l><r>pantry<s n="n"/></r></p></e>-->
+    <e><p><l>búskapur<s n="n"/><s n="m"/></l><r>farming<s n="n"/></r></p></e>
+    <!--<e><p><l>bútur<s n="n"/><s n="m"/></l><r>bit<s n="n"/></r></p></e>-->
+    <e><p><l>bútur<s n="n"/><s n="m"/></l><r>piece<s n="n"/></r></p></e>
+    <e><p><l>búð<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e>
+    <!--<e><p><l>búð<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>-->
+    <e><p><l>búðarborð<s n="n"/><s n="nt"/></l><r>counter<s n="n"/></r></p></e>
+    <e><p><l>búðarþjófur<s n="n"/><s n="m"/></l><r>shoplifter<s n="n"/></r></p></e>
+    <!-- <e><p><l>búðarþjófur<s n="n"/><s n="m"/></l><r>shop<b/>stealer<s n="n"/></r></p></e> --> <!-- (Australia) -->
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
     
