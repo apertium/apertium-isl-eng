@@ -1026,7 +1026,7 @@
     <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>merriment<s n="n"/></r></p></e>-->
     <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>sprightliness<s n="n"/></r></p></e>-->
     <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vigor<s n="n"/></r></p></e>-->
-    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vigour<s n="n"/></r></p></e> <!-- British English spelling -->-->
+    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vigour<s n="n"/></r></p></e> --> <!-- British English spelling -->
     <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vitality<s n="n"/></r></p></e>-->
     <!--<e><p><l>fjörður<s n="n"/><s n="m"/></l><r>firth<s n="n"/></r></p></e>-->
     <e><p><l>fjörður<s n="n"/><s n="m"/></l><r>fjord<s n="n"/></r></p></e>
@@ -1043,7 +1043,7 @@
     <e><p><l>flatarmál<s n="n"/><s n="nt"/></l><r>square<b/>measure<s n="n"/></r></p></e>
     <e><p><l>flatbaka<s n="n"/><s n="f"/></l><r>pizza<s n="n"/></r></p></e>
     <e><p><l>flauta<s n="n"/><s n="f"/></l><r>flute<s n="n"/></r></p></e>
-    <!--<e><p><l>flauta<s n="n"/><s n="f"/></l><r>horn<s n="n"/></r></p></e> <!-- (of a car) -->-->
+    <!--<e><p><l>flauta<s n="n"/><s n="f"/></l><r>horn<s n="n"/></r></p></e> --> <!-- (of a car) -->
 <!--    <e><p><l>flauta<s n="n"/><s n="f"/></l><r>whistle<s n="n"/></r></p></e> --> <!-- same translation when used as verb-->
     <e><p><l>fleirtala<s n="n"/><s n="f"/></l><r>plural<s n="n"/></r></p></e>
     <e><p><l>flensa<s n="n"/><s n="f"/></l><r>flu<s n="n"/></r></p></e> <!-- (influenza) -->
