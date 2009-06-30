@@ -65,7 +65,6 @@
 
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
-
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
@@ -289,6 +288,8 @@
 <!--    <e><p><l>aðstoð<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> -->
     <e><p><l>aðstoðarmaður<s n="n"/><s n="m"/></l><r>assistant<s n="n"/></r></p></e>
     <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstances<s n="n"/></r></p></e>
+  
+  
     <e><p><l>b<s n="n"/><s n="nt"/></l><r>b<s n="n"/></r></p></e>
     <e><p><l>bak<s n="n"/><s n="nt"/></l><r>back<s n="n"/></r></p></e>
     <e><p><l>baka<s n="n"/><s n="f"/></l><r>pie<s n="n"/></r></p></e>
@@ -645,6 +646,267 @@
     <e><p><l>búðarborð<s n="n"/><s n="nt"/></l><r>counter<s n="n"/></r></p></e>
     <e><p><l>búðarþjófur<s n="n"/><s n="m"/></l><r>shoplifter<s n="n"/></r></p></e>
     <!-- <e><p><l>búðarþjófur<s n="n"/><s n="m"/></l><r>shop<b/>stealer<s n="n"/></r></p></e> --> <!-- (Australia) -->
+    
+    
+    <e><p><l>c<s n="n"/><s n="nt"/></l><r>c<s n="n"/></r></p></e>
+    <e><p><l>d<s n="n"/><s n="nt"/></l><r>d<s n="n"/></r></p></e>
+    <e><p><l>dagatal<s n="n"/><s n="nt"/></l><r>calendar<s n="n"/></r></p></e>
+    <e><p><l>dagblað<s n="n"/><s n="nt"/></l><r>newspaper<s n="n"/></r></p></e>
+    <!--<e><p><l>dagblaðapappír<s n="n"/><s n="m"/></l><r>newsprint<s n="n"/></r></p></e>--> <!-- its actually "newspaper paper" but I don't think that's a valid translation :) -->
+    <e><p><l>dagdraumur<s n="n"/><s n="m"/></l><r>daydream<s n="n"/></r></p></e> <!-- (a spontaneous and fanciful series of thoughts) -->
+    <e><p><l>dagsetning<s n="n"/><s n="f"/></l><r>date<s n="n"/></r></p></e> <!-- (day/month/year etc.) -->
+    <!--<e><p><l>dagskrá<s n="n"/><s n="f"/></l><r>program<s n="n"/></r></p></e>-->
+    <!--<e><p><l>dagskrá<s n="n"/><s n="f"/></l><r>programme<s n="n"/></r></p></e>-->
+    <e><p><l>dagskrá<s n="n"/><s n="f"/></l><r>agenda<s n="n"/></r></p></e>
+    <e><p><l>dagur<s n="n"/><s n="m"/></l><r>day<s n="n"/></r></p></e>
+    <!--<e><p><l>dalur<s n="n"/><s n="m"/></l><r>dollar<s n="n"/></r></p></e>-->
+    <!--<e><p><l>dalur<s n="n"/><s n="m"/></l><r>dale<s n="n"/></r></p></e>-->
+    <e><p><l>dalur<s n="n"/><s n="m"/></l><r>valley<s n="n"/></r></p></e>
+    <e><p><l>dama<s n="n"/><s n="f"/></l><r>lady<s n="n"/></r></p></e>
+    <e><p><l>dans<s n="n"/><s n="m"/></l><r>dance<s n="n"/></r></p></e>
+    <e><p><l>danska<s n="n"/><s n="f"/></l><r>Danish<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>daunn<s n="n"/><s n="m"/></l><r>stench<s n="n"/></r></p></e>
+    <e><p><l>deig<s n="n"/><s n="nt"/></l><r>dough<s n="n"/></r></p></e>
+    <e><p><l>deila<s n="n"/><s n="f"/></l><r>dispute<s n="n"/></r></p></e>
+    <!--<e><p><l>deila<s n="v"/><s n="f"/></l><r>divide<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>deila<s n="n"/><s n="f"/></l><r>argument<s n="n"/></r></p></e>-->
+    <e><p><l>deild<s n="n"/><s n="f"/></l><r>department<s n="n"/></r></p></e>
+    <!--<e><p><l>deild<s n="n"/><s n="f"/></l><r>faculty<s n="n"/></r></p></e>-->
+    <!--<e><p><l>deild<s n="n"/><s n="f"/></l><r>division<s n="n"/></r></p></e>-->
+    <e><p><l>dekk<s n="n"/><s n="nt"/></l><r>tire<s n="n"/></r></p></e>
+    <!--<e><p><l>dekk<s n="n"/><s n="nt"/></l><r>tyre<s n="n"/></r></p></e>-->
+    <e><p><l>demantur<s n="n"/><s n="m"/></l><r>diamond<s n="n"/></r></p></e>
+    <e><p><l>desember<s n="n"/><s n="m"/></l><r>December<s n="n"/></r></p></e>
+    <e><p><l>dimma<s n="n"/><s n="f"/></l><r>darkness<s n="n"/></r></p></e>
+    <e><p><l>disketta<s n="n"/><s n="f"/></l><r>diskette<s n="n"/></r></p></e>
+    <!--<e><p><l>disketta<s n="n"/><s n="f"/></l><r>floppy<b/>disk<s n="n"/></r></p></e>-->
+    <!--<e><p><l>disklingur<s n="n"/><s n="m"/></l><r>diskette<s n="n"/></r></p></e>-->
+    <e><p><l>disklingur<s n="n"/><s n="m"/></l><r>floppy<b/>disk<s n="n"/></r></p></e>
+    <!--<e><p><l>diskur<s n="n"/><s n="m"/></l><r>disc<s n="n"/></r></p></e>-->
+    <!--<e><p><l>diskur<s n="n"/><s n="m"/></l><r>dish<s n="n"/></r></p></e>-->
+    <e><p><l>diskur<s n="n"/><s n="m"/></l><r>plate<s n="n"/></r></p></e>
+    <e><p><l>diskó<s n="n"/><s n="nt"/></l><r>disco<s n="n"/></r></p></e>
+    <e><p><l>diskótek<s n="n"/><s n="nt"/></l><r>discotheque<s n="n"/></r></p></e>
+    <e><p><l>djöfull<s n="n"/><s n="m"/></l><r>devil<s n="n"/></r></p></e>
+    <e><p><l>djúp<s n="n"/><s n="nt"/></l><r>deep<s n="n"/></r></p></e>
+    <e><p><l>djús<s n="n"/><s n="nt"/></l><r>juice<s n="n"/></r></p></e> <!-- (usually denoting juice mixed from concentrate that is not a pure fruit extract) -->
+    <e><p><l>doktorsritgerð<s n="n"/><s n="f"/></l><r>dissertation<s n="n"/></r></p></e>
+    <e><p><l>dollari<s n="n"/><s n="m"/></l><r>dollar<s n="n"/></r></p></e>
+<!--    <e><p><l>draga<s n="n"/><s n="f"/></l><r>draw, pull <s n="n"/></r></p></e> --> <!-- verb -->
+    <e><p><l>drasl<s n="n"/><s n="nt"/></l><r>junk<s n="n"/></r></p></e>
+    <!--<e><p><l>drasl<s n="n"/><s n="nt"/></l><r>rubbish<s n="n"/></r></p></e>-->
+    <e><p><l>draugur<s n="n"/><s n="m"/></l><r>ghost<s n="n"/></r></p></e>
+    <e><p><l>draumsóley<s n="n"/><s n="f"/></l><r>poppy<s n="n"/></r></p></e> <!-- (plant) -->
+    <e><p><l>draumur<s n="n"/><s n="m"/></l><r>dream<s n="n"/></r></p></e>
+    <e><p><l>dreggjar<s n="n"/><s n="f"/></l><r>dregs<s n="n"/></r></p></e>
+    <e><p><l>dreifing<s n="n"/><s n="f"/></l><r>distribution<s n="n"/></r></p></e>
+    <e><p><l>dreki<s n="n"/><s n="m"/></l><r>dragon<s n="n"/></r></p></e>
+    <e><p><l>drengur<s n="n"/><s n="m"/></l><r>boy<s n="n"/></r></p></e>
+    <e><p><l>drepa<s n="n"/><s n="f"/></l><r>kill<s n="n"/></r></p></e>
+    <!--<e><p><l>drepa<s n="n"/><s n="f"/></l><r>slay <s n="n"/></r></p></e>-->
+    <e><p><l>drjóli<s n="n"/><s n="m"/></l><r>cock<s n="n"/></r></p></e> <!-- (slang for penis) -->
+    <e><p><l>dropi<s n="n"/><s n="m"/></l><r>drop<s n="n"/></r></p></e>
+    <e><p><l>drottning<s n="n"/><s n="f"/></l><r>queen<s n="n"/></r></p></e>
+    <e><p><l>drykkur<s n="n"/><s n="m"/></l><r>drink<s n="n"/></r></p></e>
+    <e><p><l>dráttarvél<s n="n"/><s n="f"/></l><r>tractor<s n="n"/></r></p></e> <!-- (vehicle used in farming) -->
+    <!--<e><p><l>dráttur<s n="n"/><s n="m"/></l><r>pulling<s n="n"/></r></p></e>--> <!-- don't think pulling is a noun in English -->
+    <!--<e><p><l>dráttur<s n="n"/><s n="m"/></l><r>shag<s n="n"/></r></p></e>--> <!-- slang -->
+    <!--<e><p><l>dvergkráka<s n="n"/><s n="f"/></l><r>jackdaw<s n="n"/></r></p></e>--> <!-- ?? -->
+    <e><p><l>dvergur<s n="n"/><s n="m"/></l><r>dwarf<s n="n"/></r></p></e>
+    <e><p><l>dvöl<s n="n"/><s n="f"/></l><r>stay<s n="n"/></r></p></e>
+    <!--<e><p><l>dvöl<s n="n"/><s n="f"/></l><r>stop<s n="n"/></r></p></e>-->
+    <!--<e><p><l>dylgjur<s n="n"/><s n="f"/></l><r>dylgja<s n="n"/></r></p></e>-->
+    <e><p><l>dymbildagavika<s n="n"/><s n="f"/></l><r>Holy<b/>Week<s n="n"/></r></p></e>
+    <e><p><l>dymbilvika<s n="n"/><s n="f"/></l><r>Holy<b/>Week<s n="n"/></r></p></e>
+    <e><p><l>dyr<s n="n"/><s n="f"/></l><r>door<s n="n"/></r></p></e>
+    <!--<e><p><l>dyr<s n="n"/><s n="f"/></l><r>doorway<s n="n"/></r></p></e>-->
+    <e><p><l>dá<s n="n"/><s n="nt"/></l><r>admire<s n="n"/></r></p></e>
+    <!--<e><p><l>dá<s n="n"/><s n="nt"/></l><r>coma<s n="n"/></r></p></e>-->
+    <e><p><l>dáð<s n="n"/><s n="f"/></l><r>achievement<s n="n"/></r></p></e>
+    <!--<e><p><l>dáð<s n="n"/><s n="f"/></l><r>deed<s n="n"/></r></p></e>-->
+    <e><p><l>dæmi<s n="n"/><s n="nt"/></l><r>example<s n="n"/></r></p></e>
+    <!--<e><p><l>díll<s n="n"/><s n="m"/></l><r>pixel<s n="n"/></r></p></e>-->
+    <e><p><l>díll<s n="n"/><s n="m"/></l><r>dot<s n="n"/></r></p></e>
+    <!--<e><p><l>díll<s n="n"/><s n="m"/></l><r>fleck<s n="n"/></r></p></e>-->
+    <!--<e><p><l>díll<s n="n"/><s n="m"/></l><r>spot<s n="n"/></r></p></e>-->
+    <!--<e><p><l>dís<s n="n"/><s n="f"/></l><r>fairy<s n="n"/></r></p></e>-->
+    <e><p><l>dís<s n="n"/><s n="f"/></l><r>goddess<s n="n"/></r></p></e>
+    <e><p><l>dómari<s n="n"/><s n="m"/></l><r>judge<s n="n"/></r></p></e>
+    <e><p><l>dómsmálaráðherra<s n="n"/><s n="m"/></l><r>minister<b/>of<b/>justice<s n="n"/></r></p></e>
+    <!--<e><p><l>dómur<s n="n"/><s n="m"/></l><r>judgement<s n="n"/></r></p></e>-->
+    <e><p><l>dómur<s n="n"/><s n="m"/></l><r>verdict<s n="n"/></r></p></e>
+    <e><p><l>dósent<s n="n"/><s n="m"/></l><r>dosent<s n="n"/></r></p></e>
+    <e><p><l>dóttir<s n="n"/><s n="f"/></l><r>daughter<s n="n"/></r></p></e>
+    <e><p><l>dögg<s n="n"/><s n="f"/></l><r>dew<s n="n"/></r></p></e>
+    <e><p><l>dögun<s n="n"/><s n="f"/></l><r>dawn<s n="n"/></r></p></e>
+    <e><p><l>dömubindi<s n="n"/><s n="nt"/></l><r>sanitary<b/>towel<s n="n"/></r></p></e>
+    <e><p><l>dúdúfugl<s n="n"/><s n="m"/></l><r>dodo<b/>bird<s n="n"/></r></p></e> <!-- (raphus cucullatus) -->
+    <e><p><l>dúfa<s n="n"/><s n="f"/></l><r>pigeon<s n="n"/></r></p></e>
+    <e><p><l>dúkka<s n="n"/><s n="f"/></l><r>doll<s n="n"/></r></p></e>
+    <e><p><l>dúkur<s n="n"/><s n="m"/></l><r>table<b/>cloth<s n="n"/></r></p></e>
+    <e><p><l>dúnn<s n="n"/><s n="m"/></l><r>down<s n="n"/></r></p></e> <!-- (immature feathers on young birds) -->
+    <!--<e><p><l>dúr<s n="n"/><s n="m"/></l><r>nap<s n="n"/></r></p></e>-->
+    <e><p><l>dúr<s n="n"/><s n="m"/></l><r>major<s n="n"/></r></p></e> <!-- music scale -->
+    <e><p><l>dúrhljómur<s n="n"/><s n="m"/></l><r>major<b/>chord<s n="n"/></r></p></e>
+    <e><p><l>dýna<s n="n"/><s n="f"/></l><r>mattress<s n="n"/></r></p></e>
+    <e><p><l>dýpi<s n="n"/><s n="nt"/></l><r>depth<s n="n"/></r></p></e>
+    <e><p><l>dýrafræði<s n="n"/><s n="f"/></l><r>zoology<s n="n"/></r></p></e>
+    <e><p><l>dýragarður<s n="n"/><s n="m"/></l><r>zoo<s n="n"/></r></p></e>
+    <e><p><l>dýraspítali<s n="n"/><s n="m"/></l><r>veterinary<b/>hospital<s n="n"/></r></p></e>
+    <e><p><l>dýratónfræði<s n="n"/><s n="f"/></l><r>zoomusicology<s n="n"/></r></p></e>
+    <e><p><l>dýrgripur<s n="n"/><s n="m"/></l><r>valuable<s n="n"/></r></p></e>
+    <e><p><l>dýrð<s n="n"/><s n="f"/></l><r>glory<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>e<s n="n"/><s n="nt"/></l><r>e<s n="n"/></r></p></e>
+    <e><p><l>edik<s n="n"/><s n="nt"/></l><r>vinegar<s n="n"/></r></p></e>
+    <e><p><l>efahyggja<s n="n"/><s n="f"/></l><r>skepticism<s n="n"/></r></p></e>
+<!--    <e><p><l>efahyggja<s n="n"/><s n="f"/></l><r>scepticism<s n="n"/></r></p></e> --> <!-- British English spelling -->
+    <e><p><l>efasemd<s n="n"/><s n="f"/></l><r>doubt<s n="n"/></r></p></e>
+    <e><p><l>efi<s n="n"/><s n="m"/></l><r>doubt<s n="n"/></r></p></e>
+    <!--<e><p><l>efja<s n="n"/><s n="f"/></l><r>mud<s n="n"/></r></p></e>--> <!-- check Icelandic word -->
+    <e><p><l>efli<s n="n"/><s n="nt"/></l><r>power<s n="n"/></r></p></e>
+    <e><p><l>efnaflokkur<s n="n"/><s n="m"/></l><r>group<s n="n"/></r></p></e>
+    <e><p><l>efnafræði<s n="n"/><s n="f"/></l><r>chemistry<s n="n"/></r></p></e>
+    <e><p><l>efnasamband<s n="n"/><s n="nt"/></l><r>chemical<b/>compound<s n="n"/></r></p></e>
+    <e><p><l>efnatákn<s n="n"/><s n="nt"/></l><r>element<b/>symbol<s n="n"/></r></p></e>
+    <!--<e><p><l>efni<s n="n"/><s n="nt"/></l><r>fabric<s n="n"/></r></p></e>-->
+    <e><p><l>efni<s n="n"/><s n="nt"/></l><r>material<s n="n"/></r></p></e>
+    <!--<e><p><l>efni<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e>-->
+    <!--<e><p><l>efni<s n="n"/><s n="nt"/></l><r>content<s n="n"/></r></p></e>-->
+    <!--<e><p><l>efni<s n="n"/><s n="nt"/></l><r>subject<s n="n"/></r></p></e>-->
+    <e><p><l>eftirför<s n="n"/><s n="f"/></l><r>chase<s n="n"/></r></p></e> <!-- (action of the verb "to chase") -->
+    <e><p><l>eftirlaun<s n="n"/><s n="nt"/></l><r>pension<s n="n"/></r></p></e>
+    <!--<e><p><l>eftirlit<s n="n"/><s n="nt"/></l><r>control<s n="n"/></r></p></e>-->
+    <e><p><l>eftirlit<s n="n"/><s n="nt"/></l><r>inspection<s n="n"/></r></p></e>
+    <!--<e><p><l>eftirlit<s n="n"/><s n="nt"/></l><r>check<s n="n"/></r></p></e>-->
+    <!--<e><p><l>eftirlit<s n="n"/><s n="nt"/></l><r>surveillance<s n="n"/></r></p></e>-->
+    <e><p><l>eftirlíking<s n="n"/><s n="f"/></l><r>imitation<s n="n"/></r></p></e>
+    <!--<e><p><l>eftirlíking<s n="n"/><s n="f"/></l><r>replica<s n="n"/></r></p></e>-->
+    <e><p><l>eftirmiðdagur<s n="n"/><s n="m"/></l><r>afternoon<s n="n"/></r></p></e>
+    <e><p><l>eftirspurn<s n="n"/><s n="f"/></l><r>demand<s n="n"/></r></p></e>
+    <!--<e><p><l>egg<s n="n"/><s n="nt"/></l><r>edge<s n="n"/></r></p></e>-->
+    <e><p><l>egg<s n="n"/><s n="nt"/></l><r>egg<s n="n"/></r></p></e>
+    <!--<e><p><l>eggaldin<s n="n"/><s n="nt"/></l><r>aubergine<s n="n"/></r></p></e>-->
+    <e><p><l>eggaldin<s n="n"/><s n="nt"/></l><r>eggplant<s n="n"/></r></p></e>
+    <e><p><l>eggjaskurn<s n="n"/><s n="f"/></l><r>eggshell<s n="n"/></r></p></e>
+    <!--<e><p><l>eiga<s n="n"/><s n="f"/></l><r>have, own, ought to<s n="n"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>eiga<s n="n"/><s n="f"/></l><r>possession<s n="n"/></r></p></e>--> <!-- verb -->
+    <e><p><l>eigandi<s n="n"/><s n="m"/></l><r>owner<s n="n"/></r></p></e>
+    <e><p><l>eiginkona<s n="n"/><s n="f"/></l><r>wife<s n="n"/></r></p></e>
+    <e><p><l>eiginmaður<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>
+    <e><p><l>eiginnafn<s n="n"/><s n="nt"/></l><r>given<b/>name<s n="n"/></r></p></e>
+    <e><p><l>eign<s n="n"/><s n="f"/></l><r>property<s n="n"/></r></p></e>
+    <e><p><l>eignarfall<s n="n"/><s n="nt"/></l><r>genitive<b/>case<s n="n"/></r></p></e>
+    <e><p><l>eignarfornafn<s n="n"/><s n="nt"/></l><r>possessive<b/>pronoun<s n="n"/></r></p></e>
+    <e><p><l>eignarréttur<s n="n"/><s n="m"/></l><r>ownership<s n="n"/></r></p></e>
+    <e><p><l>eik<s n="n"/><s n="f"/></l><r>oak<s n="n"/></r></p></e>
+    <e><p><l>einglyrni<s n="n"/><s n="nt"/></l><r>monocle<s n="n"/></r></p></e>
+    <e><p><l>eingyðistrú<s n="n"/><s n="f"/></l><r>monotheism<s n="n"/></r></p></e>
+    <e><p><l>einhjól<s n="n"/><s n="nt"/></l><r>unicycle<s n="n"/></r></p></e>
+    <!--<e><p><l>eining<s n="n"/><s n="f"/></l><r>ECTS<s n="n"/></r></p></e>-->
+    <!--<e><p><l>eining<s n="n"/><s n="f"/></l><r>module<s n="n"/></r></p></e>-->
+    <!--<e><p><l>eining<s n="n"/><s n="f"/></l><r>unit<s n="n"/></r></p></e>-->
+    <e><p><l>eining<s n="n"/><s n="f"/></l><r>unity<s n="n"/></r></p></e>
+    <e><p><l>einir<s n="n"/><s n="m"/></l><r>juniper<s n="n"/></r></p></e>
+    <e><p><l>einkenni<s n="n"/><s n="nt"/></l><r>distinctive<b/>feature<s n="n"/></r></p></e>
+    <!--<e><p><l>einkenni<s n="n"/><s n="nt"/></l><r>mark<s n="n"/></r></p></e>-->
+    <!--<e><p><l>einkunn<s n="n"/><s n="f"/></l><r>characteristic<s n="n"/></r></p></e>-->
+    <e><p><l>einkunn<s n="n"/><s n="f"/></l><r>grade<s n="n"/></r></p></e>
+    <!--<e><p><l>einkunn<s n="n"/><s n="f"/></l><r>mark<s n="n"/></r></p></e>-->
+    <e><p><l>einmanaleiki<s n="n"/><s n="m"/></l><r>loneliness<s n="n"/></r></p></e>
+    <!--<e><p><l>einnar<b/>nætur<b/>gaman<s n="n"/><s n="nt"/></l><r>one<b/>night<b/>stand<s n="n"/></r></p></e>-->
+    <e><p><l>einræða<s n="n"/><s n="f"/></l><r>monologue<s n="n"/></r></p></e>
+    <!--<e><p><l>einræða<s n="n"/><s n="f"/></l><r>soliloquy<s n="n"/></r></p></e>--> <!-- check English word -->
+    <e><p><l>einsemd<s n="n"/><s n="f"/></l><r>solitude<s n="n"/></r></p></e>
+    <e><p><l>einstaklingur<s n="n"/><s n="m"/></l><r>individual<s n="n"/></r></p></e>
+    <e><p><l>einstefnugata<s n="n"/><s n="f"/></l><r>one<b/>way<b/>street<s n="n"/></r></p></e>
+    <e><p><l>eintak<s n="n"/><s n="nt"/></l><r>copy<s n="n"/></r></p></e>
+    <e><p><l>eintal<s n="n"/><s n="nt"/></l><r>monologue<s n="n"/></r></p></e>
+    <!--<e><p><l>eintal<s n="n"/><s n="nt"/></l><r>soliloquy<s n="n"/></r></p></e>-->
+    <e><p><l>eintala<s n="n"/><s n="f"/></l><r>singular<s n="n"/></r></p></e>
+    <e><p><l>einvígi<s n="n"/><s n="nt"/></l><r>duel<s n="n"/></r></p></e>
+    <e><p><l>einyrki<s n="n"/><s n="m"/></l><r>solitary<b/>farmer<s n="n"/></r></p></e>
+    <e><p><l>eir<s n="n"/><s n="m"/></l><r>copper<s n="n"/></r></p></e>
+    <e><p><l>eitrun<s n="n"/><s n="f"/></l><r>poisoning<s n="n"/></r></p></e>
+    <!--<e><p><l>eitur<s n="n"/><s n="nt"/></l><r>venom<s n="n"/></r></p></e>-->
+    <e><p><l>eitur<s n="n"/><s n="nt"/></l><r>poison<s n="n"/></r></p></e>
+    <e><p><l>eiturlyf<s n="n"/><s n="nt"/></l><r>drug<s n="n"/></r></p></e>
+    <e><p><l>eiturlyfjasali<s n="n"/><s n="m"/></l><r>drug<b/>dealer<s n="n"/></r></p></e>
+    <e><p><l>eiður<s n="n"/><s n="m"/></l><r>oath<s n="n"/></r></p></e>
+    <e><p><l>ekkja<s n="n"/><s n="f"/></l><r>widow<s n="n"/></r></p></e>
+    <!--<e><p><l>ekra<s n="n"/><s n="f"/></l><r>acre<s n="n"/></r></p></e>-->
+    <e><p><l>ekra<s n="n"/><s n="f"/></l><r>field<s n="n"/></r></p></e>
+    <e><p><l>eldfjall<s n="n"/><s n="nt"/></l><r>volcano<s n="n"/></r></p></e>
+    <e><p><l>eldfjallafræði<s n="n"/><s n="f"/></l><r>volcanology<s n="n"/></r></p></e>
+    <e><p><l>eldgos<s n="n"/><s n="nt"/></l><r>eruption<s n="n"/></r></p></e> <!-- (volcano) -->
+    <e><p><l>eldhús<s n="n"/><s n="nt"/></l><r>kitchen<s n="n"/></r></p></e>
+    <e><p><l>elding<s n="n"/><s n="f"/></l><r>lightning<s n="n"/></r></p></e>
+    <e><p><l>eldsneyti<s n="n"/><s n="nt"/></l><r>fuel<s n="n"/></r></p></e>
+    <e><p><l>eldspýta<s n="n"/><s n="f"/></l><r>match<s n="n"/></r></p></e> <!-- (fire-making device) -->
+    <e><p><l>eldunaraðstaða<s n="n"/><s n="f"/></l><r>cooking<b/>facility<s n="n"/></r></p></e>
+    <e><p><l>eldur<s n="n"/><s n="m"/></l><r>fire<s n="n"/></r></p></e>
+    <e><p><l>eldvarpa<s n="n"/><s n="f"/></l><r>flamethrower<s n="n"/></r></p></e>
+    <e><p><l>elja<s n="n"/><s n="f"/></l><r>endurance<s n="n"/></r></p></e>
+    <e><p><l>elli<s n="n"/><s n="f"/></l><r>old<b/>age<s n="n"/></r></p></e> <!-- check English translation -->
+    <e><p><l>elri<s n="n"/><s n="nt"/></l><r>alder<s n="n"/></r></p></e>
+    <!--<e><p><l>elska<s n="n"/><s n="f"/></l><r>affection, love<s n="n"/></r></p></e>--> <!-- ?? -->
+    <!--<e><p><l>elska<s n="v"/><s n="f"/></l><r>love<s n="v"/></r></p></e> --> <!-- verb -->
+    <!--<e><p><l>embætti<s n="n"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>-->
+    <e><p><l>embætti<s n="n"/><s n="nt"/></l><r>office<s n="n"/></r></p></e> <!-- (position of responsibility and authority) -->
+    <!--<e><p><l>embætti<s n="n"/><s n="nt"/></l><r>official<s n="n"/></r></p></e>-->
+    <e><p><l>endir<s n="n"/><s n="m"/></l><r>end<s n="n"/></r></p></e>
+    <e><p><l>endurlífgun<s n="n"/><s n="f"/></l><r>resuscitation<s n="n"/></r></p></e>
+    <e><p><l>endurskoðandi<s n="n"/><s n="m"/></l><r>auditor<s n="n"/></r></p></e>
+    <e><p><l>engifer<s n="n"/><s n="m"/></l><r>ginger<s n="n"/></r></p></e>
+    <e><p><l>engiferöl<s n="n"/><s n="nt"/></l><r>ginger<b/>ale<s n="n"/></r></p></e>
+    <e><p><l>engill<s n="n"/><s n="m"/></l><r>angel<s n="n"/></r></p></e>
+    <!--<e><p><l>englahorn<s n="n"/><s n="nt"/></l><r>cor<b/>anglais<s n="n"/></r></p></e>-->
+    <e><p><l>englahorn<s n="n"/><s n="nt"/></l><r>English<b/>horn<s n="n"/></r></p></e>
+    <e><p><l>enni<s n="n"/><s n="nt"/></l><r>forehead<s n="n"/></r></p></e>
+    <e><p><l>enska<s n="n"/><s n="f"/></l><r>English<s n="n"/></r></p></e>
+    <!--<e><p><l>enskt<b/>horn<s n="n"/><s n="nt"/></l><r>cor<b/>anglais<s n="n"/></r></p></e>-->
+    <e><p><l>enskt<b/>horn<s n="n"/><s n="nt"/></l><r>English<b/>horn<s n="n"/></r></p></e>
+    <e><p><l>eplabaka<s n="n"/><s n="f"/></l><r>apple<b/>pie<s n="n"/></r></p></e>
+    <e><p><l>eplasafi<s n="n"/><s n="m"/></l><r>apple<b/>juice<s n="n"/></r></p></e>
+    <e><p><l>eplatré<s n="n"/><s n="nt"/></l><r>apple<b/>tree<s n="n"/></r></p></e>
+    <e><p><l>epli<s n="n"/><s n="nt"/></l><r>apple<s n="n"/></r></p></e>
+    <!--<e><p><l>erfiðisvinna<s n="n"/><s n="f"/></l><r>hard<b/>work<s n="n"/></r></p></e>-->
+    <e><p><l>erfiðisvinna<s n="n"/><s n="f"/></l><r>labour<s n="n"/></r></p></e>
+    <e><p><l>erfiðleiki<s n="n"/><s n="m"/></l><r>difficulty<s n="n"/></r></p></e>
+    <e><p><l>erindi<s n="n"/><s n="nt"/></l><r>errand<s n="n"/></r></p></e>
+    <!--<e><p><l>erindi<s n="n"/><s n="nt"/></l><r>verse<s n="n"/></r></p></e>--> <!-- in poetry -->
+    <!--<e><p><l>eiga<b/>erindi<b/>við<s n="n"/><s n="nt"/></l><r>have<b/>business<b/>with<s n="n"/></r></p></e>-->
+    <e><p><l>ermi<s n="n"/><s n="f"/></l><r>sleeve<s n="n"/></r></p></e>
+    <e><p><l>esperantó<s n="n"/><s n="nt"/></l><r>Esperanto<s n="n"/></r></p></e>
+    <e><p><l>etan<s n="n"/><s n="nt"/></l><r>ethane<s n="n"/></r></p></e>
+    <e><p><l>etja<s n="n"/><s n="f"/></l><r>egg<b/>on<s n="n"/></r></p></e>
+    <e><p><l>evra<s n="n"/><s n="f"/></l><r>euro<s n="n"/></r></p></e> <!-- (currency unit of the European Monetary Union) -->
+    <e><p><l>exem<s n="n"/><s n="nt"/></l><r>eczema<s n="n"/></r></p></e>
+    <e><p><l>ey<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
+    <!--<e><p><l>eyja<s n="n"/><s n="f"/></l><r>isle<s n="n"/></r></p></e>-->
+    <e><p><l>eyja<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
+    <!--<e><p><l>eyra<s n="n"/><s n="nt"/></l><r>handle<s n="n"/></r></p></e>-->
+    <e><p><l>eyra<s n="n"/><s n="nt"/></l><r>ear<s n="n"/></r></p></e>
+<!--    <e><p><l>eyri<s n="n"/><s n="f"/></l><r>eyri<s n="n"/></r></p></e> --> <!-- (smallest Icelandic monetary unit) -->
+    <e><p><l>eyri<s n="n"/><s n="f"/></l><r>sandbank<s n="n"/></r></p></e>
+    <!--<e><p><l>eyri<s n="n"/><s n="f"/></l><r>gravel<b/>bank<s n="n"/></r></p></e>-->
+    <!--<e><p><l>eyða<s n="n"/><s n="f"/></l><r>blank<s n="n"/></r></p></e>-->
+    <e><p><l>eyða<s n="n"/><s n="f"/></l><r>gap<s n="n"/></r></p></e>
+    <!--<e><p><l>eyða<s n="v"/><s n="f"/></l><r>destroy<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>eyða<s n="v"/><s n="f"/></l><r>obliterate<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>eyða<s n="v"/><s n="f"/></l><r>spend<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>eyðimörk<s n="n"/><s n="f"/></l><r>desert<s n="n"/></r></p></e>
+    <e><p><l>eyðni<s n="n"/><s n="f"/></l><r>AIDS<s n="n"/></r></p></e>
+    <e><p><l>eyðsla<s n="n"/><s n="f"/></l><r>expenditure<s n="n"/></r></p></e>
+    <!--<e><p><l>eyðsla<s n="n"/><s n="f"/></l><r>waste<s n="n"/></r></p></e>-->
+    <e><p><l>eðli<s n="n"/><s n="nt"/></l><r>essence<s n="n"/></r></p></e>
+    <!--<e><p><l>eðli<s n="n"/><s n="nt"/></l><r>innate<b/>character<s n="n"/></r></p></e>-->
+    <!--<e><p><l>eðli<s n="n"/><s n="nt"/></l><r>nature<s n="n"/></r></p></e>-->
+    <e><p><l>eðlisfræði<s n="n"/><s n="f"/></l><r>physics<s n="n"/></r></p></e>
+    <e><p><l>eðlisfræðilögmál<s n="n"/><s n="nt"/></l><r>physical<b/>law<s n="n"/></r></p></e>
+    <e><p><l>eðlisfræðingur<s n="n"/><s n="m"/></l><r>physicist<s n="n"/></r></p></e>
+    <e><p><l>eðlismassi<s n="n"/><s n="m"/></l><r>density<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
     
