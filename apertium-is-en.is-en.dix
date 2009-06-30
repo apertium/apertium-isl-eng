@@ -907,6 +907,387 @@
     <e><p><l>eðlisfræðilögmál<s n="n"/><s n="nt"/></l><r>physical<b/>law<s n="n"/></r></p></e>
     <e><p><l>eðlisfræðingur<s n="n"/><s n="m"/></l><r>physicist<s n="n"/></r></p></e>
     <e><p><l>eðlismassi<s n="n"/><s n="m"/></l><r>density<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>f<s n="n"/><s n="nt"/></l><r>f<s n="n"/></r></p></e>
+    <e><p><l>fagott<s n="n"/><s n="nt"/></l><r>bassoon<s n="n"/></r></p></e>
+    <e><p><l>fagurfræði<s n="n"/><s n="f"/></l><r>aesthetics<s n="n"/></r></p></e>
+    <e><p><l>faldur<s n="n"/><s n="m"/></l><r>hem<s n="n"/></r></p></e>
+    <e><p><l>fall<s n="n"/><s n="nt"/></l><r>fall<s n="n"/></r></p></e>
+    <e><p><l>fallbyssa<s n="n"/><s n="f"/></l><r>cannon<s n="n"/></r></p></e>
+    <!--<e><p><l>fangelsi<s n="n"/><s n="nt"/></l><r>gaol<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fangelsi<s n="n"/><s n="nt"/></l><r>jail<s n="n"/></r></p></e>-->
+    <e><p><l>fangelsi<s n="n"/><s n="nt"/></l><r>prison<s n="n"/></r></p></e>
+    <e><p><l>fangi<s n="n"/><s n="m"/></l><r>prisoner<s n="n"/></r></p></e>
+    <!--<e><p><l>fantur<s n="n"/><s n="m"/></l><r>mug<s n="n"/></r></p></e>-->
+    <e><p><l>fantur<s n="n"/><s n="m"/></l><r>bully<s n="n"/></r></p></e>
+    <e><p><l>far<s n="n"/><s n="nt"/></l><r>passage<s n="n"/></r></p></e>
+    <e><p><l>farangur<s n="n"/><s n="m"/></l><r>luggage<s n="n"/></r></p></e>
+    <e><p><l>farfuglaheimili<s n="n"/><s n="nt"/></l><r>youth hostel<s n="n"/></r></p></e>
+    <e><p><l>fargjald<s n="n"/><s n="nt"/></l><r>fare<s n="n"/></r></p></e>
+    <e><p><l>farmiði<s n="n"/><s n="m"/></l><r>ticket<s n="n"/></r></p></e>
+    <e><p><l>farmur<s n="n"/><s n="m"/></l><r>cargo<s n="n"/></r></p></e>
+    <e><p><l>farseðill<s n="n"/><s n="m"/></l><r>ticket<s n="n"/></r></p></e>
+    <!--<e><p><l>farsi<s n="n"/><s n="m"/></l><r>comedy<s n="n"/></r></p></e>-->
+    <!--<e><p><l>farsi<s n="n"/><s n="m"/></l><r>comedic<b/>play<s n="n"/></r></p></e>-->
+    <e><p><l>farsi<s n="n"/><s n="m"/></l><r>farce<s n="n"/></r></p></e>
+    <!--<e><p><l>farsæld<s n="n"/><s n="f"/></l><r>happiness<s n="n"/></r></p></e>-->
+    <e><p><l>farsæld<s n="n"/><s n="f"/></l><r>prosperity<s n="n"/></r></p></e>
+    <e><p><l>farsími<s n="n"/><s n="m"/></l><r>mobile<b/>phone<s n="n"/></r></p></e>
+    <e><p><l>fartölva<s n="n"/><s n="f"/></l><r>laptop<b/>computer<s n="n"/></r></p></e>
+    <e><p><l>farði<s n="n"/><s n="m"/></l><r>makeup<s n="n"/></r></p></e>
+    <e><p><l>fasismi<s n="n"/><s n="m"/></l><r>fascism<s n="n"/></r></p></e>
+    <e><p><l>fastmæli<s n="n"/><s n="nt"/></l><r>appointment<s n="n"/></r></p></e>
+    <!--<e><p><l>fastmæli<s n="n"/><s n="nt"/></l><r>date<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fat<s n="n"/><s n="nt"/></l><r>clothing<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fat<s n="n"/><s n="nt"/></l><r>garment<s n="n"/></r></p></e>-->
+    <e><p><l>fat<s n="n"/><s n="nt"/></l><r>platter<s n="n"/></r></p></e>
+    <!--<e><p><l>fat<s n="n"/><s n="nt"/></l><r>serving<b/>dish<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fat<s n="n"/><s n="nt"/></l><r>vessel<s n="n"/></r></p></e>-->
+    <e><p><l>fata<s n="n"/><s n="f"/></l><r>bucket<s n="n"/></r></p></e>
+    <e><p><l>faðir<s n="n"/><s n="m"/></l><r>father<s n="n"/></r></p></e>
+    <e><p><l>faðirvor<s n="n"/><s n="nt"/></l><r>Lord's<b/>prayer<s n="n"/></r></p></e>
+    <e><p><l>faðmur<s n="n"/><s n="m"/></l><r>embrace<s n="n"/></r></p></e>
+    <!--<e><p><l>faðmur<s n="n"/><s n="m"/></l><r>fathom<s n="n"/></r></p></e>-->
+    <e><p><l>febrúar<s n="n"/><s n="nt"/></l><r>February<s n="n"/></r></p></e>
+    <e><p><l>fegurð<s n="n"/><s n="f"/></l><r>beauty<s n="n"/></r></p></e>
+    <e><p><l>feiti<s n="n"/><s n="f"/></l><r>grease<s n="n"/></r></p></e>
+    <!--<e><p><l>fela<s n="n"/><s n="f"/></l><r>conceal<s n="n"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>fela<s n="n"/><s n="f"/></l><r>hide<s n="n"/></r></p></e>--> <!-- verb -->
+    <e><p><l>feldur<s n="n"/><s n="m"/></l><r>fur<b/>coat<s n="n"/></r></p></e>
+    <e><p><l>fell<s n="n"/><s n="nt"/></l><r>hill<s n="n"/></r></p></e>
+    <e><p><l>felling<s n="n"/><s n="f"/></l><r>pleat<s n="n"/></r></p></e>
+    <!--<e><p><l>ferill<s n="n"/><s n="m"/></l><r>path<s n="n"/></r></p></e>-->
+    <e><p><l>ferill<s n="n"/><s n="m"/></l><r>career<s n="n"/></r></p></e>
+    <e><p><l>ferja<s n="n"/><s n="f"/></l><r>ferry<s n="n"/></r></p></e>
+    <e><p><l>ferkílómetri<s n="n"/><s n="m"/></l><r>square<b/>kilometer<s n="n"/></r></p></e>
+    <e><p><l>fermetri<s n="n"/><s n="m"/></l><r>square<b/>meter<s n="n"/></r></p></e>
+    <!--<e><p><l>ferming<s n="n"/><s n="f"/></l><r>loading<s n="n"/></r></p></e>-->
+    <e><p><l>ferming<s n="n"/><s n="f"/></l><r>confirmation<s n="n"/></r></p></e>
+    <e><p><l>ferskja<s n="n"/><s n="f"/></l><r>peach<s n="n"/></r></p></e> <!-- (fruit of the tree Prunus persica) -->
+    <!--<e><p><l>ferð<s n="n"/><s n="f"/></l><r>speed<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ferð<s n="n"/><s n="f"/></l><r>journey<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ferð<s n="n"/><s n="f"/></l><r>tour<s n="n"/></r></p></e>-->
+    <e><p><l>ferð<s n="n"/><s n="f"/></l><r>trip<s n="n"/></r></p></e>
+    <e><p><l>ferðamaður<s n="n"/><s n="m"/></l><r>tourist<s n="n"/></r></p></e>
+    <!--<e><p><l>ferðamaður<s n="n"/><s n="m"/></l><r>traveller<s n="n"/></r></p></e>-->
+    <e><p><l>ferðataska<s n="n"/><s n="f"/></l><r>suitcase<s n="n"/></r></p></e>
+    <e><p><l>ferðaáætlun<s n="n"/><s n="f"/></l><r>schedule<s n="n"/></r></p></e> <!-- (for busses etc.) -->
+    <!--<e><p><l>ferðaáætlun<s n="n"/><s n="f"/></l><r>timetable<s n="n"/></r></p></e> --> <!-- (for busses etc.) -->
+    <e><p><l>ferðaþjónusta<s n="n"/><s n="f"/></l><r>tourism<s n="n"/></r></p></e>
+    <e><p><l>festa<s n="n"/><s n="f"/></l><r>determination<s n="n"/></r></p></e>
+    <!--<e><p><l>festa<s n="n"/><s n="f"/></l><r>fasten<s n="n"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>festa<s n="n"/><s n="f"/></l><r>fix<s n="n"/></r></p></e>--> <!-- verb -->
+    <e><p><l>fet<s n="n"/><s n="nt"/></l><r>foot<s n="n"/></r></p></e> <!-- measurement unit -->
+    <!--<e><p><l>fet<s n="n"/><s n="nt"/></l><r>pace<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fet<s n="n"/><s n="nt"/></l><r>step<s n="n"/></r></p></e>-->
+    <e><p><l>feðgar<s n="n"/><s n="m"/></l><r>father<b/>and<b/>son<s n="n"/></r></p></e>
+    <e><p><l>filma<s n="n"/><s n="f"/></l><r>film<s n="n"/></r></p></e>
+    <e><p><l>fimma<s n="n"/><s n="f"/></l><r>five<s n="n"/></r></p></e> <!-- in cards -->
+    <e><p><l>fimmtudagur<s n="n"/><s n="m"/></l><r>Thursday<s n="n"/></r></p></e>
+    <e><p><l>fingur<s n="n"/><s n="m"/></l><r>finger<s n="n"/></r></p></e>
+    <e><p><l>finnska<s n="n"/><s n="f"/></l><r>Finnish<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>firma<s n="n"/><s n="nt"/></l><r>business<s n="n"/></r></p></e>
+    <!--<e><p><l>firma<s n="n"/><s n="nt"/></l><r>firm<s n="n"/></r></p></e>-->
+    <e><p><l>fiskur<s n="n"/><s n="m"/></l><r>fish<s n="n"/></r></p></e>
+    <e><p><l>fiskveiði<s n="n"/><s n="f"/></l><r>fishing<s n="n"/></r></p></e>
+    <e><p><l>fita<s n="n"/><s n="f"/></l><r>fat<s n="n"/></r></p></e>
+    <!--<e><p><l>fiðla<s n="n"/><s n="f"/></l><r>fiddle<s n="n"/></r></p></e>-->
+    <e><p><l>fiðla<s n="n"/><s n="f"/></l><r>violin<s n="n"/></r></p></e>
+    <e><p><l>fiðrildi<s n="n"/><s n="nt"/></l><r>butterfly<s n="n"/></r></p></e>
+    <e><p><l>fjall<s n="n"/><s n="nt"/></l><r>mountain<s n="n"/></r></p></e>
+    <e><p><l>fjallahjól<s n="n"/><s n="nt"/></l><r>mountain<b/>bike<s n="n"/></r></p></e>
+    <e><p><l>fjallgarður<s n="n"/><s n="m"/></l><r>mountain<b/>range<s n="n"/></r></p></e>
+    <e><p><l>fjandi<s n="n"/><s n="m"/></l><r>enemy<s n="n"/></r></p></e>
+    <e><p><l>fjandmaður<s n="n"/><s n="m"/></l><r>enemy<s n="n"/></r></p></e>
+    <e><p><l>fjara<s n="n"/><s n="f"/></l><r>beach<s n="n"/></r></p></e>
+    <e><p><l>fjarki<s n="n"/><s n="m"/></l><r>four<s n="n"/></r></p></e> <!-- in cards -->
+    <e><p><l>fjarlægð<s n="n"/><s n="f"/></l><r>distance<s n="n"/></r></p></e>
+    <e><p><l>fjarvera<s n="n"/><s n="f"/></l><r>absence<s n="n"/></r></p></e>
+    <e><p><l>fjaðurpenni<s n="n"/><s n="m"/></l><r>quill<s n="n"/></r></p></e> <!-- (pen made from a feather) -->
+    <e><p><l>fjárfesting<s n="n"/><s n="f"/></l><r>investment<s n="n"/></r></p></e>
+    <e><p><l>fjárhundur<s n="n"/><s n="m"/></l><r>sheepdog<s n="n"/></r></p></e>
+    <e><p><l>fjármálaráðherra<s n="n"/><s n="m"/></l><r>minister<b/>of<b/>finance<s n="n"/></r></p></e>
+    <e><p><l>fjórðungur<s n="n"/><s n="m"/></l><r>quarter<s n="n"/></r></p></e> <!-- (one of four equal parts) -->
+    <!--<e><p><l>fjós<s n="n"/><s n="nt"/></l><r>cattle<b/>shed<s n="n"/></r></p></e>-->
+    <e><p><l>fjós<s n="n"/><s n="nt"/></l><r>cowshed<s n="n"/></r></p></e>
+    <e><p><l>fjölbreytni<s n="n"/><s n="f"/></l><r>diversity<s n="n"/></r></p></e>
+    <!--<e><p><l>fjölbreytni<s n="n"/><s n="f"/></l><r>variety<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fjölbreytni<s n="n"/><s n="f"/></l><r>polymorphism<s n="n"/></r></p></e>-->
+    <e><p><l>fjöldamorð<s n="n"/><s n="nt"/></l><r>mass<b/>murder<s n="n"/></r></p></e>
+    <!--<e><p><l>fjöldi<s n="n"/><s n="m"/></l><r>great number<s n="n"/></r></p></e>-->
+    <e><p><l>fjöldi<s n="n"/><s n="m"/></l><r>multitude<s n="n"/></r></p></e>
+    <!--<e><p><l>fjöldi<s n="n"/><s n="m"/></l><r>very many<s n="n"/></r></p></e>-->
+    <e><p><l>fjölgyðistrú<s n="n"/><s n="f"/></l><r>polytheism<s n="n"/></r></p></e>
+    <e><p><l>fjölkvæni<s n="n"/><s n="nt"/></l><r>polygamy<s n="n"/></r></p></e>
+    <e><p><l>fjölmiðill<s n="n"/><s n="m"/></l><r>mass<b/>medium<s n="n"/></r></p></e>
+    <e><p><l>fjölskylda<s n="n"/><s n="f"/></l><r>family<s n="n"/></r></p></e>
+    <e><p><l>fjör<s n="n"/><s n="nt"/></l><r>fun<s n="n"/></r></p></e>
+    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>merriment<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>sprightliness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vigor<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vigour<s n="n"/></r></p></e> <!-- British English spelling -->-->
+    <!--<e><p><l>fjör<s n="n"/><s n="nt"/></l><r>vitality<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fjörður<s n="n"/><s n="m"/></l><r>firth<s n="n"/></r></p></e>-->
+    <e><p><l>fjörður<s n="n"/><s n="m"/></l><r>fjord<s n="n"/></r></p></e>
+    <e><p><l>fjötur<s n="n"/><s n="m"/></l><r>fetter<s n="n"/></r></p></e>
+    <e><p><l>flaga<s n="n"/><s n="f"/></l><r>flake<s n="n"/></r></p></e>
+    <e><p><l>flaggdúkur<s n="n"/><s n="nt"/></l><r>bunting<s n="n"/></r></p></e> <!-- flag material -->
+    <e><p><l>flaggskip<s n="n"/><s n="nt"/></l><r>flagship<s n="n"/></r></p></e>
+    <e><p><l>flak<s n="n"/><s n="nt"/></l><r>filet<s n="n"/></r></p></e>
+<!--    <e><p><l>flak<s n="n"/><s n="nt"/></l><r>fillet<s n="n"/></r></p></e> --> <!-- British English spelling  -->
+    <e><p><l>flaska<s n="n"/><s n="f"/></l><r>bottle<s n="n"/></r></p></e>
+    <!--<e><p><l>flaska<s n="n"/><s n="f"/></l><r>flask<s n="n"/></r></p></e>-->
+    <e><p><l>flass<s n="n"/><s n="nt"/></l><r>camera<b/>flash<s n="n"/></r></p></e>
+    <!--<e><p><l>flatarmál<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e>-->
+    <e><p><l>flatarmál<s n="n"/><s n="nt"/></l><r>square<b/>measure<s n="n"/></r></p></e>
+    <e><p><l>flatbaka<s n="n"/><s n="f"/></l><r>pizza<s n="n"/></r></p></e>
+    <e><p><l>flauta<s n="n"/><s n="f"/></l><r>flute<s n="n"/></r></p></e>
+    <!--<e><p><l>flauta<s n="n"/><s n="f"/></l><r>horn<s n="n"/></r></p></e> <!-- (of a car) -->-->
+<!--    <e><p><l>flauta<s n="n"/><s n="f"/></l><r>whistle<s n="n"/></r></p></e> --> <!-- same translation when used as verb-->
+    <e><p><l>fleirtala<s n="n"/><s n="f"/></l><r>plural<s n="n"/></r></p></e>
+    <e><p><l>flensa<s n="n"/><s n="f"/></l><r>flu<s n="n"/></r></p></e> <!-- (influenza) -->
+    <e><p><l>flesk<s n="n"/><s n="nt"/></l><r>bacon<s n="n"/></r></p></e>
+    <e><p><l>fleygur<s n="n"/><s n="m"/></l><r>wedge<s n="n"/></r></p></e>
+    <e><p><l>fljót<s n="n"/><s n="nt"/></l><r>river<s n="n"/></r></p></e>
+    <!--<e><p><l>flokkur<s n="n"/><s n="m"/></l><r>class<s n="n"/></r></p></e>-->
+    <e><p><l>flokkur<s n="n"/><s n="m"/></l><r>group<s n="n"/></r></p></e>
+    <e><p><l>floti<s n="n"/><s n="m"/></l><r>fleet<s n="n"/></r></p></e>
+    <!--<e><p><l>floti<s n="n"/><s n="m"/></l><r>navy<s n="n"/></r></p></e>-->
+    <e><p><l>flug<s n="n"/><s n="nt"/></l><r>flight<s n="n"/></r></p></e>
+    <e><p><l>fluga<s n="n"/><s n="f"/></l><r>fly<s n="n"/></r></p></e> <!-- (insect) -->
+    <e><p><l>flugdreki<s n="n"/><s n="m"/></l><r>kite<s n="n"/></r></p></e>
+    <e><p><l>flugeldur<s n="n"/><s n="m"/></l><r>firework<s n="n"/></r></p></e>
+    <e><p><l>flugher<s n="n"/><s n="m"/></l><r>air<b/>force<s n="n"/></r></p></e>
+    <!--<e><p><l>flugvél<s n="n"/><s n="f"/></l><r>aeroplane<s n="n"/></r></p></e>-->
+    <e><p><l>flugvél<s n="n"/><s n="f"/></l><r>airplane<s n="n"/></r></p></e>
+    <e><p><l>flugvöllur<s n="n"/><s n="m"/></l><r>airport<s n="n"/></r></p></e>
+    <!--<e><p><l>flugvöllur<s n="n"/><s n="m"/></l><r>airfield<s n="n"/></r></p></e>-->
+    <!--<e><p><l>flugvöllur<s n="n"/><s n="m"/></l><r>aerodrome<s n="n"/></r></p></e>-->
+    <e><p><l>flygill<s n="n"/><s n="m"/></l><r>grand<b/>piano<s n="n"/></r></p></e>
+    <e><p><l>flærð<s n="n"/><s n="f"/></l><r>deceit<s n="n"/></r></p></e>
+    <e><p><l>flétta<s n="n"/><s n="f"/></l><r>braid<s n="n"/></r></p></e>
+    <!--<e><p><l>flétta<s n="n"/><s n="f"/></l><r>lichen<s n="n"/></r></p></e>-->
+    <e><p><l>flík<s n="n"/><s n="f"/></l><r>garment<s n="n"/></r></p></e>
+    <e><p><l>fló<s n="n"/><s n="f"/></l><r>flea<s n="n"/></r></p></e>
+    <e><p><l>flói<s n="n"/><s n="m"/></l><r>bay<s n="n"/></r></p></e>
+    <!--<e><p><l>flói<s n="n"/><s n="m"/></l><r>gulf<s n="n"/></r></p></e>-->
+    <e><p><l>flóra<s n="n"/><s n="f"/></l><r>flora<s n="n"/></r></p></e>
+    <e><p><l>flótti<s n="n"/><s n="m"/></l><r>escape<s n="n"/></r></p></e>
+    <!--<e><p><l>flótti<s n="n"/><s n="m"/></l><r>flight<s n="n"/></r></p></e>-->
+    <e><p><l>flúor<s n="n"/><s n="nt"/></l><r>fluorine<s n="n"/></r></p></e>
+    <!--<e><p><l>fold<s n="n"/><s n="f"/></l><r>country<s n="n"/></r></p></e>--> <!-- valid translation probably only in poetry -->
+    <!--<e><p><l>fold<s n="n"/><s n="f"/></l><r>dirt<s n="n"/></r></p></e>-->
+    <e><p><l>fold<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>
+    <!--<e><p><l>fold<s n="n"/><s n="f"/></l><r>ground<s n="n"/></r></p></e>-->
+    <e><p><l>foli<s n="n"/><s n="m"/></l><r>foal<s n="n"/></r></p></e>
+    <!--<e><p><l>foli<s n="n"/><s n="m"/></l><r>stud<s n="n"/></r></p></e>--> <!-- slang -->
+    <!--<e><p><l>for<s n="n"/><s n="f"/></l><r>bog<s n="n"/></r></p></e>-->
+    <!--<e><p><l>for<s n="n"/><s n="f"/></l><r>fen<s n="n"/></r></p></e>-->
+    <e><p><l>for<s n="n"/><s n="f"/></l><r>mud<s n="n"/></r></p></e>
+    <!--<e><p><l>for<s n="n"/><s n="f"/></l><r>swamp<s n="n"/></r></p></e>-->
+    <e><p><l>fordæmi<s n="n"/><s n="nt"/></l><r>example<s n="n"/></r></p></e>
+    <e><p><l>foreldri<s n="n"/><s n="m"/></l><r>parent<s n="n"/></r></p></e>
+    <e><p><l>forhúðarostur<s n="n"/><s n="m"/></l><r>smegma<s n="n"/></r></p></e> <!-- do we really want this in the dictionary?!?!-->
+    <e><p><l>form<s n="n"/><s n="nt"/></l><r>form<s n="n"/></r></p></e>
+    <!--<e><p><l>form<s n="n"/><s n="nt"/></l><r>pattern<s n="n"/></r></p></e>-->
+    <e><p><l>formaður<s n="n"/><s n="m"/></l><r>chairman<s n="n"/></r></p></e>
+    <e><p><l>formáli<s n="n"/><s n="m"/></l><r>foreword<s n="n"/></r></p></e>
+    <!--<e><p><l>formáli<s n="n"/><s n="m"/></l><r>preamble<s n="n"/></r></p></e>-->
+    <!--<e><p><l>formáli<s n="n"/><s n="m"/></l><r>preface<s n="n"/></r></p></e>-->
+    <e><p><l>formæling<s n="n"/><s n="f"/></l><r>curse<s n="n"/></r></p></e>
+    <e><p><l>fornafn<s n="n"/><s n="nt"/></l><r>given<b/>name<s n="n"/></r></p></e>
+    <!--<e><p><l>fornafn<s n="n"/><s n="nt"/></l><r>pronoun<s n="n"/></r></p></e>-->
+    <e><p><l>fornfræði<s n="n"/><s n="f"/></l><r>archaeology<s n="n"/></r></p></e>
+    <e><p><l>forngríska<s n="n"/><s n="f"/></l><r>Ancient<b/>Greek<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>fornöld<s n="n"/><s n="f"/></l><r>ancient<b/>times<s n="n"/></r></p></e>
+    <!--<e><p><l>fornöld<s n="n"/><s n="f"/></l><r>ancient<b/>history<s n="n"/></r></p></e>-->
+    <e><p><l>forrit<s n="n"/><s n="nt"/></l><r>computer<b/>program<s n="n"/></r></p></e>
+    <e><p><l>forritunarmál<s n="n"/><s n="nt"/></l><r>programming<b/>language<s n="n"/></r></p></e>
+    <!--<e><p><l>forsenda<s n="n"/><s n="f"/></l><r>axiom<s n="n"/></r></p></e>-->
+    <!--<e><p><l>forsenda<s n="n"/><s n="f"/></l><r>ground<s n="n"/></r></p></e>-->
+    <!--<e><p><l>forsenda<s n="n"/><s n="f"/></l><r>premise<s n="n"/></r></p></e>-->
+    <e><p><l>forsenda<s n="n"/><s n="f"/></l><r>prerequisite<s n="n"/></r></p></e>
+    <!--<e><p><l>forsenda<s n="n"/><s n="f"/></l><r>term<s n="n"/></r></p></e>-->
+    <e><p><l>forseti<s n="n"/><s n="m"/></l><r>president<s n="n"/></r></p></e>
+    <e><p><l>forsjá<s n="n"/><s n="f"/></l><r>foresight<s n="n"/></r></p></e>
+    <!--<e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>director<s n="n"/></r></p></e>-->
+    <!--<e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>-->
+    <e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>CEO<s n="n"/></r></p></e>
+    <e><p><l>forsæla<s n="n"/><s n="f"/></l><r>shade<s n="n"/></r></p></e>
+    <e><p><l>forsætisráðherra<s n="n"/><s n="m"/></l><r>prime<b/>minister<s n="n"/></r></p></e>
+    <!--<e><p><l>forsíða<s n="n"/><s n="f"/></l><r>main<b/>page<s n="n"/></r></p></e>-->
+    <e><p><l>forsíða<s n="n"/><s n="f"/></l><r>front<b/>page<s n="n"/></r></p></e>
+    <e><p><l>fortíð<s n="n"/><s n="f"/></l><r>past<s n="n"/></r></p></e>
+    <e><p><l>fortíðarþrá<s n="n"/><s n="f"/></l><r>nostalgia<s n="n"/></r></p></e>
+    <e><p><l>forvitni<s n="n"/><s n="f"/></l><r>curiosity<s n="n"/></r></p></e>
+    <e><p><l>forysta<s n="n"/><s n="f"/></l><r>leadership<s n="n"/></r></p></e>
+    <e><p><l>fosfór<s n="n"/><s n="nt"/></l><r>phosphorus<s n="n"/></r></p></e>
+    <e><p><l>fosfórun<s n="n"/><s n="f"/></l><r>phosphorylation<s n="n"/></r></p></e>
+    <e><p><l>foss<s n="n"/><s n="m"/></l><r>waterfall<s n="n"/></r></p></e> <!-- (permanent flow of water over the edge of a cliff) -->
+    <e><p><l>frakki<s n="n"/><s n="m"/></l><r>coat<s n="n"/></r></p></e>
+    <!--<e><p><l>frakki<s n="n"/><s n="m"/></l><r>Frenchman<s n="n"/></r></p></e>-->
+    <e><p><l>framburður<s n="n"/><s n="m"/></l><r>pronunciation<s n="n"/></r></p></e>
+    <e><p><l>framför<s n="n"/><s n="f"/></l><r>progress<s n="n"/></r></p></e>
+    <e><p><l>framhald<s n="n"/><s n="nt"/></l><r>continuation<s n="n"/></r></p></e>
+    <!--<e><p><l>framhald<s n="n"/><s n="nt"/></l><r>sequel<s n="n"/></r></p></e>-->
+    <e><p><l>framhlaðningur<s n="n"/><s n="m"/></l><r>musket<s n="n"/></r></p></e>
+    <!--<e><p><l>framhlaðningur<s n="n"/><s n="m"/></l><r>muzzle-loader<s n="n"/></r></p></e>-->
+    <e><p><l>framhlið<s n="n"/><s n="f"/></l><r>front<s n="n"/></r></p></e>
+    <!--<e><p><l>frami<s n="n"/><s n="m"/></l><r>advancement<s n="n"/></r></p></e>-->
+    <e><p><l>frami<s n="n"/><s n="m"/></l><r>career<s n="n"/></r></p></e>
+    <!--<e><p><l>framkvæmd<s n="n"/><s n="f"/></l><r>performance<s n="n"/></r></p></e>-->
+    <e><p><l>framkvæmd<s n="n"/><s n="f"/></l><r>process<s n="n"/></r></p></e>
+    <!--<e><p><l>framkvæmd<s n="n"/><s n="f"/></l><r>project<s n="n"/></r></p></e>-->
+    <!--<e><p><l>framleiðsla<s n="n"/><s n="f"/></l><r>produce<s n="n"/></r></p></e>-->
+    <e><p><l>framleiðsla<s n="n"/><s n="f"/></l><r>production<s n="n"/></r></p></e>
+    <e><p><l>framsóknarflokkur<s n="n"/><s n="m"/></l><r>Progressive<b/>party<s n="n"/></r></p></e>
+    <e><p><l>framsöguháttur<s n="n"/><s n="m"/></l><r>grammatical<b/>mood<s n="n"/></r></p></e>
+    <e><p><l>framtíð<s n="n"/><s n="f"/></l><r>future<s n="n"/></r></p></e>
+    <e><p><l>franska<s n="n"/><s n="f"/></l><r>French<s n="n"/></r></p></e>
+    <e><p><l>fransín<s n="n"/><s n="nt"/></l><r>francium<s n="n"/></r></p></e>
+    <e><p><l>fregn<s n="n"/><s n="f"/></l><r>news<s n="n"/></r></p></e>
+    <e><p><l>frekna<s n="n"/><s n="f"/></l><r>freckle<s n="n"/></r></p></e>
+    <!--<e><p><l>frelsi<s n="n"/><s n="nt"/></l><r>liberty<s n="n"/></r></p></e>-->
+    <e><p><l>frelsi<s n="n"/><s n="nt"/></l><r>freedom<s n="n"/></r></p></e>
+    <e><p><l>frelsishetja<s n="n"/><s n="f"/></l><r>freedom<b/>hero<s n="n"/></r></p></e>
+    <e><p><l>frestur<s n="n"/><s n="m"/></l><r>delay<s n="n"/></r></p></e>
+    <!--<e><p><l>frestur<s n="n"/><s n="m"/></l><r>respite<s n="n"/></r></p></e>-->
+    <e><p><l>friðarbogi<s n="n"/><s n="m"/></l><r>rainbow<s n="n"/></r></p></e> <!-- rare Icelandic word -->
+    <e><p><l>friðartími<s n="n"/><s n="m"/></l><r>peacetime<s n="n"/></r></p></e>
+    <e><p><l>friður<s n="n"/><s n="m"/></l><r>peace<s n="n"/></r></p></e>
+    <!--<e><p><l>friður<s n="n"/><s n="m"/></l><r>tranquility<s n="n"/></r></p></e>-->
+    <e><p><l>frjálshyggja<s n="n"/><s n="f"/></l><r>libertarianism<s n="n"/></r></p></e>
+    <e><p><l>frjálslyndi<s n="n"/><s n="nt"/></l><r>liberalism<s n="n"/></r></p></e>
+    <e><p><l>froskdýr<s n="n"/><s n="nt"/></l><r>amphibian<s n="n"/></r></p></e> <!-- (vertebrate) -->
+    <e><p><l>froskur<s n="n"/><s n="m"/></l><r>frog<s n="n"/></r></p></e> <!-- (animal) -->
+    <!--<e><p><l>frumefni<s n="n"/><s n="nt"/></l><r>element<s n="n"/></r></p></e>-->
+    <!--<e><p><l>frumefni<s n="n"/><s n="nt"/></l><r>principle<s n="n"/></r></p></e>-->
+    <e><p><l>frumefni<s n="n"/><s n="nt"/></l><r>prime<b/>matter<s n="n"/></r></p></e>
+    <e><p><l>frumeind<s n="n"/><s n="f"/></l><r>atom<s n="n"/></r></p></e>
+    <e><p><l>frumkvæði<s n="n"/><s n="nt"/></l><r>initiative<s n="n"/></r></p></e>
+    <e><p><l>frumlag<s n="n"/><s n="nt"/></l><r>subject<s n="n"/></r></p></e>
+    <e><p><l>frumspeki<s n="n"/><s n="f"/></l><r>metaphysics<s n="n"/></r></p></e>
+    <e><p><l>frumstig<s n="n"/><s n="nt"/></l><r>initial<b/>stage<s n="n"/></r></p></e>
+<!--    <e><p><l>frumstig<s n="n"/><s n="nt"/></l><r>positive<s n="n"/></r></p></e> --> <!-- in linguistics -->
+    <e><p><l>frumufræði<s n="n"/><s n="f"/></l><r>cytology<s n="n"/></r></p></e>
+    <e><p><l>frumuhimna<s n="n"/><s n="f"/></l><r>cell<b/>membrane<s n="n"/></r></p></e>
+    <e><p><l>frumuveggur<s n="n"/><s n="m"/></l><r>cell<b/>wall<s n="n"/></r></p></e>
+    <e><p><l>frumvarp<s n="n"/><s n="nt"/></l><r>act<b/>of<b/>parliament<s n="n"/></r></p></e>
+    <e><p><l>frádráttur<s n="n"/><s n="m"/></l><r>deduction<s n="n"/></r></p></e>
+    <!--<e><p><l>frádráttur<s n="n"/><s n="m"/></l><r>subtraction<s n="n"/></r></p></e>-->
+    <e><p><l>fráfall<s n="n"/><s n="nt"/></l><r>death<s n="n"/></r></p></e>
+    <e><p><l>frásögn<s n="n"/><s n="f"/></l><r>narrative<s n="n"/></r></p></e>
+    <e><p><l>fræ<s n="n"/><s n="nt"/></l><r>seed<s n="n"/></r></p></e> <!-- (of a plant) -->
+    <e><p><l>frægð<s n="n"/><s n="f"/></l><r>fame<s n="n"/></r></p></e>
+    <e><p><l>frændi<s n="n"/><s n="m"/></l><r>male<b/>cousin<s n="n"/></r></p></e>
+    <!--<e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>-->
+    <!--<e><p><l>frændi<s n="n"/><s n="m"/></l><r>nephew<s n="n"/></r></p></e>-->
+    <e><p><l>frændsemi<s n="n"/><s n="f"/></l><r>kinship<s n="n"/></r></p></e>
+    <e><p><l>frænka<s n="n"/><s n="f"/></l><r>female<b/>cousin<s n="n"/></r></p></e>
+    <!--<e><p><l>frænka<s n="n"/><s n="f"/></l><r>aunt<s n="n"/></r></p></e>-->
+    <!--<e><p><l>frænka<s n="n"/><s n="f"/></l><r>niece<s n="n"/></r></p></e>-->
+    <e><p><l>frétt<s n="n"/><s n="f"/></l><r>news<s n="n"/></r></p></e>
+    <e><p><l>fréttablað<s n="n"/><s n="nt"/></l><r>newspaper<s n="n"/></r></p></e>
+    <e><p><l>frí<s n="n"/><s n="nt"/></l><r>holiday<s n="n"/></r></p></e>
+    <e><p><l>frísneska<s n="n"/><s n="f"/></l><r>Frisian<s n="n"/></r></p></e>
+    <e><p><l>fró<s n="n"/><s n="f"/></l><r>relief<s n="n"/></r></p></e>
+    <!--<e><p><l>fró<s n="n"/><s n="f"/></l><r>satisfaction<s n="n"/></r></p></e>-->
+    <e><p><l>frú<s n="n"/><s n="f"/></l><r>Mrs.<s n="n"/></r></p></e>
+    <!--<e><p><l>frú<s n="n"/><s n="f"/></l><r>lady<s n="n"/></r></p></e>-->
+    <!--<e><p><l>frú<s n="n"/><s n="f"/></l><r>madam<s n="n"/></r></p></e>-->
+    <!--<e><p><l>frú<s n="n"/><s n="f"/></l><r>missus<s n="n"/></r></p></e>-->
+    <e><p><l>fugl<s n="n"/><s n="m"/></l><r>bird<s n="n"/></r></p></e>
+    <e><p><l>fuglafræði<s n="n"/><s n="f"/></l><r>ornithology<s n="n"/></r></p></e>
+<!--    <e><p><l>fullorðinn<s n="n"/><s n="m"/></l><r>adult<s n="n"/></r></p></e> --> <!-- adjective -->
+    <e><p><l>fulltingi<s n="n"/><s n="nt"/></l><r>help<s n="n"/></r></p></e>
+    <!--<e><p><l>fulltrúi<s n="n"/><s n="m"/></l><r>delegate<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fulltrúi<s n="n"/><s n="m"/></l><r>deputy<s n="n"/></r></p></e>-->
+    <e><p><l>fulltrúi<s n="n"/><s n="m"/></l><r>representative<s n="n"/></r></p></e>
+    <!--<e><p><l>fundur<s n="n"/><s n="m"/></l><r>discovery<s n="n"/></r></p></e>-->
+    <e><p><l>fundur<s n="n"/><s n="m"/></l><r>meeting<s n="n"/></r></p></e>
+    <e><p><l>fura<s n="n"/><s n="f"/></l><r>pine<s n="n"/></r></p></e>
+    <e><p><l>fylgd<s n="n"/><s n="f"/></l><r>escort<s n="n"/></r></p></e>
+    <!--<e><p><l>fylgd<s n="n"/><s n="f"/></l><r>guidance<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fylgd<s n="n"/><s n="f"/></l><r>retinue<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fylgja<s n="v"/><s n="f"/></l><r>accompany<s n="v"/></r></p></e>-->  <!-- verb -->
+    <!--<e><p><l>fylgja<s n="v"/><s n="f"/></l><r>follow<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>fylgja<s n="v"/><s n="f"/></l><r>support<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>fylgja<s n="n"/><s n="f"/></l><r>afterbirth<s n="n"/></r></p></e>-->
+    <e><p><l>fylgja<s n="n"/><s n="f"/></l><r>placenta<s n="n"/></r></p></e>
+    <e><p><l>fylgsni<s n="n"/><s n="nt"/></l><r>hideout<s n="n"/></r></p></e>
+    <!--<e><p><l>fylki<s n="n"/><s n="nt"/></l><r>array<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fylki<s n="n"/><s n="nt"/></l><r>matrix<s n="n"/></r></p></e>-->
+    <e><p><l>fylki<s n="n"/><s n="nt"/></l><r>state<s n="n"/></r></p></e>
+    <e><p><l>fylking<s n="n"/><s n="f"/></l><r>formation<s n="n"/></r></p></e>
+    <e><p><l>fyrirkomulag<s n="n"/><s n="nt"/></l><r>arrangement<s n="n"/></r></p></e>
+    <e><p><l>fyrirlestur<s n="n"/><s n="m"/></l><r>lecture<s n="n"/></r></p></e>
+    <e><p><l>fyrirmynd<s n="n"/><s n="f"/></l><r>example<s n="n"/></r></p></e>
+    <!--<e><p><l>fyrirmynd<s n="n"/><s n="f"/></l><r>ideal<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fyrirmynd<s n="n"/><s n="f"/></l><r>pattern<s n="n"/></r></p></e>-->
+    <e><p><l>fyrirspurn<s n="n"/><s n="f"/></l><r>enquiry<s n="n"/></r></p></e>
+    <e><p><l>fyrirtæki<s n="n"/><s n="nt"/></l><r>company<s n="n"/></r></p></e>
+    <!--<e><p><l>fyrirtæki<s n="n"/><s n="nt"/></l><r>business<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fyrirtæki<s n="n"/><s n="nt"/></l><r>enterprise<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fyrirtæki<s n="n"/><s n="nt"/></l><r>firm<s n="n"/></r></p></e>-->
+    <e><p><l>fálki<s n="n"/><s n="m"/></l><r>falcon<s n="n"/></r></p></e> <!-- (bird of the genus Falco) -->
+    <e><p><l>fána<s n="n"/><s n="f"/></l><r>fauna<s n="n"/></r></p></e>
+    <e><p><l>fáni<s n="n"/><s n="m"/></l><r>flag<s n="n"/></r></p></e>
+    <!--<e><p><l>fár<s n="n"/><s n="nt"/></l><r>fever<s n="n"/></r></p></e>-->
+    <e><p><l>fár<s n="n"/><s n="nt"/></l><r>craze<s n="n"/></r></p></e>
+    <!--<e><p><l>fár<s n="n"/><s n="nt"/></l><r>hoopla<s n="n"/></r></p></e>-->
+    <e><p><l>fátækt<s n="n"/><s n="f"/></l><r>poverty<s n="n"/></r></p></e>
+    <!--<e><p><l>færa<s n="v"/><s n="f"/></l><r>bring<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>færeyska<s n="n"/><s n="f"/></l><r>Faroese<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>færiband<s n="n"/><s n="nt"/></l><r>conveyor<b/>belt<s n="n"/></r></p></e>
+    <!--<e><p><l>fæða<s n="v"/><s n="f"/></l><r>bear<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>fæða<s n="n"/><s n="f"/></l><r>food<s n="n"/></r></p></e>
+    <e><p><l>fæðing<s n="n"/><s n="f"/></l><r>birth<s n="n"/></r></p></e>
+    <!--<e><p><l>fé<s n="n"/><s n="nt"/></l><r>assets<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fé<s n="n"/><s n="nt"/></l><r>livestock<s n="n"/></r></p></e>-->
+    <e><p><l>fé<s n="n"/><s n="nt"/></l><r>money<s n="n"/></r></p></e>
+    <!--<e><p><l>félag<s n="n"/><s n="nt"/></l><r>company<s n="n"/></r></p></e>-->
+    <!--<e><p><l>félag<s n="n"/><s n="nt"/></l><r>partnership<s n="n"/></r></p></e>-->
+    <e><p><l>félag<s n="n"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
+    <!--<e><p><l>félagi<s n="n"/><s n="m"/></l><r>companion<s n="n"/></r></p></e>-->
+    <!--<e><p><l>félagi<s n="n"/><s n="m"/></l><r>comrade<s n="n"/></r></p></e>-->
+    <e><p><l>félagi<s n="n"/><s n="m"/></l><r>partner<s n="n"/></r></p></e>
+    <e><p><l>fénaður<s n="n"/><s n="m"/></l><r>livestock<s n="n"/></r></p></e>
+    <e><p><l>fífill<s n="n"/><s n="m"/></l><r>dandelion<s n="n"/></r></p></e> <!-- (genus Taraxacum) -->
+    <e><p><l>fíkn<s n="n"/><s n="f"/></l><r>addiction<s n="n"/></r></p></e>
+    <e><p><l>fíll<s n="n"/><s n="m"/></l><r>elephant<s n="n"/></r></p></e> <!-- (Elephantidae) -->
+    <e><p><l>fóarn<s n="n"/><s n="nt"/></l><r>gizzard<s n="n"/></r></p></e>
+    <!--<e><p><l>fól<s n="n"/><s n="nt"/></l><r>bully<s n="n"/></r></p></e>-->
+    <e><p><l>fól<s n="n"/><s n="nt"/></l><r>brute<s n="n"/></r></p></e>
+    <!--<e><p><l>fól<s n="n"/><s n="nt"/></l><r>fool<s n="n"/></r></p></e>-->
+    <!--<e><p><l>fólk<s n="n"/><s n="nt"/></l><r>folk<s n="n"/></r></p></e>-->
+    <e><p><l>fólk<s n="n"/><s n="nt"/></l><r>people<s n="n"/></r></p></e>
+    <e><p><l>fólksfjöldi<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
+    <e><p><l>fórn<s n="n"/><s n="f"/></l><r>sacrifice<s n="n"/></r></p></e>
+    <e><p><l>fórnarlamb<s n="n"/><s n="nt"/></l><r>victim<s n="n"/></r></p></e>
+    <!--<e><p><l>fóstra<s n="n"/><s n="f"/></l><r>nanny<s n="n"/></r></p></e>-->
+    <e><p><l>fóstra<s n="n"/><s n="f"/></l><r>foster<b/>mother<s n="n"/></r></p></e>
+    <e><p><l>fóstri<s n="n"/><s n="f"/></l><r>foster<b/>father<s n="n"/></r></p></e>
+    <e><p><l>fótbolti<s n="n"/><s n="m"/></l><r>football<s n="n"/></r></p></e>
+    <e><p><l>fótgangandi<s n="n"/><s n="m"/></l><r>on<b/>foot<s n="n"/></r></p></e>
+    <!--<e><p><l>fótgangandi<s n="n"/><s n="m"/></l><r>walking<s n="n"/></r></p></e>-->
+    <e><p><l>fótsnyrting<s n="n"/><s n="f"/></l><r>pedicure<s n="n"/></r></p></e>
+    <e><p><l>fótur<s n="n"/><s n="m"/></l><r>foot<s n="n"/></r></p></e>
+    <e><p><l>fóður<s n="n"/><s n="nt"/></l><r>fodder<s n="n"/></r></p></e>
+    <e><p><l>fóður<s n="n"/><s n="nt"/></l><r>lining<s n="n"/></r></p></e>
+    <e><p><l>fölvi<s n="n"/><s n="m"/></l><r>pallor<s n="n"/></r></p></e>
+    <e><p><l>fönix<s n="n"/><s n="m"/></l><r>phoenix<s n="n"/></r></p></e> <!-- (mythological bird) -->
+    <e><p><l>för<s n="n"/><s n="f"/></l><r>journey<s n="n"/></r></p></e>
+    <!--<e><p><l>för<s n="n"/><s n="f"/></l><r>voyage<s n="n"/></r></p></e>-->
+    <e><p><l>föst<b/>laun<s n="n"/><s n="nt"/></l><r>fixed<b/>salary<s n="n"/></r></p></e> <!-- (fixed amount of money paid on monthly or annual basis) -->
+    <e><p><l>föstudagur<s n="n"/><s n="m"/></l><r>Friday<s n="n"/></r></p></e>
+    <e><p><l>föstudagurinn<b/>langi<s n="n"/><s n="m"/></l><r>Good<b/>Friday<s n="n"/></r></p></e>
+    <e><p><l>föt<s n="n"/><s n="nt"/></l><r>clothes<s n="n"/></r></p></e>
+    <e><p><l>föðurbróðir<s n="n"/><s n="m"/></l><r>paternal<b/>uncle<s n="n"/></r></p></e>
+    <e><p><l>föðurland<s n="n"/><s n="nt"/></l><r>fatherland<s n="n"/></r></p></e>
+    <!--<e><p><l>föðurland<s n="n"/><s n="nt"/></l><r>native<b/>land<s n="n"/></r></p></e>-->
+    <e><p><l>föðursystir<s n="n"/><s n="f"/></l><r>paternal<b/>aunt<s n="n"/></r></p></e>
+    <e><p><l>fýll<s n="n"/><s n="m"/></l><r>fulmar<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
     
