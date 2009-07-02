@@ -87,8 +87,8 @@ apertium_is_en_DATA=$(PREFIX1).automorf.bin \
 	            $(PREFIX1).mode modes.xml
 		  
 install-data-local:
-	cp *.mode modes/
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
+	cp *.mode modes/
 	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_is_modesdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_is_endir)
