@@ -1527,6 +1527,20 @@
     <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
 
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
+
+    <e><p><l>janúar<s n="n"/><s n="nt"/></l><r>January<s n="n"/></r></p></e>
+    <e><p><l>febrúar<s n="n"/><s n="nt"/></l><r>February<s n="n"/></r></p></e>
+    <e><p><l>mars<s n="n"/><s n="m"/></l><r>March<s n="n"/></r></p></e>
+    <e><p><l>apríl<s n="n"/><s n="nt"/></l><r>April<s n="n"/></r></p></e>
+    <e><p><l>maí<s n="n"/><s n="nt"/></l><r>May<s n="n"/></r></p></e>
+    <e><p><l>júní<s n="n"/><s n="nt"/></l><r>June<s n="n"/></r></p></e>
+    <e><p><l>júlí<s n="n"/><s n="nt"/></l><r>July<s n="n"/></r></p></e>
+    <e><p><l>ágúst<s n="n"/><s n="nt"/></l><r>August<s n="n"/></r></p></e>
+    <e><p><l>september<s n="n"/><s n="nt"/></l><r>September<s n="n"/></r></p></e>
+    <e><p><l>október<s n="n"/><s n="nt"/></l><r>October<s n="n"/></r></p></e>
+    <e><p><l>nóvember<s n="n"/><s n="nt"/></l><r>November<s n="n"/></r></p></e>
+    <e><p><l>desember <s n="n"/><s n="nt"/></l><r>December<s n="n"/></r></p></e>
+
     
     <!-- Proper nouns -->
 
