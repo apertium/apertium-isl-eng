@@ -88161,6 +88161,10 @@
         <i>yet</i> 
         <par n="after__cnjadv"/> 
     </e>
+                        <e lm="like" i="">
+        <i>like</i> 
+        <par n="that__cnjsub"/> 
+    </e>
                         <e lm="that" i="">
         <i>that</i> 
         <par n="that__cnjsub"/> 

@@ -8,6 +8,7 @@
     <sdef n="adv"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+    <sdef n="cnjadv"/>
     <sdef n="ant"/>
     <sdef n="pr"/>
     <sdef n="sg"/>
@@ -64,12 +65,18 @@
     <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
 
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
   
   
     <!-- Pronouns -->
