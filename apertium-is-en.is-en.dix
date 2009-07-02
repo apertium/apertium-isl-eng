@@ -1290,6 +1290,219 @@
     <!--<e><p><l>föðurland<s n="n"/><s n="nt"/></l><r>native<b/>land<s n="n"/></r></p></e>-->
     <e><p><l>föðursystir<s n="n"/><s n="f"/></l><r>paternal<b/>aunt<s n="n"/></r></p></e>
     <e><p><l>fýll<s n="n"/><s n="m"/></l><r>fulmar<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>g<s n="n"/><s n="nt"/></l><r>g<s n="n"/></r></p></e>
+    <e><p><l>gabon<s n="n"/><s n="nt"/></l><r>Gabon<s n="n"/></r></p></e>
+    <e><p><l>gaffall<s n="n"/><s n="m"/></l><r>fork<s n="n"/></r></p></e>
+    <e><p><l>gagnrýni<s n="n"/><s n="f"/></l><r>criticism<s n="n"/></r></p></e>
+    <e><p><l>gagnsemi<s n="n"/><s n="f"/></l><r>usefulness<s n="n"/></r></p></e>
+    <e><p><l>galdur<s n="n"/><s n="m"/></l><r>magic<s n="n"/></r></p></e>
+    <!--<e><p><l>galdur<s n="n"/><s n="m"/></l><r>spell<s n="n"/></r></p></e>-->
+    <!--<e><p><l>galdur<s n="n"/><s n="m"/></l><r>sorcery<s n="n"/></r></p></e>-->
+    <!--<e><p><l>galdur<s n="n"/><s n="m"/></l><r>witchcraft<s n="n"/></r></p></e>-->
+    <e><p><l>gallabuxur<s n="n"/><s n="f"/></l><r>jeans<s n="n"/></r></p></e> <!-- only plural, need to do something for that? -->
+    <!--<e><p><l>galli<s n="n"/><s n="m"/></l><r>blemish<s n="n"/></r></p></e>-->
+    <!--<e><p><l>galli<s n="n"/><s n="m"/></l><r>defect<s n="n"/></r></p></e>-->
+    <e><p><l>galli<s n="n"/><s n="m"/></l><r>fault<s n="n"/></r></p></e>
+    <e><p><l>gallín<s n="n"/><s n="nt"/></l><r>gallium<s n="n"/></r></p></e>
+    <!--<e><p><l>gaman<s n="n"/><s n="nt"/></l><r>amusement<s n="n"/></r></p></e>-->
+    <e><p><l>gaman<s n="n"/><s n="nt"/></l><r>fun<s n="n"/></r></p></e>
+    <e><p><l>gamlárskvöld<s n="n"/><s n="nt"/></l><r>New<b/>Year’s<b/>Eve<s n="n"/></r></p></e>
+    <!--<e><p><l>gangur<s n="n"/><s n="m"/></l><r>corridor<s n="n"/></r></p></e>-->
+    <e><p><l>gangur<s n="n"/><s n="m"/></l><r>hallway<s n="n"/></r></p></e>
+    <!--<e><p><l>gangur<s n="n"/><s n="m"/></l><r>action<s n="n"/></r></p></e>--> <!-- verb-->
+    <!--<e><p><l>gangur<s n="n"/><s n="m"/></l><r>flow<s n="n"/></r></p></e>--> <!-- verb-->
+    <!--<e><p><l>gangur<s n="n"/><s n="m"/></l><r>movement<s n="n"/></r></p></e>--> <!-- verb-->
+    <e><p><l>garn<s n="n"/><s n="nt"/></l><r>yarn<s n="n"/></r></p></e>
+    <e><p><l>garðakornblóm<s n="n"/><s n="nt"/></l><r>cornflower<s n="n"/></r></p></e>
+    <e><p><l>garðrækt<s n="n"/><s n="f"/></l><r>gardening<s n="n"/></r></p></e>
+    <!--<e><p><l>garður<s n="n"/><s n="m"/></l><r>fence<s n="n"/></r></p></e>-->
+    <e><p><l>garður<s n="n"/><s n="m"/></l><r>garden<s n="n"/></r></p></e>
+    <!--<e><p><l>garður<s n="n"/><s n="m"/></l><r>wall<s n="n"/></r></p></e>-->
+    <!--<e><p><l>garður<s n="n"/><s n="m"/></l><r>yard<s n="n"/></r></p></e>-->
+    <e><p><l>garðyrkja<s n="n"/><s n="f"/></l><r>gardening<s n="n"/></r></p></e>
+    <e><p><l>garðyrkjufræði<s n="n"/><s n="f"/></l><r>horticulture<s n="n"/></r></p></e> <!-- (the science of caring for gardens) -->
+    <e><p><l>garðyrkjumaður<s n="n"/><s n="m"/></l><r>gardener<s n="n"/></r></p></e>
+    <e><p><l>gas<s n="n"/><s n="nt"/></l><r>gas<s n="n"/></r></p></e>
+    <e><p><l>gashylki<s n="n"/><s n="nt"/></l><r>gas<b/>canister<s n="n"/></r></p></e>
+    <!--<e><p><l>gata<s n="n"/><s n="f"/></l><r>path<s n="n"/></r></p></e>-->
+    <e><p><l>gata<s n="n"/><s n="f"/></l><r>road<s n="n"/></r></p></e>
+    <!--<e><p><l>gata<s n="n"/><s n="f"/></l><r>street<s n="n"/></r></p></e>-->
+    <e><p><l>gatnamót<s n="n"/><s n="nt"/></l><r>intersection<s n="n"/></r></p></e> <!-- only plural in Icelandic -->
+    <e><p><l>gaukur<s n="n"/><s n="m"/></l><r>cuckoo<s n="n"/></r></p></e>
+    <e><p><l>gedda<s n="n"/><s n="f"/></l><r>pike<s n="n"/></r></p></e> <!-- (fish of the genus Esox) -->
+    <e><p><l>geimskip<s n="n"/><s n="nt"/></l><r>spaceship<s n="n"/></r></p></e>
+    <e><p><l>geimur<s n="n"/><s n="m"/></l><r>outer<b/>space<s n="n"/></r></p></e>
+    <e><p><l>geirfugl<s n="n"/><s n="m"/></l><r>great<b/>auk<s n="n"/></r></p></e>
+    <e><p><l>geislabaugur<s n="n"/><s n="m"/></l><r>halo<s n="n"/></r></p></e> <!-- (luminous disc around the heads of saints) -->
+    <e><p><l>geisladiskur<s n="n"/><s n="m"/></l><r>compact<b/>disc<s n="n"/></r></p></e>
+    <e><p><l>geisli<s n="n"/><s n="m"/></l><r>beam<s n="n"/></r></p></e> <!-- of light ->
+    <!--<e><p><l>geisli<s n="n"/><s n="m"/></l><r>ray<s n="n"/></r></p></e>-->
+    <e><p><l>geislun<s n="n"/><s n="f"/></l><r>radiation<s n="n"/></r></p></e>
+    <e><p><l>geit<s n="n"/><s n="f"/></l><r>goat<s n="n"/></r></p></e>
+    <e><p><l>geitingur<s n="n"/><s n="m"/></l><r>wasp<s n="n"/></r></p></e>
+    <e><p><l>geldingur<s n="n"/><s n="m"/></l><r>eunuch<s n="n"/></r></p></e>
+    <e><p><l>gemsi<s n="n"/><s n="m"/></l><r>mobile<b/>phone<s n="n"/></r></p></e>
+    <e><p><l>gengi<s n="n"/><s n="nt"/></l><r>exchange<b/>rate<s n="n"/></r></p></e>
+    <e><p><l>ger<s n="n"/><s n="nt"/></l><r>yeast<s n="n"/></r></p></e>
+    <e><p><l>gersemi<s n="n"/><s n="f"/></l><r>treasure<s n="n"/></r></p></e>
+    <e><p><l>gervigreind<s n="n"/><s n="f"/></l><r>artificial<b/>intelligence<s n="n"/></r></p></e>
+    <!--<e><p><l>gerð<s n="n"/><s n="f"/></l><r>kind <s n="n"/></r></p></e>-->
+    <e><p><l>gerð<s n="n"/><s n="f"/></l><r>make<s n="n"/></r></p></e>
+    <e><p><l>gestgjafi<s n="n"/><s n="m"/></l><r>host<s n="n"/></r></p></e>
+    <!--<e><p><l>gestgjafi<s n="n"/><s n="m"/></l><r>hostess<s n="n"/></r></p></e>-->
+    <e><p><l>gestrisni<s n="n"/><s n="f"/></l><r>hospitality<s n="n"/></r></p></e>
+    <e><p><l>gestur<s n="n"/><s n="m"/></l><r>guest<s n="n"/></r></p></e>
+    <!--<e><p><l>gestur<s n="n"/><s n="m"/></l><r>visitor<s n="n"/></r></p></e>-->
+    <e><p><l>geta<s n="n"/><s n="f"/></l><r>ability<s n="n"/></r></p></e>
+    <e><p><l>getnaðarlimur<s n="n"/><s n="m"/></l><r>penis<s n="n"/></r></p></e> <!-- (the male sexual organ for copulation and urination) -->
+    <!--<e><p><l>geymir<s n="n"/><s n="m"/></l><r>container<s n="n"/></r></p></e>-->
+    <!--<e><p><l>geymir<s n="n"/><s n="m"/></l><r>reservoir<s n="n"/></r></p></e>-->
+    <e><p><l>geymir<s n="n"/><s n="m"/></l><r>tank<s n="n"/></r></p></e>
+    <e><p><l>geymsla<s n="n"/><s n="f"/></l><r>storeroom<s n="n"/></r></p></e>
+    <e><p><l>geð<s n="n"/><s n="nt"/></l><r>disposition<s n="n"/></r></p></e>
+    <!--<e><p><l>geð<s n="n"/><s n="nt"/></l><r>temper<s n="n"/></r></p></e>-->
+    <e><p><l>geðklofi<s n="n"/><s n="m"/></l><r>schizophrenic<s n="n"/></r></p></e>
+    <e><p><l>geðlæknir<s n="n"/><s n="m"/></l><r>psychiatrist<s n="n"/></r></p></e>
+    <e><p><l>gifta<s n="n"/><s n="f"/></l><r>marry<s n="n"/></r></p></e>
+    <e><p><l>gifting<s n="n"/><s n="f"/></l><r>wedding<s n="n"/></r></p></e>
+    <e><p><l>giftingarhringur<s n="n"/><s n="m"/></l><r>wedding<b/>ring<s n="n"/></r></p></e>
+    <!--<e><p><l>taka<b/>gildi<s n="n"/><s n="nt"/></l><r>take<b/>effect<s n="n"/></r></p></e>-->
+    <e><p><l>gildi<s n="n"/><s n="nt"/></l><r>value<s n="n"/></r></p></e>
+    <!--<e><p><l>girnd<s n="n"/><s n="f"/></l><r>desire<s n="n"/></r></p></e>-->
+    <e><p><l>girnd<s n="n"/><s n="f"/></l><r>lust<s n="n"/></r></p></e>
+    <e><p><l>girni<s n="n"/><s n="nt"/></l><r>fishing<b/>line<s n="n"/></r></p></e>
+    <e><p><l>gistihús<s n="n"/><s n="nt"/></l><r>guesthouse<s n="n"/></r></p></e>
+    <!--<e><p><l>gistihús<s n="n"/><s n="nt"/></l><r>inn<s n="n"/></r></p></e>-->
+    <e><p><l>gjald<s n="n"/><s n="nt"/></l><r>fee<s n="n"/></r></p></e>
+    <!--<e><p><l>gjald<s n="n"/><s n="nt"/></l><r>payment<s n="n"/></r></p></e>-->
+    <e><p><l>gjaldeyrir<s n="n"/><s n="m"/></l><r>foreign<b/>currency<s n="n"/></r></p></e>
+    <e><p><l>gjaldkeri<s n="n"/><s n="m"/></l><r>cashier<s n="n"/></r></p></e>
+    <!--<e><p><l>gjaldkeri<s n="n"/><s n="m"/></l><r>teller<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gjaldkeri<s n="n"/><s n="m"/></l><r>treasurer<s n="n"/></r></p></e>-->
+    <e><p><l>gjaldmiðill<s n="n"/><s n="m"/></l><r>currency<s n="n"/></r></p></e>
+    <!--<e><p><l>gjöf<s n="n"/><s n="f"/></l><r>feeding<s n="n"/></r></p></e>-->
+    <e><p><l>gjöf<s n="n"/><s n="f"/></l><r>gift<s n="n"/></r></p></e>
+    <!--<e><p><l>gjöf<s n="n"/><s n="f"/></l><r>present<s n="n"/></r></p></e>-->
+    <e><p><l>glas<s n="n"/><s n="nt"/></l><r>glass<s n="n"/></r></p></e> <!-- (beverage container) -->
+    <e><p><l>glassúr<s n="n"/><s n="nt"/></l><r>glaze_<s n="n"/></r></p></e>
+    <e><p><l>gler<s n="n"/><s n="nt"/></l><r>glass<s n="n"/></r></p></e> <!-- (material) -->
+    <e><p><l>gleraugu<s n="n"/><s n="nt"/></l><r>glasses<s n="n"/></r></p></e>
+    <!--<e><p><l>gleraugu<s n="n"/><s n="nt"/></l><r>eyeglasses<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gleraugu<s n="n"/><s n="nt"/></l><r>spectacles<s n="n"/></r></p></e>-->
+    <e><p><l>gleym-mér-ei<s n="n"/><s n="f"/></l><r>forget-me-not<s n="n"/></r></p></e> <!-- (Myosotis arvensis) -->
+    <e><p><l>gleði<s n="n"/><s n="f"/></l><r>happiness<s n="n"/></r></p></e>
+    <!--<e><p><l>gleði<s n="n"/><s n="f"/></l><r>joy<s n="n"/></r></p></e>-->
+    <e><p><l>gluggatjald<s n="n"/><s n="nt"/></l><r>curtain<s n="n"/></r></p></e>
+    <e><p><l>gluggi<s n="n"/><s n="m"/></l><r>window<s n="n"/></r></p></e>
+    <e><p><l>glæpamaður<s n="n"/><s n="m"/></l><r>criminal<s n="n"/></r></p></e>
+    <e><p><l>glæpur<s n="n"/><s n="m"/></l><r>crime<s n="n"/></r></p></e>
+    <e><p><l>glæra<s n="n"/><s n="f"/></l><r>transparency<s n="n"/></r></p></e>
+    <e><p><l>glæruvængur<s n="n"/><s n="m"/></l><r>pterygium<s n="n"/></r></p></e>
+    <e><p><l>glíma<s n="n"/><s n="f"/></l><r>wrestling<s n="n"/></r></p></e>
+    <e><p><l>glópagull<s n="n"/><s n="nt"/></l><r>fool's<b/>gold<s n="n"/></r></p></e>
+    <!--<e><p><l>glósur<s n="n"/><s n="f"/></l><r>glossary<s n="n"/></r></p></e>-->
+    <e><p><l>glósur<s n="n"/><s n="f"/></l><r>notes<s n="n"/></r></p></e>
+    <e><p><l>glóð<s n="n"/><s n="f"/></l><r>ember<s n="n"/></r></p></e>
+    <e><p><l>gnótt<s n="n"/><s n="f"/></l><r>abundance<s n="n"/></r></p></e>
+    <e><p><l>gola<s n="n"/><s n="f"/></l><r>breeze<s n="n"/></r></p></e>
+    <e><p><l>gormur<s n="n"/><s n="m"/></l><r>spring<s n="n"/></r></p></e>
+    <e><p><l>gos<s n="n"/><s n="nt"/></l><r>soda<s n="n"/></r></p></e>
+    <!--<e><p><l>gos<s n="n"/><s n="nt"/></l><r>soft<b/>drink<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gos<s n="n"/><s n="nt"/></l><r>eruption<s n="n"/></r></p></e>-->
+    <!--<e><p><l>goð<s n="n"/><s n="nt"/></l><r>idol<s n="n"/></r></p></e>-->
+    <e><p><l>goð<s n="n"/><s n="nt"/></l><r>deity<s n="n"/></r></p></e>
+    <!--<e><p><l>goð<s n="n"/><s n="nt"/></l><r>god<s n="n"/></r></p></e>-->
+    <e><p><l>goðafræði<s n="n"/><s n="f"/></l><r>mythology<s n="n"/></r></p></e>
+    <e><p><l>goðmagn<s n="n"/><s n="nt"/></l><r>deity<s n="n"/></r></p></e>
+    <e><p><l>grafhýsi<s n="n"/><s n="nt"/></l><r>tomb<s n="n"/></r></p></e>
+    <e><p><l>gramm<s n="n"/><s n="nt"/></l><r>gram<s n="n"/></r></p></e>
+    <e><p><l>gramm<s n="n"/><s n="nt"/></l><r>gramme<s n="n"/></r></p></e>
+    <e><p><l>grammófónn<s n="n"/><s n="m"/></l><r>gramophone<s n="n"/></r></p></e>
+    <e><p><l>grannfræði<s n="n"/><s n="f"/></l><r>topology<s n="n"/></r></p></e>
+    <e><p><l>gras<s n="n"/><s n="nt"/></l><r>grass<s n="n"/></r></p></e>
+    <!--<e><p><l>gras<s n="n"/><s n="nt"/></l><r>poaceae<s n="n"/></r></p></e>-->
+    <e><p><l>grasafræði<s n="n"/><s n="f"/></l><r>botany<s n="n"/></r></p></e>
+    <e><p><l>grassnákur<s n="n"/><s n="m"/></l><r>grass<b/>snake<s n="n"/></r></p></e> <!-- (Natrix natrix) -->
+    <!--<e><p><l>grautur<s n="n"/><s n="m"/></l><r>confusion<s n="n"/></r></p></e>-->
+    <!--<e><p><l>grautur<s n="n"/><s n="m"/></l><r>muddle<s n="n"/></r></p></e>-->
+    <e><p><l>grautur<s n="n"/><s n="m"/></l><r>porridge<s n="n"/></r></p></e>
+    <e><p><l>graðhestur<s n="n"/><s n="m"/></l><r>stallion<s n="n"/></r></p></e> <!-- (horse) -->
+    <e><p><l>gregorssöngur<s n="n"/><s n="m"/></l><r>Gregorian<b/>chant<s n="n"/></r></p></e>
+    <e><p><l>grein<s n="n"/><s n="f"/></l><r>article<s n="n"/></r></p></e>
+    <!--<e><p><l>grein<s n="n"/><s n="f"/></l><r>bough<s n="n"/></r></p></e>-->
+    <!--<e><p><l>grein<s n="n"/><s n="f"/></l><r>branch<s n="n"/></r></p></e>-->
+    <!--<e><p><l>grein<s n="n"/><s n="f"/></l><r>essay<s n="n"/></r></p></e>-->
+    <e><p><l>greinir<s n="n"/><s n="m"/></l><r>definitive<b/>article<s n="n"/></r></p></e>
+    <e><p><l>greiða<s n="n"/><s n="f"/></l><r>comb<s n="n"/></r></p></e>
+    <!--<e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>haircut<s n="n"/></r></p></e>-->
+    <!--<e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>hairdo<s n="n"/></r></p></e>-->
+    <e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>hairstyle<s n="n"/></r></p></e>
+    <!--<e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>payment<s n="n"/></r></p></e>-->
+    <e><p><l>grennd<s n="n"/><s n="f"/></l><r>neighborhood<s n="n"/></r></p></e>
+    <!--<e><p><l>grennd<s n="n"/><s n="f"/></l><r>neighbourhood<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>grind<s n="n"/><s n="f"/></l><r>framework<s n="n"/></r></p></e>
+    <!--<e><p><l>gripur<s n="n"/><s n="m"/></l><r>animal<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gripur<s n="n"/><s n="m"/></l><r>livestock<s n="n"/></r></p></e>-->
+    <e><p><l>gripur<s n="n"/><s n="m"/></l><r>object<s n="n"/></r></p></e>
+    <!--<e><p><l>grið<s n="n"/><s n="nt"/></l><r>peace<s n="n"/></r></p></e>-->
+    <e><p><l>grið<s n="n"/><s n="nt"/></l><r>truce<s n="n"/></r></p></e>
+    <e><p><l>grund<s n="n"/><s n="f"/></l><r>ground<s n="n"/></r></p></e>
+    <e><p><l>grundvöllur<s n="n"/><s n="m"/></l><r>basis<s n="n"/></r></p></e>
+    <!--<e><p><l>grundvöllur<s n="n"/><s n="m"/></l><r>foundation<s n="n"/></r></p></e>-->
+    <e><p><l>grunnskóli<s n="n"/><s n="m"/></l><r>elementary<b/>school<s n="n"/></r></p></e>
+    <!--<e><p><l>grunnskóli<s n="n"/><s n="m"/></l><r>grade<b/>school<s n="n"/></r></p></e>-->
+    <!--<e><p><l>grunnskóli<s n="n"/><s n="m"/></l><r>grammar<b/>school<s n="n"/></r></p></e>-->
+    <e><p><l>grunnur<s n="n"/><s n="m"/></l><r>foundation<s n="n"/></r></p></e>
+    <!--<e><p><l>grunnur<s n="n"/><s n="m"/></l><r>shallow<s n="n"/></r></p></e>-->
+    <e><p><l>grákráka<s n="n"/><s n="f"/></l><r>hooded<b/>crow<s n="n"/></r></p></e>
+    <e><p><l>grátur<s n="n"/><s n="m"/></l><r>crying<s n="n"/></r></p></e>
+    <!--<e><p><l>grátur<s n="n"/><s n="m"/></l><r>weeping<s n="n"/></r></p></e>-->
+    <e><p><l>gráða<s n="n"/><s n="f"/></l><r>degree<s n="n"/></r></p></e>
+    <e><p><l>grænmeti<s n="n"/><s n="nt"/></l><r>vegetables<s n="n"/></r></p></e>
+    <e><p><l>grænspæta<s n="n"/><s n="f"/></l><r>green<b/>woodpecker<s n="n"/></r></p></e> <!-- (bird) -->
+    <e><p><l>gríma<s n="n"/><s n="f"/></l><r>mask<s n="n"/></r></p></e>
+    <e><p><l>gríska<s n="n"/><s n="f"/></l><r>Greek<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>gró<s n="n"/><s n="nt"/></l><r>spore<s n="n"/></r></p></e>
+    <e><p><l>gróf<s n="n"/><s n="f"/></l><r>pit<s n="n"/></r></p></e>
+    <e><p><l>gróði<s n="n"/><s n="m"/></l><r>profit<s n="n"/></r></p></e>
+    <e><p><l>gröf<s n="n"/><s n="f"/></l><r>grave<s n="n"/></r></p></e>
+    <!--<e><p><l>gröf<s n="n"/><s n="f"/></l><r>pit<s n="n"/></r></p></e>-->
+    <e><p><l>gröftur<s n="n"/><s n="m"/></l><r>pus<s n="n"/></r></p></e>
+    <e><p><l>grýlukerti<s n="n"/><s n="nt"/></l><r>icicle<s n="n"/></r></p></e>
+    <e><p><l>gufa<s n="n"/><s n="f"/></l><r>steam<s n="n"/></r></p></e>
+    <e><p><l>gull<s n="n"/><s n="nt"/></l><r>gold<s n="n"/></r></p></e>
+    <e><p><l>gullgerðarmaður<s n="n"/><s n="m"/></l><r>alchemist<s n="n"/></r></p></e>
+    <e><p><l>guð<s n="n"/><s n="m"/></l><r>God<s n="n"/></r></p></e>
+    <!--<e><p><l>guðfræði<s n="n"/><s n="f"/></l><r>divinity<s n="n"/></r></p></e>-->
+    <e><p><l>guðfræði<s n="n"/><s n="f"/></l><r>theology<s n="n"/></r></p></e>
+    <e><p><l>guðfræðingur<s n="n"/><s n="m"/></l><r>theologian<s n="n"/></r></p></e>
+    <e><p><l>guðlast<s n="n"/><s n="nt"/></l><r>blasphemy<s n="n"/></r></p></e>
+    <e><p><l>guðleysi<s n="n"/><s n="nt"/></l><r>atheism<s n="n"/></r></p></e>
+    <e><p><l>guðspjall<s n="n"/><s n="nt"/></l><r>gospel<s n="n"/></r></p></e>
+    <e><p><l>gyðingur<s n="n"/><s n="m"/></l><r>Jew<s n="n"/></r></p></e>
+    <!--<e><p><l>gári<s n="n"/><s n="m"/></l><r>budgerigar<s n="n"/></r></p></e>-->
+    <e><p><l>gári<s n="n"/><s n="m"/></l><r>budgie<s n="n"/></r></p></e>
+    <e><p><l>gát<s n="n"/><s n="f"/></l><r>caution<s n="n"/></r></p></e>
+    <e><p><l>gáta<s n="n"/><s n="f"/></l><r>riddle<s n="n"/></r></p></e>
+    <!--<e><p><l>gær<s n="n"/><s n="m"/></l><r>yesterday<s n="n"/></r></p></e>--> <!-- is always a multiword in Icelandic -->
+    <e><p><l>í<b/>gær<s n="n"/><s n="m"/></l><r>yesterday<s n="n"/></r></p></e>
+    <e><p><l>gæs<s n="n"/><s n="f"/></l><r>goose<s n="n"/></r></p></e>
+    <e><p><l>gæsahúð<s n="n"/><s n="f"/></l><r>goose bumps<s n="n"/></r></p></e>
+    <!--<e><p><l>gæsahúð<s n="n"/><s n="f"/></l><r>goose flesh<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gæsahúð<s n="n"/><s n="f"/></l><r>goose pimples<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gæsahúð<s n="n"/><s n="f"/></l><r>horripilation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gæði<s n="n"/><s n="nt"/></l><r>benefit<s n="n"/></r></p></e>-->
+    <e><p><l>gæði<s n="n"/><s n="nt"/></l><r>quality<s n="n"/></r></p></e>
+    <e><p><l>gír<s n="n"/><s n="m"/></l><r>gear<s n="n"/></r></p></e>
+    <e><p><l>gítar<s n="n"/><s n="m"/></l><r>guitar<s n="n"/></r></p></e>
+    <e><p><l>gítarleikari<s n="n"/><s n="m"/></l><r>guitarist<s n="n"/></r></p></e>
+    <e><p><l>gólf<s n="n"/><s n="nt"/></l><r>floor<s n="n"/></r></p></e>
+    <e><p><l>gómur<s n="n"/><s n="m"/></l><r>gum<s n="n"/></r></p></e> <!-- (of the mouth) -->
+    <e><p><l>göltur<s n="n"/><s n="m"/></l><r>boar<s n="n"/></r></p></e>
+    <e><p><l>göndull<s n="n"/><s n="m"/></l><r>cock<s n="n"/></r></p></e> <!-- (slang for penis) -->
+    <e><p><l>gúmmí<s n="n"/><s n="nt"/></l><r>rubber<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
     
