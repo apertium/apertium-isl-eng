@@ -34662,7 +34662,15 @@
         <i>Adrià</i> 
         <par n="Mark__np"/> 
     </e>
-                        <e lm="Afghanistan" i="">
+    <e lm="Akureyri" i="">
+        <i>Akureyri</i> 
+        <par n="Barcelona__np"/> 
+    </e>
+    <e lm="Reykjavík" i="">
+        <i>Reykjavík</i> 
+        <par n="Barcelona__np"/> 
+    </e>
+    <e lm="Afghanistan" i="">
         <i>Afghanistan</i> 
         <par n="Barcelona__np"/> 
     </e>
@@ -36250,6 +36258,41 @@
         <i>Ukraine</i> 
         <par n="Barcelona__np"/> 
     </e>
+
+    <e lm="Greenland"><i>Greenland</i><par n="Barcelona__np"/></e>
+    <e lm="Netherlands"><i>Netherlands</i><par n="Barcelona__np"/></e>
+    <e lm="Czech"><i>Czech</i><par n="Barcelona__np"/></e>
+    <e lm="Antarctica"><i>Antarctica</i><par n="Barcelona__np"/></e>
+    <e lm="Mongolia"><i>Mongolia</i><par n="Barcelona__np"/></e>
+    <e lm="Americas"><i>Americas</i><par n="Barcelona__np"/></e>
+    <e lm="Cambodia"><i>Cambodia</i><par n="Barcelona__np"/></e>
+    <e lm="Malaysia"><i>Malaysia</i><par n="Barcelona__np"/></e>
+    <e lm="Albania"><i>Albania</i><par n="Barcelona__np"/></e>
+    <e lm="Eritrea"><i>Eritrea</i><par n="Barcelona__np"/></e>
+    <e lm="Gambia"><i>Gambia</i><par n="Barcelona__np"/></e>
+    <e lm="Armenia"><i>Armenia</i><par n="Barcelona__np"/></e>
+    <e lm="Somalia"><i>Somalia</i><par n="Barcelona__np"/></e>
+    <e lm="Namibia"><i>Namibia</i><par n="Barcelona__np"/></e>
+    <e lm="Zambia"><i>Zambia</i><par n="Barcelona__np"/></e>
+    <e lm="Mesopotamia"><i>Mesopotamia</i><par n="Barcelona__np"/></e>
+    <e lm="Oceania"><i>Oceania</i><par n="Barcelona__np"/></e>
+    <e lm="Eurasia"><i>Eurasia</i><par n="Barcelona__np"/></e>
+    <e lm="Scandinavia"><i>Scandinavia</i><par n="Barcelona__np"/></e>
+    <e lm="Bavaria"><i>Bavaria</i><par n="Barcelona__np"/></e>
+    <e lm="Sicily"><i>Sicily</i><par n="Barcelona__np"/></e>
+    <e lm="Sparta"><i>Sparta</i><par n="Barcelona__np"/></e>
+    <e lm="Sardinia"><i>Sardinia</i><par n="Barcelona__np"/></e>
+    <e lm="Jerusalem"><i>Jerusalem</i><par n="Barcelona__np"/></e>
+    <e lm="Kazakhstan"><i>Kazakhstan</i><par n="Barcelona__np"/></e>
+    <e lm="Serbia"><i>Serbia</i><par n="Barcelona__np"/></e>
+    <e lm="Palestine"><i>Palestine</i><par n="Barcelona__np"/></e>
+    <e lm="Hafnarfjörður"><i>Hafnarfjörður</i><par n="Barcelona__np"/></e>
+    <e lm="Siberia"><i>Siberia</i><par n="Barcelona__np"/></e>
+    <e lm="Christiania"><i>Christiania</i><par n="Barcelona__np"/></e>
+    <e lm="Iraq"><i>Iraq</i><par n="Barcelona__np"/></e>
+
+
+
                         <e lm="United Kingdom" i="">
         <i>United<b/>Kingdom</i> 
         <par n="Barcelona__np"/> 
@@ -36985,8 +37028,12 @@
         <i>airfield</i> 
         <par n="house__n"/> 
     </e>
-                        <e lm="airplane" i="">
-        <i>airplane</i> 
+                        <e lm="airplane" i="" r="LR">
+        <p><l>airplane</l><r>aeroplane</r></p> 
+        <par n="house__n"/> 
+    </e>
+                        <e lm="aeroplane" i="">
+        <i>aeroplane</i> 
         <par n="house__n"/> 
     </e>
                         <e lm="airport" i="">

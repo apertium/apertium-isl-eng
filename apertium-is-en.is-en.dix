@@ -92,6 +92,24 @@
 
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e>
+
+    <!-- Numbers -->
+
+    <e><p><l>einn<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
+    <e><p><l>tveir<s n="num"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þrír<s n="num"/></l><r>three<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fjórir<s n="num"/></l><r>four<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fimm<s n="num"/></l><r>five<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sex<s n="num"/></l><r>six<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sjö<s n="num"/></l><r>seven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>átta<s n="num"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>níu<s n="num"/></l><r>nine<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>tíu<s n="num"/></l><r>ten<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>ellefu<s n="num"/></l><r>eleven<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>tólf<s n="num"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
+
+    <e><p><l>fimmtán<s n="num"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
+
     
     <!-- Nouns -->
     <e><p><l>tré<s n="n"/><s n="nt"/></l><r>tree<s n="n"/></r></p></e>
@@ -1062,7 +1080,7 @@
     <e><p><l>flugeldur<s n="n"/><s n="m"/></l><r>firework<s n="n"/></r></p></e>
     <e><p><l>flugher<s n="n"/><s n="m"/></l><r>air<b/>force<s n="n"/></r></p></e>
     <!--<e><p><l>flugvél<s n="n"/><s n="f"/></l><r>aeroplane<s n="n"/></r></p></e>-->
-    <e><p><l>flugvél<s n="n"/><s n="f"/></l><r>airplane<s n="n"/></r></p></e>
+    <e><p><l>flugvél<s n="n"/><s n="f"/></l><r>aeroplane<s n="n"/></r></p></e>
     <e><p><l>flugvöllur<s n="n"/><s n="m"/></l><r>airport<s n="n"/></r></p></e>
     <!--<e><p><l>flugvöllur<s n="n"/><s n="m"/></l><r>airfield<s n="n"/></r></p></e>-->
     <!--<e><p><l>flugvöllur<s n="n"/><s n="m"/></l><r>aerodrome<s n="n"/></r></p></e>-->
@@ -1505,6 +1523,10 @@
     <e><p><l>gúmmí<s n="n"/><s n="nt"/></l><r>rubber<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
+
+    <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
+
+    <e><p><l>ár<s n="n"/><s n="m"/></l><r>year<s n="n"/></r></p></e>
     
     <!-- Proper nouns -->
 
@@ -1571,7 +1593,7 @@
     <e><p><l>Líbería<s n="np"/><s n="top"/><s n="nt"/></l><r>Liberia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Afríka<s n="np"/><s n="top"/><s n="nt"/></l><r>Africa<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Asía<s n="np"/><s n="top"/><s n="nt"/></l><r>Asia<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Georgía<s n="np"/><s n="top"/><s n="nt"/></l><r>Georgia_<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Georgía<s n="np"/><s n="top"/><s n="nt"/></l><r>Georgia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Armenía<s n="np"/><s n="top"/><s n="nt"/></l><r>Armenia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Indónesía<s n="np"/><s n="top"/><s n="nt"/></l><r>Indonesia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Jórdanía<s n="np"/><s n="top"/><s n="nt"/></l><r>Jordan<s n="np"/><s n="top"/></r></p></e>
@@ -1605,7 +1627,6 @@
     <e><p><l>Kasakstan<s n="np"/><s n="top"/><s n="nt"/></l><r>Kazakhstan<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Víetnam<s n="np"/><s n="top"/><s n="nt"/></l><r>Vietnam<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Egyptaland<s n="np"/><s n="top"/><s n="nt"/></l><r>Egypt<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Varða<s n="np"/><s n="top"/><s n="f"/></l><r>Cairn<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Serbía<s n="np"/><s n="top"/><s n="f"/></l><r>Serbia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Palestína<s n="np"/><s n="top"/><s n="f"/></l><r>Palestine<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Hafnarfjörður<s n="np"/><s n="top"/><s n="m"/></l><r>Hafnarfjörður<s n="np"/><s n="top"/></r></p></e>
@@ -1613,7 +1634,6 @@
     <e><p><l>Síbería<s n="np"/><s n="top"/><s n="f"/></l><r>Siberia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kristjanía<s n="np"/><s n="top"/><s n="f"/></l><r>Christiania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Evrópubandalagið<s n="np"/><s n="top"/><s n="nt"/></l><r>European<b/>Union<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Kristur<s n="np"/><s n="top"/><s n="m"/></l><r>Christ<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Japan<s n="np"/><s n="top"/><s n="nt"/></l><r>Japan<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Írak<s n="np"/><s n="top"/><s n="nt"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
 
