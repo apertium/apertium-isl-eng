@@ -6,6 +6,9 @@
      <cat-item tags="n.*"/>
      <cat-item tags="np.al.*"/>
   </def-cat>
+  <def-cat n="top">
+     <cat-item tags="np.top.*"/>
+  </def-cat>
   <def-cat n="ant">
      <cat-item tags="np.ant.*"/>
   </def-cat>
@@ -386,6 +389,29 @@
        </choose>
      </action>
   </rule><!-- END rule for nouns -->
+
+  <rule comment="REGLA: TOP">
+     <pattern>
+       <pattern-item n="top"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="top" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="sl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
 
   <rule>
      <pattern>

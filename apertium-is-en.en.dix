@@ -6,7 +6,7 @@
    <sdef n="acr"/>
    <sdef n="predet"/>
    <sdef n="detnt"/>
-   <sdef n="loc"/>
+   <sdef n="top"/>
    <sdef n="ant"/>
    <sdef n="al"/>
    <sdef n="cog"/>
@@ -2781,7 +2781,7 @@
     <e>
       <p>
         <l/> 
-        <r><s n="np"/><s n="loc"/><s n="sg"/></r> 
+        <r><s n="np"/><s n="top"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -2793,7 +2793,7 @@
     <e>
       <p>
         <l/> 
-        <r><s n="np"/><s n="loc"/><s n="sg"/></r> 
+        <r><s n="np"/><s n="top"/><s n="sg"/></r> 
       </p>
     </e>
 
