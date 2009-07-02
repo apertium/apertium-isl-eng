@@ -1774,9 +1774,11 @@
     <!-- Adverbs -->
     <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
+
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
+    <e><p><l>ekki<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
