@@ -535,7 +535,7 @@
     <e><p><l>bringa<s n="n"/><s n="f"/></l><r>chest<s n="n"/></r></p></e>
     <e><p><l>bringubein<s n="n"/><s n="nt"/></l><r>breastbone<s n="n"/></r></p></e>
     <!--<e><p><l>bringubein<s n="n"/><s n="nt"/></l><r>sternum<s n="n"/></r></p></e>-->
-    <e><p><l>brjóst<s n="n"/><s n="nt"/></l><r>breast <s n="n"/></r></p></e>
+    <e><p><l>brjóst<s n="n"/><s n="nt"/></l><r>breast<s n="n"/></r></p></e>
     <e><p><l>brjóstamjólk<s n="n"/><s n="f"/></l><r>breast<b/>milk<s n="n"/></r></p></e>
     <e><p><l>brjóstsviði<s n="n"/><s n="m"/></l><r>heartburn<s n="n"/></r></p></e>
     <e><p><l>broddgöltur<s n="n"/><s n="m"/></l><r>hedgehog<s n="n"/></r></p></e>
@@ -1539,7 +1539,7 @@
     <e><p><l>september<s n="n"/><s n="nt"/></l><r>September<s n="n"/></r></p></e>
     <e><p><l>október<s n="n"/><s n="nt"/></l><r>October<s n="n"/></r></p></e>
     <e><p><l>nóvember<s n="n"/><s n="nt"/></l><r>November<s n="n"/></r></p></e>
-    <e><p><l>desember <s n="n"/><s n="nt"/></l><r>December<s n="n"/></r></p></e>
+    <e><p><l>desember<s n="n"/><s n="nt"/></l><r>December<s n="n"/></r></p></e>
 
     
     <!-- Proper nouns -->
