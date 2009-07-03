@@ -2090,11 +2090,47 @@
     <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
 
+    <e><p><l>hvar<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
+    <e><p><l>hve<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
+    <e><p><l>hvenær<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
+
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
     <e><p><l>ekki<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e><p><l>fram<s n="adv"/></l><r>forth<s n="adv"/></r></p></e>
+
+    <e><p><l>aðallega<s n="adv"/></l><r>mainly<s n="adv"/></r></p></e>
+    <e><p><l>aðeins<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
+    <e><p><l>áður<s n="adv"/></l><r>before<s n="adv"/></r></p></e>
+    <e><p><l>áfram<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
+    <e><p><l>aftur<s n="adv"/></l><r>back<s n="adv"/></r></p></e>
+    <e><p><l>aldrei<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
+    <e><p><l>algerlega<s n="adv"/></l><r>wholly<s n="adv"/></r></p></e>
+    <e><p><l>alltaf<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+    <e><p><l>alveg<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
+    <e><p><l>auðvitað<s n="adv"/></l><r>of<b/>course<s n="adv"/></r></p></e>
+    <e><p><l>bara<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
+    <e><p><l>betur<s n="adv"/></l><r>better<s n="adv"/></r></p></e>
+    <e><p><l>bráðum<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+    <e><p><l>brátt<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+    <e><p><l>djúpt<s n="adv"/></l><r>deeply<s n="adv"/></r></p></e>
+    <e><p><l>einfaldlega<s n="adv"/></l><r>simply<s n="adv"/></r></p></e>
+    <e><p><l>einnig<s n="adv"/></l><r>moreover<s n="adv"/></r></p></e>
+    <e><p><l>ekki<b/>lengur<s n="adv"/></l><r>no<b/>longer<s n="adv"/></r></p></e>
+    <e><p><l>ennþá<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+    <e><p><l>fjarri<s n="adv"/></l><r>back<s n="adv"/></r></p></e>
+    <e><p><l>frammi<s n="adv"/></l><r>out<s n="adv"/></r></p></e>
+    <e><p><l>fyrr<s n="adv"/></l><r>earlier<s n="adv"/></r></p></e>
+    <e><p><l>gjarnan<s n="adv"/></l><r>gladly<s n="adv"/></r></p></e>
+    <e><p><l>hægt<s n="adv"/></l><r>slowly<s n="adv"/></r></p></e>
+    <e><p><l>hátt<s n="adv"/></l><r>high<s n="adv"/></r></p></e>
+    <e><p><l>heima<s n="adv"/></l><r>at<b/>home<s n="adv"/></r></p></e>
+    <e><p><l>hér<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>illa<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
+    <e><p><l>inn<s n="adv"/></l><r>in<s n="adv"/></r></p></e>
+    <e><p><l>innan<s n="adv"/></l><r>within<s n="adv"/></r></p></e>
+
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
