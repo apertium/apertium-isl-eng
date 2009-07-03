@@ -72,6 +72,7 @@
 
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>þegar<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
 
     <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
@@ -1839,6 +1840,7 @@
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
+    <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
     <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
 
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
@@ -2130,6 +2132,43 @@
     <e><p><l>illa<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
     <e><p><l>inn<s n="adv"/></l><r>in<s n="adv"/></r></p></e>
     <e><p><l>innan<s n="adv"/></l><r>within<s n="adv"/></r></p></e>
+
+    <e><p><l>já<s n="adv"/></l><r>yes<s n="adv"/></r></p></e>
+    <e><p><l>jú<s n="adv"/></l><r>yes<s n="adv"/></r></p></e>
+    <e><p><l>kannski<s n="adv"/></l><r>maybe<s n="adv"/></r></p></e>
+    <e><p><l>langt<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e><p><l>lengi<s n="adv"/></l><r>long<s n="adv"/></r></p></e>
+    <e><p><l>líka<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e><p><l>meir<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
+    <e><p><l>meira<s n="adv"/></l><r>more<s n="adv"/></r></p></e>
+    <e><p><l>mikið<s n="adv"/></l><r>much<s n="adv"/></r></p></e>
+    <e><p><l>nærri<s n="adv"/></l><r>near<s n="adv"/></r></p></e>
+    <e><p><l>næsta<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+    <e><p><l>nákvæmlega<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
+    <e><p><l>neðan<s n="adv"/></l><r>below<s n="adv"/></r></p></e>
+    <e><p><l>nei<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>niður<s n="adv"/></l><r>down<s n="adv"/></r></p></e>
+    <e><p><l>nú<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
+    <e><p><l>núna<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
+    <e><p><l>saman<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+    <e><p><l>sérstaklega<s n="adv"/></l><r>exceptionally<s n="adv"/></r></p></e>
+    <e><p><l>síðar<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+    <e><p><l>sjaldan<s n="adv"/></l><r>seldom<s n="adv"/></r></p></e>
+    <e><p><l>snemma<s n="adv"/></l><r>early<s n="adv"/></r></p></e>
+    <e><p><l>strax<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+    <e><p><l>stundum<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+    <e><p><l>svolítið<s n="adv"/></l><r>a<b/>little<s n="adv"/></r></p></e>
+    <e><p><l>tæplega<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
+    <e><p><l>upp<s n="adv"/></l><r>up<s n="adv"/></r></p></e>
+    <e><p><l>uppi<s n="adv"/></l><r>above<s n="adv"/></r></p></e>
+    <e><p><l>út<s n="adv"/></l><r>out<s n="adv"/></r></p></e>
+    <e><p><l>utan<s n="adv"/></l><r>without<s n="adv"/></r></p></e>
+    <e><p><l>úti<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>víða<s n="adv"/></l><r>all<s n="adv"/></r></p></e>
+    <e><p><l>þangað<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e><p><l>þar<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e><p><l>þarna<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e><p><l>þegar<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
 
 
     <!-- Punctuation -->
