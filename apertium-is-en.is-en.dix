@@ -1817,12 +1817,12 @@
     <e><p><l>hreyfing<s n="n"/><s n="f"/></l><r>movement<s n="n"/></r></p></e>
     <e><p><l>hringtorg<s n="n"/><s n="nt"/></l><r>roundabout<s n="n"/></r></p></e> <!-- (circular road junction) -->
     <e><p><l>hringur<s n="n"/><s n="m"/></l><r>circle<s n="n"/></r></p></e>
-    <!--<e><p><l>hringur<s n="n"/><s n="m"/></l><r>ring<s n="n"/></r></p></e> <!-- (as in on a finger) -->-->
+    <!--<e><p><l>hringur<s n="n"/><s n="m"/></l><r>ring<s n="n"/></r></p></e> --> <!-- (as in on a finger) -->
     <e><p><l>hrogn<s n="n"/><s n="nt"/></l><r>roe<s n="n"/></r></p></e> <!-- (eggs of a fish) -->
     <e><p><l>hrollur<s n="n"/><s n="m"/></l><r>shiver<s n="n"/></r></p></e>
     <!--<e><p><l>hrollur<s n="n"/><s n="m"/></l><r>thrill<s n="n"/></r></p></e>-->
     <e><p><l>hross<s n="n"/><s n="nt"/></l><r>horse<s n="n"/></r></p></e>
-    <e><p><l>hrossafluga<s n="n"/><s n="f"/></l><r>cranefly,<s n="n"/></r></p></e> <!-- (in the UK; daddy longlegs) -->
+    <e><p><l>hrossafluga<s n="n"/><s n="f"/></l><r>daddy<b/>longlegs<s n="n"/></r></p></e> <!-- (in the UK; daddy longlegs) -->
     <e><p><l>hrossakjöt<s n="n"/><s n="nt"/></l><r>horsemeat<s n="n"/></r></p></e>
     <e><p><l>hryggdýr<s n="n"/><s n="nt"/></l><r>vertebrate<s n="n"/></r></p></e>
     <e><p><l>hryssa<s n="n"/><s n="f"/></l><r>mare<s n="n"/></r></p></e>
