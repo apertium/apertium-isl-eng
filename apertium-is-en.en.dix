@@ -48267,9 +48267,31 @@
         <i>minimization</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="prime minister" i="">
+        <i>prime<b/>minister</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="minister" i="">
         <i>minister</i> 
         <par n="house__n"/> 
+    </e>
+
+    <e lm="minister of justice" i="">
+        <i>minister</i> 
+        <par n="house__n"/> 
+        <p>
+          <l><b/>of<b/>justice</l>
+          <r><g><b/>of<b/>justice</g></r>
+        </p>
+    </e>
+
+    <e lm="minister of finance" i="">
+        <i>minister</i> 
+        <par n="house__n"/> 
+        <p>
+          <l><b/>of<b/>finance</l>
+          <r><g><b/>of<b/>finance</g></r>
+        </p>
     </e>
                         <e lm="ministry" i="">
         <i>ministr</i> 

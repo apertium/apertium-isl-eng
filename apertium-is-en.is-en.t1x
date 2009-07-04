@@ -340,7 +340,7 @@
 <section-rules>
 <!-- Sintagmas nominales -->
 
-  <rule><!-- rule for nouns -->
+  <rule comment="REGLA: NOM"><!-- rule for nouns -->
      <pattern>
        <pattern-item n="nom"/>
      </pattern>
@@ -372,9 +372,10 @@
                </lu>
                <b/>
                <lu>
-                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
                  <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -406,9 +407,10 @@
                </lu>
                <b/>
                <lu>
-                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
                  <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <!-- End trying to add indefinite article -->
              </chunk>
@@ -478,10 +480,11 @@
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
-                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
                  <clip pos="1" side="tl" part="gen" link-to="2"/>
                  <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="leq"/>
                </lu>
              </chunk>
            </out>
@@ -500,9 +503,10 @@
                  <tag><lit-tag v="SA"/></tag>
                </tags>
               <lu>
-                 <clip pos="1" side="tl" part="lem"/>
+                 <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_adj"/>
                  <clip pos="1" side="tl" part="degree"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -547,9 +551,10 @@
                </lu>
                <b pos="1"/>
                <lu>
-                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
                  <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -590,9 +595,10 @@
                </lu>
                <b pos="1"/>
                <lu>
-                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
                  <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
 
              </chunk>
@@ -633,20 +639,23 @@
                <b/>
               <lu>
                  <get-case-from pos="3">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
               <lu>
-                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
                <lu>
-                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
                  <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -687,20 +696,23 @@
                <b/>
               <lu>
                  <get-case-from pos="2">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
-                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
                <lu>
-                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
                  <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
                
              </chunk>
@@ -742,25 +754,29 @@
                <b/>
               <lu>
                  <get-case-from pos="4">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
-                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
                <lu>
-                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_adj"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
                <b pos="3"/>
                <lu>
-                 <clip pos="4" side="tl" part="lem"/>
+                 <clip pos="4" side="tl" part="lemh"/>
                  <clip pos="4" side="tl" part="a_nom"/>
                  <clip pos="4" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="4" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -774,25 +790,29 @@
                </tags>
               <lu>
                  <get-case-from pos="1">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
               <lu>
-                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
               <lu>
-                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_adj"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
                <b pos="3"/>
                <lu>
-                 <clip pos="4" side="tl" part="lem"/>
+                 <clip pos="4" side="tl" part="lemh"/>
                  <clip pos="4" side="tl" part="a_nom"/>
                  <clip pos="4" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="4" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -833,22 +853,25 @@
                <b/>
               <lu>
                  <get-case-from pos="2">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_preadv"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
                  <get-case-from pos="2">
-                   <clip pos="2" side="tl" part="lem"/>
+                   <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
                <lu>
-                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
                  <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -862,22 +885,25 @@
                </tags>
               <lu>
                  <get-case-from pos="1">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_preadv"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
                  <get-case-from pos="2">
-                   <clip pos="2" side="tl" part="lem"/>
+                   <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
                <lu>
-                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
                  <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -959,11 +985,12 @@
             <tag><clip pos="1" side="tl" part="nbr"/></tag>
           </tags>
           <lu>
-             <clip pos="1" side="tl" part="lem"/>
+             <clip pos="1" side="tl" part="lemh"/>
              <clip pos="1" side="tl" part="a_prn"/>
              <clip pos="1" side="tl" part="pers"/>
              <clip pos="1" side="tl" part="gen"/>
              <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
           </lu>
        </chunk>
      </out>
@@ -984,10 +1011,11 @@
             <tag><clip pos="1" side="tl" part="nbr"/></tag>
           </tags>
           <lu>
-             <clip pos="1" side="tl" part="lem"/>
+             <clip pos="1" side="tl" part="lemh"/>
              <clip pos="1" side="tl" part="a_prn"/>
              <clip pos="1" side="tl" part="gen"/>
              <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
           </lu>
        </chunk>
      </out>
