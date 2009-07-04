@@ -10,6 +10,7 @@
     <sdef n="cnjsub"/>
     <sdef n="cnjadv"/>
     <sdef n="ant"/>
+    <sdef n="dem"/>
     <sdef n="pr"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
@@ -65,6 +66,7 @@
     <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e><p><l>við<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
 
     <!-- Conjunctions -->
@@ -97,6 +99,8 @@
     <e><p><l>mínir<s n="prn"/><s n="pos"/></l><r>ours<s n="prn"/><s n="pos"/></r></p></e>
     <e><p><l>þínir<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p></e>
     <e><p><l>sínir<s n="prn"/><s n="pos"/></l><r>theirs<s n="prn"/><s n="pos"/></r></p></e>
+
+    <e><p><l>þessi<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
 
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e>
@@ -1843,6 +1847,8 @@
     <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
     <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
 
+    <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
+
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
 
     <e><p><l>janúar<s n="n"/><s n="nt"/></l><r>January<s n="n"/></r></p></e>
@@ -2067,6 +2073,7 @@
     <e><p><l>sterkur<s n="adj"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hálfur<s n="adj"/></l><r>half<s n="adj"/></r></p></e>
+    <e><p><l>ítarlegur<s n="adj"/></l><r>thorough<s n="adj"/></r></p></e>
     
     <!-- Verbs -->
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
