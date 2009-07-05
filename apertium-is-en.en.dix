@@ -34730,6 +34730,14 @@
         <i>Alicia</i> 
         <par n="Mary__np"/> 
     </e>
+                        <e lm="North America" i="">
+        <i>North<b/>America</i> 
+        <par n="Barcelona__np"/> 
+    </e>
+                        <e lm="Central America" i="">
+        <i>Central<b/>America</i> 
+        <par n="Barcelona__np"/> 
+    </e>
                         <e lm="America" i="">
         <i>America</i> 
         <par n="Barcelona__np"/> 
