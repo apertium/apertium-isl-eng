@@ -369,7 +369,8 @@
              </concat>
            </let> 
          </when>
-         <when><!-- noun indefinite singular -->
+<!--
+         <when>
            <test>
              <and>
                <equal>
@@ -399,6 +400,7 @@
              </concat>
            </let> 
          </when>
+-->
    </choose>
   </def-macro>
 
