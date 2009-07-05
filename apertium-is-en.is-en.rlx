@@ -1,0 +1,99 @@
+###############################################################################
+#
+#	This is a partial conversion of the rule file from the IceTagger 
+#	part-of-speech tagger for Icelandic by Hrafn Loftsson.
+#
+###############################################################################
+
+SOFT-DELIMITERS = "<,>" ;
+DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
+
+LIST BOS = (>>>) (<s>) (sent) ; 
+LIST EOS = (<<<) (</s>) (sent) ; 
+
+LIST ProperNoun = (np) ;
+LIST Noun = (n) ;
+LIST Adj = (adj) ;
+LIST Adverb = (adv) ;
+LIST PersonalPronoun = (prn) ;
+LIST IndefinitePronoun = (prn ind);
+LIST DemonstrativePronoun = (prn dem) ;
+LIST ReflexivePronoun = (prn ref) ;
+LIST InterrogativePronoun = (prn itg) ;
+LIST PossessivePronoun = (prn pos) ;
+LIST Preposition = (pr) ;
+LIST Infinitive = (inf) ;
+LIST VerbInfinitive = (vblex inf) ;
+LIST Verb = (vblex) ;
+LIST RelativeConjunction = (rel) ;
+LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
+LIST Numeral = (num) ;
+LIST Exclamation = (ij) ;
+LIST Article = (def) ;
+
+LIST Fem = (f);
+LIST Masc = (m);
+
+LIST Gen = (gen);
+LIST Acc = (acc);
+LIST Dat = (dat);
+
+LIST Inf = (inf);
+
+LIST GenPrep = "án"ri "auk"ri "austan"ri "innan"ri "í staö"ri "meðal"ri "megin"ri "milli"ri "millum"ri 
+               "neðan"ri "norðan"ri "ofan"ri "sakir"ri "sunnan"ri "sökum"ri "til"ri "utan"ri "vegna"ri "vestan"ri ;
+LIST AccPrep = "fyrir ofan"ri "gegnum"ri "kringum"ri "um"ri "umfram"ri "umhverfis"ri ;
+LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnvart"ri "gegnt"ri "handa"ri 
+               "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
+LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
+
+
+SECTION
+
+###
+# Proper nouns
+###
+
+# hús Láru
+
+SELECT ProperNoun IF (-1C Noun) (1 Gen) ; 					# !tag.isCase(GENITIVE) ;
+SELECT ProperNoun IF (-1C GenPrep) (1 Gen) ;	
+SELECT ProperNoun IF (-1C AccPrep) (1 Acc) ;
+SELECT ProperNoun IF (-1C DatPrep) (1 Dat) ;
+
+# Hildar Guðmundsdóttur
+SELECT ProperNoun IF (-1C ProperNoun) (-1C Gen) (0 ("<.*dóttur">)) (0 Gen) ; 	# !tag.isCase(GENITIVE) ;
+SELECT ProperNoun IF (-1C ProperNoun) (-1C Fem) ; 				# !tag.isGender(FEMININE) ;
+SELECT ProperNoun IF (-1C ProperNoun) (-1C Masc) ; 				# !tag.isGender(MASCULINE) ;
+
+###
+# Nouns
+###
+
+# hann sýnir but stakk hún hendi is ok, það sýnir aldrei
+SELECT Noun IF ((-1C PersonalPronoun) OR (-1C PersonalPronoun LINK -1C DemonstrativePronoun) OR (-1C ("<við>"ri)));
+SELECT Noun IF (-1C GenPrep) (1 Gen) ;	
+SELECT Noun IF (-1C AccPrep) (1 Acc) ;
+SELECT Noun IF (-1C DatPrep) (1 Dat) ;
+
+# að (cn/aa) beina (sgn/n*) mér
+SELECT Noun IF (-1 Inf) (0 VerbInfinitive) ;
+
+# einhvern sem sæti
+SELECT Noun IF (-1 ("<sem>"ri)) (0 Verb) ;
+
+# choose the verb
+SELECT Noun IF (-1C ProperNoun) (0 Verb) ;
+
+# Disallow two nouns in a row unless the latter is in the genitive case
+SELECT Noun IF (-1C Noun) (NOT -1 Gen) ((NOT -2 ProperNoun) OR (-2 BOS));
+
+
+###
+# Adjectives
+###
+
+###
+# Adverbs
+###
+

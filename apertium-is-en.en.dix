@@ -81911,6 +81911,14 @@
         <i>knock</i> 
         <par n="accept__vblex"/> 
     </e>
+                        <e lm="lay off" i="">
+        <i>la</i> 
+        <par n="pa/y__vblex"/> 
+        <p>
+          <l><b/>off</l>
+          <r><g><b/>off</g></r>
+        </p>
+    </e>
                         <e lm="lay" i="">
         <i>la</i> 
         <par n="pa/y__vblex"/> 
