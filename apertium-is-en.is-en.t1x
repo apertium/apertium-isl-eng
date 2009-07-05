@@ -57,6 +57,10 @@
     <cat-item tags="prn.*"/>
   </def-cat>
 
+  <def-cat n="pp">
+     <cat-item tags="vblex.pp"/>
+  </def-cat>
+
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
   </def-cat>
@@ -133,6 +137,7 @@
   <def-attr n="temps">
      <attr-item tags="pri"/>
      <attr-item tags="pres"/>
+     <attr-item tags="pp"/>
      <attr-item tags="past"/>
      <attr-item tags="prs"/>
      <attr-item tags="pss"/>
@@ -176,6 +181,7 @@
 <section-def-vars>
   <def-var n="number"/>
   <def-var n="genere"/>
+  <def-var n="article"/>
   <def-var n="verbfinal"/>
 </section-def-vars>
 
@@ -333,6 +339,70 @@
       </choose>
   </def-macro>
 
+  <def-macro n="nom_article1" npar="1">
+    <let>
+      <var n="article"/>
+      <lit v=""/>
+    </let>
+    <choose>
+         <when><!-- noun with definitive article -->
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <modify-case>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="aa"/>
+           </modify-case>
+           <let>
+             <var n="article"/>
+             <concat>
+                 <lit v="^"/>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <lit v="$ "/>
+             </concat>
+           </let> 
+         </when>
+         <when><!-- noun indefinite singular -->
+           <test>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="a_art"/>
+                 <lit-tag v="ind"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <lit-tag v="sg"/>
+               </equal>
+             </and>
+           </test>
+           <modify-case>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="aa"/>
+           </modify-case>
+           <let>
+             <var n="article"/>
+             <concat>
+                 <lit v="^"/>
+                 <get-case-from pos="1">
+                   <lit v="a"/>
+                 </get-case-from>
+                 <lit-tag v="det.ind"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <lit v="$ "/>
+             </concat>
+           </let> 
+         </when>
+   </choose>
+  </def-macro>
+
+
 </section-def-macros>
 
 
@@ -345,32 +415,26 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
+       <call-macro n="nom_article1">
+         <with-param pos="1"/>
+       </call-macro>
        <choose>
-         <when><!-- noun with definitive article -->
+         <when>
            <test>
-             <equal>
-               <clip pos="1" side="sl" part="a_art"/>
-               <lit-tag v="def"/>
-             </equal>
+             <not>
+               <equal>
+                 <var n="article"/>
+                 <lit v=""/>
+               </equal>
+             </not>
            </test>
-           <modify-case>
-             <clip pos="1" side="tl" part="lem"/>
-             <lit v="aa"/>
-           </modify-case>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
-               <lu>
-                 <get-case-from pos="1">
-                   <lit v="the"/>
-                 </get-case-from>
-                 <lit-tag v="det.def"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
-               </lu>
-               <b/>
+               <var n="article"/>
                <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
@@ -380,39 +444,19 @@
              </chunk>
            </out>
          </when>
-         <otherwise><!-- noun without definitive article -->
+         <otherwise><!-- noun without any article -->
            <out>
-             <chunk name="det_nom" case="caseFirstWord">
+             <chunk name="nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
-               <!-- Start trying to add indefinite article.... didn't do anything -->
-               <!--
-               <lu> 
-                 <get-case-from pos="1">
-                   <lit v="a"/>
-                 </get-case-from>
-                 <lit-tag v="det.ind"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
-               </lu>
-               <b/>
-               -->
-               <lu>
-                 <get-case-from pos="1">
-                   <lit v="a"/>
-                 </get-case-from>
-                 <lit-tag v="det.ind"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
-               </lu>
-               <b/>
                <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
                  <clip pos="1" side="tl" part="nbr" link-to="2"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
-               <!-- End trying to add indefinite article -->
              </chunk>
            </out>
          </otherwise>
@@ -506,6 +550,29 @@
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_adj"/>
                  <clip pos="1" side="tl" part="degree"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule><!-- END rule for adjectives -->
+
+
+
+  <rule><!-- rule for adjectives -->
+     <pattern>
+       <pattern-item n="pp"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="pp" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SA"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_verb"/>
+                 <clip pos="1" side="tl" part="temps"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
