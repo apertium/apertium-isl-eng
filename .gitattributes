@@ -15,6 +15,7 @@
 /autogen.sh -text
 /configure.ac -text
 dev/example.dix -text
+dev/icetagger.ruleset -text
 dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
