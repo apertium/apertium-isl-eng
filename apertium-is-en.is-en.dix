@@ -71,6 +71,7 @@
 
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -2098,6 +2099,7 @@
     <e><p><l>baka<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e>
     <e><p><l>búa<s n="vblex"/></l><r>live<s n="vblex"/></r></p></e>
     <e><p><l>telja<s n="vblex"/></l><r>count<s n="vblex"/></r></p></e>
+    <e><p><l>taka<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
