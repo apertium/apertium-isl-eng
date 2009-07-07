@@ -77,6 +77,7 @@
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e><p><l>þegar<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e><p><l>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
 
     <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
@@ -89,6 +90,7 @@
     <e><p><l>þú<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>hann<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>hún<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e><p><l>það<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>við<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þið<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þeir<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
@@ -2106,6 +2108,9 @@
     <e><p><l>hefja<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>
     <e><p><l>fylgja<s n="vblex"/></l><r>accompany<s n="vblex"/></r></p></e>
     <e><p><l>velja<s n="vblex"/></l><r>choose<s n="vblex"/></r></p></e>
+    <e><p><l>fá<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
+    <e><p><l>gera<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
+    <e><p><l>láta<s n="vblex"/></l><r>let<s n="vblex"/></r></p></e>
     
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
