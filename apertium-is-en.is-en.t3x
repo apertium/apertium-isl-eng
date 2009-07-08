@@ -44,7 +44,7 @@
 
 
   <section-rules>
-    <!--
+<!--
     <rule comment="CHUNK:">
       <pattern>
         <pattern-item n="nom"/>
@@ -171,13 +171,14 @@
        </action>
      </rule>
 
-
-     <rule comment="CHUNK: verbcj">
+<!--
+     <rule comment="CHUNK: verbcj"> -->
                                     <!-- this was actually the rule for prep,
                                     but we're not handling prepositions in t1x yet,
                                     so we're doing this temporarily to get the
                                     indefinite article to work-->
-       <pattern>
+<!--
+      <pattern>
          <pattern-item n="verbcj"/>
        </pattern>
        <action>
@@ -217,7 +218,7 @@
          </let>
        </action>
      </rule>
-
+-->
 
   </section-rules>
 </postchunk>
