@@ -369,38 +369,6 @@
              </concat>
            </let> 
          </when>
-<!--
-         <when>
-           <test>
-             <and>
-               <equal>
-                 <clip pos="1" side="sl" part="a_art"/>
-                 <lit-tag v="ind"/>
-               </equal>
-               <equal>
-                 <clip pos="1" side="tl" part="nbr"/>
-                 <lit-tag v="sg"/>
-               </equal>
-             </and>
-           </test>
-           <modify-case>
-             <clip pos="1" side="tl" part="lem"/>
-             <lit v="aa"/>
-           </modify-case>
-           <let>
-             <var n="article"/>
-             <concat>
-                 <lit v="^"/>
-                 <get-case-from pos="1">
-                   <lit v="a"/>
-                 </get-case-from>
-                 <lit-tag v="det.ind"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
-                 <lit v="$ "/>
-             </concat>
-           </let> 
-         </when>
--->
    </choose>
   </def-macro>
 
@@ -561,7 +529,7 @@
 
 
 
-  <rule><!-- rule for adjectives -->
+  <rule><!-- rule for prepositions -->
      <pattern>
        <pattern-item n="pp"/>
      </pattern>
@@ -580,7 +548,7 @@
              </chunk>
            </out>
      </action>
-  </rule><!-- END rule for adjectives -->
+  </rule><!-- END rule for prepositions -->
 
 
 
@@ -635,27 +603,6 @@
                  <tag><lit-tag v="SN"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
-<!--
-              <lu>
-                 <clip pos="1" side="tl" part="lem"/>
-                 <clip pos="1" side="tl" part="a_adj"/>
-               </lu>
-               <b pos="1"/>
-               <lu>
-                 <clip pos="2" side="tl" part="lem"/>
-                 <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
-               </lu>
-
-               <lu>
-                 <get-case-from pos="1">
-                   <lit v="a"/>
-                 </get-case-from>
-                 <lit-tag v="det.ind"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
-               </lu>
-               <b/>
--->
               <lu>
                  <get-case-from pos="2">
                    <clip pos="1" side="tl" part="lem"/>
@@ -669,7 +616,6 @@
                  <clip pos="2" side="tl" part="nbr" link-to="2"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
-
              </chunk>
            </out>
          </otherwise>
@@ -736,7 +682,6 @@
                  <tag><lit-tag v="SN"/></tag>
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
-               <!--  if this works ("a very big dog") then delete this comment block
               <lu>
                  <get-case-from pos="1">
                    <clip pos="1" side="tl" part="lem"/>
@@ -754,36 +699,6 @@
                  <clip pos="3" side="tl" part="a_nom"/>
                  <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
-             -->
-               <lu>
-                 <get-case-from pos="1">
-                   <lit v="a"/>
-                 </get-case-from>
-                 <lit-tag v="det.ind"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
-               </lu>
-               <b/>
-              <lu>
-                 <get-case-from pos="2">
-                   <clip pos="1" side="tl" part="lemh"/>
-                 </get-case-from>
-                 <clip pos="1" side="tl" part="a_adj"/>
-                 <clip pos="1" side="tl" part="lemq"/>
-               </lu>
-               <b pos="1"/>
-               <lu>
-                 <clip pos="2" side="tl" part="lemh"/>
-                 <clip pos="2" side="tl" part="a_adj"/>
-                 <clip pos="2" side="tl" part="lemq"/>
-               </lu>
-               <b pos="2"/>
-               <lu>
-                 <clip pos="3" side="tl" part="lemh"/>
-                 <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
-                 <clip pos="3" side="tl" part="lemq"/>
-               </lu>
-               
              </chunk>
            </out>
          </otherwise>
