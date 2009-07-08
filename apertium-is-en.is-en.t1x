@@ -646,7 +646,6 @@
                  <clip pos="2" side="tl" part="a_nom"/>
                  <clip pos="2" side="tl" part="nbr" link-to="2"/>
                </lu>
--->
 
                <lu>
                  <get-case-from pos="1">
@@ -656,6 +655,7 @@
                  <clip pos="2" side="tl" part="nbr" link-to="2"/>
                </lu>
                <b/>
+-->
               <lu>
                  <get-case-from pos="2">
                    <clip pos="1" side="tl" part="lem"/>
