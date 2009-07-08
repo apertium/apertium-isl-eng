@@ -1852,6 +1852,136 @@
     <e><p><l>fuglahræða<s n="n"/><s n="f"/></l><r>scarecrow<s n="n"/></r></p></e>
     <e><p><l>hræða<s n="n"/><s n="f"/></l><r>body<s n="n"/></r></p></e>
     <e><p><l>hræðsla<s n="n"/><s n="f"/></l><r>fear<s n="n"/></r></p></e>
+    <!--<e><p><l>hrím<s n="n"/><s n="nt"/></l><r>hoarfrost<s n="n"/></r></p></e>-->
+    <e><p><l>hrím<s n="n"/><s n="nt"/></l><r>rime<s n="n"/></r></p></e>
+    <e><p><l>hrísgrjón<s n="n"/><s n="nt"/></l><r>rice<s n="n"/></r></p></e>
+    <e><p><l>hrísgrjónavín<s n="n"/><s n="nt"/></l><r>rice<b/>wine<s n="n"/></r></p></e>
+    <!--<e><p><l>hrísgrjónavín<s n="n"/><s n="nt"/></l><r>sake<s n="n"/></r></p></e>-->
+    <e><p><l>hríspappír<s n="n"/><s n="m"/></l><r>rice<b/>paper<s n="n"/></r></p></e>
+    <e><p><l>hríð<s n="n"/><s n="f"/></l><r>snowstorm<s n="n"/></r></p></e>
+    <e><p><l>hrókur<s n="n"/><s n="m"/></l><r>rook<s n="n"/></r></p></e>
+    <e><p><l>hróp<s n="n"/><s n="nt"/></l><r>call<s n="n"/></r></p></e>
+    <!--<e><p><l>hróp<s n="n"/><s n="nt"/></l><r>shout<s n="n"/></r></p></e>-->
+    <e><p><l>hrúga<s n="n"/><s n="f"/></l><r>heap<s n="n"/></r></p></e>
+    <!--<e><p><l>hrútur<s n="n"/><s n="m"/></l><r>Aries<s n="n"/></r></p></e>-->
+    <e><p><l>hrútur<s n="n"/><s n="m"/></l><r>ram<s n="n"/></r></p></e> <!-- (male sheep) -->
+    <e><p><l>hrúður<s n="n"/><s n="nt"/></l><r>scab<s n="n"/></r></p></e>
+    <e><p><l>hugbúnaður<s n="n"/><s n="m"/></l><r>software<s n="n"/></r></p></e>
+    <!--<e><p><l>tölvuhugbúnaður<s n="n"/><s n="m"/></l><r>computer<b/>software<s n="n"/></r></p></e>-->
+    <!--<e><p><l>huggun<s n="n"/><s n="f"/></l><r>comfort<s n="n"/></r></p></e>-->
+    <e><p><l>huggun<s n="n"/><s n="f"/></l><r>consolation<s n="n"/></r></p></e>
+    <!--<e><p><l>huggun<s n="n"/><s n="f"/></l><r>relief<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hugmynd<s n="n"/><s n="f"/></l><r>assumption<s n="n"/></r></p></e>-->
+    <e><p><l>hugmynd<s n="n"/><s n="f"/></l><r>idea<s n="n"/></r></p></e>
+    <e><p><l>hugmyndafræði<s n="n"/><s n="f"/></l><r>ideology<s n="n"/></r></p></e>
+    <e><p><l>hugrekki<s n="n"/><s n="nt"/></l><r>courage<s n="n"/></r></p></e>
+    <e><p><l>hugsjónamaður<s n="n"/><s n="m"/></l><r>idealist<s n="n"/></r></p></e>
+    <e><p><l>hugsun<s n="n"/><s n="f"/></l><r>thought<s n="n"/></r></p></e>
+    <e><p><l>hugtak<s n="n"/><s n="nt"/></l><r>concept<s n="n"/></r></p></e>
+    <!--<e><p><l>hugtak<s n="n"/><s n="nt"/></l><r>idea<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hugtak<s n="n"/><s n="nt"/></l><r>notion<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hugur<s n="n"/><s n="m"/></l><r>courage<s n="n"/></r></p></e>-->
+    <e><p><l>hugur<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
+    <!--<e><p><l>hugur<s n="n"/><s n="m"/></l><r>sense<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hugur<s n="n"/><s n="m"/></l><r>spirit<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hulda<s n="n"/><s n="f"/></l><r>cover<s n="n"/></r></p></e>-->
+    <e><p><l>hulda<s n="n"/><s n="f"/></l><r>secrecy<s n="n"/></r></p></e>
+    <e><p><l>hulduefni<s n="n"/><s n="nt"/></l><r>dark<b/>matter<s n="n"/></r></p></e>
+    <e><p><l>huldufólk<s n="n"/><s n="nt"/></l><r>elves<s n="n"/></r></p></e>
+    <!--<e><p><l>huldufólk<s n="n"/><s n="nt"/></l><r>fairies<s n="n"/></r></p></e>-->
+    <e><p><l>humar<s n="n"/><s n="m"/></l><r>lobster<s n="n"/></r></p></e>
+    <e><p><l>hunangsfluga<s n="n"/><s n="f"/></l><r>bumblebee<s n="n"/></r></p></e> <!-- (species of bee) -->
+    <e><p><l>hundapi<s n="n"/><s n="m"/></l><r>baboon<s n="n"/></r></p></e> <!-- (primate) -->
+    <!--<e><p><l>hundrað<s n="n"/><s n="nt"/></l><r>100<s n="n"/></r></p></e>-->
+    <e><p><l>hundrað<s n="n"/><s n="nt"/></l><r>hundred<s n="n"/></r></p></e>
+    <e><p><l>hundur<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
+    <e><p><l>hungur<s n="n"/><s n="nt"/></l><r>hunger<s n="n"/></r></p></e>
+    <e><p><l>hurð<s n="n"/><s n="f"/></l><r>door<s n="n"/></r></p></e>
+    <!--<e><p><l>hvalur<s n="n"/><s n="m"/></l><r>cetacea<s n="n"/></r></p></e>-->
+    <e><p><l>hvalur<s n="n"/><s n="m"/></l><r>whale<s n="n"/></r></p></e>
+    <e><p><l>hvarf<s n="n"/><s n="nt"/></l><r>disappearance<s n="n"/></r></p></e>
+    <!--<e><p><l>hvarf<s n="n"/><s n="nt"/></l><r>varve<s n="n"/></r></p></e>-->
+    <e><p><l>hveiti<s n="n"/><s n="nt"/></l><r>wheat<s n="n"/></r></p></e> <!-- (Triticum) -->
+    <e><p><l>hveitiklíð<s n="n"/><s n="nt"/></l><r>wheat<b/>bran<s n="n"/></r></p></e>
+    <e><p><l>hveitikím<s n="n"/><s n="nt"/></l><r>wheat<b/>germ<s n="n"/></r></p></e>
+    <e><p><l>hvelatengsl<s n="n"/><s n="nt"/></l><r>corpus<b/>callosum<s n="n"/></r></p></e>
+    <e><p><l>hvellur<s n="n"/><s n="m"/></l><r>bang<s n="n"/></r></p></e>
+    <!--<e><p><l>hverfa<s n="v"/><s n="f"/></l><r>disappear<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>hverfi<s n="n"/><s n="nt"/></l><r>district<s n="n"/></r></p></e>-->
+    <e><p><l>hverfi<s n="n"/><s n="nt"/></l><r>neighborhood<s n="n"/></r></p></e>
+    <e><p><l>hvirfilbylur<s n="n"/><s n="m"/></l><r>tornado<s n="n"/></r></p></e>
+    <!--<e><p><l>hvirfilbylur<s n="n"/><s n="m"/></l><r>whirlwind<s n="n"/></r></p></e>-->
+    <e><p><l>hvolpur<s n="n"/><s n="m"/></l><r>puppy<s n="n"/></r></p></e> <!-- (young dog) -->
+    <e><p><l>hvíla<s n="n"/><s n="f"/></l><r>bed<s n="n"/></r></p></e>
+    <e><p><l>hvítabjörn<s n="n"/><s n="m"/></l><r>polar<b/>bear<s n="n"/></r></p></e>
+    <!--<e><p><l>hvítasunna<s n="n"/><s n="f"/></l><r>Pentecost<s n="n"/></r></p></e>-->
+    <e><p><l>hvítasunna<s n="n"/><s n="f"/></l><r>Whitsun<s n="n"/></r></p></e>
+    <e><p><l>hvítblæði<s n="n"/><s n="nt"/></l><r>leukemia<s n="n"/></r></p></e>
+    <e><p><l>hvítkorn<s n="n"/><s n="nt"/></l><r>white<b/>blood<b/>cell<s n="n"/></r></p></e>
+    <e><p><l>hvítlauksgeiri<s n="n"/><s n="m"/></l><r>clove<b/>of<b/>garlic<s n="n"/></r></p></e>
+    <e><p><l>hvítlaukspressa<s n="n"/><s n="f"/></l><r>garlic<b/>press<s n="n"/></r></p></e>
+    <e><p><l>hvítlaukur<s n="n"/><s n="m"/></l><r>garlic<s n="n"/></r></p></e>
+    <e><p><l>hvítvín<s n="n"/><s n="nt"/></l><r>white<b/>wine<s n="n"/></r></p></e>
+    <e><p><l>hvönn<s n="n"/><s n="f"/></l><r>angelica<s n="n"/></r></p></e> <!-- (genus Angelica) -->
+    <e><p><l>háaloft<s n="n"/><s n="nt"/></l><r>attic<s n="n"/></r></p></e>
+    <!--<e><p><l>háaloft<s n="n"/><s n="nt"/></l><r>garret<s n="n"/></r></p></e>-->
+    <!--<e><p><l>háaloft<s n="n"/><s n="nt"/></l><r>loft<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hádegi<s n="n"/><s n="nt"/></l><r>midday<s n="n"/></r></p></e>-->
+    <e><p><l>hádegi<s n="n"/><s n="nt"/></l><r>noon<s n="n"/></r></p></e>
+    <e><p><l>hádegisverður<s n="n"/><s n="m"/></l><r>lunch<s n="n"/></r></p></e>
+    <e><p><l>háhyrningur<s n="n"/><s n="m"/></l><r>killer<b/>whale<s n="n"/></r></p></e>
+    <e><p><l>hálfvirði<s n="n"/><s n="nt"/></l><r>half<b/>price<s n="n"/></r></p></e>
+    <e><p><l>hálmur<s n="n"/><s n="m"/></l><r>straw<s n="n"/></r></p></e>
+    <!--<e><p><l>háls<s n="n"/><s n="m"/></l><r>hill<s n="n"/></r></p></e>-->
+    <e><p><l>háls<s n="n"/><s n="m"/></l><r>neck<s n="n"/></r></p></e>
+    <!--<e><p><l>háls<s n="n"/><s n="m"/></l><r>throat<s n="n"/></r></p></e>-->
+    <e><p><l>hálsbindi<s n="n"/><s n="nt"/></l><r>necktie<s n="n"/></r></p></e>
+    <e><p><l>hámark<s n="n"/><s n="nt"/></l><r>maximum<s n="n"/></r></p></e>
+    <!--<e><p><l>hár<s n="n"/><s n="m"/></l><r>high<s n="n"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>hár<s n="n"/><s n="nt"/></l><r>hair<s n="n"/></r></p></e>
+    <e><p><l>hárbursti<s n="n"/><s n="m"/></l><r>hairbrush<s n="n"/></r></p></e>
+    <!--<e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>hairdressing<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>haircut<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>hairdo<s n="n"/></r></p></e>-->
+    <e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>hairstyle<s n="n"/></r></p></e>
+    <e><p><l>hártogun<s n="n"/><s n="f"/></l><r>hair-splitting<s n="n"/></r></p></e>
+    <!--<e><p><l>hártogun<s n="n"/><s n="f"/></l><r>quibble<s n="n"/></r></p></e>-->
+    <e><p><l>háskóli<s n="n"/><s n="m"/></l><r>university<s n="n"/></r></p></e>
+    <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>appearance<s n="n"/></r></p></e>-->
+    <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>custom<s n="n"/></r></p></e>-->
+    <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>habit<s n="n"/></r></p></e>-->
+    <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>wont<s n="n"/></r></p></e>-->
+    <e><p><l>háttur<s n="n"/><s n="m"/></l><r>manner<s n="n"/></r></p></e>
+    <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>mode<s n="n"/></r></p></e>-->
+    <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>way<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hátíð<s n="n"/><s n="f"/></l><r>celebration<s n="n"/></r></p></e>-->
+    <e><p><l>hátíð<s n="n"/><s n="f"/></l><r>festival<s n="n"/></r></p></e>
+    <!--<e><p><l>hátíð<s n="n"/><s n="f"/></l><r>feast<b/>day<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hátíð<s n="n"/><s n="f"/></l><r>holiday<s n="n"/></r></p></e>-->
+    <e><p><l>hávaði<s n="n"/><s n="m"/></l><r>noise<s n="n"/></r></p></e>
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>bedlam<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>clamour<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>din<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>hubbub<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>hullabaloo<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>racket<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>sound<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hávaði<s n="n"/><s n="m"/></l><r>tumult<s n="n"/></r></p></e>-->
+    <e><p><l>háð<s n="n"/><s n="nt"/></l><r>mockery<s n="n"/></r></p></e>
+    <e><p><l>hæfi<s n="n"/><s n="nt"/></l><r>ability<s n="n"/></r></p></e>
+    <e><p><l>hæfileiki<s n="n"/><s n="m"/></l><r>ability<s n="n"/></r></p></e>
+    <e><p><l>hæll<s n="n"/><s n="m"/></l><r>heel<s n="n"/></r></p></e>
+    <e><p><l>hæna<s n="n"/><s n="f"/></l><r>hen<s n="n"/></r></p></e>
+    <e><p><l>hænsni<s n="n"/><s n="nt"/></l><r>poultry<s n="n"/></r></p></e>
+    <e><p><l>hæra<s n="n"/><s n="f"/></l><r>gray<b/>hair<s n="n"/></r></p></e>
+    <e><p><l>hæra<s n="n"/><s n="f"/></l><r>hoariness<s n="n"/></r></p></e>
+    <e><p><l>hæsi<s n="n"/><s n="f"/></l><r>hoarseness<s n="n"/></r></p></e>
+    <e><p><l>hæstiréttur<s n="n"/><s n="m"/></l><r>supreme<b/>court<b/>of<b/>iceland<s n="n"/></r></p></e>
+    <e><p><l>hætta<s n="n"/><s n="f"/></l><r>danger<s n="n"/></r></p></e>
+    <!--<e><p><l>hætta<s n="n"/><s n="f"/></l><r>hazard<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hætta<s n="n"/><s n="f"/></l><r>jeopardy<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hætta<s n="n"/><s n="f"/></l><r>peril<s n="n"/></r></p></e>-->
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
