@@ -2106,6 +2106,65 @@
     <e><p><l>júlí<s n="n"/><s n="nt"/></l><r>July<s n="n"/></r></p></e>
     <e><p><l>júní<s n="n"/><s n="nt"/></l><r>June<s n="n"/></r></p></e>
     
+    
+    <e><p><l>k<s n="n"/><s n="nt"/></l><r>k<s n="n"/></r></p></e>
+    <e><p><l>kadmín<s n="n"/><s n="nt"/></l><r>cadmium<s n="n"/></r></p></e>
+    <e><p><l>kaffibrauð<s n="n"/><s n="nt"/></l><r>pastries<s n="n"/></r></p></e>
+    <!--<e><p><l>kaffihús<s n="n"/><s n="nt"/></l><r>café<s n="n"/></r></p></e>-->
+    <e><p><l>kaffihús<s n="n"/><s n="nt"/></l><r>coffee<b/>shop<s n="n"/></r></p></e>
+    <!--<e><p><l>kaffihús<s n="n"/><s n="nt"/></l><r>coffeehouse<s n="n"/></r></p></e>-->
+    <e><p><l>kafli<s n="n"/><s n="m"/></l><r>chapter<s n="n"/></r></p></e>
+    <!--<e><p><l>kafli<s n="n"/><s n="m"/></l><r>part<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kafli<s n="n"/><s n="m"/></l><r>section<s n="n"/></r></p></e>-->
+    <e><p><l>kaka<s n="n"/><s n="f"/></l><r>cake<s n="n"/></r></p></e>
+    <e><p><l>smákaka<s n="n"/><s n="f"/></l><r>cookie<s n="n"/></r></p></e>
+    <e><p><l>kaktus<s n="n"/><s n="m"/></l><r>cactus<s n="n"/></r></p></e>
+    <!--<e><p><l>kaldhæðni<s n="n"/><s n="f"/></l><r>irony<s n="n"/></r></p></e>-->
+    <e><p><l>kaldhæðni<s n="n"/><s n="f"/></l><r>sarcasm<s n="n"/></r></p></e>
+    <e><p><l>kalk<s n="n"/><s n="nt"/></l><r>calcium<s n="n"/></r></p></e> <!-- (in food) -->
+    <!--<e><p><l>kalk<s n="n"/><s n="nt"/></l><r>lime<s n="n"/></r></p></e> --> <!-- (calcium oxide) -->
+    <!--<e><p><l>kalk<s n="n"/><s n="nt"/></l><r>quicklime<s n="n"/></r></p></e> --> <!-- (calcium oxide) -->
+    <e><p><l>kalksteinn<s n="n"/><s n="m"/></l><r>limestone<s n="n"/></r></p></e> <!-- (abundant rock of marine and fresh-water sediments) -->
+    <e><p><l>kalkúnn<s n="n"/><s n="m"/></l><r>turkey<s n="n"/></r></p></e> <!-- (bird) -->
+    <e><p><l>kalmusrót<s n="n"/><s n="f"/></l><r>calamus<b/>root<s n="n"/></r></p></e>
+    <!--<e><p><l>kalmusrót<s n="n"/><s n="f"/></l><r>sweet<b/>flag<s n="n"/></r></p></e>-->
+    <e><p><l>kalsín<s n="n"/><s n="nt"/></l><r>calcium<s n="n"/></r></p></e> <!-- (chemical element of atomic number 20) -->
+    <e><p><l>kalín<s n="n"/><s n="nt"/></l><r>potassium<s n="n"/></r></p></e>
+    <e><p><l>kamar<s n="n"/><s n="m"/></l><r>privy<s n="n"/></r></p></e> <!-- (outdoor toilet) -->
+    <!--<e><p><l>kamar<s n="n"/><s n="m"/></l><r>outhouse<s n="n"/></r></p></e>-->
+    <e><p><l>kambur<s n="n"/><s n="m"/></l><r>comb<s n="n"/></r></p></e>
+    <e><p><l>kanill<s n="n"/><s n="m"/></l><r>cinnamon<s n="n"/></r></p></e>
+    <!--<e><p><l>kanna<s n="n"/><s n="f"/></l><r>coffee<b/>pot<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kanna<s n="n"/><s n="f"/></l><r>jug<s n="n"/></r></p></e>-->
+    <e><p><l>kanna<s n="n"/><s n="f"/></l><r>mug<s n="n"/></r></p></e>
+    <!--<e><p><l>kanna<s n="n"/><s n="f"/></l><r>pot<s n="n"/></r></p></e> --> <!-- (coffee etc.) -->
+    <e><p><l>kanína<s n="n"/><s n="f"/></l><r>rabbit<s n="n"/></r></p></e>
+    <!--<e><p><l>kapall<s n="n"/><s n="m"/></l><r>solitaire<s n="n"/></r></p></e>-->
+    <e><p><l>kapall<s n="n"/><s n="m"/></l><r>cable<s n="n"/></r></p></e>
+    <!--<e><p><l>kapall<s n="n"/><s n="m"/></l><r>mare<s n="n"/></r></p></e>-->
+    <e><p><l>kaplamjólk<s n="n"/><s n="f"/></l><r>horse<b/>milk<s n="n"/></r></p></e>
+    <e><p><l>karfa<s n="n"/><s n="f"/></l><r>basket<s n="n"/></r></p></e>
+    <!--<e><p><l>karl<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>-->
+    <e><p><l>karl<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e> <!-- (male human) -->
+    <e><p><l>karlfugl<s n="n"/><s n="m"/></l><r>cock<s n="n"/></r></p></e> <!-- (any male bird) -->
+    <e><p><l>karlkyn<s n="n"/><s n="nt"/></l><r>male<s n="n"/></r></p></e>
+    <e><p><l>karlmaður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e> <!-- (adult male human) -->
+    <e><p><l>karta<s n="n"/><s n="f"/></l><r>toad<s n="n"/></r></p></e>
+    <e><p><l>kartafla<s n="n"/><s n="f"/></l><r>potato<s n="n"/></r></p></e>
+    <e><p><l>karíbamál<s n="n"/><s n="nt"/></l><r>Caribbean<b/>language<s n="n"/></r></p></e>
+    <e><p><l>kassi<s n="n"/><s n="m"/></l><r>box<s n="n"/></r></p></e>
+    <e><p><l>kast<s n="n"/><s n="nt"/></l><r>cast<s n="n"/></r></p></e>
+    <!--<e><p><l>kast<s n="n"/><s n="nt"/></l><r>throw<s n="n"/></r></p></e>-->
+    <e><p><l>kastali<s n="n"/><s n="m"/></l><r>castle<s n="n"/></r></p></e>
+    <e><p><l>kaup<s n="n"/><s n="nt"/></l><r>salary<s n="n"/></r></p></e>
+    <!--<e><p><l>kaup<s n="n"/><s n="nt"/></l><r>wage<s n="n"/></r></p></e>-->
+    <e><p><l>kaupandi<s n="n"/><s n="m"/></l><r>buyer<s n="n"/></r></p></e>
+    <!--<e><p><l>kaupandi<s n="n"/><s n="m"/></l><r>shopper<s n="n"/></r></p></e>-->
+    <e><p><l>kaupmaður<s n="n"/><s n="m"/></l><r>merchant<s n="n"/></r></p></e>
+    <e><p><l>kaupstefna<s n="n"/><s n="f"/></l><r>buying<b/>policy<s n="n"/></r></p></e>
+    <!--<e><p><l>kaupstefna<s n="n"/><s n="f"/></l><r>market<s n="n"/></r></p></e>-->
+    <e><p><l>kaðall<s n="n"/><s n="m"/></l><r>rope<s n="n"/></r></p></e>
+    <e><p><l>kaþólska<s n="n"/><s n="f"/></l><r>Catholic<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
