@@ -1981,7 +1981,85 @@
     <!--<e><p><l>hætta<s n="n"/><s n="f"/></l><r>hazard<s n="n"/></r></p></e>-->
     <!--<e><p><l>hætta<s n="n"/><s n="f"/></l><r>jeopardy<s n="n"/></r></p></e>-->
     <!--<e><p><l>hætta<s n="n"/><s n="f"/></l><r>peril<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hæð<s n="n"/><s n="f"/></l><r>floor<s n="n"/></r></p></e>-->
+    <e><p><l>hæð<s n="n"/><s n="f"/></l><r>storey<s n="n"/></r></p></e>
+    <!--<e><p><l>hæð<s n="adj"/><s n="f"/></l><r>height<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <!--<e><p><l>hæð<s n="n"/><s n="f"/></l><r>high<b/>pressure<b/>area<s n="n"/></r></p></e>--> <!-- in meteorology-->
+    <!--<e><p><l>hæð<s n="n"/><s n="f"/></l><r>hill<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hérað<s n="n"/><s n="nt"/></l><r>countryside<s n="n"/></r></p></e>-->
+    <e><p><l>hérað<s n="n"/><s n="nt"/></l><r>district<s n="n"/></r></p></e>
+    <!--<e><p><l>hérað<s n="n"/><s n="nt"/></l><r>region<s n="n"/></r></p></e>-->
+    <e><p><l>híbýli<s n="n"/><s n="nt"/></l><r>house<s n="n"/></r></p></e>
+    <e><p><l>hóf<s n="n"/><s n="f"/></l><r>hoof<s n="n"/></r></p></e>
+    <!--<e><p><l>hóf<s n="adj"/><s n="nt"/></l><r>moderation<s n="adj"/></r></p></e>-->
+    <e><p><l>hól<s n="n"/><s n="nt"/></l><r>compliment<s n="n"/></r></p></e>
+    <!--<e><p><l>hól<s n="n"/><s n="nt"/></l><r>praise<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hóll<s n="n"/><s n="m"/></l><r>hill<s n="n"/></r></p></e>-->
+    <e><p><l>hóll<s n="n"/><s n="m"/></l><r>hillock<s n="n"/></r></p></e>
+    <e><p><l>hópur<s n="n"/><s n="m"/></l><r>group<s n="n"/></r></p></e>
+    <!--<e><p><l>hópur<s n="n"/><s n="m"/></l><r>heap<s n="n"/></r></p></e>-->
+    <e><p><l>hór<s n="n"/><s n="nt"/></l><r>adultery<s n="n"/></r></p></e>
+    <e><p><l>hótel<s n="n"/><s n="nt"/></l><r>hotel<s n="n"/></r></p></e>
+    <e><p><l>hótfyndni<s n="n"/><s n="f"/></l><r>flippancy<s n="n"/></r></p></e>
+    <!--<e><p><l>hótfyndni<s n="n"/><s n="f"/></l><r>hairsplitting<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hótfyndni<s n="n"/><s n="f"/></l><r>pettiness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>port<s n="n"/></r></p></e>-->
+    <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbor<s n="n"/></r></p></e>
+    <e><p><l>höfrungur<s n="n"/><s n="m"/></l><r>dolphin<s n="n"/></r></p></e>
+    <e><p><l>höfundarréttur<s n="n"/><s n="m"/></l><r>copyright<s n="n"/></r></p></e>
+    <e><p><l>höfundur<s n="n"/><s n="m"/></l><r>author<s n="n"/></r></p></e>
+    <!--<e><p><l>höfuð<s n="n"/><s n="nt"/></l><r>chief<s n="n"/></r></p></e>--> <!-- when used as a prefix-->
+    <e><p><l>höfuð<s n="n"/><s n="nt"/></l><r>head<s n="n"/></r></p></e>
+    <e><p><l>höfuðborg<s n="n"/><s n="f"/></l><r>capital<s n="n"/></r></p></e>
+    <!--<e><p><l>höfuðbúnaður<s n="n"/><s n="m"/></l><r>headdress<s n="n"/></r></p></e>-->
+    <e><p><l>höfuðbúnaður<s n="n"/><s n="m"/></l><r>headgear<s n="n"/></r></p></e>
+    <e><p><l>höfuðverkur<s n="n"/><s n="m"/></l><r>headache<s n="n"/></r></p></e>
+    <e><p><l>höfðingjasetur<s n="n"/><s n="nt"/></l><r>manor<s n="n"/></r></p></e>
+    <e><p><l>högni<s n="n"/><s n="m"/></l><r>tomcat<s n="n"/></r></p></e>
+    <e><p><l>höll<s n="n"/><s n="f"/></l><r>palace<s n="n"/></r></p></e>
+    <e><p><l>hönd<s n="n"/><s n="f"/></l><r>hand<s n="n"/></r></p></e>
+    <e><p><l>hönnun<s n="n"/><s n="f"/></l><r>design<s n="n"/></r></p></e>
+    <e><p><l>hönnuður<s n="n"/><s n="m"/></l><r>designer<s n="n"/></r></p></e>
+    <e><p><l>hörfræ<s n="n"/><s n="nt"/></l><r>linseed<s n="n"/></r></p></e>
+    <e><p><l>hörpuskel<s n="n"/><s n="f"/></l><r>scallop<s n="n"/></r></p></e>
+    <e><p><l>húm<s n="n"/><s n="nt"/></l><r>dusk<s n="n"/></r></p></e>
+    <e><p><l>hús<s n="n"/><s n="nt"/></l><r>house<s n="n"/></r></p></e>
+    <e><p><l>húsbóndi<s n="n"/><s n="m"/></l><r>master<b/>of<b/>the<b/>house<s n="n"/></r></p></e>
+    <e><p><l>húsdýr<s n="n"/><s n="nt"/></l><r>domestic<b/>animal<s n="n"/></r></p></e>
+    <e><p><l>húsfreyja<s n="n"/><s n="f"/></l><r>mistress<b/>of<b/>the<b/>house<s n="n"/></r></p></e>
+    <e><p><l>húsfrú<s n="n"/><s n="f"/></l><r>housewife<s n="n"/></r></p></e>
+    <e><p><l>húsnæði<s n="n"/><s n="nt"/></l><r>accomodation<s n="n"/></r></p></e>
+    <!--<e><p><l>húsnæði<s n="n"/><s n="nt"/></l><r>housing<s n="n"/></r></p></e>-->
+    <!--<e><p><l>húsnæði<s n="n"/><s n="nt"/></l><r>lodging<s n="n"/></r></p></e>-->
+    <!--<e><p><l>húð<s n="n"/><s n="f"/></l><r>hide<s n="n"/></r></p></e>--> <!-- skin of an animal -->
+    <e><p><l>húð<s n="n"/><s n="f"/></l><r>skin<s n="n"/></r></p></e>
+    <e><p><l>húðsjúkdómafræði<s n="n"/><s n="f"/></l><r>dermatology<s n="n"/></r></p></e>
+    <e><p><l>húðsjúkdómafræðingur<s n="n"/><s n="m"/></l><r>dermatologist<s n="n"/></r></p></e>
+    <e><p><l>hýðishrísgrjón<s n="n"/><s n="nt"/></l><r>brown<b/>rice<s n="n"/></r></p></e>
     
+    
+    <e><p><l>i<s n="n"/><s n="nt"/></l><r>i<s n="n"/></r></p></e>
+    <e><p><l>il<s n="n"/><s n="m"/></l><r>sole<s n="n"/></r></p></e> <!-- (of the foot) -->
+    <!--<e><p><l>illa<s n="adj"/><s n="f"/></l><r>badly<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>illska<s n="n"/><s n="f"/></l><r>rage<s n="n"/></r></p></e>
+    <e><p><l>imperíalismi<s n="n"/><s n="m"/></l><r>imperialism<s n="n"/></r></p></e> <!-- (the policy of extending power, by force) -->
+    <e><p><l>indín<s n="n"/><s n="nt"/></l><r>indium<s n="n"/></r></p></e> <!-- (metallic chemical element) -->
+    <e><p><l>innblástur<s n="n"/><s n="m"/></l><r>inspiration<s n="n"/></r></p></e>
+    <e><p><l>innbrot<s n="n"/><s n="nt"/></l><r>burglary<s n="n"/></r></p></e>
+    <!--<e><p><l>innganga<s n="n"/><s n="f"/></l><r>enrollment<s n="n"/></r></p></e>-->
+    <e><p><l>innganga<s n="n"/><s n="f"/></l><r>entrance<s n="n"/></r></p></e>
+    <e><p><l>inngangur<s n="n"/><s n="m"/></l><r>entrance<s n="n"/></r></p></e>
+    <e><p><l>innihald<s n="n"/><s n="nt"/></l><r>content<s n="n"/></r></p></e>
+    <e><p><l>innrás<s n="n"/><s n="f"/></l><r>invasion<s n="n"/></r></p></e>
+    <e><p><l>innræting<s n="n"/><s n="f"/></l><r>indoctrination<s n="n"/></r></p></e>
+    <e><p><l>innsog<s n="n"/><s n="nt"/></l><r>inhalation<s n="n"/></r></p></e> <!-- (mostly used in the set phrase á innsoginu&#160; -->
+    <e><p><l>internet<s n="n"/><s n="nt"/></l><r>internet<s n="n"/></r></p></e>
+    <e><p><l>iridín<s n="n"/><s n="nt"/></l><r>iridium<s n="n"/></r></p></e> <!-- (chemical element) -->
+    <e><p><l>iðja<s n="n"/><s n="f"/></l><r>task<s n="n"/></r></p></e>
+    <e><p><l>iðn<s n="n"/><s n="f"/></l><r>occupation<s n="n"/></r></p></e>
+    <e><p><l>iðnaður<s n="n"/><s n="m"/></l><r>industry<s n="n"/></r></p></e>
+
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
