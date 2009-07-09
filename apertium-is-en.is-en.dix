@@ -2165,6 +2165,285 @@
     <!--<e><p><l>kaupstefna<s n="n"/><s n="f"/></l><r>market<s n="n"/></r></p></e>-->
     <e><p><l>kaðall<s n="n"/><s n="m"/></l><r>rope<s n="n"/></r></p></e>
     <e><p><l>kaþólska<s n="n"/><s n="f"/></l><r>Catholic<s n="n"/></r></p></e>
+    <e><p><l>keila<s n="n"/><s n="f"/></l><r>cone<s n="n"/></r></p></e>
+    <e><p><l>keisari<s n="n"/><s n="m"/></l><r>emperor<s n="n"/></r></p></e>
+    <e><p><l>kekkur<s n="n"/><s n="m"/></l><r>lump<s n="n"/></r></p></e> <!-- (e.g. in gravy, soup, etc.) -->
+    <e><p><l>kelda<s n="n"/><s n="f"/></l><r>bog<s n="n"/></r></p></e> <!-- (a stagnant pit in a swampy ground) -->
+    <e><p><l>kjölta<s n="n"/><s n="f"/></l><r>lap<s n="n"/></r></p></e> <!-- (of the body) -->
+    <e><p><l>kelvin<s n="n"/><s n="nt"/></l><r>Kelvin<s n="n"/></r></p></e>
+    <e><p><l>kengur<s n="n"/><s n="m"/></l><r>hook<s n="n"/></r></p></e>
+    <e><p><l>kengúra<s n="n"/><s n="f"/></l><r>kangaroo<s n="n"/></r></p></e>
+    <e><p><l>kennari<s n="n"/><s n="m"/></l><r>teacher<s n="n"/></r></p></e>
+    <e><p><l>kenning<s n="n"/><s n="f"/></l><r>theory<s n="n"/></r></p></e>
+    <!--<e><p><l>kennsla<s n="n"/><s n="f"/></l><r>instruction<s n="n"/></r></p></e>-->
+    <e><p><l>kennsla<s n="n"/><s n="f"/></l><r>teaching<s n="n"/></r></p></e>
+    <e><p><l>kennslubók<s n="n"/><s n="f"/></l><r>textbook<s n="n"/></r></p></e>
+    <e><p><l>kennslustund<s n="n"/><s n="f"/></l><r>class<b/>period<s n="n"/></r></p></e>
+    <!--<e><p><l>kennslustund<s n="n"/><s n="f"/></l><r>lesson<s n="n"/></r></p></e>-->
+    <e><p><l>keppa<s n="n"/><s n="f"/></l><r>compete<s n="n"/></r></p></e>
+    <!--<e><p><l>keppa<s n="n"/><s n="f"/></l><r>contend<s n="n"/></r></p></e>-->
+    <e><p><l>keppinautur<s n="n"/><s n="m"/></l><r>competitor<s n="n"/></r></p></e>
+    <!--<e><p><l>keppni<s n="n"/><s n="f"/></l><r>match<s n="n"/></r></p></e>-->
+    <!--<e><p><l>keppni<s n="n"/><s n="f"/></l><r>competition<s n="n"/></r></p></e>-->
+    <e><p><l>keppni<s n="n"/><s n="f"/></l><r>contest<s n="n"/></r></p></e>
+    <!--<e><p><l>kerfi<s n="n"/><s n="nt"/></l><r>network<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kerfi<s n="n"/><s n="nt"/></l><r>organization<s n="n"/></r></p></e>-->
+    <e><p><l>kerfi<s n="n"/><s n="nt"/></l><r>system<s n="n"/></r></p></e>
+    <e><p><l>kerti<s n="n"/><s n="nt"/></l><r>candle<s n="n"/></r></p></e>
+    <!--<e><p><l>kind<s n="n"/><s n="f"/></l><r>domestic<b/>sheep<s n="n"/></r></p></e>--> <!-- ARE THERE ANY OTHER KIND OF SHEEP?!?! ;) -->
+    <e><p><l>kind<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e>
+    <e><p><l>kinn<s n="n"/><s n="f"/></l><r>cheek<s n="n"/></r></p></e>
+    <!--<e><p><l>kippur<s n="n"/><s n="m"/></l><r>jerk<s n="n"/></r></p></e>-->
+    <e><p><l>kippur<s n="n"/><s n="m"/></l><r>twitch<s n="n"/></r></p></e>
+    <e><p><l>kirkja<s n="n"/><s n="f"/></l><r>church<s n="n"/></r></p></e>
+    <e><p><l>kirkjugarður<s n="n"/><s n="m"/></l><r>cemetery<s n="n"/></r></p></e>
+    <!--<e><p><l>kirkjugarður<s n="n"/><s n="m"/></l><r>churchyard<s n="n"/></r></p></e>-->
+    <e><p><l>kirsuberjatré<s n="n"/><s n="nt"/></l><r>cherry<b/>tree<s n="n"/></r></p></e>
+    <e><p><l>kirsuberjaviður<s n="n"/><s n="m"/></l><r>cherry<b/>wood<s n="n"/></r></p></e>
+    <e><p><l>kisa<s n="n"/><s n="f"/></l><r>pussy<s n="n"/></r></p></e> <!-- nickname for domestic cat -->
+    <e><p><l>kisa<s n="n"/><s n="f"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>kettlingur<s n="n"/><s n="f"/></l><r>kitten<s n="n"/></r></p></e>
+    <!--<e><p><l>kista<s n="n"/><s n="f"/></l><r>box<s n="n"/></r></p></e>-->
+    <e><p><l>kista<s n="n"/><s n="f"/></l><r>chest<s n="n"/></r></p></e> <!-- for storage -->
+    <e><p><l>kiðlingur<s n="n"/><s n="m"/></l><r>kid<s n="n"/></r></p></e> <!-- (young goat) -->
+    <e><p><l>kjallari<s n="n"/><s n="m"/></l><r>basement<s n="n"/></r></p></e>
+    <!--<e><p><l>kjallari<s n="n"/><s n="m"/></l><r>cellar<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kjarkur<s n="n"/><s n="m"/></l><r>bravery<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kjarkur<s n="n"/><s n="m"/></l><r>guts<s n="n"/></r></p></e>-->
+    <e><p><l>kjarkur<s n="n"/><s n="m"/></l><r>nerve<s n="n"/></r></p></e>
+    <e><p><l>kjarneind<s n="n"/><s n="f"/></l><r>nucleon<s n="n"/></r></p></e>
+    <e><p><l>kjarni<s n="n"/><s n="m"/></l><r>core<s n="n"/></r></p></e>
+    <!--<e><p><l>kjarni<s n="n"/><s n="m"/></l><r>nucleus<s n="n"/></r></p></e>-->
+    <e><p><l>kjarnorkuver<s n="n"/><s n="nt"/></l><r>nuclear<b/>power<b/>plant<s n="n"/></r></p></e>
+    <e><p><l>kjálki<s n="n"/><s n="m"/></l><r>jaw<s n="n"/></r></p></e>
+    <e><p><l>kjóll<s n="n"/><s n="m"/></l><r>dress<s n="n"/></r></p></e>
+    <e><p><l>kjölfar<s n="n"/><s n="nt"/></l><r>wake<s n="n"/></r></p></e>
+    <e><p><l>kjölur<s n="n"/><s n="m"/></l><r>keel<s n="n"/></r></p></e>
+    <!--<e><p><l>kjölur<s n="n"/><s n="m"/></l><r>spine<s n="n"/></r></p></e> --> <!-- (of a book) -->
+    <!--<e><p><l>kjör<s n="n"/><s n="nt"/></l><r>choice<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kjör<s n="n"/><s n="nt"/></l><r>circumstance<s n="n"/></r></p></e>-->
+    <e><p><l>kjör<s n="n"/><s n="nt"/></l><r>election<s n="n"/></r></p></e>
+    <e><p><l>kjördæmi<s n="n"/><s n="nt"/></l><r>constituency<s n="n"/></r></p></e>
+    <!--<e><p><l>kjördæmi<s n="n"/><s n="nt"/></l><r>electoral<b/>district<s n="n"/></r></p></e>-->
+    <e><p><l>kjörmaður<s n="n"/><s n="m"/></l><r>elector<s n="n"/></r></p></e> <!-- (official serving in an electoral college) -->
+    <e><p><l>kjörorð<s n="n"/><s n="nt"/></l><r>motto<s n="n"/></r></p></e>
+    <e><p><l>kjöt<s n="n"/><s n="nt"/></l><r>meat<s n="n"/></r></p></e>
+    <e><p><l>kjötbolla<s n="n"/><s n="f"/></l><r>meatball<s n="n"/></r></p></e>
+    <!--<e><p><l>klaki<s n="n"/><s n="m"/></l><r>ice<b/>cube<s n="n"/></r></p></e>-->
+    <e><p><l>klaki<s n="n"/><s n="m"/></l><r>ice<s n="n"/></r></p></e>
+    <e><p><l>klarínett<s n="n"/><s n="nt"/></l><r>clarinet<s n="n"/></r></p></e>
+    <!--<e><p><l>klarínetta<s n="n"/><s n="f"/></l><r>clarinet<s n="n"/></r></p></e>-->
+    <!--<e><p><l>klausa<s n="n"/><s n="f"/></l><r>passage<s n="n"/></r></p></e> --> <!-- (of text), clause -->
+    <e><p><l>klausa<s n="n"/><s n="f"/></l><r>clause<s n="n"/></r></p></e>
+    <e><p><l>klaustur<s n="n"/><s n="nt"/></l><r>monastery<s n="n"/></r></p></e>
+    <!--<e><p><l>klefi<s n="n"/><s n="m"/></l><r>compartment<s n="n"/></r></p></e> --> <!-- (train etc.) -->
+    <e><p><l>klefi<s n="n"/><s n="m"/></l><r>booth<s n="n"/></r></p></e>
+    <e><p><l>klerkur<s n="n"/><s n="m"/></l><r>clergyman<s n="n"/></r></p></e>
+    <e><p><l>klof<s n="n"/><s n="nt"/></l><r>crotch<s n="n"/></r></p></e>
+    <!--<e><p><l>klof<s n="n"/><s n="nt"/></l><r>genitals<s n="n"/></r></p></e>-->
+    <e><p><l>klukka<s n="n"/><s n="f"/></l><r>clock<s n="n"/></r></p></e>
+    <!--<e><p><l>klukka<s n="n"/><s n="f"/></l><r>bell<s n="n"/></r></p></e>-->
+    <e><p><l>klukkustund<s n="n"/><s n="f"/></l><r>hour<s n="n"/></r></p></e>
+    <e><p><l>klukkutími<s n="n"/><s n="m"/></l><r>hour<s n="n"/></r></p></e>
+
+    <e><p><l>klukkan<b/>eitt<s n="n"/><s n="nt"/></l><r>one<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>tvö<s n="n"/><s n="nt"/></l><r>two<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>þrjú<s n="n"/><s n="nt"/></l><r>three<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>fjögur<s n="n"/><s n="nt"/></l><r>four<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>fimm<s n="n"/><s n="nt"/></l><r>five<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>sex<s n="n"/><s n="nt"/></l><r>six<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>sjö<s n="n"/><s n="nt"/></l><r>seven<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>átta<s n="n"/><s n="nt"/></l><r>eight<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>níu<s n="n"/><s n="nt"/></l><r>nine<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>tíu<s n="n"/><s n="nt"/></l><r>ten<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>ellefu<s n="n"/><s n="nt"/></l><r>eleven<b/>o'clock<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>tólf<s n="n"/><s n="nt"/></l><r>twelve<b/>o'clock<s n="n"/></r></p></e>
+
+    <e><p><l>klukkan<b/>hálf-eitt<s n="n"/><s n="nt"/></l><r>twelve-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-tvö<s n="n"/><s n="nt"/></l><r>one-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-þrjú<s n="n"/><s n="nt"/></l><r>two-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-fjögur<s n="n"/><s n="nt"/></l><r>three-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-fimm<s n="n"/><s n="nt"/></l><r>four-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-sex<s n="n"/><s n="nt"/></l><r>five-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-sjö<s n="n"/><s n="nt"/></l><r>six-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-átta<s n="n"/><s n="nt"/></l><r>seven-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-níú<s n="n"/><s n="nt"/></l><r>eight-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-tíu<s n="n"/><s n="nt"/></l><r>nine-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-ellefu<s n="n"/><s n="nt"/></l><r>ten-thirty<s n="n"/></r></p></e>
+    <e><p><l>klukkan<b/>hálf-tólf<s n="n"/><s n="nt"/></l><r>eleven-thirty<s n="n"/></r></p></e>
+
+    <e><p><l>hálftími<s n="n"/><s n="m"/></l><r>half<b/>an<b/>hour<s n="n"/></r></p></e>
+    <e><p><l>kortér<s n="n"/><s n="nt"/></l><r>fifteen<b/>minutes<s n="n"/></r></p></e>
+    <e><p><l>kortér<b/>gengin<b/>í<s n="n"/><s n="nt"/></l><r>fifteen<b/>minutes<b/>past<s n="n"/></r></p></e> <!-- rarer multiword followed by a number, indicating time of day -->
+    <e><p><l>kortér<b/>yfir<s n="n"/><s n="nt"/></l><r>fifteen<b/>minutes<b/>past<s n="n"/></r></p></e> <!-- multiword followed by a number, indicating time of day -->
+    <e><p><l>vantar<b/>kortér<b/>í<s n="n"/><s n="nt"/></l><r>fifteen<b/>minutes<b/>before<s n="n"/></r></p></e> <!-- multiword followed by a number, indicating time of day -->
+
+    <e><p><l>klám<s n="n"/><s n="nt"/></l><r>porn<s n="n"/></r></p></e>
+    <!--<e><p><l>klám<s n="n"/><s n="nt"/></l><r>pornography<s n="n"/></r></p></e>-->
+    <e><p><l>klæði<s n="n"/><s n="nt"/></l><r>clothing<s n="n"/></r></p></e>
+    <e><p><l>klæðnaður<s n="n"/><s n="m"/></l><r>clothes<s n="n"/></r></p></e>
+    <e><p><l>kló<s n="n"/><s n="f"/></l><r>claw<s n="n"/></r></p></e>
+    <!--<e><p><l>kló<s n="n"/><s n="f"/></l><r>talon<s n="n"/></r></p></e>-->
+    <e><p><l>klór<s n="n"/><s n="nt"/></l><r>chlorine<s n="n"/></r></p></e>
+    <e><p><l>klósett<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
+    <!--<e><p><l>klósett<s n="n"/><s n="nt"/></l><r>WC<s n="n"/></r></p></e>-->
+    <!--<e><p><l>klósett<s n="n"/><s n="nt"/></l><r>toilet<s n="n"/></r></p></e>-->
+    <e><p><l>klósettpappír<s n="n"/><s n="m"/></l><r>toilet<b/>paper<s n="n"/></r></p></e>
+    <e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>soccer<s n="n"/></r></p></e>
+    <!--<e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>football<s n="n"/></r></p></e> --> <!-- (sport) -->
+    <e><p><l>kné<s n="n"/><s n="nt"/></l><r>knee<s n="n"/></r></p></e>
+    <e><p><l>knéfiðla<s n="n"/><s n="f"/></l><r>cello<s n="n"/></r></p></e> <!-- (musical instrument) -->
+    <e><p><l>knús<s n="n"/><s n="nt"/></l><r>cuddle<s n="n"/></r></p></e>
+    <e><p><l>koddi<s n="n"/><s n="m"/></l><r>pillow<s n="n"/></r></p></e>
+    <e><p><l>kofi<s n="n"/><s n="m"/></l><r>hut<s n="n"/></r></p></e>
+    <!--<e><p><l>kofi<s n="n"/><s n="m"/></l><r>shack<s n="n"/></r></p></e>-->
+    <e><p><l>kol<s n="n"/><s n="nt"/></l><r>coal<s n="n"/></r></p></e>
+    <e><p><l>kolefni<s n="n"/><s n="nt"/></l><r>carbon<s n="n"/></r></p></e>
+    <e><p><l>kollur<s n="n"/><s n="m"/></l><r>stool<s n="n"/></r></p></e>
+    <e><p><l>kolsýra<s n="n"/><s n="f"/></l><r>carbonic<b/>acid<s n="n"/></r></p></e>
+    <e><p><l>koma<s n="n"/><s n="f"/></l><r>arrival<s n="n"/></r></p></e>
+    <e><p><l>kommúna<s n="n"/><s n="f"/></l><r>commune<s n="n"/></r></p></e>
+    <e><p><l>kommúnismi<s n="n"/><s n="m"/></l><r>communism<s n="n"/></r></p></e>
+    <e><p><l>kommúnisti<s n="n"/><s n="f"/></l><r>communist<s n="n"/></r></p></e>
+    <e><p><l>komutími<s n="n"/><s n="m"/></l><r>time<b/>of<b/>arrival<s n="n"/></r></p></e>
+    <!--<e><p><l>kona<s n="n"/><s n="f"/></l><r>lady<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kona<s n="n"/><s n="f"/></l><r>wife<s n="n"/></r></p></e>-->
+    <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
+    <!--<e><p><l>kontrabassi<s n="n"/><s n="m"/></l><r>double<b/>bass<s n="n"/></r></p></e> --><!-- (string instrument) -->
+    <e><p><l>kontrabassi<s n="n"/><s n="m"/></l><r>contrabass<s n="n"/></r></p></e> <!-- (musical range or an undefined instrument in that range) -->
+    <e><p><l>kontrafagott<s n="n"/><s n="nt"/></l><r>contrabassoon<s n="n"/></r></p></e>
+    <e><p><l>konungshöll<s n="n"/><s n="f"/></l><r>royal<b/>palace<s n="n"/></r></p></e>
+    <e><p><l>konungsríki<s n="n"/><s n="nt"/></l><r>kingdom<s n="n"/></r></p></e>
+    <!--<e><p><l>konungsríki<s n="n"/><s n="nt"/></l><r>realm<s n="n"/></r></p></e>-->
+    <e><p><l>konungsveldi<s n="n"/><s n="nt"/></l><r>monarchy<s n="n"/></r></p></e>
+    <e><p><l>konungur<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
+    <e><p><l>kopar<s n="n"/><s n="m"/></l><r>copper<s n="n"/></r></p></e>
+    <!--<e><p><l>korn<s n="n"/><s n="nt"/></l><r>corn<s n="n"/></r></p></e>-->
+    <e><p><l>korn<s n="n"/><s n="nt"/></l><r>grain<s n="n"/></r></p></e>
+    <e><p><l>kort<s n="n"/><s n="nt"/></l><r>map<s n="n"/></r></p></e>
+    <e><p><l>kosningaréttur<s n="n"/><s n="m"/></l><r>suffrage<s n="n"/></r></p></e>
+    <e><p><l>koss<s n="n"/><s n="m"/></l><r>kiss<s n="n"/></r></p></e>
+    <e><p><l>kostur<s n="n"/><s n="m"/></l><r>choice<s n="n"/></r></p></e>
+    <!--<e><p><l>kostur<s n="n"/><s n="m"/></l><r>possibility<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kostur<s n="n"/><s n="m"/></l><r>condition<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kostur<s n="n"/><s n="m"/></l><r>term<s n="n"/></r></p></e>-->
+    <e><p><l>krabbamein<s n="n"/><s n="nt"/></l><r>cancer<s n="n"/></r></p></e> <!-- (disease) -->
+    <e><p><l>krabbi<s n="n"/><s n="m"/></l><r>crab<s n="n"/></r></p></e>
+    <!--<e><p><l>krafa<s n="n"/><s n="f"/></l><r>claim<s n="n"/></r></p></e>-->
+    <e><p><l>krafa<s n="n"/><s n="f"/></l><r>demand<s n="n"/></r></p></e>
+    <e><p><l>kraftaverk<s n="n"/><s n="nt"/></l><r>miracle<s n="n"/></r></p></e>
+    <!--<e><p><l>kraftur<s n="n"/><s n="m"/></l><r>force<s n="n"/></r></p></e>-->
+    <e><p><l>kraftur<s n="n"/><s n="m"/></l><r>power<s n="n"/></r></p></e>
+    <!--<e><p><l>kraftur<s n="n"/><s n="m"/></l><r>strength<s n="n"/></r></p></e>-->
+    <e><p><l>krakkaskömm<s n="n"/><s n="f"/></l><r>brat<s n="n"/></r></p></e>
+    <e><p><l>krakki<s n="n"/><s n="m"/></l><r>child<s n="n"/></r></p></e>
+    <e><p><l>krampi<s n="n"/><s n="m"/></l><r>cramp<s n="n"/></r></p></e> <!-- (painful and uncontrollable muscle contraction) -->
+    <e><p><l>kreppa<s n="n"/><s n="f"/></l><r>crisis<s n="n"/></r></p></e>
+    <e><p><l>kringumstæður<s n="n"/><s n="nt"/></l><r>circumstances<s n="n"/></r></p></e>
+    <e><p><l>kristindómur<s n="n"/><s n="m"/></l><r>Christianity<s n="n"/></r></p></e>
+    <e><p><l>kristni<s n="n"/><s n="f"/></l><r>Christianity<s n="n"/></r></p></e>
+    <e><p><l>kross<s n="n"/><s n="m"/></l><r>cross<s n="n"/></r></p></e>
+    <e><p><l>krossfesting<s n="n"/><s n="f"/></l><r>crucifixion<s n="n"/></r></p></e>
+    <e><p><l>krossfiskur<s n="n"/><s n="m"/></l><r>starfish<s n="n"/></r></p></e>
+    <e><p><l>krummi<s n="n"/><s n="m"/></l><r>hrafn<s n="n"/></r></p></e>
+    <e><p><l>krydd<s n="n"/><s n="nt"/></l><r>spice<s n="n"/></r></p></e>
+    <e><p><l>krypton<s n="n"/><s n="nt"/></l><r>Krypton<s n="n"/></r></p></e>
+    <e><p><l>krá<s n="n"/><s n="nt"/></l><r>pub<s n="n"/></r></p></e>
+    <e><p><l>kráka<s n="n"/><s n="f"/></l><r>crow<s n="n"/></r></p></e>
+    <e><p><l>kræklingur<s n="n"/><s n="m"/></l><r>mussel<s n="n"/></r></p></e>
+    <e><p><l>krít<s n="n"/><s n="f"/></l><r>chalk<s n="n"/></r></p></e>
+    <!--<e><p><l>krókur<s n="n"/><s n="m"/></l><r>detour<s n="n"/></r></p></e>-->
+    <e><p><l>krókur<s n="n"/><s n="m"/></l><r>hook<s n="n"/></r></p></e>
+    <e><p><l>krókódílstár<s n="n"/><s n="nt"/></l><r>crocodile<b/>tears<s n="n"/></r></p></e>
+    <e><p><l>króm<s n="n"/><s n="nt"/></l><r>chromium<s n="n"/></r></p></e>
+    <!--<e><p><l>króna<s n="n"/><s n="f"/></l><r>crown<s n="n"/></r></p></e>-->
+    <e><p><l>króna<s n="n"/><s n="f"/></l><r>krona<s n="n"/></r></p></e> <!-- Icelandic monetary unit -->
+    <e><p><l>krónprins<s n="n"/><s n="m"/></l><r>crown<b/>prince<s n="n"/></r></p></e>
+    <e><p><l>krónprinsessa<s n="n"/><s n="f"/></l><r>crown<b/>princess<s n="n"/></r></p></e>
+    <e><p><l>kröfuganga<s n="n"/><s n="f"/></l><r>march<s n="n"/></r></p></e> <!-- (political rally or parade) -->
+    <e><p><l>krúna<s n="n"/><s n="f"/></l><r>crown<s n="n"/></r></p></e> <!-- top of person's head -->
+    <!--<e><p><l>krúna<s n="n"/><s n="f"/></l><r>royal<b/>crown<s n="n"/></r></p></e>-->
+    <!--<e><p><l>krúna<s n="n"/><s n="f"/></l><r>throne<s n="n"/></r></p></e>-->
+    <e><p><l>krús<s n="n"/><s n="f"/></l><r>jar<s n="n"/></r></p></e>
+    <!--<e><p><l>krús<s n="n"/><s n="f"/></l><r>jug<s n="n"/></r></p></e>-->
+    <!--<e><p><l>krús<s n="n"/><s n="f"/></l><r>mug<s n="n"/></r></p></e>-->
+    <e><p><l>krýning<s n="n"/><s n="f"/></l><r>coronation<s n="n"/></r></p></e>
+    <!--<e><p><l>kuldi<s n="n"/><s n="m"/></l><r>chill<s n="n"/></r></p></e>-->
+    <e><p><l>kuldi<s n="n"/><s n="m"/></l><r>cold<s n="n"/></r></p></e>
+    <e><p><l>kurteisi<s n="n"/><s n="f"/></l><r>courtesy<s n="n"/></r></p></e>
+    <e><p><l>kvaðratrót<s n="n"/><s n="f"/></l><r>square<b/>root<s n="n"/></r></p></e>
+    <e><p><l>kvef<s n="n"/><s n="nt"/></l><r>common<b/>cold<s n="n"/></r></p></e>
+    <e><p><l>kveikjari<s n="n"/><s n="m"/></l><r>lighter<s n="n"/></r></p></e>
+    <e><p><l>kvenkyn<s n="n"/><s n="nt"/></l><r>female<s n="n"/></r></p></e>
+    <e><p><l>kvenmaður<s n="n"/><s n="m"/></l><r>woman<s n="n"/></r></p></e> <!-- (adult female human being) -->
+    <e><p><l>kverk<s n="n"/><s n="f"/></l><r>throat<s n="n"/></r></p></e>
+    <e><p><l>kveðja<s n="n"/><s n="f"/></l><r>greeting<s n="n"/></r></p></e>
+    <e><p><l>kveðskapur<s n="n"/><s n="m"/></l><r>poetry<s n="n"/></r></p></e>
+    <e><p><l>kvikasilfur<s n="n"/><s n="nt"/></l><r>mercury_<s n="n"/></r></p></e>
+    <!--<e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>film<s n="n"/></r></p></e>-->
+    <e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>movie<s n="n"/></r></p></e>
+    <!--<e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>motion<b/>picture<s n="n"/></r></p></e>-->
+    <e><p><l>kvikmyndagerð<s n="n"/><s n="f"/></l><r>cinematography<s n="n"/></r></p></e>
+    <e><p><l>kvikmyndahús<s n="n"/><s n="nt"/></l><r>movie<b/>theater<s n="n"/></r></p></e>
+    <e><p><l>kviður<s n="n"/><s n="m"/></l><r>belly<s n="n"/></r></p></e>
+    <e><p><l>kvæði<s n="n"/><s n="nt"/></l><r>poem<s n="n"/></r></p></e>
+    <e><p><l>kví<s n="n"/><s n="f"/></l><r>pen<s n="n"/></r></p></e>
+    <e><p><l>kvísl<s n="n"/><s n="f"/></l><r>branch<s n="n"/></r></p></e>
+    <e><p><l>kvöld<s n="n"/><s n="nt"/></l><r>evening<s n="n"/></r></p></e>
+    <e><p><l>annað<b/>kvöld<s n="n"/><s n="nt"/></l><r>tomorrow<b/>night<s n="n"/></r></p></e>
+    <e><p><l>kvöldmatur<s n="n"/><s n="m"/></l><r>dinner<s n="n"/></r></p></e>
+    <e><p><l>kvöldverður<s n="n"/><s n="m"/></l><r>dinner<s n="n"/></r></p></e>
+    <e><p><l>kvörn<s n="n"/><s n="f"/></l><r>mill<s n="n"/></r></p></e>
+    <!--<e><p><l>kvörn<s n="n"/><s n="f"/></l><r>quern<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kyn<s n="n"/><s n="nt"/></l><r>breed<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kyn<s n="n"/><s n="nt"/></l><r>race<s n="n"/></r></p></e>-->
+    <e><p><l>kyn<s n="n"/><s n="nt"/></l><r>gender<s n="n"/></r></p></e>
+    <!--<e><p><l>kyn<s n="n"/><s n="nt"/></l><r>sex<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kyn<s n="n"/><s n="nt"/></l><r>sexuality<s n="n"/></r></p></e>-->
+    <e><p><l>kynbundin<b/>tvíbreytni<s n="n"/><s n="f"/></l><r>sexual<b/>dimorphism<s n="n"/></r></p></e>
+    <!--<e><p><l>kynlíf<s n="n"/><s n="nt"/></l><r>human<b/>sexuality<s n="n"/></r></p></e>-->
+    <e><p><l>kynlíf<s n="n"/><s n="nt"/></l><r>sex<s n="n"/></r></p></e>
+    <e><p><l>kynngi<s n="n"/><s n="f"/></l><r>magic<s n="n"/></r></p></e>
+    <e><p><l>kyrravika<s n="n"/><s n="f"/></l><r>Holy<b/>Week<s n="n"/></r></p></e>
+    <!--<e><p><l>kyrrð<s n="n"/><s n="f"/></l><r>peace<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kyrrð<s n="n"/><s n="f"/></l><r>quiet<s n="n"/></r></p></e>-->
+    <!--<e><p><l>kyrrð<s n="n"/><s n="f"/></l><r>silence<s n="n"/></r></p></e>-->
+    <e><p><l>kyrrð<s n="n"/><s n="f"/></l><r>tranquility<s n="n"/></r></p></e>
+    <!--<e><p><l>kál<s n="n"/><s n="nt"/></l><r>cabbage<s n="n"/></r></p></e>-->
+    <e><p><l>kál<s n="n"/><s n="nt"/></l><r>lettuce<s n="n"/></r></p></e>
+    <e><p><l>kálfur<s n="n"/><s n="m"/></l><r>calf<s n="n"/></r></p></e>
+    <e><p><l>kæfa<s n="n"/><s n="f"/></l><r>pâté<s n="n"/></r></p></e>
+    <e><p><l>kæliskápur<s n="n"/><s n="m"/></l><r>refrigerator<s n="n"/></r></p></e>
+    <e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometer<s n="n"/></r></p></e>
+    <!--<e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>kínverska<s n="n"/><s n="f"/></l><r>Chinese<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>kísill<s n="n"/><s n="m"/></l><r>silicon<s n="n"/></r></p></e>
+    <e><p><l>kíví<s n="n"/><s n="nt"/></l><r>kiwi<s n="n"/></r></p></e> <!-- fruit -->
+    <e><p><l>kóbolt<s n="n"/><s n="nt"/></l><r>cobalt<s n="n"/></r></p></e>
+    <e><p><l>kók<s n="n"/><s n="nt"/></l><r>coke<s n="n"/></r></p></e>
+    <!--<e><p><l>kók<s n="n"/><s n="nt"/></l><r>Coca<b/>Cola<s n="n"/></r></p></e>-->
+    <e><p><l>kókaín<s n="n"/><s n="nt"/></l><r>cocaine<s n="n"/></r></p></e>
+    <e><p><l>kólera<s n="n"/><s n="f"/></l><r>cholera<s n="n"/></r></p></e>
+    <e><p><l>kónguló<s n="n"/><s n="f"/></l><r>spider<s n="n"/></r></p></e> <!-- (arthropod) -->
+    <e><p><l>kóngur<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e> <!-- (male monarch) -->
+    <e><p><l>kór<s n="n"/><s n="m"/></l><r>chorus<s n="n"/></r></p></e> <!-- (group of singers) -->
+    <!--<e><p><l>kirkjukór<s n="n"/><s n="m"/></l><r>choir<s n="n"/></r></p></e> --> <!-- (part of a church) -->
+    <e><p><l>kóreska<s n="n"/><s n="f"/></l><r>Korean<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>kóróna<s n="n"/><s n="f"/></l><r>crown<s n="n"/></r></p></e>
+    <e><p><l>köfnunarefni<s n="n"/><s n="nt"/></l><r>nitrogen<s n="n"/></r></p></e>
+    <e><p><l>könguló<s n="n"/><s n="f"/></l><r>spider<s n="n"/></r></p></e> <!-- (arthropod) -->
+    <e><p><l>körfuknattleikur<s n="n"/><s n="m"/></l><r>basketball<s n="n"/></r></p></e>
+    <e><p><l>köttur<s n="n"/><s n="m"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>kúalubbi<s n="n"/><s n="m"/></l><r>birch<b/>bolete<s n="n"/></r></p></e> <!-- (a mushroom, Leccinum scabrum) -->
+    <e><p><l>kúbein<s n="n"/><s n="nt"/></l><r>crowbar<s n="n"/></r></p></e>
+    <e><p><l>kúlulega<s n="n"/><s n="f"/></l><r>ball<b/>bearing<s n="n"/></r></p></e>
+    <e><p><l>kúlupenni<s n="n"/><s n="m"/></l><r>ballpoint<b/>pen<s n="n"/></r></p></e>
+    <e><p><l>kúnni<s n="n"/><s n="m"/></l><r>customer<s n="n"/></r></p></e>
+    <!--<e><p><l>kúnni<s n="n"/><s n="m"/></l><r>client<s n="n"/></r></p></e>-->
+    <e><p><l>kústur<s n="n"/><s n="m"/></l><r>broom<s n="n"/></r></p></e>
+    <!--<e><p><l>kýli<s n="n"/><s n="nt"/></l><r>abscess<s n="n"/></r></p></e>-->
+    <e><p><l>kýli<s n="n"/><s n="nt"/></l><r>boil<s n="n"/></r></p></e>
+    <e><p><l>kýr<s n="n"/><s n="f"/></l><r>cow<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
