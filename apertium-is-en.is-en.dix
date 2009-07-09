@@ -2059,7 +2059,53 @@
     <e><p><l>iðja<s n="n"/><s n="f"/></l><r>task<s n="n"/></r></p></e>
     <e><p><l>iðn<s n="n"/><s n="f"/></l><r>occupation<s n="n"/></r></p></e>
     <e><p><l>iðnaður<s n="n"/><s n="m"/></l><r>industry<s n="n"/></r></p></e>
-
+    
+    
+    <e><p><l>j<s n="n"/><s n="nt"/></l><r>j<s n="n"/></r></p></e>
+    <e><p><l>jafna<s n="n"/><s n="f"/></l><r>equation<s n="n"/></r></p></e>
+    <!--<e><p><l>jafna<s n="v"/><s n="f"/></l><r>level<s n="v"/></r></p></e>--> <!-- adjective -->
+    <!--<e><p><l>jafna<s n="v"/><s n="f"/></l><r>make<b/>equal<s n="v"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>jafnaðarstefna<s n="n"/><s n="f"/></l><r>socialism<s n="n"/></r></p></e>
+    <e><p><l>jafntefli<s n="n"/><s n="nt"/></l><r>tie<s n="n"/></r></p></e> <!-- in a game -->
+    <e><p><l>jafnvægi<s n="n"/><s n="nt"/></l><r>balance<s n="n"/></r></p></e>
+    <e><p><l>jaki<s n="n"/><s n="m"/></l><r>floe<s n="n"/></r></p></e> <!-- (of ice) -->
+    <!--<e><p><l>jakki<s n="n"/><s n="m"/></l><r>coat<s n="n"/></r></p></e>-->
+    <e><p><l>jakki<s n="n"/><s n="m"/></l><r>jacket<s n="n"/></r></p></e>
+    <e><p><l>janúar<s n="n"/><s n="m"/></l><r>January<s n="n"/></r></p></e>
+    <e><p><l>japanska<s n="n"/><s n="f"/></l><r>Japanese<s n="n"/></r></p></e>
+    <e><p><l>jarl<s n="n"/><s n="m"/></l><r>earl<s n="n"/></r></p></e>
+    <e><p><l>jarðarbúi<s n="n"/><s n="m"/></l><r>Earthling<s n="n"/></r></p></e>
+    <e><p><l>jarðarför<s n="n"/><s n="f"/></l><r>funeral<s n="n"/></r></p></e>
+    <e><p><l>jarðfræði<s n="n"/><s n="f"/></l><r>geology<s n="n"/></r></p></e> <!-- (the study of earth and land) -->
+    <e><p><l>jarðhiti<s n="n"/><s n="m"/></l><r>geothermal<b/>energy<s n="n"/></r></p></e>
+    <e><p><l>jarðskjálfti<s n="n"/><s n="m"/></l><r>earthquake<s n="n"/></r></p></e>
+    <!--<e><p><l>jarðvegur<s n="n"/><s n="m"/></l><r>ground<s n="n"/></r></p></e>-->
+    <e><p><l>jarðvegur<s n="n"/><s n="m"/></l><r>soil<s n="n"/></r></p></e>
+    <e><p><l>jata<s n="n"/><s n="f"/></l><r>manger<s n="n"/></r></p></e>
+    <e><p><l>jaxl<s n="n"/><s n="m"/></l><r>molar<s n="n"/></r></p></e> <!-- (tooth) -->
+    <e><p><l>jeppi<s n="n"/><s n="m"/></l><r>jeep<s n="n"/></r></p></e>
+    <!--<e><p><l>jeppi<s n="n"/><s n="m"/></l><r>SUV<s n="n"/></r></p></e>-->
+    <e><p><l>joð<s n="n"/><s n="nt"/></l><r>iodine<s n="n"/></r></p></e>
+    <e><p><l>jurt<s n="n"/><s n="f"/></l><r>herb<s n="n"/></r></p></e>
+    <!--<e><p><l>jurt<s n="n"/><s n="f"/></l><r>plant<s n="n"/></r></p></e> --> <!-- (living organism) -->
+    <e><p><l>járn<s n="n"/><s n="nt"/></l><r>iron<s n="n"/></r></p></e>
+    <e><p><l>járnbrautarlest<s n="n"/><s n="f"/></l><r>train<s n="n"/></r></p></e>
+    <e><p><l>járningamaður<s n="n"/><s n="m"/></l><r>farrier<s n="n"/></r></p></e>
+    <e><p><l>jógúrt<s n="n"/><s n="nt"/></l><r>yoghurt<s n="n"/></r></p></e>
+    <!--<e><p><l>jól<s n="n"/><s n="nt"/></l><r>Noel<s n="n"/></r></p></e>-->
+    <e><p><l>jól<s n="n"/><s n="nt"/></l><r>Christmas<s n="n"/></r></p></e>
+    <!--<e><p><l>jól<s n="n"/><s n="nt"/></l><r>Yule<s n="n"/></r></p></e>-->
+    <e><p><l>jólatré<s n="n"/><s n="nt"/></l><r>Christmas<b/>tree<s n="n"/></r></p></e>
+    <e><p><l>jökull<s n="n"/><s n="m"/></l><r>glacier<s n="n"/></r></p></e>
+    <!--<e><p><l>jörð<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>-->
+    <!--<e><p><l>jörð<s n="n"/><s n="f"/></l><r>farm<s n="n"/></r></p></e>-->
+    <e><p><l>jörð<s n="n"/><s n="f"/></l><r>ground<s n="n"/></r></p></e>
+    <e><p><l>jötunn<s n="n"/><s n="m"/></l><r>giant<s n="n"/></r></p></e>
+    <!--<e><p><l>jötunn<s n="n"/><s n="m"/></l><r>Jotun<s n="n"/></r></p></e>-->
+    <e><p><l>júgurbólga<s n="n"/><s n="f"/></l><r>mastitis<s n="n"/></r></p></e>
+    <e><p><l>júlí<s n="n"/><s n="nt"/></l><r>July<s n="n"/></r></p></e>
+    <e><p><l>júní<s n="n"/><s n="nt"/></l><r>June<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
