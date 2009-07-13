@@ -2444,6 +2444,330 @@
     <!--<e><p><l>kýli<s n="n"/><s n="nt"/></l><r>abscess<s n="n"/></r></p></e>-->
     <e><p><l>kýli<s n="n"/><s n="nt"/></l><r>boil<s n="n"/></r></p></e>
     <e><p><l>kýr<s n="n"/><s n="f"/></l><r>cow<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>l<s n="n"/><s n="nt"/></l><r>l<s n="n"/></r></p></e>
+    <e><p><l>lag<s n="n"/><s n="nt"/></l><r>layer<s n="n"/></r></p></e>
+    <!--<e><p><l>lag<s n="n"/><s n="nt"/></l><r>song<s n="n"/></r></p></e>-->
+    <e><p><l>laglína<s n="n"/><s n="f"/></l><r>melody<s n="n"/></r></p></e>
+    <e><p><l>lakk<s n="n"/><s n="nt"/></l><r>varnish<s n="n"/></r></p></e>
+    <e><p><l>lakkrís<s n="n"/><s n="m"/></l><r>licorice<s n="n"/></r></p></e>
+    <e><p><l>lamb<s n="n"/><s n="nt"/></l><r>lamb<s n="n"/></r></p></e>
+    <e><p><l>lampi<s n="n"/><s n="m"/></l><r>lamp<s n="n"/></r></p></e>
+    <!--<e><p><l>land<s n="n"/><s n="nt"/></l><r>ground<s n="n"/></r></p></e>-->
+    <!--<e><p><l>land<s n="n"/><s n="nt"/></l><r>country<s n="n"/></r></p></e>-->
+    <e><p><l>land<s n="n"/><s n="nt"/></l><r>land<s n="n"/></r></p></e>
+    <e><p><l>landafræði<s n="n"/><s n="f"/></l><r>geography<s n="n"/></r></p></e>
+    <e><p><l>landakort<s n="n"/><s n="nt"/></l><r>map<s n="n"/></r></p></e>
+    <e><p><l>landamæri<s n="n"/><s n="nt"/></l><r>border<s n="n"/></r></p></e> <!-- (country), frontier -->
+    <!--<e><p><l>landbúnaður<s n="n"/><s n="m"/></l><r>farming<s n="n"/></r></p></e>-->
+    <e><p><l>landbúnaður<s n="n"/><s n="m"/></l><r>agriculture<s n="n"/></r></p></e>
+    <e><p><l>landnám<s n="n"/><s n="nt"/></l><r>colonisation<s n="n"/></r></p></e>
+    <e><p><l>landnámsöld<s n="n"/><s n="f"/></l><r>settlement<b/>of<b/>Iceland<s n="n"/></r></p></e>
+    <e><p><l>landslag<s n="n"/><s n="nt"/></l><r>countryside<s n="n"/></r></p></e>
+    <e><p><l>landstjóri<s n="n"/><s n="m"/></l><r>governor<s n="n"/></r></p></e>
+    <e><p><l>landsvala<s n="n"/><s n="f"/></l><r>swallow<s n="n"/></r></p></e> <!-- (bird) -->
+    <!--<e><p><l>Landsvirkjun<s n="n"/><s n="f"/></l><r>Landsvirkjun<s n="n"/></r></p></e>--> <!-- proper noun-->
+    <e><p><l>langhlið<s n="n"/><s n="f"/></l><r>hypotenuse<s n="n"/></r></p></e>
+    <e><p><l>langreyður<s n="n"/><s n="f"/></l><r>fin<b/>whale<s n="n"/></r></p></e>
+    <!--<e><p><l>langur<s n="adj"/><s n="m"/></l><r>long<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>latína<s n="n"/><s n="f"/></l><r>latin<s n="n"/></r></p></e>
+    <e><p><l>lauf<s n="n"/><s n="nt"/></l><r>leaf<s n="n"/></r></p></e>
+    <e><p><l>laufblað<s n="n"/><s n="nt"/></l><r>leaf<s n="n"/></r></p></e>
+    <e><p><l>lauftré<s n="n"/><s n="nt"/></l><r>deciduous<b/>tree<s n="n"/></r></p></e>
+    <e><p><l>laug<s n="n"/><s n="f"/></l><r>pool<s n="n"/></r></p></e>
+    <!--<e><p><l>laug<s n="n"/><s n="f"/></l><r>bath<s n="n"/></r></p></e>-->
+    <e><p><l>laugardagur<s n="n"/><s n="m"/></l><r>Saturday<s n="n"/></r></p></e>
+    <e><p><l>hvítlaukur<s n="n"/><s n="m"/></l><r>garlic<s n="n"/></r></p></e>
+    <e><p><l>blaðlaukur<s n="n"/><s n="m"/></l><r>leek<s n="n"/></r></p></e>
+    <e><p><l>laukur<s n="n"/><s n="m"/></l><r>onion<s n="n"/></r></p></e>
+    <!--<e><p><l>laun<s n="n"/><s n="nt"/></l><r>reward<s n="n"/></r></p></e>-->
+    <e><p><l>laun<s n="n"/><s n="nt"/></l><r>salary<s n="n"/></r></p></e>
+    <!--<e><p><l>laun<s n="n"/><s n="nt"/></l><r>wage<s n="n"/></r></p></e>-->
+    <e><p><l>launmorðingi<s n="n"/><s n="m"/></l><r>assassin<s n="n"/></r></p></e>
+    <e><p><l>lax<s n="n"/><s n="m"/></l><r>salmon<s n="n"/></r></p></e>
+    <e><p><l>leggur<s n="n"/><s n="m"/></l><r>leg<s n="n"/></r></p></e>
+    <!--<e><p><l>legunautur<s n="n"/><s n="m"/></l><r>bed-mate<s n="n"/></r></p></e>-->
+    <!--<e><p><l>legunautur<s n="n"/><s n="m"/></l><r>mess-mate<s n="n"/></r></p></e>-->
+<!--    <e><p><l>legíó<s n="n"/><s n="f"/></l><r>horde, multitude, host<s n="n"/></r></p></e> --> <!-- (of something uncountable) -->
+    <e><p><l>leiftur<s n="n"/><s n="nt"/></l><r>flash<s n="n"/></r></p></e>
+    <!--<e><p><l>leiftur<s n="n"/><s n="nt"/></l><r>sheet<b/>lightning<s n="n"/></r></p></e>-->
+    <e><p><l>leifturstríð<s n="n"/><s n="nt"/></l><r>blitzkrieg<s n="n"/></r></p></e>
+    <!--<e><p><l>leiga<s n="n"/><s n="f"/></l><r>hire<s n="n"/></r></p></e>-->
+    <e><p><l>leiga<s n="n"/><s n="f"/></l><r>rent<s n="n"/></r></p></e>
+    <!--<e><p><l>leiga<s n="n"/><s n="f"/></l><r>rental<s n="n"/></r></p></e>-->
+    <e><p><l>leigubíll<s n="n"/><s n="m"/></l><r>taxi<s n="n"/></r></p></e>
+    <e><p><l>leikari<s n="n"/><s n="m"/></l><r>actor<s n="n"/></r></p></e>
+    <e><p><l>leikhús<s n="n"/><s n="nt"/></l><r>theater<s n="n"/></r></p></e>
+    <e><p><l>leikkona<s n="n"/><s n="f"/></l><r>actress<s n="n"/></r></p></e>
+    <e><p><l>leiklist<s n="n"/><s n="f"/></l><r>acting<s n="n"/></r></p></e>
+    <!--<e><p><l>leikrit<s n="n"/><s n="nt"/></l><r>drama<s n="n"/></r></p></e>-->
+    <e><p><l>leikrit<s n="n"/><s n="nt"/></l><r>play<s n="n"/></r></p></e>
+    <e><p><l>leikritaskáld<s n="n"/><s n="nt"/></l><r>playwright<s n="n"/></r></p></e>
+    <e><p><l>leikskóli<s n="n"/><s n="m"/></l><r>kindergarten<s n="n"/></r></p></e>
+    <e><p><l>leikstjóri<s n="n"/><s n="m"/></l><r>director<s n="n"/></r></p></e>
+    <!--<e><p><l>leikur<s n="n"/><s n="m"/></l><r>acting<s n="n"/></r></p></e>-->
+    <e><p><l>leikur<s n="n"/><s n="m"/></l><r>game<s n="n"/></r></p></e>
+    <!--<e><p><l>leikur<s n="n"/><s n="m"/></l><r>play<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leikur<s n="n"/><s n="m"/></l><r>playing<s n="n"/></r></p></e>-->
+    <e><p><l>leikvangur<s n="n"/><s n="m"/></l><r>stadium<s n="n"/></r></p></e> <!-- (venue for sporting events) -->
+    <e><p><l>leit<s n="n"/><s n="f"/></l><r>search<s n="n"/></r></p></e>
+    <!--<e><p><l>leit<s n="n"/><s n="f"/></l><r>quest<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leið<s n="n"/><s n="f"/></l><r>means<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leið<s n="n"/><s n="f"/></l><r>method<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leið<s n="n"/><s n="f"/></l><r>road<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leið<s n="n"/><s n="f"/></l><r>route<s n="n"/></r></p></e>-->
+    <e><p><l>leið<s n="n"/><s n="f"/></l><r>way<s n="n"/></r></p></e>
+    <e><p><l>leiðangur<s n="n"/><s n="m"/></l><r>expedition<s n="n"/></r></p></e>
+    <e><p><l>leiðarljós<s n="n"/><s n="nt"/></l><r>guiding<b/>light<s n="n"/></r></p></e>
+    <!--<e><p><l>leiðarstef<s n="n"/><s n="nt"/></l><r>leitmotif<s n="n"/></r></p></e>-->
+    <e><p><l>leiðarstef<s n="n"/><s n="nt"/></l><r>recurring<b/>theme<s n="n"/></r></p></e>
+    <e><p><l>leiðbeinandi<s n="n"/><s n="m"/></l><r>instructor<s n="n"/></r></p></e>
+    <!--<e><p><l>leiðbeinandi<s n="n"/><s n="m"/></l><r>mentor<s n="n"/></r></p></e>-->
+    <e><p><l>leiðbeinandi<b/>verð<s n="n"/><s n="m"/></l><r>recommended<b/>price<s n="n"/></r></p></e>
+    <e><p><l>leiðbeining<s n="n"/><s n="f"/></l><r>guidance<s n="n"/></r></p></e>
+    <e><p><l>leiði<s n="n"/><s n="nt"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>leiðsögn<s n="n"/><s n="f"/></l><r>guidance<s n="n"/></r></p></e>
+    <e><p><l>leiðsögumaður<s n="n"/><s n="m"/></l><r>tour<b/>guide<s n="n"/></r></p></e>
+    <e><p><l>leiðtogi<s n="n"/><s n="m"/></l><r>leader<s n="n"/></r></p></e>
+    <e><p><l>lenda<s n="n"/><s n="f"/></l><r>flank<s n="n"/></r></p></e>
+    <e><p><l>lengd<s n="n"/><s n="f"/></l><r>length<s n="n"/></r></p></e>
+    <e><p><l>lesandabréf<s n="n"/><s n="nt"/></l><r>letter<b/>to<b/>the<b/>editor<s n="n"/></r></p></e>
+    <e><p><l>lesblinda<s n="n"/><s n="f"/></l><r>dyslexia<s n="n"/></r></p></e>
+    <e><p><l>lesbía<s n="n"/><s n="f"/></l><r>lesbian<s n="n"/></r></p></e> <!-- (woman homosexual) -->
+    <e><p><l>lesning<s n="n"/><s n="f"/></l><r>perusal<s n="n"/></r></p></e>
+    <!--<e><p><l>lesning<s n="n"/><s n="f"/></l><r>read<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lestur<s n="n"/><s n="m"/></l><r>perusal<s n="n"/></r></p></e>-->
+    <e><p><l>lestur<s n="n"/><s n="m"/></l><r>reading<s n="n"/></r></p></e>
+    <e><p><l>letur<s n="n"/><s n="nt"/></l><r>character<s n="n"/></r></p></e>
+    <!--<e><p><l>letur<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e>-->
+    <!--<e><p><l>letur<s n="n"/><s n="nt"/></l><r>print<s n="n"/></r></p></e>-->
+    <!--<e><p><l>letur<s n="n"/><s n="nt"/></l><r>type<s n="n"/></r></p></e>-->
+    <e><p><l>leturgerð<s n="n"/><s n="nt"/></l><r>font<s n="n"/></r></p></e>
+    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>permission<s n="n"/></r></p></e>-->
+    <e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>permit<s n="n"/></r></p></e>
+    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>license<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>licence<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>leynd<s n="n"/><s n="f"/></l><r>secrecy<s n="n"/></r></p></e>
+    <e><p><l>leyndarmál<s n="n"/><s n="nt"/></l><r>secret<s n="n"/></r></p></e>
+    <e><p><l>leyniskytta<s n="n"/><s n="f"/></l><r>sniper<s n="n"/></r></p></e>
+    <e><p><l>leysigeisli<s n="n"/><s n="m"/></l><r>laser<b/>beam<s n="n"/></r></p></e>
+    <e><p><l>leysir<s n="n"/><s n="m"/></l><r>laser<s n="n"/></r></p></e>
+
+    <e><p><l>að<b/>einu<b/>leyti<s n="n"/><s n="nt"/></l><r>on<b/>one<b/>count<s n="n"/></r></p></e>
+    <e><p><l>að<b/>einhverju<b/>leyti<s n="n"/><s n="nt"/></l><r>partly<s n="n"/></r></p></e>
+    <!--<e><p><l>að<b/>einhverju<b/>leyti<s n="n"/><s n="nt"/></l><r>to<b/>some<b/>degree<s n="n"/></r></p></e>-->
+    <e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>mostly<s n="n"/></r></p></e>
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>mainly<s n="n"/></r></p></e>-->
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>largely<s n="n"/></r></p></e>-->
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>for<b/>the<b/>most<b/>part<s n="n"/></r></p></e>-->
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>drastically<s n="n"/></r></p></e>-->
+    <e><p><l>að<b/>nokkru<b/>leyti<s n="n"/><s n="nt"/></l><r>partially<s n="n"/></r></p></e>
+    <e><p><l>að<b/>sumu<b/>leyti<s n="n"/><s n="nt"/></l><r>partly<s n="n"/></r></p></e>
+    <e><p><l>að<b/>svo<b/>miklu<b/>leyti<b/>sem<s n="n"/><s n="nt"/></l><r>in<b/>so<b/>much<b/>as<s n="n"/></r></p></e>
+    <e><p><l>að<b/>tvennu<b/>leyti<s n="n"/><s n="nt"/></l><r>for<b/>two<b/>reasons<s n="n"/></r></p></e>
+    <!--<e><p><l>að<b/>vissu<b/>leyti<s n="n"/><s n="nt"/></l><r>as<b/>it<b/>were<s n="n"/></r></p></e>-->
+    <!--<e><p><l>að<b/>vissu<b/>leyti<s n="n"/><s n="nt"/></l><r>in<b/>part<s n="n"/></r></p></e>-->
+    <e><p><l>að<b/>vissu<b/>leyti<s n="n"/><s n="nt"/></l><r>to<b/>a<b/>certain<v/>degree<s n="n"/></r></p></e>
+    <e><p><l>að<b/>þessu<b/>leyti<s n="n"/><s n="nt"/></l><r>in<b/>this<b/>regard<s n="n"/></r></p></e>
+    <e><p><l>að<b/>því<b/>leyti<s n="n"/><s n="nt"/></l><r>insofar<s n="n"/></r></p></e>
+    <e><p><l>að<b/>því<b/>leyti<b/>sem<s n="n"/><s n="nt"/></l><r>insomuch<b/>as<s n="n"/></r></p></e>
+    <e><p><l>að<b/>öðru<b/>leyti<s n="n"/><s n="nt"/></l><r>otherwise<s n="n"/></r></p></e>
+    <e><p><l>að<b/>öllu<b/>leyti<s n="n"/><s n="nt"/></l><r>in<b/>every<b/>respect<s n="n"/></r></p></e>
+    <!--<e><p><l>að<b/>öllu<b/>leyti<s n="n"/><s n="nt"/></l><r>altogether<s n="n"/></r></p></e>-->
+    <!--<e><p><l>að<b/>öllu<b/>leyti<s n="n"/><s n="nt"/></l><r>wholly<s n="n"/></r></p></e>-->
+    <e><p><l>um<b/>það<b/>leyti<s n="n"/><s n="nt"/></l><r>about<b/>that<b/>time<s n="n"/></r></p></e>
+    <!--<e><p><l>um<b/>það<b/>leyti<s n="n"/><s n="nt"/></l><r>thereabouts<s n="n"/></r></p></e>-->
+    <!--<e><p><l>um<b/>það<b/>leyti<s n="n"/><s n="nt"/></l><r>when<s n="n"/></r></p></e>-->
+    <e><p><l>um<b/>þetta<b/>leyti<s n="n"/><s n="nt"/></l><r>at<b/>this<b/>time<s n="n"/></r></p></e>
+
+    <e><p><l>leður<s n="n"/><s n="nt"/></l><r>leather<s n="n"/></r></p></e>
+    <e><p><l>leðurblaka<s n="n"/><s n="f"/></l><r>bat<s n="n"/></r></p></e> <!-- (flying mammal) -->
+    <!--<e><p><l>lifandi<s n="adj"/><s n="m"/></l><r>alive<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>lifur<s n="n"/><s n="f"/></l><r>liver<s n="n"/></r></p></e>
+    <e><p><l>lilja<s n="n"/><s n="f"/></l><r>lily<s n="n"/></r></p></e>
+    <e><p><l>limur<s n="n"/><s n="m"/></l><r>limb<s n="n"/></r></p></e>
+<!--    <e><p><l>limur<s n="n"/><s n="m"/></l><r>penis<s n="n"/></r></p></e> --> <!-- (short for getnaðarlimur) -->
+<!--    <e><p><l>lind<s n="n"/><s n="f"/></l><r>lime<s n="n"/></r></p></e> --> <!-- (Tilia, tree) -->
+<!--    <e><p><l>lind<s n="n"/><s n="f"/></l><r>linden<s n="n"/></r></p></e> --> <!-- (Tilia, tree) -->
+    <e><p><l>lind<s n="n"/><s n="f"/></l><r>spring<s n="n"/></r></p></e>
+    <e><p><l>lindi<s n="n"/><s n="m"/></l><r>cummerbund<s n="n"/></r></p></e>
+    <e><p><l>lindýr<s n="n"/><s n="nt"/></l><r>mollusca<s n="n"/></r></p></e>
+    <e><p><l>list<s n="n"/><s n="f"/></l><r>art<s n="n"/></r></p></e>
+    <e><p><l>listasafn<s n="n"/><s n="nt"/></l><r>art<b/>museum<s n="n"/></r></p></e>
+    <e><p><l>litarefni<s n="n"/><s n="nt"/></l><r>dye<s n="n"/></r></p></e> <!-- (a colourant, especially one that has an affinity to the substrate to which it is applied) -->
+    <e><p><l>litur<s n="n"/><s n="m"/></l><r>color<s n="n"/></r></p></e>
+    <!--<e><p><l>litur<s n="n"/><s n="m"/></l><r>colour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>litín<s n="n"/><s n="nt"/></l><r>lithium<s n="n"/></r></p></e> <!-- (chemical element) -->
+    <!--<e><p><l>lið<s n="n"/><s n="nt"/></l><r>army<s n="n"/></r></p></e>-->
+    <e><p><l>lið<s n="n"/><s n="nt"/></l><r>team<s n="n"/></r></p></e>
+    <e><p><l>liðdýr<s n="n"/><s n="nt"/></l><r>arthropod<s n="n"/></r></p></e>
+    <e><p><l>liðhlaupi<s n="n"/><s n="m"/></l><r>deserter<s n="n"/></r></p></e>
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>item<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>element<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>segment<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>constituent<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>part<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>joint<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>hinge<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>wave<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>curl<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>degree<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>generation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>liður<s n="n"/><s n="m"/></l><r>metamere<s n="n"/></r></p></e>-->
+    <e><p><l>liður<s n="n"/><s n="m"/></l><r>point<s n="n"/></r></p></e>
+    <e><p><l>liðveisla<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e>
+    <e><p><l>liþín<s n="n"/><s n="nt"/></l><r>lithium<s n="n"/></r></p></e>
+    <!--<e><p><l>ljómi<s n="n"/><s n="m"/></l><r>brightness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ljómi<s n="n"/><s n="m"/></l><r>light<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ljómi<s n="n"/><s n="m"/></l><r>lustre<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ljómi<s n="n"/><s n="m"/></l><r>radiance<s n="n"/></r></p></e>-->
+    <e><p><l>ljómi<s n="n"/><s n="m"/></l><r>splendour<s n="n"/></r></p></e>
+    <!--<e><p><l>ljón<s n="n"/><s n="nt"/></l><r>Leo<s n="n"/></r></p></e>-->
+    <e><p><l>ljón<s n="n"/><s n="nt"/></l><r>lion<s n="n"/></r></p></e>
+    <e><p><l>ljós<s n="n"/><s n="nt"/></l><r>light<s n="n"/></r></p></e>
+    <e><p><l>ljósakróna<s n="n"/><s n="f"/></l><r>chandelier<s n="n"/></r></p></e>
+    <!--<e><p><l>ljósapera<s n="n"/><s n="f"/></l><r>incandescent<b/>light<b/>bulb<s n="n"/></r></p></e>-->
+    <e><p><l>ljósapera<s n="n"/><s n="f"/></l><r>light<b/>bulb<s n="n"/></r></p></e>
+    <e><p><l>ljósbjalla<s n="n"/><s n="m"/></l><r>glow-worm<s n="n"/></r></p></e>
+    <e><p><l>ljósfræði<s n="n"/><s n="f"/></l><r>optics<s n="n"/></r></p></e> <!-- (physics of light and vision) -->
+    <e><p><l>ljósker<s n="n"/><s n="nt"/></l><r>lantern<s n="n"/></r></p></e>
+    <!--<e><p><l>ljósmynd<s n="n"/><s n="f"/></l><r>photo<s n="n"/></r></p></e>-->
+    <e><p><l>ljósmynd<s n="n"/><s n="f"/></l><r>photograph<s n="n"/></r></p></e>
+    <e><p><l>ljósmyndavél<s n="n"/><s n="f"/></l><r>camera<s n="n"/></r></p></e>
+    <e><p><l>ljósmyndun<s n="n"/><s n="f"/></l><r>photography<s n="n"/></r></p></e>
+    <e><p><l>ljósvaki<s n="n"/><s n="m"/></l><r>aether<s n="n"/></r></p></e>
+    <!--<e><p><l>ljósvaki<s n="n"/><s n="m"/></l><r>æther<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ljósvaki<s n="n"/><s n="m"/></l><r>ether<s n="n"/></r></p></e>-->
+    <e><p><l>ljósár<s n="n"/><s n="nt"/></l><r>light-year<s n="n"/></r></p></e>
+    <e><p><l>ljóð<s n="n"/><s n="nt"/></l><r>poem<s n="n"/></r></p></e>
+    <e><p><l>ljóðlist<s n="n"/><s n="f"/></l><r>poetry<s n="n"/></r></p></e>
+    <e><p><l>ljóðskáld<s n="n"/><s n="nt"/></l><r>poet<s n="n"/></r></p></e>
+    <e><p><l>lof<s n="n"/><s n="nt"/></l><r>praise<s n="n"/></r></p></e>
+    <e><p><l>loft<s n="n"/><s n="nt"/></l><r>air<s n="n"/></r></p></e>
+    <!--<e><p><l>loft<s n="n"/><s n="nt"/></l><r>ceiling<s n="n"/></r></p></e>-->
+    <!--<e><p><l>loft<s n="n"/><s n="nt"/></l><r>sky<s n="n"/></r></p></e>-->
+    <!--<e><p><l>loftskip<s n="n"/><s n="nt"/></l><r>dirigible<b/>airship<s n="n"/></r></p></e>-->
+    <!--<e><p><l>loftskip<s n="n"/><s n="nt"/></l><r>blimp<s n="n"/></r></p></e>-->
+    <e><p><l>loftskip<s n="n"/><s n="nt"/></l><r>zeppelin<s n="n"/></r></p></e>
+    <e><p><l>loftslag<s n="n"/><s n="nt"/></l><r>climate<s n="n"/></r></p></e>
+    <e><p><l>lofttæmi<s n="n"/><s n="nt"/></l><r>vacuum<s n="n"/></r></p></e> <!-- (region of space that contains no matter) -->
+    <e><p><l>loftárás<s n="n"/><s n="f"/></l><r>airstrike<s n="n"/></r></p></e>
+    <!--<e><p><l>lok<s n="n"/><s n="nt"/></l><r>cover<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lok<s n="n"/><s n="nt"/></l><r>end<s n="n"/></r></p></e>-->
+    <e><p><l>lok<s n="n"/><s n="nt"/></l><r>lid<s n="n"/></r></p></e>
+    <!--<e><p><l>loka<s n="n"/><s n="f"/></l><r>latch<s n="n"/></r></p></e>-->
+    <!--<e><p><l>loka<s n="n"/><s n="f"/></l><r>key<s n="n"/></r></p></e>-->
+    <e><p><l>loka<s n="n"/><s n="f"/></l><r>flap<s n="n"/></r></p></e>
+    <e><p><l>lotugræðgi<s n="n"/><s n="f"/></l><r>bulimia<b/>nervosa<s n="n"/></r></p></e>
+    <e><p><l>lotukerfi<s n="n"/><s n="nt"/></l><r>periodic<b/>table<s n="n"/></r></p></e>
+    <e><p><l>lund<s n="n"/><s n="f"/></l><r>manner<s n="n"/></r></p></e>
+    <!--<e><p><l>lundi<s n="n"/><s n="m"/></l><r>Atlantic<b/>puffin<s n="n"/></r></p></e>-->
+    <e><p><l>lundi<s n="n"/><s n="m"/></l><r>puffin<s n="n"/></r></p></e>
+    <e><p><l>lundir<s n="n"/><s n="f"/></l><r>filet<s n="n"/></r></p></e>
+<!--    <e><p><l>lundir<s n="n"/><s n="f"/></l><r>fillet<s n="n"/></r></p></e> --> <!-- British English spelling -->
+    <e><p><l>lunga<s n="n"/><s n="nt"/></l><r>lung<s n="n"/></r></p></e>
+    <e><p><l>lungnakrabbamein<s n="n"/><s n="nt"/></l><r>lung<b/>cancer<s n="n"/></r></p></e>
+    <!--<e><p><l>lyfjabúð<s n="n"/><s n="f"/></l><r>apothecary<s n="n"/></r></p></e>-->
+    <e><p><l>lyfjabúð<s n="n"/><s n="f"/></l><r>pharmacy<s n="n"/></r></p></e>
+    <e><p><l>lyfjaverslun<s n="n"/><s n="f"/></l><r>pharmacy<s n="n"/></r></p></e>
+    <e><p><l>lyfta<s n="n"/><s n="f"/></l><r>elevator<s n="n"/></r></p></e>
+    <!--<e><p><l>lyfta<s n="n"/><s n="f"/></l><r>lift<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>lyftutónlist<s n="n"/><s n="f"/></l><r>elevator<b/>music<s n="n"/></r></p></e>
+    <!--<e><p><l>lygi<s n="n"/><s n="f"/></l><r>falsehood<s n="n"/></r></p></e>-->
+    <e><p><l>lygi<s n="n"/><s n="f"/></l><r>lie<s n="n"/></r></p></e>
+    <e><p><l>lykkja<s n="n"/><s n="f"/></l><r>loop<s n="n"/></r></p></e>
+    <!--<e><p><l>lykkja<s n="n"/><s n="f"/></l><r>noose<s n="n"/></r></p></e>-->
+    <e><p><l>lyklaborð<s n="n"/><s n="nt"/></l><r>keyboard<s n="n"/></r></p></e>
+    <e><p><l>lykt<s n="n"/><s n="f"/></l><r>smell<s n="n"/></r></p></e>
+    <e><p><l>lystarstol<s n="n"/><s n="nt"/></l><r>anorexia<b/>nervosa<s n="n"/></r></p></e>
+    <e><p><l>lágfiðla<s n="n"/><s n="f"/></l><r>viola<s n="n"/></r></p></e>
+    <e><p><l>lán<s n="n"/><s n="nt"/></l><r>loan<s n="n"/></r></p></e>
+    <!--<e><p><l>lán<s n="n"/><s n="nt"/></l><r>luck<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lánsþýðing<s n="n"/><s n="f"/></l><r>calque<s n="n"/></r></p></e>-->
+    <e><p><l>lánsþýðing<s n="n"/><s n="f"/></l><r>loan<b/>translation<s n="n"/></r></p></e>
+    <e><p><l>lárpera<s n="n"/><s n="f"/></l><r>avocado<s n="n"/></r></p></e>
+    <e><p><l>lás<s n="n"/><s n="m"/></l><r>lock<s n="n"/></r></p></e> <!-- (door etc.) -->
+    <e><p><l>lát<s n="n"/><s n="nt"/></l><r>death<s n="n"/></r></p></e>
+    <!--<e><p><l>látbragðsleikur<s n="n"/><s n="m"/></l><r>mime<s n="n"/></r></p></e>-->
+    <e><p><l>látbragðsleikur<s n="n"/><s n="m"/></l><r>pantomime<s n="n"/></r></p></e>
+    <e><p><l>læknir<s n="n"/><s n="m"/></l><r>doctor<s n="n"/></r></p></e>
+    <e><p><l>læknisfræði<s n="n"/><s n="f"/></l><r>medicine<s n="n"/></r></p></e> <!-- (field of study) -->
+    <e><p><l>lækur<s n="n"/><s n="m"/></l><r>brook<s n="n"/></r></p></e>
+    <!--<e><p><l>lækur<s n="n"/><s n="m"/></l><r>stream<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lærdómur<s n="n"/><s n="m"/></l><r>knowledge<s n="n"/></r></p></e>-->
+    <e><p><l>lærdómur<s n="n"/><s n="m"/></l><r>learning<s n="n"/></r></p></e>
+    <!--<e><p><l>lærdómur<s n="n"/><s n="m"/></l><r>erudition<s n="n"/></r></p></e>-->
+    <e><p><l>læri<s n="n"/><s n="nt"/></l><r>thigh<s n="n"/></r></p></e>
+    <e><p><l>læti<s n="n"/><s n="nt"/></l><r>commotion<s n="n"/></r></p></e>
+    <!--<e><p><l>læti<s n="n"/><s n="nt"/></l><r>hullabaloo<s n="n"/></r></p></e>-->
+    <!--<e><p><l>læti<s n="n"/><s n="nt"/></l><r>noise<s n="n"/></r></p></e>-->
+    <!--<e><p><l>læti<s n="n"/><s n="nt"/></l><r>tumult<s n="n"/></r></p></e>-->
+    <e><p><l>læða<s n="n"/><s n="f"/></l><r>cat<s n="n"/></r></p></e>
+    <e><p><l>líf<s n="n"/><s n="nt"/></l><r>life<s n="n"/></r></p></e>
+    <e><p><l>lífdagar<s n="n"/><s n="m"/></l><r>life<b/>span<s n="n"/></r></p></e>
+    <e><p><l>lífeðlisfræði<s n="n"/><s n="f"/></l><r>physiology<s n="n"/></r></p></e>
+    <e><p><l>líffræði<s n="n"/><s n="f"/></l><r>biology<s n="n"/></r></p></e> <!-- (science of living matter) -->
+    <e><p><l>líffræðileg<b/>fjölbreytni<s n="n"/><s n="f"/></l><r>biodiversity<s n="n"/></r></p></e>
+    <e><p><l>líffræðingur<s n="n"/><s n="m"/></l><r>biologist<s n="n"/></r></p></e>
+    <e><p><l>líffærafræði<s n="n"/><s n="f"/></l><r>anatomy<s n="n"/></r></p></e>
+    <e><p><l>líffæri<s n="n"/><s n="nt"/></l><r>organ<s n="n"/></r></p></e>
+    <e><p><l>lífhvolf<s n="n"/><s n="nt"/></l><r>biosphere<s n="n"/></r></p></e>
+    <e><p><l>lífljómun<s n="n"/><s n="f"/></l><r>bioluminescence<s n="n"/></r></p></e>
+    <!--<e><p><l>lífvera<s n="n"/><s n="f"/></l><r>life<b/>form<s n="n"/></r></p></e>-->
+    <e><p><l>lífvera<s n="n"/><s n="f"/></l><r>organism<s n="n"/></r></p></e>
+    <!--<e><p><l>lík<s n="n"/><s n="nt"/></l><r>cadaver<s n="n"/></r></p></e>-->
+    <e><p><l>lík<s n="n"/><s n="nt"/></l><r>corpse<s n="n"/></r></p></e>
+    <e><p><l>líkami<s n="n"/><s n="m"/></l><r>body<s n="n"/></r></p></e>
+    <!--<e><p><l>líkamsrækt<s n="n"/><s n="f"/></l><r>bodybuilding<s n="n"/></r></p></e>-->
+    <!--<e><p><l>líkamsrækt<s n="n"/><s n="f"/></l><r>physical<b/>training<s n="n"/></r></p></e>-->
+    <e><p><l>líkamsrækt<s n="n"/><s n="f"/></l><r>gym<s n="n"/></r></p></e>
+    <!--<e><p><l>líkindi<s n="n"/><s n="nt"/></l><r>likelihood<s n="n"/></r></p></e>-->
+    <e><p><l>líkindi<s n="n"/><s n="nt"/></l><r>probability<s n="n"/></r></p></e>
+    <!--<e><p><l>líking<s n="n"/><s n="f"/></l><r>equation<s n="n"/></r></p></e>-->
+    <e><p><l>líking<s n="n"/><s n="f"/></l><r>likeness<s n="n"/></r></p></e>
+    <!--<e><p><l>líking<s n="n"/><s n="f"/></l><r>metaphor<s n="n"/></r></p></e>-->
+    <!--<e><p><l>líking<s n="n"/><s n="f"/></l><r>simile<s n="n"/></r></p></e>-->
+    <e><p><l>líkkista<s n="n"/><s n="f"/></l><r>coffin<s n="n"/></r></p></e>
+    <!--<e><p><l>líkur<s n="n"/><s n="f"/></l><r>like<s n="n"/></r></p></e>-->
+    <!--<e><p><l>líkur<s n="n"/><s n="f"/></l><r>likelihood<s n="n"/></r></p></e>-->
+    <!--<e><p><l>líkur<s n="n"/><s n="f"/></l><r>probability<s n="n"/></r></p></e>-->
+    <e><p><l>líkur<s n="n"/><s n="f"/></l><r>odds<s n="n"/></r></p></e>
+    <e><p><l>lím<s n="n"/><s n="nt"/></l><r>glue<s n="n"/></r></p></e>
+    <e><p><l>lína<s n="n"/><s n="f"/></l><r>line<s n="n"/></r></p></e>
+    <e><p><l>lítri<s n="n"/><s n="m"/></l><r>liter<s n="n"/></r></p></e>
+    <!--<e><p><l>lítri<s n="n"/><s n="m"/></l><r>litre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>lóa<s n="n"/><s n="f"/></l><r>plover<s n="n"/></r></p></e> <!-- (pluvialis) -->
+    <e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>PDA<s n="n"/></r></p></e>
+    <!--<e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>personal<b/>digital<b/>assistant<s n="n"/></r></p></e>-->
+    <e><p><l>lófi<s n="n"/><s n="m"/></l><r>palm<s n="n"/></r></p></e> <!-- (of the hand) -->
+    <e><p><l>lómur<s n="n"/><s n="m"/></l><r>red-throated<b/>diver<s n="n"/></r></p></e> <!-- (Gavia stellata) -->
+    <!--<e><p><l>lögfræði<s n="n"/><s n="f"/></l><r>jurisprudence<s n="n"/></r></p></e>-->
+    <e><p><l>lögfræði<s n="n"/><s n="f"/></l><r>law<s n="n"/></r></p></e>
+    <e><p><l>lögmaður<s n="n"/><s n="m"/></l><r>attorney<s n="n"/></r></p></e>
+    <!--<e><p><l>lögmaður<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lögmaður<s n="n"/><s n="m"/></l><r>solicitor<s n="n"/></r></p></e>-->
+    <e><p><l>lögregla<s n="n"/><s n="f"/></l><r>police<s n="n"/></r></p></e>
+    <e><p><l>lögreglumaður<s n="n"/><s n="m"/></l><r>policeman<s n="n"/></r></p></e>
+    <e><p><l>lögreglustöð<s n="n"/><s n="f"/></l><r>police<b/>station<s n="n"/></r></p></e>
+    <e><p><l>lús<s n="n"/><s n="f"/></l><r>louse<s n="n"/></r></p></e>
+    <e><p><l>lúta<s n="n"/><s n="f"/></l><r>lute<s n="n"/></r></p></e>
+    <e><p><l>lútetín<s n="n"/><s n="nt"/></l><r>lutetium<s n="n"/></r></p></e>
+    <e><p><l>lútur<s n="n"/><s n="m"/></l><r>lye<s n="n"/></r></p></e>
+    <e><p><l>lýsa<s n="n"/><s n="f"/></l><r>Merlangius<b/>merlangus<s n="n"/></r></p></e> <!-- fish -->
+    <e><p><l>lýsing<s n="n"/><s n="f"/></l><r>description<s n="n"/></r></p></e>
+    <!--<e><p><l>lýsing<s n="n"/><s n="f"/></l><r>illuminance<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lýsing<s n="n"/><s n="f"/></l><r>illumination<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lýsing<s n="n"/><s n="f"/></l><r>running<b/>commentary<s n="n"/></r></p></e>-->
+    <e><p><l>lýsingarháttur<b/>þátíðar<s n="n"/><s n="m"/></l><r>past<b/>participle<s n="n"/></r></p></e> <!-- (past participle) -->
+    <e><p><l>lýsingarorð<s n="n"/><s n="nt"/></l><r>adjective<s n="n"/></r></p></e>
+    <e><p><l>lýðræði<s n="n"/><s n="nt"/></l><r>democracy<s n="n"/></r></p></e>
+    <!--<e><p><l>lýður<s n="n"/><s n="m"/></l><r>mob<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lýður<s n="n"/><s n="m"/></l><r>plebs<s n="n"/></r></p></e>-->
+    <e><p><l>lýður<s n="n"/><s n="m"/></l><r>people<s n="n"/></r></p></e>
+    <!--<e><p><l>lýður<s n="n"/><s n="m"/></l><r>populace<s n="n"/></r></p></e>-->
+    <!--<e><p><l>lýður<s n="n"/><s n="m"/></l><r>public<s n="n"/></r></p></e>-->
+    <e><p><l>lýðveldi<s n="n"/><s n="nt"/></l><r>republic<s n="n"/></r></p></e>
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
