@@ -2768,6 +2768,269 @@
     <!--<e><p><l>lýður<s n="n"/><s n="m"/></l><r>populace<s n="n"/></r></p></e>-->
     <!--<e><p><l>lýður<s n="n"/><s n="m"/></l><r>public<s n="n"/></r></p></e>-->
     <e><p><l>lýðveldi<s n="n"/><s n="nt"/></l><r>republic<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>m<s n="n"/><s n="nt"/></l><r>m<s n="n"/></r></p></e>
+    <e><p><l>magapína<s n="n"/><s n="f"/></l><r>stomachache<s n="n"/></r></p></e>
+    <e><p><l>magi<s n="n"/><s n="m"/></l><r>stomach<s n="n"/></r></p></e>
+    <e><p><l>magn<s n="n"/><s n="nt"/></l><r>amount<s n="n"/></r></p></e>
+    <!--<e><p><l>magn<s n="n"/><s n="nt"/></l><r>quantity<s n="n"/></r></p></e>-->
+    <e><p><l>magnesín<s n="n"/><s n="nt"/></l><r>magnesium<s n="n"/></r></p></e>
+    <e><p><l>maki<s n="n"/><s n="m"/></l><r>spouse<s n="n"/></r></p></e>
+    <e><p><l>mal<s n="n"/><s n="nt"/></l><r>purr<s n="n"/></r></p></e>
+    <e><p><l>mamma<s n="n"/><s n="f"/></l><r>mom<s n="n"/></r></p></e> <!-- (colloquial word for mother) -->
+<!--    <e><p><l>mamma<s n="n"/><s n="f"/></l><r>mum<s n="n"/></r></p></e> --> <!-- (colloquial word for mother) -->
+    <e><p><l>mangan<s n="n"/><s n="nt"/></l><r>Manganese<s n="n"/></r></p></e>
+    <!--<e><p><l>manneskja<s n="n"/><s n="f"/></l><r>human<b/>being<s n="n"/></r></p></e>-->
+    <!--<e><p><l>manneskja<s n="n"/><s n="f"/></l><r>human<s n="n"/></r></p></e>-->
+    <e><p><l>manneskja<s n="n"/><s n="f"/></l><r>person<s n="n"/></r></p></e>
+    <e><p><l>mannfall<s n="n"/><s n="nt"/></l><r>casualty<s n="n"/></r></p></e>
+    <e><p><l>mannfjöldi<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
+    <e><p><l>mannfræði<s n="n"/><s n="f"/></l><r>anthropology<s n="n"/></r></p></e>
+    <!--<e><p><l>mannorð<s n="n"/><s n="nt"/></l><r>character<s n="n"/></r></p></e>-->
+    <e><p><l>mannorð<s n="n"/><s n="nt"/></l><r>reputation<s n="n"/></r></p></e>
+    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honor<s n="n"/></r></p></e>-->
+    <e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>status<s n="n"/></r></p></e>
+    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>rank<s n="n"/></r></p></e>-->
+    <e><p><l>margfeldi<s n="n"/><s n="nt"/></l><r>product<s n="n"/></r></p></e>
+    <e><p><l>margföldun<s n="n"/><s n="f"/></l><r>multiplication<s n="n"/></r></p></e>
+    <e><p><l>marghleypt<b/>skammbyssa<s n="n"/><s n="f"/></l><r>revolver<s n="n"/></r></p></e>
+    <!--<e><p><l>mark<s n="n"/><s n="nt"/></l><r>merki<s n="n"/></r></p></e>-->
+    <e><p><l>mark<s n="n"/><s n="nt"/></l><r>goal<s n="n"/></r></p></e>
+    <!--<e><p><l>mark<s n="n"/><s n="nt"/></l><r>sign<s n="n"/></r></p></e>-->
+    <e><p><l>markaður<s n="n"/><s n="m"/></l><r>market<s n="n"/></r></p></e>
+    <e><p><l>markgildi<s n="n"/><s n="nt"/></l><r>limit<s n="n"/></r></p></e>
+    <e><p><l>mars<s n="n"/><s n="m"/></l><r>March<s n="n"/></r></p></e>
+    <e><p><l>marsbúi<s n="n"/><s n="m"/></l><r>Martian<s n="n"/></r></p></e>
+    <e><p><l>marsering<s n="n"/><s n="f"/></l><r>march<s n="n"/></r></p></e> <!-- (formal, rhythmic way of walking) -->
+    <e><p><l>marsvín<s n="n"/><s n="nt"/></l><r>pilot<b/>whale<s n="n"/></r></p></e>
+    <e><p><l>mas<s n="n"/><s n="nt"/></l><r>chatter<s n="n"/></r></p></e>
+    <!--<e><p><l>mas<s n="n"/><s n="nt"/></l><r>chit-chat<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mas<s n="n"/><s n="nt"/></l><r>small<b/>talk<s n="n"/></r></p></e>-->
+    <e><p><l>massi<s n="n"/><s n="m"/></l><r>mass<s n="n"/></r></p></e>
+    <e><p><l>matarborð<s n="n"/><s n="nt"/></l><r>dinner<b/>table<s n="n"/></r></p></e>
+    <e><p><l>matareitrun<s n="n"/><s n="f"/></l><r>food<b/>poisoning<s n="n"/></r></p></e>
+    <!--<e><p><l>matareitrun<s n="n"/><s n="f"/></l><r>foodborne<b/>illness<s n="n"/></r></p></e>-->
+    <e><p><l>matseðill<s n="n"/><s n="m"/></l><r>menu<s n="n"/></r></p></e>
+    <e><p><l>matur<s n="n"/><s n="m"/></l><r>food<s n="n"/></r></p></e>
+    <e><p><l>matvara<s n="n"/><s n="f"/></l><r>food<s n="n"/></r></p></e>
+    <e><p><l>maur<s n="n"/><s n="nt"/></l><r>ant<s n="n"/></r></p></e>
+    <e><p><l>maurildi<s n="n"/><s n="nt"/></l><r>Noctiluca<s n="n"/></r></p></e>
+    <!--<e><p><l>maurildi<s n="n"/><s n="nt"/></l><r>seafire<s n="n"/></r></p></e>-->
+    <e><p><l>maí<s n="n"/><s n="nt"/></l><r>May<s n="n"/></r></p></e>
+    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>human<s n="n"/></r></p></e>-->
+    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e> --> <!-- (short for eiginmaður)  -->
+    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>human<b/>being<s n="n"/></r></p></e>-->
+    <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
+    <e><p><l>meginland<s n="n"/><s n="nt"/></l><r>mainland<s n="n"/></r></p></e>
+    <e><p><l>megn<s n="n"/><s n="nt"/></l><r>strength<s n="n"/></r></p></e>
+<!--    <e><p><l>mein<s n="n"/><s n="nt"/></l><r>disease<s n="n"/></r></p></e> --> <!-- (an abnormal condition of the body causing discomfort or dysfunction) -->
+    <!--<e><p><l>mein<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>-->
+    <e><p><l>mein<s n="n"/><s n="nt"/></l><r>harm<s n="n"/></r></p></e>
+    <e><p><l>meinsæri<s n="n"/><s n="nt"/></l><r>perjury<s n="n"/></r></p></e>
+    <!--<e><p><l>meirihluti<s n="n"/><s n="m"/></l><r>greater<b/>part<s n="n"/></r></p></e>-->
+    <e><p><l>meirihluti<s n="n"/><s n="m"/></l><r>majority<s n="n"/></r></p></e>
+    <e><p><l>meistaraverk<s n="n"/><s n="nt"/></l><r>masterpiece<s n="n"/></r></p></e>
+    <e><p><l>meistari<s n="n"/><s n="m"/></l><r>master<s n="n"/></r></p></e>
+    <e><p><l>meitill<s n="n"/><s n="m"/></l><r>chisel<s n="n"/></r></p></e>
+    <e><p><l>meiðsl<s n="n"/><s n="nt"/></l><r>injury<s n="n"/></r></p></e>
+    <!--<e><p><l>meiðsl<s n="n"/><s n="nt"/></l><r>wound<s n="n"/></r></p></e>-->
+    <e><p><l>melding<s n="n"/><s n="f"/></l><r>message<s n="n"/></r></p></e>
+    <e><p><l>melludólgur<s n="n"/><s n="m"/></l><r>pimp<s n="n"/></r></p></e>
+    <e><p><l>melting<s n="n"/><s n="f"/></l><r>digestion<s n="n"/></r></p></e>
+    <e><p><l>meltingarkerfi<s n="n"/><s n="nt"/></l><r>gastrointestinal<b/>tract<s n="n"/></r></p></e>
+    <e><p><l>mengi<s n="n"/><s n="nt"/></l><r>set<s n="n"/></r></p></e>
+    <e><p><l>mengjafræði<s n="n"/><s n="f"/></l><r>set<b/>theory<s n="n"/></r></p></e> <!-- (mathematical theory of sets) -->
+    <!--<e><p><l>mengun<s n="n"/><s n="f"/></l><r>contamination<s n="n"/></r></p></e>-->
+    <e><p><l>mengun<s n="n"/><s n="f"/></l><r>pollution<s n="n"/></r></p></e>
+    <!--<e><p><l>menning<s n="n"/><s n="f"/></l><r>civilization<s n="n"/></r></p></e>-->
+    <!--<e><p><l>menning<s n="n"/><s n="f"/></l><r>civilisation<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>menning<s n="n"/><s n="f"/></l><r>culture<s n="n"/></r></p></e>
+    <!--<e><p><l>mennt<s n="n"/><s n="f"/></l><r>art<s n="n"/></r></p></e>-->
+    <e><p><l>mennt<s n="n"/><s n="f"/></l><r>skill<s n="n"/></r></p></e>
+    <e><p><l>menntaskóli<s n="n"/><s n="m"/></l><r>college<s n="n"/></r></p></e>
+    <e><p><l>menntun<s n="n"/><s n="f"/></l><r>education<s n="n"/></r></p></e>
+    <e><p><l>mergur<s n="n"/><s n="m"/></l><r>marrow<s n="n"/></r></p></e>
+    <!--<e><p><l>mergur<s n="n"/><s n="m"/></l><r>core<s n="n"/></r></p></e>-->
+    <e><p><l>meri<s n="n"/><s n="f"/></l><r>mare<s n="n"/></r></p></e> <!-- (female horse) -->
+    <!--<e><p><l>merki<s n="n"/><s n="nt"/></l><r>banner<s n="n"/></r></p></e>-->
+    <e><p><l>merki<s n="n"/><s n="nt"/></l><r>mark<s n="n"/></r></p></e>
+    <!--<e><p><l>merki<s n="n"/><s n="nt"/></l><r>sign<s n="n"/></r></p></e>-->
+    <e><p><l>merking<s n="n"/><s n="f"/></l><r>meaning<s n="n"/></r></p></e>
+    <e><p><l>messa<s n="n"/><s n="f"/></l><r>mass<s n="n"/></r></p></e>
+    <e><p><l>meta<s n="n"/><s n="f"/></l><r>meta<s n="n"/></r></p></e>
+    <e><p><l>metnaður<s n="n"/><s n="m"/></l><r>ambition<s n="n"/></r></p></e>
+    <!--<e><p><l>metnaður<s n="n"/><s n="m"/></l><r>aspiration<s n="n"/></r></p></e>-->
+    <!--<e><p><l>metnaður<s n="n"/><s n="m"/></l><r>goal<s n="n"/></r></p></e>-->
+    <e><p><l>metorð<s n="n"/><s n="nt"/></l><r>esteem<s n="n"/></r></p></e>
+    <e><p><l>metri<s n="n"/><s n="m"/></l><r>meter<s n="n"/></r></p></e> <!-- (unit of measure, 100 cm) -->
+    <!--<e><p><l>metri<s n="n"/><s n="m"/></l><r>metre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <!--<e><p><l>meðal<s n="n"/><s n="nt"/></l><r>drug<s n="n"/></r></p></e>-->
+    <e><p><l>meðal<s n="n"/><s n="nt"/></l><r>medicine<s n="n"/></r></p></e>
+    <!--<e><p><l>meðaltal<s n="n"/><s n="nt"/></l><r>arithmetic<b/>mean<s n="n"/></r></p></e>-->
+    <e><p><l>meðaltal<s n="n"/><s n="nt"/></l><r>average<s n="n"/></r></p></e>
+    <e><p><l>meðvitund<s n="n"/><s n="f"/></l><r>consciousness<s n="n"/></r></p></e>
+    <e><p><l>milljarður<s n="n"/><s n="m"/></l><r>billion<s n="n"/></r></p></e>
+    <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
+    <!--<e><p><l>minjagripur<s n="n"/><s n="m"/></l><r>memento<s n="n"/></r></p></e>-->
+    <e><p><l>minjagripur<s n="n"/><s n="m"/></l><r>souvenir<s n="n"/></r></p></e>
+    <e><p><l>minni<s n="n"/><s n="nt"/></l><r>memory<s n="n"/></r></p></e>
+    <e><p><l>minnihluti<s n="n"/><s n="m"/></l><r>minority<s n="n"/></r></p></e>
+    <!--<e><p><l>minnihluti<s n="n"/><s n="m"/></l><r>smaller<b/>part<s n="n"/></r></p></e>-->
+    <e><p><l>minning<s n="n"/><s n="f"/></l><r>memory<s n="n"/></r></p></e>
+    <!--<e><p><l>minning<s n="n"/><s n="f"/></l><r>obituary<s n="n"/></r></p></e>-->
+    <e><p><l>minningagripur<s n="n"/><s n="m"/></l><r>memento<s n="n"/></r></p></e>
+    <e><p><l>minnisgripur<s n="n"/><s n="m"/></l><r>souvenir<s n="n"/></r></p></e>
+    <e><p><l>minnismerki<s n="n"/><s n="nt"/></l><r>monument<s n="n"/></r></p></e>
+    <!--<e><p><l>minnismerki<s n="n"/><s n="nt"/></l><r>memorial<s n="n"/></r></p></e>-->
+    <e><p><l>minnkun<s n="n"/><s n="f"/></l><r>decrease<s n="n"/></r></p></e>
+    <e><p><l>miskunn<s n="n"/><s n="f"/></l><r>mercy<s n="n"/></r></p></e>
+    <e><p><l>mislingar<s n="n"/><s n="m"/></l><r>measles<s n="n"/></r></p></e>
+    <!--<e><p><l>missa<s n="v"/><s n="f"/></l><r>drop<s n="v"/></r></p></e> --> <!-- verb -->
+    <!--<e><p><l>missa<s n="v"/><s n="f"/></l><r>lose<s n="v"/></r></p></e> --> <!-- verb -->
+    <e><p><l>mistur<s n="n"/><s n="nt"/></l><r>mist<s n="n"/></r></p></e>
+    <e><p><l>mistök<s n="n"/><s n="nt"/></l><r>mistake<s n="n"/></r></p></e>
+    <e><p><l>mið<s n="n"/><s n="nt"/></l><r>aim<s n="n"/></r></p></e>
+    <e><p><l>mið<s n="n"/><s n="nt"/></l><r>fishing<b/>ground<s n="n"/></r></p></e>
+    <e><p><l>miðaldir<s n="n"/><s n="f"/></l><r>Middle<b/>Ages<s n="n"/></r></p></e>
+    <e><p><l>miði<s n="n"/><s n="m"/></l><r>ticket<s n="n"/></r></p></e>
+    <e><p><l>miðja<s n="n"/><s n="f"/></l><r>center<s n="n"/></r></p></e>
+    <!--<e><p><l>miðja<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>miðnætti<s n="n"/><s n="nt"/></l><r>midnight<s n="n"/></r></p></e>
+    <e><p><l>miðvikudagur<s n="n"/><s n="m"/></l><r>Wednesday<s n="n"/></r></p></e>
+    <e><p><l>mjólk<s n="n"/><s n="f"/></l><r>milk<s n="n"/></r></p></e>
+    <e><p><l>mjónefur<s n="n"/><s n="m"/></l><r>echidna<s n="n"/></r></p></e>
+    <e><p><l>mjöðm<s n="n"/><s n="f"/></l><r>hip<s n="n"/></r></p></e> <!-- (body part) -->
+    <e><p><l>mjöður<s n="n"/><s n="m"/></l><r>mead<s n="n"/></r></p></e> <!-- (fermented drink) -->
+    <e><p><l>mold<s n="n"/><s n="f"/></l><r>dirt<s n="n"/></r></p></e>
+    <!--<e><p><l>mold<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mold<s n="n"/><s n="f"/></l><r>ground<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mold<s n="n"/><s n="f"/></l><r>humus<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mold<s n="n"/><s n="f"/></l><r>soil<s n="n"/></r></p></e>-->
+    <e><p><l>moldvarpa<s n="n"/><s n="f"/></l><r>mole<s n="n"/></r></p></e> <!-- (animal) -->
+    <e><p><l>moll<s n="n"/><s n="m"/></l><r>minor<b/>scale<s n="n"/></r></p></e>
+    <e><p><l>mont<s n="n"/><s n="nt"/></l><r>boasting<s n="n"/></r></p></e>
+    <e><p><l>morgunhani<s n="n"/><s n="m"/></l><r>early<b/>riser<s n="n"/></r></p></e>
+    <e><p><l>morgunmatur<s n="n"/><s n="m"/></l><r>breakfast<s n="n"/></r></p></e>
+    <e><p><l>morgunn<s n="n"/><s n="m"/></l><r>morning<s n="n"/></r></p></e>
+    <e><p><l>morgunverður<s n="n"/><s n="m"/></l><r>breakfast<s n="n"/></r></p></e>
+    <e><p><l>morð<s n="n"/><s n="nt"/></l><r>murder<s n="n"/></r></p></e>
+    <!--<e><p><l>morðingi<s n="n"/><s n="m"/></l><r>cutthroat<s n="n"/></r></p></e>-->
+    <!--<e><p><l>morðingi<s n="n"/><s n="m"/></l><r>killer<s n="n"/></r></p></e>-->
+    <e><p><l>morðingi<s n="n"/><s n="m"/></l><r>murderer<s n="n"/></r></p></e>
+    <e><p><l>moskító<s n="n"/><s n="f"/></l><r>mosquito<s n="n"/></r></p></e> <!-- (small flying insect of the family Culcidae, known for biting and sucking blood) -->
+    <e><p><l>moskítófluga<s n="n"/><s n="f"/></l><r>mosquito<s n="n"/></r></p></e> <!-- (small flying insect of the family Culcidae, known for biting and sucking blood) -->
+    <e><p><l>munaðarleysingjahæli<s n="n"/><s n="nt"/></l><r>orphanage<s n="n"/></r></p></e> <!-- (a public institution for the care and protection of orphans) -->
+
+    <!--<e><p><l>mund<s n="n"/><s n="f"/></l><r>hand<s n="n"/></r></p></e>-->
+    <e><p><l>um<b/>þessar<b/>mundir<s n="n"/><s n="f"/></l><r>currently<s n="n"/></r></p></e>
+    <e><p><l>um<b/>þær<b/>mundir<s n="n"/><s n="f"/></l><r>at<b/>that<b/>time<s n="n"/></r></p></e>
+    <e><p><l>í<b/>sömu<b/>mund<s n="n"/><s n="f"/></l><r>at<b/>the<b/>same<b/>time<s n="n"/></r></p></e>
+    <e><p><l>í<b/>þann<b/>mund<b/>að<s n="n"/><s n="f"/></l><r>about<b/>to<s n="n"/></r></p></e>
+
+    <e><p><l>munnur<s n="n"/><s n="m"/></l><r>mouth<s n="n"/></r></p></e>
+    <e><p><l>munnvatn<s n="n"/><s n="m"/></l><r>saliva<s n="n"/></r></p></e>
+    <!--<e><p><l>munnvatn<s n="n"/><s n="m"/></l><r>spit<s n="n"/></r></p></e>-->
+    <!--<e><p><l>munnvatn<s n="n"/><s n="m"/></l><r>spittle<s n="n"/></r></p></e>-->
+    <e><p><l>munstur<s n="n"/><s n="nt"/></l><r>pattern<s n="n"/></r></p></e>
+    <e><p><l>munur<s n="n"/><s n="m"/></l><r>difference<s n="n"/></r></p></e>
+    <!--<e><p><l>munur<s n="n"/><s n="m"/></l><r>object<s n="n"/></r></p></e>-->
+    <e><p><l>musteri<s n="n"/><s n="nt"/></l><r>temple<s n="n"/></r></p></e>
+    <e><p><l>mykja<s n="n"/><s n="f"/></l><r>cow<b/>dung<s n="n"/></r></p></e>
+    <!--<e><p><l>mykja<s n="n"/><s n="f"/></l><r>droppings<s n="n"/></r></p></e>-->
+    <e><p><l>mylla<s n="n"/><s n="f"/></l><r>mill<s n="n"/></r></p></e>
+    <!--<e><p><l>mylla<s n="n"/><s n="f"/></l><r>millhouse<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mylsna<s n="n"/><s n="f"/></l><r>breadcrumbs<s n="n"/></r></p></e>-->
+    <e><p><l>mylsna<s n="n"/><s n="f"/></l><r>crumbs<s n="n"/></r></p></e>
+    <!--<e><p><l>mynd<s n="n"/><s n="f"/></l><r>form<s n="n"/></r></p></e>-->
+    <e><p><l>mynd<s n="n"/><s n="f"/></l><r>picture<s n="n"/></r></p></e>
+    <!--<e><p><l>mynd<s n="n"/><s n="f"/></l><r>image<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mynd<s n="n"/><s n="f"/></l><r>movie<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mynd<s n="n"/><s n="f"/></l><r>photo<s n="n"/></r></p></e>-->
+    <e><p><l>myndavél<s n="n"/><s n="f"/></l><r>camera<s n="n"/></r></p></e>
+    <e><p><l>myndband<s n="n"/><s n="nt"/></l><r>video<s n="n"/></r></p></e>
+    <e><p><l>myndlist<s n="n"/><s n="f"/></l><r>visual<b/>arts<s n="n"/></r></p></e>
+    <e><p><l>mynt<s n="n"/><s n="f"/></l><r>coin<s n="n"/></r></p></e>
+    <!--<e><p><l>myrkur<s n="n"/><s n="nt"/></l><r>dark<s n="n"/></r></p></e>-->
+    <e><p><l>myrkur<s n="n"/><s n="nt"/></l><r>darkness<s n="n"/></r></p></e>
+    <e><p><l>myrkvi<s n="n"/><s n="m"/></l><r>eclipse<s n="n"/></r></p></e>
+    <e><p><l>sólmyrkvi<s n="n"/><s n="m"/></l><r>solar<b/>eclipse<s n="n"/></r></p></e>
+    <e><p><l>tunglmyrkvi<s n="n"/><s n="m"/></l><r>lunar<b/>eclipse<s n="n"/></r></p></e>
+    <e><p><l>máfur<s n="n"/><s n="m"/></l><r>gull<s n="n"/></r></p></e>
+    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>cup<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>speech<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>-->
+    <e><p><l>mál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>
+    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>affair<s n="n"/></r></p></e>-->
+    <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>attorney<s n="n"/></r></p></e>-->
+    <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>-->
+    <e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>trial<b/>lawyer<s n="n"/></r></p></e>
+    <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>solicitor<s n="n"/></r></p></e>-->
+    <e><p><l>málband<s n="n"/><s n="nt"/></l><r>tape<b/>measure<s n="n"/></r></p></e>
+    <!--<e><p><l>málefni<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e>-->
+    <!--<e><p><l>málefni<s n="n"/><s n="nt"/></l><r>things<s n="n"/></r></p></e>-->
+    <!--<e><p><l>málefni<s n="n"/><s n="nt"/></l><r>subject<s n="n"/></r></p></e>-->
+    <e><p><l>málefni<s n="n"/><s n="nt"/></l><r>issue<s n="n"/></r></p></e>
+    <e><p><l>málfræði<s n="n"/><s n="f"/></l><r>grammar<s n="n"/></r></p></e>
+    <e><p><l>mállýska<s n="n"/><s n="f"/></l><r>dialect<s n="n"/></r></p></e>
+    <e><p><l>málmblanda<s n="n"/><s n="f"/></l><r>alloy<s n="n"/></r></p></e>
+    <e><p><l>málmblásturshljóðfæri<s n="n"/><s n="nt"/></l><r>brass<b/>instrument<s n="n"/></r></p></e>
+    <e><p><l>málmur<s n="n"/><s n="m"/></l><r>metal<s n="n"/></r></p></e>
+    <e><p><l>málning<s n="n"/><s n="f"/></l><r>paint<s n="n"/></r></p></e> <!-- (substance) -->
+    <e><p><l>málsháttur<s n="n"/><s n="m"/></l><r>saying<s n="n"/></r></p></e>
+    <!--<e><p><l>málsháttur<s n="n"/><s n="m"/></l><r>proverb<s n="n"/></r></p></e>-->
+    <e><p><l>málstol<s n="n"/><s n="nt"/></l><r>aphasia<s n="n"/></r></p></e>
+    <e><p><l>málverk<s n="n"/><s n="nt"/></l><r>painting<s n="n"/></r></p></e>
+    <e><p><l>málvísindi<s n="n"/><s n="nt"/></l><r>linguistics<s n="n"/></r></p></e> <!-- (scientific study of language) -->
+    <e><p><l>málþóf<s n="n"/><s n="nt"/></l><r>filibuster<s n="n"/></r></p></e> <!-- the use of delaying tactics in politics -->
+    <e><p><l>máni<s n="n"/><s n="m"/></l><r>moon<s n="n"/></r></p></e>
+    <e><p><l>mánudagur<s n="n"/><s n="m"/></l><r>Monday<s n="n"/></r></p></e>
+    <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
+    <e><p><l>más<s n="n"/><s n="nt"/></l><r>panting<s n="n"/></r></p></e>
+    <!--<e><p><l>más<s n="n"/><s n="nt"/></l><r>puffing<s n="n"/></r></p></e>-->
+    <e><p><l>máti<s n="n"/><s n="m"/></l><r>manner<s n="n"/></r></p></e>
+    <!--<e><p><l>máti<s n="n"/><s n="m"/></l><r>way<s n="n"/></r></p></e>-->
+    <!--<e><p><l>máttur<s n="n"/><s n="m"/></l><r>power<s n="n"/></r></p></e>-->
+    <e><p><l>máttur<s n="n"/><s n="m"/></l><r>strength<s n="n"/></r></p></e>
+    <e><p><l>mávur<s n="n"/><s n="m"/></l><r>gull<s n="n"/></r></p></e>
+    <e><p><l>mæli<s n="n"/><s n="nt"/></l><r>voice<s n="n"/></r></p></e>
+    <e><p><l>mæling<s n="n"/><s n="f"/></l><r>measurement<s n="n"/></r></p></e>
+    <e><p><l>mæna<s n="n"/><s n="f"/></l><r>spinal<b/>cord<s n="n"/></r></p></e>
+    <e><p><l>mænukylfa<s n="n"/><s n="f"/></l><r>medulla<b/>oblongata<s n="n"/></r></p></e>
+    <e><p><l>mær<s n="n"/><s n="f"/></l><r>maiden<s n="n"/></r></p></e>
+    <!--<e><p><l>mærð<s n="n"/><s n="f"/></l><r>flattery<s n="n"/></r></p></e>-->
+    <e><p><l>mærð<s n="n"/><s n="f"/></l><r>praise<s n="n"/></r></p></e>
+    <e><p><l>mínus<s n="n"/><s n="m"/></l><r>minus<s n="n"/></r></p></e>
+    <e><p><l>mínúta<s n="n"/><s n="f"/></l><r>minute<s n="n"/></r></p></e>
+    <e><p><l>mól<s n="n"/><s n="nt"/></l><r>mol<s n="n"/></r></p></e>
+    <e><p><l>mólýbden<s n="n"/><s n="nt"/></l><r>molybdenum<s n="n"/></r></p></e>
+    <e><p><l>mót<s n="n"/><s n="nt"/></l><r>meeting<s n="n"/></r></p></e>
+    <!--<e><p><l>mót<s n="n"/><s n="nt"/></l><r>tournament<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mót<s n="n"/><s n="nt"/></l><r>competition<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mót<s n="n"/><s n="nt"/></l><r>baking<b/>form<s n="n"/></r></p></e>--> <!-- short for kökumót -->
+    <!--<e><p><l>mótgerð<s n="n"/><s n="f"/></l><r>injury<s n="n"/></r></p></e>-->
+    <e><p><l>mótgerð<s n="n"/><s n="f"/></l><r>offense<s n="n"/></r></p></e>
+    <e><p><l>mótmæli<s n="n"/><s n="nt"/></l><r>protest<s n="n"/></r></p></e>
+    <e><p><l>mótsögn<s n="n"/><s n="f"/></l><r>contradiction<s n="n"/></r></p></e>
+    <e><p><l>móða<s n="n"/><s n="f"/></l><r>haze<s n="n"/></r></p></e>
+    <e><p><l>móðir<s n="n"/><s n="f"/></l><r>mother<s n="n"/></r></p></e>
+    <e><p><l>móðurborð<s n="n"/><s n="nt"/></l><r>motherboard<s n="n"/></r></p></e>
+    <e><p><l>móðurbróðir<s n="n"/><s n="m"/></l><r>maternal<b/>uncle<s n="n"/></r></p></e>
+    <e><p><l>móðursystir<s n="n"/><s n="f"/></l><r>maternal<b/>aunt<s n="n"/></r></p></e>
+    <e><p><l>mölfiðrildi<s n="n"/><s n="nt"/></l><r>moth<s n="n"/></r></p></e>
+    <e><p><l>mörgæs<s n="n"/><s n="f"/></l><r>penguin<s n="n"/></r></p></e>
+<!--    <e><p><l>mörður<s n="n"/><s n="m"/></l><r>marten<s n="n"/></r></p></e> --> <!-- (mammal) -->
+    <e><p><l>mörður<s n="n"/><s n="m"/></l><r>weasel<s n="n"/></r></p></e> <!-- (mammal) -->
+    <!--<e><p><l>múgur<s n="n"/><s n="m"/></l><r>mass<s n="n"/></r></p></e>-->
+    <e><p><l>múgur<s n="n"/><s n="m"/></l><r>mob<s n="n"/></r></p></e>
+    <e><p><l>mús<s n="n"/><s n="f"/></l><r>mouse<s n="n"/></r></p></e> <!-- (animal) -->
+    <e><p><l>músvákur<s n="n"/><s n="m"/></l><r>buzzard<s n="n"/></r></p></e> <!-- (Genus Buteo) -->
+    <!--<e><p><l>mýmargur<s n="adj"/><s n="GD"/></l><r>countless<s n="adj"/></r></p></e> --> <!-- adjective -->
+    <!--<e><p><l>mýmargur<s n="adj"/><s n="GD"/></l><r>uncountable<s n="adj"/></r></p></e> --> <!-- adjective -->
+    <!--<e><p><l>mýri<s n="n"/><s n="f"/></l><r>bog<s n="n"/></r></p></e>-->
+    <e><p><l>mýri<s n="n"/><s n="f"/></l><r>marsh<s n="n"/></r></p></e> <!-- (area of low, wet land) -->
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
