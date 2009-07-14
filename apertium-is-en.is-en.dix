@@ -64,9 +64,11 @@
     <e><p><l>um<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e><p><l>undir<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
     <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>út<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+    <e><p><l>inn<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
 
     <!-- Conjunctions -->
