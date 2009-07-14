@@ -1003,8 +1003,8 @@
     <!--<e><p><l>ferill<s n="n"/><s n="m"/></l><r>path<s n="n"/></r></p></e>-->
     <e><p><l>ferill<s n="n"/><s n="m"/></l><r>career<s n="n"/></r></p></e>
     <e><p><l>ferja<s n="n"/><s n="f"/></l><r>ferry<s n="n"/></r></p></e>
-    <e><p><l>ferkílómetri<s n="n"/><s n="m"/></l><r>square<b/>kilometer<s n="n"/></r></p></e>
-    <e><p><l>fermetri<s n="n"/><s n="m"/></l><r>square<b/>meter<s n="n"/></r></p></e>
+    <e><p><l>ferkílómetri<s n="n"/><s n="m"/></l><r>square<b/>kilometre<s n="n"/></r></p></e>
+    <e><p><l>fermetri<s n="n"/><s n="m"/></l><r>square<b/>metre<s n="n"/></r></p></e>
     <!--<e><p><l>ferming<s n="n"/><s n="f"/></l><r>loading<s n="n"/></r></p></e>-->
     <e><p><l>ferming<s n="n"/><s n="f"/></l><r>confirmation<s n="n"/></r></p></e>
     <e><p><l>ferskja<s n="n"/><s n="f"/></l><r>peach<s n="n"/></r></p></e> <!-- (fruit of the tree Prunus persica) -->
@@ -2837,8 +2837,8 @@
     <!--<e><p><l>metnaður<s n="n"/><s n="m"/></l><r>aspiration<s n="n"/></r></p></e>-->
     <!--<e><p><l>metnaður<s n="n"/><s n="m"/></l><r>goal<s n="n"/></r></p></e>-->
     <e><p><l>metorð<s n="n"/><s n="nt"/></l><r>esteem<s n="n"/></r></p></e>
-    <e><p><l>metri<s n="n"/><s n="m"/></l><r>meter<s n="n"/></r></p></e> <!-- (unit of measure, 100 cm) -->
-    <!--<e><p><l>metri<s n="n"/><s n="m"/></l><r>metre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>metri<s n="n"/><s n="m"/></l><r>metre<s n="n"/></r></p></e> <!-- (unit of measure, 100 cm) -->
+    <!--<e><p><l>metri<s n="n"/><s n="m"/></l><r>meter<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <!--<e><p><l>meðal<s n="n"/><s n="nt"/></l><r>drug<s n="n"/></r></p></e>-->
     <e><p><l>meðal<s n="n"/><s n="nt"/></l><r>medicine<s n="n"/></r></p></e>
     <!--<e><p><l>meðaltal<s n="n"/><s n="nt"/></l><r>arithmetic<b/>mean<s n="n"/></r></p></e>-->
