@@ -2554,33 +2554,6 @@
     <e><p><l>leysigeisli<s n="n"/><s n="m"/></l><r>laser<b/>beam<s n="n"/></r></p></e>
     <e><p><l>leysir<s n="n"/><s n="m"/></l><r>laser<s n="n"/></r></p></e>
 
-    <e><p><l>að<b/>einu<b/>leyti<s n="n"/><s n="nt"/></l><r>on<b/>one<b/>count<s n="n"/></r></p></e>
-    <e><p><l>að<b/>einhverju<b/>leyti<s n="n"/><s n="nt"/></l><r>partly<s n="n"/></r></p></e>
-    <!--<e><p><l>að<b/>einhverju<b/>leyti<s n="n"/><s n="nt"/></l><r>to<b/>some<b/>degree<s n="n"/></r></p></e>-->
-    <e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>mostly<s n="n"/></r></p></e>
-    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>mainly<s n="n"/></r></p></e>-->
-    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>largely<s n="n"/></r></p></e>-->
-    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>for<b/>the<b/>most<b/>part<s n="n"/></r></p></e>-->
-    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="n"/><s n="nt"/></l><r>drastically<s n="n"/></r></p></e>-->
-    <e><p><l>að<b/>nokkru<b/>leyti<s n="n"/><s n="nt"/></l><r>partially<s n="n"/></r></p></e>
-    <e><p><l>að<b/>sumu<b/>leyti<s n="n"/><s n="nt"/></l><r>partly<s n="n"/></r></p></e>
-    <e><p><l>að<b/>svo<b/>miklu<b/>leyti<b/>sem<s n="n"/><s n="nt"/></l><r>in<b/>so<b/>much<b/>as<s n="n"/></r></p></e>
-    <e><p><l>að<b/>tvennu<b/>leyti<s n="n"/><s n="nt"/></l><r>for<b/>two<b/>reasons<s n="n"/></r></p></e>
-    <!--<e><p><l>að<b/>vissu<b/>leyti<s n="n"/><s n="nt"/></l><r>as<b/>it<b/>were<s n="n"/></r></p></e>-->
-    <!--<e><p><l>að<b/>vissu<b/>leyti<s n="n"/><s n="nt"/></l><r>in<b/>part<s n="n"/></r></p></e>-->
-    <e><p><l>að<b/>vissu<b/>leyti<s n="n"/><s n="nt"/></l><r>to<b/>a<b/>certain<b/>degree<s n="n"/></r></p></e>
-    <e><p><l>að<b/>þessu<b/>leyti<s n="n"/><s n="nt"/></l><r>in<b/>this<b/>regard<s n="n"/></r></p></e>
-    <e><p><l>að<b/>því<b/>leyti<s n="n"/><s n="nt"/></l><r>insofar<s n="n"/></r></p></e>
-    <e><p><l>að<b/>því<b/>leyti<b/>sem<s n="n"/><s n="nt"/></l><r>insomuch<b/>as<s n="n"/></r></p></e>
-    <e><p><l>að<b/>öðru<b/>leyti<s n="n"/><s n="nt"/></l><r>otherwise<s n="n"/></r></p></e>
-    <e><p><l>að<b/>öllu<b/>leyti<s n="n"/><s n="nt"/></l><r>in<b/>every<b/>respect<s n="n"/></r></p></e>
-    <!--<e><p><l>að<b/>öllu<b/>leyti<s n="n"/><s n="nt"/></l><r>altogether<s n="n"/></r></p></e>-->
-    <!--<e><p><l>að<b/>öllu<b/>leyti<s n="n"/><s n="nt"/></l><r>wholly<s n="n"/></r></p></e>-->
-    <e><p><l>um<b/>það<b/>leyti<s n="n"/><s n="nt"/></l><r>about<b/>that<b/>time<s n="n"/></r></p></e>
-    <!--<e><p><l>um<b/>það<b/>leyti<s n="n"/><s n="nt"/></l><r>thereabouts<s n="n"/></r></p></e>-->
-    <!--<e><p><l>um<b/>það<b/>leyti<s n="n"/><s n="nt"/></l><r>when<s n="n"/></r></p></e>-->
-    <e><p><l>um<b/>þetta<b/>leyti<s n="n"/><s n="nt"/></l><r>at<b/>this<b/>time<s n="n"/></r></p></e>
-
     <e><p><l>leður<s n="n"/><s n="nt"/></l><r>leather<s n="n"/></r></p></e>
     <e><p><l>leðurblaka<s n="n"/><s n="f"/></l><r>bat<s n="n"/></r></p></e> <!-- (flying mammal) -->
     <!--<e><p><l>lifandi<s n="adj"/><s n="m"/></l><r>alive<s n="adj"/></r></p></e>--> <!-- adjective -->
@@ -3386,6 +3359,34 @@
     <e><p><l>þar<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
     <e><p><l>þarna<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
     <e><p><l>þegar<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+
+    <e><p><l>að<b/>einu<b/>leyti<s n="adv"/></l><r>on<b/>one<b/>count<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>einhverju<b/>leyti<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
+    <!--<e><p><l>að<b/>einhverju<b/>leyti<s n="adv"/></l><r>to<b/>some<b/>degree<s n="adv"/></r></p></e>-->
+    <e><p><l>að<b/>mestu<b/>leyti<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="adv"/></l><r>mainly<s n="adv"/></r></p></e>-->
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="adv"/></l><r>largely<s n="adv"/></r></p></e>-->
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="adv"/></l><r>for<b/>the<b/>most<b/>part<s n="adv"/></r></p></e>-->
+    <!--<e><p><l>að<b/>mestu<b/>leyti<s n="adv"/></l><r>drastically<s n="adv"/></r></p></e>-->
+    <e><p><l>að<b/>nokkru<b/>leyti<s n="adv"/></l><r>partially<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>sumu<b/>leyti<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>svo<b/>miklu<b/>leyti<b/>sem<s n="adv"/></l><r>in<b/>so<b/>much<b/>as<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>tvennu<b/>leyti<s n="adv"/></l><r>for<b/>two<b/>reasons<s n="adv"/></r></p></e>
+    <!--<e><p><l>að<b/>vissu<b/>leyti<s n="adv"/></l><r>as<b/>it<b/>were<s n="adv"/></r></p></e>-->
+    <!--<e><p><l>að<b/>vissu<b/>leyti<s n="adv"/></l><r>in<b/>part<s n="adv"/></r></p></e>-->
+    <e><p><l>að<b/>vissu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>certain<b/>degree<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>þessu<b/>leyti<s n="adv"/></l><r>in<b/>this<b/>regard<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>því<b/>leyti<s n="adv"/></l><r>insofar<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>því<b/>leyti<b/>sem<s n="adv"/></l><r>insomuch<b/>as<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>öðru<b/>leyti<s n="adv"/></l><r>otherwise<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>öllu<b/>leyti<s n="adv"/></l><r>in<b/>every<b/>respect<s n="adv"/></r></p></e>
+    <!--<e><p><l>að<b/>öllu<b/>leyti<s n="adv"/></l><r>altogether<s n="adv"/></r></p></e>-->
+    <!--<e><p><l>að<b/>öllu<b/>leyti<s n="adv"/></l><r>wholly<s n="adv"/></r></p></e>-->
+    <e><p><l>um<b/>það<b/>leyti<s n="adv"/></l><r>about<b/>that<b/>time<s n="adv"/></r></p></e>
+    <!--<e><p><l>um<b/>það<b/>leyti<s n="adv"/></l><r>thereabouts<s n="adv"/></r></p></e>-->
+    <!--<e><p><l>um<b/>það<b/>leyti<s n="adv"/></l><r>when<s n="adv"/></r></p></e>-->
+    <e><p><l>um<b/>þetta<b/>leyti<s n="adv"/></l><r>at<b/>this<b/>time<s n="adv"/></r></p></e>
+
 
 
     <!-- Punctuation -->
