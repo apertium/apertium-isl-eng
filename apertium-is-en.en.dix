@@ -51670,6 +51670,10 @@
         <i>rat</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="exchange rate" i="">
+        <i>exchange<b/>rate</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="rate" i="">
         <i>rate</i> 
         <par n="house__n"/> 
