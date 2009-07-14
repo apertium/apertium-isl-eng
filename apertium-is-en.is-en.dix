@@ -3119,7 +3119,158 @@
     <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>whole<b/>cream<b/>cow's<b/>milk<s n="n"/></r></p></e>-->
     <e><p><l>nýra<s n="n"/><s n="nt"/></l><r>kidney<s n="n"/></r></p></e>
     <e><p><l>nýöld<s n="n"/><s n="f"/></l><r>modern<b/>times<s n="n"/></r></p></e>
-
+    
+    
+    <e><p><l>o<s n="n"/><s n="nt"/></l><r>o<s n="n"/></r></p></e>
+    <e><p><l>oddur<s n="n"/><s n="m"/></l><r>point<s n="n"/></r></p></e>
+    <!--<e><p><l>oddur<s n="n"/><s n="m"/></l><r>tip<s n="n"/></r></p></e>-->
+    <e><p><l>ofn<s n="n"/><s n="m"/></l><r>stove<s n="n"/></r></p></e>
+    <e><p><l>oföndun<s n="n"/><s n="f"/></l><r>hyperventilation<s n="n"/></r></p></e>
+    <!--<e><p><l>ok<s n="n"/><s n="nt"/></l><r>burden<s n="n"/></r></p></e>-->
+    <e><p><l>ok<s n="n"/><s n="nt"/></l><r>yoke<s n="n"/></r></p></e>
+    <e><p><l>okkarína<s n="n"/><s n="f"/></l><r>ocarina<s n="n"/></r></p></e>
+    <e><p><l>október<s n="n"/><s n="nt"/></l><r>October<s n="n"/></r></p></e>
+    <e><p><l>olnbogi<s n="n"/><s n="m"/></l><r>elbow<s n="n"/></r></p></e>
+    <e><p><l>olía<s n="n"/><s n="f"/></l><r>oil<s n="n"/></r></p></e>
+    <!--<e><p><l>op<s n="n"/><s n="nt"/></l><r>gap<s n="n"/></r></p></e>-->
+    <e><p><l>op<s n="n"/><s n="nt"/></l><r>opening<s n="n"/></r></p></e>
+    <!--<e><p><l>op<s n="n"/><s n="nt"/></l><r>orifice.<s n="n"/></r></p></e>-->
+    <e><p><l>orka<s n="n"/><s n="f"/></l><r>energy<s n="n"/></r></p></e>
+    <!--<e><p><l>orka<s n="n"/><s n="f"/></l><r>power<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ormur<s n="n"/><s n="m"/></l><r>serpent<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ormur<s n="n"/><s n="m"/></l><r>snake<s n="n"/></r></p></e>-->
+    <e><p><l>ormur<s n="n"/><s n="m"/></l><r>worm<s n="n"/></r></p></e>
+    <e><p><l>orrusta<s n="n"/><s n="f"/></l><r>battle<s n="n"/></r></p></e>
+    <e><p><l>orsök<s n="n"/><s n="f"/></l><r>cause<s n="n"/></r></p></e>
+    <!--<e><p><l>orsök<s n="n"/><s n="f"/></l><r>reason<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>message<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>remark<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>reputation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>request<s n="n"/></r></p></e>-->
+    <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
+    <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>promise<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orðabók<s n="n"/><s n="f"/></l><r>wordbook<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orðabók<s n="n"/><s n="f"/></l><r>lexicon<s n="n"/></r></p></e>-->
+    <e><p><l>orðabók<s n="n"/><s n="f"/></l><r>dictionary<s n="n"/></r></p></e>
+    <e><p><l>orðaleikur<s n="n"/><s n="m"/></l><r>word<b/>game<s n="n"/></r></p></e>
+    <!--<e><p><l>orðaleikur<s n="n"/><s n="m"/></l><r>word<b/>play<s n="n"/></r></p></e>-->
+    <e><p><l>orðasafn<s n="n"/><s n="nt"/></l><r>glossary<s n="n"/></r></p></e>
+    <!--<e><p><l>orðasafn<s n="n"/><s n="nt"/></l><r>list<b/>of<b/>words<s n="n"/></r></p></e>-->
+    <e><p><l>orðsending<s n="n"/><s n="f"/></l><r>message<s n="n"/></r></p></e>
+    <e><p><l>orðsifjafræði<s n="n"/><s n="f"/></l><r>etymology<s n="n"/></r></p></e>
+    <!--<e><p><l>orðstír<s n="n"/><s n="m"/></l><r>fame<b/>and<b/>glory<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orðstír<s n="n"/><s n="m"/></l><r>honour<s n="n"/></r></p></e>-->
+    <!--<e><p><l>orðstír<s n="n"/><s n="m"/></l><r>prestige<s n="n"/></r></p></e>-->
+    <e><p><l>orðstír<s n="n"/><s n="m"/></l><r>reputation<s n="n"/></r></p></e>
+    <e><p><l>orðtak<s n="n"/><s n="nt"/></l><r>phrase<s n="n"/></r></p></e>
+    <e><p><l>osmín<s n="n"/><s n="nt"/></l><r>osmium<s n="n"/></r></p></e>
+    <e><p><l>ostra<s n="n"/><s n="f"/></l><r>oyster<s n="n"/></r></p></e>
+    <e><p><l>ostur<s n="n"/><s n="m"/></l><r>cheese<s n="n"/></r></p></e>
+    <e><p><l>otur<s n="n"/><s n="m"/></l><r>otter<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>p<s n="n"/><s n="nt"/></l><r>p<s n="n"/></r></p></e>
+    <e><p><l>pabbi<s n="n"/><s n="m"/></l><r>dad<s n="n"/></r></p></e> <!-- (colloquial word for father) -->
+    <!--<e><p><l>pakki<s n="n"/><s n="m"/></l><r>parcel<s n="n"/></r></p></e>-->
+    <!--<e><p><l>pakki<s n="n"/><s n="m"/></l><r>pack<s n="n"/></r></p></e>-->
+    <e><p><l>pakki<s n="n"/><s n="m"/></l><r>package<s n="n"/></r></p></e>
+    <!--<e><p><l>pakki<s n="n"/><s n="m"/></l><r>packet<s n="n"/></r></p></e>-->
+    <e><p><l>palladín<s n="n"/><s n="nt"/></l><r>palladium<s n="n"/></r></p></e> <!-- (element) -->
+    <e><p><l>pappír<s n="n"/><s n="m"/></l><r>paper<s n="n"/></r></p></e>
+    <e><p><l>par<s n="n"/><s n="nt"/></l><r>pair<s n="n"/></r></p></e>
+    <e><p><l>partur<s n="n"/><s n="m"/></l><r>part<s n="n"/></r></p></e>
+    <e><p><l>parís<s n="n"/><s n="m"/></l><r>hopscotch<s n="n"/></r></p></e>
+    <e><p><l>pels<s n="n"/><s n="m"/></l><r>fur<b/>coat<s n="n"/></r></p></e>
+    <e><p><l>pendúll<s n="n"/><s n="m"/></l><r>pendulum<s n="n"/></r></p></e>
+    <e><p><l>penni<s n="n"/><s n="m"/></l><r>pen<s n="n"/></r></p></e>
+    <e><p><l>pensill<s n="n"/><s n="m"/></l><r>paintbrush<s n="n"/></r></p></e>
+    <e><p><l>perla<s n="n"/><s n="f"/></l><r>pearl<s n="n"/></r></p></e>
+    <e><p><l>persóna<s n="n"/><s n="f"/></l><r>person<s n="n"/></r></p></e>
+    <e><p><l>persónubeyging<b/>sagna<s n="n"/><s n="f"/></l><r>conjugation<s n="n"/></r></p></e> <!-- (act of conjugating a verb) -->
+    <e><p><l>persónufornafn<s n="n"/><s n="nt"/></l><r>personal<b/>pronoun<s n="n"/></r></p></e>
+    <e><p><l>persónuleiki<s n="n"/><s n="m"/></l><r>personality<s n="n"/></r></p></e>
+    <!--<e><p><l>peysa<s n="n"/><s n="f"/></l><r>jersey<s n="n"/></r></p></e>-->
+    <e><p><l>peysa<s n="n"/><s n="f"/></l><r>sweater<s n="n"/></r></p></e>
+    <e><p><l>pils<s n="n"/><s n="nt"/></l><r>skirt<s n="n"/></r></p></e>
+    <e><p><l>piltur<s n="n"/><s n="m"/></l><r>lad<s n="n"/></r></p></e>
+    <!--<e><p><l>piltur<s n="n"/><s n="m"/></l><r>young<b/>boy<s n="n"/></r></p></e>--> <!-- young man is probably more correct than young boy -->
+    <!--<e><p><l>piltur<s n="n"/><s n="m"/></l><r>young<b/>man<s n="n"/></r></p></e>--> <!-- young man is probably more correct than young boy -->
+    <e><p><l>pipar<s n="n"/><s n="m"/></l><r>pepper<s n="n"/></r></p></e>
+    <e><p><l>piparjúnka<s n="n"/><s n="m"/></l><r>old<b/>maid<s n="n"/></r></p></e>
+    <e><p><l>piparmey<s n="n"/><s n="m"/></l><r>spinster<s n="n"/></r></p></e>
+    <e><p><l>piparsveinn<s n="n"/><s n="m"/></l><r>bachelor<s n="n"/></r></p></e>
+    <e><p><l>pitsa<s n="n"/><s n="f"/></l><r>pizza<s n="n"/></r></p></e>
+    <e><p><l>pítsa<s n="n"/><s n="f"/></l><r>pizza<s n="n"/></r></p></e>
+    <e><p><l>pizza<s n="n"/><s n="f"/></l><r>pizza<s n="n"/></r></p></e>
+    <e><p><l>planta<s n="n"/><s n="f"/></l><r>plant<s n="n"/></r></p></e>
+    <e><p><l>platína<s n="n"/><s n="f"/></l><r>platinum<s n="n"/></r></p></e>
+    <e><p><l>pláneta<s n="n"/><s n="f"/></l><r>planet<s n="n"/></r></p></e>
+    <e><p><l>plógur<s n="n"/><s n="m"/></l><r>plough<s n="n"/></r></p></e>
+    <e><p><l>plús<s n="n"/><s n="m"/></l><r>plus<s n="n"/></r></p></e>
+    <e><p><l>pokabjörn<s n="n"/><s n="nt"/></l><r>koala<s n="n"/></r></p></e>
+    <e><p><l>pokadýr<s n="n"/><s n="nt"/></l><r>marsupial<s n="n"/></r></p></e>
+    <e><p><l>poki<s n="n"/><s n="m"/></l><r>bag<s n="n"/></r></p></e>
+    <!--<e><p><l>pollur<s n="n"/><s n="m"/></l><r>pool<s n="n"/></r></p></e>-->
+    <e><p><l>pollur<s n="n"/><s n="m"/></l><r>puddle<s n="n"/></r></p></e>
+    <!--<e><p><l>pomp<s n="n"/><s n="nt"/></l><r>ceremony<s n="n"/></r></p></e>-->
+    <e><p><l>pomp<s n="n"/><s n="nt"/></l><r>pomp<s n="n"/></r></p></e>
+    <e><p><l>port<s n="n"/><s n="nt"/></l><r>courtyard<s n="n"/></r></p></e>
+    <e><p><l>prakt<s n="n"/><s n="f"/></l><r>ceremony<s n="n"/></r></p></e>
+    <!--<e><p><l>prakt<s n="n"/><s n="f"/></l><r>glory<s n="n"/></r></p></e>-->
+    <e><p><l>prentari<s n="n"/><s n="m"/></l><r>printer<s n="n"/></r></p></e> <!-- (operator of a printing press) -->
+    <e><p><l>prentun<s n="n"/><s n="f"/></l><r>printing<s n="n"/></r></p></e>
+    <!--<e><p><l>prestur<s n="n"/><s n="m"/></l><r>minister<s n="n"/></r></p></e>-->
+    <e><p><l>prestur<s n="n"/><s n="m"/></l><r>priest<s n="n"/></r></p></e>
+    <e><p><l>prins<s n="n"/><s n="m"/></l><r>prince<s n="n"/></r></p></e>
+    <e><p><l>prinsessa<s n="n"/><s n="f"/></l><r>princess<s n="n"/></r></p></e>
+    <e><p><l>prímtala<s n="n"/><s n="f"/></l><r>prime<b/>number<s n="n"/></r></p></e> <!-- (natural number) -->
+    <e><p><l>prímus<s n="n"/><s n="m"/></l><r>camping<b/>gas<b/>stove<s n="n"/></r></p></e>
+    <!--<e><p><l>prímus<s n="n"/><s n="m"/></l><r>cooker<s n="n"/></r></p></e>-->
+    <!--<e><p><l>prímus<s n="n"/><s n="m"/></l><r>primus<s n="n"/></r></p></e>-->
+    <!--<e><p><l>próf<s n="n"/><s n="nt"/></l><r>exam<s n="n"/></r></p></e>-->
+    <e><p><l>próf<s n="n"/><s n="nt"/></l><r>test<s n="n"/></r></p></e>
+    <e><p><l>prófessor<s n="n"/><s n="m"/></l><r>professor<s n="n"/></r></p></e>
+    <e><p><l>prósent<s n="n"/><s n="nt"/></l><r>percentage<s n="n"/></r></p></e>
+    <e><p><l>prósenta<s n="n"/><s n="f"/></l><r>per<b/>cent<s n="n"/></r></p></e>
+<!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>dot<s n="n"/></r></p></e> --> <!-- (speck or punctuation mark) -->
+<!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>full stop<s n="n"/></r></p></e> --> <!-- (speck or punctuation mark) -->
+<!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>period<s n="n"/></r></p></e> --> <!-- (speck or punctuation mark) -->
+<!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>point<s n="n"/></r></p></e> --> <!-- (speck or punctuation mark) -->
+<!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>pixel<s n="n"/></r></p></e> --> <!-- (picture element) -->
+    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>point<s n="n"/></r></p></e> <!-- (opinion adding to the conversation) -->
+    <e><p><l>pylsa<s n="n"/><s n="f"/></l><r>hot<b/>dog<s n="n"/></r></p></e>
+    <!--<e><p><l>pylsa<s n="n"/><s n="f"/></l><r>sausage<s n="n"/></r></p></e>-->
+    <e><p><l>páfagaukur<s n="n"/><s n="m"/></l><r>parrot<s n="n"/></r></p></e>
+    <e><p><l>páfi<s n="n"/><s n="m"/></l><r>pope<s n="n"/></r></p></e>
+    <e><p><l>páskafriður<s n="n"/><s n="m"/></l><r>Easter<b/>peace<s n="n"/></r></p></e>
+    <e><p><l>páskahelgi<s n="n"/><s n="f"/></l><r>Eastertide<s n="n"/></r></p></e>
+    <e><p><l>páskalamb<s n="n"/><s n="nt"/></l><r>Easter<b/>lamb<s n="n"/></r></p></e>
+    <e><p><l>páskalilja<s n="n"/><s n="f"/></l><r>narcissus<s n="n"/></r></p></e>
+    <e><p><l>páskar<s n="n"/><s n="m"/></l><r>Easter<s n="n"/></r></p></e>
+    <e><p><l>páskavika<s n="n"/><s n="f"/></l><r>Holy<b/>Week<s n="n"/></r></p></e>
+    <e><p><l>páskavist<s n="n"/><s n="f"/></l><r>stay<b/>during<b/>Easter<s n="n"/></r></p></e>
+    <e><p><l>pí<s n="n"/><s n="nt"/></l><r>Pi<s n="n"/></r></p></e>
+    <e><p><l>píanó<s n="n"/><s n="nt"/></l><r>piano<s n="n"/></r></p></e>
+    <e><p><l>píka<s n="n"/><s n="f"/></l><r>pussy<s n="n"/></r></p></e>
+    <!--<e><p><l>píka<s n="n"/><s n="f"/></l><r>vagina<s n="n"/></r></p></e>-->
+    <!--<e><p><l>píka<s n="n"/><s n="f"/></l><r>vulva<s n="n"/></r></p></e>-->
+    <e><p><l>píla<s n="n"/><s n="f"/></l><r>arrow<s n="n"/></r></p></e> <!-- (projectile) -->
+    <e><p><l>póker<s n="n"/><s n="m"/></l><r>poker<s n="n"/></r></p></e> <!-- (card game) -->
+    <e><p><l>póll<s n="n"/><s n="m"/></l><r>pole<s n="n"/></r></p></e>
+    <e><p><l>pólon<s n="n"/><s n="nt"/></l><r>polonium<s n="n"/></r></p></e>
+    <e><p><l>pólska<s n="n"/><s n="f"/></l><r>Polish<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>pósthús<s n="n"/><s n="nt"/></l><r>post<b/>office<s n="n"/></r></p></e>
+    <e><p><l>póstmódernismi<s n="n"/><s n="m"/></l><r>postmodernism<s n="n"/></r></p></e>
+    <e><p><l>póstur<s n="n"/><s n="m"/></l><r>mail<s n="n"/></r></p></e>
+    <e><p><l>póstur<s n="n"/><s n="m"/></l><r>post<s n="n"/></r></p></e>
+    <!--<e><p><l>pönnukaka<s n="n"/><s n="f"/></l><r>crêpe<s n="n"/></r></p></e>-->
+    <e><p><l>pönnukaka<s n="n"/><s n="f"/></l><r>pancake<s n="n"/></r></p></e>
+    <e><p><l>pöntun<s n="n"/><s n="f"/></l><r>order<s n="n"/></r></p></e>
+    <e><p><l>púls<s n="n"/><s n="m"/></l><r>pulse<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>q<s n="n"/><s n="nt"/></l><r>q<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
