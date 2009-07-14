@@ -2897,13 +2897,7 @@
     <e><p><l>moskító<s n="n"/><s n="f"/></l><r>mosquito<s n="n"/></r></p></e> <!-- (small flying insect of the family Culcidae, known for biting and sucking blood) -->
     <e><p><l>moskítófluga<s n="n"/><s n="f"/></l><r>mosquito<s n="n"/></r></p></e> <!-- (small flying insect of the family Culcidae, known for biting and sucking blood) -->
     <e><p><l>munaðarleysingjahæli<s n="n"/><s n="nt"/></l><r>orphanage<s n="n"/></r></p></e> <!-- (a public institution for the care and protection of orphans) -->
-
     <!--<e><p><l>mund<s n="n"/><s n="f"/></l><r>hand<s n="n"/></r></p></e>-->
-    <e><p><l>um<b/>þessar<b/>mundir<s n="n"/><s n="f"/></l><r>currently<s n="n"/></r></p></e>
-    <e><p><l>um<b/>þær<b/>mundir<s n="n"/><s n="f"/></l><r>at<b/>that<b/>time<s n="n"/></r></p></e>
-    <e><p><l>í<b/>sömu<b/>mund<s n="n"/><s n="f"/></l><r>at<b/>the<b/>same<b/>time<s n="n"/></r></p></e>
-    <e><p><l>í<b/>þann<b/>mund<b/>að<s n="n"/><s n="f"/></l><r>about<b/>to<s n="n"/></r></p></e>
-
     <e><p><l>munnur<s n="n"/><s n="m"/></l><r>mouth<s n="n"/></r></p></e>
     <e><p><l>munnvatn<s n="n"/><s n="m"/></l><r>saliva<s n="n"/></r></p></e>
     <!--<e><p><l>munnvatn<s n="n"/><s n="m"/></l><r>spit<s n="n"/></r></p></e>-->
@@ -3006,6 +3000,126 @@
     <!--<e><p><l>mýmargur<s n="adj"/><s n="GD"/></l><r>uncountable<s n="adj"/></r></p></e> --> <!-- adjective -->
     <!--<e><p><l>mýri<s n="n"/><s n="f"/></l><r>bog<s n="n"/></r></p></e>-->
     <e><p><l>mýri<s n="n"/><s n="f"/></l><r>marsh<s n="n"/></r></p></e> <!-- (area of low, wet land) -->
+    
+    
+    <e><p><l>n<s n="n"/><s n="nt"/></l><r>n<s n="n"/></r></p></e>
+    <e><p><l>nafar<s n="n"/><s n="m"/></l><r>auger<s n="n"/></r></p></e>
+    <!--<e><p><l>nafar<s n="n"/><s n="m"/></l><r>gimlet<s n="n"/></r></p></e>-->
+    <e><p><l>nafli<s n="n"/><s n="m"/></l><r>navel<s n="n"/></r></p></e>
+    <e><p><l>nafn<s n="n"/><s n="nt"/></l><r>name<s n="n"/></r></p></e>
+    <e><p><l>nafna<s n="n"/><s n="f"/></l><r>namesake<s n="n"/></r></p></e> <!-- refers to a female person -->
+    <e><p><l>nafnbót<s n="n"/><s n="f"/></l><r>title<s n="n"/></r></p></e>
+    <!--<e><p><l>nafnbót<s n="n"/><s n="f"/></l><r>rank<s n="n"/></r></p></e>-->
+    <e><p><l>nafnháttur<s n="n"/><s n="m"/></l><r>infinitive<s n="n"/></r></p></e>
+    <e><p><l>nafni<s n="n"/><s n="m"/></l><r>namesake<s n="n"/></r></p></e> <!-- refers to a male person -->
+    <e><p><l>nafnliður<s n="n"/><s n="m"/></l><r>noun<b/>phrase<s n="n"/></r></p></e>
+    <e><p><l>nafnorð<s n="n"/><s n="nt"/></l><r>noun<s n="n"/></r></p></e>
+    <e><p><l>nagdýr<s n="n"/><s n="nt"/></l><r>rodent<s n="n"/></r></p></e>
+    <e><p><l>nagli<s n="n"/><s n="m"/></l><r>nail<s n="n"/></r></p></e> <!-- (of iron) -->
+    <e><p><l>nashyrningur<s n="n"/><s n="m"/></l><r>rhinoceros<s n="n"/></r></p></e>
+    <e><p><l>natrín<s n="n"/><s n="nt"/></l><r>sodium<s n="n"/></r></p></e> <!-- (a reactive metal) -->
+    <e><p><l>naut<s n="n"/><s n="nt"/></l><r>bull<s n="n"/></r></p></e>
+    <!--<e><p><l>naut<s n="n"/><s n="nt"/></l><r>cattle<s n="n"/></r></p></e>-->
+    <e><p><l>nautakjöt<s n="n"/><s n="nt"/></l><r>beef<s n="n"/></r></p></e>
+    <e><p><l>nautgripur<s n="n"/><s n="m"/></l><r>cow<s n="n"/></r></p></e> <!-- (any domestic bovine regardless of sex or age) -->
+    <e><p><l>nautnahyggja<s n="n"/><s n="f"/></l><r>hedonism<s n="n"/></r></p></e>
+    <!--<e><p><l>nauð<s n="n"/><s n="f"/></l><r>distress<s n="n"/></r></p></e>-->
+    <e><p><l>nauð<s n="n"/><s n="f"/></l><r>need<s n="n"/></r></p></e>
+    <e><p><l>nauðgun<s n="n"/><s n="f"/></l><r>rape<s n="n"/></r></p></e>
+    <!--<e><p><l>nauðsyn<s n="n"/><s n="f"/></l><r>imperative<s n="n"/></r></p></e>-->
+    <!--<e><p><l>nauðsyn<s n="n"/><s n="f"/></l><r>need<s n="n"/></r></p></e>-->
+    <e><p><l>nauðsyn<s n="n"/><s n="f"/></l><r>necessity<s n="n"/></r></p></e>
+    <!--<e><p><l>naðra<s n="n"/><s n="f"/></l><r>snake<s n="n"/></r></p></e>-->
+    <e><p><l>naðra<s n="n"/><s n="f"/></l><r>viper<s n="n"/></r></p></e>
+    <e><p><l>nefdýr<s n="n"/><s n="nt"/></l><r>monotreme<s n="n"/></r></p></e>
+    <e><p><l>nefnd<s n="n"/><s n="f"/></l><r>committee<s n="n"/></r></p></e>
+    <e><p><l>nefnifall<s n="n"/><s n="nt"/></l><r>nominative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>nemandi<s n="n"/><s n="m"/></l><r>student<s n="n"/></r></p></e>
+    <e><p><l>nemi<s n="n"/><s n="m"/></l><r>student<s n="n"/></r></p></e>
+    <e><p><l>neon<s n="n"/><s n="nt"/></l><r>neon<s n="n"/></r></p></e>
+    <e><p><l>nepja<s n="n"/><s n="f"/></l><r>chill<s n="n"/></r></p></e>
+    <!--<e><p><l>nepja<s n="n"/><s n="f"/></l><r>nip<s n="n"/></r></p></e>-->
+    <e><p><l>nes<s n="n"/><s n="nt"/></l><r>cape<s n="n"/></r></p></e>
+    <!--<e><p><l>nes<s n="n"/><s n="nt"/></l><r>point<s n="n"/></r></p></e>-->
+    <e><p><l>nesti<s n="n"/><s n="nt"/></l><r>packed<b/>lunch<s n="n"/></r></p></e>
+    <!--<e><p><l>nesti<s n="n"/><s n="nt"/></l><r>provisions<s n="n"/></r></p></e>-->
+    <e><p><l>net<s n="n"/><s n="nt"/></l><r>net<s n="n"/></r></p></e>
+    <e><p><l>nifteind<s n="n"/><s n="f"/></l><r>neutron<s n="n"/></r></p></e>
+    <e><p><l>nikkel<s n="n"/><s n="nt"/></l><r>nickel<s n="n"/></r></p></e> <!-- (chemical element) -->
+    <e><p><l>nitur<s n="n"/><s n="nt"/></l><r>nitrogen<s n="n"/></r></p></e>
+    <!--<e><p><l>niður<s n="n"/><s n="m"/></l><r>buzz<s n="n"/></r></p></e>-->
+    <e><p><l>niður<s n="n"/><s n="m"/></l><r>drone<s n="n"/></r></p></e>
+    <e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhea<s n="n"/></r></p></e>
+    <!--<e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhoea<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>norska<s n="n"/><s n="f"/></l><r>Norwegian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>norðaustur<s n="n"/><s n="nt"/></l><r>northeast<s n="n"/></r></p></e>
+    <e><p><l>norður<s n="n"/><s n="nt"/></l><r>north<s n="n"/></r></p></e>
+    <e><p><l>norðurhvel<s n="n"/><s n="nt"/></l><r>northern<b/>hemisphere<s n="n"/></r></p></e>
+    <e><p><l>norðurljós<s n="n"/><s n="nt"/></l><r>aurora<b/>borealis<s n="n"/></r></p></e>
+    <e><p><l>norðurljós<s n="n"/><s n="nt"/></l><r>northern<b/>lights<s n="n"/></r></p></e>
+    <e><p><l>nostalgía<s n="n"/><s n="f"/></l><r>nostalgia<s n="n"/></r></p></e>
+    <e><p><l>not<s n="n"/><s n="nt"/></l><r>use<s n="n"/></r></p></e>
+    <e><p><l>notandi<s n="n"/><s n="m"/></l><r>user<s n="n"/></r></p></e>
+    <e><p><l>notkun<s n="n"/><s n="f"/></l><r>use<s n="n"/></r></p></e>
+    <e><p><l>nytjastefna<s n="n"/><s n="f"/></l><r>utilitarianism<s n="n"/></r></p></e>
+    <e><p><l>nábúi<s n="n"/><s n="m"/></l><r>neighbor<s n="n"/></r></p></e>
+    <!--<e><p><l>nábúi<s n="n"/><s n="m"/></l><r>neighbour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>nágranni<s n="n"/><s n="m"/></l><r>neighbor<s n="n"/></r></p></e>
+    <!--<e><p><l>nágranni<s n="n"/><s n="m"/></l><r>neighbour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>nágrenni<s n="n"/><s n="f"/></l><r>neighborhood<s n="n"/></r></p></e>
+    <!--<e><p><l>nágrenni<s n="n"/><s n="nt"/></l><r>neighbourhood<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>náhvalur<s n="n"/><s n="m"/></l><r>narwhal<s n="n"/></r></p></e> <!-- (Monodon monoceros) -->
+    <e><p><l>náhveli<s n="n"/><s n="nt"/></l><r>narwhal<s n="n"/></r></p></e>
+    <e><p><l>nákvæmni<s n="n"/><s n="f"/></l><r>accuracy<s n="n"/></r></p></e>
+    <!--<e><p><l>nákvæmni<s n="n"/><s n="f"/></l><r>precision<s n="n"/></r></p></e>-->
+    <e><p><l>nál<s n="n"/><s n="f"/></l><r>needle<s n="n"/></r></p></e>
+    <!--<e><p><l>náladofi<s n="n"/><s n="m"/></l><r>acanthesthesia<s n="n"/></r></p></e>-->
+    <e><p><l>náladofi<s n="n"/><s n="m"/></l><r>pins<b/>and<b/>needles<s n="n"/></r></p></e>
+    <e><p><l>nálgunarbann<s n="n"/><s n="nt"/></l><r>restraining<b/>order<s n="n"/></r></p></e>
+    <!--<e><p><l>nám<s n="n"/><s n="nt"/></l><r>removal<s n="n"/></r></p></e>--> <!-- only when used as a postfix-->
+    <!--<e><p><l>nám<s n="n"/><s n="nt"/></l><r>studies<s n="n"/></r></p></e>-->
+    <e><p><l>nám<s n="n"/><s n="nt"/></l><r>learning<s n="n"/></r></p></e>
+    <!--<e><p><l>nám<s n="n"/><s n="nt"/></l><r>study<s n="n"/></r></p></e>-->
+    <e><p><l>náma<s n="n"/><s n="f"/></l><r>mine<s n="n"/></r></p></e>
+    <e><p><l>náma<s n="n"/><s n="f"/></l><r>pit<s n="n"/></r></p></e>
+    <e><p><l>námskeið<s n="n"/><s n="nt"/></l><r>course<s n="n"/></r></p></e>
+    <e><p><l>námsmaður<s n="n"/><s n="m"/></l><r>student<s n="n"/></r></p></e>
+    <e><p><l>nánd<s n="n"/><s n="f"/></l><r>proximity<s n="n"/></r></p></e>
+    <!--<e><p><l>nár<s n="n"/><s n="m"/></l><r>cadaver<s n="n"/></r></p></e>-->
+    <e><p><l>nár<s n="n"/><s n="m"/></l><r>corpse<s n="n"/></r></p></e>
+<!--    <e><p><l>nár<s n="n"/><s n="m"/></l><r>dead<b/>body<s n="n"/></r></p></e> --> <!-- (of a human) -->
+    <e><p><l>nátthrafn<s n="n"/><s n="m"/></l><r>night<b/>owl<s n="n"/></r></p></e>
+    <e><p><l>náttúra<s n="n"/><s n="f"/></l><r>nature<s n="n"/></r></p></e>
+    <e><p><l>náttúruhyggja<s n="n"/><s n="f"/></l><r>naturalism<s n="n"/></r></p></e>
+    <e><p><l>náttúruval<s n="n"/><s n="nt"/></l><r>natural<b/>selection<s n="n"/></r></p></e>
+    <e><p><l>náð<s n="n"/><s n="f"/></l><r>mercy<s n="n"/></r></p></e>
+    <e><p><l>nælon<s n="n"/><s n="nt"/></l><r>nylon<s n="n"/></r></p></e>
+    <e><p><l>næringarfræðingur<s n="n"/><s n="m"/></l><r>nutritionist<s n="n"/></r></p></e>
+    <e><p><l>næringarráðgjafi<s n="n"/><s n="m"/></l><r>dietician<s n="n"/></r></p></e>
+    <e><p><l>nærvera<s n="n"/><s n="f"/></l><r>presence<s n="n"/></r></p></e>
+    <e><p><l>næturgali<s n="n"/><s n="m"/></l><r>nightingale<s n="n"/></r></p></e> <!-- (bird) -->
+    <e><p><l>níska<s n="n"/><s n="f"/></l><r>stinginess<s n="n"/></r></p></e>
+    <!--<e><p><l>níð<s n="n"/><s n="m"/></l><r>abuse<s n="n"/></r></p></e>-->
+    <e><p><l>níð<s n="n"/><s n="m"/></l><r>invective<s n="n"/></r></p></e>
+    <e><p><l>níóbín<s n="n"/><s n="nt"/></l><r>niobium<s n="n"/></r></p></e>
+    <e><p><l>nón<s n="n"/><s n="nt"/></l><r>three<b/>o'clock<b/>in<b/>the<b/>afternoon<s n="n"/></r></p></e>
+    <e><p><l>nótt<s n="n"/><s n="f"/></l><r>night<s n="n"/></r></p></e>
+    <e><p><l>nóvember<s n="n"/><s n="nt"/></l><r>November<s n="n"/></r></p></e>
+    <e><p><l>nögl<s n="n"/><s n="f"/></l><r>nail<s n="n"/></r></p></e> <!-- (fingernail or toenail) -->
+    <!--<e><p><l>nörd<s n="n"/><s n="m"/></l><r>geek<s n="n"/></r></p></e>-->
+    <e><p><l>nörd<s n="n"/><s n="m"/></l><r>nerd<s n="n"/></r></p></e>
+    <e><p><l>nös<s n="n"/><s n="f"/></l><r>nostril<s n="n"/></r></p></e>
+    <e><p><l>núliðin<b/>tíð<s n="n"/><s n="f"/></l><r>past<b/>participle<s n="n"/></r></p></e>
+    <e><p><l>núll<s n="n"/><s n="nt"/></l><r>zero<s n="n"/></r></p></e>
+    <e><p><l>númer<s n="n"/><s n="nt"/></l><r>number<s n="n"/></r></p></e>
+    <e><p><l>nútíð<s n="n"/><s n="f"/></l><r>present<b/>tense<s n="n"/></r></p></e>
+    <e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>whole<b/>milk<s n="n"/></r></p></e>
+    <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>full-cream<b/>milk<s n="n"/></r></p></e>-->
+    <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>fresh<b/>milk<s n="n"/></r></p></e>-->
+    <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>whole<b/>cream<b/>cow's<b/>milk<s n="n"/></r></p></e>-->
+    <e><p><l>nýra<s n="n"/><s n="nt"/></l><r>kidney<s n="n"/></r></p></e>
+    <e><p><l>nýöld<s n="n"/><s n="f"/></l><r>modern<b/>times<s n="n"/></r></p></e>
+
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
