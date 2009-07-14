@@ -3008,9 +3008,9 @@
 
 
     <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
-    <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
 
     <e><p><l>skuld<s n="n"/><s n="f"/></l><r>debt<s n="n"/></r></p></e>
+    <e><p><l>slys<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e>
 
     <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
 
@@ -3358,6 +3358,7 @@
     <e><p><l>þangað<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
     <e><p><l>þar<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
     <e><p><l>þarna<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+    <e><p><l>illa<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
     <e><p><l>þegar<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
 
     <e><p><l>að<b/>einu<b/>leyti<s n="adv"/></l><r>on<b/>one<b/>count<s n="adv"/></r></p></e>
