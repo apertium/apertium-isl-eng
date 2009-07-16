@@ -182,6 +182,7 @@
   <def-var n="number"/>
   <def-var n="genere"/>
   <def-var n="article"/>
+  <def-var n="genitiu"/>
   <def-var n="verbfinal"/>
 </section-def-vars>
 
@@ -372,6 +373,34 @@
    </choose>
   </def-macro>
 
+  <def-macro n="genitiu2" npar="2">
+    <let>
+      <var n="genitiu"/>
+      <lit v=""/>
+    </let>
+    <choose>
+         <when><!-- noun with definitive article -->
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="case"/>
+               <lit-tag v="gen"/>
+             </equal>
+           </test>
+           <let>
+             <var n="genitiu"/>
+             <concat>
+                 <lit v="^"/>
+                 <get-case-from pos="2">
+                   <lit v="of"/>
+                 </get-case-from>
+                 <lit-tag v="pr"/>
+                 <lit v="$ "/>
+             </concat>
+           </let> 
+         </when>
+   </choose>
+  </def-macro>
+
 
 </section-def-macros>
 
@@ -549,6 +578,82 @@
            </out>
      </action>
   </rule><!-- END rule for prepositions -->
+
+
+  <rule comment="REGLA: NOM TOP"><!-- rule for nouns -->
+     <pattern>
+       <pattern-item n="nom"/>
+       <pattern-item n="top"/>
+     </pattern>
+     <action>
+       <call-macro n="nom_article1">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="genitiu2">
+         <with-param pos="2"/>
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <not>
+               <equal>
+                 <var n="article"/>
+                 <lit v=""/>
+               </equal>
+             </not>
+           </test>
+           <out>
+             <chunk name="det_nom_top" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <var n="article"/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <var n="genitiu"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise><!-- noun without any article -->
+           <out>
+             <chunk name="nom_top" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <var n="genitiu"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule><!-- END rule for nouns -->
 
 
 
