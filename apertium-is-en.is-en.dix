@@ -48,6 +48,7 @@
     <!-- Prepositions -->
     <e><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>af<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
+    <e><p><l>að<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>andspænis<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
     <e><p><l>án<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e><p><l>ásamt<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
@@ -3476,6 +3477,7 @@
     <e><p><l>Þjóðrekur<s n="np"/><s n="ant"/><s n="m"/></l><r>Þjóðrekur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Pála<s n="np"/><s n="ant"/><s n="f"/></l><r>Pála<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Helga<s n="np"/><s n="ant"/><s n="f"/></l><r>Helga<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Aþena<s n="np"/><s n="ant"/><s n="f"/></l><r>Aþena<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Dagbjartur<s n="np"/><s n="ant"/><s n="m"/></l><r>Dagbjartur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Arnþór<s n="np"/><s n="ant"/><s n="m"/></l><r>Arnþór<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
