@@ -3455,6 +3455,152 @@
     <e><p><l>rúða<s n="n"/><s n="f"/></l><r>windowpane<s n="n"/></r></p></e>
     <e><p><l>rýtingur<s n="n"/><s n="m"/></l><r>dagger<s n="n"/></r></p></e>
     
+    
+    <e><p><l>s<s n="n"/><s n="nt"/></l><r>s<s n="n"/></r></p></e>
+    <e><p><l>safaspæta<s n="n"/><s n="f"/></l><r>yellow-bellied<b/>sapsucker<s n="n"/></r></p></e>
+    <e><p><l>safi<s n="n"/><s n="m"/></l><r>juice<s n="n"/></r></p></e>
+    <!--<e><p><l>safn<s n="n"/><s n="nt"/></l><r>collection<s n="n"/></r></p></e>-->
+    <e><p><l>safn<s n="n"/><s n="nt"/></l><r>museum<s n="n"/></r></p></e>
+    <e><p><l>safír<s n="n"/><s n="m"/></l><r>sapphire<s n="n"/></r></p></e>
+    <e><p><l>safírblár<s n="n"/><s n="nt"/></l><r>sapphire<b/>blue<s n="n"/></r></p></e>
+    <e><p><l>sag<s n="n"/><s n="nt"/></l><r>sawdust<s n="n"/></r></p></e>
+    <e><p><l>saga<s n="n"/><s n="f"/></l><r>history<s n="n"/></r></p></e>
+    <!--<e><p><l>saga<s n="n"/><s n="f"/></l><r>story<s n="n"/></r></p></e>-->
+    <e><p><l>sagnbeyging<s n="n"/><s n="f"/></l><r>grammatical<b/>conjugation<s n="n"/></r></p></e>
+    <e><p><l>sagnorð<s n="n"/><s n="nt"/></l><r>verb<s n="n"/></r></p></e>
+    <e><p><l>sakleysi<s n="n"/><s n="f"/></l><r>innocence<s n="n"/></r></p></e>
+    <e><p><l>sala<s n="n"/><s n="f"/></l><r>sale<s n="n"/></r></p></e>
+    <e><p><l>salerni<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
+    <!--<e><p><l>salerni<s n="n"/><s n="nt"/></l><r>restroom<s n="n"/></r></p></e>-->
+    <!--<e><p><l>salerni<s n="n"/><s n="nt"/></l><r>WC<s n="n"/></r></p></e>-->
+    <e><p><l>salt<s n="n"/><s n="nt"/></l><r>salt<s n="n"/></r></p></e>
+    <e><p><l>salur<s n="n"/><s n="m"/></l><r>hall<s n="n"/></r></p></e> <!-- (large room such as a meeting room, banquet hall, etc.) -->
+    <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>-->
+    <e><p><l>samband<s n="n"/><s n="nt"/></l><r>relation<s n="n"/></r></p></e>
+    <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>relationship<s n="n"/></r></p></e>-->
+    <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>federation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>union<s n="n"/></r></p></e>-->
+    <e><p><l>sameind<s n="n"/><s n="f"/></l><r>molecule<s n="n"/></r></p></e>
+    <e><p><l>samfylking<s n="n"/><s n="f"/></l><r>social<b/>democratic<b/>alliance<s n="n"/></r></p></e>
+    <!--<e><p><l>samfélag<s n="n"/><s n="nt"/></l><r>civic<b/>community<s n="n"/></r></p></e>-->
+    <e><p><l>samfélag<s n="n"/><s n="nt"/></l><r>community<s n="n"/></r></p></e>
+    <e><p><l>samheitaorðabók<s n="n"/><s n="f"/></l><r>thesaurus<s n="n"/></r></p></e>
+    <e><p><l>samheiti<s n="n"/><s n="nt"/></l><r>synonym<s n="n"/></r></p></e> <!-- (word with same meaning as another) -->
+    <e><p><l>samhengi<s n="n"/><s n="nt"/></l><r>context<s n="n"/></r></p></e>
+    <e><p><l>samhljómur<s n="n"/><s n="m"/></l><r>harmony<s n="n"/></r></p></e> <!-- (pleasing combination of elements, or arrangement of sounds) -->
+    <e><p><l>samhljóð<s n="n"/><s n="nt"/></l><r>consonant<s n="n"/></r></p></e>
+    <e><p><l>samkoma<s n="n"/><s n="f"/></l><r>conjugation<s n="n"/></r></p></e> <!-- (coming together of things) -->
+    <!--<e><p><l>samkomulag<s n="n"/><s n="nt"/></l><r>accord<s n="n"/></r></p></e>-->
+    <e><p><l>samkomulag<s n="n"/><s n="nt"/></l><r>agreement<s n="n"/></r></p></e>
+    <e><p><l>samkynhneigð<s n="n"/><s n="f"/></l><r>homosexuality<s n="n"/></r></p></e>
+    <e><p><l>samlagning<s n="n"/><s n="f"/></l><r>addition<s n="n"/></r></p></e>
+    <!--<e><p><l>samningur<s n="n"/><s n="m"/></l><r>agreement<s n="n"/></r></p></e>-->
+    <!--<e><p><l>samningur<s n="n"/><s n="m"/></l><r>convention<s n="n"/></r></p></e>-->
+    <!--<e><p><l>samningur<s n="n"/><s n="m"/></l><r>pact<s n="n"/></r></p></e>-->
+    <e><p><l>samningur<s n="n"/><s n="m"/></l><r>contract<s n="n"/></r></p></e>
+    <e><p><l>samskipti<s n="n"/><s n="nt"/></l><r>communication<s n="n"/></r></p></e>
+    <e><p><l>samsæri<s n="n"/><s n="nt"/></l><r>conspiracy<s n="n"/></r></p></e>
+    <e><p><l>samsæriskenning<s n="n"/><s n="f"/></l><r>conspiracy<b/>theory<s n="n"/></r></p></e>
+    <e><p><l>samsæta<s n="n"/><s n="f"/></l><r>isotope<s n="n"/></r></p></e>
+    <e><p><l>samtal<s n="n"/><s n="nt"/></l><r>conversation<s n="n"/></r></p></e> <!-- (talking) -->
+    <e><p><l>samtenging<s n="n"/><s n="f"/></l><r>conjunction<s n="n"/></r></p></e>
+    <e><p><l>samvinna<s n="n"/><s n="f"/></l><r>collaboration<s n="n"/></r></p></e>
+    <!--<e><p><l>samvinna<s n="n"/><s n="f"/></l><r>cooperation<s n="n"/></r></p></e>-->
+    <e><p><l>samvist<s n="n"/><s n="f"/></l><r>cohabitation<s n="n"/></r></p></e>
+    <e><p><l>sandbylur<s n="n"/><s n="m"/></l><r>sandstorm<s n="n"/></r></p></e> <!-- (strong wind carrying clouds of sand) -->
+    <e><p><l>sandkassi<s n="n"/><s n="m"/></l><r>sandbox<s n="n"/></r></p></e>
+    <e><p><l>sandstormur<s n="n"/><s n="m"/></l><r>sandstorm<s n="n"/></r></p></e> <!-- (strong wind carrying clouds of sand) -->
+    <e><p><l>sandur<s n="n"/><s n="m"/></l><r>sand<s n="n"/></r></p></e>
+    <e><p><l>sannleikur<s n="n"/><s n="m"/></l><r>truth<s n="n"/></r></p></e>
+    <!--<e><p><l>sannur<s n="n"/><s n="m"/></l><r>real<s n="n"/></r></p></e>-->
+    <e><p><l>sannur<s n="n"/><s n="m"/></l><r>true<s n="n"/></r></p></e>
+    <e><p><l>saur<s n="n"/><s n="m"/></l><r>feces<s n="n"/></r></p></e>
+    <e><p><l>sauðfé<s n="n"/><s n="nt"/></l><r>sheep<s n="n"/></r></p></e>
+    <e><p><l>sauðkind<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e> <!-- (animal) -->
+    <e><p><l>sauðnaut<s n="n"/><s n="nt"/></l><r>muskox<s n="n"/></r></p></e>
+    <e><p><l>sauður<s n="n"/><s n="m"/></l><r>sheep<s n="n"/></r></p></e>
+    <e><p><l>seborgín<s n="n"/><s n="nt"/></l><r>seaborgium<s n="n"/></r></p></e>
+    <e><p><l>segl<s n="n"/><s n="nt"/></l><r>sail<s n="n"/></r></p></e>
+    <e><p><l>segulljós<s n="n"/><s n="nt"/></l><r>aurora<s n="n"/></r></p></e>
+    <e><p><l>segulsvið<s n="n"/><s n="nt"/></l><r>magnetic<b/>field<s n="n"/></r></p></e>
+    <e><p><l>sekkjapípa<s n="n"/><s n="f"/></l><r>bagpipes<s n="n"/></r></p></e>
+    <e><p><l>sekt<s n="n"/><s n="f"/></l><r>guilt<s n="n"/></r></p></e>
+    <e><p><l>sekúnda<s n="n"/><s n="f"/></l><r>second<s n="n"/></r></p></e>
+    <e><p><l>selló<s n="n"/><s n="nt"/></l><r>cello<s n="n"/></r></p></e>
+    <e><p><l>selur<s n="n"/><s n="m"/></l><r>seal<s n="n"/></r></p></e> <!-- (animal) -->
+    <e><p><l>sendibréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e> <!-- (written message) -->
+    <!--<e><p><l>sendibréf<s n="n"/><s n="nt"/></l><r>epistle<s n="n"/></r></p></e>-->
+    <e><p><l>sendiferð<s n="n"/><s n="f"/></l><r>errand<s n="n"/></r></p></e>
+    <!--<e><p><l>sendiráð<s n="n"/><s n="nt"/></l><r>diplomatic<b/>mission<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sendiráð<s n="n"/><s n="nt"/></l><r>legation<s n="n"/></r></p></e>-->
+    <e><p><l>sendiráð<s n="n"/><s n="nt"/></l><r>embassy<s n="n"/></r></p></e>
+    <e><p><l>september<s n="n"/><s n="nt"/></l><r>September<s n="n"/></r></p></e>
+    <e><p><l>serín<s n="n"/><s n="nt"/></l><r>cerium<s n="n"/></r></p></e> <!-- (chemical element) -->
+    <e><p><l>sesín<s n="n"/><s n="nt"/></l><r>caesium<s n="n"/></r></p></e> <!-- (a metallic chemical element) -->
+    <e><p><l>seyði<s n="n"/><s n="nt"/></l><r>broth<s n="n"/></r></p></e>
+    <e><p><l>seðill<s n="n"/><s n="m"/></l><r>banknote<s n="n"/></r></p></e> <!-- (piece of paper money)  -->
+    <!-- <e><p><l>seðill<s n="n"/><s n="m"/></l><r>bill<s n="n"/></r></p></e> --> <!-- (piece of paper money)  -->
+    <e><p><l>sifjar<s n="n"/><s n="f"/></l><r>relations<s n="n"/></r></p></e>
+    <e><p><l>sifjaspell<s n="n"/><s n="nt"/></l><r>incest<s n="n"/></r></p></e>
+    <e><p><l>sig<s n="n"/><s n="nt"/></l><r>subsidence<s n="n"/></r></p></e>
+    <e><p><l>sigla<s n="n"/><s n="f"/></l><r>mast<s n="n"/></r></p></e>
+    <!--<e><p><l>sigla<s n="v"/><s n="f"/></l><r>sail<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>sigur<s n="n"/><s n="m"/></l><r>win<s n="n"/></r></p></e>-->
+    <e><p><l>sigur<s n="n"/><s n="m"/></l><r>victory<s n="n"/></r></p></e>
+    <e><p><l>silfur<s n="n"/><s n="nt"/></l><r>silver<s n="n"/></r></p></e>
+    <!-- <e><p><l>silfurlitaður<s n="adj"/><s n="m"/></l><r>silver<s n="adj"/></r></p></e> --> <!-- adjective -->
+    <!--<e><p><l>silkiormur<s n="n"/><s n="m"/></l><r>Bombyx<b/>mori<s n="n"/></r></p></e>-->
+    <e><p><l>silkiormur<s n="n"/><s n="m"/></l><r>silkworm<s n="n"/></r></p></e>
+    <e><p><l>sin<s n="n"/><s n="f"/></l><r>sinew<s n="n"/></r></p></e>
+    <!--<e><p><l>sin<s n="n"/><s n="f"/></l><r>tendon<s n="n"/></r></p></e>-->
+    <e><p><l>sina<s n="n"/><s n="f"/></l><r>withered<b/>grass<s n="n"/></r></p></e>
+    <e><p><l>sinfóníuhljómsveit<s n="n"/><s n="f"/></l><r>symphony<b/>orchestra<s n="n"/></r></p></e>
+    <e><p><l>sink<s n="n"/><s n="nt"/></l><r>zinc<s n="n"/></r></p></e> <!-- (element) -->
+    <!--<e><p><l>sinn<s n="n"/><s n="nt"/></l><r>time<s n="n"/></r></p></e>--> <!-- only as part of a multiword? e.g. í þetta sinn -->
+    <!--<e><p><l>sinni<s n="n"/><s n="nt"/></l><r>disposition<s n="n"/></r></p></e>-->
+    <e><p><l>sinni<s n="n"/><s n="nt"/></l><r>mindset<s n="n"/></r></p></e>
+    <!--<e><p><l>sinni<s n="n"/><s n="nt"/></l><r>opinion<s n="n"/></r></p></e>-->
+    <e><p><l>sippuband<s n="n"/><s n="nt"/></l><r>jump<b/>rope<s n="n"/></r></p></e>
+    <!--<e><p><l>sippuband<s n="n"/><s n="nt"/></l><r>skipping<b/>rope<s n="n"/></r></p></e>-->
+    <e><p><l>sirkon<s n="n"/><s n="nt"/></l><r>zirconium<s n="n"/></r></p></e>
+    <e><p><l>sitjandi<s n="n"/><s n="m"/></l><r>behind<s n="n"/></r></p></e>
+    <!--<e><p><l>sitjandi<s n="n"/><s n="m"/></l><r>bottom<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sitjandi<s n="n"/><s n="m"/></l><r>buttocks<s n="n"/></r></p></e>-->
+    <e><p><l>siðfræði<s n="n"/><s n="f"/></l><r>ethics<s n="n"/></r></p></e>
+    <e><p><l>siður<s n="n"/><s n="m"/></l><r>custom<s n="n"/></r></p></e>
+    <!--<e><p><l>siður<s n="n"/><s n="m"/></l><r>tradition<s n="n"/></r></p></e>-->
+    <e><p><l>siðvenja<s n="n"/><s n="f"/></l><r>convention<s n="n"/></r></p></e>
+    <!--<e><p><l>siðvenja<s n="n"/><s n="f"/></l><r>custom<s n="n"/></r></p></e>-->
+    <e><p><l>sjálfsfróun<s n="n"/><s n="f"/></l><r>masturbation<s n="n"/></r></p></e>
+    <e><p><l>sjálfsmorð<s n="n"/><s n="nt"/></l><r>suicide<s n="n"/></r></p></e>
+    <e><p><l>sjálfstæði<s n="n"/><s n="nt"/></l><r>independence<s n="n"/></r></p></e>
+    <e><p><l>sjávarmál<s n="n"/><s n="nt"/></l><r>sea<b/>level<s n="n"/></r></p></e>
+    <e><p><l>sjóari<s n="n"/><s n="m"/></l><r>old<b/>salt<s n="n"/></r></p></e> <!-- (sailor) -->
+    <!--<e><p><l>sjóari<s n="n"/><s n="m"/></l><r>shellback<s n="n"/></r></p></e> -->
+    <!--<e><p><l>sjóari<s n="n"/><s n="m"/></l><r>sailor<s n="n"/></r></p></e>-->
+    <e><p><l>sjóher<s n="n"/><s n="m"/></l><r>navy<s n="n"/></r></p></e> <!-- (sea force) -->
+    <e><p><l>sjón<s n="n"/><s n="f"/></l><r>eyesight<s n="n"/></r></p></e>
+    <!--<e><p><l>sjón<s n="n"/><s n="f"/></l><r>visual<b/>perception<s n="n"/></r></p></e>-->
+    <e><p><l>sjónarhorn<s n="n"/><s n="nt"/></l><r>angle<s n="n"/></r></p></e>
+    <!--<e><p><l>sjónarhorn<s n="n"/><s n="nt"/></l><r>viewpoint<s n="n"/></r></p></e>-->
+    <e><p><l>sjónarmið<s n="n"/><s n="nt"/></l><r>point<b/>of<b/>view<s n="n"/></r></p></e>
+    <e><p><l>sjónfræði<s n="n"/><s n="f"/></l><r>optics<s n="n"/></r></p></e> <!-- (physics of light and vision) -->
+    <!--<e><p><l>sjónvarp<s n="n"/><s n="nt"/></l><r>TV<s n="n"/></r></p></e>-->
+    <e><p><l>sjónvarp<s n="n"/><s n="nt"/></l><r>television<s n="n"/></r></p></e>
+    <e><p><l>sjónvarpstæki<s n="n"/><s n="nt"/></l><r>television<b/>set<s n="n"/></r></p></e>
+    <e><p><l>sjór<s n="n"/><s n="m"/></l><r>ocean<s n="n"/></r></p></e>
+    <e><p><l>sjóræningi<s n="n"/><s n="m"/></l><r>pirate<s n="n"/></r></p></e> <!-- (plunderer at sea) -->
+    <e><p><l>sjóveiki<s n="n"/><s n="f"/></l><r>seasickness<s n="n"/></r></p></e> <!-- (a feeling of nausea caused by the motion of a ship) -->
+    <e><p><l>sjúkdómur<s n="n"/><s n="m"/></l><r>disease<s n="n"/></r></p></e>
+    <!--<e><p><l>sjúkdómur<s n="n"/><s n="m"/></l><r>illness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sjúkdómur<s n="n"/><s n="m"/></l><r>malady<s n="n"/></r></p></e>-->
+    <e><p><l>sjúklegt<b/>ástand<s n="n"/><s n="nt"/></l><r>pathological<b/>situation<s n="n"/></r></p></e> <!-- (an abnormality) -->
+    <e><p><l>sjúklingur<s n="n"/><s n="m"/></l><r>patient<s n="n"/></r></p></e>
+    <!--<e><p><l>sjúklingur<s n="n"/><s n="m"/></l><r>sick<b/>person<s n="n"/></r></p></e>-->
+    <e><p><l>sjúkrabifreið<s n="n"/><s n="f"/></l><r>ambulance<s n="n"/></r></p></e> <!-- (emergency vehicle) -->
+    <e><p><l>sjúkrabíll<s n="n"/><s n="m"/></l><r>ambulance<s n="n"/></r></p></e>
+    <e><p><l>sjúkrahús<s n="n"/><s n="nt"/></l><r>hospital<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
