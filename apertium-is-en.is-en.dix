@@ -3272,6 +3272,189 @@
     
     <e><p><l>q<s n="n"/><s n="nt"/></l><r>q<s n="n"/></r></p></e>
     
+    <e><p><l>r<s n="n"/><s n="nt"/></l><r>r<s n="n"/></r></p></e>
+    <!--<e><p><l>rabb<s n="n"/><s n="nt"/></l><r>chit-chat<s n="n"/></r></p></e>-->
+    <e><p><l>rabb<s n="n"/><s n="nt"/></l><r>small<b/>talk<s n="n"/></r></p></e>
+<!--    <e><p><l>raddblær<s n="n"/><s n="m"/></l><r>inflection<s n="n"/></r></p></e> --> <!-- (a change in pitch or tone of voice) -->
+    <e><p><l>raddblær<s n="n"/><s n="m"/></l><r>tone<b/>of<b/>voice<s n="n"/></r></p></e>
+    <e><p><l>radon<s n="n"/><s n="nt"/></l><r>radon<s n="n"/></r></p></e>
+    <e><p><l>radín<s n="n"/><s n="nt"/></l><r>radium<s n="n"/></r></p></e>
+    <e><p><l>raf<s n="n"/><s n="nt"/></l><r>amber<s n="n"/></r></p></e>
+    <e><p><l>rafeind<s n="n"/><s n="f"/></l><r>electron<s n="n"/></r></p></e>
+    <e><p><l>rafgas<s n="n"/><s n="nt"/></l><r>plasma<s n="n"/></r></p></e> <!-- (high energy state of matter) -->
+    <e><p><l>rafgeymir<s n="n"/><s n="m"/></l><r>car<b/>battery<s n="n"/></r></p></e>
+    <e><p><l>rafhlaða<s n="n"/><s n="f"/></l><r>battery<s n="n"/></r></p></e>
+    <e><p><l>rafmagn<s n="n"/><s n="nt"/></l><r>electricity<s n="n"/></r></p></e>
+    <e><p><l>rafstraumur<s n="n"/><s n="m"/></l><r>electric<b/>current<s n="n"/></r></p></e>
+    <e><p><l>raki<s n="n"/><s n="m"/></l><r>moisture<s n="n"/></r></p></e>
+    <e><p><l>rakki<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
+    <e><p><l>rampur<s n="n"/><s n="m"/></l><r>ramp<s n="n"/></r></p></e> <!-- (inclined surface) -->
+    <e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>research<s n="n"/></r></p></e>
+    <e><p><l>rass<s n="n"/><s n="m"/></l><r>ass<s n="n"/></r></p></e> <!-- (UK) arse, rump -->
+    <!--<e><p><l>rasskinn<s n="n"/><s n="f"/></l><r>buttcheek<s n="n"/></r></p></e>-->
+    <e><p><l>rasskinn<s n="n"/><s n="f"/></l><r>buttock<s n="n"/></r></p></e>
+    <e><p><l>raun<s n="n"/><s n="f"/></l><r>ordeal<s n="n"/></r></p></e>
+    <!--<e><p><l>raun<s n="n"/><s n="f"/></l><r>trial<s n="n"/></r></p></e>-->
+    <!--<e><p><l>raun<s n="n"/><s n="f"/></l><r>truth<s n="n"/></r></p></e>-->
+    <e><p><l>rauðkorn<s n="n"/><s n="nt"/></l><r>red<b/>blood<b/>cell<s n="n"/></r></p></e>
+    <e><p><l>rauðrefur<s n="n"/><s n="m"/></l><r>red<b/>fox<s n="n"/></r></p></e>
+    <e><p><l>rauðvín<s n="n"/><s n="nt"/></l><r>red<b/>wine<s n="n"/></r></p></e>
+    <e><p><l>refur<s n="n"/><s n="m"/></l><r>fox<s n="n"/></r></p></e>
+    <!--<e><p><l>regla<s n="n"/><s n="f"/></l><r>order<s n="n"/></r></p></e> -->
+    <e><p><l>regla<s n="n"/><s n="f"/></l><r>rule<s n="n"/></r></p></e>
+    <e><p><l>regn<s n="n"/><s n="nt"/></l><r>rain<s n="n"/></r></p></e>
+    <e><p><l>regnbogi<s n="n"/><s n="m"/></l><r>rainbow<s n="n"/></r></p></e>
+    <e><p><l>regnhlíf<s n="n"/><s n="f"/></l><r>umbrella<s n="n"/></r></p></e>
+    <e><p><l>reikistjarna<s n="n"/><s n="f"/></l><r>planet<s n="n"/></r></p></e> <!-- (rocky or gaseous spherical bodies orbiting the Sun) -->
+    <e><p><l>reikningur<s n="n"/><s n="m"/></l><r>bill<s n="n"/></r></p></e>
+    <!--<e><p><l>reikningur<s n="n"/><s n="m"/></l><r>invoice<s n="n"/></r></p></e>-->
+    <!--<e><p><l>reikningur<s n="n"/><s n="m"/></l><r>receipt<s n="n"/></r></p></e>-->
+    <e><p><l>reiknirit<s n="n"/><s n="nt"/></l><r>algorithm<s n="n"/></r></p></e> <!-- (well-defined procedure) -->
+    <e><p><l>reiknivél<s n="n"/><s n="f"/></l><r>calculator<s n="n"/></r></p></e> <!-- (electronic) -->
+    <e><p><l>reim<s n="n"/><s n="f"/></l><r>shoelace<s n="n"/></r></p></e> <!-- short for skóreim -->
+    <!--<e><p><l>reim<s n="n"/><s n="f"/></l><r>belt<s n="n"/></r></p></e>-->
+    <!--<e><p><l>reim<s n="n"/><s n="f"/></l><r>strap<s n="n"/></r></p></e>-->
+    <e><p><l>reipi<s n="n"/><s n="nt"/></l><r>rope<s n="n"/></r></p></e>
+    <e><p><l>reisa<s n="n"/><s n="f"/></l><r>trip<s n="n"/></r></p></e>
+    <e><p><l>reið<s n="n"/><s n="f"/></l><r>ride<s n="n"/></r></p></e>
+    <e><p><l>reiðhjól<s n="n"/><s n="nt"/></l><r>bicycle<s n="n"/></r></p></e>
+    <!--<e><p><l>reiði<s n="n"/><s n="f"/></l><r>rage<s n="n"/></r></p></e>-->
+    <e><p><l>reiði<s n="n"/><s n="f"/></l><r>anger<s n="n"/></r></p></e>
+    <e><p><l>reiðtúr<s n="n"/><s n="m"/></l><r>riding<b/>tour<s n="n"/></r></p></e>
+    <e><p><l>reiðufé<s n="n"/><s n="nt"/></l><r>cash<s n="n"/></r></p></e>
+    <e><p><l>reka<s n="n"/><s n="f"/></l><r>shovel<s n="n"/></r></p></e>
+    <!--<e><p><l>reka<s n="n"/><s n="f"/></l><r>spade<s n="n"/></r></p></e>-->
+    <e><p><l>rekaviður<s n="n"/><s n="m"/></l><r>driftwood<s n="n"/></r></p></e>
+    <e><p><l>reki<s n="n"/><s n="m"/></l><r>flotsam<s n="n"/></r></p></e>
+    <e><p><l>rekkja<s n="n"/><s n="f"/></l><r>bed<s n="n"/></r></p></e>
+    <e><p><l>rekstur<s n="n"/><s n="m"/></l><r>management<s n="n"/></r></p></e>
+    <!--<e><p><l>renna<s n="n"/><s n="f"/></l><r>channel<s n="n"/></r></p></e>-->
+    <e><p><l>renna<s n="n"/><s n="f"/></l><r>duct<s n="n"/></r></p></e>
+    <!--<e><p><l>renna<s n="n"/><s n="f"/></l><r>drain<s n="n"/></r></p></e>-->
+    <e><p><l>rennibekkur<s n="n"/><s n="m"/></l><r>lathe<s n="n"/></r></p></e>
+    <!--<e><p><l>rennilás<s n="n"/><s n="m"/></l><r>zip<b/>fastener<s n="n"/></r></p></e>-->
+    <e><p><l>rennilás<s n="n"/><s n="m"/></l><r>zipper<s n="n"/></r></p></e>
+    <e><p><l>renta<s n="n"/><s n="f"/></l><r>interest<s n="n"/></r></p></e>
+    <e><p><l>renín<s n="n"/><s n="nt"/></l><r>rhenium<s n="n"/></r></p></e>
+    <e><p><l>reykur<s n="n"/><s n="m"/></l><r>smoke<s n="n"/></r></p></e>
+    <!--<e><p><l>reynd<s n="n"/><s n="f"/></l><r>experience<s n="n"/></r></p></e>-->
+    <e><p><l>reynd<s n="n"/><s n="f"/></l><r>praxis<s n="n"/></r></p></e>
+    <!--<e><p><l>reynsla<s n="n"/><s n="f"/></l><r>background<s n="n"/></r></p></e>-->
+    <e><p><l>reynsla<s n="n"/><s n="f"/></l><r>experience<s n="n"/></r></p></e>
+    <e><p><l>riddari<s n="n"/><s n="m"/></l><r>knight<s n="n"/></r></p></e>
+    <!--<e><p><l>rif<s n="n"/><s n="nt"/></l><r>reef<s n="n"/></r></p></e>-->
+    <e><p><l>rif<s n="n"/><s n="nt"/></l><r>rib<s n="n"/></r></p></e>
+    <e><p><l>riffill<s n="n"/><s n="m"/></l><r>rifle<s n="n"/></r></p></e>
+    <e><p><l>rigning<s n="n"/><s n="f"/></l><r>rain<s n="n"/></r></p></e>
+    <e><p><l>risaeðla<s n="n"/><s n="f"/></l><r>dinosaur<s n="n"/></r></p></e>
+    <!--<e><p><l>risna<s n="n"/><s n="f"/></l><r>allowance<s n="n"/></r></p></e>-->
+    <e><p><l>risna<s n="n"/><s n="f"/></l><r>expenses<s n="n"/></r></p></e>
+    <!--<e><p><l>ristill<s n="n"/><s n="m"/></l><r>large<b/>intestine<s n="n"/></r></p></e>-->
+    <e><p><l>ristill<s n="n"/><s n="m"/></l><r>colon<s n="n"/></r></p></e>
+    <!--<e><p><l>rit<s n="n"/><s n="nt"/></l><r>writ<s n="n"/></r></p></e>-->
+    <!--<e><p><l>rit<s n="n"/><s n="nt"/></l><r>writing<s n="n"/></r></p></e>-->
+    <e><p><l>rit<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
+    <!--<e><p><l>rit<s n="n"/><s n="nt"/></l><r>publication<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ritari<s n="n"/><s n="m"/></l><r>clerk<s n="n"/></r></p></e>-->
+    <e><p><l>ritari<s n="n"/><s n="m"/></l><r>secretary<s n="n"/></r></p></e>
+    <e><p><l>ritgerð<s n="n"/><s n="f"/></l><r>essay<s n="n"/></r></p></e>
+    <e><p><l>rithöfundur<s n="n"/><s n="m"/></l><r>author<s n="n"/></r></p></e>
+    <e><p><l>rittáknakerfi<s n="n"/><s n="nt"/></l><r>alphabet<s n="n"/></r></p></e> <!-- (an ordered set of letters used in a language) -->
+    <e><p><l>rjómaís<s n="n"/><s n="m"/></l><r>ice<b/>cream<s n="n"/></r></p></e>
+    <e><p><l>rjómi<s n="n"/><s n="m"/></l><r>cream<s n="n"/></r></p></e>
+    <e><p><l>rjúpa<s n="n"/><s n="f"/></l><r>ptarmigan<s n="n"/></r></p></e>
+    <e><p><l>rof<s n="n"/><s n="nt"/></l><r>erosion<s n="n"/></r></p></e>
+    <!--<e><p><l>rok<s n="n"/><s n="nt"/></l><r>storm<s n="n"/></r></p></e>-->
+    <e><p><l>rok<s n="n"/><s n="nt"/></l><r>very<b/>strong<b/>wind<s n="n"/></r></p></e>
+    <!--<e><p><l>rok<s n="n"/><s n="nt"/></l><r>whole<b/>gale<s n="n"/></r></p></e>-->
+    <e><p><l>rokk<s n="n"/><s n="nt"/></l><r>rock<s n="n"/></r></p></e> <!-- (music genre) -->
+    <!--<e><p><l>rokk<s n="n"/><s n="nt"/></l><r>rock<b/>music<s n="n"/></r></p></e>-->
+    <e><p><l>rokkur<s n="n"/><s n="m"/></l><r>spinning<b/>wheel<s n="n"/></r></p></e> <!-- (device for spinning thread with a wheel and a spindle) -->
+    <e><p><l>rostungur<s n="n"/><s n="m"/></l><r>walrus<s n="n"/></r></p></e>
+    <e><p><l>rotta<s n="n"/><s n="f"/></l><r>rat<s n="n"/></r></p></e>
+    <e><p><l>roðasteinn<s n="n"/><s n="m"/></l><r>ruby<s n="n"/></r></p></e>
+    <e><p><l>runa<s n="n"/><s n="f"/></l><r>sequence<s n="n"/></r></p></e>
+    <e><p><l>rusl<s n="n"/><s n="nt"/></l><r>trash<s n="n"/></r></p></e>
+    <e><p><l>rutherfordín<s n="n"/><s n="nt"/></l><r>rutherfordium<s n="n"/></r></p></e>
+    <e><p><l>ryk<s n="n"/><s n="nt"/></l><r>dust<s n="n"/></r></p></e>
+    <e><p><l>ryð<s n="n"/><s n="nt"/></l><r>rust<s n="n"/></r></p></e>
+    <e><p><l>ryðfrítt<b/>stál<s n="n"/><s n="nt"/></l><r>stainless<b/>steel<s n="n"/></r></p></e>
+    <e><p><l>rán<s n="n"/><s n="nt"/></l><r>robbery<s n="n"/></r></p></e>
+    <!--<e><p><l>rándýr<s n="n"/><s n="nt"/></l><r>Carnivora<s n="n"/></r></p></e> --> <!-- Latin -->
+    <e><p><l>rándýr<s n="n"/><s n="nt"/></l><r>carnivore<s n="n"/></r></p></e>
+    <!--<e><p><l>rándýr<s n="adj"/><s n="nt"/></l><r>extremely<b/>expensive<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>rás<s n="n"/><s n="f"/></l><r>channel<s n="n"/></r></p></e>
+    <e><p><l>ráð<s n="n"/><s n="nt"/></l><r>advice<s n="n"/></r></p></e>
+    <!--<e><p><l>ráð<s n="n"/><s n="nt"/></l><r>plan<s n="n"/></r></p></e>-->
+    <e><p><l>ráðherra<s n="n"/><s n="m"/></l><r>minister<s n="n"/></r></p></e>
+    <!--<e><p><l>ráðhús<s n="n"/><s n="nt"/></l><r>city<b/>hall<s n="n"/></r></p></e>-->
+    <e><p><l>ráðhús<s n="n"/><s n="nt"/></l><r>town<b/>hall<s n="n"/></r></p></e>
+    <!--<e><p><l>ráðhús<s n="n"/><s n="nt"/></l><r>village<b/>hall<s n="n"/></r></p></e>-->
+    <e><p><l>rækja<s n="n"/><s n="f"/></l><r>shrimp<s n="n"/></r></p></e>
+    <!--<e><p><l>rækt<s n="n"/><s n="f"/></l><r>attention<s n="n"/></r></p></e>-->
+    <!--<e><p><l>rækt<s n="n"/><s n="f"/></l><r>care<s n="n"/></r></p></e>-->
+    <e><p><l>rækt<s n="n"/><s n="f"/></l><r>cultivation<s n="n"/></r></p></e>
+    <!--<e><p><l>rækt<s n="n"/><s n="f"/></l><r>gym<s n="n"/></r></p></e>--> <!-- short for líkamsrækt -->
+    <!--<e><p><l>ræna<s n="n"/><s n="f"/></l><r>pillage<s n="n"/></r></p></e>-->
+    <e><p><l>ræna<s n="n"/><s n="f"/></l><r>rob<s n="n"/></r></p></e>
+    <e><p><l>ræpa<s n="n"/><s n="f"/></l><r>diarrhea<s n="n"/></r></p></e>
+    <e><p><l>ræða<s n="n"/><s n="f"/></l><r>speech<s n="n"/></r></p></e>
+    <e><p><l>ræðari<s n="n"/><s n="m"/></l><r>rower<s n="n"/></r></p></e>
+    <e><p><l>ræðismannsbústaður<s n="n"/><s n="m"/></l><r>consulate<s n="n"/></r></p></e>
+    <e><p><l>ræðismaður<s n="n"/><s n="m"/></l><r>consul<s n="n"/></r></p></e>
+    <!--<e><p><l>rétta<s n="v"/><s n="f"/></l><r>adjust<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>réttindi<s n="n"/><s n="nt"/></l><r>rights<s n="n"/></r></p></e>
+    <e><p><l>réttur<s n="n"/><s n="m"/></l><r>course<s n="n"/></r></p></e> <!-- (dinner course) -->
+    <!--<e><p><l>réttur<s n="n"/><s n="m"/></l><r>dish<s n="n"/></r></p></e>-->
+    <!--<e><p><l>réttur<s n="n"/><s n="m"/></l><r>right<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ríki<s n="n"/><s n="nt"/></l><r>kingdom<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ríki<s n="n"/><s n="nt"/></l><r>sovereign<b/>state<s n="n"/></r></p></e>-->
+    <e><p><l>ríki<s n="n"/><s n="nt"/></l><r>state<s n="n"/></r></p></e>
+    <e><p><l>ríkisborgari<s n="n"/><s n="m"/></l><r>national<b/>citizen<s n="n"/></r></p></e>
+    <e><p><l>ríkisfang<s n="n"/><s n="nt"/></l><r>citizenship<s n="n"/></r></p></e> <!-- (legally recognized membership in a state) -->
+    <!--<e><p><l>ríkisstjórn<s n="n"/><s n="f"/></l><r>cabinet<s n="n"/></r></p></e>-->
+    <e><p><l>ríkisstjórn<s n="n"/><s n="f"/></l><r>government<s n="n"/></r></p></e>
+    <!--<e><p><l>ríkja<s n="v"/><s n="f"/></l><r>prevail<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>ríkja<s n="v"/><s n="f"/></l><r>reign<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>ríkja<s n="v"/><s n="f"/></l><r>rule<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>rím<s n="n"/><s n="nt"/></l><r>rhyme<s n="n"/></r></p></e>
+    <!--<e><p><l>ró<s n="n"/><s n="f"/></l><r>calm<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ró<s n="n"/><s n="f"/></l><r>rest<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ró<s n="n"/><s n="f"/></l><r>tranquility<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ró<s n="n"/><s n="f"/></l><r>peace<s n="n"/></r></p></e>-->
+    <e><p><l>ró<s n="n"/><s n="f"/></l><r>quiet<s n="n"/></r></p></e>
+    <e><p><l>ródín<s n="n"/><s n="nt"/></l><r>rhodium<s n="n"/></r></p></e>
+    <e><p><l>rómur<s n="n"/><s n="m"/></l><r>voice<s n="n"/></r></p></e>
+    <e><p><l>rós<s n="n"/><s n="f"/></l><r>rose<s n="n"/></r></p></e>
+    <e><p><l>rósakál<s n="n"/><s n="nt"/></l><r>Brussel<b/>sprout<s n="n"/></r></p></e>
+    <e><p><l>rósmarín<s n="n"/><s n="nt"/></l><r>rosemary<s n="n"/></r></p></e>
+    <e><p><l>rót<s n="n"/><s n="f"/></l><r>root<s n="n"/></r></p></e>
+    <e><p><l>róteind<s n="n"/><s n="f"/></l><r>proton<s n="n"/></r></p></e>
+    <e><p><l>rödd<s n="n"/><s n="f"/></l><r>voice<s n="n"/></r></p></e>
+    <e><p><l>rökfræði<s n="n"/><s n="f"/></l><r>logic<s n="n"/></r></p></e>
+    <e><p><l>rökkur<s n="n"/><s n="nt"/></l><r>twilight<s n="n"/></r></p></e>
+    <e><p><l>röntgen<s n="n"/><s n="nt"/></l><r>x-ray<s n="n"/></r></p></e>
+    <e><p><l>röð<s n="n"/><s n="f"/></l><r>row<s n="n"/></r></p></e>
+    <!--<e><p><l>röð<s n="n"/><s n="f"/></l><r>series<s n="n"/></r></p></e>-->
+    <!--<e><p><l>röð<s n="n"/><s n="f"/></l><r>queue<s n="n"/></r></p></e>-->
+    <e><p><l>röðun<s n="n"/><s n="f"/></l><r>ordering<s n="n"/></r></p></e>
+    <!--<e><p><l>röðun<s n="n"/><s n="f"/></l><r>sorting<s n="n"/></r></p></e>-->
+    <e><p><l>rúbidín<s n="n"/><s n="nt"/></l><r>rubidium<s n="n"/></r></p></e> <!-- (element with atomic number 37) -->
+    <e><p><l>rúbín<s n="n"/><s n="m"/></l><r>ruby<s n="n"/></r></p></e>
+    <e><p><l>rúgur<s n="n"/><s n="m"/></l><r>rye<s n="n"/></r></p></e> <!-- (Secale cereale) -->
+    <e><p><l>rúm<s n="n"/><s n="nt"/></l><r>bed<s n="n"/></r></p></e>
+    <!--<e><p><l>rúm<s n="n"/><s n="nt"/></l><r>room<s n="n"/></r></p></e>-->
+    <!--<e><p><l>rúm<s n="n"/><s n="nt"/></l><r>space<s n="n"/></r></p></e>-->
+    <e><p><l>rúmfræði<s n="n"/><s n="f"/></l><r>geometry<s n="n"/></r></p></e>
+    <e><p><l>rúmföt<s n="n"/><s n="nt"/></l><r>bedsheets<s n="n"/></r></p></e>
+    <e><p><l>rúmteppi<s n="n"/><s n="nt"/></l><r>blanket<s n="n"/></r></p></e>
+    <e><p><l>rún<s n="n"/><s n="f"/></l><r>rune<s n="n"/></r></p></e>
+    <e><p><l>rússneska<s n="n"/><s n="f"/></l><r>Russian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>rúta<s n="n"/><s n="f"/></l><r>bus<s n="n"/></r></p></e>
+    <!--<e><p><l>rúta<s n="n"/><s n="f"/></l><r>coach<s n="n"/></r></p></e>-->
+    <e><p><l>rúða<s n="n"/><s n="f"/></l><r>windowpane<s n="n"/></r></p></e>
+    <e><p><l>rýtingur<s n="n"/><s n="m"/></l><r>dagger<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
