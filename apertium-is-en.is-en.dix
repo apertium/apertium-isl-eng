@@ -4332,7 +4332,59 @@
     <e><p><l>túr<s n="n"/><s n="m"/></l><r>trip<s n="n"/></r></p></e>
     <!--<e><p><l>túr<s n="n"/><s n="m"/></l><r>short<b/>journey<s n="n"/></r></p></e>-->
     <e><p><l>túrismi<s n="n"/><s n="m"/></l><r>tourism<s n="n"/></r></p></e>
-
+    
+    
+    <e><p><l>u<s n="n"/><s n="nt"/></l><r>u<s n="n"/></r></p></e>
+    <e><p><l>uggi<s n="n"/><s n="m"/></l><r>fin<s n="n"/></r></p></e>
+    <e><p><l>ull<s n="n"/><s n="f"/></l><r>wool<s n="n"/></r></p></e>
+    <e><p><l>umboðsmaður<s n="n"/><s n="m"/></l><r>agent<s n="n"/></r></p></e>
+    <!--<e><p><l>umbúðir<s n="n"/><s n="f"/></l><r>bandage<s n="n"/></r></p></e>--> <!-- short for sáraumbúðir -->
+    <e><p><l>umbúðir<s n="n"/><s n="f"/></l><r>packaging<s n="n"/></r></p></e>
+    <!--<e><p><l>umbúðir<s n="n"/><s n="f"/></l><r>wrapping<s n="n"/></r></p></e>-->
+    <e><p><l>umferð<s n="n"/><s n="f"/></l><r>traffic<s n="n"/></r></p></e>
+    <e><p><l>umferðaljós<s n="n"/><s n="nt"/></l><r>traffic<b/>light<s n="n"/></r></p></e>
+    <e><p><l>umferðamiðstöð<s n="n"/><s n="f"/></l><r>bus<b/>terminal<s n="n"/></r></p></e>
+    <e><p><l>umfrymi<s n="n"/><s n="nt"/></l><r>ectoplasm<s n="n"/></r></p></e>
+    <e><p><l>umhverfi<s n="n"/><s n="nt"/></l><r>environment<s n="n"/></r></p></e>
+    <e><p><l>ummál<s n="n"/><s n="nt"/></l><r>circumference<s n="n"/></r></p></e>
+    <e><p><l>umráð<s n="n"/><s n="nt"/></l><r>disposal<s n="n"/></r></p></e>
+    <!--<e><p><l>umræða<s n="n"/><s n="f"/></l><r>debate<s n="n"/></r></p></e>-->
+    <e><p><l>umræða<s n="n"/><s n="f"/></l><r>discussion<s n="n"/></r></p></e>
+    <!--<e><p><l>umræða<s n="n"/><s n="f"/></l><r>talk<s n="n"/></r></p></e>-->
+    <!--<e><p><l>umsjá<s n="n"/><s n="f"/></l><r>charge<s n="n"/></r></p></e>-->
+    <e><p><l>umsjá<s n="n"/><s n="f"/></l><r>custody<s n="n"/></r></p></e>
+    <!--<e><p><l>umsjón<s n="n"/><s n="f"/></l><r>care<s n="n"/></r></p></e>-->
+    <e><p><l>umsjón<s n="n"/><s n="f"/></l><r>supervision<s n="n"/></r></p></e>
+    <e><p><l>undanrenna<s n="n"/><s n="f"/></l><r>skim<b/>milk<s n="n"/></r></p></e>
+    <!--<e><p><l>undanrenna<s n="n"/><s n="f"/></l><r>skimmed<b/>milk<s n="n"/></r></p></e>-->
+    <!--<e><p><l>undanrenna<s n="n"/><s n="f"/></l><r>wholly<b/>skimmed<b/>milk<s n="n"/></r></p></e>-->
+    <e><p><l>undirheiti<s n="n"/><s n="nt"/></l><r>hyponym<s n="n"/></r></p></e>
+    <e><p><l>ungfrú<s n="n"/><s n="f"/></l><r>miss<s n="n"/></r></p></e> <!-- (young lady) -->
+    <e><p><l>unglingur<s n="n"/><s n="m"/></l><r>teenager<s n="n"/></r></p></e>
+    <!--<e><p><l>unglingur<s n="n"/><s n="m"/></l><r>youth<s n="n"/></r></p></e>-->
+    <e><p><l>unnur<s n="n"/><s n="m"/></l><r>wave<s n="n"/></r></p></e>
+    <e><p><l>unnusta<s n="n"/><s n="f"/></l><r>fiancée<s n="n"/></r></p></e>
+    <e><p><l>unnusti<s n="n"/><s n="m"/></l><r>fiancé<s n="n"/></r></p></e>
+    <e><p><l>uppeldi<s n="n"/><s n="nt"/></l><r>upbringing<s n="n"/></r></p></e>
+    <e><p><l>uppeldisfræði<s n="n"/><s n="f"/></l><r>pedagogy<s n="n"/></r></p></e>
+    <e><p><l>uppgerð<s n="n"/><s n="f"/></l><r>hypocrisy<s n="n"/></r></p></e>
+    <e><p><l>uppgerðarhryggð<s n="n"/><s n="f"/></l><r>crocodile<b/>tears<s n="n"/></r></p></e>
+    <e><p><l>upphaf<s n="n"/><s n="nt"/></l><r>beginning<s n="n"/></r></p></e>
+    <e><p><l>upphrópun<s n="n"/><s n="f"/></l><r>interjection<s n="n"/></r></p></e> <!-- (an exclamation or filled pause in grammar) -->
+    <e><p><l>upphrópunarmerki<s n="n"/><s n="nt"/></l><r>exclamation<b/>mark<s n="n"/></r></p></e>
+    <e><p><l>upphæð<s n="n"/><s n="f"/></l><r>sum<s n="n"/></r></p></e> <!-- of money -->
+    <!--<e><p><l>upphæð<s n="n"/><s n="f"/></l><r>amount<s n="n"/></r></p></e>-->
+    <e><p><l>uppistöðuefni<s n="n"/><s n="nt"/></l><r>matrix<s n="n"/></r></p></e> <!-- (medium in which bacteria are cultured) -->
+    <e><p><l>upplýsing<s n="n"/><s n="f"/></l><r>information<s n="n"/></r></p></e>
+    <e><p><l>upplýsingamiðstöð<s n="n"/><s n="f"/></l><r>information<b/>center<s n="n"/></r></p></e>
+    <e><p><l>uppreisn<s n="n"/><s n="f"/></l><r>rebellion<s n="n"/></r></p></e>
+    <!--<e><p><l>uppruni<s n="n"/><s n="m"/></l><r>origin<s n="n"/></r></p></e>-->
+    <e><p><l>uppruni<s n="n"/><s n="m"/></l><r>source<s n="n"/></r></p></e>
+    <e><p><l>upptökustjóri<s n="n"/><s n="m"/></l><r>record<b/>producer<s n="n"/></r></p></e>
+    <e><p><l>uppvakningur<s n="n"/><s n="m"/></l><r>zombie<s n="n"/></r></p></e> <!-- (the undead) -->
+    <e><p><l>utanríkisráðherra<s n="n"/><s n="m"/></l><r>Foreign<b/>Minister<s n="n"/></r></p></e>
+    <e><p><l>uxi<s n="n"/><s n="m"/></l><r>ox<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
