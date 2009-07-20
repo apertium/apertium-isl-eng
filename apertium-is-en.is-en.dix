@@ -163,6 +163,13 @@
     <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>skip<s n="n"/><s n="nt"/></l><r>ship<s n="n"/></r></p></e>
     
+    <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
+    <e><p><l>skuld<s n="n"/><s n="f"/></l><r>debt<s n="n"/></r></p></e>
+    <e><p><l>slys<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e>
+    <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
+    <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
+    <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
+    
     
     <!-- Nouns in alphabetical order from bla.xml after manual checking-->
     <e><p><l>abbadís<s n="n"/><s n="f"/></l><r>abbess<s n="n"/></r></p></e>
@@ -4385,18 +4392,246 @@
     <e><p><l>utanríkisráðherra<s n="n"/><s n="m"/></l><r>Foreign<b/>Minister<s n="n"/></r></p></e>
     <e><p><l>uxi<s n="n"/><s n="m"/></l><r>ox<s n="n"/></r></p></e>
     
+    
+    <e><p><l>v<s n="n"/><s n="nt"/></l><r>v<s n="n"/></r></p></e>
+    <e><p><l>vagga<s n="n"/><s n="f"/></l><r>cradle<s n="n"/></r></p></e>
+    <e><p><l>vagn<s n="n"/><s n="GD"/></l><r>cart<s n="n"/></r></p></e>
+    <e><p><l>val<s n="n"/><s n="m"/></l><r>choice<s n="n"/></r></p></e>
+    <!--<e><p><l>val<s n="n"/><s n="m"/></l><r>selection<s n="n"/></r></p></e>-->
+    <e><p><l>vald<s n="n"/><s n="nt"/></l><r>authority<s n="n"/></r></p></e>
+    <!--<e><p><l>vald<s n="n"/><s n="nt"/></l><r>power<s n="n"/></r></p></e>-->
+    <e><p><l>valhnappur<s n="n"/><s n="m"/></l><r>button<s n="n"/></r></p></e> <!-- (in computer software, an on-screen control that can be selected) -->
+    <e><p><l>valur<s n="n"/><s n="m"/></l><r>falcon<s n="n"/></r></p></e>
+    <e><p><l>vampíra<s n="n"/><s n="f"/></l><r>vampire<s n="n"/></r></p></e>
+    <e><p><l>vanadín<s n="n"/><s n="nt"/></l><r>vanadium<s n="n"/></r></p></e>
+    <e><p><l>vandamál<s n="n"/><s n="nt"/></l><r>problem<s n="n"/></r></p></e>
+
+    <e><p><l>ekkert<b/>mál<s n="n"/><s n="nt"/></l><r>no<b/>problem<s n="n"/></r></p></e>
+
+    <!--<e><p><l>vandræði<s n="n"/><s n="nt"/></l><r>difficulty<s n="n"/></r></p></e>-->
+    <e><p><l>vandræði<s n="n"/><s n="nt"/></l><r>trouble<s n="n"/></r></p></e>
+    <!--<e><p><l>vandræði<s n="n"/><s n="nt"/></l><r>quandary<s n="n"/></r></p></e>-->
+    <!--<e><p><l>vara<s n="v"/><s n="f"/></l><r>continue<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>vara<s n="v"/><s n="f"/></l><r>last<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>vara<s n="n"/><s n="f"/></l><r>goods<s n="n"/></r></p></e>
+    <e><p><l>varahjól<s n="n"/><s n="nt"/></l><r>spare<b/>tire<s n="n"/></r></p></e>
+    <!--<e><p><l>varahlutur<s n="n"/><s n="m"/></l><r>replacement<b/>part<s n="n"/></r></p></e>-->
+    <e><p><l>varahlutur<s n="n"/><s n="m"/></l><r>spare<b/>part<s n="n"/></r></p></e>
+    <e><p><l>varalitur<s n="n"/><s n="m"/></l><r>lipstick<s n="n"/></r></p></e>
+    <e><p><l>varmi<s n="n"/><s n="m"/></l><r>heat<s n="n"/></r></p></e>
+    <!--<e><p><l>varmi<s n="n"/><s n="m"/></l><r>warmth<s n="n"/></r></p></e>-->
+    <e><p><l>varnarveggur<s n="n"/><s n="m"/></l><r>wall<b/>of<b/>defense<s n="n"/></r></p></e> <!-- (defending soccer players who form a line) -->
+    <e><p><l>varða<s n="n"/><s n="f"/></l><r>cairn<s n="n"/></r></p></e>
+    <e><p><l>varðskip<s n="n"/><s n="nt"/></l><r>coast<b/>guard<s n="n"/></r></p></e>
+    <!--<e><p><l>varúð<s n="n"/><s n="f"/></l><r>care<s n="n"/></r></p></e>-->
+    <e><p><l>varúð<s n="n"/><s n="f"/></l><r>caution<s n="n"/></r></p></e>
+    <e><p><l>vasi<s n="n"/><s n="m"/></l><r>pocket<s n="n"/></r></p></e>
+    <!--<e><p><l>vasi<s n="n"/><s n="m"/></l><r>vase<s n="n"/></r></p></e>-->
+    <e><p><l>vaskur<s n="n"/><s n="m"/></l><r>sink<s n="n"/></r></p></e>
+    <!--<e><p><l>vaskur<s n="n"/><s n="m"/></l><r>wash<b/>basin<s n="n"/></r></p></e>-->
+    <!--<e><p><l>vatn<s n="n"/><s n="nt"/></l><r>lake<s n="n"/></r></p></e>-->
+    <e><p><l>vatn<s n="n"/><s n="nt"/></l><r>water<s n="n"/></r></p></e>
+    <e><p><l>vax<s n="n"/><s n="nt"/></l><r>wax<s n="n"/></r></p></e>
+    <e><p><l>vefdýr<s n="n"/><s n="nt"/></l><r>metazoan<s n="n"/></r></p></e>
+    <e><p><l>vefsíða<s n="n"/><s n="f"/></l><r>web<b/>page<s n="n"/></r></p></e>
+    <e><p><l>vefur<s n="n"/><s n="m"/></l><r>web<s n="n"/></r></p></e>
+    <e><p><l>vegabréf<s n="n"/><s n="nt"/></l><r>passport<s n="n"/></r></p></e>
+    <e><p><l>vegalengd<s n="n"/><s n="f"/></l><r>distance<s n="n"/></r></p></e>
+    <e><p><l>veggjakrot<s n="n"/><s n="nt"/></l><r>graffiti<s n="n"/></r></p></e>
+    <e><p><l>veggur<s n="n"/><s n="m"/></l><r>wall<s n="n"/></r></p></e>
+    <e><p><l>vegur<s n="n"/><s n="m"/></l><r>road<s n="n"/></r></p></e>
+    <!--<e><p><l>vegur<s n="n"/><s n="m"/></l><r>way<s n="n"/></r></p></e>-->
+    <e><p><l>veifa<s n="n"/><s n="f"/></l><r>pennant<s n="n"/></r></p></e>
+    <!--<e><p><l>vein<s n="n"/><s n="nt"/></l><r>scream<s n="n"/></r></p></e>-->
+    <e><p><l>vein<s n="n"/><s n="nt"/></l><r>squall<s n="n"/></r></p></e>
+    <e><p><l>veira<s n="n"/><s n="f"/></l><r>virus<s n="n"/></r></p></e>
+    <!--<e><p><l>veisla<s n="n"/><s n="f"/></l><r>feast<s n="n"/></r></p></e>-->
+    <e><p><l>veisla<s n="n"/><s n="f"/></l><r>party<s n="n"/></r></p></e>
+    <e><p><l>veitingahús<s n="n"/><s n="nt"/></l><r>restaurant<s n="n"/></r></p></e>
+    <e><p><l>veiði<s n="n"/><s n="f"/></l><r>hunting<s n="n"/></r></p></e>
+    <!--<e><p><l>veiðistöng<s n="n"/><s n="f"/></l><r>fishing<b/>pole<s n="n"/></r></p></e>-->
+    <e><p><l>veiðistöng<s n="n"/><s n="f"/></l><r>fishing<b/>rod<s n="n"/></r></p></e>
+    <e><p><l>vekjaraklukka<s n="n"/><s n="f"/></l><r>alarm<b/>clock<s n="n"/></r></p></e>
+    <!--<e><p><l>veldi<s n="n"/><s n="nt"/></l><r>dominion<s n="n"/></r></p></e>-->
+    <!--<e><p><l>veldi<s n="n"/><s n="nt"/></l><r>might<s n="n"/></r></p></e>-->
+    <e><p><l>veldi<s n="n"/><s n="nt"/></l><r>power<s n="n"/></r></p></e>
+    <e><p><l>velgengi<s n="n"/><s n="f"/></l><r>success<s n="n"/></r></p></e>
+    <e><p><l>velta<s n="n"/><s n="f"/></l><r>turnover<s n="n"/></r></p></e>
+    <e><p><l>ventill<s n="n"/><s n="m"/></l><r>valve<s n="n"/></r></p></e>
+    <!--<e><p><l>vera<s n="n"/><s n="f"/></l><r>being<s n="n"/></r></p></e>-->
+    <e><p><l>vera<s n="n"/><s n="f"/></l><r>creature<s n="n"/></r></p></e>
+    <e><p><l>verk<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>
+    <e><p><l>verkamaður<s n="n"/><s n="m"/></l><r>workman<s n="n"/></r></p></e>
+    <e><p><l>verkfæri<s n="n"/><s n="nt"/></l><r>tool<s n="n"/></r></p></e>
+    <e><p><l>verksmiðja<s n="n"/><s n="f"/></l><r>factory<s n="n"/></r></p></e>
+    <!--<e><p><l>verkur<s n="n"/><s n="m"/></l><r>pain<s n="n"/></r></p></e>-->
+    <e><p><l>verkur<s n="n"/><s n="m"/></l><r>ache<s n="n"/></r></p></e>
+    <!--<e><p><l>verslun<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>-->
+    <e><p><l>verslun<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e>
+    <e><p><l>veruleiki<s n="n"/><s n="m"/></l><r>reality<s n="n"/></r></p></e>
+    <!--<e><p><l>verzlun<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>-->
+    <e><p><l>verzlun<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e>
+    <e><p><l>verð<s n="n"/><s n="nt"/></l><r>price<s n="n"/></r></p></e>
+    <e><p><l>veröld<s n="n"/><s n="f"/></l><r>world<s n="n"/></r></p></e>
+    <e><p><l>verönd<s n="n"/><s n="f"/></l><r>porch<s n="n"/></r></p></e>
+    <!--<e><p><l>verönd<s n="n"/><s n="f"/></l><r>veranda<s n="n"/></r></p></e>-->
+    <!--<e><p><l>veski<s n="n"/><s n="nt"/></l><r>bag<s n="n"/></r></p></e>-->
+    <e><p><l>veski<s n="n"/><s n="nt"/></l><r>purse<s n="n"/></r></p></e>
+    <!--<e><p><l>veski<s n="n"/><s n="nt"/></l><r>wallet<s n="n"/></r></p></e>-->
+    <e><p><l>vestri<s n="n"/><s n="m"/></l><r>Western<s n="n"/></r></p></e> <!-- film about cowboys -->
+    <e><p><l>vestur<s n="n"/><s n="nt"/></l><r>west<s n="n"/></r></p></e>
+    <e><p><l>vetni<s n="n"/><s n="nt"/></l><r>hydrogen<s n="n"/></r></p></e>
+    <e><p><l>vetrarbraut<s n="n"/><s n="f"/></l><r>Milky<b/>Way<s n="n"/></r></p></e> <!-- (galaxy) -->
+    <e><p><l>vettlingur<s n="n"/><s n="m"/></l><r>mitten<s n="n"/></r></p></e>
+    <e><p><l>vettvangur<s n="n"/><s n="m"/></l><r>scene<s n="n"/></r></p></e>
+    <e><p><l>vetur<s n="n"/><s n="m"/></l><r>winter<s n="n"/></r></p></e>
+    <e><p><l>veður<s n="n"/><s n="nt"/></l><r>weather<s n="n"/></r></p></e>
+    <e><p><l>veðurfar<s n="n"/><s n="nt"/></l><r>climate<s n="n"/></r></p></e>
+    <e><p><l>veðurfræði<s n="n"/><s n="f"/></l><r>meteorology<s n="n"/></r></p></e>
+    <e><p><l>veðurspá<s n="n"/><s n="f"/></l><r>weather<b/>forecast<s n="n"/></r></p></e>
+    <e><p><l>vik<s n="n"/><s n="nt"/></l><r>inlet<s n="n"/></r></p></e>
+    <!--<e><p><l>vik<s n="n"/><s n="nt"/></l><r>recess<s n="n"/></r></p></e>-->
+    <e><p><l>vika<s n="n"/><s n="f"/></l><r>week<s n="n"/></r></p></e>
+    <e><p><l>vilji<s n="n"/><s n="m"/></l><r>will<s n="n"/></r></p></e>
+    <!--<e><p><l>villa<s n="v"/><s n="f"/></l><r>deceive<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>villa<s n="n"/><s n="f"/></l><r>error<s n="n"/></r></p></e>
+    <!--<e><p><l>villa<s n="n"/><s n="f"/></l><r>mistake<s n="n"/></r></p></e>-->
+    <e><p><l>villigöltur<s n="n"/><s n="m"/></l><r>boar<s n="n"/></r></p></e> <!-- (wild boar) -->
+    <e><p><l>villisvín<s n="n"/><s n="nt"/></l><r>boar<s n="n"/></r></p></e> <!-- (wild boar) -->
+    <e><p><l>villutrú<s n="n"/><s n="f"/></l><r>heresy<s n="n"/></r></p></e>
+    <e><p><l>vin<s n="n"/><s n="f"/></l><r>oasis<s n="n"/></r></p></e>
+    <e><p><l>vindstig<s n="n"/><s n="nt"/></l><r>Beaufort<b/>scale<s n="n"/></r></p></e>
+    <e><p><l>vindur<s n="n"/><s n="m"/></l><r>wind<s n="n"/></r></p></e>
+    <e><p><l>vinkona<s n="n"/><s n="f"/></l><r>female<b/>friend<s n="n"/></r></p></e>
+    <e><p><l>vinna<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
+    <!--<e><p><l>vinna<s n="n"/><s n="f"/></l><r>job<s n="n"/></r></p></e>-->
+    <!--<e><p><l>vinna<s n="n"/><s n="f"/></l><r>labour<s n="n"/></r></p></e>-->
+    <e><p><l>vinstri<s n="n"/><s n="nt"/></l><r>left<s n="n"/></r></p></e>
+    <e><p><l>vinsældir<s n="n"/><s n="f"/></l><r>popularity<s n="n"/></r></p></e>
+    <e><p><l>vinur<s n="n"/><s n="m"/></l><r>male<b/>friend<s n="n"/></r></p></e>
+    <!--<e><p><l>vinátta<s n="n"/><s n="f"/></l><r>comradeship<s n="n"/></r></p></e>-->
+    <!--<e><p><l>vinátta<s n="n"/><s n="f"/></l><r>fellowship<s n="n"/></r></p></e>-->
+    <e><p><l>vinátta<s n="n"/><s n="f"/></l><r>friendship<s n="n"/></r></p></e>
+    <!--<e><p><l>virki<s n="n"/><s n="nt"/></l><r>fort<s n="n"/></r></p></e>-->
+    <!--<e><p><l>virki<s n="n"/><s n="nt"/></l><r>fortress<s n="n"/></r></p></e>-->
+    <e><p><l>virki<s n="n"/><s n="nt"/></l><r>stronghold<s n="n"/></r></p></e>
+    <!--<e><p><l>virðing<s n="n"/><s n="f"/></l><r>reverence<s n="n"/></r></p></e>-->
+    <e><p><l>virðing<s n="n"/><s n="f"/></l><r>respect<s n="n"/></r></p></e>
+    <e><p><l>vismút<s n="n"/><s n="nt"/></l><r>bismuth<s n="n"/></r></p></e>
+    <e><p><l>vistir<s n="n"/><s n="f"/></l><r>provisions<s n="n"/></r></p></e>
+    <e><p><l>vistkerfi<s n="n"/><s n="nt"/></l><r>ecosystem<s n="n"/></r></p></e>
+    <!--<e><p><l>vit<s n="n"/><s n="nt"/></l><r>intellect<s n="n"/></r></p></e>-->
+    <e><p><l>vit<s n="n"/><s n="nt"/></l><r>wit<s n="n"/></r></p></e>
+    <e><p><l>vitleysa<s n="n"/><s n="f"/></l><r>nonsense<s n="n"/></r></p></e>
+    <e><p><l>vitni<s n="n"/><s n="nt"/></l><r>witness<s n="n"/></r></p></e>
+    <!--<e><p><l>viðbein<s n="n"/><s n="nt"/></l><r>clavicle<s n="n"/></r></p></e>-->
+    <e><p><l>viðbein<s n="n"/><s n="nt"/></l><r>collarbone<s n="n"/></r></p></e>
+    <e><p><l>viðbót<s n="n"/><s n="f"/></l><r>addition<s n="n"/></r></p></e>
+    <!--<e><p><l>viðbót<s n="n"/><s n="f"/></l><r>plug-in<s n="n"/></r></p></e>-->
+    <e><p><l>viðkomustaður<s n="n"/><s n="m"/></l><r>stop<s n="n"/></r></p></e>
+    <e><p><l>viðleitni<s n="n"/><s n="f"/></l><r>effort<s n="n"/></r></p></e>
+    <e><p><l>viðleitni<s n="n"/><s n="f"/></l><r>endeavor<s n="n"/></r></p></e>
+    <e><p><l>viðskeyti<s n="n"/><s n="nt"/></l><r>suffix<s n="n"/></r></p></e> <!-- (letters or sounds added at the end of a word to modify the word's meaning) -->
+    <!--<e><p><l>viðskiptavinur<s n="n"/><s n="m"/></l><r>client<s n="n"/></r></p></e>-->
+    <e><p><l>viðskiptavinur<s n="n"/><s n="m"/></l><r>customer<s n="n"/></r></p></e>
+    <!--<e><p><l>viðskiptavinur<s n="n"/><s n="m"/></l><r>shopper<s n="n"/></r></p></e>-->
+    <e><p><l>viðskipti<s n="n"/><s n="nt"/></l><r>business<s n="n"/></r></p></e>
+    <!--<e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>conversation<s n="n"/></r></p></e>-->
+    <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
+    <e><p><l>viðtengingarháttur<s n="n"/><s n="m"/></l><r>subjunctive<b/>mood<s n="n"/></r></p></e>
+    <!--<e><p><l>viður<s n="n"/><s n="m"/></l><r>lumber<s n="n"/></r></p></e>-->
+    <!--<e><p><l>viður<s n="n"/><s n="m"/></l><r>timber<s n="n"/></r></p></e>-->
+    <e><p><l>viður<s n="n"/><s n="m"/></l><r>wood<s n="n"/></r></p></e>
+    <e><p><l>viðvörun<s n="n"/><s n="f"/></l><r>warning<s n="n"/></r></p></e>
+    <e><p><l>voffi<s n="n"/><s n="m"/></l><r>doggy<s n="n"/></r></p></e>
+    <!--<e><p><l>vog<s n="n"/><s n="f"/></l><r>Libra<s n="n"/></r></p></e>-->
+    <e><p><l>vog<s n="n"/><s n="f"/></l><r>scale<s n="n"/></r></p></e>
+    <e><p><l>vogur<s n="n"/><s n="m"/></l><r>bay<s n="n"/></r></p></e>
+    <!--<e><p><l>vol<s n="n"/><s n="nt"/></l><r>whine<s n="n"/></r></p></e>-->
+    <e><p><l>vol<s n="n"/><s n="nt"/></l><r>whining<s n="n"/></r></p></e>
+    <e><p><l>volfram<s n="n"/><s n="nt"/></l><r>tungsten<s n="n"/></r></p></e>
+    <!--<e><p><l>von<s n="n"/><s n="f"/></l><r>expectation<s n="n"/></r></p></e>-->
+    <e><p><l>von<s n="n"/><s n="f"/></l><r>hope<s n="n"/></r></p></e>
+    <!--<e><p><l>vonandi<s n="adj"/><s n="f"/></l><r>hopefully<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <!--<e><p><l>vopn<s n="n"/><s n="nt"/></l><r>arms<s n="n"/></r></p></e>-->
+    <e><p><l>vopn<s n="n"/><s n="nt"/></l><r>weapon<s n="n"/></r></p></e>
+    <!--<e><p><l>vopnahlé<s n="n"/><s n="nt"/></l><r>armistice<s n="n"/></r></p></e>-->
+    <e><p><l>vopnahlé<s n="n"/><s n="nt"/></l><r>cease-fire<s n="n"/></r></p></e>
+    <e><p><l>vor<s n="n"/><s n="nt"/></l><r>spring<s n="n"/></r></p></e> <!-- (season) -->
+    <e><p><l>vortími<s n="n"/><s n="m"/></l><r>spring<b/>time<s n="n"/></r></p></e>
+    <e><p><l>vá<s n="n"/><s n="f"/></l><r>danger<s n="n"/></r></p></e>
+    <!--<e><p><l>vá<s n="ij"/><s n="f"/></l><r>wow<s n="ij"/></r></p></e>--> <!-- interjection -->
+    <e><p><l>vængur<s n="n"/><s n="m"/></l><r>wing<s n="n"/></r></p></e>
+    <e><p><l>væta<s n="n"/><s n="f"/></l><r>moisture<s n="n"/></r></p></e>
+    <!--<e><p><l>vél<s n="n"/><s n="f"/></l><r>engine<s n="n"/></r></p></e>-->
+    <e><p><l>vél<s n="n"/><s n="f"/></l><r>machine<s n="n"/></r></p></e>
+    <!--<e><p><l>vél<s n="n"/><s n="f"/></l><r>motor<s n="n"/></r></p></e>-->
+    <e><p><l>vígvöllur<s n="n"/><s n="m"/></l><r>battlefield<s n="n"/></r></p></e>
+    <e><p><l>vík<s n="n"/><s n="f"/></l><r>bay<s n="n"/></r></p></e>
+    <!--<e><p><l>vín<s n="n"/><s n="nt"/></l><r>alcohol<s n="n"/></r></p></e>-->
+    <e><p><l>vín<s n="n"/><s n="nt"/></l><r>liquor<s n="n"/></r></p></e>
+    <!--<e><p><l>vín<s n="n"/><s n="nt"/></l><r>wine<s n="n"/></r></p></e>-->
+    <!--<e><p><l>vínandi<s n="n"/><s n="m"/></l><r>alcohol<s n="n"/></r></p></e>-->
+    <e><p><l>vínandi<s n="n"/><s n="m"/></l><r>spirit<s n="n"/></r></p></e>
+    <e><p><l>vínber<s n="n"/><s n="nt"/></l><r>grape<s n="n"/></r></p></e>
+    <e><p><l>vínberjalögur<s n="n"/><s n="m"/></l><r>wine<s n="n"/></r></p></e>
+    <e><p><l>víndrykkur<s n="n"/><s n="m"/></l><r>wine<s n="n"/></r></p></e>
+    <e><p><l>vínedik<s n="n"/><s n="nt"/></l><r>wine<b/>vinegar<s n="n"/></r></p></e>
+    <e><p><l>vínföng<s n="n"/><s n="m"/></l><r>wine<s n="n"/></r></p></e>
+    <e><p><l>víngarður<s n="n"/><s n="m"/></l><r>vineyard<s n="n"/></r></p></e>
+    <e><p><l>vír<s n="n"/><s n="m"/></l><r>wire<s n="n"/></r></p></e>
+    <!--<e><p><l>vísa<s n="n"/><s n="f"/></l><r>ditty<s n="n"/></r></p></e>-->
+    <!--<e><p><l>vísa<s n="n"/><s n="f"/></l><r>stanza<s n="n"/></r></p></e>-->
+    <e><p><l>vísa<s n="n"/><s n="f"/></l><r>verse<s n="n"/></r></p></e>
+    <e><p><l>vísindamaður<s n="n"/><s n="m"/></l><r>scientist<s n="n"/></r></p></e>
+    <e><p><l>vísindi<s n="n"/><s n="nt"/></l><r>science<s n="n"/></r></p></e>
+    <e><p><l>víti<s n="n"/><s n="nt"/></l><r>hell<s n="n"/></r></p></e>
+    <e><p><l>víðir<s n="n"/><s n="m"/></l><r>willow<s n="n"/></r></p></e>
+    <e><p><l>víóla<s n="n"/><s n="f"/></l><r>viola<s n="n"/></r></p></e>
+    <e><p><l>vök<s n="n"/><s n="f"/></l><r>polynya<s n="n"/></r></p></e>
+    <e><p><l>vökvi<s n="n"/><s n="m"/></l><r>liquid<s n="n"/></r></p></e>
+    <e><p><l>völlur<s n="n"/><s n="m"/></l><r>field<s n="n"/></r></p></e>
+    <e><p><l>vör<s n="n"/><s n="f"/></l><r>lip<s n="n"/></r></p></e>
+    <e><p><l>vörn<s n="n"/><s n="f"/></l><r>defence<s n="n"/></r></p></e>
+    <e><p><l>vörumerki<s n="n"/><s n="nt"/></l><r>trademark<s n="n"/></r></p></e>
+    <e><p><l>vörður<s n="n"/><s n="m"/></l><r>guard<s n="n"/></r></p></e>
+    <e><p><l>vöxtur<s n="n"/><s n="m"/></l><r>growth<s n="n"/></r></p></e>
+    <e><p><l>vöðvi<s n="n"/><s n="m"/></l><r>muscle<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>w<s n="n"/><s n="nt"/></l><r>w<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>x<s n="n"/><s n="nt"/></l><r>x<s n="n"/></r></p></e>
+    <e><p><l>xenon<s n="n"/><s n="nt"/></l><r>xenon<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>y<s n="n"/><s n="nt"/></l><r>y<s n="n"/></r></p></e>
+    <!--<e><p><l>ydd<s n="n"/><s n="nt"/></l><r>refuse from sharpening the tip of a pencil or other similar object<s n="n"/></r></p></e>-->
+    <e><p><l>yfirborð<s n="n"/><s n="nt"/></l><r>surface<s n="n"/></r></p></e>
+    <e><p><l>yfirdrepsskapur<s n="n"/><s n="f"/></l><r>hypocrisy<s n="n"/></r></p></e>
+    <e><p><l>yfirheiti<s n="n"/><s n="nt"/></l><r>hypernym<s n="n"/></r></p></e>
+    <!--<e><p><l>yfirlýsing<s n="n"/><s n="f"/></l><r>affidavit<s n="n"/></r></p></e>-->
+    <!--<e><p><l>yfirlýsing<s n="n"/><s n="f"/></l><r>assertion<s n="n"/></r></p></e>-->
+    <e><p><l>yfirlýsing<s n="n"/><s n="f"/></l><r>declaration<s n="n"/></r></p></e>
+    <!--<e><p><l>yfirmaður<s n="n"/><s n="m"/></l><r>master<s n="n"/></r></p></e>-->
+    <e><p><l>yfirmaður<s n="n"/><s n="m"/></l><r>boss<s n="n"/></r></p></e>
+    <e><p><l>yfirráð<s n="n"/><s n="nt"/></l><r>dominion<s n="n"/></r></p></e>
+    <!--<e><p><l>yfirráð<s n="n"/><s n="nt"/></l><r>authority<s n="n"/></r></p></e>-->
+    <!--<e><p><l>yfirráð<s n="n"/><s n="nt"/></l><r>rule<s n="n"/></r></p></e>-->
+    <e><p><l>yfirráðasvæði<s n="n"/><s n="nt"/></l><r>territory<s n="n"/></r></p></e>
+    <e><p><l>yfirvald<s n="n"/><s n="nt"/></l><r>authority<s n="n"/></r></p></e>
+    <e><p><l>ytterbín<s n="n"/><s n="nt"/></l><r>ytterbium<s n="n"/></r></p></e>
+    <e><p><l>yttrín<s n="n"/><s n="nt"/></l><r>yttrium<s n="n"/></r></p></e>
+
+    <!--<e><p><l>yngri<s n="n"/><s n="GD"/></l><r>junior<s n="n"/></r></p></e>--> <!-- title -->
+    <!--<e><p><l>yngri<s n="n"/><s n="GD"/></l><r>Jr.<s n="n"/></r></p></e>--> <!-- title -->
+    
+    
+    <e><p><l>z<s n="n"/><s n="nt"/></l><r>z<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
-
-    <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
-
-    <e><p><l>skuld<s n="n"/><s n="f"/></l><r>debt<s n="n"/></r></p></e>
-    <e><p><l>slys<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e>
-
-    <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
-
-    <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
-    <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
 
     <e><p><l>janúar<s n="n"/><s n="nt"/></l><r>January<s n="n"/></r></p></e>
     <e><p><l>febrúar<s n="n"/><s n="nt"/></l><r>February<s n="n"/></r></p></e>
