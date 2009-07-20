@@ -4141,6 +4141,198 @@
     <e><p><l>sýsla<s n="n"/><s n="f"/></l><r>county<s n="n"/></r></p></e>
     <e><p><l>sýslumaður<s n="n"/><s n="m"/></l><r>sheriff<s n="n"/></r></p></e>
     
+    
+    <e><p><l>t<s n="n"/><s n="nt"/></l><r>t<s n="n"/></r></p></e>
+    <e><p><l>tafl<s n="n"/><s n="nt"/></l><r>chess<s n="n"/></r></p></e>
+    <e><p><l>tafla<s n="n"/><s n="f"/></l><r>pill<s n="n"/></r></p></e>
+    <e><p><l>tag<s n="n"/><s n="nt"/></l><r>tag<s n="n"/></r></p></e>
+<!--    <e><p><l>tagl<s n="n"/><s n="nt"/></l><r>ponytail<s n="n"/></r></p></e> --> <!-- (hairdo) -->
+    <e><p><l>tagl<s n="n"/><s n="nt"/></l><r>tail<s n="n"/></r></p></e> <!-- (of horse) -->
+    <e><p><l>takki<s n="n"/><s n="m"/></l><r>button<s n="n"/></r></p></e>
+    <e><p><l>takmarkaða<b/>afstæðiskenningin<s n="n"/><s n="f"/></l><r>special<b/>relativity<s n="n"/></r></p></e>
+    <e><p><l>tal<s n="n"/><s n="nt"/></l><r>talk<s n="n"/></r></p></e>
+    <e><p><l>tala<s n="n"/><s n="f"/></l><r>number<s n="n"/></r></p></e>
+    <!--<e><p><l>tala<s n="n"/><s n="f"/></l><r>speech<s n="n"/></r></p></e>-->
+    <!--<e><p><l>tala<s n="n"/><s n="f"/></l><r>talk<s n="n"/></r></p></e>-->
+    <e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>advocate<s n="n"/></r></p></e>
+    <!--<e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>proponent<s n="n"/></r></p></e>-->
+    <!--<e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>spokesperson<s n="n"/></r></p></e>-->
+    <e><p><l>tankur<s n="n"/><s n="m"/></l><r>tank<s n="n"/></r></p></e> <!-- (storage vessel for liquids or gases) -->
+    <e><p><l>tannbursti<s n="n"/><s n="m"/></l><r>toothbrush<s n="n"/></r></p></e> <!-- (brush for cleaning the teeth and tongue) -->
+    <e><p><l>tannkrem<s n="n"/><s n="nt"/></l><r>toothpaste<s n="n"/></r></p></e>
+    <e><p><l>tannlæknir<s n="n"/><s n="m"/></l><r>dentist<s n="n"/></r></p></e>
+    <e><p><l>tantal<s n="n"/><s n="nt"/></l><r>tantalum<s n="n"/></r></p></e> <!-- (a metallic chemical element with an atomic number of 73.) -->
+    <e><p><l>tap<s n="n"/><s n="f"/></l><r>loss<s n="n"/></r></p></e>
+    <!--<e><p><l>tappi<s n="n"/><s n="m"/></l><r>cork<s n="n"/></r></p></e>-->
+    <e><p><l>tappi<s n="n"/><s n="m"/></l><r>plug<s n="n"/></r></p></e>
+    <e><p><l>tarfur<s n="n"/><s n="m"/></l><r>bull<s n="n"/></r></p></e>
+    <e><p><l>taska<s n="n"/><s n="f"/></l><r>bag<s n="n"/></r></p></e>
+    <e><p><l>taug<s n="n"/><s n="f"/></l><r>nerve<s n="n"/></r></p></e>
+    <e><p><l>taugafruma<s n="n"/><s n="f"/></l><r>neuron<s n="n"/></r></p></e>
+    <e><p><l>taugakerfi<s n="n"/><s n="nt"/></l><r>nervous<b/>system<s n="n"/></r></p></e>
+    <e><p><l>taumur<s n="n"/><s n="m"/></l><r>bridle<s n="n"/></r></p></e>
+    <e><p><l>te<s n="n"/><s n="nt"/></l><r>tea<s n="n"/></r></p></e>
+    <e><p><l>tegund<s n="n"/><s n="f"/></l><r>kind<s n="n"/></r></p></e>
+    <!--<e><p><l>tegund<s n="n"/><s n="f"/></l><r>species<s n="n"/></r></p></e>-->
+    <e><p><l>teikn<s n="n"/><s n="nt"/></l><r>token<s n="n"/></r></p></e>
+    <e><p><l>teista<s n="n"/><s n="f"/></l><r>black<b/>guillemot<s n="n"/></r></p></e>
+    <e><p><l>teknetín<s n="n"/><s n="nt"/></l><r>technetium<s n="n"/></r></p></e>
+    <e><p><l>tellúr<s n="n"/><s n="nt"/></l><r>tellurium<s n="n"/></r></p></e>
+    <e><p><l>tenging<s n="n"/><s n="f"/></l><r>connection<s n="n"/></r></p></e>
+    <e><p><l>tengisögn<s n="n"/><s n="f"/></l><r>copula<s n="n"/></r></p></e>
+    <e><p><l>tengsl<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>
+    <e><p><l>teppi<s n="n"/><s n="nt"/></l><r>blanket<s n="n"/></r></p></e>
+    <!--<e><p><l>teppi<s n="n"/><s n="nt"/></l><r>carpet<s n="n"/></r></p></e>-->
+    <e><p><l>textafræði<s n="n"/><s n="f"/></l><r>philology<s n="n"/></r></p></e>
+    <e><p><l>texti<s n="n"/><s n="m"/></l><r>text<s n="n"/></r></p></e>
+    <e><p><l>tilboð<s n="n"/><s n="nt"/></l><r>tender<s n="n"/></r></p></e>
+    <!--<e><p><l>tilfinning<s n="n"/><s n="f"/></l><r>sentiment<s n="n"/></r></p></e>-->
+    <e><p><l>tilfinning<s n="n"/><s n="f"/></l><r>feeling<s n="n"/></r></p></e>
+    <!--<e><p><l>tilgangur<s n="n"/><s n="m"/></l><r>goal<s n="n"/></r></p></e>-->
+    <e><p><l>tilgangur<s n="n"/><s n="m"/></l><r>purpose<s n="n"/></r></p></e>
+    <e><p><l>tilgáta<s n="n"/><s n="f"/></l><r>hypothesis<s n="n"/></r></p></e>
+    <e><p><l>tilheyrandi<s n="n"/><s n="m"/></l><r>appurtenant<s n="n"/></r></p></e>
+    <!--<e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>dispatch<s n="n"/></r></p></e>-->
+    <!--<e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>newsflash<s n="n"/></r></p></e>-->
+    <e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>announcement<s n="n"/></r></p></e>
+    <!--<e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>notice<s n="n"/></r></p></e>-->
+    <!--<e><p><l>tillit<s n="n"/><s n="nt"/></l><r>regard<s n="n"/></r></p></e>-->
+    <e><p><l>tillit<s n="n"/><s n="nt"/></l><r>consideration<s n="n"/></r></p></e>
+    <e><p><l>tilraun<s n="n"/><s n="f"/></l><r>attempt<s n="n"/></r></p></e>
+    <!--<e><p><l>tilraun<s n="n"/><s n="f"/></l><r>try<s n="n"/></r></p></e>-->
+    <e><p><l>tilskipun<s n="n"/><s n="f"/></l><r>decree<s n="n"/></r></p></e>
+    <!--<e><p><l>tilviljun<s n="n"/><s n="f"/></l><r>chance<s n="n"/></r></p></e>-->
+    <e><p><l>tilviljun<s n="n"/><s n="f"/></l><r>coincidence<s n="n"/></r></p></e>
+    <e><p><l>tilvist<s n="n"/><s n="f"/></l><r>existence<s n="n"/></r></p></e>
+    <e><p><l>tilvitnun<s n="n"/><s n="f"/></l><r>quotation<s n="n"/></r></p></e>
+    <e><p><l>tilvísunarfornafn<s n="n"/><s n="nt"/></l><r>relative<b/>pronoun<s n="n"/></r></p></e>
+    <e><p><l>timbur<s n="n"/><s n="nt"/></l><r>timber<s n="n"/></r></p></e>
+    <!--<e><p><l>timbur<s n="n"/><s n="nt"/></l><r>wood<s n="n"/></r></p></e>-->
+    <e><p><l>tin<s n="n"/><s n="nt"/></l><r>tin<s n="n"/></r></p></e>
+    <e><p><l>tinna<s n="n"/><s n="f"/></l><r>flint<s n="n"/></r></p></e>
+    <e><p><l>titill<s n="n"/><s n="m"/></l><r>title<s n="n"/></r></p></e>
+    <e><p><l>tjara<s n="n"/><s n="f"/></l><r>tar<s n="n"/></r></p></e>
+    <e><p><l>tollur<s n="n"/><s n="m"/></l><r>customs<s n="n"/></r></p></e>
+    <e><p><l>tombóla<s n="n"/><s n="f"/></l><r>raffle<s n="n"/></r></p></e>
+    <!--<e><p><l>tombóla<s n="n"/><s n="f"/></l><r>tombola<s n="n"/></r></p></e>--> <!-- British English? -->
+    <e><p><l>tomma<s n="n"/><s n="f"/></l><r>inch<s n="n"/></r></p></e>
+    <e><p><l>tonn<s n="n"/><s n="nt"/></l><r>metric<b/>ton<s n="n"/></r></p></e>
+    <!--<e><p><l>tonn<s n="n"/><s n="nt"/></l><r>tonne<s n="n"/></r></p></e>-->
+    <e><p><l>torg<s n="n"/><s n="nt"/></l><r>square<s n="n"/></r></p></e> <!-- (open space in a town) -->
+    <e><p><l>traktor<s n="n"/><s n="m"/></l><r>tractor<s n="n"/></r></p></e> <!-- (vehicle used in farming) -->
+    <e><p><l>traust<s n="n"/><s n="nt"/></l><r>trust<s n="n"/></r></p></e>
+    <e><p><l>trefill<s n="n"/><s n="m"/></l><r>scarf<s n="n"/></r></p></e>
+    <e><p><l>tregða<s n="n"/><s n="f"/></l><r>reluctance<s n="n"/></r></p></e>
+    <e><p><l>trjákvoða<s n="n"/><s n="f"/></l><r>resin<s n="n"/></r></p></e>
+    <!--<e><p><l>trjákvoða<s n="n"/><s n="f"/></l><r>wood<b/>rosin<s n="n"/></r></p></e>-->
+    <e><p><l>trjóna<s n="n"/><s n="f"/></l><r>snout<s n="n"/></r></p></e>
+    <e><p><l>tromma<s n="n"/><s n="f"/></l><r>drum<s n="n"/></r></p></e>
+    <e><p><l>trompet<s n="n"/><s n="m"/></l><r>trumpet<s n="n"/></r></p></e>
+    <!--<e><p><l>truflun<s n="n"/><s n="f"/></l><r>distraction,<s n="n"/></r></p></e>-->
+    <e><p><l>truflun<s n="n"/><s n="f"/></l><r>disturbance<s n="n"/></r></p></e>
+    <!--<e><p><l>truflun<s n="n"/><s n="f"/></l><r>interference<s n="n"/></r></p></e>-->
+    <!--<e><p><l>truflun<s n="n"/><s n="f"/></l><r>interruption<s n="n"/></r></p></e>-->
+    <!--<e><p><l>truflun<s n="n"/><s n="f"/></l><r>intrusion<s n="n"/></r></p></e>-->
+    <e><p><l>trygging<s n="n"/><s n="f"/></l><r>insurance<s n="n"/></r></p></e>
+    <e><p><l>tré<s n="n"/><s n="nt"/></l><r>tree<s n="n"/></r></p></e>
+    <e><p><l>tréblásturshljóðfæri<s n="n"/><s n="nt"/></l><r>woodwind<s n="n"/></r></p></e>
+    <e><p><l>tríósónata<s n="n"/><s n="f"/></l><r>trio<b/>sonata<s n="n"/></r></p></e>
+    <e><p><l>trójuhestur<s n="n"/><s n="m"/></l><r>Trojan<b/>horse<s n="n"/></r></p></e>
+    <!--<e><p><l>tröll<s n="n"/><s n="nt"/></l><r>ogre<s n="n"/></r></p></e>-->
+    <e><p><l>tröll<s n="n"/><s n="nt"/></l><r>troll<s n="n"/></r></p></e>
+    <e><p><l>trölladeig<s n="n"/><s n="nt"/></l><r>salt<b/>clay<s n="n"/></r></p></e>
+    <e><p><l>trú<s n="n"/><s n="f"/></l><r>faith<s n="n"/></r></p></e>
+    <e><p><l>trúarbragð<s n="n"/><s n="nt"/></l><r>religion<s n="n"/></r></p></e>
+    <e><p><l>trúfrelsi<s n="n"/><s n="nt"/></l><r>freedom<b/>of<b/>religion<s n="n"/></r></p></e>
+    <e><p><l>trúleysi<s n="n"/><s n="nt"/></l><r>atheism<s n="n"/></r></p></e>
+    <e><p><l>trúnaður<s n="n"/><s n="m"/></l><r>confidentiality<s n="n"/></r></p></e>
+    <!--<e><p><l>trúnaður<s n="n"/><s n="m"/></l><r>faith<s n="n"/></r></p></e>-->
+    <!--<e><p><l>trúnaður<s n="n"/><s n="m"/></l><r>trust<s n="n"/></r></p></e>-->
+    <e><p><l>trúður<s n="n"/><s n="m"/></l><r>clown<s n="n"/></r></p></e>
+    <e><p><l>tugabrot<s n="n"/><s n="nt"/></l><r>decimal<s n="n"/></r></p></e>
+    <e><p><l>tunga<s n="n"/><s n="f"/></l><r>tongue<s n="n"/></r></p></e>
+    <e><p><l>tungl<s n="n"/><s n="nt"/></l><r>moon<s n="n"/></r></p></e>
+    <e><p><l>tungumál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>
+    <e><p><l>turn<s n="n"/><s n="m"/></l><r>tower<s n="n"/></r></p></e>
+    <e><p><l>turnfálki<s n="n"/><s n="m"/></l><r>kestrel<s n="n"/></r></p></e> <!-- (Falco tinnunculus) -->
+    <e><p><l>turtildúfa<s n="n"/><s n="f"/></l><r>turtle<b/>dove<s n="n"/></r></p></e> <!-- (bird) -->
+    <!--<e><p><l>tvistur<s n="n"/><s n="m"/></l><r>diode<s n="n"/></r></p></e>-->
+    <e><p><l>tvistur<s n="n"/><s n="m"/></l><r>deuce<s n="n"/></r></p></e>
+    <e><p><l>tvístirni<s n="n"/><s n="nt"/></l><r>binary<b/>star<s n="n"/></r></p></e>
+    <e><p><l>tyggigúmmí<s n="n"/><s n="nt"/></l><r>chewing<b/>gum<s n="n"/></r></p></e>
+    <e><p><l>typpi<s n="n"/><s n="nt"/></l><r>penis<s n="n"/></r></p></e>
+    <e><p><l>tyrðill<s n="n"/><s n="m"/></l><r>turd<s n="n"/></r></p></e>
+    <e><p><l>tá<s n="n"/><s n="f"/></l><r>toe<s n="n"/></r></p></e>
+    <e><p><l>tág<s n="n"/><s n="f"/></l><r>wicker<s n="n"/></r></p></e>
+    <!--<e><p><l>tág<s n="n"/><s n="f"/></l><r>willow<s n="n"/></r></p></e>-->
+    <e><p><l>tákn<s n="n"/><s n="nt"/></l><r>symbol<s n="n"/></r></p></e>
+    <e><p><l>táknmál<s n="n"/><s n="nt"/></l><r>sign<b/>language<s n="n"/></r></p></e>
+    <e><p><l>tálvon<s n="n"/><s n="f"/></l><r>false<b/>hope<s n="n"/></r></p></e>
+    <!--<e><p><l>tálvon<s n="n"/><s n="f"/></l><r>illusion<s n="n"/></r></p></e>-->
+    <e><p><l>tánögl<s n="n"/><s n="f"/></l><r>toenail<s n="n"/></r></p></e>
+    <!--<e><p><l>tæki<s n="n"/><s n="nt"/></l><r>appliance<s n="n"/></r></p></e>-->
+    <!--<e><p><l>tæki<s n="n"/><s n="nt"/></l><r>instrument<s n="n"/></r></p></e>-->
+    <e><p><l>tæki<s n="n"/><s n="nt"/></l><r>tool<s n="n"/></r></p></e>
+    <e><p><l>tækifæri<s n="n"/><s n="nt"/></l><r>chance<s n="n"/></r></p></e>
+    <e><p><l>tækni<s n="n"/><s n="f"/></l><r>technology<s n="n"/></r></p></e>
+    <e><p><l>tékki<s n="n"/><s n="m"/></l><r>cheque<s n="n"/></r></p></e>
+    <e><p><l>tík<s n="n"/><s n="f"/></l><r>bitch<s n="n"/></r></p></e>
+    <!--<e><p><l>tímabil<s n="n"/><s n="nt"/></l><r>interval<s n="n"/></r></p></e>-->
+    <e><p><l>tímabil<s n="n"/><s n="nt"/></l><r>phase<s n="n"/></r></p></e>
+    <e><p><l>tímarit<s n="n"/><s n="nt"/></l><r>magazine<s n="n"/></r></p></e>
+    <!--<e><p><l>tímatal<s n="n"/><s n="nt"/></l><r>calendar<s n="n"/></r></p></e>-->
+    <e><p><l>tímatal<s n="n"/><s n="nt"/></l><r>chronology<s n="n"/></r></p></e>
+    <e><p><l>tímavél<s n="n"/><s n="f"/></l><r>time<b/>machine<s n="n"/></r></p></e>
+    <!--<e><p><l>tími<s n="n"/><s n="m"/></l><r>hour<s n="n"/></r></p></e>-->
+    <e><p><l>tími<s n="n"/><s n="m"/></l><r>time<s n="n"/></r></p></e>
+    <e><p><l>tíska<s n="n"/><s n="f"/></l><r>fashion<s n="n"/></r></p></e>
+    <!--<e><p><l>tíska<s n="n"/><s n="nt"/></l><r>vogue<s n="n"/></r></p></e>-->
+    <e><p><l>títan<s n="n"/><s n="nt"/></l><r>titanium<s n="n"/></r></p></e>
+    <e><p><l>tíð<s n="n"/><s n="f"/></l><r>time<s n="n"/></r></p></e>
+    <e><p><l>tíðaratviksorð<s n="n"/><s n="nt"/></l><r>adverb<s n="n"/></r></p></e>
+    <!--<e><p><l>tíðindi<s n="n"/><s n="nt"/></l><r>news<s n="n"/></r></p></e>-->
+    <e><p><l>tíðindi<s n="n"/><s n="nt"/></l><r>tidings<s n="n"/></r></p></e>
+    <e><p><l>tíðni<s n="n"/><s n="f"/></l><r>frequency<s n="n"/></r></p></e>
+    <e><p><l>tóbak<s n="n"/><s n="nt"/></l><r>tobacco<s n="n"/></r></p></e>
+    <e><p><l>tófa<s n="n"/><s n="f"/></l><r>fox<s n="n"/></r></p></e> <!-- (Vulpes vulpes) -->
+    <!--<e><p><l>tóm<s n="n"/><s n="nt"/></l><r>emptiness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>tóm<s n="n"/><s n="nt"/></l><r>empty<b/>space<s n="n"/></r></p></e>-->
+    <e><p><l>tóm<s n="n"/><s n="nt"/></l><r>void<s n="n"/></r></p></e>
+    <e><p><l>tómatsafi<s n="n"/><s n="m"/></l><r>tomato<b/>juice<s n="n"/></r></p></e>
+    <e><p><l>tómatsósa<s n="n"/><s n="f"/></l><r>ketchup<s n="n"/></r></p></e>
+    <e><p><l>tómatur<s n="n"/><s n="m"/></l><r>tomato<s n="n"/></r></p></e>
+    <e><p><l>tónbil<s n="n"/><s n="nt"/></l><r>musical<b/>interval<s n="n"/></r></p></e>
+    <e><p><l>tónfræði<s n="n"/><s n="f"/></l><r>musicology<s n="n"/></r></p></e>
+    <e><p><l>tónleikar<s n="n"/><s n="m"/></l><r>concert<s n="n"/></r></p></e>
+    <e><p><l>tónlist<s n="n"/><s n="f"/></l><r>music<s n="n"/></r></p></e>
+    <e><p><l>tónlistarmaður<s n="n"/><s n="m"/></l><r>musician<s n="n"/></r></p></e>
+    <e><p><l>tónskáld<s n="n"/><s n="nt"/></l><r>composer<s n="n"/></r></p></e>
+    <e><p><l>töf<s n="n"/><s n="f"/></l><r>delay<s n="n"/></r></p></e>
+    <!--<e><p><l>töfrar<s n="n"/><s n="nt"/></l><r>enchantment<s n="n"/></r></p></e>-->
+    <e><p><l>töfrar<s n="n"/><s n="nt"/></l><r>magic<s n="n"/></r></p></e>
+    <!--<e><p><l>töfrar<s n="n"/><s n="nt"/></l><r>spell<s n="n"/></r></p></e>-->
+    <e><p><l>töfrasproti<s n="n"/><s n="m"/></l><r>magic<b/>wand<s n="n"/></r></p></e>
+    <e><p><l>tökuþýðing<s n="n"/><s n="f"/></l><r>calque<s n="n"/></r></p></e>
+    <!--<e><p><l>tökuþýðing<s n="n"/><s n="f"/></l><r>loan<b/>translation<s n="n"/></r></p></e>-->
+    <e><p><l>tölfræði<s n="n"/><s n="f"/></l><r>statistics<s n="n"/></r></p></e>
+    <e><p><l>tölustafur<s n="n"/><s n="m"/></l><r>number<s n="n"/></r></p></e> <!-- (numeral) -->
+    <e><p><l>tölva<s n="n"/><s n="f"/></l><r>computer<s n="n"/></r></p></e>
+    <e><p><l>tölvuforrit<s n="n"/><s n="nt"/></l><r>computer<b/>program<s n="n"/></r></p></e>
+    <e><p><l>tölvufræði<s n="n"/><s n="f"/></l><r>computer<b/>science<s n="n"/></r></p></e>
+    <e><p><l>tölvumús<s n="n"/><s n="f"/></l><r>computer<b/>mouse<s n="n"/></r></p></e>
+    <e><p><l>tölvunarfræði<s n="n"/><s n="f"/></l><r>computer<b/>science<s n="n"/></r></p></e>
+    <e><p><l>töng<s n="n"/><s n="f"/></l><r>pincers<s n="n"/></r></p></e>
+    <!--<e><p><l>töng<s n="n"/><s n="f"/></l><r>pliers<s n="n"/></r></p></e>-->
+    <e><p><l>tönn<s n="n"/><s n="f"/></l><r>tooth<s n="n"/></r></p></e>
+    <e><p><l>túba<s n="n"/><s n="f"/></l><r>tuba<s n="n"/></r></p></e>
+    <e><p><l>túlkur<s n="n"/><s n="m"/></l><r>interpreter<s n="n"/></r></p></e>
+    <e><p><l>túlín<s n="n"/><s n="nt"/></l><r>thulium<s n="n"/></r></p></e>
+    <e><p><l>túnfífill<s n="n"/><s n="m"/></l><r>dandelion<s n="n"/></r></p></e> <!-- (Taraxacum officinale) -->
+    <e><p><l>túpa<s n="n"/><s n="f"/></l><r>tube<s n="n"/></r></p></e>
+    <e><p><l>túr<s n="n"/><s n="m"/></l><r>trip<s n="n"/></r></p></e>
+    <!--<e><p><l>túr<s n="n"/><s n="m"/></l><r>short<b/>journey<s n="n"/></r></p></e>-->
+    <e><p><l>túrismi<s n="n"/><s n="m"/></l><r>tourism<s n="n"/></r></p></e>
+
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
