@@ -3601,6 +3601,545 @@
     <e><p><l>sjúkrabifreið<s n="n"/><s n="f"/></l><r>ambulance<s n="n"/></r></p></e> <!-- (emergency vehicle) -->
     <e><p><l>sjúkrabíll<s n="n"/><s n="m"/></l><r>ambulance<s n="n"/></r></p></e>
     <e><p><l>sjúkrahús<s n="n"/><s n="nt"/></l><r>hospital<s n="n"/></r></p></e>
+    <e><p><l>skammbyssa<s n="n"/><s n="f"/></l><r>handgun<s n="n"/></r></p></e>
+    <!--<e><p><l>skammbyssa<s n="n"/><s n="f"/></l><r>pistol<s n="n"/></r></p></e>-->
+    <e><p><l>skammhlaup<s n="n"/><s n="nt"/></l><r>short<b/>circuit<s n="n"/></r></p></e>
+    <e><p><l>skammstöfun<s n="n"/><s n="f"/></l><r>abbreviation<s n="n"/></r></p></e>
+    <!--<e><p><l>skammtur<s n="n"/><s n="m"/></l><r>dose<s n="n"/></r></p></e>-->
+    <e><p><l>skammtur<s n="n"/><s n="m"/></l><r>portion<s n="n"/></r></p></e>
+    <e><p><l>skandín<s n="n"/><s n="nt"/></l><r>scandium<s n="n"/></r></p></e>
+    <!--<e><p><l>skap<s n="n"/><s n="nt"/></l><r>mood<s n="n"/></r></p></e>-->
+    <e><p><l>skap<s n="n"/><s n="nt"/></l><r>temper<s n="n"/></r></p></e>
+    <e><p><l>skapahár<s n="n"/><s n="nt"/></l><r>pubic<b/>hair<s n="n"/></r></p></e>
+    <e><p><l>skapgerð<s n="n"/><s n="f"/></l><r>character<s n="n"/></r></p></e>
+    <e><p><l>skapraun<s n="n"/><s n="f"/></l><r>vexation<s n="n"/></r></p></e>
+    <e><p><l>skattheimtumaður<s n="n"/><s n="m"/></l><r>tax<b/>collector<s n="n"/></r></p></e>
+    <e><p><l>skattur<s n="n"/><s n="m"/></l><r>tax<s n="n"/></r></p></e>
+    <e><p><l>skaði<s n="n"/><s n="m"/></l><r>damage<s n="n"/></r></p></e>
+    <!--<e><p><l>skaði<s n="n"/><s n="m"/></l><r>harm<s n="n"/></r></p></e>-->
+    <e><p><l>skegg<s n="n"/><s n="nt"/></l><r>beard<s n="n"/></r></p></e>
+    <e><p><l>skeið<s n="n"/><s n="f"/></l><r>spoon<s n="n"/></r></p></e>
+    <!--<e><p><l>skekkja<s n="n"/><s n="f"/></l><r>error<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skekkja<s n="n"/><s n="f"/></l><r>distortion<s n="n"/></r></p></e>-->
+    <e><p><l>skekkja<s n="n"/><s n="f"/></l><r>inaccuracy<s n="n"/></r></p></e>
+    <!--<e><p><l>skekkja<s n="n"/><s n="f"/></l><r>obliquity<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skel<s n="n"/><s n="f"/></l><r>husk<s n="n"/></r></p></e>-->
+    <e><p><l>skel<s n="n"/><s n="f"/></l><r>shell<s n="n"/></r></p></e>
+    <e><p><l>skemmdarvargur<s n="n"/><s n="m"/></l><r>vandal<s n="n"/></r></p></e> <!-- (person who damages property) -->
+    <e><p><l>skemmtun<s n="n"/><s n="f"/></l><r>amusement<s n="n"/></r></p></e>
+    <!--<e><p><l>skeyti<s n="n"/><s n="nt"/></l><r>message<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skeyti<s n="n"/><s n="nt"/></l><r>missile<s n="n"/></r></p></e>--> <!-- short for tundurskeyti -->
+    <!--<e><p><l>skeyti<s n="n"/><s n="nt"/></l><r>shaft<s n="n"/></r></p></e>-->
+    <e><p><l>skeyti<s n="n"/><s n="nt"/></l><r>telegram<s n="n"/></r></p></e> <!-- (properly símskeyti) -->
+    <e><p><l>skikkja<s n="n"/><s n="f"/></l><r>cloak<s n="n"/></r></p></e>
+    <e><p><l>skil<s n="n"/><s n="nt"/></l><r>boundary<s n="n"/></r></p></e>
+    <!--<e><p><l>skil<s n="n"/><s n="nt"/></l><r>division<s n="n"/></r></p></e>-->
+    <e><p><l>skilaboð<s n="n"/><s n="nt"/></l><r>message<s n="n"/></r></p></e>
+    <!--<e><p><l>skilja<s n="v"/><s n="f"/></l><r>understand<s n="n"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>skilja<b/>að<s n="v"/><s n="f"/></l><r>separate<s n="n"/></r></p></e>--> <!-- verb -->
+    <e><p><l>skilríki<s n="n"/><s n="nt"/></l><r>identification<s n="n"/></r></p></e>
+    <!--<e><p><l>skilríki<s n="n"/><s n="nt"/></l><r>ID<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skilríki<s n="n"/><s n="nt"/></l><r>documents<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skilríki<s n="n"/><s n="nt"/></l><r>passport<s n="n"/></r></p></e>-->
+    <e><p><l>skilyrði<s n="n"/><s n="nt"/></l><r>condition<s n="n"/></r></p></e>
+    <!--<e><p><l>skin<s n="n"/><s n="nt"/></l><r>brightness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skin<s n="n"/><s n="nt"/></l><r>shimmer<s n="n"/></r></p></e>-->
+    <e><p><l>skin<s n="n"/><s n="nt"/></l><r>shine<s n="n"/></r></p></e>
+    <e><p><l>skinn<s n="n"/><s n="nt"/></l><r>skin<s n="n"/></r></p></e>
+    <!--<e><p><l>skip<s n="n"/><s n="nt"/></l><r>boat<s n="n"/></r></p></e>-->
+    <e><p><l>skip<s n="n"/><s n="nt"/></l><r>ship<s n="n"/></r></p></e>
+    <e><p><l>skipan<s n="n"/><s n="f"/></l><r>order<s n="n"/></r></p></e>
+    <!--<e><p><l>skipti<s n="n"/><s n="nt"/></l><r>division<s n="n"/></r></p></e>-->
+    <e><p><l>skipti<s n="n"/><s n="nt"/></l><r>exchange<s n="n"/></r></p></e>
+    <!--<e><p><l>skipti<s n="n"/><s n="nt"/></l><r>time<s n="n"/></r></p></e>-->
+    <e><p><l>skipulagning<s n="n"/><s n="f"/></l><r>plan<s n="n"/></r></p></e>
+    <e><p><l>skjaldarmerki<s n="n"/><s n="nt"/></l><r>coat<b/>of<b/>arms<s n="n"/></r></p></e>
+    <!--<e><p><l>skjaldbaka<s n="n"/><s n="f"/></l><r>tortoise<s n="n"/></r></p></e>-->
+    <e><p><l>skjaldbaka<s n="n"/><s n="f"/></l><r>turtle<s n="n"/></r></p></e>
+    <e><p><l>skjöldur<s n="n"/><s n="m"/></l><r>shield<s n="n"/></r></p></e> <!-- (anything which protects or defends) -->
+    <!--<e><p><l>skollaleikur<s n="n"/><s n="m"/></l><r>blind<b/>man's<b/>buff<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>skollaleikur<s n="n"/><s n="m"/></l><r>blind<b/>man's<b/>bluff<s n="n"/></r></p></e>
+    <e><p><l>skordýr<s n="n"/><s n="nt"/></l><r>insect<s n="n"/></r></p></e>
+    <e><p><l>skordýrafræði<s n="n"/><s n="f"/></l><r>entomology<s n="n"/></r></p></e>
+    <e><p><l>skorsteinn<s n="n"/><s n="m"/></l><r>chimney<s n="n"/></r></p></e>
+    <!--<e><p><l>skortur<s n="n"/><s n="m"/></l><r>absence<s n="n"/></r></p></e>-->
+    <e><p><l>skortur<s n="n"/><s n="m"/></l><r>shortage<s n="n"/></r></p></e>
+    <!--<e><p><l>skortur<s n="n"/><s n="m"/></l><r>want<s n="n"/></r></p></e>-->
+    <e><p><l>skorða<s n="n"/><s n="f"/></l><r>immobilize<s n="n"/></r></p></e>
+    <!--<e><p><l>skorða<s n="n"/><s n="f"/></l><r>prop<b/>up<s n="n"/></r></p></e>-->
+    <e><p><l>skoska<s n="n"/><s n="f"/></l><r>Scottish<s n="n"/></r></p></e>
+    <e><p><l>skot<s n="n"/><s n="nt"/></l><r>bullet<s n="n"/></r></p></e>
+    <!--<e><p><l>skot<s n="n"/><s n="nt"/></l><r>gunshot<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skot<s n="n"/><s n="nt"/></l><r>shot<s n="n"/></r></p></e>-->
+    <e><p><l>skotvopn<s n="n"/><s n="nt"/></l><r>firearm<s n="n"/></r></p></e>
+    <!--<e><p><l>skotvopn<s n="n"/><s n="nt"/></l><r>gun<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skoðun<s n="n"/><s n="f"/></l><r>belief<s n="n"/></r></p></e>-->
+    <e><p><l>skoðun<s n="n"/><s n="f"/></l><r>opinion<s n="n"/></r></p></e>
+    <e><p><l>skraut<s n="n"/><s n="nt"/></l><r>decoration<s n="n"/></r></p></e>
+    <!--<e><p><l>skraut<s n="n"/><s n="nt"/></l><r>ornament<s n="n"/></r></p></e>-->
+    <e><p><l>skref<s n="n"/><s n="nt"/></l><r>pace<s n="n"/></r></p></e>
+    <!--<e><p><l>skref<s n="n"/><s n="nt"/></l><r>step<s n="n"/></r></p></e>-->
+    <e><p><l>skrif<s n="n"/><s n="nt"/></l><r>writings<s n="n"/></r></p></e>
+    <e><p><l>skrifborð<s n="n"/><s n="nt"/></l><r>desk<s n="n"/></r></p></e>
+    <e><p><l>skrifstofa<s n="n"/><s n="f"/></l><r>office<s n="n"/></r></p></e>
+    <e><p><l>skriðdýr<s n="n"/><s n="nt"/></l><r>reptile<s n="n"/></r></p></e>
+    <e><p><l>skrá<s n="n"/><s n="f"/></l><r>list<s n="n"/></r></p></e>
+    <e><p><l>skráakerfi<s n="n"/><s n="nt"/></l><r>file<b/>system<s n="n"/></r></p></e>
+    <e><p><l>skrápdýr<s n="n"/><s n="nt"/></l><r>echinoderm<s n="n"/></r></p></e>
+    <!--<e><p><l>skræfa<s n="n"/><s n="f"/></l><r>coward<s n="n"/></r></p></e>-->
+    <e><p><l>skræfa<s n="n"/><s n="f"/></l><r>scaredy-cat<s n="n"/></r></p></e>
+    <e><p><l>skrækskaði<s n="n"/><s n="m"/></l><r>jay<s n="n"/></r></p></e> <!-- (bird:  Garrulus glandarius) -->
+    <e><p><l>skrælingi<s n="n"/><s n="m"/></l><r>barbarian<s n="n"/></r></p></e>
+    <e><p><l>skuggi<s n="n"/><s n="m"/></l><r>shadow<s n="n"/></r></p></e>
+    <!--<e><p><l>skuggi<s n="n"/><s n="m"/></l><r>shade<s n="n"/></r></p></e>-->
+    <e><p><l>skuld<s n="n"/><s n="f"/></l><r>debt<s n="n"/></r></p></e>
+    <!--<e><p><l>skurður<s n="n"/><s n="m"/></l><r>canal<s n="n"/></r></p></e>-->
+    <e><p><l>skurður<s n="n"/><s n="m"/></l><r>ditch<s n="n"/></r></p></e>
+    <e><p><l>skylda<s n="n"/><s n="f"/></l><r>duty<s n="n"/></r></p></e>
+    <!--<e><p><l>skylda<s n="n"/><s n="f"/></l><r>obligation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skyn<s n="n"/><s n="nt"/></l><r>understanding<s n="n"/></r></p></e>-->
+    <e><p><l>skyn<s n="n"/><s n="nt"/></l><r>sense<s n="n"/></r></p></e>
+    <e><p><l>skyndiminni<s n="n"/><s n="nt"/></l><r>cache<s n="n"/></r></p></e>
+    <e><p><l>skynfæri<s n="n"/><s n="nt"/></l><r>sense<s n="n"/></r></p></e>
+    <e><p><l>skynsemi<s n="n"/><s n="f"/></l><r>common<b/>sense<s n="n"/></r></p></e>
+    <e><p><l>skyrbjúgur<s n="n"/><s n="m"/></l><r>scurvy<s n="n"/></r></p></e> <!-- (disease caused by lack of vitamin C) -->
+    <e><p><l>skyrta<s n="n"/><s n="f"/></l><r>shirt<s n="n"/></r></p></e>
+    <!--<e><p><l>skytta<s n="n"/><s n="f"/></l><r>shot<s n="n"/></r></p></e>-->
+    <e><p><l>skytta<s n="n"/><s n="f"/></l><r>marksman<s n="n"/></r></p></e>
+    <!--<e><p><l>skytta<s n="n"/><s n="f"/></l><r>shooter<s n="n"/></r></p></e>-->
+    <!--<e><p><l>skytta<s n="n"/><s n="f"/></l><r>musketeer<s n="n"/></r></p></e>-->
+    <e><p><l>skák<s n="n"/><s n="f"/></l><r>chess<s n="n"/></r></p></e>
+    <e><p><l>skáld<s n="n"/><s n="nt"/></l><r>poet<s n="n"/></r></p></e>
+    <e><p><l>skáldsaga<s n="n"/><s n="f"/></l><r>novel<s n="n"/></r></p></e>
+    <e><p><l>skáldskapur<s n="n"/><s n="m"/></l><r>fiction<s n="n"/></r></p></e>
+    <e><p><l>skápur<s n="n"/><s n="m"/></l><r>closet<s n="n"/></r></p></e>
+    <!--<e><p><l>skápur<s n="n"/><s n="m"/></l><r>cupboard<s n="n"/></r></p></e>-->
+    <e><p><l>skæri<s n="n"/><s n="nt"/></l><r>scissors<s n="n"/></r></p></e>
+    <e><p><l>skírdagur<s n="n"/><s n="m"/></l><r>Maundy<b/>Thursday<s n="n"/></r></p></e>
+    <e><p><l>skófla<s n="n"/><s n="f"/></l><r>shovel<s n="n"/></r></p></e>
+    <e><p><l>skógarbjörn<s n="n"/><s n="m"/></l><r>brown<b/>bear<s n="n"/></r></p></e> <!-- (Ursus arctos) -->
+    <e><p><l>skógarfura<s n="n"/><s n="f"/></l><r>Scots<b/>Pine<s n="n"/></r></p></e>
+    <e><p><l>skógur<s n="n"/><s n="m"/></l><r>forest<s n="n"/></r></p></e>
+    <e><p><l>skóhorn<s n="n"/><s n="nt"/></l><r>shoehorn<s n="n"/></r></p></e>
+    <e><p><l>skólastjóri<s n="n"/><s n="m"/></l><r>principal<s n="n"/></r></p></e>
+    <e><p><l>skólaár<s n="n"/><s n="nt"/></l><r>academic<b/>year<s n="n"/></r></p></e>
+    <e><p><l>skóli<s n="n"/><s n="m"/></l><r>school<s n="n"/></r></p></e>
+    <e><p><l>skömm<s n="n"/><s n="f"/></l><r>shame<s n="n"/></r></p></e>
+    <e><p><l>skúr<s n="n"/><s n="f"/></l><r>rainshower<s n="n"/></r></p></e>
+    <e><p><l>ský<s n="n"/><s n="nt"/></l><r>cloud<s n="n"/></r></p></e>
+    <e><p><l>skýring<s n="n"/><s n="f"/></l><r>explanation<s n="n"/></r></p></e>
+    <e><p><l>skýrsla<s n="n"/><s n="f"/></l><r>report<s n="n"/></r></p></e>
+    <e><p><l>slag<s n="n"/><s n="nt"/></l><r>stroke<s n="n"/></r></p></e> <!-- of a clock -->
+    <e><p><l>slagur<s n="n"/><s n="m"/></l><r>fight<s n="n"/></r></p></e>
+    <!--<e><p><l>slagur<s n="n"/><s n="m"/></l><r>trick<s n="n"/></r></p></e>--> <!-- in a cardgame -->
+    <e><p><l>slagharpa<s n="n"/><s n="f"/></l><r>piano<s n="n"/></r></p></e> <!-- no longer used -->
+    <e><p><l>slagverkshljóðfæri<s n="n"/><s n="nt"/></l><r>percussion<b/>instrument<s n="n"/></r></p></e>
+    <e><p><l>slanga<s n="n"/><s n="f"/></l><r>snake<s n="n"/></r></p></e>
+    <e><p><l>slaufa<s n="n"/><s n="f"/></l><r>bow<s n="n"/></r></p></e>
+    <!--<e><p><l>slaufa<s n="n"/><s n="f"/></l><r>bowtie<s n="n"/></r></p></e>-->
+    <e><p><l>slef<s n="n"/><s n="nt"/></l><r>saliva<s n="n"/></r></p></e>
+    <!--<e><p><l>sleggja<s n="n"/><s n="f"/></l><r>sledge<s n="n"/></r></p></e>-->
+    <e><p><l>sleggja<s n="n"/><s n="f"/></l><r>sledgehammer<s n="n"/></r></p></e>
+    <e><p><l>sleikipinni<s n="n"/><s n="m"/></l><r>lollipop<s n="n"/></r></p></e>
+    <e><p><l>sleikjó<s n="n"/><s n="m"/></l><r>lollipop<s n="n"/></r></p></e>
+    <e><p><l>sleikur<s n="n"/><s n="m"/></l><r>French<b/>kiss<s n="n"/></r></p></e>
+    <e><p><l>sleði<s n="n"/><s n="m"/></l><r>sled<s n="n"/></r></p></e>
+    <!--<e><p><l>sleði<s n="n"/><s n="m"/></l><r>sleigh<s n="n"/></r></p></e>-->
+    <e><p><l>slippur<s n="n"/><s n="m"/></l><r>shipyard<s n="n"/></r></p></e>
+    <e><p><l>slit<s n="n"/><s n="f"/></l><r>wear<s n="n"/></r></p></e>
+    <e><p><l>sloppur<s n="n"/><s n="m"/></l><r>robe<s n="n"/></r></p></e> <!-- (such as a bathrobe, etc.) -->
+    <e><p><l>slys<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e>
+    <!--<e><p><l>sláttarstöðvun<s n="n"/><s n="f"/></l><r>asystole<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sláttarstöðvun<s n="n"/><s n="f"/></l><r>asystolia<s n="n"/></r></p></e>-->
+    <e><p><l>sláttur<s n="n"/><s n="m"/></l><r>pulse<s n="n"/></r></p></e>
+    <!--<e><p><l>slæmur<s n="adj"/><s n="m"/></l><r>bad<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>slétta<s n="n"/><s n="f"/></l><r>plain<s n="n"/></r></p></e>
+    <!--<e><p><l>sléttsöngur<s n="n"/><s n="m"/></l><r>plainchant<s n="n"/></r></p></e>-->
+    <e><p><l>sléttsöngur<s n="n"/><s n="m"/></l><r>plainsong<s n="n"/></r></p></e>
+    <e><p><l>slím<s n="n"/><s n="nt"/></l><r>mucus<s n="n"/></r></p></e>
+    <e><p><l>slíður<s n="n"/><s n="nt"/></l><r>sheath<s n="n"/></r></p></e>
+    <!--<e><p><l>slíður<s n="n"/><s n="nt"/></l><r>scabbard<s n="n"/></r></p></e>-->
+    <!--<e><p><l>slökkvilið<s n="n"/><s n="nt"/></l><r>fire<b/>brigade<s n="n"/></r></p></e>-->
+    <e><p><l>slökkvilið<s n="n"/><s n="nt"/></l><r>fire<b/>department<s n="n"/></r></p></e>
+    <e><p><l>smiðja<s n="n"/><s n="f"/></l><r>smithy<s n="n"/></r></p></e>
+    <e><p><l>smiður<s n="n"/><s n="m"/></l><r>carpenter<s n="n"/></r></p></e>
+    <!--<e><p><l>smiður<s n="n"/><s n="m"/></l><r>smith<s n="n"/></r></p></e>-->
+    <e><p><l>smjör<s n="n"/><s n="nt"/></l><r>butter<s n="n"/></r></p></e>
+    <e><p><l>smjörlíki<s n="n"/><s n="nt"/></l><r>margarine<s n="n"/></r></p></e>
+    <!--<e><p><l>smjörpappír<s n="n"/><s n="m"/></l><r>greaseproof<b/>paper<s n="n"/></r></p></e>-->
+    <!--<e><p><l>smjörpappír<s n="n"/><s n="m"/></l><r>waxed<b/>paper<s n="n"/></r></p></e>-->
+    <e><p><l>smjörpappír<s n="n"/><s n="m"/></l><r>wax<b/>paper<s n="n"/></r></p></e>
+    <e><p><l>smokkur<s n="n"/><s n="m"/></l><r>condom<s n="n"/></r></p></e>
+    <e><p><l>smámæli<s n="n"/><s n="nt"/></l><r>lisp<s n="n"/></r></p></e>
+    <e><p><l>smáorð<s n="n"/><s n="nt"/></l><r>function<b/>word<s n="n"/></r></p></e>
+    <e><p><l>smásaga<s n="n"/><s n="f"/></l><r>short<b/>story<s n="n"/></r></p></e>
+    <e><p><l>smáskífa<s n="n"/><s n="f"/></l><r>single<s n="n"/></r></p></e>
+    <e><p><l>smástirni<s n="n"/><s n="nt"/></l><r>asteroid<s n="n"/></r></p></e>
+    <e><p><l>sneið<s n="n"/><s n="f"/></l><r>slice<s n="n"/></r></p></e>
+    <e><p><l>snekkja<s n="n"/><s n="f"/></l><r>yacht<s n="n"/></r></p></e>
+    <e><p><l>sneriltromma<s n="n"/><s n="f"/></l><r>snare<b/>drum<s n="n"/></r></p></e>
+    <!--<e><p><l>snerta<s n="v"/><s n="f"/></l><r>touch<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>snertill<s n="n"/><s n="m"/></l><r>tangent<s n="n"/></r></p></e>
+    <!--<e><p><l>snigill<s n="n"/><s n="m"/></l><r>gastropoda<s n="n"/></r></p></e>-->
+    <e><p><l>snigill<s n="n"/><s n="m"/></l><r>snail<s n="n"/></r></p></e>
+    <!--<e><p><l>snið<s n="n"/><s n="nt"/></l><r>style<s n="n"/></r></p></e>-->
+    <e><p><l>snið<s n="n"/><s n="nt"/></l><r>pattern<s n="n"/></r></p></e>
+    <e><p><l>snjókarl<s n="n"/><s n="m"/></l><r>snowman<s n="n"/></r></p></e>
+    <e><p><l>snjókorn<s n="n"/><s n="nt"/></l><r>snowflake<s n="n"/></r></p></e>
+    <e><p><l>snjór<s n="n"/><s n="m"/></l><r>snow<s n="n"/></r></p></e>
+    <e><p><l>snyrting<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
+    <!--<e><p><l>snyrting<s n="n"/><s n="nt"/></l><r>restroom<s n="n"/></r></p></e>-->
+    <!--<e><p><l>snyrting<s n="n"/><s n="nt"/></l><r>WC<s n="n"/></r></p></e>-->
+    <e><p><l>snákur<s n="n"/><s n="m"/></l><r>snake<s n="n"/></r></p></e>
+    <e><p><l>snæljós<s n="n"/><s n="nt"/></l><r>sheet-lightning<s n="n"/></r></p></e>
+    <e><p><l>snær<s n="n"/><s n="m"/></l><r>snow<s n="n"/></r></p></e>
+    <e><p><l>snípur<s n="n"/><s n="m"/></l><r>clitoris<s n="n"/></r></p></e>
+    <e><p><l>sokkur<s n="n"/><s n="m"/></l><r>sock<s n="n"/></r></p></e>
+    <e><p><l>sonur<s n="n"/><s n="m"/></l><r>son<s n="n"/></r></p></e>
+    <e><p><l>sorg<s n="n"/><s n="f"/></l><r>grief<s n="n"/></r></p></e>
+    <!--<e><p><l>sorg<s n="n"/><s n="f"/></l><r>sorrow<s n="n"/></r></p></e>-->
+    <!--<e><p><l>spakmæli<s n="n"/><s n="nt"/></l><r>aphorism<s n="n"/></r></p></e>-->
+    <e><p><l>spakmæli<s n="n"/><s n="nt"/></l><r>saying<s n="n"/></r></p></e>
+    <!--<e><p><l>sparð<s n="n"/><s n="nt"/></l><r>turd<s n="n"/></r></p></e>-->
+    <e><p><l>sparð<s n="n"/><s n="nt"/></l><r>dropping<s n="n"/></r></p></e> <!--  feces-->
+
+    <!--<e><p><l>spað<s n="n"/><s n="nt"/></l><r>pieces<s n="n"/></r></p></e>-->
+    <e><p><l>höggva<b/>í<b/>spað<s n="n"/><s n="nt"/></l><r>cut<b/>to<b/>pieces<s n="n"/></r></p></e>
+    
+    <e><p><l>spegill<s n="n"/><s n="m"/></l><r>mirror<s n="n"/></r></p></e>
+    <e><p><l>spendýr<s n="n"/><s n="nt"/></l><r>mammal<s n="n"/></r></p></e>
+    <e><p><l>sprengja<s n="n"/><s n="f"/></l><r>bomb<s n="n"/></r></p></e> <!-- (a device filled with explosives) -->
+    <e><p><l>speni<s n="n"/><s n="m"/></l><r>teat<s n="n"/></r></p></e>
+    <!--<e><p><l>spenna<s n="n"/><s n="f"/></l><r>buckle<s n="n"/></r></p></e>-->
+    <e><p><l>spenna<s n="n"/><s n="f"/></l><r>clasp<s n="n"/></r></p></e>
+    <!--<e><p><l>spenna<s n="n"/><s n="f"/></l><r>voltage<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sperðileitrun<s n="n"/><s n="f"/></l><r>botulism<s n="n"/></r></p></e>-->
+    <e><p><l>spik<s n="n"/><s n="nt"/></l><r>fat<s n="n"/></r></p></e>
+    <e><p><l>spil<s n="n"/><s n="nt"/></l><r>game<s n="n"/></r></p></e>
+    <!--<e><p><l>spila<s n="v"/><s n="f"/></l><r>play<s n="v"/></r></p></e>--> <!-- verb -->
+    <e><p><l>spilling<s n="n"/><s n="f"/></l><r>corruption<s n="n"/></r></p></e>
+    <e><p><l>spjall<s n="n"/><s n="nt"/></l><r>talk<s n="n"/></r></p></e>
+    <e><p><l>spjallborð<s n="n"/><s n="nt"/></l><r>forum<s n="n"/></r></p></e>
+    <!--<e><p><l>spjót<s n="n"/><s n="nt"/></l><r>javelin<s n="n"/></r></p></e>-->
+    <e><p><l>spjót<s n="n"/><s n="nt"/></l><r>spear<s n="n"/></r></p></e>
+    <e><p><l>spor<s n="n"/><s n="nt"/></l><r>footprint<s n="n"/></r></p></e>
+    <e><p><l>sporðdreki<s n="n"/><s n="m"/></l><r>scorpion<s n="n"/></r></p></e>
+    <!--<e><p><l>sprauta<s n="n"/><s n="f"/></l><r>hypodermic<b/>needle<s n="n"/></r></p></e>-->
+    <e><p><l>sprauta<s n="n"/><s n="f"/></l><r>syringe<s n="n"/></r></p></e>
+    <e><p><l>spurnaratviksorð<s n="n"/><s n="nt"/></l><r>adverb<s n="n"/></r></p></e>
+    <e><p><l>spurning<s n="n"/><s n="f"/></l><r>question<s n="n"/></r></p></e>
+    <e><p><l>spænska<s n="n"/><s n="f"/></l><r>Spanish<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>spæta<s n="n"/><s n="f"/></l><r>woodpecker<s n="n"/></r></p></e> <!-- (Picidae) -->
+    <e><p><l>spínat<s n="n"/><s n="nt"/></l><r>spinach<s n="n"/></r></p></e>
+    <!--<e><p><l>spíra<s n="n"/><s n="f"/></l><r>spire<s n="n"/></r></p></e>-->
+    <e><p><l>spíra<s n="n"/><s n="f"/></l><r>sprout<s n="n"/></r></p></e>
+    <e><p><l>spói<s n="n"/><s n="m"/></l><r>whimbrel<s n="n"/></r></p></e>
+    <e><p><l>stafafura<s n="n"/><s n="f"/></l><r>Lodgepole<b/>pine<s n="n"/></r></p></e> <!-- Pinus contorta -->
+    <e><p><l>stafróf<s n="n"/><s n="nt"/></l><r>alphabet<s n="n"/></r></p></e>
+    <e><p><l>stafsetning<s n="n"/><s n="f"/></l><r>spelling<s n="n"/></r></p></e>
+    <e><p><l>stafur<s n="n"/><s n="m"/></l><r>staff<s n="n"/></r></p></e>
+    <!--<e><p><l>stafur<s n="n"/><s n="m"/></l><r>cane<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stafur<s n="n"/><s n="m"/></l><r>letter<s n="n"/></r></p></e>--> <!-- a symbol in the alphabet -->
+    <!--<e><p><l>stafur<s n="n"/><s n="m"/></l><r>stick<s n="n"/></r></p></e>-->
+    <e><p><l>stak<s n="n"/><s n="nt"/></l><r>element<s n="n"/></r></p></e>
+
+    <!--<e><p><l>stakkaskipti<s n="n"/><s n="nt"/></l><r>change<s n="n"/></r></p></e>-->
+    <e><p><l>taka<b/>stakkaskiptum<s n="n"/><s n="nt"/></l><r>undergo<b/>changes<s n="n"/></r></p></e>
+
+    <!--<e><p><l>starf<s n="n"/><s n="nt"/></l><r>business<s n="n"/></r></p></e>-->
+    <e><p><l>starf<s n="n"/><s n="nt"/></l><r>job<s n="n"/></r></p></e>
+    <!--<e><p><l>starf<s n="n"/><s n="nt"/></l><r>work<s n="n"/></r></p></e>-->
+    <e><p><l>starfsmaður<s n="n"/><s n="m"/></l><r>employee<s n="n"/></r></p></e>
+    <!--<e><p><l>starfsmaður<s n="n"/><s n="m"/></l><r>worker<s n="n"/></r></p></e>-->
+    <!--<e><p><l>starfsmenn<s n="n"/><s n="m"/></l><r>personnel<s n="n"/></r></p></e>--> <!-- is plural of starfsmaður, does it really need another entry? -->
+    <!--<e><p><l>starfsmenn<s n="n"/><s n="m"/></l><r>staff<s n="n"/></r></p></e>--> <!-- is plural of starfsmaður, does it really need another entry? -->
+    <e><p><l>staða<s n="n"/><s n="f"/></l><r>situation<s n="n"/></r></p></e>
+    <!--<e><p><l>staða<s n="n"/><s n="f"/></l><r>position<s n="n"/></r></p></e>-->
+    <e><p><l>staðall<s n="n"/><s n="m"/></l><r>standard<s n="n"/></r></p></e>
+    <e><p><l>staðaratviksorð<s n="n"/><s n="nt"/></l><r>adverb<s n="n"/></r></p></e>
+    <e><p><l>staðarfall<s n="n"/><s n="nt"/></l><r>locative<b/>case<s n="n"/></r></p></e>
+    <!--<e><p><l>staðfesta<s n="v"/><s n="f"/></l><r>confirm<s n="v"/></r></p></e>--> <!-- verb -->
+    <!--<e><p><l>staðfesta<s n="n"/><s n="f"/></l><r>firmness<s n="n"/></r></p></e>-->
+    <e><p><l>staðfesta<s n="n"/><s n="f"/></l><r>resolve<s n="n"/></r></p></e>
+    <!--<e><p><l>staðfesta<s n="n"/><s n="f"/></l><r>steadfastness<s n="n"/></r></p></e>-->
+    <e><p><l>staðhæfing<s n="n"/><s n="f"/></l><r>proposition<s n="n"/></r></p></e>
+    <e><p><l>staðreynd<s n="n"/><s n="f"/></l><r>fact<s n="n"/></r></p></e>
+    <!--<e><p><l>staður<s n="n"/><s n="m"/></l><r>location<s n="n"/></r></p></e>-->
+    <e><p><l>staður<s n="n"/><s n="m"/></l><r>place<s n="n"/></r></p></e>
+    <!--<e><p><l>staður<s n="n"/><s n="m"/></l><r>town<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stefna<s n="n"/><s n="f"/></l><r>aim<s n="n"/></r></p></e>-->
+    <e><p><l>stefna<s n="n"/><s n="f"/></l><r>direction<s n="n"/></r></p></e>
+    <!--<e><p><l>stefna<s n="n"/><s n="f"/></l><r>policy<s n="n"/></r></p></e>-->
+    <e><p><l>steindafræði<s n="n"/><s n="nt"/></l><r>mineralogy<s n="n"/></r></p></e>
+    <e><p><l>steinn<s n="n"/><s n="m"/></l><r>stone<s n="n"/></r></p></e>
+    <e><p><l>stelpa<s n="n"/><s n="f"/></l><r>girl<s n="n"/></r></p></e>
+    <e><p><l>steypireyður<s n="n"/><s n="f"/></l><r>blue<b/>whale<s n="n"/></r></p></e>
+    <e><p><l>steðji<s n="n"/><s n="m"/></l><r>anvil<s n="n"/></r></p></e>
+    <e><p><l>stig<s n="n"/><s n="nt"/></l><r>superlative<b/>degree<s n="n"/></r></p></e>
+    <e><p><l>stigagangur<s n="n"/><s n="m"/></l><r>stairway<s n="n"/></r></p></e>
+    <e><p><l>stigi<s n="n"/><s n="m"/></l><r>ladder<s n="n"/></r></p></e>
+    <!--<e><p><l>stigi<s n="n"/><s n="m"/></l><r>stairs<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stigi<s n="n"/><s n="m"/></l><r>staircase<s n="n"/></r></p></e>-->
+    <e><p><l>stilla<s n="n"/><s n="f"/></l><r>calm<s n="n"/></r></p></e>
+    <!--<e><p><l>stilling<s n="n"/><s n="f"/></l><r>adjustment<s n="n"/></r></p></e>-->
+    <e><p><l>stilling<s n="n"/><s n="f"/></l><r>setting<s n="n"/></r></p></e>
+    <!--<e><p><l>stilling<s n="n"/><s n="f"/></l><r>tuning<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stilling<s n="n"/><s n="f"/></l><r>composure<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stilling<s n="n"/><s n="f"/></l><r>restraint<s n="n"/></r></p></e>-->
+    <e><p><l>stjarna<s n="n"/><s n="f"/></l><r>star<s n="n"/></r></p></e>
+    <e><p><l>stjarneðlisfræði<s n="n"/><s n="f"/></l><r>astrophysics<s n="n"/></r></p></e>
+    <e><p><l>stjarnfræði<s n="n"/><s n="f"/></l><r>astronomy<s n="n"/></r></p></e> <!-- stjörnufræði often misspelled as stjarnfræði -->
+    <e><p><l>stjóri<s n="n"/><s n="m"/></l><r>chief<s n="n"/></r></p></e>
+    <e><p><l>stjórnarskrá<s n="n"/><s n="f"/></l><r>constitution<s n="n"/></r></p></e>
+    <e><p><l>stjórnleysi<s n="n"/><s n="nt"/></l><r>anarchy<s n="n"/></r></p></e> <!-- (absence of any form of political authority or government) -->
+    <e><p><l>stjórnmál<s n="n"/><s n="nt"/></l><r>politics<s n="n"/></r></p></e>
+    <e><p><l>stjórnmálaflokkur<s n="n"/><s n="m"/></l><r>political<b/>party<s n="n"/></r></p></e>
+    <e><p><l>stjörnufræði<s n="n"/><s n="f"/></l><r>astronomy<s n="n"/></r></p></e>
+    <e><p><l>stjörnumerki<s n="n"/><s n="nt"/></l><r>astrological<b/>sign<s n="n"/></r></p></e>
+    <!--<e><p><l>stjörnumerki<s n="n"/><s n="nt"/></l><r>zodiac<b/>sign<s n="n"/></r></p></e>-->
+    <e><p><l>stjúpdóttir<s n="n"/><s n="f"/></l><r>stepdaughter<s n="n"/></r></p></e>
+    <e><p><l>stjúpfaðir<s n="n"/><s n="m"/></l><r>stepfather<s n="n"/></r></p></e>
+    <e><p><l>stjúpmóðir<s n="n"/><s n="f"/></l><r>stepmother<s n="n"/></r></p></e>
+    <e><p><l>stjúpsonur<s n="n"/><s n="m"/></l><r>stepson<s n="n"/></r></p></e>
+    <e><p><l>stofa<s n="n"/><s n="f"/></l><r>living<b/>room<s n="n"/></r></p></e>
+    <!--<e><p><l>stofn<s n="n"/><s n="m"/></l><r>livestock<s n="n"/></r></p></e>-->
+    <e><p><l>stofn<s n="n"/><s n="m"/></l><r>stem<s n="n"/></r></p></e>
+    <!--<e><p><l>stofn<s n="n"/><s n="m"/></l><r>stock<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stofn<s n="n"/><s n="m"/></l><r>bole<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stofn<s n="n"/><s n="m"/></l><r>trunk<s n="n"/></r></p></e>-->
+    <e><p><l>stofnun<s n="n"/><s n="f"/></l><r>establishment<s n="n"/></r></p></e>
+    <!--<e><p><l>stokkur<s n="n"/><s n="m"/></l><r>box<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stokkur<s n="n"/><s n="m"/></l><r>channel<s n="n"/></r></p></e>-->
+    <e><p><l>stokkur<s n="n"/><s n="m"/></l><r>deck<b/>of<b/>cards<s n="n"/></r></p></e>
+    <!--<e><p><l>stokkur<s n="n"/><s n="m"/></l><r>shaft<s n="n"/></r></p></e>-->
+    <e><p><l>stokkönd<s n="n"/><s n="f"/></l><r>mallard<s n="n"/></r></p></e> <!-- (a common and widespread dabbling duck, Anas platyrhynchos) -->
+    <!--<e><p><l>stoppun<s n="n"/><s n="f"/></l><r>halt<s n="n"/></r></p></e>-->
+    <e><p><l>stoppun<s n="n"/><s n="f"/></l><r>stopping<s n="n"/></r></p></e>
+    <e><p><l>storkuberg<s n="n"/><s n="nt"/></l><r>porphyritic<b/>igneous<b/>rock<s n="n"/></r></p></e>
+    <e><p><l>storkur<s n="n"/><s n="m"/></l><r>stork<s n="n"/></r></p></e>
+    <e><p><l>stormur<s n="n"/><s n="m"/></l><r>storm<s n="n"/></r></p></e>
+    <e><p><l>stoð<s n="n"/><s n="f"/></l><r>support<s n="n"/></r></p></e>
+    <!--<e><p><l>stoð<s n="n"/><s n="f"/></l><r>prop<s n="n"/></r></p></e>-->
+    <e><p><l>strandfura<s n="n"/><s n="f"/></l><r>maritime<b/>pine<s n="n"/></r></p></e> <!-- (a pine tree) -->
+    <e><p><l>straujárn<s n="n"/><s n="nt"/></l><r>iron<s n="n"/></r></p></e> <!-- (for pressing clothes) -->
+    <e><p><l>straumur<s n="n"/><s n="m"/></l><r>stream<s n="n"/></r></p></e>
+    <e><p><l>streita<s n="n"/><s n="f"/></l><r>stress<s n="n"/></r></p></e>
+    <!--<e><p><l>strengjahljóðfæri<s n="n"/><s n="nt"/></l><r>chordophone<s n="n"/></r></p></e>-->
+    <e><p><l>strengjahljóðfæri<s n="n"/><s n="nt"/></l><r>string<b/>instrument<s n="n"/></r></p></e>
+    <e><p><l>strengur<s n="n"/><s n="m"/></l><r>string<s n="n"/></r></p></e>
+    <e><p><l>strokleður<s n="n"/><s n="nt"/></l><r>eraser<s n="n"/></r></p></e>
+    <!--<e><p><l>strokleður<s n="n"/><s n="nt"/></l><r>rubber<s n="n"/></r></p></e>--> <!-- British English -->
+    <e><p><l>strompur<s n="n"/><s n="m"/></l><r>chimney<s n="n"/></r></p></e>
+    <e><p><l>strontín<s n="n"/><s n="nt"/></l><r>strontium<s n="n"/></r></p></e>
+    <e><p><l>strumpur<s n="n"/><s n="m"/></l><r>smurf<s n="n"/></r></p></e>
+    <e><p><l>strá<s n="n"/><s n="nt"/></l><r>straw<s n="n"/></r></p></e>
+    <e><p><l>strákur<s n="n"/><s n="m"/></l><r>boy<s n="n"/></r></p></e>
+    <e><p><l>stræti<s n="n"/><s n="nt"/></l><r>street<s n="n"/></r></p></e>
+    <e><p><l>stríð<s n="n"/><s n="nt"/></l><r>war<s n="n"/></r></p></e>
+    <e><p><l>stríðsfangi<s n="n"/><s n="m"/></l><r>prisoner<b/>of<b/>war<s n="n"/></r></p></e>
+    <e><p><l>strönd<s n="n"/><s n="f"/></l><r>beach<s n="n"/></r></p></e>
+    <!--<e><p><l>strönd<s n="n"/><s n="f"/></l><r>coast<s n="n"/></r></p></e>-->
+    <e><p><l>strútur<s n="n"/><s n="m"/></l><r>ostrich<s n="n"/></r></p></e>
+    <e><p><l>stubbspæta<s n="n"/><s n="f"/></l><r>lesser<b/>spotted<b/>woodpecker<s n="n"/></r></p></e> <!-- (a species of woodpecker) -->
+    <e><p><l>stund<s n="n"/><s n="f"/></l><r>hour<s n="n"/></r></p></e>
+    <!--<e><p><l>stund<s n="n"/><s n="nt"/></l><r>time<s n="n"/></r></p></e>-->
+    <e><p><l>stutt<b/>frásögn<s n="n"/><s n="f"/></l><r>anecdote<s n="n"/></r></p></e> <!-- (short account of an incident) -->
+    <!--<e><p><l>stykki<s n="n"/><s n="nt"/></l><r>chunk<s n="n"/></r></p></e>-->
+    <e><p><l>stykki<s n="n"/><s n="nt"/></l><r>piece<s n="n"/></r></p></e>
+    <e><p><l>styrjöld<s n="n"/><s n="f"/></l><r>war<s n="n"/></r></p></e> <!-- (conflict involving organized use of arms) -->
+    <!-- <e><p><l>styrkur<s n="n"/><s n="m"/></l><r>magnitude<s n="n"/></r></p></e> --> <!-- (of a star) -->
+    <e><p><l>styrkur<s n="n"/><s n="m"/></l><r>strength<s n="n"/></r></p></e>
+    <e><p><l>stytta<s n="n"/><s n="f"/></l><r>statue<s n="n"/></r></p></e>
+    <e><p><l>stytting<s n="n"/><s n="f"/></l><r>shortening<s n="n"/></r></p></e>
+    <e><p><l>stál<s n="n"/><s n="nt"/></l><r>steel<s n="n"/></r></p></e>
+    <e><p><l>stálull<s n="n"/><s n="f"/></l><r>steel<b/>wool<s n="n"/></r></p></e>
+    <!-- <e><p><l>stærð<s n="n"/><s n="f"/></l><r>dimensions<s n="n"/></r></p></e> --> <!-- (mathematics) -->
+    <!-- <e><p><l>stærð<s n="n"/><s n="f"/></l><r>quantity<s n="n"/></r></p></e> --> <!-- (mathematics) -->
+    <e><p><l>stærð<s n="n"/><s n="f"/></l><r>size<s n="n"/></r></p></e> <!-- (clothes) -->
+    <e><p><l>stærðfræði<s n="n"/><s n="f"/></l><r>mathematics<s n="n"/></r></p></e>
+    <e><p><l>stærðfræðingur<s n="n"/><s n="m"/></l><r>mathematician<s n="n"/></r></p></e>
+    <e><p><l>stétt<s n="n"/><s n="f"/></l><r>sidewalk<s n="n"/></r></p></e>
+    <!--<e><p><l>stétt<s n="n"/><s n="f"/></l><r>social<b/>class<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stígur<s n="n"/><s n="m"/></l><r>alleyway<s n="n"/></r></p></e>-->
+    <e><p><l>stígur<s n="n"/><s n="m"/></l><r>path<s n="n"/></r></p></e>
+    <e><p><l>stígvél<s n="n"/><s n="nt"/></l><r>boot<s n="n"/></r></p></e>
+    <e><p><l>stírur<s n="n"/><s n="nt"/></l><r>mucus<s n="n"/></r></p></e> <!-- a substance found in the corner of the eyes after waking -->
+    <e><p><l>stóll<s n="n"/><s n="m"/></l><r>chair<s n="n"/></r></p></e>
+    <e><p><l>stóuspeki<s n="n"/><s n="f"/></l><r>stoicism<s n="n"/></r></p></e>
+    <e><p><l>stökk<s n="n"/><s n="nt"/></l><r>jump<s n="n"/></r></p></e>
+    <!--<e><p><l>stökk<s n="n"/><s n="nt"/></l><r>gallop<s n="n"/></r></p></e>-->
+    <!--<e><p><l>stöðvun<s n="n"/><s n="f"/></l><r>halt<s n="n"/></r></p></e>-->
+    <e><p><l>stöðvun<s n="n"/><s n="f"/></l><r>stopping<s n="n"/></r></p></e>
+    <e><p><l>stúdentspróf<s n="n"/><s n="nt"/></l><r>college<b/>degree<s n="n"/></r></p></e>
+    <e><p><l>stúfa<s n="n"/><s n="f"/></l><r>succisa<b/>pratensis<s n="n"/></r></p></e>
+    <e><p><l>stúlka<s n="n"/><s n="f"/></l><r>girl<s n="n"/></r></p></e>
+    <!--<e><p><l>stýri<s n="n"/><s n="nt"/></l><r>rudder<s n="n"/></r></p></e>-->
+    <e><p><l>stýri<s n="n"/><s n="nt"/></l><r>steering<b/>wheel<s n="n"/></r></p></e>
+    <e><p><l>stýrikerfi<s n="n"/><s n="nt"/></l><r>operating<b/>system<s n="n"/></r></p></e>
+    <e><p><l>sultur<s n="n"/><s n="m"/></l><r>hunger<s n="n"/></r></p></e>
+    <e><p><l>sumar<s n="n"/><s n="nt"/></l><r>summer<s n="n"/></r></p></e>
+    <e><p><l>summa<s n="n"/><s n="f"/></l><r>sum<s n="n"/></r></p></e>
+    <!--<e><p><l>sund<s n="n"/><s n="nt"/></l><r>strait<s n="n"/></r></p></e>--> <!-- in the ocean -->
+    <!--<e><p><l>sund<s n="n"/><s n="nt"/></l><r>alley<s n="n"/></r></p></e>-->
+    <e><p><l>sund<s n="n"/><s n="nt"/></l><r>swim<s n="n"/></r></p></e>
+    <e><p><l>sundbolur<s n="n"/><s n="f"/></l><r>swimsuit<s n="n"/></r></p></e>
+    <e><p><l>sundlaug<s n="n"/><s n="f"/></l><r>swimming<b/>pool<s n="n"/></r></p></e>
+    <e><p><l>sundskýla<s n="n"/><s n="f"/></l><r>swimming<b/>trunks<s n="n"/></r></p></e>
+    <e><p><l>sunnudagur<s n="n"/><s n="m"/></l><r>Sunday<s n="n"/></r></p></e>
+    <e><p><l>suðumark<s n="n"/><s n="nt"/></l><r>boiling<b/>point<s n="n"/></r></p></e>
+    <e><p><l>suður<s n="n"/><s n="nt"/></l><r>south<s n="n"/></r></p></e>
+    <e><p><l>suðurhvel<s n="n"/><s n="nt"/></l><r>southern<b/>hemisphere<s n="n"/></r></p></e>
+    <e><p><l>suðurljós<s n="n"/><s n="nt"/></l><r>Aurora<b/>australis<s n="n"/></r></p></e>
+    <e><p><l>svahílí<s n="n"/><s n="nt"/></l><r>Swahili<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>svala<s n="n"/><s n="f"/></l><r>swallow<s n="n"/></r></p></e>
+    <e><p><l>svanur<s n="n"/><s n="m"/></l><r>swan<s n="n"/></r></p></e> <!-- (Cygnus cygnus) -->
+    <!--<e><p><l>svar<s n="n"/><s n="nt"/></l><r>answer<s n="n"/></r></p></e>-->
+    <e><p><l>svar<s n="n"/><s n="nt"/></l><r>reply<s n="n"/></r></p></e>
+    <e><p><l>svarthol<s n="n"/><s n="nt"/></l><r>black<b/>hole<s n="n"/></r></p></e>
+    <e><p><l>svarti<b/>dauði<s n="n"/><s n="m"/></l><r>Black<b/>Death<s n="n"/></r></p></e>
+    <e><p><l>svartsvanur<s n="n"/><s n="m"/></l><r>black<b/>swan<s n="n"/></r></p></e> <!-- (the bird: cygnus atratus) -->
+    <e><p><l>svartþröstur<s n="n"/><s n="m"/></l><r>blackbird<s n="n"/></r></p></e> <!-- (A common thrush, Turdus merula) -->
+    <e><p><l>svefn<s n="n"/><s n="m"/></l><r>sleep<s n="n"/></r></p></e>
+    <e><p><l>svefnherbergi<s n="n"/><s n="nt"/></l><r>bedroom<s n="n"/></r></p></e>
+    <e><p><l>svefnhús<s n="n"/><s n="nt"/></l><r>dormitory<s n="n"/></r></p></e>
+    <e><p><l>sveinbarn<s n="n"/><s n="nt"/></l><r>boy<s n="n"/></r></p></e>
+    <e><p><l>sveinn<s n="n"/><s n="m"/></l><r>boy<s n="n"/></r></p></e>
+    <!--<e><p><l>sveinn<s n="n"/><s n="m"/></l><r>lad<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>country<s n="n"/></r></p></e>-->
+    <e><p><l>sveit<s n="n"/><s n="f"/></l><r>countryside<s n="n"/></r></p></e>
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>district<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>rural<b/>area<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>band<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>group<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>team<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveit<s n="n"/><s n="f"/></l><r>province<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sveitarfélag<s n="n"/><s n="nt"/></l><r>township<s n="n"/></r></p></e>-->
+    <e><p><l>sveitarfélag<s n="n"/><s n="nt"/></l><r>municipality<s n="n"/></r></p></e>
+    <!--<e><p><l>sveppur<s n="n"/><s n="m"/></l><r>fungus<s n="n"/></r></p></e>-->
+    <e><p><l>sveppur<s n="n"/><s n="m"/></l><r>mushroom<s n="n"/></r></p></e>
+    <e><p><l>sverð<s n="n"/><s n="nt"/></l><r>sword<s n="n"/></r></p></e>
+    <e><p><l>sveðja<s n="n"/><s n="f"/></l><r>saber<s n="n"/></r></p></e>
+    <!--<e><p><l>svik<s n="n"/><s n="nt"/></l><r>deceit<s n="n"/></r></p></e>-->
+    <!--<e><p><l>svik<s n="n"/><s n="nt"/></l><r>false<b/>pretenses<s n="n"/></r></p></e>-->
+    <e><p><l>svik<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
+    <!--<e><p><l>svik<s n="n"/><s n="nt"/></l><r>sell-out<s n="n"/></r></p></e>-->
+    <!--<e><p><l>svik<s n="n"/><s n="nt"/></l><r>treachery<s n="n"/></r></p></e>-->
+    <!--<e><p><l>svili<s n="n"/><s n="m"/></l><r>brother-in-law<b/>by<b/>marriage<s n="n"/></r></p></e>-->
+    <e><p><l>svili<s n="n"/><s n="m"/></l><r>brother-in-law<s n="n"/></r></p></e> <!-- brother of someone's sibling's spouse -->
+    <e><p><l>svilkona<s n="n"/><s n="f"/></l><r>sister-in-law<s n="n"/></r></p></e> <!-- sister of someone's sibling's spouse -->
+    <!--<e><p><l>svilkona<s n="n"/><s n="f"/></l><r>sister-in-law<b/>by<b/>marriage<s n="n"/></r></p></e>-->
+    <e><p><l>svipa<s n="n"/><s n="f"/></l><r>riding<b/>crop<s n="n"/></r></p></e>
+    <!--<e><p><l>svipan<s n="n"/><s n="f"/></l><r>moment<s n="n"/></r></p></e>-->
+    <!--<e><p><l>svipur<s n="n"/><s n="m"/></l><r>face<s n="n"/></r></p></e>-->
+    <e><p><l>svipur<s n="n"/><s n="m"/></l><r>look<s n="n"/></r></p></e>
+    <!--<e><p><l>sviti<s n="n"/><s n="m"/></l><r>perspiration<s n="n"/></r></p></e>-->
+    <e><p><l>sviti<s n="n"/><s n="m"/></l><r>sweat<s n="n"/></r></p></e>
+    <!--<e><p><l>svið<s n="n"/><s n="nt"/></l><r>scene<s n="n"/></r></p></e>-->
+    <e><p><l>svið<s n="n"/><s n="nt"/></l><r>stage<s n="n"/></r></p></e>
+    <!--<e><p><l>svið<s n="n"/><s n="nt"/></l><r>scorched<b/>sheep's<b/>head<s n="n"/></r></p></e>-->
+    <e><p><l>svunta<s n="n"/><s n="f"/></l><r>apron<s n="n"/></r></p></e>
+    <!--<e><p><l>svunta<s n="n"/><s n="f"/></l><r>counterfoil<s n="n"/></r></p></e>-->
+    <e><p><l>svæði<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e>
+    <!--<e><p><l>svín<s n="n"/><s n="nt"/></l><r>swine<s n="n"/></r></p></e>-->
+    <e><p><l>svín<s n="n"/><s n="nt"/></l><r>pig<s n="n"/></r></p></e>
+    <e><p><l>svínakjöt<s n="n"/><s n="nt"/></l><r>pork<s n="n"/></r></p></e>
+    <e><p><l>hársvörður<s n="n"/><s n="m"/></l><r>scalp<s n="n"/></r></p></e>
+    <e><p><l>svörður<s n="n"/><s n="m"/></l><r>scalp<s n="n"/></r></p></e>
+    <e><p><l>svörður<s n="n"/><s n="m"/></l><r>sward<s n="n"/></r></p></e>
+    <!--<e><p><l>svörður<s n="n"/><s n="m"/></l><r>turf<s n="n"/></r></p></e>-->
+    <e><p><l>sykur<s n="n"/><s n="m"/></l><r>sugar<s n="n"/></r></p></e>
+    <e><p><l>sykurreyr<s n="n"/><s n="m"/></l><r>sugar<b/>cane<s n="n"/></r></p></e>
+    <e><p><l>sykursýki<s n="n"/><s n="f"/></l><r>diabetes<s n="n"/></r></p></e>
+    <!--<e><p><l>synd<s n="n"/><s n="f"/></l><r>shame<s n="n"/></r></p></e>-->
+    <e><p><l>synd<s n="n"/><s n="f"/></l><r>sin<s n="n"/></r></p></e>
+    <e><p><l>systir<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
+    <e><p><l>systkin<s n="n"/><s n="nt"/></l><r>sibling<s n="n"/></r></p></e>
+    <e><p><l>systrungur<s n="n"/><s n="m"/></l><r>cousin<s n="n"/></r></p></e> <!-- Old Icelandic... cousins through sisters? -->
+    <e><p><l>sál<s n="n"/><s n="f"/></l><r>soul<s n="n"/></r></p></e>
+    <e><p><l>sáld<s n="n"/><s n="nt"/></l><r>sieve<s n="n"/></r></p></e>
+    <e><p><l>sálfræði<s n="n"/><s n="f"/></l><r>psychology<s n="n"/></r></p></e>
+    <e><p><l>sálmabók<s n="n"/><s n="f"/></l><r>hymnal<s n="n"/></r></p></e>
+    <!--<e><p><l>sálmur<s n="n"/><s n="m"/></l><r>hymn<s n="n"/></r></p></e>-->
+    <e><p><l>sálmur<s n="n"/><s n="m"/></l><r>psalm<s n="n"/></r></p></e>
+    <e><p><l>sápa<s n="n"/><s n="f"/></l><r>soap<s n="n"/></r></p></e>
+    <e><p><l>sápukúla<s n="n"/><s n="f"/></l><r>soap<b/>bubble<s n="n"/></r></p></e> <!-- (a very thin film of soap water that forms a sphere) -->
+    <e><p><l>sárasótt<s n="n"/><s n="f"/></l><r>syphilis<s n="n"/></r></p></e>
+    <e><p><l>sáraumbúðakassi<s n="n"/><s n="m"/></l><r>first<b/>aid<b/>box<s n="n"/></r></p></e>
+    <e><p><l>sársauki<s n="n"/><s n="m"/></l><r>pain<s n="n"/></r></p></e>
+    <!--<e><p><l>sátt<s n="n"/><s n="f"/></l><r>agreement<s n="n"/></r></p></e>-->
+    <e><p><l>sátt<s n="n"/><s n="f"/></l><r>reconciliation<s n="n"/></r></p></e>
+    <e><p><l>sáðlát<s n="n"/><s n="nt"/></l><r>ejaculation<s n="n"/></r></p></e> <!-- (release of semen from the penis) -->
+    <e><p><l>sæbjúga<s n="n"/><s n="nt"/></l><r>sea<b/>cucumber<s n="n"/></r></p></e>
+    <!--<e><p><l>sælilja<s n="n"/><s n="f"/></l><r>crinoid<s n="n"/></r></p></e>-->
+    <e><p><l>sælilja<s n="n"/><s n="f"/></l><r>sea-lily<s n="n"/></r></p></e>
+    <!--<e><p><l>sæng<s n="n"/><s n="f"/></l><r>bed<s n="n"/></r></p></e>--> <!-- in old Icelandic -->
+    <e><p><l>sæng<s n="n"/><s n="f"/></l><r>duvet<s n="n"/></r></p></e>
+    <e><p><l>sængurver<s n="n"/><s n="nt"/></l><r>duvet<b/>cover<s n="n"/></r></p></e>
+    <e><p><l>sænska<s n="n"/><s n="f"/></l><r>Swedish<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>sæskrímsli<s n="n"/><s n="nt"/></l><r>sea<b/>monster<s n="n"/></r></p></e>
+    <e><p><l>sæstjarna<s n="n"/><s n="f"/></l><r>starfish<s n="n"/></r></p></e>
+    <!--<e><p><l>sæti<s n="n"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>-->
+    <e><p><l>sæti<s n="n"/><s n="nt"/></l><r>seat<s n="n"/></r></p></e>
+    <e><p><l>sætistala<s n="n"/><s n="f"/></l><r>atomic<b/>number<s n="n"/></r></p></e>
+    <e><p><l>sætt<s n="n"/><s n="f"/></l><r>reconciliation<s n="n"/></r></p></e>
+    <e><p><l>séra<s n="n"/><s n="m"/></l><r>reverend<s n="n"/></r></p></e>
+    <e><p><l>sérhljóð<s n="n"/><s n="nt"/></l><r>vowel<s n="n"/></r></p></e>
+    <e><p><l>sígaretta<s n="n"/><s n="f"/></l><r>cigarette<s n="n"/></r></p></e>
+    <e><p><l>símaklefi<s n="n"/><s n="m"/></l><r>phone<b/>booth<s n="n"/></r></p></e>
+    <e><p><l>símasamband<s n="n"/><s n="nt"/></l><r>telephone<b/>connection<s n="n"/></r></p></e>
+    <e><p><l>sími<s n="n"/><s n="m"/></l><r>telephone<s n="n"/></r></p></e>
+<!--    <e><p><l>sítar<s n="n"/><s n="m"/></l><r>zither<s n="n"/></r></p></e> --> <!-- (musical instrument) -->
+    <e><p><l>sítar<s n="n"/><s n="m"/></l><r>sitar<s n="n"/></r></p></e> <!-- (musical instrument) -->
+    <e><p><l>sítróna<s n="n"/><s n="f"/></l><r>lemon<s n="n"/></r></p></e>
+    <!--<e><p><l>síða<s n="n"/><s n="f"/></l><r>page<s n="n"/></r></p></e>--> <!-- short for blaðsíða -->
+    <e><p><l>síða<s n="n"/><s n="f"/></l><r>side<s n="n"/></r></p></e>
+    <e><p><l>síðdegi<s n="n"/><s n="nt"/></l><r>afternoon<s n="n"/></r></p></e> <!-- (part of the day between noon and evening) -->
+    <e><p><l>sófi<s n="n"/><s n="m"/></l><r>couch<s n="n"/></r></p></e>
+    <!--<e><p><l>sófi<s n="n"/><s n="m"/></l><r>sofa<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sókn<s n="n"/><s n="f"/></l><r>attack<s n="n"/></r></p></e>-->
+    <e><p><l>sókn<s n="n"/><s n="f"/></l><r>offense<s n="n"/></r></p></e>
+    <!--<e><p><l>sókn<s n="n"/><s n="f"/></l><r>parish<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sókn<s n="n"/><s n="f"/></l><r>attendance<s n="n"/></r></p></e>--> <!-- short for tímasókn -->
+    <e><p><l>sól<s n="n"/><s n="f"/></l><r>sun<s n="n"/></r></p></e>
+    <e><p><l>sólarlag<s n="n"/><s n="nt"/></l><r>sunset<s n="n"/></r></p></e>
+    <e><p><l>sólarljós<s n="n"/><s n="nt"/></l><r>sunlight<s n="n"/></r></p></e>
+    <e><p><l>sólgleraugu<s n="n"/><s n="nt"/></l><r>sunglasses<s n="n"/></r></p></e>
+    <e><p><l>sólkerfi<s n="n"/><s n="nt"/></l><r>solar<b/>system<s n="n"/></r></p></e>
+    <e><p><l>sólsetur<s n="n"/><s n="nt"/></l><r>sunset<s n="n"/></r></p></e>
+    <e><p><l>sólskin<s n="n"/><s n="nt"/></l><r>sunshine<s n="n"/></r></p></e>
+    <e><p><l>sólskjálftafræði<s n="n"/><s n="f"/></l><r>helioseismology<s n="n"/></r></p></e>
+    <e><p><l>sólskríkja<s n="n"/><s n="f"/></l><r>snow<b/>bunting<s n="n"/></r></p></e>
+    <e><p><l>sólúr<s n="n"/><s n="nt"/></l><r>sundial<s n="n"/></r></p></e>
+    <e><p><l>sópur<s n="n"/><s n="m"/></l><r>broom<s n="n"/></r></p></e>
+    <e><p><l>sósa<s n="n"/><s n="f"/></l><r>sauce<s n="n"/></r></p></e>
+    <e><p><l>sótari<s n="n"/><s n="m"/></l><r>chimney<b/>sweep<s n="n"/></r></p></e>
+    <e><p><l>sótt<s n="n"/><s n="f"/></l><r>illness<s n="n"/></r></p></e>
+    <e><p><l>söfnuður<s n="n"/><s n="m"/></l><r>congregation<s n="n"/></r></p></e>
+    <e><p><l>sög<s n="n"/><s n="f"/></l><r>saw<s n="n"/></r></p></e>
+    <e><p><l>sögn<s n="n"/><s n="f"/></l><r>verb<s n="n"/></r></p></e>
+    <!--<e><p><l>sök<s n="n"/><s n="f"/></l><r>accusation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sök<s n="n"/><s n="f"/></l><r>case<s n="n"/></r></p></e>-->
+    <!--<e><p><l>sök<s n="n"/><s n="f"/></l><r>offence<s n="n"/></r></p></e>-->
+    <e><p><l>sök<s n="n"/><s n="f"/></l><r>fault<s n="n"/></r></p></e>
+    <e><p><l>sönglag<s n="n"/><s n="nt"/></l><r>song<s n="n"/></r></p></e>
+    <!--<e><p><l>söngur<s n="n"/><s n="m"/></l><r>singing<s n="n"/></r></p></e>-->
+    <e><p><l>söngur<s n="n"/><s n="m"/></l><r>song<s n="n"/></r></p></e>
+    <e><p><l>söngvari<s n="n"/><s n="m"/></l><r>singer<s n="n"/></r></p></e>
+    <e><p><l>sönnur<s n="n"/><s n="f"/></l><r>proof<s n="n"/></r></p></e>
+    <e><p><l>súkkulaði<s n="n"/><s n="nt"/></l><r>chocolate<s n="n"/></r></p></e>
+    <e><p><l>súmerska<s n="n"/><s n="nt"/></l><r>Sumerian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>súpa<s n="n"/><s n="f"/></l><r>soup<s n="n"/></r></p></e>
+    <e><p><l>súrefni<s n="n"/><s n="nt"/></l><r>oxygen<s n="n"/></r></p></e>
+    <e><p><l>sút<s n="n"/><s n="f"/></l><r>sorrow<s n="n"/></r></p></e>
+    <!--<e><p><l>sýki<s n="n"/><s n="f"/></l><r>disease<s n="n"/></r></p></e>-->
+    <e><p><l>sýki<s n="n"/><s n="f"/></l><r>illness<s n="n"/></r></p></e>
+    <!--<e><p><l>sýning<s n="n"/><s n="f"/></l><r>exhibition<s n="n"/></r></p></e>-->
+    <e><p><l>sýning<s n="n"/><s n="f"/></l><r>show<s n="n"/></r></p></e>
+    <e><p><l>sýr<s n="n"/><s n="f"/></l><r>sow<s n="n"/></r></p></e> <!-- (female pig) -->
+    <e><p><l>sýra<s n="n"/><s n="f"/></l><r>acid<s n="n"/></r></p></e>
+    <e><p><l>sýrustig<s n="n"/><s n="nt"/></l><r>acidity<s n="n"/></r></p></e>
+    <e><p><l>sýsla<s n="n"/><s n="f"/></l><r>county<s n="n"/></r></p></e>
+    <e><p><l>sýslumaður<s n="n"/><s n="m"/></l><r>sheriff<s n="n"/></r></p></e>
     
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
