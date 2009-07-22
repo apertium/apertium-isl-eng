@@ -4630,6 +4630,137 @@
     
     <e><p><l>z<s n="n"/><s n="nt"/></l><r>z<s n="n"/></r></p></e>
     
+    
+    <e><p><l>Ísafjarðardjúp<s n="n"/><s n="nt"/></l><r>Ísafjarðardjúp<s n="n"/></r></p></e>
+    <e><p><l>Íslendingur<s n="n"/><s n="m"/></l><r>Icelander<s n="n"/></r></p></e>
+    
+    
+    <!--<e><p><l>á<s n="n"/><s n="nt"/></l><r>á<s n="n"/></r></p></e>--> <!-- the letter á (same as other letters are listed) but since it is also a highly ambiguous word, I decided to comment this one out -->
+    <!--<e><p><l>á<s n="n"/><s n="f"/></l><r>in<s n="n"/></r></p></e>--> <!-- preposition? -->
+    <!--<e><p><l>á<s n="n"/><s n="f"/></l><r>on<s n="n"/></r></p></e>--> <!-- preposition? -->
+    <!--<e><p><l>á<s n="ij"/><s n="f"/></l><r>ow<s n="ij"/></r></p></e>--> <!-- interjection -->
+    <!--<e><p><l>á<s n="ij"/><s n="f"/></l><r>ouch<s n="ij"/></r></p></e>--> <!-- interjection -->
+    <e><p><l>á<s n="n"/><s n="f"/></l><r>river<s n="n"/></r></p></e>
+    <e><p><l>áburður<s n="n"/><s n="m"/></l><r>ointment<s n="n"/></r></p></e>
+    <!--<e><p><l>áburður<s n="n"/><s n="m"/></l><r>salve<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áburður<s n="n"/><s n="m"/></l><r>fertilizer<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>guarantee<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>warranty<s n="n"/></r></p></e>-->
+    <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
+    <e><p><l>ábóti<s n="n"/><s n="m"/></l><r>abbot<s n="n"/></r></p></e>
+    <e><p><l>áfangi<s n="n"/><s n="m"/></l><r>phase<s n="n"/></r></p></e>
+    <!--<e><p><l>áfangi<s n="n"/><s n="m"/></l><r>stage<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áfangi<s n="n"/><s n="m"/></l><r>step<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áfangi<s n="n"/><s n="m"/></l><r>stepping-stone<s n="n"/></r></p></e>-->
+    <e><p><l>áfengi<s n="n"/><s n="nt"/></l><r>alcohol<s n="n"/></r></p></e>
+    <e><p><l>áfir<s n="n"/><s n="f"/></l><r>buttermilk<s n="n"/></r></p></e> <!-- not exactly buttermilk... is old Icelandic term -->
+    <!--<e><p><l>áflog<s n="n"/><s n="nt"/></l><r>brawl<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áflog<s n="n"/><s n="nt"/></l><r>rough-and-tumble<s n="n"/></r></p></e>-->
+    <e><p><l>áflog<s n="n"/><s n="nt"/></l><r>fight<s n="n"/></r></p></e>
+    <e><p><l>áform<s n="n"/><s n="nt"/></l><r>plan<s n="n"/></r></p></e>
+    <e><p><l>ágirnd<s n="n"/><s n="f"/></l><r>greed<s n="n"/></r></p></e>
+    <!--<e><p><l>ágreiningur<s n="n"/><s n="m"/></l><r>disagreement<s n="n"/></r></p></e>-->
+    <e><p><l>ágreiningur<s n="n"/><s n="m"/></l><r>dispute<s n="n"/></r></p></e>
+    <!--<e><p><l>ágrip<s n="n"/><s n="nt"/></l><r>abridgement<s n="n"/></r></p></e>-->
+    <e><p><l>ágrip<s n="n"/><s n="nt"/></l><r>summary<s n="n"/></r></p></e>
+    <e><p><l>ágúst<s n="n"/><s n="nt"/></l><r>August<s n="n"/></r></p></e>
+    <e><p><l>áhersluatviksorð<s n="n"/><s n="nt"/></l><r>adverb<s n="n"/></r></p></e>
+    <e><p><l>áhorfandi<s n="n"/><s n="m"/></l><r>spectator<s n="n"/></r></p></e>
+    <e><p><l>áhrif<s n="n"/><s n="nt"/></l><r>influence<s n="n"/></r></p></e>
+    <e><p><l>áhugaleikari<s n="n"/><s n="m"/></l><r>amateur<b/>actor<s n="n"/></r></p></e>
+    <!--<e><p><l>áhugamaður<s n="n"/><s n="m"/></l><r>amateur<s n="n"/></r></p></e>-->
+    <e><p><l>áhugamaður<s n="n"/><s n="m"/></l><r>enthusiast<s n="n"/></r></p></e>
+    <e><p><l>áhugamál<s n="n"/><s n="nt"/></l><r>hobby<s n="n"/></r></p></e>
+    <!--<e><p><l>áhugamál<s n="n"/><s n="nt"/></l><r>interest<s n="n"/></r></p></e>-->
+    <e><p><l>áhugi<s n="n"/><s n="m"/></l><r>interest<s n="n"/></r></p></e>
+    <!--<e><p><l>áhyggja<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e>-->
+    <e><p><l>áhyggja<s n="n"/><s n="f"/></l><r>worry<s n="n"/></r></p></e>
+    <!--<e><p><l>áhætta<s n="n"/><s n="f"/></l><r>hazard<s n="n"/></r></p></e>-->
+    <e><p><l>áhætta<s n="n"/><s n="f"/></l><r>risk<s n="n"/></r></p></e>
+    <e><p><l>áhöfn<s n="n"/><s n="f"/></l><r>crew<s n="n"/></r></p></e>
+    <e><p><l>ákavíti<s n="n"/><s n="nt"/></l><r>aquavit<s n="n"/></r></p></e>
+    <e><p><l>ákveðinn<b/>greinir<s n="n"/><s n="m"/></l><r>definite<b/>article<s n="n"/></r></p></e>
+    <e><p><l>ákvörðun<s n="n"/><s n="f"/></l><r>decision<s n="n"/></r></p></e>
+    <!--<e><p><l>ákvörðun<s n="n"/><s n="f"/></l><r>resolution<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ál<s n="n"/><s n="nt"/></l><r>aluminium<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>ál<s n="n"/><s n="nt"/></l><r>aluminum<s n="n"/></r></p></e>
+    <e><p><l>álfadrottning<s n="n"/><s n="f"/></l><r>elven<b/>queen<s n="n"/></r></p></e>
+    <e><p><l>álfkona<s n="n"/><s n="f"/></l><r>female<b/>elf<s n="n"/></r></p></e>
+    <e><p><l>álft<s n="n"/><s n="f"/></l><r>swan<s n="n"/></r></p></e> <!-- (swan) -->
+    <e><p><l>álfur<s n="n"/><s n="m"/></l><r>elf<s n="n"/></r></p></e>
+    <!--<e><p><l>álfur<s n="n"/><s n="m"/></l><r>fairy<s n="n"/></r></p></e>-->
+    <!--<e><p><l>álit<s n="n"/><s n="nt"/></l><r>appearance<s n="n"/></r></p></e>-->
+    <e><p><l>álit<s n="n"/><s n="nt"/></l><r>opinion<s n="n"/></r></p></e>
+    <e><p><l>áll<s n="n"/><s n="m"/></l><r>eel<s n="n"/></r></p></e>
+    <e><p><l>álma<s n="n"/><s n="f"/></l><r>wing<s n="n"/></r></p></e> <!-- (extension of a building) -->
+    <e><p><l>ályktun<s n="n"/><s n="f"/></l><r>conclusion<s n="n"/></r></p></e>
+    <e><p><l>ánægja<s n="n"/><s n="f"/></l><r>pleasure<s n="n"/></r></p></e>
+    <!--<e><p><l>ár<s n="n"/><s n="m"/></l><r>demon<s n="n"/></r></p></e>--> <!-- ár exists in all genders, different meanings though -->
+    <!--<e><p><l>ár<s n="n"/><s n="f"/></l><r>oar<s n="n"/></r></p></e>--> <!-- ár exists in all genders, different meanings though -->
+    <!--<e><p><l>ár<s n="n"/><s n="f"/></l><r>paddle<s n="n"/></r></p></e>--> <!-- ár exists in all genders, different meanings though -->
+    <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
+    <e><p><l>áramót<s n="n"/><s n="nt"/></l><r>New<b/>Year's<s n="n"/></r></p></e>
+    <e><p><l>árangur<s n="n"/><s n="m"/></l><r>success<s n="n"/></r></p></e>
+    <!--<e><p><l>árangur<s n="n"/><s n="m"/></l><r>result<s n="n"/></r></p></e>-->
+    <e><p><l>áratugur<s n="n"/><s n="m"/></l><r>decade<s n="n"/></r></p></e>
+    <e><p><l>áreynsla<s n="n"/><s n="f"/></l><r>effort<s n="n"/></r></p></e>
+    <e><p><l>árstími<s n="n"/><s n="m"/></l><r>season<s n="n"/></r></p></e> <!-- (of the year) -->
+    <e><p><l>árás<s n="n"/><s n="f"/></l><r>attack<s n="n"/></r></p></e>
+    <!--<e><p><l>árás<s n="n"/><s n="f"/></l><r>raid<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ás<s n="n"/><s n="m"/></l><r>axis<s n="n"/></r></p></e>--> <!-- in mathematics -->
+    <!--<e><p><l>ás<s n="n"/><s n="m"/></l><r>foothill<s n="n"/></r></p></e>-->
+    <e><p><l>ás<s n="n"/><s n="m"/></l><r>ridge<s n="n"/></r></p></e> <!-- of a mountain -->
+    <!--<e><p><l>ás<s n="n"/><s n="m"/></l><r>Ace<s n="n"/></r></p></e>--> <!-- in cards -->
+    <e><p><l>ásjá<s n="n"/><s n="f"/></l><r>help<s n="n"/></r></p></e>
+    <!--<e><p><l>ásjá<s n="n"/><s n="f"/></l><r>protection<s n="n"/></r></p></e>-->
+    <e><p><l>ást<s n="n"/><s n="f"/></l><r>love<s n="n"/></r></p></e>
+    <e><p><l>ástand<s n="n"/><s n="nt"/></l><r>condition<s n="n"/></r></p></e>
+    <!--<e><p><l>ástand<s n="n"/><s n="nt"/></l><r>state<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ástæða<s n="n"/><s n="f"/></l><r>cause<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ástæða<s n="n"/><s n="f"/></l><r>ground<s n="n"/></r></p></e>-->
+    <e><p><l>ástæða<s n="n"/><s n="f"/></l><r>reason<s n="n"/></r></p></e>
+    <e><p><l>ásökun<s n="n"/><s n="f"/></l><r>accusation<s n="n"/></r></p></e>
+    <e><p><l>ásýnd<s n="n"/><s n="f"/></l><r>appearance<s n="n"/></r></p></e>
+    <!--<e><p><l>ásýnd<s n="n"/><s n="f"/></l><r>face<s n="n"/></r></p></e>-->
+    <!--<e><p><l>át<s n="n"/><s n="nt"/></l><r>feed<s n="n"/></r></p></e>-->
+    <e><p><l>át<s n="n"/><s n="nt"/></l><r>eating<s n="n"/></r></p></e>
+    <e><p><l>átt<s n="n"/><s n="f"/></l><r>direction<s n="n"/></r></p></e>
+    <!--<e><p><l>átt<s n="n"/><s n="f"/></l><r>side<s n="n"/></r></p></e>-->
+    <e><p><l>átthyrningur<s n="n"/><s n="m"/></l><r>octagon<s n="n"/></r></p></e>
+    <e><p><l>áttund<s n="n"/><s n="f"/></l><r>octave<s n="n"/></r></p></e>
+    <e><p><l>ávarpsfall<s n="n"/><s n="nt"/></l><r>vocative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>ávöxtur<s n="n"/><s n="m"/></l><r>fruit<s n="n"/></r></p></e>
+    <!--<e><p><l>áætlun<s n="n"/><s n="f"/></l><r>scheme<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áætlun<s n="n"/><s n="f"/></l><r>programme<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áætlun<s n="n"/><s n="f"/></l><r>project<s n="n"/></r></p></e>-->
+    <!--<e><p><l>áætlun<s n="n"/><s n="f"/></l><r>intention<s n="n"/></r></p></e>-->
+    <e><p><l>áætlun<s n="n"/><s n="f"/></l><r>plan<s n="n"/></r></p></e>
+    <!--<e><p><l>áætlun<s n="n"/><s n="f"/></l><r>schedule<s n="n"/></r></p></e>-->
+    <e><p><l>áþján<s n="n"/><s n="f"/></l><r>oppression<s n="n"/></r></p></e>
+    
+    
+    <!--<e><p><l>æ<s n="n"/><s n="nt"/></l><r>æ<s n="n"/></r></p></e>--> <!-- the letter æ (same as other letters are listed) but since it is also a word, I decided to comment this one out -->
+    <e><p><l>æfing<s n="n"/><s n="f"/></l><r>exercise<s n="n"/></r></p></e>
+    <!--<e><p><l>æfing<s n="n"/><s n="f"/></l><r>practice<s n="n"/></r></p></e>-->
+    <!--<e><p><l>æfing<s n="n"/><s n="f"/></l><r>rehearsal<s n="n"/></r></p></e>-->
+    <!--<e><p><l>æfing<s n="n"/><s n="f"/></l><r>repetition<s n="n"/></r></p></e>-->
+    <!--<e><p><l>æfing<s n="n"/><s n="f"/></l><r>workout<s n="n"/></r></p></e>-->
+    <e><p><l>ægir<s n="n"/><s n="m"/></l><r>sea<s n="n"/></r></p></e>
+    <!--<e><p><l>ær<s n="n"/><s n="f"/></l><r>sheep<s n="n"/></r></p></e>-->
+    <e><p><l>ær<s n="n"/><s n="f"/></l><r>ewe<s n="n"/></r></p></e>
+    <e><p><l>ætlun<s n="n"/><s n="f"/></l><r>intention<s n="n"/></r></p></e>
+    <!--<e><p><l>ætlun<s n="n"/><s n="f"/></l><r>purpose<s n="n"/></r></p></e>-->
+    <e><p><l>ætt<s n="n"/><s n="f"/></l><r>family<s n="n"/></r></p></e>
+    <e><p><l>ættfræði<s n="n"/><s n="f"/></l><r>genealogy<s n="n"/></r></p></e>
+    <e><p><l>ættingi<s n="n"/><s n="GD"/></l><r>relative<s n="n"/></r></p></e> <!-- (someone in the same family; someone connected by blood, marriage, or adoption) -->
+    <e><p><l>ævi<s n="n"/><s n="f"/></l><r>life<s n="n"/></r></p></e>
+    <e><p><l>ævintýri<s n="n"/><s n="nt"/></l><r>adventure<s n="n"/></r></p></e>
+    <!--<e><p><l>ævintýri<s n="n"/><s n="nt"/></l><r>fairy<b/>tale<s n="n"/></r></p></e>-->
+    <e><p><l>ævisaga<s n="n"/><s n="f"/></l><r>biography<s n="n"/></r></p></e>
+    <!--<e><p><l>æð<s n="n"/><s n="f"/></l><r>blood<b/>vessel<s n="n"/></r></p></e>-->
+    <e><p><l>æð<s n="n"/><s n="f"/></l><r>vein<s n="n"/></r></p></e>
+    <e><p><l>æði<s n="n"/><s n="nt"/></l><r>rage<s n="n"/></r></p></e>
+    
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
 
