@@ -3005,8 +3005,8 @@
     <e><p><l>múgur<s n="n"/><s n="m"/></l><r>mob<s n="n"/></r></p></e>
     <e><p><l>mús<s n="n"/><s n="f"/></l><r>mouse<s n="n"/></r></p></e> <!-- (animal) -->
     <e><p><l>músvákur<s n="n"/><s n="m"/></l><r>buzzard<s n="n"/></r></p></e> <!-- (Genus Buteo) -->
-    <!--<e><p><l>mýmargur<s n="adj"/><s n="GD"/></l><r>countless<s n="adj"/></r></p></e> --> <!-- adjective -->
-    <!--<e><p><l>mýmargur<s n="adj"/><s n="GD"/></l><r>uncountable<s n="adj"/></r></p></e> --> <!-- adjective -->
+    <!--<e><p><l>mýmargur<s n="adj"/><s n="m"/></l><r>countless<s n="adj"/></r></p></e> --> <!-- adjective -->
+    <!--<e><p><l>mýmargur<s n="adj"/><s n="m"/></l><r>uncountable<s n="adj"/></r></p></e> --> <!-- adjective -->
     <!--<e><p><l>mýri<s n="n"/><s n="f"/></l><r>bog<s n="n"/></r></p></e>-->
     <e><p><l>mýri<s n="n"/><s n="f"/></l><r>marsh<s n="n"/></r></p></e> <!-- (area of low, wet land) -->
     
@@ -4395,7 +4395,7 @@
     
     <e><p><l>v<s n="n"/><s n="nt"/></l><r>v<s n="n"/></r></p></e>
     <e><p><l>vagga<s n="n"/><s n="f"/></l><r>cradle<s n="n"/></r></p></e>
-    <e><p><l>vagn<s n="n"/><s n="nt"/></l><r>cart<s n="n"/></r></p></e>
+    <e><p><l>vagn<s n="n"/><s n="m"/></l><r>cart<s n="n"/></r></p></e>
     <e><p><l>val<s n="n"/><s n="m"/></l><r>choice<s n="n"/></r></p></e>
     <!--<e><p><l>val<s n="n"/><s n="m"/></l><r>selection<s n="n"/></r></p></e>-->
     <e><p><l>vald<s n="n"/><s n="nt"/></l><r>authority<s n="n"/></r></p></e>
@@ -4624,8 +4624,8 @@
     <e><p><l>ytterbín<s n="n"/><s n="nt"/></l><r>ytterbium<s n="n"/></r></p></e>
     <e><p><l>yttrín<s n="n"/><s n="nt"/></l><r>yttrium<s n="n"/></r></p></e>
 
-    <!--<e><p><l>yngri<s n="n"/><s n="GD"/></l><r>junior<s n="n"/></r></p></e>--> <!-- title -->
-    <!--<e><p><l>yngri<s n="n"/><s n="GD"/></l><r>Jr.<s n="n"/></r></p></e>--> <!-- title -->
+    <!--<e><p><l>yngri<s n="n"/><s n="nt"/></l><r>junior<s n="n"/></r></p></e>--> <!-- title -->
+    <!--<e><p><l>yngri<s n="n"/><s n="nt"/></l><r>Jr.<s n="n"/></r></p></e>--> <!-- title -->
     
     
     <e><p><l>z<s n="n"/><s n="nt"/></l><r>z<s n="n"/></r></p></e>
@@ -4752,7 +4752,7 @@
     <!--<e><p><l>ætlun<s n="n"/><s n="f"/></l><r>purpose<s n="n"/></r></p></e>-->
     <e><p><l>ætt<s n="n"/><s n="f"/></l><r>family<s n="n"/></r></p></e>
     <e><p><l>ættfræði<s n="n"/><s n="f"/></l><r>genealogy<s n="n"/></r></p></e>
-    <e><p><l>ættingi<s n="n"/><s n="GD"/></l><r>relative<s n="n"/></r></p></e> <!-- (someone in the same family; someone connected by blood, marriage, or adoption) -->
+    <e><p><l>ættingi<s n="n"/><s n="m"/></l><r>relative<s n="n"/></r></p></e> <!-- (someone in the same family; someone connected by blood, marriage, or adoption) -->
     <e><p><l>ævi<s n="n"/><s n="f"/></l><r>life<s n="n"/></r></p></e>
     <e><p><l>ævintýri<s n="n"/><s n="nt"/></l><r>adventure<s n="n"/></r></p></e>
     <!--<e><p><l>ævintýri<s n="n"/><s n="nt"/></l><r>fairy<b/>tale<s n="n"/></r></p></e>-->
@@ -4760,6 +4760,242 @@
     <!--<e><p><l>æð<s n="n"/><s n="f"/></l><r>blood<b/>vessel<s n="n"/></r></p></e>-->
     <e><p><l>æð<s n="n"/><s n="f"/></l><r>vein<s n="n"/></r></p></e>
     <e><p><l>æði<s n="n"/><s n="nt"/></l><r>rage<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>é<s n="n"/><s n="nt"/></l><r>é<s n="n"/></r></p></e>
+    <e><p><l>él<s n="n"/><s n="nt"/></l><r>hail<s n="n"/></r></p></e>
+    
+    
+    <!--<e><p><l>í<s n="n"/><s n="nt"/></l><r>í<s n="n"/></r></p></e>--> <!-- the letter í (same as other letters are listed) but since it is also a word (prep), I decided to comment this one out -->
+    <e><p><l>íbúafjöldi<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
+    <e><p><l>íbúi<s n="n"/><s n="m"/></l><r>resident<s n="n"/></r></p></e>
+    <!--<e><p><l>íbúi<s n="n"/><s n="m"/></l><r>inhabitant<s n="n"/></r></p></e>-->
+    <e><p><l>íbúð<s n="n"/><s n="f"/></l><r>apartment<s n="n"/></r></p></e>
+    <!--<e><p><l>íbúð<s n="n"/><s n="f"/></l><r>flat<s n="n"/></r></p></e>-->
+    <e><p><l>ígulker<s n="n"/><s n="nt"/></l><r>sea<b/>urchin<s n="n"/></r></p></e>
+    <e><p><l>íkorni<s n="n"/><s n="m"/></l><r>squirrel<s n="n"/></r></p></e>
+    <e><p><l>ílát<s n="n"/><s n="nt"/></l><r>container<s n="n"/></r></p></e>
+    <!--<e><p><l>ílát<s n="n"/><s n="nt"/></l><r>receptacle<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ílát<s n="n"/><s n="nt"/></l><r>vessel<s n="n"/></r></p></e>-->
+    <e><p><l>ímynd<s n="n"/><s n="f"/></l><r>image<s n="n"/></r></p></e>
+    <e><p><l>ímyndunarveiki<s n="n"/><s n="f"/></l><r>hypochondria<s n="n"/></r></p></e>
+    <e><p><l>ís<s n="n"/><s n="m"/></l><r>ice<b/>cream<s n="n"/></r></p></e>
+    <!--<e><p><l>ís<s n="n"/><s n="m"/></l><r>ice<s n="n"/></r></p></e>-->
+    <e><p><l>ísbjörn<s n="n"/><s n="m"/></l><r>polar<b/>bear<s n="n"/></r></p></e>
+    <e><p><l>íslenska<s n="n"/><s n="f"/></l><r>Icelandic<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>ísmoli<s n="n"/><s n="m"/></l><r>ice<b/>cube<s n="n"/></r></p></e>
+    <e><p><l>ísskápur<s n="n"/><s n="m"/></l><r>fridge<s n="n"/></r></p></e> <!-- (refrigerator) -->
+    <e><p><l>ístað<s n="n"/><s n="nt"/></l><r>stirrup<s n="n"/></r></p></e> <!-- (riding) -->
+    <e><p><l>ítalska<s n="n"/><s n="f"/></l><r>Italian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>ívera<s n="n"/><s n="f"/></l><r>habitat<s n="n"/></r></p></e>
+    <e><p><l>íverufall<s n="n"/><s n="nt"/></l><r>inessive<b/>case<s n="n"/></r></p></e>
+    <e><p><l>íþrótt<s n="n"/><s n="f"/></l><r>sport<s n="n"/></r></p></e>
+    <e><p><l>íþróttahús<s n="n"/><s n="nt"/></l><r>gymnasium<s n="n"/></r></p></e>
+    
+    
+    <e><p><l>ð<s n="n"/><s n="nt"/></l><r>ð<s n="n"/></r></p></e>
+    
+    
+    <!--<e><p><l>ó<s n="n"/><s n="nt"/></l><r>ó<s n="n"/></r></p></e>--><!-- the letter í (same as other letters are listed) but since it is also a word (interj), I decided to comment this one out -->
+    <e><p><l>óargadýr<s n="n"/><s n="nt"/></l><r>savage<b/>beast<s n="n"/></r></p></e>
+    <e><p><l>óbó<s n="n"/><s n="nt"/></l><r>oboe<s n="n"/></r></p></e>
+    <e><p><l>óendanleiki<s n="n"/><s n="m"/></l><r>infinity<s n="n"/></r></p></e>
+    <e><p><l>ófreskja<s n="n"/><s n="f"/></l><r>monster<s n="n"/></r></p></e>
+    <e><p><l>ófriður<s n="n"/><s n="m"/></l><r>unquiet<s n="n"/></r></p></e>
+    <!--<e><p><l>ófriður<s n="n"/><s n="m"/></l><r>unrest<s n="n"/></r></p></e>-->
+    <!--<e><p><l>ófriður<s n="n"/><s n="m"/></l><r>war<s n="n"/></r></p></e>-->
+    <e><p><l>ógleði<s n="n"/><s n="f"/></l><r>nausea<s n="n"/></r></p></e>
+    <e><p><l>ógæfa<s n="n"/><s n="f"/></l><r>misfortune<s n="n"/></r></p></e>
+    <e><p><l>ópall<s n="n"/><s n="m"/></l><r>opal<s n="n"/></r></p></e>
+    <e><p><l>ópersónuleg<b/>sögn<s n="n"/><s n="nt"/></l><r>impersonal<b/>verb<s n="n"/></r></p></e>
+    <e><p><l>ópíum<s n="n"/><s n="nt"/></l><r>opium<s n="n"/></r></p></e>
+    <!--<e><p><l>óró<s n="n"/><s n="f"/></l><r>restlessness<s n="n"/></r></p></e>-->
+    <e><p><l>óró<s n="n"/><s n="f"/></l><r>uneasiness<s n="n"/></r></p></e>
+    <!--<e><p><l>órói<s n="n"/><s n="m"/></l><r>restlessness<s n="n"/></r></p></e>-->
+    <!--<e><p><l>órói<s n="n"/><s n="m"/></l><r>uneasiness<s n="n"/></r></p></e>-->
+    <e><p><l>órói<s n="n"/><s n="m"/></l><r>turmoil<s n="n"/></r></p></e>
+    <e><p><l>ós<s n="n"/><s n="m"/></l><r>estuary<s n="n"/></r></p></e>
+    <e><p><l>ós<s n="n"/><s n="m"/></l><r>river<b/>mouth<s n="n"/></r></p></e>
+    <e><p><l>ósk<s n="n"/><s n="f"/></l><r>wish<s n="n"/></r></p></e>
+    <!--<e><p><l>ótal<s n="adj"/><s n="nt"/></l><r>umpteen<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <!--<e><p><l>ótal<s n="adj"/><s n="nt"/></l><r>no<b/>end<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <!--<e><p><l>ótal<s n="adj"/><s n="nt"/></l><r>innumerable<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <e><p><l>ótal<s n="n"/><s n="nt"/></l><r>myriad<s n="n"/></r></p></e>
+    <e><p><l>ótti<s n="n"/><s n="m"/></l><r>fear<s n="n"/></r></p></e>
+    <!--<e><p><l>óvinur<s n="n"/><s n="m"/></l><r>adversary<s n="n"/></r></p></e>-->
+    <!--<e><p><l>óvinur<s n="n"/><s n="m"/></l><r>foe<s n="n"/></r></p></e>-->
+    <e><p><l>óvinur<s n="n"/><s n="m"/></l><r>enemy<s n="n"/></r></p></e>
+    <e><p><l>óvirðing<s n="n"/><s n="f"/></l><r>disrespect<s n="n"/></r></p></e>
+    <e><p><l>óákveðinn<b/>greinir<s n="n"/><s n="m"/></l><r>indefinite<b/>article<s n="n"/></r></p></e>
+    <e><p><l>óþekkt<s n="n"/><s n="f"/></l><r>disobedience<s n="n"/></r></p></e>
+    <!--<e><p><l>óþekkt<s n="n"/><s n="f"/></l><r>naughtiness<s n="n"/></r></p></e>-->
+    
+    
+    <e><p><l>ö<s n="n"/><s n="nt"/></l><r>ö<s n="n"/></r></p></e>
+    <e><p><l>ögn<s n="n"/><s n="f"/></l><r>bit<s n="n"/></r></p></e>
+    <!--<e><p><l>ögn<s n="n"/><s n="f"/></l><r>pinch<s n="n"/></r></p></e>-->
+    <e><p><l>ökutæki<s n="n"/><s n="nt"/></l><r>vehicle<s n="n"/></r></p></e>
+    <e><p><l>öl<s n="n"/><s n="nt"/></l><r>ale<s n="n"/></r></p></e>
+    <!--<e><p><l>öl<s n="n"/><s n="nt"/></l><r>beer<s n="n"/></r></p></e>-->
+    <!--<e><p><l>öld<s n="n"/><s n="f"/></l><r>age<s n="n"/></r></p></e>-->
+    <e><p><l>öld<s n="n"/><s n="f"/></l><r>century<s n="n"/></r></p></e>
+    <e><p><l>ölgerð<s n="n"/><s n="nt"/></l><r>brewery<s n="n"/></r></p></e>
+    <e><p><l>ölgerðarhús<s n="n"/><s n="nt"/></l><r>brewery<s n="n"/></r></p></e>
+    <e><p><l>ölkelduvatn<s n="n"/><s n="nt"/></l><r>mineral<b/>water<s n="n"/></r></p></e>
+    <e><p><l>önd<s n="n"/><s n="f"/></l><r>duck<s n="n"/></r></p></e>
+    <e><p><l>öndun<s n="n"/><s n="f"/></l><r>breathing<s n="n"/></r></p></e>
+    <e><p><l>ör<s n="n"/><s n="f"/></l><r>scar<s n="n"/></r></p></e>
+    <e><p><l>öreindahraðall<s n="n"/><s n="m"/></l><r>particle<b/>accelerator<s n="n"/></r></p></e>
+    <e><p><l>örgjörvi<s n="n"/><s n="m"/></l><r>microprocessor<s n="n"/></r></p></e>
+    <e><p><l>örlög<s n="n"/><s n="nt"/></l><r>destiny<s n="n"/></r></p></e>
+    <e><p><l>örn<s n="n"/><s n="m"/></l><r>eagle<s n="n"/></r></p></e>
+    <e><p><l>öryggisbelti<s n="n"/><s n="nt"/></l><r>seat<b/>belt<s n="n"/></r></p></e>
+    <!--<e><p><l>öryggisbelti<s n="n"/><s n="nt"/></l><r>safety<b/>belt<s n="n"/></r></p></e>-->
+    <!--<e><p><l>öryggisbelti<s n="n"/><s n="nt"/></l><r>safety<b/>harness<s n="n"/></r></p></e>-->
+    <e><p><l>öxi<s n="n"/><s n="f"/></l><r>axe<s n="n"/></r></p></e>
+    <e><p><l>öxl<s n="n"/><s n="f"/></l><r>shoulder<s n="n"/></r></p></e>
+    
+
+    <e><p><l>ú<s n="n"/><s n="nt"/></l><r>ú<s n="n"/></r></p></e>
+    <e><p><l>úfur<s n="n"/><s n="m"/></l><r>uvula<s n="n"/></r></p></e>
+    <!--<e><p><l>úlfur<s n="n"/><s n="m"/></l><r>Lupus<s n="n"/></r></p></e>-->
+    <e><p><l>úlfur<s n="n"/><s n="m"/></l><r>wolf<s n="n"/></r></p></e> <!-- Canis lupus -->
+    <e><p><l>úr<s n="n"/><s n="nt"/></l><r>watch<s n="n"/></r></p></e>
+    <e><p><l>úran<s n="n"/><s n="nt"/></l><r>uranium<s n="n"/></r></p></e>
+    <e><p><l>úrkoma<s n="n"/><s n="f"/></l><r>precipitation<s n="n"/></r></p></e>
+    <!--<e><p><l>úrkoma<s n="n"/><s n="f"/></l><r>rain<s n="n"/></r></p></e>-->
+    <e><p><l>úrval<s n="n"/><s n="nt"/></l><r>selection<s n="n"/></r></p></e>
+    <e><p><l>útgangur<s n="n"/><s n="m"/></l><r>exit<s n="n"/></r></p></e>
+    <!--<e><p><l>útgerð<s n="n"/><s n="f"/></l><r>outfitting<s n="n"/></r></p></e>-->
+    <e><p><l>útgerð<s n="n"/><s n="f"/></l><r>shipping<s n="n"/></r></p></e>
+    <!--<e><p><l>útgáfa<s n="n"/><s n="f"/></l><r>publisher<s n="n"/></r></p></e>-->
+    <e><p><l>útgáfa<s n="n"/><s n="f"/></l><r>version<s n="n"/></r></p></e>
+    <!--<e><p><l>útgáfufyrirtæki<s n="n"/><s n="nt"/></l><r>publisher<s n="n"/></r></p></e>-->
+    <e><p><l>útgáfufyrirtæki<s n="n"/><s n="f"/></l><r>publishing<b/>company<s n="n"/></r></p></e>
+    <e><p><l>úthaf<s n="n"/><s n="nt"/></l><r>sea<s n="n"/></r></p></e>
+    <!--<e><p><l>úthaf<s n="n"/><s n="nt"/></l><r>ocean<s n="n"/></r></p></e>-->
+    <!--<e><p><l>útisundlaug<s n="n"/><s n="f"/></l><r>lido<s n="n"/></r></p></e>-->
+    <e><p><l>útisundlaug<s n="n"/><s n="f"/></l><r>open<b/>air<b/>swmming<b/>pool<s n="n"/></r></p></e>
+    <e><p><l>útlendingur<s n="n"/><s n="m"/></l><r>foreigner<s n="n"/></r></p></e>
+    <e><p><l>útlit<s n="n"/><s n="nt"/></l><r>appearance<s n="n"/></r></p></e>
+    <!--<e><p><l>útlit<s n="n"/><s n="nt"/></l><r>look<s n="n"/></r></p></e>-->
+    <!--<e><p><l>útlit<s n="n"/><s n="nt"/></l><r>outlook<s n="n"/></r></p></e>-->
+    <e><p><l>útsending<s n="n"/><s n="f"/></l><r>broadcast<s n="n"/></r></p></e>
+    <!--<e><p><l>útsending<s n="n"/><s n="f"/></l><r>transmission<s n="n"/></r></p></e>-->
+    <e><p><l>útskýring<s n="n"/><s n="f"/></l><r>explanation<s n="n"/></r></p></e>
+    <e><p><l>útvarp<s n="n"/><s n="nt"/></l><r>radio<s n="n"/></r></p></e>
+    <e><p><l>útvarpstæki<s n="n"/><s n="nt"/></l><r>radio<s n="n"/></r></p></e>
+    <e><p><l>úði<s n="n"/><s n="m"/></l><r>drizzle<s n="n"/></r></p></e>
+    <!--<e><p><l>úði<s n="n"/><s n="m"/></l><r>spray<s n="n"/></r></p></e>-->
+    
+    
+    <e><p><l>ý<s n="n"/><s n="f"/></l><r>ý<s n="n"/></r></p></e>
+    <e><p><l>ýta<s n="n"/><s n="f"/></l><r>dozer<s n="n"/></r></p></e> <!-- short for jarðýta and similarly short for bulldozer -->
+    
+    
+    <e><p><l>þ<s n="n"/><s n="nt"/></l><r>þ<s n="n"/></r></p></e>
+    <e><p><l>þak<s n="n"/><s n="nt"/></l><r>roof<s n="n"/></r></p></e>
+    <!--<e><p><l>þakklæti<s n="n"/><s n="nt"/></l><r>appreciation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>þakklæti<s n="n"/><s n="nt"/></l><r>gratefulness<s n="n"/></r></p></e>-->
+    <e><p><l>þakklæti<s n="n"/><s n="nt"/></l><r>gratitude<s n="n"/></r></p></e>
+    <!--<e><p><l>þakklæti<s n="n"/><s n="nt"/></l><r>thankfulness<s n="n"/></r></p></e>-->
+    <e><p><l>þallín<s n="n"/><s n="nt"/></l><r>thallium<s n="n"/></r></p></e>
+    <e><p><l>þanki<s n="n"/><s n="m"/></l><r>thought<s n="n"/></r></p></e>
+    <e><p><l>þekking<s n="n"/><s n="f"/></l><r>knowledge<s n="n"/></r></p></e>
+    <e><p><l>þekkingarfræði<s n="n"/><s n="f"/></l><r>epistemology<s n="n"/></r></p></e>
+    <e><p><l>þerna<s n="n"/><s n="f"/></l><r>maid<s n="n"/></r></p></e>
+    <e><p><l>þeyttur<b/>rjómi<s n="n"/><s n="m"/></l><r>whipped<b/>cream<s n="n"/></r></p></e>
+    <e><p><l>þilfar<s n="n"/><s n="nt"/></l><r>deck<s n="n"/></r></p></e>
+    <e><p><l>þind<s n="n"/><s n="f"/></l><r>diaphragm<s n="n"/></r></p></e>
+    <e><p><l>þing<s n="n"/><s n="nt"/></l><r>parliament<s n="n"/></r></p></e>
+    <e><p><l>þingmaður<s n="n"/><s n="m"/></l><r>Member<b/>of<b/>Parliament<s n="n"/></r></p></e> <!-- (MP) who in Iceland attend the meetings held at Althing -->
+    <e><p><l>þinur<s n="n"/><s n="m"/></l><r>fir<s n="n"/></r></p></e>
+    <e><p><l>þistill<s n="n"/><s n="m"/></l><r>thistle<s n="n"/></r></p></e>
+    <e><p><l>þjófnaður<s n="n"/><s n="m"/></l><r>theft<s n="n"/></r></p></e>
+    <!--<e><p><l>þjónn<s n="n"/><s n="m"/></l><r>servant<s n="n"/></r></p></e>-->
+    <e><p><l>þjónn<s n="n"/><s n="m"/></l><r>waiter<s n="n"/></r></p></e>
+    <e><p><l>þjónusta<s n="n"/><s n="f"/></l><r>service<s n="n"/></r></p></e>
+    <e><p><l>þjónustustúlka<s n="n"/><s n="f"/></l><r>waitress<s n="n"/></r></p></e>
+    <e><p><l>þjóð<s n="n"/><s n="f"/></l><r>nation<s n="n"/></r></p></e>
+    <!--<e><p><l>þjóð<s n="n"/><s n="f"/></l><r>people<s n="n"/></r></p></e>-->
+    <e><p><l>þjóðaratkvæðagreiðsla<s n="n"/><s n="f"/></l><r>referendum<s n="n"/></r></p></e>
+    <e><p><l>þjóðarmorð<s n="n"/><s n="nt"/></l><r>genocide<s n="n"/></r></p></e>
+    <e><p><l>þjóðerni<s n="n"/><s n="nt"/></l><r>nationality<s n="n"/></r></p></e>
+    <e><p><l>þjóðfélag<s n="n"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
+    <e><p><l>þjóðhöfðingi<s n="n"/><s n="m"/></l><r>head<b/>of<b/>state<s n="n"/></r></p></e>
+    <!--<e><p><l>þjóðsaga<s n="n"/><s n="f"/></l><r>folklore<s n="n"/></r></p></e>-->
+    <e><p><l>þjóðsaga<s n="n"/><s n="f"/></l><r>folktale<s n="n"/></r></p></e>
+    <!--<e><p><l>þjóðsaga<s n="n"/><s n="f"/></l><r>legend<s n="n"/></r></p></e>-->
+    <e><p><l>þjóðsöngur<s n="n"/><s n="m"/></l><r>national<b/>anthem<s n="n"/></r></p></e>
+    <!--<e><p><l>þoka<s n="n"/><s n="f"/></l><r>mist<s n="n"/></r></p></e>-->
+    <e><p><l>þoka<s n="n"/><s n="f"/></l><r>fog<s n="n"/></r></p></e>
+    <e><p><l>þol<s n="n"/><s n="nt"/></l><r>endurance<s n="n"/></r></p></e>
+    <e><p><l>þolfall<s n="n"/><s n="nt"/></l><r>accusative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>þorp<s n="n"/><s n="nt"/></l><r>village<s n="n"/></r></p></e>
+    <e><p><l>þorskur<s n="n"/><s n="m"/></l><r>cod<s n="n"/></r></p></e>
+    <e><p><l>þorsti<s n="n"/><s n="m"/></l><r>thirst<s n="n"/></r></p></e>
+    <e><p><l>þota<s n="n"/><s n="f"/></l><r>jet<s n="n"/></r></p></e>
+    <e><p><l>þriðjudagur<s n="n"/><s n="m"/></l><r>Tuesday<s n="n"/></r></p></e>
+    <!--<e><p><l>þrjóska<s n="n"/><s n="f"/></l><r>intransigence<s n="n"/></r></p></e>-->
+    <e><p><l>þrjóska<s n="n"/><s n="f"/></l><r>stubbornness<s n="n"/></r></p></e>
+    <e><p><l>þruma<s n="n"/><s n="f"/></l><r>thunder<s n="n"/></r></p></e>
+    <e><p><l>þrumuveður<s n="n"/><s n="nt"/></l><r>thunderstorm<s n="n"/></r></p></e>
+    <!--<e><p><l>þráður<s n="n"/><s n="m"/></l><r>fibre<s n="n"/></r></p></e>-->
+    <!--<e><p><l>þráður<s n="n"/><s n="m"/></l><r>strand<s n="n"/></r></p></e>-->
+    <!--<e><p><l>þráður<s n="n"/><s n="m"/></l><r>string<s n="n"/></r></p></e>-->
+    <e><p><l>þráður<s n="n"/><s n="m"/></l><r>thread<s n="n"/></r></p></e>
+    <e><p><l>þrælahald<s n="n"/><s n="nt"/></l><r>slavery<s n="n"/></r></p></e>
+    <e><p><l>þrældómur<s n="n"/><s n="m"/></l><r>slavery<s n="n"/></r></p></e>
+    <e><p><l>þræll<s n="n"/><s n="m"/></l><r>slave<s n="n"/></r></p></e>
+    <e><p><l>þrífótur<s n="n"/><s n="m"/></l><r>tripod<s n="n"/></r></p></e>
+    <e><p><l>þríhorn<s n="n"/><s n="nt"/></l><r>triangle<s n="n"/></r></p></e> <!-- (musical instrument) -->
+    <e><p><l>þríhyrningur<s n="n"/><s n="m"/></l><r>triangle<s n="n"/></r></p></e> <!-- (polygon) -->
+    <!--<e><p><l>þróttur<s n="n"/><s n="m"/></l><r>vibrance<s n="n"/></r></p></e>-->
+    <!--<e><p><l>þróttur<s n="n"/><s n="m"/></l><r>stamina<s n="n"/></r></p></e>-->
+    <e><p><l>þróttur<s n="n"/><s n="m"/></l><r>strength<s n="n"/></r></p></e>
+    <!--<e><p><l>þróttur<s n="n"/><s n="m"/></l><r>vitality<s n="n"/></r></p></e>-->
+    <e><p><l>þróun<s n="n"/><s n="f"/></l><r>evolution<s n="n"/></r></p></e>
+    <e><p><l>þröstur<s n="n"/><s n="m"/></l><r>thrush<s n="n"/></r></p></e>
+    <e><p><l>þumalfingur<s n="n"/><s n="m"/></l><r>thumb<s n="n"/></r></p></e> <!-- (digit) -->
+    <e><p><l>þumall<s n="n"/><s n="m"/></l><r>thumb<s n="n"/></r></p></e>
+    <e><p><l>þunglyndi<s n="n"/><s n="nt"/></l><r>depression<s n="n"/></r></p></e> <!-- (state of mind producing serious long-term lowering of enjoyment) -->
+    <e><p><l>þurrkari<s n="n"/><s n="m"/></l><r>dryer<s n="n"/></r></p></e>
+    <e><p><l>þvag<s n="n"/><s n="nt"/></l><r>urine<s n="n"/></r></p></e>
+    <e><p><l>þverflauta<s n="n"/><s n="f"/></l><r>transverse<b/>flute<s n="n"/></r></p></e>
+    <e><p><l>þvermál<s n="n"/><s n="nt"/></l><r>diameter<s n="n"/></r></p></e>
+    <e><p><l>þvertala<s n="n"/><s n="f"/></l><r>imaginary<b/>number<s n="n"/></r></p></e> <!-- (number of the form ai) -->
+    <e><p><l>þvottabjörn<s n="n"/><s n="m"/></l><r>raccoon<s n="n"/></r></p></e>
+    <e><p><l>þvottavél<s n="n"/><s n="f"/></l><r>washing<b/>machine<s n="n"/></r></p></e>
+    <e><p><l>þvottur<s n="n"/><s n="m"/></l><r>laundry<s n="n"/></r></p></e>
+    <!--<e><p><l>þvottur<s n="n"/><s n="m"/></l><r>wash<s n="n"/></r></p></e>-->
+    <e><p><l>þyngd<s n="n"/><s n="f"/></l><r>weight<s n="n"/></r></p></e>
+    <e><p><l>þyngdarafl<s n="n"/><s n="nt"/></l><r>gravity<s n="n"/></r></p></e>
+    <e><p><l>þynnka<s n="n"/><s n="f"/></l><r>hangover<s n="n"/></r></p></e> <!-- the state of being hung over after consuming too much alcohol -->
+    <!--<e><p><l>þyrla<s n="n"/><s n="f"/></l><r>chopper<s n="n"/></r></p></e>-->
+    <e><p><l>þyrla<s n="n"/><s n="f"/></l><r>helicopter<s n="n"/></r></p></e>
+    <e><p><l>þyrnir<s n="n"/><s n="m"/></l><r>thorn<s n="n"/></r></p></e>
+    <e><p><l>þyrping<s n="n"/><s n="f"/></l><r>crowd<s n="n"/></r></p></e> <!-- (group of things) -->
+    <e><p><l>þágufall<s n="n"/><s n="nt"/></l><r>dative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>þáttaskil<s n="n"/><s n="nt"/></l><r>turning<b/>point<s n="n"/></r></p></e>
+    <e><p><l>þáttur<s n="n"/><s n="m"/></l><r>component<s n="n"/></r></p></e>
+    <!--<e><p><l>þáttur<s n="n"/><s n="m"/></l><r>constituent<s n="n"/></r></p></e>-->
+    <!--<e><p><l>þáttur<s n="n"/><s n="m"/></l><r>factor<s n="n"/></r></p></e>-->
+    <!--<e><p><l>þáttur<s n="n"/><s n="m"/></l><r>act<s n="n"/></r></p></e> --> <!-- (section of a play) -->
+    <!--<e><p><l>þáttur<s n="n"/><s n="m"/></l><r>episode<s n="n"/></r></p></e> --> <!-- (of a television or radio series, etc.) -->
+    <!--<e><p><l>þáttur<s n="n"/><s n="m"/></l><r>television<b/>program<s n="n"/></r></p></e>-->
+    <e><p><l>þátíð<s n="n"/><s n="f"/></l><r>past<b/>tense<s n="n"/></r></p></e>
+    <e><p><l>þérun<s n="n"/><s n="f"/></l><r>formal<b/>addressing<b/>of<b/>others<s n="n"/></r></p></e>
+    <e><p><l>þéttbýli<s n="n"/><s n="nt"/></l><r>urban<b/>area<s n="n"/></r></p></e>
+    <e><p><l>þíða<s n="n"/><s n="f"/></l><r>thaw<s n="n"/></r></p></e>
+    <e><p><l>þögn<s n="n"/><s n="f"/></l><r>silence<s n="n"/></r></p></e>
+    <e><p><l>þökk<s n="n"/><s n="f"/></l><r>thanks<s n="n"/></r></p></e>
+    <e><p><l>þörf<s n="n"/><s n="f"/></l><r>need<s n="n"/></r></p></e>
+    <e><p><l>þörungur<s n="n"/><s n="m"/></l><r>alga<s n="n"/></r></p></e>
+    <e><p><l>þúsund<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>
+    <e><p><l>þýska<s n="n"/><s n="f"/></l><r>German<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>þýðandi<s n="n"/><s n="m"/></l><r>translator<s n="n"/></r></p></e>
+    <!--<e><p><l>þýðing<s n="n"/><s n="f"/></l><r>meaning<s n="n"/></r></p></e>-->
+    <e><p><l>þýðing<s n="n"/><s n="f"/></l><r>translation<s n="n"/></r></p></e>
     
     <!-- END OF nouns in alphabetical order from bla.xml after manual checking-->
 
@@ -4780,6 +5016,7 @@
     
     <!-- Proper nouns -->
 
+    <e><p><l>Írland<s n="np"/><s n="top"/><s n="nt"/></l><r>Ireland<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Eistland<s n="np"/><s n="top"/><s n="nt"/></l><r>Estonia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>England<s n="np"/><s n="top"/><s n="nt"/></l><r>England<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Finnland<s n="np"/><s n="top"/><s n="nt"/></l><r>Finland<s n="np"/><s n="top"/></r></p></e>
