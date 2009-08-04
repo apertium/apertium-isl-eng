@@ -20,7 +20,6 @@ dev/is-en.freelang.xml -text
 dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
 dev/is-tags.mapping.txt -text
-dev/phrases-draft1.txt -text
 /icetaggerApertium.sh -text
 /is-en.prob -text
 /modes.xml -text
@@ -29,5 +28,3 @@ dev/phrases-draft1.txt -text
 /pipelineIce.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
-/todo.txt -text
-/tutorial.txt -text

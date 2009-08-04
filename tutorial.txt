@@ -1,8 +1,0 @@
-lt-comp lr apertium-is-en.is.dix is.automorf.bin
-lt-comp rl apertium-is-en.is.dix is.autogen.bin
-
-
-echo "hestur" | lt-proc is.automorf.bin | awk 'BEGIN{RS="$"; FS="/";}{nf=split($1,COMPONENTS,"^"); for(i = 1; i<nf; i++) printf COMPONENTS[i]; if($2 != "") printf("^%s$",$2);}' | apertium-transfer apertium-is-en.trules-is-en.xml trules-is-en.bin is-en.autobil.bin | lt-proc -g en.autogen.bin 
-
-echo "hestar" | lt-proc is.automorf.bin | awk 'BEGIN{RS="$"; FS="/";}{nf=split($1,COMPONENTS,"^"); for(i = 1; i<nf; i++) printf COMPONENTS[i]; if($2 != "") printf("^%s$",$2);}' | apertium-transfer apertium-is-en.trules-is-en.xml trules-is-en.bin is-en.autobil.bin | lt-proc -g en.autogen.bin 
-
