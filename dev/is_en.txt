@@ -1,0 +1,5994 @@
+&_c;&
+,_x;,
+1._l;1.
+1._t;1.
+10%_t;10%
+10.000_t;10.000
+10._l;10.
+1000_t;1000
+100_t;100
+10_t;10
+11._l;11.
+11_t;11
+12._l;12.
+12_t;12
+13._l;13.
+13_t;13
+14._l;14.
+14_t;14
+15._l;15.
+150_t;150
+15_t;15
+16._l;16th
+16_t;16
+17._l;17.
+17_t;17
+18._l;18.
+1867_t;1867
+18_t;18
+19._l;19.
+1900_t;1900
+1904_t;1904
+1905_t;1905
+1906_t;1906
+1908_t;1908
+1910_t;1910
+1914_t;1914
+1918_t;1918
+1920_t;1920
+1921_t;1921
+1930_t;1930
+1936_t;1936
+1938_t;1938
+1939_t;1939
+1940_t;1940
+1942_t;1942
+1945_t;1945
+1946_t;1946
+1947_t;1947
+1948_t;1948
+1949_t;1949
+1950_t;1950
+1951_t;1951
+1952_t;1952
+1953_t;1953
+1955_t;1955
+1956_t;1956
+1957_t;1957
+1958_t;1958
+1960_t;1960
+1961_t;1961
+1962_t;1962
+1963_t;1963
+1964_t;1964
+1966_t;1966
+1967_t;1967
+1968_t;1968
+1970_t;1970
+1971_t;1971
+1972_t;1972
+1973_t;1973
+1974_t;1974
+1975_t;1975
+1976_t;1976
+1977_t;1977
+1978_t;1978
+1979_t;1979
+1980_t;1980
+1981_t;1981
+1982_t;1982
+1983_t;1983
+1984_t;1984
+1985_t;1985
+1987_t;1987
+19_t;19
+1_t;1
+2%_t;2%
+2._l;2.
+2._t;2.
+200_t;200
+20_t;20
+21._l;21.
+22._l;22.
+23._l;23.
+24._l;24.
+25._l;25.
+250_t;250
+26._l;26.
+27._l;27.
+29._l;29.
+2_t;2
+3--4_t;3--4
+3._l;3.
+3._t;3.
+30._l;30.
+300_t;300
+30_t;30
+32_t;32
+33_t;33
+34_t;34
+35_t;35
+37_t;37
+38_t;38
+39_t;39
+3_t;3
+4._l;4.
+40_t;40
+41_t;41
+42_t;42
+48_t;48
+4_t;4
+5._l;5.
+500_t;500
+50_t;50
+5_t;5
+6._l;6.
+60/1972_t;60/1972
+60_t;60
+6_t;6
+7._l;7.
+73._l;73.
+7_t;7
+8._l;8.
+80_t;80
+85_t;85
+87/1947_t;87/1947
+8_t;8
+9._l;9.
+95/1947_t;95/1947
+9_t;9
+a-liður_nks;A-item,A-part
+af_aa;by,from
+af_aþ;of,by
+afar_aa;very
+afbrigði_nh;variant,variation,variety,type,version
+afbrot_nh;crime
+afbrýðisamur_l;jealous,envious,green-eyed,resentful
+afdrifaríkur_l;momentous,fateful,significant,important
+afgangur_nk;rest,remainder,residue,leftovers,change
+afganskur_l;Afghan
+afgreiða_s;serve,process,dispatch,fulfill,pass
+afgönskur_l;*Afghan
+afhenda_s;deliver,give,hand over
+afhending_nv;delivery,supply
+afhverju_aa;why
+afi_nk;grandfather
+afkoma_nv;profit,return,earnings,living
+afkomandi_nk;descendant
+afl_nh;power,energy
+afla_s;provide,raise,earn
+afleiðing_nv;consequence,result,aftermath
+afli_nk;catch,fishing
+aflétta_s;lift,cancel,undo
+afmarkaður_l;specific
+afmæli_nh;birthday
+afmælisveisla_nv;birthday party,birthday
+afnám_nh;abolition,nullification
+afplánun_nv;redemption,time
+afrakstur_nk;output,yield,production
+afrek_nh;achievement,accomplishment,deed,feat,realization
+afreksmaður_nk;hero
+afráða_s;decide,conclude,determine,resolve,settle
+afríkulanda_nxs;African country
+afríkuríki_nhs;African country
+afrískur_l;African
+afsaka_s;excuse,pardon,apologize,forgive
+afskaplega_aa;very,tremendously,amazingly
+afskipti_nh;intervention
+afstaða_nv;stand,stance,posture
+afsökun_nv;excuse,apology
+aftan_aa;behind
+aftur_aa;again
+afturhjól_nh;back wheel
+aftursæti_nh;backseat
+afurð_nv;product,production,good,merchandise,output,yield
+agndofa_l;amazed,stunned,astonished,transfixed,dazed,dazzled
+aka_s;drive
+akkeri_nh;anchor,grapnel,killick,killock
+akstur_nk;driving
+akur_nk;field,pasture,patch,grassland,terrain
+al-bashir_l;*Al-Bashir
+al-bashur_l;*Al-Bashir
+ala_s;raise,breed,feed
+alda_nv;wave,tilde
+aldamót_nh;turn of the century
+aldeilis_aa;really,indeed
+aldraður_l;old,elderly
+aldrei_aa;never
+aldur_nk;age
+aldurshópur_nk;age group
+aldurstakmark_nh;age limit
+aldursákvörðun_nv;dating
+aleinn_l;alone
+alfarið_aa;entirely,completely
+algengur_l;common
+alger_l;total,complete,absolute
+algerlega_aa;totally,completely,absoulutely
+algjör_l;total
+algjörlega_aa;totally,absolutely,completely
+alheimur_nk;universe
+allavega_aa;anyway
+allmargur_l;various,many
+allmikill_l;great,considerable,large,grand,enormous
+allnokkur_f;handful,few,some
+alls_aa;in total
+allsherjarnefnd_nv;general committee
+allsráðandi_l;dominant
+allstór_l;big,large,sizable
+alltaf_aa;always
+alltof_aa;far too
+allur_f;all,everyone,everything
+almannavarnarsvið_nh;civil defence department
+almaÃ°ur_l;*general
+almennilega_aa;properly,correctly,fairly
+almennilegur_l;proper,decent,acceptable,nice,polite
+almenningsbókasafn_nh;public library
+almenningsgarðir_nk;*public park
+almenningur_nk;public,masses,populace,common people
+almennt_aa;general
+almennur_l;general
+almáttugur_l;almighty
+altari_nh;altar
+alvara_nv;seriousness
+alvarlega_aa;seriously
+alvarlegur_l;serious
+alveg_aa;quite,entirely
+alþingi_nh;parliament,Althing
+alþingi_nhs;parliament,Althing
+alþingismaður_nk;congressman,Member of Parliament
+alþjóðagjaldeyrissjóður_nks;International Monetary Fund
+alþjóðasamningur_nk;international agreement
+alþjóðavettvangur_nk;international scene
+alþjóði_nks;*International
+alþjóðlegur_l;international
+amerískur_l;american
+amma_nv;grandmother
+anda_s;breathe
+andaglas_nh;Ouija board
+andardráttur_nk;breath,breathing,respiration,inhalation
+andartak_nh;moment,second
+anddyri_nh;lobby,hallway,foyer
+ander_nh;*Anders
+andi_nk;spirit
+andlega_aa;mentally,spiritually
+andlegur_l;spiritual
+andlit_nh;face
+andlát_nh;death,demise,decease
+andrá_nv;instant,moment
+andrúmsloft_nh;atmosphere,air
+andskoti_nk;devil,Satan,shit,fuck
+andsnúnur_l;*against
+andspænis_aþ;opposite,against
+andstaða_nv;opposition,resistance,obstruction,rivalry,hostility
+andstyggilegur_l;vile,mean,cruel,abhorrent,infamous,evil
+andstæðingur_nk;opponent
+andstæður_l;opposite,opposing,polar,antipodal,counter,contrary
+andvarpa_s;sigh,groan
+andvígur_l;against,opposed to
+andúð_nv;dislike,objection,unfriendliness,hate
+angeli_nv;*Angelina
+angelini_nks;*Angelina
+angra_s;bother,trouble,worry
+anna_s;manage,keep up with
+annar_f;other,second
+annar_l;other
+annars_aa;otherwise,anyway
+annaðhvort_c;either,or
+anno_nh;Anno
+annríki_nh;busyness,preoccupation
+annt_l;loving,caring
+ansa_s;reply,answer
+ansi_aa;pretty,mighty,rather,quite
+ap-fréttastofa_nvs;AP-network
+ap_nks;AP
+api_nk;monkey,ape,primate,fool,idiot,ass
+apríl_nk;April
+aprílmánuður_nk;April
+arabískur_l;Arabic
+arfur_nk;inheritance,birthright,heritage,legacy,tradition
+arkitekt_nk;architect,designer,innovator,planner,creator,mastermind
+armur_nk;arm
+arnarneshæður_nks;*Arnarneshæð
+asbest_nh;asbestos
+asnalegur_l;stupid
+asni_nk;ass,donkey,idiot
+así_nhs;ASÍ
+at_nks;AT
+atburður_nk;event
+atferli_nh;behavior,conduct,demeanor,civility,etiquette
+athafnamaður_nk;enterpreneur,business man
+athuga_s;check,observe,examine
+athugasemd_nv;comment
+athugaður_l;checked,studied
+athugun_nv;survey,study,observation
+athygli_nv;attention,notice
+athyglisverður_l;interesting,notable,intriguing,captivating
+athöfn_nv;act,function,ceremony
+atkvæðagreiðsla_nv;vote,poll,voting
+atkvæði_nh;vote
+atlantshafsbandalag_nhs;NATO
+atlantsolíur_nks;*Atlantsolía
+atriði_nh;item,topic,issue,scene,feature
+atvik_nh;incident
+atvinna_nv;work,profession,employment
+atvinnugrein_nv;trade,profession
+atvinnuleysi_nh;unemployment
+atvinnulíf_nh;economy
+atvinnurekandi_nk;employer
+atvinnurekstur_nk;business
+atvinnuvegur_nk;industry
+auga_nh;eye
+augljós_l;clear,obvious
+augljóslega_aa;obviously,clearly
+auglýsa_s;advertise
+auglýsing_nv;advertisement
+augnablik_nh;moment
+augnalok_nh;eyelid
+augnaráð_nh;look,stare
+augsýnilega_aa;clearly,obviously
+auk_ae;plus,besides,in addition to
+auka_s;increase
+auki_aa;increase
+aukinn_l;increased
+aukning_nv;increase
+aumingi_nk;sissy,bum
+ausa_s;spoon,scoop
+austan_aa;east,eastwardly
+austur_aa;east
+austur_nh;east
+austurátt_nv;east
+auðlind_nv;resource,reserve,asset,capital,wealth
+auðsjáanlegur_l;obvious,clear
+auðugur_l;rich,wealthy
+auður_l;empty
+auðvelda_s;facilitate
+auðveldlega_aa;easily,certainly,effortlessly,readily,simply
+auðveldur_l;easy
+auðvita_nhs;*of course,naturally
+auðvitað_aa;naturally,sure
+að_aa;wrong
+að_aþ;at,towards,up to
+að_c;that
+að_cn;to
+aðalatriði_nh;main thing,main issue,bottom line
+aðaldyr_nv;front door
+aðalfyrirlesari_nk;main speaker
+aðalhlutverk_nh;leading role,main role
+aðallega_aa;mostly,mainly
+aðallendingarbúnaður_nk;main landing gear
+aðbúnaður_nk;accomodation
+aðdragandi_nk;prelude,preface,introduction,preamble,prologue
+aðdáun_nv;admiration,adoration,honor,respect
+aðeins_aa;only
+aðferð_nv;method,way
+aðfinnsluverur_l;*exceptionable
+aðgangur_nk;access
+aðgengilegur_l;accessible
+aðgerð_nv;operation,action,measure
+aðgerðaleysi_nh;inaction,inactivity,passiveness,dormancy
+aðhald_nh;restraint,control
+aðild_nv;membership,involvement,participation
+aðildarfyrirtæki_nh;member company
+aðili_nk;party,agent,side
+aðsetur_nh;address,dwelling,habitation,house,lodging,residence
+aðsig_nh;coming
+aðspurður_l;asked
+aðstaða_nv;facilities,position
+aðstoð_nv;assistance
+aðstoða_s;assist,help,abet,aid,support
+aðstoðarmaður_nk;assistance
+aðstoðarprestur_nk;curate
+aðstæður_nv;situation
+aðventa_nv;Advent
+bak_nh;back,behind
+baka_aa;back,return
+baka_s;bake,make,create,cause
+bakdyr_nv;back door
+bakgrunnur_nk;background,context,experience,history,training,education
+bakki_nk;bank,waterside,tray
+bakslag_nh;setback
+bakvið_ao;behind
+ball_nh;dance,ball
+ballgestur_nk;dance guest,ball guest
+band_nh;rope,string,leash
+banda_s;wave
+bandalag_nh;coalition,union,federation,alliance
+bandamaður_nk;ally,partner,supporter,friend
+bandaríki_nhs;USA
+bandaríkjadall_nk;*US dollar
+bandaríkjadalur_nks;US Dollar
+bandaríkjaforseti_nks;US president
+bandaríkjamaður_nks;American
+bandaríkjastjórn_nvs;US government
+bandaríska_nv;American
+bandarískur_l;American
+bani_nk;death
+banka_s;knock,beat,tap
+bankastjóri_nk;bank president,bank director
+bankaviðskipti_nh;banking
+banki_nk;bank
+bankinnn_nk;*bank
+bann_nh;ban,prohibition,disallowance,interdiction
+banna_s;ban
+banni_nh;*ban
+bar_nk;bar,pub,tavern,saloon,inn
+bara_aa;just
+barackur_nks;*Barack
+barki_nk;windpipe
+barmur_nk;bust,edge,brink
+barn_nh;child
+barnalag_nh;children song
+barnaskóli_nk;elementary school,primary school,grade school
+barnaverndarnefnd_nv;child protection committee
+barátta_nv;struggle
+barónessa_nv;baroness
+basl_nh;difficulty,trouble,struggle
+batna_s;recover,improve,better,get well
+baugur_nk;Baugur
+baun_nv;bean,pea
+bað_nh;bath
+baða_s;bathe,wash,shower,rinse
+baðherbergi_nh;bathroom
+baðstofa_nv;sitting-room,living room
+bbc_nks;BBC
+bein_nh;bone
+beina_s;point,direct
+beinlínis_aa;directly
+beinn_l;straight,direct
+beint_aa;straight,direct
+beita_s;use,employ,apply
+beitiskip_nh;cruiser
+beiðni_nv;request
+bekkur_nk;bench,class
+belti_nh;girdle,belt
+benda_s;point
+bendill_nk;pointer,cursor
+bensínlítri_nk;liter of fuel
+bensínverð_nh;fuel price
+ber_l;nude,naked,bare
+bera_s;carry,bear
+berfættur_l;barefoot,barefooted
+berg_nh;rock
+bergmála_s;echo,reverberate,resound
+bergmálsmæling_nv;xxx
+berja_s;beat,strike,fight
+bernska_nv;childhood,infancy
+berserkur_l;berserk
+beygja_nv;turn,twist,bend,corner
+beygja_s;turn
+beykitré_nh;beech
+bifreið_nv;car,automobile
+bikarmeistari_nk;cup winner
+bil_nh;space
+bila_s;fail,break
+bilaður_l;broken,damaged,faulty,sick,crazy
+binda_s;bind
+bindi_nh;tie
+birgða_nv;*supply
+birgðir_nv;supply
+birta_nv;light,brightness
+birta_s;show,publish
+birting_nv;release,publishing,visualisation
+biskup_nk;bishop
+bithagur_l;pasture
+biti_nk;bite,part
+bitur_l;bitter,acrid,angry,annoyed,resentful
+bið_nv;wait,pause
+biðja_s;ask
+biðlisti_nk;waiting list
+bjalla_nv;bell,beetle,buzzer
+bjarga_s;save
+bjarmi_nk;glow
+bjartsýnn_l;optimistic
+bjartur_l;bright,clear
+bjáni_nk;idiot,fool,stupid,bonehead
+bjóða_s;offer
+björg_nv;rescue,salvage,help,aid,relief
+björgunarsveitarmaður_nk;rescue service member
+björn_nk;bear
+blair_nk;*Blair
+blanda_s;mix,blend
+blandinn_l;mixed,blended,mingled
+blasa_s;lay before,display,be evident
+blautur_l;wet
+blað_nh;paper,sheet,blade
+blaðamannaskóli_nk;journalist school
+blaðamaður_nk;reporter
+blaðamennska_nv;reporting
+blaðamur_nk;*reporter
+blaðra_nv;balloon
+blaðsíða_nv;page
+bleikur_l;pink
+blekkja_s;deceive,fool,betray,mislead,trick,double-cross
+bless_au;bye,goodbye
+blessaður_l;hi,hello,blessed
+blettur_nk;spot,stain,mark,garden
+blik_nh;glimmer,shimmer,spark,twinkle,flicker
+blikka_s;blink,wink
+blinda_s;blind
+blindur_l;blind,sightless,unseeing
+blogga_s;blog
+bloggur_l;*blog
+blokkflauta_nv;concert flute
+blossi_nk;flare,flame,flicker,glare
+blotna_s;wet,soak,get wet
+blundur_nk;nap,snooze,siesta,doze,sleep
+blálanga_nv;xxx
+blár_l;blue
+blása_s;blow,puff
+blátt_aa;downright,simply
+blær_nk;atmosphere,mood,ambience,air
+blævængur_nk;fan
+blæða_s;bleed
+blíða_nv;very good weather
+blíðlega_aa;softly,gently
+blíðlegur_l;loving,affectionate,pleasant
+blíður_l;tender,gentle,calm,considerate,sweet,tame
+blóm_nh;flower
+blóð_nh;blood
+blóðrás_nv;bloodstream,circulation
+blússa_nv;blouse,shirt,top
+blýantur_nk;pencil
+bnur_nks;*USA
+boginn_l;curved,hooked,bent,strange,wrong
+bolla_nv;bun
+bolli_nk;cup
+boltaleikjur_nk;*ball game
+bolti_nk;ball,bolt
+bolur_nk;T-shirt,torso,sweat shirt,stock
+bor_nk;drill
+bora_s;drill,bore,pick
+borg_nv;city
+borga_s;pay
+borgarastyrjöld_nv;civil war
+borgarastétt_nv;middle-class,bourgeois,common
+borgari_nk;citizen,civilian,burger,hamburger
+borgarstjóri_nk;major
+borun_nv;drilling
+borð_nh;table
+borða_s;eat
+borði_nk;border
+borðstofa_nv;refactory,dining room
+borðstokkur_nk;gunwale,gunnel
+botn_nk;bottom
+botna_s;understand,comprehend,follow,get,grasp,end
+boð_nh;party,invitation,offer,dictate
+boða_s;call,preach,summon
+boðhlaupssveit_nv;relay race squad
+boðinn_l;offered,bids be invited
+boðskapur_nk;message,morale
+brad_nh;*Brad
+bragð_nh;taste,trick
+bragða_s;taste,eat,sample
+braka_s;creak,crunch,squeak
+brandari_nk;joke,prank,mockery
+brattur_l;steep
+braut_nv;path,road,street,highway
+brautryðjandi_nk;pioneer
+brauð_nh;bread,food
+brauðsneið_nv;slice of bread
+bregða_s;startle,trip,change,strike,react
+breidd_nv;width,latitude,breadth
+breiða_s;spread
+breiður_l;wide
+brekka_nv;slope,hillside,rise,ascent,hill,bank
+brenna_s;burn,roast
+brennandi_l;burning,fiery,fervent
+breskur_l;British
+bresta_s;break,fail,crack
+brestur_nk;failure,fault,break,breakage,damage
+breta_s;Briton,Brit
+bretland_nhs;UK
+bretta-og_nh;*
+breyta_s;change
+breytilegur_l;variable,uneven,dynamic,changeable,alterable,adjustable
+breyting_nv;change,transition,alteration
+breyttur_l;changed,modified
+bringa_nv;chest,breast
+brjálaður_l;crazy,mad,lunatic,cuckoo,loco
+brjóst_nh;breast,tit
+brjóta_s;break
+bros_nh;smile
+brosa_s;smile
+brosandi_l;smiling
+brot_nh;violation
+brotinn_l;broken,cracked,impaired,injured
+brotna_s;break,shatter,fracture,calve
+brott_aa;away
+brottför_nv;departure
+bruni_nk;fire,combustion,sunburn
+brunnur_nk;well,waterhole,source
+bryggja_nv;wharf,pier,dock
+brátt_aa;soon
+bráð_nv;pray,game,kill,victim,near future
+bráðum_aa;soon
+bræða_s;melt,smelt,dissolve,liquefy
+bræðslumark_nh;melting point
+bréf_nh;letter,share,stock
+bróðir_nk;brother
+brölta_s;scramble,clamber,flounder,climb,struggle,move
+brú_nv;bridge
+brúarfos_nhs;Brúarfoss
+brúarfoss_nk;Brúarfoss
+brún_nv;edge
+brúnn_l;brown
+brúsi_nk;bottle,flask,container,can
+brúður_nv;bride,newlywed,wife
+brýnn_l;urgent,pressing,important
+bugur_nk;away
+bull_nh;nonesense,rubbish
+bundinn_l;tied,limited,set
+burt_aa;away
+burtu_aa;away
+bush_nh;*Bush
+buxur_nv;pants,trousers,jeans
+bygging_nv;building
+byggingafyrirtæki_nh;construction company
+bygginganefnd_nv;building committee
+byggingarframkvæmd_nv;construction
+byggingaverktaki_nk;construction company
+byggingavöruverslun_nv;construction products store,hardware store
+byggja_s;build
+byggð_nv;settlement,inhabited area
+byggðarráð_nh;local council
+bygður_l;*built,housing
+bylgja_nv;wave
+bylta_s;turn,welter
+bylting_nv;revolution,breakthrough
+byrja_s;begin,start
+byrjun_nv;beginning,start
+byrði_nv;burden,load,weight,cargo
+byssa_nv;gun
+bági_nk;opposite,reverse,counter
+bágur_l;hard,difficult,poor
+bára_nv;wave
+bátur_nk;boat
+báðir_f;both
+bægja_s;fend,stave,avert,avoid,ward off
+bæjarbúi_nk;townsman
+bæjarleið_nv;way to town
+bæjarráð_nh;town council
+bæjarstjóri_nk;mayor
+bæjarstjórn_nv;town council
+bæklingur_nk;brochure,leaflet,pamphlet,booklet
+bæla_s;repress
+bæn_nv;prayer,appeal,plea,request
+bær_nhs;Town
+bær_nk;town,farm
+bæra_s;move,shift,turn,start moving
+bæta_s;improve,fix,add
+bættur_l;improved,fixed,amended,enhanced,recovered
+bæði_c;both
+bílastæði_nh;parking,parking lot,car park
+bíll_nk;car
+bílskúr_nk;garage
+bílstjóri_nk;driver,chauffeur
+bíta_s;bite
+bíða_s;wait
+bíó_nh;cinema,movie theatre
+bófahasar_nk;gangster scene
+bófi_nk;gangster,mobster,criminal
+bógur_nk;cock,bow,sense
+bók_nv;book
+bókhaldslagabroti_nh;bookkeeping law violation
+bókmenntir_nv;literature,prose,fiction,letters
+bókstaflega_aa;literally
+bókstafur_nk;letter,character
+bókun_nv;booking,registration
+ból_nh;bed
+bóndi_nk;farmer
+bót_nv;improvement,fix
+bölva_s;curse,damn,blaspheme
+bú_nh;farm
+búa_s;live,prepare for,expect,build
+búinn_l;done,over
+búnaður_nk;equipment,tool,device,armament
+búningur_nk;costume,suite,outfit,format
+búr_nh;cage,pantry
+búrhvalur_nk;sperm whale,common cachalot
+búsettur_l;resident,living,dwelling
+búskapur_nk;farming,agriculture,husbandry
+búð_nv;shop,store,market
+búða_nv;store,shop,market
+býli_nh;farm,mansion,dwelling,house,villa
+býsna_aa;fairly,considerably,very
+c-liður_nks;C-item,C-part
+cm_nk;cm
+dB_nh;dB
+dagblað_nh;newspaper,journal,daily
+dagblaðafrétt_nv;newspaper article
+dagblaði_nh;*newspaper
+dagbók_nv;diary,journal,chronicle,organizer
+daglega_aa;daily,regularly,routinely
+daglegur_l;daily
+dagsbirta_nv;daylight
+dagskrá_nv;program,schedule
+dagur_nk;day
+dagvinna_nv;day work
+daljöklaskeið_nh;xxx
+dalur_nk;dollar,valley
+dama_nv;lady
+danmörk_nvs;Denmark
+dans_nk;dance
+dansa_s;dance
+danska_nv;Danish
+danskur_l;Danish
+dansleikur_nk;dance,ball
+dapur_l;sad
+dapurlegur_l;sad,bleak,dreary,gloomy,sorrowful,tragic
+darfir_nvs;*Darfur
+darfur-héraður_nks;*Darfur-region
+daufur_l;faint,dull,dim,spiritless
+dauði_nk;death
+dauður_l;dead
+deila_nv;argument,strife,debate
+deila_s;share,divide
+deild_nv;department,division,squad,house,ward
+dekk_nh;tire,deck
+demókrata_s;*Democrat
+demókrataflokkur_nks;Democratic party
+depla_s;blink,wink,bat
+desember_nk;December
+detta_s;fall
+deyja_s;die
+dimma_nv;darkness,dark,gloom,blackness,dusk,shadow
+dimmblár_l;navy,navy blue
+dimmur_l;dark,dim
+dingla_s;waggle,wag
+dirfa_s;dare,venture
+diskur_nk;plate,dish,disc,CD
+diskótek_nh;disco,discotheque
+djákni_nk;deacon
+djöfull_nk;devil
+djúp_nh;deep,depth,abyss,ocean,sea
+djúpt_aa;deep
+djúpt_aam;deeper
+djúpur_l;deep
+dofna_s;numb,dim,fade out
+doktor_nk;Ph.D.,doctor
+doktor_nks;Ph.D.,doctor
+dollar(i)_nk;dollar
+dollari_nk;dollar
+dominir_nks;*Domini
+donald_nh;Donald
+dorgveiði_nv;jigging,fishing
+draga_s;pull,postpone,contract
+drasl_nh;mess,clutter,chaos,litter,junk,stuff
+draugur_nk;ghost,phantom,spirit,poltergeist,spook
+draumur_nk;dream
+dreifa_s;distribute
+dreifður_l;stray,scattered,distributed
+dreki_nk;dragon,wyvern,basilisk,monster
+drekka_s;drink
+drekkja_s;drown,immerse,submerge,flood
+drengur_nk;boy
+drepa_s;kill
+dreyma_s;dream
+drjúgur_l;lasting,substantial,considerable,smug
+dropi_nk;drop
+drottinn_nk;lord,god
+drottinn_nks;lord,god
+drottning_nv;queen
+drukkinn_l;drunk,drunken,intoxicated
+drukkna_s;drown
+drungalegur_l;gloomy,dreary,dim
+drykkur_nk;drink,beverage
+dráttarvél_nv;tractor
+dráttur_nk;pull,postponement,touch,fuck
+drífa_s;hurry,gather,drive,power
+dublinreglur_nvs;*Dublin rule
+dublinsamkomulag_nhs;Dublin agreement
+duga_s;suffice
+duglegur_l;hard-working
+dularfullur_l;mysterious,weird
+dvalarríki_nh;country of stay
+dvelja_s;dwell,stay
+dvöl_nv;stay
+dyflinnar_nvs;Dublin
+dyflinnarsamkomulag_nhs;Dublin agreement
+dylja_s;hide,mask,bury,conceal,camouflage
+dyr_nv;door
+dá_s;admire
+dágóður_l;respectable,tidy,good
+dáinn_l;dead
+dálkur_nk;column,spirit
+dálítill_l;little,some
+dálítið_aa;somewhat,little
+dásamlegur_l;wonderful,amazing,fantastic,lovely,sensational,terrific
+dæma_s;judge,review,sentence,referee
+dæmi_nh;example
+dæmigerður_l;typical,regular,ordinary
+dæsa_s;sigh
+dísilolía_nv;diesel oil
+dísilolíulítri_nk;liter of diesel oil
+dómari_nk;judge
+dóms-_nh;justice-
+dómsmálaráðherra_nk;Attorney General,Lord Chancellor,Minister of Justice
+dómsmálaráðuneyti_nh;Justice Department,Ministry of Justice
+dómstóll_nk;court,court of law
+dómstólur_nk;court
+dómsuppkvaðninga_nv;sentencing
+dómur_nk;sentence,review,relic
+dót_nh;thing,stuff,gear,kit
+dóttir_nv;daughter
+dótturfélag_nh;subsidiary
+dökkbrúnn_l;sepia,mahogany,coffee,dark brown
+dökkhærður_l;dark-haired,black-haired
+dökkur_l;dark,bleak
+dönskutími_nk;Danish class
+dúetti_nk;duet,duo
+dúr_nk;nap,wink,major
+dýpi_nh;depth
+dýr_l;expensive
+dýr_nh;animal
+dýrlingasali_nk;saint seller
+dýrmætur_l;valuable,costly,invaluable,precious,priceless,worthy
+dýrð_nv;glory,honor,greatness,splendor
+edinborg_nvs;Edinburgh
+eeur_nks;EEA
+ef_c;if
+efa_s;doubt,mistrust,suspect
+efasemd_nv;doubt,suspicion,uncertainty,worry,scepticism
+efi_nk;doubt
+efla_s;strengthen,boost
+eflaust_aa;undoubtedly
+efna_s;fulfil
+efnafræðilegur_l;chemical
+efnahagslegur_l;economic
+efnahagslíf_nh;economy
+efnahagsmál_nh;economics
+efnahagsstuðningur_nk;economic support
+efnahagssvæði_nh;economy area
+efnavara_nv;chemical product
+efni_nh;material,topic,matter,subject
+efnilegur_l;promising,hopeful,rising,talented
+efnisatriði_nh;topic
+efnislega_aa;substantially
+efri_l;upper
+eftir_aa;after
+eftir_ao;after
+eftir_aþ;after,along
+eftirfarandi_l;following
+eftirgreindur_l;following
+eftirlit_nh;supervision,surveillance
+eftirlitsaðili_nk;supervision agent
+eftirlitsmaður_nk;inspector,surveillant,examiner
+eftirlæti_nh;favorite,darling,pet,beloved,preference,special
+eftirminnilegur_l;memorable,unforgettable,special,historic,extraordinary,lasting
+eftirspurn_nv;demand
+eftirstríðsár_nh;post-war period
+eftirsóttur_l;popular,eligible,fashionable,preferred
+eftirvænting_nv;expectation,anticipation
+egg_nh;egg,edge,blade
+egyptur_nks;*Egypt
+eiga_nv;possession,ownership,property,asset
+eiga_s;own,have,shall
+eigandi_nk;owner
+eigi_aa;not
+eigin(n)_l;own
+eigin_l;own
+eiginkona_nv;wife
+eiginlega_aa;basically,sort of,almost
+eiginlegur_l;intrinsic,virtual
+eiginleiki_nk;property,quality,feature,attribute
+eiginmaður_nk;husband
+eign_nv;property
+eigna_s;attribute to
+eignarskattsstofn_nk;property tax base
+eignarskattur_nk;property tax
+eignaskemmd_nv;property damage
+eik_nv;oak
+eilífur_l;eternal,immortal
+eilífð_nv;eternity,infinity,eternalness,perpetuity,aeon
+eilífðarvél_nv;perpetual motion machine
+einangra_s;isolate,identify,quarantine,insulate
+einangraður_l;isolated,alone,apart,insular,separate,solitary
+einasti_l;one,every
+einatt_aa;always,frequently
+einbeita_s;focus,concentrate,adjust,direct
+einbeittur_l;concentrated,focused,driven,persistent,firm
+einblína_s;gaze,stare,focus,concentrate
+einbýli_nh;singly family house,villa
+eind_nv;unit
+eindregið_aa;strongly
+einfaldlega_aa;simply
+einfaldur_l;simple
+eingöngu_aa;strictly,solely,exclusively
+einhliða_aa;one-sided,unilateral
+einhver_f;some,somebody
+einhverntíma_aa;sometime
+einhverskonar_l;some,some kind of
+einhversstaðar_aa;somewhere
+eining_nv;module,entity,consensus,unity
+einkafyrirtæki_nh;private company
+einkageiri_nk;private sector
+einkar_aa;very,quite,utterly,particularly
+einkenna_s;characterize,define
+einkenni_nh;characteristic,symptom,attribute,trait
+einkennilegur_l;peculiar,strange,unusual
+einkum_aa;mostly
+einlitur_l;monochrome
+einlægni_nv;sincerity,frankness
+einlægur_l;sincere,serious
+einmana_l;loneley,lonesome
+einmenningstölva_nv;PC,personal computer,computer,laptop,notebook
+einmitt_aa;exactly
+einn_f;one
+einn_l;one
+einn_t;one
+einnig_aa;also
+einræðisherra_nk;dictator,tyrant,despot,autocrat,totalitarian,ruler
+eins_aa;like,likewise
+eins_l;alike
+einskonar_l;kind of
+einskorða_s;restrict,limit
+einsog_c;like,as
+einstaka_l;unique,special
+einstaklega_aa;singularly,eminently,especially,uniquely
+einstaklingsgrein_nv;individual sport
+einstaklingur_nk;individual
+einstakur_l;particular,unique,individual
+eintak_nh;copy,instance,piece
+eintaki_nh;copy,instance,piece
+eintómur_l;sheer,mere
+einungis_aa;only
+einusinni_aa;once
+eitur_nh;poison,toxicant,toxin,venom
+eiturefni_nh;poision
+ekki_aa;not
+ekkja_nv;widow,dowager,relict
+ekra_nv;acre
+elda_s;cook
+eldavél_nv;stove,cooker
+eldflaugavarnakerfi_nh;missile defence system
+eldflaugavarnarkerfi_nh;missile defence system
+eldgos_nh;volcanic eruption
+eldhnöttur_nk;fireball
+eldhús_nh;kitchen
+eldhúsborð_nh;kitchen table
+elding_nv;lightning
+eldrauður_l;flame red,red
+eldsneyti_nh;fuel
+eldsneytisframleiðsla_nv;fuel production
+eldsneytisverð_nh;fuel price
+eldsnöggt_aa;instantly,rapidly,swiftly,suddenly
+eldstæði_nh;fireplace,hearth,furnace
+eldstó_nv;stove,fireplace,fire stove
+eldstöð_nv;volcano
+eldur_nk;fire
+eldvarp_nh;volcanic cone
+ella_aa;otherwise,or
+ellefu_t;eleven
+ellegar_c;or
+elli_nv;elderlliness,agedness,senectitude
+elliheimili_nh;elderly people's home
+elska_nv;love
+elska_s;love
+elskhugi_nk;lover,paramour,sweetheart
+elskulegur_l;lovely,sweet,adorable,amiable,pleasant,charming
+elta_s;follow
+embætti_nh;office,post
+embættismaður_nk;officer,bureaucrat
+en_c;but
+enda_aa;end
+enda_c;and also, and of course, but
+enda_s;end
+endalaus_l;infinite,endless
+endalaust_aa;eternally,indefinitely,infinitely,always
+endalok_nh;end,cessation,closure,completion,ending,finish,stop,termination
+endanlega_aa;finally,permanently
+endanlegur_l;final
+endi_nk;end,tip
+endilangur_l;prone,full length
+endilega_aa;absolutely,necessarily
+endranær_aa;usually,generally
+endurbót_nv;improvement,revision,reformation,reform
+endurheimta_s;regain,recover,redeem,reposess,retake,retrieve
+endurkasta_s;reflect,mirror,reverberate,echo
+endurmeti_nh;*reevaluate
+endurminning_nv;recollection,reminiscence,remembrance,retrospection,memory
+endurnýja_s;renew,furbish,refresh,renovate,refurbish,update
+endurskoða_s;revise,reconsider,update
+endurspegla_s;reflect
+endurtaka_s;repeat
+endurvaki_nh;*resurrect,revivify
+engi_nh;field,grassland,meadow,lea,pasture,prairie
+engill_nk;angel,spirit,seraph
+enginn_f;no,nobody
+engjar_nv;field
+enn_aa;still
+ennfremur_aa;furthermore
+enni_nh;forehead
+ennþá_aa;still,yet
+enska_nv;English
+enskur_l;English
+er_c;when
+er_ct;that
+erfa_s;inherit
+erfiði_nh;labor,pull,fatigue
+erfiðleikar_nk;difficulty,trouble
+erfiður_l;difficult
+ergilegur_l;fretful,irritable,grumpy,bad-tempered
+erindi_nh;affair,sppech,talk,message,stanza
+erindreki_nk;representative,delegate,diplomat,commissioner,envoy,spokesperson
+erjur_nv;strife
+erlendis_aa;abroad
+erlendur_l;foreign
+ermi_nv;sleeve,arm
+esb_nks;EU
+etja_s;push,encite,contend,fight
+evra_nv;euro
+evra_s;*euro
+evruna_nv;*euro
+evrópa_nvs;Europe
+evrópski_nks;European
+evrópskur_l;European
+evrópufræðimaður_nks;Europe scholar
+evrópulandanna_nhs;European countries
+evrópusamband_nhs;European Union,EU
+evrópusambandi_nhs;EU
+ey(ja)_nv;island
+eyjaklasi_nk;archipelago
+eyjamaður_nk;islander,Westman Islander
+eyjar_nv;island
+eyjar_nvs;Westman Islands
+eyra_nh;ear
+eyrir_nk;penny,money
+eyða_nv;blank,vacancy,hollow,space,void
+eyða_s;spend,destroy
+eyðileggja_s;destroy
+eð_c;anyway
+eða_c;or
+eðli_nh;nature
+eðlilega_aa;naturally,normally,ordinarily
+eðlilegur_l;natural,normal
+fagmennska_nv;professionalism
+fagna_s;celebrate
+fagur_l;beautiful
+fagurlega_aa;beautifully,gorgeously,fairly,attractively
+fall_nh;drop,crash,collapse,case,function
+falla_s;fall,die,be killed
+fallega_aa;beautifully,nicely
+fallegur_l;beautiful,pretty
+fallinn_l;fallen,suitable
+falskur_l;false
+fang_nh;arms,grasp
+fanga_s;capture,catch
+fangageymsla_nv;prison,custody
+fangaverð_nh;*prison guard
+fangavist_nv;confinement,captivity
+fangelsi_nh;prison
+fangelsismálastofnun_nvs;Prison Institution
+fangelsispláss_nh;prison space
+fangelsisvist_nv;prison time,imprisonment
+fangi_nk;prisoner,captive,convict,hostage
+far_nh;mark,print,ride,scar
+fara_s;go,die,tell
+faraldur_nk;outbreak,epidemic
+farangur_nk;luggage,baggage,bag,gear,suitcase
+farartæki_nh;vehicle,car
+farinn_l;gone,history
+farmiði_nk;flight ticket
+farmur_nk;cargo
+farsæll_l;successful,flourishing,prosperous,thriving,wealthy
+farsími_nk;mobile phone,gsm
+fartölva_nv;laptop
+farvegur_nk;canal,channel,watercourse,duct
+faríseanna_nhs;pharisee
+farþegaþota_nv;passenger jet
+farþegi_nk;passenger
+fas_nh;presence,aura,demeanor,manner,spirit,behavior
+fast_aa;stuck,tied
+fast_aam;tightest
+fasteign_nv;real estate,property
+fasteignasali_nk;realtor,real estate agent
+fasteignaverð_nh;property price
+fasteignverð_nh;property price
+fastur_l;stuck,trapped
+fat_nh;platter,dish
+fata_nv;bucket,barrel,can,container,bin,pail
+fatlaður_l;disabled
+fatta_s;discover,get,dig,realize,figure out
+faðir_nk;father
+faðma_s;hug,embrace,hold,cuddle
+faðmur_nk;bosom,fathom
+febrúar_nk;February
+feginn_l;pleased,glad
+fegurð_nv;beauty
+feiminn_l;shy,withdrawn,quiet,coy,reluctant
+feitur_l;fat
+fela_s;hide,consist
+feldur_nk;coat,pelt
+fell_nh;fell
+fella_s;throw,trip,collapse,kill,fail
+felldur_l;proper,OK,collapsed
+fellibylur_nk;hurricane,typhoon
+ferill_nk;process,path,career
+ferkílómetri_nk;square kilometer
+ferlega_aa;terribly
+ferma_s;load,confirm
+fermetri_nk;square meter
+ferskur_l;fresh
+ferskvara_nv;fresh food
+fertugur_l;forty,forty years old
+ferð_nv;travel,trip,journey
+ferðahelgi_nv;travel weekend
+ferðalag_nh;travel,trip,journey
+ferðamannastaður_nk;travel destination
+ferðamaður_nk;tourist
+ferðamynstur_nh;travel pattern
+ferðast_s;travel
+ferðataska_nv;suitcase,grip,portmanteau,valise,satchel
+festa_s;fasten
+fet_nh;foot
+feta_s;tread,step,foot,follow,trail
+feykja_s;sweep,blow
+feðgar_nk;father and son
+fh-ingur_nks;FH-player
+fh_nks;FH
+fimm_t;five
+fimmti_l;fifth
+fimmtudagskvöld_nh;thursday night
+fimmtudagur_nk;Thursday
+fimmtugur_l;fifty
+fimmtán_t;fifteen
+fimmtíu_t;fifty
+fimmþúsund_t;five thousand
+financialur_nks;Financial
+fingur_nk;finger
+fingurgómur_nk;fingertip
+finna_s;find,observe,notice
+firma_nh;firm,business,corporation,enterprise
+fiseind_nv;neutrino
+fiseindablossi_nk;xxx
+fiska_s;fish,angle,net,trawl
+fiskimaður_nk;fisherman
+fiskimið_nh;fishing ground,fisheries
+fiskiskip_nh;fishing boat,fishing vessel
+fiskistofn_nk;fish stock
+fiskkaup_nh;fish purchase
+fiskur_nk;fish
+fiskveiði_nv;fishing
+fiskverð_nh;fish price
+fiskvinnsla_nv;fish processing
+fita_nv;fat
+fitla_s;fiddle,finger,twiddle,touch
+fjall_nh;mountain
+fjalla_s;cover
+fjallabrekka_nv;mountainside
+fjallsbrún_nv;brink,rim,verge
+fjandi_nk;devil,enemy
+fjara_nv;beach,shore
+fjara_s;die away,ebb,peter out
+fjarlægja_s;remove
+fjarlægur_l;distant
+fjarlægð_nv;distance
+fjarri_aþ;far,distant,away
+fjarri_aþm;far
+fjarski_nk;distance
+fjarðarbotn_nk;fjord bottom
+fjarðarströnd_nv;fjord coast
+fjarðaálur_nks;*Fjarðaál
+fjárfesting_nv;investment
+fjárfestir_l;*investor
+fjárhagslegur_l;financial
+fjárhagsáhyggja_nv;financial worry
+fjárhæð_nv;amount
+fjármagn_nh;captial,budget
+fjármagna_s;finance
+fjármagnstekja_nv;capital gain
+fjármagnstekjuskattur_nk;capital tax,wealth tax
+fjármagstekjuskattur_nk;capital tax,wealth tax
+fjármunir_nk;asset,money,investment
+fjármál_nh;finance
+fjármálamarkaður_nk;stock exchange,financial market
+fjármögnun_nv;financing
+fjársjóður_nk;treasure,gem,pearl,prize,money,rich,wealth
+fjólublár_l;violet,purple
+fjórir_t;four
+fjórtán_t;fourteen
+fjórði_l;forth
+fjórðungur_nk;quarter
+fjós_nh;cowshed
+fjósamaður_nk;dairyman,cowman
+fjölbrautaskóli_nks;Comprehensive High School
+fjölbreytilegur_l;diverse,varied,mixed,diversified,multiform
+fjölbreyttur_l;diverse,variant,varied,multiform,different
+fjölbýli_nh;block,apartment building
+fjöldauppsögn_nv;mass lay-off
+fjöldi_nk;number,mass,large group
+fjölga_s;increase,grow
+fjölmargur_l;many,very many
+fjölmennur_l;crowded,populous,dense,filled,swarming
+fjölmiðill_nk;media
+fjölmiðlamaður_nk;reporter
+fjölskylda_nv;family
+fjölskylduhátíð_nv;family festival
+fjör_nh;action,fun,liveliness,vitality
+fjörumark_nh;tidemark
+fjörutíu_t;forty
+fjörður_nk;fjord
+fjörður_nks;Hafnarfjörður
+fjöður_nv;feather,spring
+fjúka_s;drift,blow
+fl_nks;FL
+flak_nh;wreck
+flaka_nh;*wreck
+flaska_nv;bottle
+flatt_aa;flat
+flatur_l;flat,even,horizontal
+flaugi_nh;*missile,rocket
+flengja_s;spank,whack,smack,punch,slap,belt
+flet_nh;shakedown
+fletta_s;turn
+fleygja_s;throw
+fleyta_s;raft,carry,support
+flissa_s;giggle
+flissandi_l;giggly,giggling
+fljóta_s;float,drift
+fljótlega_aa;soon
+fljótt_aa;soon,suddenly
+fljótur_l;swift,quick
+fljúga_s;fly
+flokksþing_nh;party meeting
+flokkur_nk;group,category,party
+floridi_nks;*Florida
+floti_nk;navy
+flott(ur)_l;cool,fancy,hip,classy,posh
+flug_nh;flight,aviation
+fluga_nv;fly
+flugher_nk;air force
+flugmálastjór_nvs;*Civil Aviation Administration
+flugskeytaskotpallur_nk;missile launching platform
+flugskeyti_nh;missile
+flugslys_nh;aviation accident
+flugvél_nv;airplane
+flugvöllur_nk;airport
+flugóhappi_nh;flight accident
+flugþjónustufyrirtæki_nh;*aviation service company
+flutningaiðnaður_nk;*
+flutningur_nk;movement,transportation,transfer,logistics
+flutta_s;*move
+flygill_nk;grand piano
+flytja_s;move
+flækja_s;complicate,obfuscate,tangle,perplex,entangle
+flæða_s;flow,pour,stream,circulate,flood,overflow
+flík_nv;garment,apparel,gear,outfit,clothes
+flóabátur_nk;bay vessel
+flói_nk;bay,gulf
+flókinn_l;complicated,complex
+flóttamaður_nk;refugee,runaway,escapee
+flótti_nk;escape,flight,retreat,withdrawal,break-out
+flögra_s;fly,flutter,flicker
+flöki_nh;*wreck
+flöki_nv;*wreck
+flökta_s;flicker,fluctuate,blink,flash
+flöktandi_l;flickering,lambent
+flýja_s;escape,run away
+flýta_s;hurry
+fokker-vél_nks;Fokker-airplane
+fordómar_nk;prejudice,prejudgement
+foreldrar_nk;parents
+foreldravald_nh;domestic authority
+foreldri_nh;parent
+forfaðir_nk;ancestor,antecedent,forebear,forefather
+foringi_nk;leader,chief,boss,foreman,head,commander
+form_nh;form,format
+formaður_nk;president,chairman
+formaður_nks;chairman,president
+formlega_aa;formally,officially
+formlegur_l;formal,official
+forn_l;ancient,archaic,antique
+fornbílasýning_nv;old cars show
+forrit_nh;program,software
+forsenda_nv;prerequisite
+forsetaframbjóðandi_nk;presidential candidate
+forsetakosning_nv;presidential election
+forseti_nk;president
+forsjá_nv;caution,foresight
+forskot_nh;advantage,head start
+forstjóri_nk;director,president
+forstofa_nv;hall
+forstöðumaður_nk;warden,manager,curator
+forsætisráðherra_nk;prime minister
+forsöngvar_nk;precentor
+fortíð_nv;past
+forustumaður_nk;leader
+forvitinn_l;curious
+forvitni_nv;curiosity,nosiness,inquisitiveness
+forviða_l;surprised,amazed,puzzled
+forysta_nv;leadership,lead
+forystumaður_nk;leader,chief,boss,commander
+forða_s;avoid,save
+forðum_aa;formerly,before,erstwhile,in the old days
+foss_nk;waterfall,cascade,cataract,chute
+frakki_nk;coat,overcoat,tog
+frakki_nks;coat,overcoat,tog,Frenchman
+frakkland_nhs;France
+fram_aa;forward
+fram_ao;forward
+framan_aa;above,fore,front
+framandi_l;unfamiliar,exotic,otherworldly
+framangreindur_l;above-mentioned
+framar_aae;in front
+framar_aam;anymore,again
+framarlega_aa;near,front,long
+frambjóðandi_nk;candidate
+framboð_nh;supply,candidacy,party
+framburður_nk;pronunciation,statement
+framfæri_nh;support,furtherance,presentation,promotion
+framför_nv;improvement,progress,advancement
+framhald_nh;continuation,sequel
+framhaldsnám_nh;advanced studies
+framhaldsrannsóknir_nv;continued research
+framhjá_aa;past,by
+framhjá_aþ;past,by
+framhjáhöld_nv;adultery
+framkoma_nv;demenor,manner,etiquette,behavior
+framkvæma_s;execute,perform,realise
+framkvæmd_nv;project,execution,implementation
+framkvæmdastjóri_nk;managing director,executive
+framkvæmdastjórn_nv;executive
+framlag_nh;contribution,donation,gift,offering
+framleidda_s;*produced
+framleiða_s;produce,manufacture,generate,fabricate
+framleiðandi_nk;producer,maker,manufacturer
+framleiðsla_nv;production
+frammi_aa;outside
+frammistaða_nv;performance,accomplishment,success
+framsæti_nh;frontseat
+framsóknarmaður_nk;Progressive Party member
+framtíð_nv;future
+framundan_aa;ahead
+framvegis_aa;henceforward,etc.
+framvinda_nv;progress,advancement,progression,advance,development
+franska_nv;French
+franskur_l;french
+freista_s;tempt
+frekar_aam;more
+frekja_nv;imposition,intrusion,demand,agressiveness
+frekur_l;further,demanding
+frelsari_nk;savior,liberator,emancipator,rescuer,redeemer
+frelsi_nh;freedom
+fremja_s;commit,perpetrate
+fremri_l;superior,better
+fremur_aae;preferably
+fremur_aam;rather
+fremur_aþm;rather
+fresta_s;postpone
+frestur_nk;deadline,longer time
+friða_s;pacify,salve,preserve
+friðargæsluli_nh;*peace keeping force
+friðargæsluliði_nh;peace keeper
+friðargæsluliði_nk;peace keeper
+friðsæll_l;tranquil,calm,peaceful,quiet,restful,undisturbed
+friðun_nv;preservation,conciliation
+friður_nk;peace
+frjáls_l;free
+frjálslega_aa;freely,irresponsibly
+frjálslyndur_l;liberal,permissive,progressive,tolerant
+froskmaður_nk;skin diver,frogman
+frost_nh;frost,frostiness
+frumefni_nh;element
+frumeind_nv;atom
+frumkvæði_nh;initiative,incentive
+frumstæður_l;primitive,basic,savage
+frumvarp_nh;bill
+frystihús_nh;freezing plant
+frá_aa;from,away
+frá_aþ;from
+frábrugðinn_l;different,special
+frábær_l;fantastic,great
+fráfærur_nv;xxx
+fráleitur_l;absurd,preposterous,illogical,unrealistic,silly
+frárennslisvatn_nh;drain water
+frásögn_nv;narrative,story
+frægur_l;famous,well known
+frændi_nk;nephew,causin,uncle,relative
+frænka_nv;niece,cousin,aunt,female relative
+fræði_nh;science,study,research
+fræðigrein_nv;discipline,area,field,research field
+fræðilegur_l;scholarly,theoretical,theoretic
+fræðimaður_nk;scholar,theoretician
+fræðsla_nv;education
+frétt_nv;story,report,news
+frétta_s;hear
+fréttabréf_nh;newsletter,newspaper,gazette,paper,publication
+fréttamaður_nk;reporter
+fréttastjóri_nk;news manager,news chief
+fréttastofa_nv;newsroom,news agency,wire service
+fréttavefur_nk;news website
+frí_nh;vacation,holiday
+frímerki_nh;stamp,postage stamp
+frímínútur_nv;break,recess,playtime
+fríður_l;fair,handsome,beautiful
+fróðlegur_l;instructive,informative,educative,enlightening
+fróðleikur_nk;knowledge,information,lore
+frú_nv;Mrs
+fugl_nk;bird
+fullkominn_l;perfect,advanced
+fullkomlega_aa;perfectly,absolutely,flawlessly
+fullkunnugur_l;known,well known
+fullnægja_s;satisfy,gratify,fulfil,indulge,content
+fullorðinn_l;adult
+fullreistur_l;fully built
+fulltrúi_nk;representative
+fullur_l;full,drunk
+fullvissa_s;assure,reassure,convince,ensure,vouch
+fullyrða_s;claim,state
+fullyrðing_nv;claim,assertion
+fundargerð_nv;record of a meeting,proceedings
+fundarmur_nk;*meeting attendee
+fundur_nk;meeting
+fursti_nk;prince
+furutré_nh;pine,fir,firtree
+furða_nv;wonder,astonishment
+furða_s;marvel,wonder,amaze
+furðulegur_l;weird,strange
+fv_nh;former
+fylgdarlið_nh;party,escort,team
+fylgi_nh;support,following
+fylgja_s;follow
+fylgsni_nh;hideout,cave,den,refuge,lair,retreat,sancuary,hideaway,shelter
+fylking_nv;formation,parade,group,grouping,party,phylum
+fylkismaður_nk;Fylkir supporter,Fylkir team
+fylla_s;fill
+fyllirí_nh;drinking,drunkenness
+fyndinn_l;funny,amusing
+fyrir_aa;already,in the way
+fyrir_ao;for,before,because of
+fyrir_aþ;for,ago
+fyrirbæri_nh;phenomenon,thing,specimen
+fyrirbæri_nk;*thing,phenomenon
+fyrirfram_aa;beforehand,in andvance,predeterminate
+fyrirgefa_s;forgive,pardon
+fyrirheit_nh;promise
+fyrirhuga_s;plan,purpose,devise,intend,plot,scheme
+fyrirhugaður_l;intended,pending
+fyrirhöfn_nv;effort,trouble,bother
+fyrirlesara_nk;speaker
+fyrirlesari_nk;speaker
+fyrirlestur_nk;lecture,talk,speech
+fyrirlitning_nv;contempt,hatred,disdain
+fyrirliði_nk;captain,team leader
+fyrirmynd_nv;model,role model,blueprint,prototype
+fyrirmæli_nh;instruction,dictate,command
+fyrirtæki_nh;company,corporation,firm,enterprise
+fyrirtækjasvið_nh;company department
+fyrirvari_nk;notice,warning,escape clause
+fyrirætlun_nv;plan,blueprint,project,proposal
+fyrr_aae;first,originally
+fyrr_aam;earlier
+fyrri_l;former,prior,last year
+fyrrnefndur_l;said,former,forenamed,above-mentioned
+fyrrum_aa;former,sometime,earlier
+fyrrverandi_l;former
+fyrst_c;since,now
+fyrstur_l;first
+fá_s;get
+fáeinir_f;few
+fágaður_l;sophisticated,elegant,civilized,refined,fashionable
+fálma_s;grope,fumble,grabble,poke,probe,search
+fár_l;few,silent
+fáránlegur_l;ridiculous,weird,bizarre,absurd,irrational
+fátæklegur_l;scanty,inadequate,skimpy
+fátækt_nv;poverty
+fátækur_l;poor
+fækka_s;decrease,reduce,lessen,subtract
+fær_l;talented,qualified
+færa_s;move,bring
+færeyjar_nvs;Faroese Islands
+færi_nh;chance,opportunity
+fæða_nv;nourishment,food,nurture,nutrition,diet
+fæða_s;feed
+fæði_nh;food,bread,diet,nourishment,nutrition,board
+fæðing_nv;birth,beginning,childbearing,delivery,dawn
+fæðingalæknir_nk;obstetrician
+fé_nh;money,sheep
+félag_nh;organization,company
+félagi_nk;partner
+félagsheimili_nh;community center
+félagslega_aa;socially
+félagslegur_l;social
+félagsmaður_nk;member
+félagsskapur_nk;company,partnership,society
+fífl_nh;idiot,bonehead,fool,jerk,moron,ass,jackass
+fíkniefna_x;drugs
+fíngerður_l;fine,petite,subtle
+fínn_l;good,fine,nice
+fólk_nh;people
+fórna_s;sacrifice,give up,give
+fórnarlamb_nh;victim,casualty,prey,sufferer
+fóstur_nh;fetus
+fósturbarn_nh;foster child
+fósturforeldrar_nk;foster parents
+fótatak_nh;footstep
+fótboltamót_nh;football tournament,soccer tournament
+fótbolti_nk;football,soccer
+fótleggur_nk;leg,shank
+fótur_nk;foot,basis
+fögnuður_nk;rejoicing,jubilation,joy,acclaim,celebration
+fölna_s;pale,whiten,fade,faint,bleach,blanch
+fölur_l;pale
+för_nv;travel,journey
+föstudagssvar_nh;Friday answer
+föstudagur_nk;Friday
+fötlun_nv;disability,handicap
+fúll_l;sour,stagnant,grumpy
+fýla_nv;stink,grudge
+gagn_nh;use,usefulness
+gagnabanki_nk;database
+gagnflaugastöð_nv;missile defence system
+gagnlegur_l;useful,practical,helpful,beneficial
+gagnrýna_s;critisize
+gagnrýni_nv;criticism,critique,review,disapproval,objection
+gagnvart_aþ;opposite,against,in relation to
+gala_s;crow,cackle,cry
+galdrakarli_nks;*Wizard
+galdramaður_nk;magician,sorcerer,necromancer,shaman,wizard
+galli_nk;flaw,fault,bug,outfit
+gamaldags_l;outdated
+gamall_l;old
+gaman_nh;fun,enjoyment
+ganga_nv;walk
+ganga_s;walk,work,work out
+gangstétt_nv;sidewalk,pavement
+gangur_nk;hall
+ganta_s;banter,joke,mock,chaff,josh,satirize
+gapa_s;gape,yawn,stare,gaze,gawk,peer
+garri_nk;bluster,wind,storm
+garðaskoðun_nv;garden inspection
+garður_nk;garden
+gas_nh;gas
+gasauðlind_nv;gas resource
+gat_nh;hole
+gata_nv;street
+gaumur_nk;attention,mind
+gazasvæði_nhs;Gaza area
+gefa_s;give
+gefinn_l;given,published
+gegn_aa;through
+gegn_aþ;against
+gegna_s;obey,act as
+gegnt_aþ;opposite
+gegnum_ao;through
+geimfar_nh;spacecraft
+geimur_nk;space
+geisa_s;storm,ramp,rage
+geisla_s;radiate,emanate,beam
+geislaprentari_nk;laser printer
+geisli_nk;beam
+geispa_s;yawn
+gelgjuskeið_nh;puberty,adolescence
+gengi_nh;gang,exchange rate,success,working out
+gera_s;do,make
+germur_nk;*Germanic people
+gersamlega_aa;totally,completely
+gervitungl_nh;satellite
+gerð_nv;kind,type,version
+gerður_l;made,done,constructed
+gestur_nk;guest,visitor
+geta_nv;ability
+geta_s;can,may,mention
+geyma_s;store,keep,save
+geymd_nv;preservation,transmission,storage
+geymsla_nv;storage,repository,preservation,safekeeping
+geymsluhús_nh;storage housing
+geymsluhúsnæði_nh;storage housing
+geð_nh;temper,mood,liking
+geðjast_s;please
+gifta_s;marry
+giftur_l;married
+gilda_s;apply,hold,stand,be valid
+gildi_nh;value,significance,relevance
+gildisrafeind_nv;xxx
+gildur_l;valid,legitimate,thick
+girðing_nv;fence,enclosure,barrier,barricade
+giska_s;guess,estimate,conjecture,speculate
+gista_s;stay,sleep,bunk
+gistihús_nh;guesthouse,hotel,inn,lodging house
+gistinga_nv;accomodation
+gjald_nh;charge,rate,pay,fee,price,payment,cost,tariff
+gjalda_s;pay
+gjaldeyrisforði_nk;foreign currency reserve
+gjaldeyristekjur_nv;xxx
+gjaldmiðill_l;currency
+gjalla_s;tinkle,ding
+gjarnan_aa;certainly,gladly
+gjá_nv;rift,pit,abyss
+gjósa_s;erupt,spout,belch,burst,explode
+gjóta_s;pup,drop,cast,farrow,spawn,cock,bear,give birth
+gjöf_nv;gift
+gjöra_s;do,make
+gjörsamlega_aa;absolutely,totally
+gjörð_nv;doing,hoop
+glampa_s;twinkle,flicker,flash,sparkle,glitter
+glansandi_l;shiny,beaming,glaring,luminous,beamy,polished
+glas_nh;glass,tumbler,drink
+glata_s;lose
+glataður_l;lost,gone,hopeless,useless
+glaðlega_aa;happily,merrily,gladly,cheerfully
+glaðlegur_l;cheerful,bright,happy,lighthearted
+glaður_l;happy
+gler_nh;glass
+gleraugu_nh;glasses
+gleyma_s;forget
+gleymska_nv;forgetfulness,oblivion,lapse,amnesia
+gleypa_s;swallow,absorb,devour,eat
+gleði_nv;happiness
+gleðja_s;please,cheer,delight
+gljá_s;shine
+gljáandi_l;shiny,sleek,glossy
+glott_nh;smirk,leer,grin
+glotta_s;smirk,grin
+glottandi_l;smirking,grinning
+gluggakista_nv;windowstill,ledge
+gluggatjald_nh;curtain,blind,shade,screen
+gluggi_nk;window
+glápa_s;stare,gape,gawk,gaze
+glæpadómstólur_nk;*war crime court
+glæpur_nk;crime
+glæsilegur_l;elegant,magnificent,gorgeous
+glæða_s;instill,introduce,enliven,stimulate,rouse,ignite
+glíma_s;wrestle,battle,fight,struggle
+glóð_nv;ember,smolder
+glöggt_aa;clearly
+glöggur_l;perceptive,sharp-witted
+gnæfa_s;tower,soar,dominate,surmount
+gola_nv;breeze,gust
+golf_s;*golf
+gos_nh;soda,eruption
+goslokahátíð_nv;volcanic eruption festival
+goslokahátíð_nvs;Volcanic Eruption Festival
+gosstöð_nv;crater,volcano
+gott_nh;candy,sweets
+grafa_s;dig
+grafinn_l;buried,concealed,hidden,inscribed
+grafkyrr_l;stone-still,still,unmoving
+grafreitur_nk;cemetery,graveyard,churchyard,necropolis,catacomb,burial ground
+grafískur_l;graphic
+gramm_nh;gram
+grammófónn_nk;gramophone
+gramur_l;resentful,annoyed,bitter,embittered
+granda_s;destroy
+granni_nk;neighbor
+grannt_aa;closely,carefully
+grannur_l;thin
+gras_nh;grass
+grautur_nk;porridge
+grein_nv;article,industry,field,sport,branch,genre
+greina_s;tell,detect,diagnose
+greinargerð_nv;exposition,report
+greind_nv;intelligence,intellect,mentality,brain
+greindur_l;intelligent,diagnosed
+greinilega_aa;clearly,obviously
+greinilegur_l;clear,obvious
+greining_nv;analysis,diagnosis,study,review,detection,inquiry
+greiningardeild_nv;analysis department
+greip_nv;hand
+greiða_s;pay
+greiði_nk;favor,help,assistance
+greiðsla_nv;payment
+greiðslubyrði_nv;debt burden
+greiðsluerfiðleiki_nk;debt difficulty
+greiðslustaða_nv;debt situation
+grenja_s;cry,roar,bawl
+grennd_nv;vicinity,locality,proximity,surroundings,area
+grennsla_s;check,inspect
+gretta_s;grimace,mop,mow
+grey_nh;wretch,loser,miserable,underdog,outkast
+grimmur_l;cruel,vicious,fierce,harsh,brutal
+grind_nv;rack,hurdle,chassis
+grindahlaup_nh;hurdles,hurdle race
+grindverk_nh;fence,railing
+grjót_nh;rock
+gruna_s;suspect
+grund_nv;ground,land
+grundarselur_nks;*Grundarsel
+grundvöllur_nk;basis,foundation,base
+grunnflötur_nk;area
+grunnskólabekkur_nk;primary school
+grunnur_nk;basis,foundation,primer,base
+grunnvatn_nh;ground water
+grunnvatnskerfi_nh;ground water system
+grunsemd_nv;suspicion,feeling,notion
+grunur_nk;suspicion
+grádvergur_nk;grey dwarf
+grágrýti_nh;dolerite
+grár_l;gray
+gráta_s;cry
+grátur_nk;crying
+græna_nhs;Green
+grænmeti_nh;vegtable
+grænmetistengund_nv;*vegtable species
+grænn_l;green
+grænnur_l;*green
+græða_s;heal,cure,implant,profit,earn
+gríma_nv;mask
+grín_nh;comedy,joke,jest
+grípa_s;catch,resort
+grískur_l;Greek
+gríðarlega_aa;very,enormously
+grófur_l;rough,rude,coarse,brutal
+gróinn_l;grown,healed,recovered
+gróður_nk;growth,vegetation,fruit
+gróðurhúsaloftegund_nv;greenhouse gas
+gróðurhúsalofttegund_nv;greenhouse gas
+gröf_nv;grave
+gsm-sendi_nhs;GSM-transmitter
+gufa_nv;steam,vapour
+gufa_s;evaporate,vaporize,boil,aerate,volatilize
+gufuhola_nv;steam well
+gull_nh;gold
+gullinn_l;golden
+gulur_l;yellow
+guð_nk;god
+guð_nks;god
+guðríður_l;*Guðríður
+guðspjalli_nh;gospel
+gylltur_l;golden
+gyðingur_nks;Jew,judahite,judean,semite
+gá_s;check
+gáfa_nv;talent,gift,intelligence,intellect
+gáfaður_l;intelligent,smart,brilliant,wise,clever,brainy
+gámi_nk;container
+gámur_nk;container
+gáta_nv;riddle
+gátt_nv;doorway,gateway,door,entrance,entry,wideness,breadth
+gægjast_s;peek,peep
+gær_aa;yesterday
+gærkvöld_nh;last night,yesterday evening,yesternight
+gæsla_nv;watch
+gæsluskip_nh;patrol ship
+gæta_s;watch,guard,mind
+gætilega_aa;carefully
+gætt_nv;doorway,door-opening
+gætur_nv;care,watch,attention
+gæða_s;endow,invest,feast,savor
+gæði_nh;quality
+gífurlega_aa;immensely,dramatically,extensively,greatly,massively
+gífurlegur_l;enormous,excessive,immense,massive
+gígur_nk;crater
+gíraffi_nk;giraffe
+gólf_nh;floor
+góna_s;stare,gawk,gape
+góður_l;good
+göfugur_l;noble
+göng_nh;tunnel,passage,passageway,duct
+gönguferð_nv;walk
+gönguhátíð_nv;walking festival
+ha_au;pardon,what,huh
+haag_nxs;Haague
+haf_nh;ocean,sea
+hafa_s;have
+hafdísur_nvs;*Hafdís
+hafmey(ja)_nv;mermaid
+hafna_s;reject,refuse
+hafnaraðstaða_nv;harbour facilities
+hafnarstjóri_nk;harbor manager
+hafsbotn_nk;ocean floor
+hafsvæði_nh;waters
+haft_nh;restriction,obstacle
+hafís_nk;sea ice
+haga_s;arrange,behave
+hagedalur_nks;Hagedal
+hagga_s;budge,move,shift,nudge,push
+hagi_nk;field,storage
+hagkvæmur_l;efficient,profitable,economic,practical
+hagnaður_nk;profit
+hagnýtur_l;practical,applied,pragmatic
+hagræða_s;arrange,adjust,optimize,streamline
+hagræðing_nv;optimization,arrangement
+hagsmunir_nk;interest,stake
+hagstofa_nvs;Statistics Iceland
+hagstæður_l;advantageous,favorable,economic,fair
+hagur_nk;benefit,advantage,situation
+hagvæmnisástæða_nv;convenience reason
+hagvís_nhs;Hagvisir
+hagvöxtur_nk;economic growth
+haka_nv;chin
+halastjarna_nv;comet
+hald_nh;custody,prison
+halda_s;hold,keep,retain,remain
+halla_s;slant,lean,descend
+hallamælir_nk;tiltmeter,inclinometer,clinometer
+halli_nk;slope,tilt,gradient
+hallærislegur_l;uncool,tacky
+halló_au;hello,hi
+haltra_s;limp,hobble,halt
+hamar_nk;hammer
+hamast_s;struggle,pump,palpitate
+hamfarir_nv;catastrophe,disaster,cataclysm,tragedy
+hamingja_nv;happiness
+hamingjusamur_l;happy
+hamingjusömur_l;*happy
+handa_aþ;for
+handaband_nh;handshake
+handan_aa;beyond
+handan_ae;beyond
+handhægur_l;convenient
+handklæði_nh;towel
+handleggur_nk;arm
+handrit_nh;manuscript
+handritasafn_nh;manuscript collection
+handriti_nh;*manuscript
+handrið_nh;parapet,railing,handrail
+handtak_nh;handshake
+handtaka_s;arrest
+handtökuskipan_nv;bench warrant,arrest order
+handíðaskóli_nks;handwork school
+hanga_s;hang
+hann_f;he,his,it,person
+hann_nks;*he
+harka_nv;firmness,rigor,strictness,harshness
+harkalega_aa;harshly,roughly,coursely
+harla_aa;very,quite,highly,notably
+harma_s;regret,grieve,mourn,remorse
+harmleikur_nk;tragedy,catastrophe,disaster,misfortune
+harmonikkuunnendi_nk;?accordion fan
+harmonikkuunnendur_nk;*accordion fan
+harmonikuleikari_nk;accordion player
+harmur_nk;sorrow,grief,regret,remorse,heartache
+hart_aa;sharply,eagerly,hotly
+harður_l;tough
+harðvítugur_nk;fierce,cruel,brutal
+hata_s;hate,loathe,detest,abhor,despise
+hattur_nk;hat
+haus_nk;head
+haust_nh;autumn,fall
+hefja_s;begin,start
+hefna_s;revenge,avenge,retaliate
+hefti_nh;staple
+hefð_nv;tradition
+hefðbundinn_l;traditional
+hegða_s;behave,act,conduct
+hegðun_nv;behavior,manners,conduct
+heift_nv;wrath,anger,rage,hate,fury
+heilagur_l;holy
+heilbrigðiseftirlitssvæði_nh;health control area
+heilbrigðisstarfsmaður_nk;healthcare employee
+heilbrigðisstofnun_nv;healthcare organization
+heilbrigður_l;healthy,well,vigorous,wholesome
+heild_nv;whole
+heili_nk;brain,mastermind
+heill_l;whole
+heilla_s;charm,captivate,fascinate,enchant
+heillandi_l;fascinating,seductive,captivating,alluring
+heilsa_nv;health,vitality,well-being,fitness
+heilsa_s;greet
+heilsugæsla_nv;health service
+heilsugæsluvakt_nv;health service watch
+heim_aa;home
+heima_aa;home
+heimaey_nvs;Heimaey Island
+heimagangur_nk;visitor,guest
+heimahús_nh;home,dwelling,house,residence,lodging,habitation
+heimamaður_nk;local,native
+heiman_aa;home,out
+heimasíða_nv;homepage,website
+heimila_s;agree,allow
+heimild_nv;permission,warrant
+heimildarmaður_nk;source
+heimildarmur_nk;*source
+heimildarmynd_nv;documentary
+heimili_nh;home
+heimilisfang_nh;address,location,residence,home
+heimilismaður_nk;household,household person
+heimill_l;permissible,admissible,allowable,acceptable,legitimate,permitted
+heimleiðis_aa;homewards
+heimsfaraldrur_nk;*world epidemic
+heimskur_l;stupid,dumb,thickheaded
+heimsmarkaðsverð_nh;world price
+heimsmeistarakeppni_nv;world cup
+heimspeki_nv;philosophy
+heimspekingur_nk;philosopher
+heimsstyrjöld_nv;world war
+heimstyrjöld_nv;world war
+heimsvísa_nv;worldwide
+heimsækja_s;visit
+heimsókn_nv;visit,stay
+heimta_s;demand,claim,insist,require
+heimur_nk;world
+heita_s;name,call,vow
+heiti_nh;name
+heitinn_l;late,departed
+heitur_l;hot
+heiðarbrún_nv;heath rim
+heiðarlegur_l;honest,honorable,righteous,true,upright,sincere,just,faithful
+heiði_nv;heath,fell
+heiður_nk;honor,credit
+heiðursgestur_nk;honorary guest
+hektari_nk;hectare
+heldri_l;primary,better,predominant,elite
+heldur_aae;rather
+heldur_aam;rather
+heldur_c;rather
+helgi_nv;weekend
+helgur_l;holy,blessed,sacred,hallowed
+hella_nv;slab
+hella_s;pour,spill
+hellir_nk;cave
+helmingur_nk;half
+helvíti_nh;hell
+henda_s;throw
+hengja_s;hang
+henta_s;suit
+heppilegur_l;fortunate,advantageous,favorable,good
+heppinn_l;lucky
+heppnast_s;succeed,manage,work,pull off
+heppni_nv;luck,blessing,fortune,godsend
+her_nk;military
+herbergi_nh;room
+herja_s;campaign
+herlið_nh;military
+herliði_nh;*military
+herma_s;report,tell,mimic,imitate,virtualize
+hermaður_nk;soldier
+hernaður_nk;warfare
+hernema_s;occupy,seize,take
+herra_nk;sir
+hershöfðingi_nk;general
+herskip_nh;warship,cruiser,destroyer,battleship,gunboat
+herstöð_nv;military base
+herstöðvamál_nh;military base case
+hersveit_nv;regiment
+herða_s;harden,tighten
+herðar_nv;shoulder
+herþjónusta_nv;military service
+hestamannamóti_nh;horse tournament
+hestamaður_nk;horseman
+hestasýning_nv;horse show
+hesthús_nh;stable,mews
+hestur_nk;horse
+hetta_nv;hood,cloak,cover
+hettuúlpa_nv;parka,duffel coat
+hey_nh;hay
+heyja_s;wage,make hay
+heyra_s;hear
+heyrn_nv;hearing
+hika_s;hesitate,pause,stagger,halt
+hikandi_l;hesitant,halting,indecisive,vacillant
+hilla_nv;shelf
+himinn_nk;sky
+himna_nv;film,coat,skin,coating
+hindra_s;prevent,hinder,resist,preempt,obstruct
+hingað_aa;here
+hinn_f;other
+hinn_x;the
+hinstur_l;last,final,closing,concluding
+hinsvegar_aa;however
+hirða_s;take,groom,pick up
+hirðing_nv;nurturing,grooming,cleaning
+hirðir_nk;shepherd,herdsman,herder,caretaker,watcher
+hirðstjóri_nk;seneschal
+hissa_l;surprised
+hita_s;heat,warm
+hitaveita_nv;heating utility
+hiti_nk;heat
+hitna_s;heat,warm
+hitta_s;meet
+hjalli_nk;terrace
+hjarta_nh;heart
+hjartsláttur_nk;heartbeat
+hjá_aa;at,with
+hjá_aþ;at,near
+hjálp_nv;help
+hjálpa_s;help,assist
+hjól_nh;wheel,bicycle,bike
+hjóla_s;ride,cycle,bicycle
+hjólakeppni_nv;bicycle competition
+hjólastóll_nk;wheelchair
+hjólbarð_nh;*tire
+hjólbarði_nh;tire
+hjón_nh;couple,married couple
+hjónaband_nh;marriage,matrimony,wedlock
+hjörð_nv;herd,horde,flock,pack,swarm,gather
+hjúkrunarfræðingur_nk;nurse
+hjúkrunarkona_nv;nurse
+hjúpur_nk;coat,cover,cloak
+hjúskapur_nk;marriage,wedlock
+hlakka_s;gloat,look forward
+hlaup_nh;run,running,jelly,flood
+hlaupa_s;run
+hlað_nh;drive,home,place
+hlaða_nv;load
+hlaða_s;load,charge
+hlaðinn_l;loaded
+hlekkur_nk;link
+hleri_nk;hatch
+hleypa_s;let,run,launch
+hleðsla_nv;load,loading,charge,recharge
+hlið_nh;gate
+hlið_nv;side,aspect,angle
+hliðsjón_nv;consideration,comparision
+hliðstæða_nv;analogy,parellel,similarity,resemblence,metaphor
+hljóma_s;sound
+hljómsveit_nv;band,orchestra
+hljóta_s;get,receive
+hljóð_nh;sound,silence
+hljóða_s;sound,shriek
+hljóðfæraleikari_nk;musician,performer,instrumentalist
+hljóðfæri_nh;instrument
+hljóðhimna_nv;eardrum
+hljóðhol_nh;middle ear
+hljóðlega_aa;silently,quietly
+hljóðlátur_l;quiet,silent,noiseless
+hljóður_l;silent
+hlust_nv;auditory passage
+hlusta_s;listen
+hlutabréf_nh;share,stock
+hlutafé_nh;equity,capital stock
+hlutafélag_nh;corporation,Ltd
+hlutafélagalög_nh;stock company law
+hlutdeild_nv;share,reach
+hlutfall_nh;ratio,percentage
+hluthafi_nk;shareholder,stockholder
+hluti_nk;part
+hlutkesti_nh;toss
+hlutskipti_nh;lot,fate,destiny,fortune,portion
+hlutur_nk;thing,object,take,share
+hlutverk_nh;role
+hlátrasköll_nh;laughter,roar,guffaw
+hlátur_nk;laugh
+hláturmildur_l;risible
+hlægilegur_l;ridiculous,funny,laughable
+hlæja_s;laugh
+hlæjandi_l;laughing
+hlé_nh;break
+hlíf_nv;shield,screen,protection,cloak,cover
+hlífa_s;spare,relieve,shade,screen,shadow,protect,preserve,conserve
+hlífðarfatnaður_nk;protective clothing
+hlíð_nv;hillside
+hlúa_s;treat,administer to
+hlýja_nv;warmth,friendliness,pleasantness,geniality
+hlýlegur_l;kind,sympathetic,warm,pleasant
+hlýnun_nv;*warming
+hlýr_l;warm,kind
+hlýða_s;obey,listen
+hnakki_nk;back of one's head
+hnappur_nk;button
+hnefi_nk;fist
+hneigja_s;bow,curtsey,predispose
+hneykslaður_l;shocked
+hnippa_s;poke,nudge,elbow
+hnipra_s;cower,cringe,crouch,shrink,hide
+hnykkja_s;clinch,rivet
+hné_nh;knee
+hnífur_nk;knife
+hníga_s;sink
+hnöttur_nk;globe,orb,planet
+hnúfubakur_nk;humpback
+hnútur_nk;knot,node
+hnýta_s;tie,knot
+hofi_nh;*temple
+hola_nv;hole
+hold_nh;flesh
+holland_nhs;Holland,Netherlands
+hollenskur_l;dutch
+hollur_l;healthy,good,true,devoted,dedicated
+hollustuhættir_nk;health habit
+holskefla_nv;breaker,beachcomber
+hoppa_s;jump
+hoppikastali_nk;jumping castle
+horf_nh;state,course
+horfa_s;look
+horfinn_l;gone,vanished
+horfur_nv;prospect,outlook
+horn_nh;corner
+hrafnkell_l;*Hrafnkell
+hrapa_s;fall,collapse,flunk,die,be killed
+hratt_aa;fast
+hratt_aam;faster
+hraun_nh;lava
+hrauntröð_nv;lava channel
+hraustur_l;healthy
+hraða_s;speed up
+hraðfiskimót_nh;fishing contest
+hraði_nk;speed
+hraðmóttaka_nv;express service
+hraður_l;quick,speedy,rapid,swift,fast
+hrefna_nv;beaked whale
+hreinlega_aa;just,totally,cleanly,purely
+hreinlæti_nh;hygiene,cleanness
+hreinn_l;clean
+hreinsa_s;clean,wash
+hreint_aa;clean
+hrekja_s;disprove,debunk,refute,banish,dispel
+hreppstjóri_nk;district administrative officer
+hress_l;lively,fine,healthy
+hressa_s;cheer,delight,excite,uplift,freshen,invigorate
+hreyfa_s;move
+hreyfing_nv;movement,exercise
+hreyfingarlaus_l;motionless,immobile,inert
+hreykinn_l;proud,arrogant,elated,narcissistic,vain
+hrifinn_l;impressed
+hrifning_nv;fascination,captivation,astonishment,adoration,infatuation
+hrifsa_s;seize,snatch,grab
+hrikalega_aa;terribly,very
+hrikalegur_l;awesome,tremendous,terrible,devastating
+hrinda_s;push,realise,repel
+hringja_s;call,phone,ring
+hringlaga_l;circular,round
+hringrás_nv;circulation,cycle,circuit,rotation,turn
+hringtorgi_nh;roundabout,rotary,traffic circle
+hringur_nk;ring,circle
+hringvegur_nk;ring road
+hrista_s;shake
+hrjúfur_l;rugged,rocky,rough,harsh,uneven
+hrokkinn_l;curly,snapped,dead
+hrollur_nk;creeps,chill,shiver
+hrun_nh;collapse,crash,downfall,breakdown,fall
+hryggur_nk;spine,ridge,bank,backbone
+hrygningarstofn_nk;spawning stock
+hrynja_s;collapse,crash,crack,succumb
+hráefni_nh;raw material
+hráolía_nv;crude oil
+hrávörumarkaður_nk;raw goods market
+hræddur_l;afraid
+hræra_s;stir,move
+hræða_s;scare,frighten,spook,intimidate
+hræðilega_aa;terribly,painfully,awfully
+hræðilegur_l;terrible
+hræðsla_nv;fear,alarm,fright,horror,panic,terror
+hrífa_s;work,enchant,captivate,operate
+hríð_nv;while,snowstorm,attack,labor
+hróp_nh;shout,holler,outcry
+hrópa_s;scream
+hrósa_s;compliment,praise,applaud
+hrökkva_s;fall back,jump,cover
+hrörlegur_l;shabby,decaying,sleazy,dilapidated
+huga_s;think,consider,look
+hugarlund_nv;mind,thought
+huggulegur_l;nice,friendly,agreeable,charming,likeable
+huggun_nv;comfort,relief,solace,consolation,sympathy
+hugi_nk;mind
+hugkvæmast_s;realize,see,discover
+hugleiða_s;contemplate,meditate,consider,think
+hugmynd_nv;idea
+hugrekki_nh;courage,braveness,bravery,fearlessness,nerve,valor,guts
+hugsa_s;think
+hugsandi_l;thinking,reflective,meditative,contemplative
+hugsanlega_aa;possibly
+hugsanlegur_l;possible,thinkable,imaginable,conceivable
+hugsi_l;contemplative,engrossed,reflective,thinking,pensive,meditative
+hugsjón_nv;vision,dream,hope
+hugsun_nv;thought
+hugsunarháttur_nk;thinking
+hugtak_nh;term
+hugur_nk;mind
+hulinn_l;hidden,covered
+humarhátíð_nvs;Lobster festival
+hundrað_nh;hundred
+hundrað_t;hundred
+hundur_nk;dog
+hungur_nh;starvation,hunger
+hunsa_s;ignore,disregard,neglect
+hurð_nv;door
+hvalastofn_nk;whale stock
+hvalategund_nv;whale species
+hvalstöð_nv;whaling station
+hvalur_nk;whale
+hvalveiði_nv;whale hunting
+hvalveiðimaður_nk;whaler,whale hunter
+hvar_aa;where
+hvarf_nh;disappearance,evanescence,evaporation,vanishment
+hvarfla_s;occur
+hvarvetna_aa;everywhere,universally
+hvass_l;sharp,edged,windy,harsh
+hvasst_aa;sharply
+hvaða_f;what
+hvaðan_aa;where,where from
+hve_aa;how
+hvel_nh;cerebrum,hemisphere
+hvellur_l;strident,shrill,noisy
+hvellur_nk;bang,crack,hit,pound,wham,explosion,pop
+hvenær_aa;when
+hver_f;who
+hveravatn_nh;hot spring water
+hverfa_s;disappear
+hverfagæsl_nhs;*neighborhood watch
+hverfagæsla_nv;neighborhood watch
+hverfagæsla_s;*neighborhood watch
+hverfi_nh;neighborhood,area,district,quarter
+hvergi_aa;nowhere
+hvernig_aa;how
+hvernig_l;how
+hversdagslegur_l;plain,ordinary,casual,common
+hversu_aa;how
+hvert_aa;where
+hvessa_s;sharpen,get windy
+hvetja_s;encourage
+hvolfa_s;overturn,invert,turn over
+hvolpur_nk;pup,puppy,cub
+hvor_f;which
+hvorki_c;neither
+hvort_c;whether,if
+hvorugn_f;*either
+hvorugur_f;neither,either
+hvá_s;what
+hvæsa_s;hiss
+hví_aa;why
+hvíla_s;rest
+hvíld_nv;rest
+hvílíkur_f;what
+hvína_s;whiz
+hvísla_s;whisper
+hvítur_l;white
+hvöt_nv;incentive,encouragement,drive,motivation,motive,stimulus
+hyggja_s;plan,believe,think
+hylja_s;hide,cover
+hádegi_nh;noon,midday,lunch hour
+hádegisverður_nk;lunch,luncheon,refection,tiffin
+háhitasvæði_nh;geothermal area
+hálf_aa;half
+hálfa_nv;behalf
+hálfgerður_l;kind of,sort of,more or less
+hálftröll_nh;half troll
+hálftími_nk;half hour
+hálfur_l;half
+háloft_nh;atmosphere,upper atmosphere
+háls_nk;neck
+hámark_nh;maximum,peak,culmination,high
+hár_l;high,tall
+hár_nh;hair
+háseti_nk;sailor,seaman
+háskóli_nk;university,college
+háskóli_nks;University
+hátalari_nk;speaker
+hátign_nv;highness,majesty
+hátt_aa;high
+hátt_aae;highest
+hátt_aam;higher
+hátta_s;undress,strip,go to bed
+háttur_nk;way,kind
+hátíð_nv;holiday,feast,fiesta,festival
+hátíðar_nv;ceremonial
+hátíðarathöfn_nv;ceremony,celebration event
+hátíðarhöld_nv;celebration
+hátíðir_nv;*festival
+hátíðlegur_l;solemn,festive,ceremonious
+hátíðnihljóð_nh;treble,high frequency sound
+hávaxinn_l;tall,giant,high,long
+hávaði_nk;noise
+hávær_l;loud,noisy,loudmouthed
+háð_nh;ridicule,mockery,parody,joke,satire
+háður_l;addicted,hooked,subject to
+hæ_au;hi
+hæfa_s;suit,fit,match,hit
+hæfi_nh;fitness,acceptability
+hæfilega_aa;suitable,reasonable
+hæfilegur_l;suitable,acceptable,appropriate,fitting,proper,meet,useful
+hæfileiki_nk;talent,gift,ability
+hæfni_nv;ability
+hægindastóll_nk;armchair,easy chair,rocker,seat
+hægja_s;slow down,slack,defecate
+hægri_l;right
+hægt_aa;possible,slowly,gradually
+hægur_l;slow
+hægð_nv;ease,sedateness,slowness,defecation
+hækja_nv;crutch
+hækka_s;rise,climb
+hækkandi_l;*increasing
+hækkun_nv;rise,increase,climb
+hækkuna_nv;*increase,growth
+hæli_nh;sanctuary,refuge,asylum
+hælisbeiðni_nv;asylum request,refuge request
+hæll_nk;heel
+hæna_nv;hen
+hætta_nv;danger,threat
+hætta_s;stop
+hættulegur_l;dangerous
+hættur_l;through,done,retired,withdrawn,emeritus
+hæð_nv;height,hill
+hæðarmæling_nv;altitude measurement
+hér_aa;here
+hérað_nh;county,region,province
+héraðshöfuðborg_nv;region capital
+hérlendis_aa;in this country
+hérna_aa;here
+héðan_aa;from here,hence
+hífa_s;heave,hoist,lift,pull
+hóf_nh;party,celebration,moderation
+hóll_nk;hill,rise,fell,mound,knoll,hillock,elevation
+hólmi/-ur_nk;eyot,ait,island
+hópur_nk;group
+hósta_s;cough
+hótel_nh;hotel
+hótel_nhs;Hotel
+höfn_nv;harbour,seaport
+höfundur_nk;author
+höfuð_nh;head
+höfuðborg_nv;captial,capital city
+höfuðborgarsvæði_nh;capital area
+höfuðsmaður_nk;principal,captain
+höfuðstaður_nk;capital
+höfuðverkur_nk;headache
+höfðingi_nk;chief,chiftain,monarch,leader
+högg_nh;knock,blow,strike,fight
+höggbylgja_nv;shock wave
+höggva_s;chop,axe
+höld_nv;*hold
+höll_nv;palace,castle,mansion,villa
+hönd_nv;hand
+hönskur_nk;*glove
+hörfa_s;retreat,fall back
+hörfun_nv;withdrawal,retreat,abandonment,evacuation,departure
+hörund_nh;skin
+höttur_nk;hood,after,crazy
+húfa_nv;hat
+hún_f;she,it,her
+húnaþingi_nhs;*Húnaþing
+hús_nh;house
+húsakynni_nh;premises,housing,accomodation,lodging
+húsbóndi_nk;boss,master,employer
+húsfreyja_nv;housekeeper,mistress
+húsgagn_nh;furniture
+húsmóðir_nv;housewife
+húsnæði_nh;housing,accommodation,lodging
+húsráðandi_nk;landlord,householder
+húsveggur_nk;house wall
+húð_nv;skin,surface
+hýr_l;gay,jolly,merry,homosexual
+hýsa_s;host
+iceland_x;Iceland
+il_nv;sole
+illa_aa;poorly
+illa_aam;worst
+illur_l;evil,mean
+ilma_s;scent,fragrance,perfume
+ilmur_nk;smell,perfume,fragrance
+ilsig_nh;flatfoot
+indæll_l;nice,friendly,lovely,warmhearted,good,agreeable,charming
+indíáni_nk;Indian
+inflúensa_nv;influenza
+inn_aa;into,inside
+inn_ao;in,inside
+innan_aa;within
+innan_ae;within
+innanborðs_aa;inside,inboard
+innanlandsflug_nh;domestic flight,domestic aviation
+innanlandsflugvöllur_nk;domestic airport
+innanverður_l;interior,inside
+innar_aae;innermost
+innar_aam;farther inside
+innbrot_nh;burglary,housebreaking,break-in
+inneyra_nh;inner ear
+innflutningur_nk;import,importation,immigration
+innfluttrur_l;*imported
+innfluttur_l;*imported
+innflytjandi_nk;immigrant,settler,colonist,importer
+innganga_nv;entrance,entry,admission,admittance
+inngangur_nk;introduction
+innheimta_nv;collecting
+innheimta_s;collect
+innheimtufyrirtæki_nh;collecting company
+inni_aa;inside
+innihald_nh;ingredient,component,content,part,additive
+innihalda_s;include,contain
+innilokun_nv;confinement,custody,imprisonment,captivity,detention
+innlendur_l;domestic,local
+innleysa_s;redeem,cash out
+innri_l;inner,internal
+inntak_nh;meaning,content,point,message,input
+inní_ao;inside
+inní_aþ;inside
+interneti_nh;*Internet
+intrar_nks;*Intrum
+iphone_nh;*IPhone
+iðnaðarframleiðsla_nv;industrial production
+iðnaðarvatn_nh;industry water
+iðnaður_nk;industry
+iðnríki_nh;industrial nation
+iðra_s;regret
+iðulega_aa;frequently,usually,often
+iður_nh;innards,guts,bowels,insides
+ja_au;well
+jafn_aa;equal
+jafn_l;even
+jafna_s;equalize,even,level,compare
+jafnaldri_nk;same age,contemporary,coeval,concurrent,synchronous
+jafnan_aa;usually,normally
+jafnaður_nk;typically,general,usual
+jafnframt_aa;also
+jafnframt_aþ;at the same time as
+jafngilda_s;equal,mean,amount to
+jafningji_nk;*equal
+jafnmargur_l;equally many
+jafnmikill_l;equivalent,even,same,equable,identical
+jafnrakalausur_l;so without reason
+jafnrétti_nh;equality
+jafnskjótt_aa;immediately,simultaneously,concurrently,synchronously
+jafnt_aa;equal
+jafnvel_aa;even
+jafnvægi_nh;balance,equilibrium
+jafnóðum_aa;simultaneously
+jakkaföt_nh;suit
+jakki_nk;jacket
+janúar_nk;January
+japanskur_l;Japanese
+japanur_nks;*Japan
+jarmur_nk;bleat,baa
+jarða_s;bury,entomb,inhume,defeat,triumph
+jarðarför_nv;funeral
+jarðargróði_nk;*earth gain
+jarðhitasvæði_nh;geothermal area
+jarðhitavera_nv;*geothermal power station
+jarðhiti_nk;geothermal heat
+jarðskjálfti_nk;earthquake,tremor,quake,shaking,seismic activity
+jarðvarmavirkjan_nv;*geothermal power station
+jarðvarmi_nk;geothermal heat
+jarðvegur_nk;soil
+jaðarhjalli_nk;edge terrace
+jeppi_nk;truck,jeep
+jobur_nks;*Jobs
+jose_nh;Jose
+já_au;yes
+já_nh;yes,consent,agreement
+jákvætt_aa;positive
+jákvæður_l;positive
+járn_nh;iron,manacle,handcuff
+játa_s;admit
+jæja_au;well
+jól_nh;christmas
+jökulbrún_nv;glacier edge
+jökulgarður_nk;glacier
+jökull_nk;glacier
+jökulskeið_nh;glacier period
+jörð_nv;earth,soil
+jú_au;yes
+júgóslavía_nvs;Yugoslavia
+júlí_nk;July
+júní_nk;June
+kaf_nh;dive,under
+kafa_s;dive,submerge,descent
+kafbátaleitarskip_nh;submarine search ship
+kafbátur_nk;submarine
+kaffi_nh;coffee
+kaffibolli_nk;coffee,coffee cup,cup
+kaffihúsakvöld_nh;café night
+kafli_nk;chapter
+kaka_nv;cake
+kaldur_l;cold
+kalifornía_nvs;California
+kall_nh;shot,holler,exclamination,call
+kall_nk;man,call,shout,cry
+kalla_s;call,name
+kampavín_nh;champagne
+kanada_nhs;Canada
+kanaríeyjar_nvs;Canary Islands
+kanna_s;check,find out,study
+kannski_aa;perhaps
+kantur_nk;edge,edging,rim,fringe,verge,margin,embankment
+kanína_nv;rabbit,bunny
+kapp_nh;eagerness,devotion,enthusiasm,rush,race
+karfa_nv;basket,hamper,cart,shopping cart
+karfi_nk;redfish,red ocean perch
+karl_nk;man
+karlkyn_nh;male sex,masculine gender
+karlmaður_nk;man
+karnival_nh;carnival,festival
+kartafla_nv;potato
+kassi_nk;box
+kast_nh;throw,seizure,outburst,spasm
+kasta_s;throw
+kastali_nk;castle,palace,stronghold,fortress,fort
+kaup_nh;purchase,acquisition
+kaupa_s;buy,purchase
+kaupfélag_nh;cooperative
+kauphallarinnar_nvs;stock exchange
+kauphöll_nv;stock exchange
+kaupmaður_nk;merchant,shopkeeper,grocer
+kaupskip_nh;merchant ship
+kaupstaður_nk;town,bourg,burgh,city
+kaupsýslumaður_nk;businessperson,entrepreneur,merchant,trader,businessman
+kaðall_nk;rope,cable
+kaþólskur_l;catholic
+kefja_s;occupy,absorb
+keflavík_nvs;Keflavik
+keflavíkurflugvöllur_nks;Keflavík Airport
+keila_nv;bowling
+keilubraut_nv;bowling ramp
+keiluleikur_nk;bowling
+keilusalur_nk;bowling hall
+keiluíþrótt_nv;bowling
+keisaraskurður_nk;ceasarean section
+kelling_nv;frump,old woman
+kenna_s;teach
+kennari_nk;teacher
+kennd_nv;feeling,sense
+kenning_nv;theory
+kennsla_nv;teaching,instruction
+kennsluhúsnæði_nh;educational housing
+kennslukona_nv;schoolmistress,teacher
+kennslustund_nv;class
+keníamann_nhs;*Kenyan
+kenýa_nvs;Kenya
+keppa_s;compete,race,contend
+keppinautur_nk;rival,opponent,contender,competitor
+keppni_nv;contest,competition,race,tournament,match
+ker_nh;tub,vat,maar
+kerfi_nh;system,program
+kerfisbundinn_l;systematic
+kerling_nv;old lady,frump
+kerra_nv;cart,trailer,trolley,carriage
+kerti_nh;candle
+ketilur_nks;Ketill
+kettlingur_nk;kitten
+keyra_s;drive
+keðja_nv;chain,restraint,sequence,series
+kg_nh;kg
+khartoar_nks;*Khartoum
+kinda_nv;*sheep
+kinka_s;nod
+kinn_nv;cheek
+kippa_s;pull
+kirkja_nv;church
+kirkjufólk_nh;churchgoer
+kirkjugarður_nk;cemetery
+kirkjugestur_nk;churchgoer
+kirkjumálaráðuneyti_nh;Church Department,Ministry of Church
+kirkjuvörður_nk;sacristan,sexton
+kisa_nv;kitty,pussy,puss,cat
+kista_nv;chest
+kjaftur_nk;mouth
+kjaftæði_nh;rubbish,crap,foolishness,bullshit,gibberish,blather
+kjallarameistari_nk;cellar master
+kjallaratrappa_nv;cellar stair
+kjallari_nk;basement
+kjalta_nv;lap
+kjaradeila_nv;wage dispute,labor dispute
+kjarasamningur_nk;wage contract
+kjarkur_nk;courage,braveness,bravery,nerve,valor,fearlessness
+kjarni_nk;core,essence,nucleus
+kjosendur_nk;*voter
+kjálki_nk;jaw
+kjánalegur_l;silly,childish,foolish,goofy,idiotic,simpleminded,shallow,simple
+kjóll_nk;dress
+kjósa_s;vote,elect
+kjölfar_nh;wake
+kjör_nh;election,terms,deal
+kjördæmi_nh;constituency
+kjöt_nh;meat,beef,flesh,muscle
+klappa_s;clap,applaud
+klaufhamar_nk;claw hammer
+klaustri_nh;monastery
+klaustur_nh;monastery,cloister,abbey
+klefi_nk;cell,chamber,cubicle
+kleifur_l;doable,workable,practicable,feasible
+klettur_nk;rock,cliff
+klettóttur_l;rocky
+klifra_s;climb
+klippa_s;cut
+kliður_nk;murmur,noise
+kljúfa_s;split,cleave,rive,rift,cut
+klofna_s;cleave,split,rip
+klukka_nv;clock
+klukkustund_nv;hour
+klukkutími_nk;hour
+klár_l;clever,smart,ready,finished
+klæddur_l;dressed,covered
+klæða_s;dress,clothe,surface
+klæði_nh;apparel,clothes,dress,garments,wardrobe,wear,cloth
+klífa_s;climb,ascend,mount,scale,rise,escalate,advance
+klípa_s;tweak,pinch,nip,twist
+kló_nv;plug,claw,talon,can
+klóra_s;claw,scratch,rake,paw
+klósett_nh;loo,WC
+klöngra_s;scramble,clamber,climb,scale,mount
+klöpp_nv;boulder,rock
+km_nk;kilometer
+knattspyrna_nv;football,soccer
+knýja_s;drive,propel,enforce
+koddaslagur_nk;pillow fight
+koddi_nk;pillow
+kofi_nk;hut
+kokkur_nk;chef,cook
+kol_nh;coal
+kollega_nk;colleague,mate,co-worker,associate
+kollur_nk;head
+kolsvartur_l;pitchy,jet-black,black
+koma_nv;arrival,coming
+koma_s;come,arrive,show up
+komandi_l;upcoming,approaching,forthcoming,imminent,next
+kommúnisti_nk;communist
+kompás_nk;compass
+kona_nv;woman,wife
+konar_nk;kind
+konukot_nks;Women Hut
+konunglegur_l;royal,kingly,monarchial,noble,excellent
+konungur_nk;king
+kopavogi_nhs;*Kópavogur
+korn_nh;grain,corn,fragment,particle,meal
+kort_nh;map,card
+kortér_nh;quarter,quarter-hour
+kosning_nv;election
+kosningabandalag_nh;election alliance
+kosningabarátta_nv;election campaign
+kosningastefnuskrá_nv;election policy
+koss_nk;kiss
+kosta_s;cost,sponsor
+kostnaður_nk;cost
+kostur_nk;advantage,quality,option
+krabbamein_nh;cancer,disease,tumor
+krafa_nv;demand,claim,debt
+kraftakeppni_nv;strength contest
+kraftur_nk;strength,force,energy,power
+kragi_nk;collar,flange,rim,edge,rib
+krakki_nk;kid,child
+krefja_s;demand
+kreik_nh;move,walk,wander,activity
+kreista_s;squeeze,wring,compress,press,crush
+kreppa_s;flex,curl,clench,tighten,clasp
+krepptur_l;clenched
+kring_aa;round
+kringlóttur_l;circular,round
+kringum_ao;around
+krist_nks;*Christ
+kristinn_l;Christian
+kristur_nks;Christ
+krjúpa_s;kneel
+kroppur_nk;body,hottie
+kross_nk;cross
+kross_nks;cross
+krossgata_nv;crossroad
+krosslagður_l;crossed
+krossleggja_s;cross
+krufning_nv;autopsy,postmortem,analysis,study,inquiry
+krukka_nv;jar,pot
+krækja_s;hook,crook,latch,link
+krókur_nk;hook,serif,crook,sidetrack,delay,detour
+króna_nv;krona,crown
+kuldalega_aa;coldly,unfriendly
+kuldi_nk;cold,chill,frigidity
+kunna_s;know
+kunningi_nk;pal,buddy,acquaintance
+kunnugur_l;known
+kunnur_l;known,famous
+kurteis_l;polite,civil,mannerly,respectful,gallant
+kurteisi_nv;manners,politeness,courtesy,etiquette,civility
+kurteislega_aa;politely,civilly,mannerly
+kuðungur_nk;cochlea
+kvarna_s;granulate
+kvarta_s;complain,grouch,grump,whine,moan
+kvef_nh;cold,common cold
+kveikja_s;turn on,light,ignite
+kvenfólk_nh;woman,female,femme,lady
+kvenmaður_nk;woman,female,femme
+kvennabikarur_nk;*female cup
+kvennalið_nh;female squad
+kvennasveit_nv;female squad
+kveða_s;say goodbye,call up
+kveðja_nv;greeting,farewell,salutation,regard,leave
+kveðja_s;say goodbye,recall,conscript
+kvikna_s;ignite,kindle,enkindle
+kvikur_l;agile,quick
+kvistur_nk;twig,spray
+kviður_nk;womb,belly,abdomen,stomach,tummy
+kvænast_s;marry,wive
+kvæntur_l;married
+kvæði_nh;poem,poetry,verse,epic,lyric
+kví_nv;pen,cage,kennel,fence,assemble,crowd
+kvíða_s;dread,anguish,fear,fright
+kvíðbogi_nk;worry
+kvíði_nk;anxiety,fear,discomfort,uneasiness,concern
+kvöld_nh;evening
+kvöldmatur_nk;dinner,supper
+kyn_nh;gender
+kyngja_s;swallow,stomach,pocket,accept
+kynjahlutfalli_nh;gender ratio
+kynlegur_l;weird,uncanny,surreal,strange
+kynlíf_nh;sex
+kynna_s;introduce,brief,study,look into
+kynni_nh;encounter
+kynnta_s;*present
+kynslóð_nv;generation
+kyrr_l;still
+kyrrlátur_l;calm,quiet,noiseless,silent,tranquil,sedate,serene
+kyrrstæður_l;still,stationary,immobile,static,stagnant,motionless
+kyrrð_nv;stillness,quietness,tranquility,silence,peace
+kyssa_s;kiss
+káeta_nv;cabin
+kálfi_nk;calf
+kápa_nv;coat,overcoat,cover
+kátur_l;merry,jolly,jovial,cheerful,happy
+káur_l;*Kári
+kæfa_s;suffocate,strangle,choke,extinguish
+kæling_nv;cooling
+kær_l;precious,dear
+kæra_nv;charge,impeach,report
+kæra_s;charge,report,accuse,want
+kærasti_nk;boyfriend,sweetheart,lover,beau
+kærstur_l;*dear,precious
+kæruleysislega_aa;carelessly
+kæti_nv;happiness,cheerfulness,joviality,vivacity
+kíkja_s;peep,peek
+kíló_nh;kilogram
+kílómetri_nk;kilometer
+kínverskur_l;Chinese
+kólna_s;cool,chill
+kóngur_nk;king
+kópavogsvellur_nks;*Kópavogur stadium
+kökkur_nk;lump,clot
+könnun_nv;study,research,exploration
+könnunarleiðangur_nk;expedition,safari,excursion
+köttur_nk;cat
+kúga_s;repress,subdue,oppress,extort,blackmail
+kúla_nv;bullet,ball,sphere,bubble
+kúra_s;swot,cram,cuddle
+kútur_nk;keg,barrel,container,cask,jump,crouch
+kýr_nv;cow
+labba_s;walk
+lag_nh;layer,song,law,part
+laga_s;fix,correct,repair,improve
+lagaður_l;fixed,repaired,improved,made
+lagfæra_s;fix,mend,patch,repair,restore,correct
+laginn_l;handy,dexterous,clever,skilful,qualified
+laglegur_l;pretty,good-looking
+lamasess_nk;disrepair
+lamaður_l;paralized,petrified,stunned,numb,immobilized
+lamb_nh;lamb
+lambakró_nv;lamb corner
+lambi_nh;*Lambi
+lampi_nk;lamp,light,bulb
+land_nh;country,land
+landa_s;unship,land
+landamæri_nh;border
+landareign_nv;premises,estate,land,ground
+landaður_l;unshipped,landed
+landbúnaður_nk;agriculture,farming
+landform_nh;xxx
+landgrunn_nh;tideland,continental shelf
+landhelgi_nv;territorial waters
+landhelgisgæsla_nv;coast guard
+landhelgisgæsla_nvs;Coast guard
+landlæknisembætti_nhs;surgeon general office
+landsbyggð_nv;countryside
+landset_nh;*tenant
+landsfjórðungi_nk;quarter of a land
+landslag_nh;scenery,landscape,terrain
+landsmaður_nk;countryman,country inhabitant
+landsmót_nh;national meeting,national tournament
+landsmót_nhs;National meeting
+landsmót_nks;National meeting,National tournament
+landvernd_nv;Landvernd
+landvistarleyfi_nh;residence permit
+langa_s;want
+langafi_nk;great-grandfather
+langdrægur_l;long range
+langfeðgar_nk;ancestor
+langflestir_l;most,by far most
+langmestur_l;greatest,most,by far the most,by far the greatest
+langreyður_nv;razorback,finback
+langt_aa;long
+langt_aae;longest
+langt_aam;longer
+langtímahorfur_nv;long-term prospect
+langur_l;long
+langvarandi_l;persistent,lingering,prolonged,stubborn
+latabæjarhlaup_nh;Lazytown run
+latína_nv;latin
+lauf_nh;leaf,club
+laug_nv;pool,hot spring
+laugardagur_nk;saturday
+lauma_s;sneak,crawl,lurk,worm,slide
+laun_nh;wage,salary,pay,reward,income
+launatekja_nv;earned income
+laus_l;loose,free,vacant,availible
+lausn_nv;solution
+laust_aa;lightly,just
+laut_nv;concavity,depression
+laður_l;*attract
+lega_nv;orientation,situation,lie,lay
+leggja_s;put,lay,park
+leggur_nk;leg,stem,shaft
+legsteinn_nk;tombstone,headstone,gravestone
+leif_nv;leave
+leiga_nv;rent,hire,lease
+leigja_s;rent
+leigjandi_nk;hirer,lodger,tenant,occupier
+leika_s;play
+leikari_nk;actor,performer
+leikfélag_nhs;Theater
+leikhlé_nh;halftime
+leikhús_nh;theatre
+leikja_s;*game
+leikkona_nv;actress,actor,player
+leiklist_nv;theater,dramatics,acting,stage-playing
+leikmynd_nv;decor
+leikrit_nh;play,piece
+leikstjóri_nk;director
+leiksýning_nv;play
+leikur_nk;game,match,play,acting
+leir_nk;clay,slip,bad poetry
+leirur_nk;mud-flat
+leit_nv;search,hunt,quest
+leita_s;search
+leið_nv;way
+leiða_s;lead,guide,supply,hold hands with
+leiðangur_nk;expedition,journey
+leiðbeining_nv;instruction
+leiði_nh;grave
+leiðindi_nh;boredom
+leiðinlegur_l;boring,dull,uninteresting
+leiðrétta_s;correct,fix,rectify,emend
+leiðréttinga_nv;*correction
+leiðtogafundur_nk;summit meeting
+leiðtogi_nk;leader
+leiður_l;sad
+leka_s;leak,drip
+lemja_s;beat,whack,stike
+lenda_s;land,touch,come up against,encounter
+lending_nv;landing
+lendingarbúnaður_nk;landing gear
+lengd_nv;length
+lengi_aa;long,for a while
+lengi_aae;longest
+lengi_aam;long
+lengja_nv;strip,stretch,line
+lengja_s;lengthen,extend,prolong
+lesa_s;read
+lesandi_nk;reader
+lesminni_nh;read memory,read-only memory,ROM
+lest_nv;train,hold,ton
+lestur_nk;read,reading
+leyfa_s;allow
+leyfi_nh;permission
+leyna_s;conceal,disguise,cover up
+leynd_nv;secrecy
+leynda_s;*lurk,hide
+leyndardómsfullur_l;mysterious,cryptic,enigmatic,puzzling,arcane
+leyndardómur_nk;mistery,secret
+leyndarmál_nh;secret
+leyndur_l;secret,hidden,covert,enigmatic,concealed,confidential
+leysa_s;untangle,loose,free,work out
+leysni_nv;solubility
+leyti_nh;regard,extent
+leður_nh;leather,hide,skin
+lifa_s;live
+lifandi_l;alive
+lifna_s;liven,revive,resuscitate,freshen
+liggja_s;lie
+limra_nv;limerick
+lind_nv;fountain,spring,well
+linna_s;stop,quit
+list_nv;art
+listamaður_nk;artist
+listi_nk;list,catalogue,chart
+listrænn_l;artistic,artsy
+lita_s;color,paint,crayon,dye
+litaskjár_nk;color display,color monitor
+litríkur_l;colorful,motley
+litur_nk;color
+lið_nh;team
+liðinn_l;past,gone
+liðlega_aa;in excess of,more than
+liðsforingi_nk;officer,lieutenant
+liður_nk;item,element,segment,part,joint,hinge
+ljá_s;lend,loan,provide,supply,grant,give
+ljóma_s;shine,glow,radiate
+ljón_nh;lion
+ljós_l;clear
+ljós_nh;light
+ljóshærður_l;blond,blonde
+ljósmynd_nv;photograph,photo,picture,image
+ljósmyndastofa_nv;photography studio
+ljósrit_nh;copy,photocopy,duplicate
+ljósta_s;strike,smite
+ljótur_l;ugly
+ljóð_nh;poem
+ljúfur_l;tender,sweet,benign,charming
+ljúga_s;lie,falsify
+ljúka_s;finish
+lof_nh;praise,acclaim
+lofa_s;promise
+loforð_nh;promise,word,assurance,vow,pledge,plight
+loft_nh;air
+lofthjúpur_nk;atmosphere,aerospace
+loftslag_nh;climate
+loftslagsbreyting_nv;climate change
+loftslagssamningur_nk;climate deal,climate agreement
+lofttegund_nv;gas
+loftvörn_nv;air defence
+loga_s;burn,flame,light,signal
+logandi_l;aflame,on fire
+logi_nk;flame,blaze
+logn_nh;calm
+lok_nh;ending
+loka_s;close
+lokaandartaka_nh;*final moment
+lokafjármögnun_nv;final financing
+lokaverð_nh;final price
+lokaður_l;closed
+lokinn_l;over,done
+lokkur_nk;curl,lock
+loks_aa;finally
+loksins_aa;finally
+lokun_nv;closing,shutdown
+losa_s;loosen,free,untie
+losna_s;loosen,unfasten,get free,come off
+losun_nv;release
+losunarkvóti_nk;release quota
+lota_nv;turn,round,time,go,shift
+lotukerfi_nh;periodic system
+loðinn_l;hairy,furry,fuzzy,evasive
+loðna_nv;capelin,pile,fuzz
+lsh_nks;National University Hospital
+lund_nv;mood,humor
+lundúnir_nvs;London
+lunga_nh;lung,alveolus,bronchi
+lungnakrabbamein_nh;lung cancer
+lyf_nh;drug,medicine
+lyfjaeftirlit_nh;drug control
+lyfjaframleiðandi_nk;drug company
+lyfta_s;lift,raise,elevate
+lygi_nv;lie,fabrication,falsehood,untruth,falsity
+lykilatriði_nh;key issue
+lykill_nk;key
+lyklaborð_nh;keyboard
+lyklakippa_nv;key ring,key chain
+lykt_nv;smell
+lyst_nv;appetite,hunger,stomach,taste,thirst,longing,desire
+lágreistur_l;low-rise,low
+lágt_aa;low
+lágt_aae;lowest
+lágur_l;low
+lán_nh;loan,luck
+lána_s;loan
+lánardrottinn_nk;creditor
+lánsfé_nh;credit,loan,borrowed capital
+lánsheimild_nv;loan permission
+lántaka_nv;borrowing
+lás_nk;lock
+láta_s;let
+látinn_l;dead,deceased,made
+lávarður_nk;lord
+láða_s;*fail
+lækka_s;lower,decrease
+lækkun_nv;reduction,decrease
+lækna_s;cure,heal,remedy,doctor
+læknavakt_nv;health clinic
+lækning_nv;cure,remedy,medication,medicine,antidote
+læknir_nk;doctor
+lækur_nk;stream
+læra_s;learn
+læri_nh;thigh,apprenticeship
+lærður_l;scholarly,literate,learned
+læsa_s;lock
+læstur_l;locked
+læti_nh;noise,commotion,fuss
+læða_nv;tabby
+læða_s;sneak,slide
+lélegur_l;poor,bad,wretched
+létt_aa;light,lightly,gently
+létta_s;lighten,relieve,unburden
+léttir_nk;relief,alleviation,ease,mitigation
+léttur_l;easy,light
+léttvægur_l;light,airy
+líbería_nvs;Liberia
+líf_nh;life
+líffræði_nv;biology
+líffæri_nh;organ
+lífrænn_l;organic,biological,natural,nonsynthetic
+lífríki_nh;biosphere,ecosystem
+lífshættir_nk;lifestyle,convention,routine,habit
+lífsmark_nh;alive,breathing,live,living,vital,vigorous
+lífsnauðsyn_nv;necessity,bare necessity,essential
+lífsviðhorf_nh;belief,philosophy,opinion,conviction
+líftími_nk;lifespan
+lífvörður_nk;bodyguard,lifeguard,sentry
+lík_nh;body
+líka_aa;also
+líka_s;like
+líkami_nk;body
+líkamlega_aa;physically,materially
+líkamlegur_l;physical
+líkamsárásir_nv;assault,battery,attack
+líkan_nh;model,miniature
+líkfylgd_nv;cortege,funeral procession
+líkindi_nh;probability
+líking_nv;similarity,resemblance,analogy,metaphor
+líkja_s;imitate,simulate,emulate
+líklega_aa;probably
+líklegur_l;probable,likely,expectable
+líkt_aa;similar
+líkur_l;similar,alike,analogous
+líkur_nv;probability
+líma_s;paste,glue
+lína_nv;line
+líra_nv;lira
+líta_s;look
+lítill_l;small,little
+lítillega_aa;somewhat,slightly,insignificantly
+lítið_aa;little
+lítið_aam;less
+lítri_nk;liter
+lítt_aa;little
+lítt_aam;little
+líða_s;feel
+líðan_nv;condition
+lófi_nk;palm
+lóð_nh;weight,sinker,poise
+lóð_nv;garden,property,premises,site,ground,land
+lóðréttur_l;vertical,perpendicular,upright,erect
+lögfræði_nv;law
+lögfræðingur_nk;lawyer
+lögga_nv;cop,policeman
+löggæsla_nv;policing
+löglegur_l;legal
+lögmaður_nk;lawyer
+lögmál_nh;law,principle,rule
+lögpersóna_nv;legal entity
+lögregla_nv;police
+lögreglubíll_nk;police car
+lögreglumaður_nk;policeman,officer,detective,patrolman,marshal,sheriff
+lögreglustjóri_nk;sheriff,commissioner,marshal
+lögregluvald_nh;police authority
+lögregluþjónn_nk;police officer,cop
+lögræðislög_nh;legal maturity law
+lögsaga_nv;jurasdiction
+lögun_nv;shape,form,figure,preperation,brew
+löngum_aa;frequently,often,continuously
+löngun_nv;longing,desire,craving
+löpp_nv;foot,paw
+lúta_s;relate,defer,succumb
+lúter_nvs;Luther
+lýsa_s;describe,shine
+lýsing_nv;description,lighting,illumination,commentary
+lýðræði_nh;democracy
+lýðræðisfylking_nvs;Democratic movement
+lýður_nk;mob,people
+lýðveldi_nh;republic
+m.ail_nh;*among else
+m_nk;meter
+magi_nk;stomach,gut,abdomen
+magn_nh;amount
+magna_s;boost,amplify
+magnaður_l;amazing,phenomenal,astonishing,fantastic,incredible
+magur_l;thin,skinny,slim,slender,spare,meagre
+maki_nk;spouse
+mamma_nv;mother
+mannaferð_nv;people moving
+mannavald_nh;human cause
+manneskja_nv;person,human being
+mannfall_nh;casualties
+mannkyn_nh;mankind,humanity,humankind
+mannlegur_l;human
+mannlíf_nh;life,daily life
+mannréttindi_nh;human right
+mannvirki_nh;construction,structure,building
+margbrotinn_l;complicated,complex,sophisticated
+marglitur_l;multicolored,motley,polychrome
+margsinnis_aa;oftentimes,frequently,constantly,often,repeatedly
+margur_l;many
+margvíslegur_l;varied,diverse
+margítreka_s;repeatedly reiterate
+mark_nh;goal
+marka_s;important,brand
+markaðsettur_l;marketed
+markaðssetning_nv;marketing
+markaðssetur_l;market
+markaður_nk;market
+markmið_nh;objective,goal,aim
+marktækur_l;significant
+mars_nk;March
+marteinn_nks;Martin
+martröð_nv;nightmare,incubus
+massi_nk;mass
+mat_nh;assessment
+mata_s;feed,fodder,fuel,meal,nourish,nurse,nurture
+matsalur_nk;mess,lunchroom
+matseðill_nk;menu,card,carte,cusine,dishes,list
+matur_nk;food
+matvæla-_nks;Food-
+matvælaaðstoð_nv;food help
+matvælaverð_nh;food price
+maí_nk;May
+maður_nk;man,one,person
+mbeki_nk;*Mbeki
+mbekir_nks;*Mbeki
+mega_s;can,may
+megin_aa;major,side
+megindráttur_nk;core,main aspect
+meginjökull_nk;main glacier
+meginniðurstaða_nv;main result
+meginregla_nv;main rule
+megn_nh;strength,ability,majority,most
+meina_s;mean
+meining_nv;meaning
+meintur_l;said,alleged
+meir(a)_aae;most
+meir(a)_aam;more
+meira_aae;most
+meira_aam;more
+meirihluti_nk;majority
+meistaraprófsverkefni_nh;MA thesis
+meistari_nk;master,champion
+meiða_s;hurt,injure,damage,impair
+meiðsl(i)_nh;injury
+menning_nv;culture
+menntaskóli_nk;college
+menntaskóli_nks;College
+menntun_nv;education,training,schooling
+merki_nh;sign,symbol
+merkilegur_l;interesting,important
+merking_nv;meaning,label
+merkja_s;mark,label,tag
+merktur_l;marked,labelled
+merkur_l;important
+messa_nv;service,mass
+messutími_nk;service time,mass time
+meta_s;value,rate,evaluate,estimate
+metinn_l;evaluated,rated
+metnaður_nk;ambition,aspiration
+metri_nk;meter
+mey(ja)/mær_nv;girl,maiden,maid,virgin
+með_aa;with
+með_ao;with
+með_aþ;with,among
+meðal_aa;medium,among,midst
+meðal_ae;among
+meðallag_nh;average,mean,median,norm,par
+meðallangur_l;medium long
+meðaltal_nh;average
+meðan_aa;while
+meðan_c;while,during
+meðferð_nv;treatment,therapy,usage
+meðfram_aþ;along
+meðhjálpari_nk;parish-clerk,deacon
+meðuli_nh;*medicine,drug,means
+meðvitund_nv;consciousness,awareness
+mikill_l;much,great,big
+mikilvægi_nh;significance,bearing,consequence,gravity,importance,value,weight
+mikilvægur_l;important
+mikið_aa;much
+mildur_l;mild,soft,gentle
+mill_l;*mill
+milli_aa;between
+milli_ae;between
+millibil_nh;interval,interspace,interim
+milliganga_nv;interposition
+milljarði_nk;*billion
+milljarður_nk;billion
+milljón_nv;million
+milljón_t;million
+milljörð_nv;*billion
+millur_l;*mill
+minn_f;my,mine
+minna_s;remember,remind
+minni_nh;memory
+minniháttar_l;minor,superficial,trivial,unimportant,secondary
+minning_nv;memory
+minnisstæður_l;memorable
+minnka_s;reduce
+minnkandi_l;decreasing,reductive
+misbrestur_nk;failure,inadequacy
+misgengi_nh;fault,dislocation
+misheppnaður_l;unsuccessful,stillborn,hopeless,failure
+misjafn_l;unequal,unlike,different
+misjafna_nv;*various,different
+misjafnlega_aa;differently,variously
+miskunnarlaus_l;ruthless,unmerciful,merciless,cruel
+mismunandi_l;different
+mismunun_nv;discrimination
+mismunur_nk;difference,alteration,distinction,inequality,variation
+misnotkun_nv;abuse,misuse
+missa_s;miss
+misseri_nh;semester
+misskilningur_nk;misunderstanding
+mistök_nh;mistake,blunder,error,fallacy,fault,misstep,lapse,slip,oversight
+mistöki_nh;*mistake
+mistúlkaður_l;misinterpret,misread,misconceive
+mitt_aa;amidst,middle
+mitti_nh;waist,waistline
+mið-_l;mid-
+mið-austurland_nhs;Middle east
+mið_nh;aim,waters
+miða_s;aim,compare
+miðausturland_nhs;Middle East
+miðausturlandi_nh;*middle east
+miðborg_nv;downtown,city center,inner city
+miðbær_nk;downtown,city center
+miði_nk;ticket
+miðja_nv;center,middle,median,midpoint,midst
+miðjarðarhafsríkja_nvs;Mediterranean countries
+miðla_s;share,communicate,compromise
+miðnætti_nh;midnight
+miðstjórn_nv;board,council,central board,central council
+miðstöð_nv;center,focus,hub,headquarters,heating system
+miður_l;midst,sorry
+miðvikudagur_nk;Wednesday
+mjaka_s;budge,worm,move,push
+mjólk_nv;milk
+mjór_l;narrow,thin
+mjög_aa;very
+mjöðm_nv;hip
+mjúklega_aa;softly,gently
+mjúkur_l;soft
+mm_nk;mm
+modem_nh;modem
+moka_s;shovel,scoop,excavate
+mold_nv;dirt,mould,earth
+morgunblað_nhs;Morgunblaðið
+morgunn_nk;morning
+morð_nh;murder,killing
+morðingi_nk;murderer,killer,assassin
+mosi_nk;moss
+muldra_s;mumble,whisper,grumble,murmur
+muna_s;remember
+mund_nv;time,hand
+mundur_nk;dowry
+munkur_nk;monk
+munnlegur_l;oral,verbal,parol
+munnur_nk;mouth
+munnvik_nh;corner of mouth
+munu_s;will
+munur_nk;difference
+mynd_nv;image,picture,film,form
+mynda_s;create,photograph
+myndarlegur_l;handsome,attractive,beautiful,pretty
+myndataka_nv;photography
+myndavél_nv;camera
+myndband_nh;video recording
+myndlist_nv;visual arts
+myndlistarmaður_nk;painter
+myndun_nv;formation,development
+mynja_s;*photo
+mynni_nh;mouth,opening
+myrkur_l;dark,darkness,blackness,dusk,night,shadow
+myrkur_nh;darkness
+myrða_s;murder,kill,assassinate,execute,slay
+má_nvs;*Már
+má_s;wear,obliterate,abolish,delete,erase,remove
+mágur_nk;brother-in-law
+mál_nh;case,language,opinion
+mála_s;paint,make up,rouge,powder
+málaður_l;painted
+málefni_nh;issue,business,cause
+málgefinn_l;loquacious,talkative
+málmur_nk;metal
+málning_nv;paint,coat,color,makeup
+málsgrein_nv;sentence,paragraph
+málsmeðferð_nv;procedure
+máltíð_nv;meal,banquet,board,feast,food,snack
+málverk_nh;painting,canvas,picture,art
+mánudagur_nk;monday
+mánuður_nk;month
+máti_nk;way,manner,fashion,mode,method
+máttur_nk;might,strength,power,force
+mæla_s;speak,measure
+mælikvarði_nk;scale,gauge,measure
+mæling_nv;measurement
+mælir_nk;indicator,gauge,meter
+mælitæki_nh;metre,gauge
+mæna_s;stare,eye,gape,gawk,gaze,watch
+mærudagur_nks;Mæru-day
+mærudögur_nks;*Mæru-day
+mærukapphlaup_nks;Mæru-race
+mæta_s;meet,show up
+míla_nv;mile
+mínúta_nv;minute
+mól_nh;mol
+mólmassi_nk;mole
+mót_nh;meeting,tournament
+móta_s;shape
+móti_aa;against
+móti_aþ;against
+mótins_nk;*meeting,tournament
+mótmæla_s;protest,object
+mótmælandi_nk;objector,protestant
+mótmælendur_nk;*objector
+mótmæli_nh;objection,demonstration,protest,protestation,outcry
+móts_aa;meet
+móttaka_nv;reception,receipt,welcome,party,meeting,function,gathering
+móðir_nv;mother
+móður_l;winded,exhausted,tired
+móðurfélag_nh;xxx
+móðursystir_nv;aunt
+mögulega_aa;possibly
+mögulegur_l;possible
+möguleiki_nk;possibility
+möl_nv;gravel
+múli_nk;mountain
+múr_nk;wall
+mús_nv;mouse
+mýri_nv;swamp,mire,fen,marshland,marsh,wetland,swampland
+nafn_nh;name
+nafni_nk;namesake,homonym
+nafnverð_nh;par value
+nafnverðsbreyting_nv;par value change
+naga_s;irritate,annoy,rankle,gnaw
+nagli_nk;nail
+nakinn_l;naked,nude,bare,barren,exposed,uncovered,undressed
+nasisti_nk;nazi
+nationalur_nks;National
+naumt_aae;tightest
+nauðguna_nv;*rape
+nauðsyn_nv;necessity
+nauðsynlegur_l;necessary
+nauðþurfta_nv;subsistence
+nef_nh;nose
+nefbrotinn_l;with broken nose
+nefhjól_nh;nose wheel
+nefna_s;name,mention
+nefnd_nv;committee
+nefndur_l;named
+nefnilega_aa;namely
+negla_s;nail
+negri_nk;negro
+nei_au;no
+neikvæður_l;negative,downbeat,minus
+neinn_f;any
+neita_s;deny
+nema_c;except,unless,but
+nema_s;total,amount to
+nemandi_nk;student
+nemi_nk;student,pupil
+nenna_s;bother,care
+net_nh;net,network,Internet
+neysla_nv;consumption
+neyta_s;consume,use,do
+neyða_s;force
+neyðartilfelli_nh;emergency case
+neyðartilvik_nh;emergency case
+neyðarvakt_nv;emergency watch
+neðan_aa;below
+neðan_ae;below
+neðanjarðar_aa;underground
+neðar_aae;lowest
+neðar_aam;lower
+neðri_l;lower
+nhk_nks;NHK
+nifteind_nv;neutron
+nifteindastjarna_nv;neutron star
+niðri_aa;down,downstairs
+niður_aa;down
+niður_ao;down
+niður_nk;murmur,purl,drone,burr,buzz,whir
+niðurfall_nh;drainpipe
+niðurskurður_nk;cutback,cut,retrenchment
+niðursokkinn_l;absorbed,preoccupied,deep,intent
+niðurstaða_nv;conclusion,result
+njóta_s;enjoys,gets
+nokkur_f;one,any,some
+nokkurntíma_aa;ever
+nokkurntímann_aa;ever,anytime
+noregur_nks;Norway
+norn_nv;witch
+norrænn_l;Nordic
+norskur_l;Norwegian
+norð-austurhluti_nk;north eastern part
+norðan_aa;northwardly,north
+norðan_ae;north of
+norðanverður_l;north,northern
+norðar_aae;northernmost
+norðar_aam;northern
+norðaustur_nh;northeast
+norðmaÃ°ur_nks;*Norwegian
+norður-karolínuháskóli_nks;North Carolina University
+norður_aa;north
+norður_nh;north
+norðurhluti_nk;northern
+norðursjávarolía_nvs;North Sea oil
+norðurþingur_nks;Norðurþing
+not_nh;use,purpose,utility
+nota_s;use
+notalegur_l;cosy,sociable,pleasant
+notandi_nk;user
+notfæra_s;exploit,utilize,use,employ,harness
+notkun_nv;use
+nudda_s;rub,massage
+nunna_nv;nun
+nymex_nks;NYMEX
+nyse_nxs;NYSE
+nyt_nv;utility,usefulness,use,benefit,profit
+ná_s;get,obtain
+nágranni_nk;neighbor
+nágrenni_nh;neighborhood,vicinity,surroundings
+náinn_l;close
+náið_aae;almost
+náið_aam;closely,intimately
+nákvæmlega_aa;exactly
+nákvæmur_l;exact
+nál_nv;needle
+nálega_aa;approximately,about,almost,roughly
+nálgast_s;approach,near
+nálægt_aa;nearby,close
+nálægt_aþ;near
+nálægur_l;near
+nálægð_nv;presence,closeness,proximity,nearness
+nám_nh;education
+námskeið_nh;course
+námundi_nk;vicinity,locality,proximity,neighborhood,area
+náttföt_nh;pajamas,night clothes
+náttkjóll_nk;nightgown,nightdress,nightie,nightshirt
+náttúra_nv;nature
+náttúrlega_aa;naturally
+náttúrugripasafninu.einn_l;natural museum
+náttúruhamfarir_nv;cataclysm,disaster,catastrophe,tragedy
+náttúrulega_aa;naturally
+náttúrulegur_l;natural,usual,normal,ordinary,biological,evironmental
+náttúrustofa_nvs;Nature Office
+náttúruverndarsamtök_nks;Nature Conservation Organization
+náungi_nk;guy,fellow,dude,fella,chap,bloke
+návist_nv;presence,company,proximity,closeness
+náð_nv;grace,mercy,retirement
+nægilega_aa;enough,sufficiently
+nægilegur_l;sufficient,enough
+nægja_s;suffice,cover
+nægjanlega_aa;sufficient
+nægur_l;satisfactory,sufficient,adequate,plentiful
+næmur_l;sensitive,perceptive,susceptive
+næring_nv;nutrition,nourishment,food
+nærri_aa;near,nearby
+nærri_aae;closest
+nærri_aam;closer
+nærri_aþ;near
+nærri_aþe;near,next
+nærri_aþm;closer,almost
+nærri_l;almost,near,next
+næsta_aa;next,upcoming
+næsta_nv;shortly,soon
+næstkoma_s;next,upcoming
+næstum_aa;almost
+næturskýli_nhs;The Night Shelter
+nætursvefn_nk;night sleep
+næði_nh;privacy,peace
+né_c;nor
+nístandi_l;biting,penetrating,penetrative,piercing
+nítján_t;nineteen
+nítjándi_l;nineteenth
+níu_t;nine
+nógur_l;enough
+nóta_nv;note,sound,term
+nótt_nv;night
+nóvember_nk;November
+nögl_nv;nail
+nös_nv;nostril
+nú_aa;now
+nú_au;really
+núa_s;rub,massage,scrub,chafe
+núgildandi_l;current,contemporary,existent,existing,present
+númer_nh;number
+núna_aa;now
+nútímaskilningur_nk;modern sense
+nútími_nk;present,now
+núverandi_l;current
+ný_aa;new
+nýbyrjaður_l;just started
+nýbónaður_l;just polished
+nýfæddur_l;newborn
+nýjung_nv;novelty,innovation,change
+nýkominn_l;recently arrived
+nýlega_aa;lately
+nýlegur_l;recent,current,fresh,late,modern,new,contemporary
+nýmæli_nh;novelty,originality,freshness,innovation
+nýr_l;new
+nýsaminni_nh;just written,just composed
+nýta_s;use,exploit
+nýting_nv;utilization,use,usage,application,employment,exploitation
+o_au;oh
+obamur_l;*Obama
+odingur_nks;*Odinga
+of_aa;too
+ofan_aa;above,from above,down
+ofangreindur_l;above-mentioned
+ofar_aae;topmost,highest,maximal
+ofar_aam;higher
+ofboðslega_aa;terrifically,very
+ofsahraði_nk;breakneck speed
+ofsalega_aa;very,really,strikingly,remarkably
+oft_aa;often
+oft_aae;often
+oft_aam;often
+ofurlítill_l;tiny,puny
+ofurlítið_aa;little,tiny
+ofþurrkur_nk;dehydration
+og_aa;also
+og_c;and
+október_nk;October
+olnbogi_nk;elbow
+olía_nv;oil
+olís_nk;*Olís
+olíufélag_nh;oil company
+olíumarkaður_nk;oil market
+olíuverð_nh;oil price
+oma_s;*Omar
+oní_ao;into,down into
+opinber_l;official
+opinberlega_aa;officially
+opinberur_l;*official,public
+opinn_l;open
+opna_s;open
+orka_nv;energy
+orkugjafi_nk;energizer
+orkulind_nv;energy source
+orkunotkun_nv;energy usage
+ormur_nk;worm
+orrusta_nv;battle,combat,fight,skirmish,engagement,clash
+orsaka_s;cause,induce
+orsakaþáttur_nk;cause
+orsök_nv;cause
+orð_nh;word
+orða_s;word
+ostur_nk;cheese
+pabbi_nk;father
+pakki_nk;package,gift,packet,parcel
+pallur_nk;platform,podium,base,terrace
+panta_s;order,reserve,book
+pappír_nk;paper
+par_nh;pair,two,couple,duo
+partur_nk;part,segment,piece
+parís_nvs;Paris
+passa_s;fit,add up,baby-sit,mind
+peningastefna_nv;monetary policy,monetarism
+peningur_nk;money
+penni_nk;pen
+pera_nv;bulb,lamp,pear
+percy_x;*Percy
+perla_nv;pearl,gem,jewel
+persóna_nv;person,character
+persónulegur_l;personal
+persónuleiki_nk;personality,character
+peysa_nv;sweater,pullover
+pils_nh;skirt
+piltur_nk;boy
+pinkill_nk;packet,package,parcel,pouch
+pirraður_l;annoyed,frustrated,irritated
+pissa_s;pee,urinate
+plast_nh;plastic,acrylic,vinyl
+plata_nv;board,plate,record
+plága_nv;plague,pest,nuisance
+pláss_nh;space
+plægja_s;till,furrow
+plötuspilari_nk;gramophone,turntable
+poki_nk;bag
+pollur_nk;puddle,pool
+port_nh;yard
+pottur_nk;pot
+prag_nvs;Prague
+prenta_s;print,publish,copy,write
+prentari_nk;printer
+pressun_nv;*press
+pressunnur_l;*press
+prestssetri_nh;vicarage
+prestssetur_nh;vicarage,priest house
+prestssonur_nk;son of a priest
+prestur_nk;priest
+prik_nh;stick,point
+próf_nh;test,exam
+prófa_s;test,try,examine
+prófessor_nk;professor
+próförk_nv;proof,proof sheet
+prósenti_nh;*percent
+pund_nh;pound
+punktur_nk;point,dot,period,full stop
+putti_nk;finger,digit
+pylsa_nv;sausage,hot dog,wurst
+páfagaukur_nk;parrot
+pæla_s;think,dig
+píanó_nh;piano
+pína_nv;little,small,torment,pain,torture
+pípa_nv;pipe,tube
+píra_s;peer,eye,gape,gawk,stare
+pólitík_nv;politics
+pólitískur_l;political
+pólland_nhs;Poland
+pólverji_nks;Pole
+pósthúur_l;*post office
+póstur_nk;mail,post,letter,parcel,shipment,dispatch
+pökkunarstaður_nk;packaging place
+pústur_nk;blow
+qp-13_nks;QP-13
+rabarbaragrautur_nk;rhubarb porridge
+radíus_nk;radius
+rafeind_nv;electron
+rafmagn_nh;electricity
+raforkuframleiðsla_nv;electrical power production
+rafræna_nv;electronic
+rafstöð_nv;electric generator,power plant
+raka_s;rake,collect,raise,shave,barber
+rakur_l;damp,moist,humid
+rammi_nk;frame,border,edge
+rammur_l;strong
+rangur_l;wrong,incorrect
+ranka_s;waken
+rannsaka_s;study,research,investigate
+rannsakandi_aa;searching,enquiring
+rannsókn_nv;study
+rannsóknaleiðangur_nk;research expedition
+rannsóknamaður_nk;researcher
+rannsóknarnefnd_nvs;Research committee
+rannsóknarstofa_nv;lab,reasearch lab
+rannsóknarverkefni_nh;reasearch project
+rass_nk;ass,butt,behind
+rassgat_nh;asshole,arsehole
+rata_s;navigate,know the way
+ratsjárstöð_nv;radar station
+raun_nv;reality,ordinance
+raunar_aa;actually
+raunverulega_aa;really,actually,essentially
+raunverulegur_l;real
+raunverð_nh;market price
+rauður_l;red
+raða_s;order,arrange
+refsa_s;punish,chastise,discipline,reprimand,correct
+refsing_nv;punishment
+refur_nk;fox,trickster,cheater
+regla_nv;rule
+reglubundinn_l;regular,periodic,recurrent,cyclic,cyclical
+reglugerð_nv;regulation,directive,order,rule
+reglulega_aa;regularly,periodically,very,really
+reglulegur_l;regular,steady,periodic
+regn_nh;rain
+reia_s;raise,build,erect,construct
+reik_nh;wander,stroll,amble,ramble
+reika_s;wander,stray,roam,drift,rove,stroll
+reikistjarna_nv;planet
+reikna_s;calculate,compute,assume,expect
+reikningur_nk;calculation,bill,check
+reipi_nh;rope,cord,line
+reisa_s;build
+reisn_nv;dignity,honor,character,grace,pride,virtue,erection
+reitur_nk;sqare,field,cell,place,area
+reiða_s;rely,count on,fare
+reiði_nv;anger
+reiðubúinn_l;ready,willing,game
+reiður_l;angry
+rek_nh;driftage,drift,age
+reka_s;fire,run,stick,carry out
+rekja_s;trace,track
+rekstur_nk;business
+renna_s;slip,glide,move
+rennisléttur_l;flat
+rennslisstefna_nv;flow direction
+repúblíkani_nk;Republican
+reykja_s;smoke
+reykjavíkurborg_nvs;Reykjavík city
+reykmökkur_nk;smoke
+reykur_nk;smoke,cigar,cigarette
+reyna_s;try
+reynd_nv;reality,praxis,actuality
+reyndar_aa;actually
+reynsla_nv;experience
+riddari_nk;knight,gentleman,horseman,paladin
+rifa_nv;tear,rip,slot
+rifja_s;recollect
+rigna_s;rain
+rigning_nv;rain
+ringlaður_l;confused
+risastjarna_nv;giant star
+risastór_l;gigantic,huge,enormous,gargantuan,large,great
+risavaxinn_l;huge,behemoth,giant,great,immense,colossal
+risi_nk;giant
+rit_nh;writings,work,publication,monograph,book
+rita_s;write
+ritari_nk;secretary,clerk,writer
+rithöfundur_nk;writer,author
+ritvél_nv;typewriter
+rjómi_nk;cream
+rjóður_l;reddish,red,blushing,sanguine
+rjóður_nh;clearing
+rjúfa_s;break,cut off,disassociate
+rjúka_s;rush,soar
+rjúkandi_l;boiling,broiling,roasting,sizzling,hot
+rokkur_nk;spinning wheel
+roskinn_l;elderly,aged,old,senior
+rota_s;stun,knock out
+rotta_nv;rat
+roðna_s;redden,blush,color,crimson,flush,glow
+ruddalegur_l;rude,discourteous,disrespectful,impolite,uncivil,unmannerly
+rugla_s;confuse,puzzle,obfuscate,baffle
+runni_nk;bush,shrub
+rusl_nh;rubbish,litter,garbage,trash
+ryk_nh;dust
+rykfallinn_l;dusty,timeworn,unswept
+rysking_nv;fight,scuffle
+ryðja_s;clear,stampede
+ráma_s;remember,recall,recollect,recognize
+rás_nv;track,pipe,channel,station
+ráð_nh;advice,plan
+ráða_s;hire,solve,govern,control
+ráðagerð_nv;plan,idea,project,scheme,strategy
+ráðamaður_nk;authority person
+ráðgáta_nv;mistery,enigma,problem,riddle,secret
+ráðherra_nk;secretary,minister
+ráðleggja_s;advise,recommend,counsel
+ráðning_nv;recruitment,solution,resolution,lesson
+ráðstefna_nv;conference
+ráðstöfun_nv;measure,arrangement,provision,act
+ráðuneyti_nh;ministry,department
+ráðvilltur_l;confused,perplexed,disoriented,addled,confounded,lost
+rækilega_aa;thoroughly,carefully,completely,exhaustively,totally,utterly
+rækja_nv;shrimp
+rækta_s;grow,cultivate,breed,nurture,foster
+ræktaður_l;grow
+ræna_s;steal,rob,hijack,kidnap
+ræningi_nk;thief
+ræsa_s;start,activate,boot,drain
+ræskja_s;hawk,hem
+ræta_s;root
+ræða_nv;speech,talk
+ræða_s;speech,talk
+ræðismannsembætti_nh;consulship
+ræðismaður_nk;consul
+rétt_aa;right,correct
+rétta_s;hand,pass,straighten
+réttarstaða_nv;legal status
+réttindi_nh;rights
+réttlæti_nh;justice
+réttur_l;right,correct
+réttur_nk;meal,dish,court
+rífa_s;tear,rip
+ríki_nh;state
+ríkisborgari_nk;citizen
+ríkislögregla_nv;state police
+ríkissjóður_nk;treasury,state treasury
+ríkissstjóri_nk;governor
+ríkisstjórn_nv;government
+ríkisstjórnarfundur_nk;government meeting
+ríkisvald_nh;government,state power
+ríkisútvarp_nh;national broadcasting company
+ríkisútvarp_nhs;National Broadcasting Company
+ríkja_s;rule,govern
+ríkjandi_l;dominant
+ríkur_l;rich,wealthy
+rísa_s;rise
+ríða_s;ride,screw,fuck
+ró_nv;tranquility,ease,calmness,nut
+róa_s;calm,tranquilize,reassure,quiet,row,dump
+rófa_nv;tail
+rólega_aa;slowly,slow,casually,gradually
+rólegur_l;calm,balanced,tranquil
+rómantískur_l;romantic,poetic,enchanting,charming
+rómur_nk;voice
+rós_nv;rose
+rósóttur_l;floral,flowery,decorative
+rót_nv;root,source,beginning
+róta_s;scrounge
+róteind_nv;proton
+róður_nk;row,paddle
+rödd_nv;voice
+rök_nh;argument
+rökkur_nh;dusk,twilight,gloom,darkness
+rölta_s;stroll,wander,ramble,amble
+rönd_nv;stripe,strip,border
+röngur_l;wrong
+röskur_l;energetic,kinetic,vigorous,hardworking,industrious
+röð_nv;row,series
+rúm_nh;space,bed
+rúma_s;hold,contain
+rúmgóður_l;spacious,roomy
+rúmlega_aa;in excess of
+rúmmetri_nk;cubic meter
+rúmur_l;roomy,large,big,in excess of
+rússi_nks;Russian
+rússland_nh;*Russia
+rússland_nhs;Russia
+rússneskur_l;Russian
+rúta_nv;bus
+rúða_nv;window,glass
+rúðubrot_nh;window breaking
+rýma_s;evacuate
+rýna_s;study,inspect
+safn_nh;collection,museum,gathering
+safna_s;collect,gather,build up
+saft_nv;juice
+saga_nv;story
+sagngeymd_nv;tale preservation,oral transmission
+saharur_nks;Sahara
+saka_s;accuse,hurt
+sakaða_s;*accused
+saklaus_l;innocent,clean,sinless,uncorrupted,guiltless
+sakleysi_nh;innocence
+sakna_s;miss
+saksóknari_nk;prosecutor,district attorney
+sala_nv;sale
+salmonellusýking_nv;salmonella infection
+salt_nh;salt
+saltur_l;salty,salt,saltish,saline,briny
+salur_nk;hall
+saman_aa;together
+samanbera_s;compare
+samanbora_s;*compare
+samanburður_nk;comparison
+samankoma_s;gather,crowd,parade,rally
+samankomnur_l;*gathered
+samanlagður_l;combined,aggregate,in all
+samanstanda_s;comprise,include,contain,involve
+samband_nh;contact,connection
+samband_nhs;Organization
+sambland_nh;mix,mixture,blend
+sambærilegur_l;comparable,similar
+sambúð_nv;partnership,coexistence,common-law marriage
+samdráttur_nk;shrinkage,recession
+sameiginlegur_l;joint,collective,united
+sameignarfélag_nh;partnership,unlimited partnership
+sameina_s;unite,combine,join
+sameinaður_l;united
+sameind_nv;molecule
+sameining_nv;union,unification,merger,coalition
+sameinuða_nvs;*United
+samfara_aþ;incident,along with
+samfelldur_l;continuous,uninterrupted,constant,nonstop
+samferða_l;accompanying
+samfélag_nh;community,society
+samgönguráðherra_nk;secretary,minister
+samgöngusviði_nh;transportation department
+samhengi_nh;context
+samkeppni_nv;competition
+samkomuhús_nh;meeting-house
+samkomuhúsi_nh;*meeting-house
+samkomulag_nh;agreement,deal
+samkvæmi_nh;party,dance,ball,function,gala,fiesta,gathering
+samkvæmt_aþ;according to
+samliggjandi_l;adjacent
+sammála_l;unanimous
+samningaborð_nh;negotiation table
+samningaviðræða_nv;negotiation
+samningur_nk;deal,agreement
+samræma_s;coordinate,correlate,harmonize,unify
+samræmi_nh;conformance,harmony,consistence
+samræða_nv;conversation,discussion
+samsetning_nv;combination,composition,unification,assembly,structure
+samsettur_l;segmental,compound,complex
+samsinna_s;agree
+samskipti_nh;communication
+samstarf_nh;cooperation,collaboration
+samstarfsaðili_nk;partner
+samstarfsmaður_nk;partner,colleague,mate,collaborator,associate
+samstaða_nv;solidarity,agreement
+samsteypustjórn_nv;coalition goverment
+samstundis_aa;instantly,pronto,immediately,at once
+samstæða_nv;set,pair,kit,system
+samsæta_nv;isotope
+samt_aa;still
+samtaki_nks;*Organization
+samtal_nh;conversation
+samtals_aa;altogether
+samtímis_aa;simultaneously
+samtök_nh;organization,union,association
+samtök_nhs;Association
+samur_f;same
+samvinna_nv;cooperation
+samviska_nv;conscience,virtue,heart,moral,psyche,grace
+samviskusamlega_aa;faithfully,conscientiously,scrupulously
+samvist_nv;stay together
+samúð_nv;sympathy,pity,empathy
+samþykki_nh;approval,consent,acceptance,OK
+samþykkja_s;agree,approve,authorise
+samþykkt_nv;agreement,resolution
+samþykktar_nv;agree,approve
+sandreyður_nv;sei whale
+sandur_nk;sand
+sanna_s;prove
+sannarlega_aa;surely,certainly
+sannfæra_s;convince
+sannfærður_l;convinced,sure,certain,confident,positive
+sanngjarn_l;reasonable,fair,equitable,inexpensive,affordable
+sannleiki_nk;truth,fact,veracity,reality
+sannleikur_nk;truth
+sannur_l;true
+santi_nks;Santa
+sauma_s;sew,stitch,embroider
+sautján_t;seventeen
+sauðfé_nh;sheep
+schengensvæði_nhs;Schengen area
+segja_s;say
+segl_nh;sail,canvas
+seilast_s;reach,grasp
+seinn_l;late
+seint_aa;late
+seint_aam;late
+sekta_s;fine
+sekur_l;guilty
+sekúnda_nv;second
+selja_s;sell
+sem_aa;as
+sem_c;that
+sem_ct;that,which,who
+semja_s;negotiate,write,compose
+senda_s;send
+sendifulltrúi_nk;delegate
+sendinefnd_nv;delegation
+sendiráð_nh;embassy
+senn_aa;soon
+sennilega_aa;probably
+senta_s;cent
+sentímetri_nk;centimeter
+september_nk;september
+sería_s;series
+set_nh;sediment,deposit,location,place
+setja_s;put,position,rank
+setlag_nh;bedding plane
+setlagahjalli_nk;xxx
+setning_nv;sentence,clause,opening
+settur_l;put,placed,passed
+sex_t;six
+sextán_t;sixteen
+sextíu_t;sixty
+sexæringur_nk;xxx
+seyðir_nk;ongoing,current,progress
+sig_f;oneself
+sigla_s;sail
+sigling_nv;cruise,sailing
+sigra_s;win
+sigur_nk;win,victory,triumph,conquest
+silja_s;*Silja
+silungur_nk;trout
+simbabve_nks;Zimbabwe
+sinadráttur_nk;cramp
+sinfóníuhljómsveit_nvs;symphony orchestra
+sinn_f;his,her,its,their
+sinn_nh;time,occasion
+sinna_s;attend,deal with
+sinnanntak_nh;*
+sitja_s;sit
+siðbótarmaður_nk;religious reformer
+siður_nk;tradition,religion
+sjaldan_aa;rarely
+sjaldgæfur_l;rare,uncommon,unusual,exceptional
+sjoppa_nv;shop,store
+sjá_s;see
+sjáanlegur_l;visible,perceivable,perceptible,seeable,observable
+sjálfbærur_l;self-sufficient,sustainable
+sjálfsafgreiðsla_nv;self-service
+sjálfsafgreiðslufélag_nh;self-service company
+sjálfsagt_aa;given,probably,sure
+sjálfsagður_l;self-evident,inevitable,sure
+sjálfsskoðun_nv;introspection,self-examination
+sjálfstraust_nh;self-confidence,assurance,cockiness,poise,aplomb
+sjálfstæði_nh;independence,autonomy,liberty,freedom
+sjálfstæðisflokkur_nks;Independence Party
+sjálfstæðismaður_nk;Independence Party supporter
+sjálfstæður_l;independent
+sjálfur_f;self
+sjávarafurð_nv;fish product,marine product
+sjávarborð_nh;sea level
+sjávarmál_nh;sea level
+sjávarstaða_nv;sea level
+sjávarsíða_nv;seaside,seashore,coast,beach
+sjávarútvegur_nk;fish industry
+sjóher_nk;navy
+sjómaður_nk;sailor,seaman,fisherman
+sjómíla_nv;nautical mile,sea mile
+sjón_nv;sight
+sjónarmið_nh;view,opinion
+sjónauki_nk;telescope,binocular,monocular
+sjóndeildarhringur_nk;horizon,skyline
+sjónvarp_nh;television,TV
+sjónvarp_nhs;TV
+sjónvarpsstöð_nv;network,TV station
+sjór_nk;sea,ocean
+sjóða_s;cook,boil,can,concoct,poach
+sjóður_nk;fund,cash,account,investment firm
+sjö_t;seven
+sjötti_l;sixth
+sjötugur_l;seventy,seventy years old
+sjötíu_t;seventy
+sjöundi_l;seventh
+sjúga_s;suck,sniff,sip,absorb
+sjúkdómur_nk;disease,illness,condition
+sjúklingur_nk;patient
+sjúkrahús_nh;hospital
+sjúkraliði_nk;paramedic,orderly
+sjúkur_l;sick,ill,diseased,unwell,suffering,morbid
+skakkur_l;askew,skew,distorted,wrong,incorrect,stoned
+skalli_nk;baldness,header,drunkenness
+skamma_s;scold
+skammstafa_s;abbreviate
+skammt_aa;short
+skammt_aae;shortest
+skammtur_nk;quantity,serving,portion,dose,quantum
+skammur_l;short,brief
+skap_nh;mood
+skapa_s;create,make
+skapaður_l;created,produced,made,constructed
+skarpur_l;clever,bright,sharp,intelligent,keen,smart,penetrative
+skarð_nh;gap,breach,pass,dimple,harelip
+skattalag_nh;tax law
+skattframtala_nv;income tax return
+skattframtali_nh;income tax return
+skattskyld_nv;taxable
+skattskyldur_l;taxable
+skattsstofn_nk;tax base
+skattsvik_nh;tax evasion
+skauti_nk;skate,ice skate
+skaðlegur_l;harmful,destructive,hazardous,toxic,damaging
+ske_s;happen,occur,take place
+skegg_nh;beard
+skeið_nh;time,era,while
+skelfilegur_l;terrible,horrific,awful,scary
+skelfing_nv;horror
+skeljunga_nv;*Skeljungur
+skella_s;slam
+skellihlæja_s;laugh,cachinnate,guffaw
+skemma_s;damage,spoil,sabotage
+skemmd_nv;damage,flaw,fracture,imperfection,caries
+skemmta_s;entertain
+skemmtilegur_l;fun,entertaining
+skemmtun_nv;fun,pleasure,entertainment,show
+skepna_nv;animal,creature,beast
+sker_nh;skerry,reef,scar
+skera_s;cut,section,carve,decide
+skerandi_l;piercing,penetrative,highpitched
+skerfur_nk;share,take,cut,part,contribution
+skermur_nk;shade,screen
+skerpa_s;sharpen,edge,focus,intensify,enhance
+skil_nh;division,boundary,distinction,front
+skila_s;return
+skilaboð_nh;message,communication,memo,note,moral,point
+skilgetinn_l;legitimate
+skilgreina_s;define,declare
+skilgreindur_l;defined
+skilgreining_nv;definition
+skilinn_l;understood,realized,divorced,parted
+skilja_s;understand,separate
+skiljanlegur_l;understandable,comprehensible,intelligible,clear,coherent
+skilnaður_nk;seperation,divorce
+skilningur_nk;understanding
+skilti_nh;sign,advertisement,billboard
+skilyrði_nh;condition,requirement
+skima_s;scan,examine,view,pan,screen
+skin_nh;shine,shimmer,luminousity,glow
+skinill_l;*shine
+skinn_nh;skin,peltry,hide,leather,coat
+skip_nh;ship
+skipa_s;order,command,nominate,occupy
+skipalest_nv;convoy
+skipan_nv;arrangement,order,design,layout
+skipasamganga_nv;ship transportation
+skipshöfn_nv;ship's company
+skipstjóri_nk;captain
+skipta_s;change,switch
+skipti_nh;exchange
+skipting_nv;division,parting,split
+skiptur_l;divided
+skipulag_nh;plan,organization,method,design,format,system
+skipulagsbreyting_nv;method change
+skipuleggja_s;organize
+skipuleggjendur_nk;*organizer
+skipun_nv;command,order,nomination,instruction
+skjal_nh;document,file
+skjalfærð_nv;*documented
+skjannahvítur_l;white,snowy,snow white
+skjálfa_s;shake
+skjálfandi_l;shaking,quivering,shivering,trembling,vibrating
+skjálfti_nk;shake,tremble,tremor,quake,earthquake,vibration
+skjár_nk;screen,monitor
+skjátla_s;mistake
+skjól_nh;shelter,cover,haven
+skjóta_s;fire,shoot
+skjótt_aa;promptly,readily,sppedily,quick
+skjótur_l;swift,sudden,quick,prompt,hasty
+skjóða_nv;pouch,bag
+sko_aa;look,sure
+skola_s;wash,rinse,clean,bathe
+skolla_s;*slam,smash
+skora_s;score,notch,challenge,implore
+skordýr_nh;insect
+skorinn_l;cut,sliced,carved
+skorta_s;lack
+skortur_nk;shortage
+skorða_nv;anchor,fix,secure,strap,tighten,fasten
+skot_nh;shot,corner,crush,shaft
+skotinn_l;shot,having a crush
+skott_nh;tail,end,rear,coda,trunk
+skoða_s;observe,see,look at,study
+skoðanakönnun_nv;poll,opinion poll
+skoðun_nv;opinion,view,belief,check-up
+skref_nh;step
+skreppa_s;go,pop,shrink
+skreyta_s;decorate,beautify,color,furnish,garnish,prettify
+skreyttur_l;decorated,garnished
+skrif_nh;writing
+skrifa_s;write
+skrifborð_nh;desk
+skrifstofa_nv;office
+skrifstofuhúsnæði_nh;office housing
+skrifstofumaður_nk;office worker,clerk
+skrifuður_l;*written
+skringilegur_l;weird,bizarre,antic,peculiar,eccentric,strange
+skriðjökull_nk;icefall,glacier
+skriðuhlaup_nh;landslip
+skrá_nv;file,record,register,index,directory,document
+skrá_s;register,record,list,log,write
+skráning_nv;registration,enrollment
+skrækja_s;squawk,screech,shriek,squeal,scream,whine,cry
+skrækur_nk;shriek,screak,screech,shrill
+skrítinn_l;strange,weird,unusual,funny,odd,peculiar
+skrítla_nv;joke,gag,jest,wisecrack
+skríða_s;crawl
+skrúfa_nv;screw,turn
+skrúðganga_nv;parade,procession
+skrýtinn_l;strange,weird
+skuggi_nk;shadow
+skuld_nv;debt
+skuldsettur_l;in debt
+skulu_s;will,shall
+skurður_nk;trench,cut,incision
+skuttogari_nk;trawler
+skylda_nv;responsibility
+skyldur_l;related,akin
+skyn_nh;sense,purpose,imply,sentient
+skyndi_nh;quick way,quickly
+skyndilega_aa;suddenly
+skyndilegur_l;sudden,hasty,fast,instant,rapid,abrupt
+skynja_s;sense
+skynjun_nv;perception,awareness,sensation,feeling
+skynsamlegur_l;sensible,wise,sound,sane,reasonable,intelligent
+skyraskur_nk;skyr ash
+skyrta_nv;shirt
+skák_nv;chess
+skál_nv;bowl,basin,toast
+skála_s;toast
+skáld_nh;scald,poet,writer
+skáldsaga_nv;novel
+skáldskapur_nk;fiction,fable,story,storytelling,poetry,falsehood
+skáli_nk;lodge,pavilion,hut,house
+skápur_nk;closet
+skárri_l;better,improved,enhanced,recovering
+skær_l;bright,lucid,vivid,luminous
+skífa_nvs;Skifan
+skína_s;shine
+skíra_s;baptize,purify,clarify,christen
+skítugur_l;dirty,filthy
+skítur_nk;dirt,filth,shit,stool
+skógareldur_nk;forest fire
+skógarnorn_nv;forest witch
+skógur_nk;forest
+skólabróðir_nk;schoolmate
+skólahald_nh;schooling
+skólameistari_nk;headmaster,principal,dean
+skólastjóri_nk;principal,headmaster,schoolmaster
+skólataska_nv;schoolbag,satchel,bag
+skóli_nk;school
+skór_nk;shoe
+skömm_nv;shame,infamy,disgrace
+skörungur_nk;energetic,fire iron
+skúffa_nv;drawer
+skúr_nk;shed,garage,hut,shower
+skúta_nv;yacht,vessel
+ský_nh;cloud
+skýr_l;clear,bright,crisp
+skýra_s;explain,describe,account for
+skýring_nv;explanation
+skýrsla_nv;report
+skýrsluhöfundur_nk;report author
+skýrt_aa;plainly,clearly,crisply
+sl_nh;*last
+slag_nh;stroke,beat,exact time
+slaka_s;relax,unwind,slacken,loose
+slakur_l;poor,bad,slack
+sleggja_nv;sledge,hammer,sledgehammer
+sleikja_s;lick
+sleppa_s;release,skip,set free
+slitinn_l;worn,broken
+slitlagslagning_nv;paving
+slitna_s;rupture,divide,split,tear,wear
+slokkna_s;go out,blow out
+sloppur_nk;wrapper,gown
+slys_nh;accident
+slysadeild_nv;emergency room
+slysni_nv;accident,mishap
+slá_s;strike,hit,mow
+sláttur_nk;pulsation,flap,beat,mowing
+slæmur_l;bad
+slétta_nv;plane,prairie,plain,flatland
+slétta_s;level,flatten,plane,straighten,smooth
+sléttur_l;flat,even,horizontal
+slíkur_f;such
+slíta_s;rip,rupture,break up,end
+slóð_nv;path,trail,address,URL
+slóðir_nv;area
+slökkva_s;turn off,put out,extinguish
+slökkviliðsmaður_nk;fireman,firefighter
+slökkviliðsnámskeið_nh;firefighting course
+slökkviliðsstjóri_nk;fire department chief
+slökkvistarf_nh;fire fighting
+smali_nk;shepard,assembler
+smeygja_s;tuck,insinuate
+smit_nh;infection,contagion
+smita_s;infect,transmit
+smitandi_l;contagioius,infectious
+smjúga_s;slip
+smyrja_s;spread,oil,grease,smear
+smyrsli_nh;lotion,cream,balm,oil,moisturizer
+smá_l;little,some
+smáatriði_nh;detail
+smáhýsa_s;hut
+smáhýsi_nh;hut
+smám_aa;little
+smámunir_nk;triviality,peanuts
+smán_nv;shame,insult,disgrace,dishonor,degradation,embarrasment
+smár_l;small
+smásaga_nv;short story
+smástund_nv;moment,minute
+smátt_aa;small,little
+smáþjóð_nv;small nation
+smíða_s;build,make,construct
+smíði_nv;construction,structure,building,making,woodshop
+snara_s;snare,lasso,ensnare,translate
+snatur_nh;hurry
+snemma_aa;early,soon
+snemma_ae;early
+snerta_s;touch,involve
+snerting_nv;touch,contact
+snilld_nv;brilliance
+snið_nh;format,cut,pattern,design
+sniðugur_l;clever
+snjall_l;clever,smart
+snjóa_s;snow
+snjór_nk;snow
+snortinn_l;touched
+snyrtilegur_l;tidy,neat,clean,well-groomed
+snælda_nv;spindle,cassette
+snæri_nh;rope,cord,string,leash,line,tow
+snæða_s;eat,feed,feast,dine,consume
+snérist_nv;*turn,change
+snögglega_aa;rapidly,fast,swiftly
+snöggt_aa;quickly,swiftly
+snöggt_aae;sudden
+snöggur_l;fast,swift
+snúa_s;turn
+snúra_nv;line,cord,band,string,rope,wire,fiber
+sofa_s;sleep
+sofandi_l;sleeping,dormant,asleep
+sofna_s;fall asleep
+sokkur_nk;sock
+soldið_aa;little,lil
+sonur_nk;son
+sorg_nv;sorrow,sadness
+sorgmæddur_l;sad,sorrowful,blue,unhappy,down,mournful,sorry
+sorti_nk;blackness,darkness
+sosum_aa;kind of
+spara_s;save
+spariföt_nh;best clothes
+sparisjóð_nks;*Savings Bank
+sparisjóður_nk;savings bank
+sparisjóður_nvs;*Savings Bank
+sparka_s;kick,dump,fire
+spegill_nk;mirror
+spegilsléttur_l;glassy
+spenna_nv;excitement,tension,stress,voltage,hairpin
+spenna_s;tighten,tense,fasten,flex,pull
+spennandi_l;exciting
+spenntur_l;excited,tense,uptight
+spil_nh;game,card,playing card
+spila_s;play
+spilla_s;spoil,ruin,damage
+spinna_s;spin,improvise,fake,extemporize,invent
+spjald_nh;panel,chart,poster,card
+spjall_nh;chat,babble,chitchat,small talk,conversation,talk
+spjalla_s;chat,talk,converse
+spor_nh;track,choreography
+sporður_nk;tail
+sprenging_nv;explosion,detonation,blast,bombing
+sprengistjarna_nv;supernova
+sprengja_s;explode,blast,blow,destruct
+spretta_s;spring,grow
+sprettur_nk;run,length,scamper,sprint,scurry
+springa_s;blow
+sprunga_nv;gap,rift,fracture
+spurn_nv;question
+spurning_nv;question
+spyrja_s;ask
+spá_nv;prediction
+spá_s;predict,foresee,expect
+spákaupmaður_nk;speculator
+spákona_nv;sibyl,prophetess,foreteller,seeress
+spáða_s;*predict
+spölur_nk;stretch,short distance,length
+spýta_nv;stick,piece of wood
+spýta_s;spit,squirt,spout,ejaculate
+staddur_l;positioned,situated
+stafa_s;spell,result
+stafli_nk;stack,pile,heap
+stafn_nk;occupation,job,assignment,task,fore,bow
+stafræna_nv;*digital
+stafrænn_l;digital
+stafrænur_l;digital
+stafsetning_nv;spelling,orthography
+stafur_nk;character,letter,staff
+stakur_l;single,sole,lone,discrete
+staldra_s;wait,pause,stay
+stama_s;stutter
+stampur_nk;tub,barrel
+stand_nh;state,status,situation
+standa_s;stand,last
+stanga_s;poke
+stansa_s;stop
+stappa_s;stomp,stamp
+stara_s;stare,gaze
+starf_nh;job
+starfa_s;work,operate
+starfsemi_nv;activity,operation,business
+starfsfólk_nh;employee
+starfsheiti_nh;profession name
+starfshættir_nk;procedure,approach,method,protocol,technique
+starfsmaður_nk;employee
+starfsumhverfi_nh;work environment
+staulast_s;scuffle,shamble,falter,lurch,teeter,walk
+staða_nv;state,position
+staðbundinn_l;local,localized,limited,confined,regional
+staðfesta_s;confirm
+staðnæmast_s;stop,halt,standstill
+staðreynd_nv;fact
+staðreyndavilla_nv;factual error
+staðráðinn_l;determined,decided,firm,intent,persistent,set,stubborn,resolute
+staðsetning_nv;position,location
+staðsetningarbúnaður_nk;positioning device
+staður_nk;place
+stefna_nv;direction,policy
+stefna_s;head,bound,subpoena
+stefni_nh;bow,prow
+stefnumót_nh;date,rendezvous,appointment
+stefnuskrá_nv;policy,platform
+steiktur_l;fried,roast,done
+steinbítur_nk;catfish
+steinn_nk;stone
+steinsalur_nk;stone hall
+stekkur_nk;paddock
+stela_s;steal,rob,nick
+stelpa_nv;girl
+stemma_s;stem
+stemmning_nv;mood,ambiance,atmosphere
+stena_s;*hold
+sterkur_l;strong
+sterlingspund_nh;sterling,pound sterling
+steve_nh;*Steve
+steypa_s;cement,cast,gibber
+steypireyður_nv;blue whale
+steðja_s;come,move
+stig_nh;stage,level,degree,point
+stigapallur_nk;xxx
+stigi_nk;stair
+stikla_s;recap,step
+stilla_s;set,configure,calm
+stilltur_l;quiet,well-behaved,tranquil,adjusted
+stimpilgjald_nh;stamp duty
+stinga_s;stick,sting,insert,pierce,dive
+stirður_l;stiff,rigid,wooden,inflexible
+stjarfur_l;numb,benumbed,unresponsive,petrified
+stjarna_nv;star
+stjarneðlisfræðingur_nk;astrophysicist
+stjá_nh;movement,activity,work
+stjórn_nv;control,board
+stjórna_s;control,govern
+stjórnandi_nk;administrator,conductor,operator,leader,host
+stjórnarandstaða_nv;opposition
+stjórnarformaður_nk;chairman
+stjórnarráð_nhs;Cabinet
+stjórnarslit_nh;government dissolution
+stjórnmál_nh;politics
+stjórnmálaflokkur_nk;party,political party
+stjórnmálafræði_nh;polictical science
+stjórnmálamaÃ°ur_nk;*politician
+stjórnmálamaður_nk;politician
+stjórnmálavettvangur_nk;political scene
+stjórnvald_nh;authority
+stjörnufræðingur_nk;astronomer
+stjörnukjarni_nk;xxx
+stjörnusprenging_nv;supernova
+stofa_nv;living room,classroom
+stofn_nk;foundation,stem,stock
+stofna_s;found,establish,create,start
+stofnandi_nk;founder
+stofnfjáreigandi_nk;inital capitalization owner
+stofnfjáreigendur_nk;*initial capitalization owner
+stofnfundur_nk;foundation meeting
+stofnsamningur_nk;Articles of Incorporation
+stofnstærð_nv;stock size
+stofnun_nv;institution,foundation,agency
+stofugluggi_nk;living room window
+stofugólf_nh;living room floor
+stolt_nh;pride
+stoltur_l;proud,prideful,self-respecting
+stoppa_s;stop,stay,discontinue,halt,quit,darn
+stormur_nk;storm,tempest
+stoð_nv;support
+stranda_s;strand
+strandblak_nh;beach volleyball
+strandbolti_nk;beach ball
+strangur_l;strict,stringent,firm
+straumur_nk;flow,stream
+strax_aa;immediately
+strengur_nk;string,cord,cable
+streyma_s;flow,stream
+strik_nh;line,dash,success,obstruction
+strika_s;wipe,delete,erase,strike
+strjúka_s;escape,desert,run away
+strunsa_s;swagger,flounce,swash,peacock,walk
+strá_nh;straw
+strákur_nk;boy
+stræti_nh;street,avenue,boulevard,drive,road,way
+strætó_nk;bus
+stríð_nh;war
+stríða_s;tease,twit,bully,challenge,tantalize
+stríðnislega_aa;teasingly
+stríðsglæpadómstóli_nks;*war crime court
+stríðsglæpadómstóll_nk;war crime court
+stríðsglæpadómstólur_nk;*war crime court
+stríðsglæpur_nk;war crime
+stríðsár_nh;war year
+stríður_l;xxx
+strönd_nv;coast,beach
+ströngur_l;*strict
+stund_nv;moment,hour
+stunda_s;practice,pursue
+stundarkorn_nh;moment,while
+stundum_aa;sometimes
+stuningur_nk;*support
+sturta_nv;shower,bath
+stutt_aa;short
+stuttur_l;short
+stuðla_s;encourage,promote,alliterate
+stuðningsmaður_nk;supporter
+stuðningur_nk;support
+stynja_s;sigh,moan
+styrjöld_nv;war,conflict,struggle,jihad
+styrka_s;*strengthen
+styrkja_s;strengthen
+styrkur_nk;strenght
+stytta_nv;statue
+stytta_s;shorten
+styðja_s;support
+stækka_s;grow
+stæll_nk;style,fashion,trend
+stærð_nv;size
+stærðfræði_nv;mathematics,math
+stétt_nv;class,profession,sidewalk
+stéttarfélag_nh;trade union
+stíga_s;step
+stígur_nk;path
+stílabók_nv;bluebook,notebook
+stíll_nk;style,essay,suppository
+stóll_nk;chair
+stór_l;big,large,great
+stórauka_s;greatly increase
+stórauðugur_l;very wealthy,very rich
+stórborg_nv;metropolis,big city
+stórbrotinn_l;spectacular,magnificent,great,grand,striking,breathtaking
+stórfelldur_l;major
+stóriðja_nv;large scale industry
+stórkaupmaður_nk;merchant,wholesaler
+stórkostlegur_l;fantastic,great,superb,marvellous
+stökk_nh;jump,leap,spring,rise,increase
+stökkva_s;jump
+stöku_l;some,few
+stöng_nv;pole,bar,stick,shaft,mast
+stöð_nv;station,network,facility
+stöðugleiki_nk;stability
+stöðugt_aa;steadily
+stöðugur_l;stable,constant
+stöðva_s;stop
+stöðvar_nks;Channel
+stöðvun_nv;stop,stoppage,stopping,discontinuance
+stöðvunarmerki_nh;stop sign
+stúdent_nk;student,pupil
+stúdentamót_nh;student meeting
+stúdentspróf_nh;A level degree
+stúlka_nv;girl
+stýra_s;control,manage,steer,pilot
+stýri_nh;steering wheel
+stýri_nk;steersman
+stýrivaxtastigi_nh;policy interest rate
+sumar_nh;summer
+sumarbeit_nv;summer pasturage
+sumarfrí_nh;holiday,vacation
+sumur_f;some
+sund_nh;alley,swim,strait,channel
+sundlaug_nv;pool,swimming pool
+sundlaugarball_nh;swimming pool dance
+sundur_aa;apart
+sundurliða_s;break down
+sunnan_aa;south,southwardly
+sunnan_ae;south of
+sunnudagur_nk;Sunday
+suðaustan_aa;southeastern
+suðumark_nh;boiling point
+suður-afríka_nvs;South-Africa
+suður-súdan_nxs;South Sudan
+suður_aa;south
+suður_nh;south
+suðurhluti_nk;southern part
+suðurnesjar_nvs;Suðurnes
+suðvestur_nh;soutwest
+suðvesturhluti_nk;southwest part
+svalir_nv;balcony
+svalur_l;cool
+svamla_s;swim
+svangur_l;hungry
+svar_nh;reply,answer
+svara_s;reply,answer
+svartfugli_nks;*Svartfugl
+svartklæddur_l;black dressed
+svartlið_nh;black-uniformed team
+svartur_l;black
+svefn_nk;sleep
+svefnherbergi_nh;bedroom
+svefnleysi_nh;insomnia,sleeplessness,wakefulness
+svefntruflun_nv;sleep disorder
+svei_au;damn,tut,pooh
+sveifla_nv;swing,whisk,oscillation,up-and-down
+sveifla_s;swing
+sveigja_s;swerve,diffract,bend,jog
+sveinn_nk;boy,lad
+sveit_nv;countryside
+sveitaballatónlist_nv;countryside dance music
+sveitarfélag_nh;parish,municipality
+sveitungi_nk;compatriot,neighbor,partner,follower
+sverja_s;swear,vow
+sverð_nh;sword
+svigrúm_nh;space,scope,room,distance,time
+svipa_s;resemble,be similar
+svipaður_l;similar,like,akin
+svipbrigði_nh;expression,facial expression,look
+svipta_s;deprive,strip,denude,divest
+svipur_nk;look,expression,similarity,resemblance
+sviti_nk;sweat,lather,perspiration
+svitna_s;sweat,perspire
+svið_nh;stage,field
+sviðstjóri_nk;department chief
+svo_aa;so,then
+svokallaður_l;so called
+svoleiðis_aa;like that
+svoleiðis_l;like that
+svolítill_l;small,little,some
+svolítið_aa;some,little
+svona_aa;like that
+svona_l;so,like that
+svonefndur_l;so called
+svosem_aa;really,actually
+svunta_nv;apron,stub,cover
+svæði_nh;area
+svífa_s;hover,sail
+svíkja_s;betray,deceive,rat,cheat
+svíða_s;scourge,sear,singe
+svíþjóð_nvs;Sweden
+syfjaður_l;sleepy,drowsy,tired
+syfjulegur_l;sleepy,drowsy,slumberous,tired
+sykur_nk;sugar,glucose,sweetener
+synd_nv;sin,pity,shame
+synda_s;swim
+syngja_s;sing
+systir_nv;sister
+systkini_nh;sibling,brother and sister
+sá_f;he,she,it,that,the
+sá_s;saw.sow
+sál_nv;soul
+sálarlíf_nh;psyche,inner life
+sálfræði_nv;psychology
+sálmur_nk;psalm,hymn
+sár_l;hurt,injured
+sár_nh;wound
+sárna_s;smart,suffer,regret
+sársauki_nk;pain
+sárt_aa;painfully,very
+sáttasemjar_nk;*mediator,peacemaker
+sækja_s;get,fetch
+sæll_l;happy
+sæmilega_aa;fairly,reasonably
+sæmilegur_l;reasonable,passable,decent
+sæng_nv;duvet
+sænskur_l;Swedish
+særa_s;injure,hurt,wound,offend
+særður_l;injured,wounded,hurt
+sæti_nh;seat,place
+sætta_s;reconcile,mediate
+sætur_l;sweet,cute
+séra_nk;reverend
+sérfræðingur_nk;specialist,professional,expert
+sérhver_f;every,each
+sérkennilegur_l;strange,unusual
+sérlega_aa;particularly
+sérstaklega_aa;particularly,specially,unusually
+sérstakur_l;special
+sérstaða_nv;uniqueness,unique position
+sérstæður_l;unique,special
+sérákvæði_nh;special clause
+séríslenskur_l;unique Icelandic
+sífella_nv;continuity,persistence,continuum
+sífelldur_l;constant,nonstop,enduring,unceasing,unrelenting,eternal
+sífellt_aa;constantly,always
+síga_s;sink
+sígaretta_nv;cigarette
+síld_nv;herring
+síldveiði_nv;herring fishing
+síma_s;phone,telephone
+símafyrirtæki_nh;phone company
+símamarkaður_nk;telephone market
+símanúmer_nh;phone number
+sími_nk;telephone
+símtal_nh;call,ring,buzz,telephone call
+símtæki_nh;phone,telephone
+símtól_nh;receiver,handset
+síra_nk;sire
+síða_nv;page,site,side,flank
+síðan_aa;since
+síðan_c;then
+síðar_aae;latest
+síðar_aam;later
+síðari_l;later
+síðarnefndur_l;latter
+síðastliðinn_l;last
+síðastliðnur_l;last
+síðdegi_nh;afternoon
+síðjökultími_nk;xxx
+síðla_ae;late,late in
+síður_aae;rather not
+síður_aam;rather not,less
+síður_l;long,rather not
+sófi_nk;couch,sofa
+sókn_nv;advance,offensive,retrieval,fetch
+sól_nv;sun
+sólargeisli_nk;sunbeam,sunray
+sólarhringur_nk;24 hours,calendar day,round the clock
+sólarljós_nh;sunlight
+sólkerfi_nh;solar system,planetary system
+sólskin_nh;sunshine
+sómi_nk;honor,dignity,prestige,reputation,excellence
+sópa_s;sweep,whisk,clean
+sósíalistaflokkur_nks;Socialist Party
+sósíalisti_nk;socialist
+sósíalíski_nks;Social
+sóttvarnarsvið_nh;antisepsis department
+sögn_nv;tale,account,verb
+söguganga_nv;history walk
+sögulegur_l;historic
+sök_nv;guilt,fault,cause
+sökkva_s;sink,dive
+söknuður_nk;regret,sorrow,mourning,grief
+sökudólgur_nk;culprit
+sökum_ae;because,owing,due to
+söluhæstur_l;bestselling
+sömuleiðis_aa;likewise
+söngur_nk;singing,song,vocals,chorus
+sönnun_nv;proof,verification,evidence
+súdan_nks;Sudan
+súdans_nks;*Sudan
+súdi_nks;*Sudan
+súmeri_nks;*Sumerian
+súpa_nv;soup
+súpa_s;soup
+súrefni_nh;oxygen
+súrefnissamsæta_nv;xxx
+sýn_nv;vision,view
+sýna_s;show,prove
+sýni_nh;specimen,sample
+sýnilegur_l;visible
+sýning_nv;show,piece
+sýsla_nv;county
+sýslumaður_nk;sheriff
+sþ_nks;UN
+tafla_nv;table,pill,board,whiteboard
+tag_nh;kind
+tagl_nh;tail,ponytail,horsetail
+tak_nh;hold,grip
+taka_s;take,work,manage
+takk_au;thanks,please
+takmark_nh;ojbective,goal,purpose,target,aim,mission
+takmarka_s;limit,restrict,constrict,confine
+takmarkaður_l;limited
+takmörkun_nv;constraint,restriction,limitation,control
+taktur_nk;rhythm,metre,beat,bar,tempo
+tal_nh;talk,conversation,discussion
+tala_nv;number
+tala_s;talk
+talin_nv;*consider,count
+talja_s;*think,believe
+talning_nv;count
+talsmaður_nk;spokesman,advocate
+talsvert_aa;considerable,quite,much
+talsverður_l;considerable
+tannlæknir_nk;dentist
+tansanía_nvs;Tanzania
+tapa_s;lose
+tapi_nh;loss
+tappi_nk;cork,choke,stopper,plug
+taska_nv;bag
+tau_nh;linen,cloth,garmament
+taug_nv;nerve,string,rope,bond
+taugafruma_nv;neuron,nerve cell
+taugakerfi_nh;nervous system
+taugaveiklaður_l;nervous,anxious,tense,uptight
+taugaveiklun_nv;nervousness,anxiety,angst,distress
+taumur_nk;leash,rain
+tauta_s;mutter
+te_nh;tea
+tefia_s;delay,retard,hinder,set back
+tefla_s;field,pit,put,play chess
+tegund_nv;type,kind,species
+teikna_s;draw,design
+teiknari_nk;drawer,plotter
+teikning_nv;drawing,blueprint,plan
+tekja_nv;income
+tekjuskattur_nk;income tax
+tekjustofn_nk;source of income
+tekjuári_nh;income year
+telja_s;believe,consider,count
+telpa_nv;girl
+temja_s;tame,domesticize,break,bust,master
+tengdasonur_nk;son-in-law
+tengdur_l;connected,related
+tengi_nh;connection,interface,plug
+tengill_nk;link,contact
+tengingarnur_l;*connection
+tengivagn_nk;trailer
+tengja_s;relate,connect
+tengsl_nh;connection,relation
+teppi_nh;blanket,cover,coat,sheet,wrap
+texti_nk;text
+teygja_s;stretch
+teyma_s;convey,lead,steer,pull
+tf-syn_nvs;*TF-SYN
+tign_nv;rank,majesty,standing,status,prestige
+til_aa;to
+til_ae;to,for,intended for
+tilað_cn;to
+tilbúinn_l;ready
+tilefni_nh;occasion,motive,cause
+tilfell_nh;*occurance
+tilfelli_nh;occurence
+tilfinning_nv;feeling
+tilgangur_nk;purpose
+tilgáta_nv;hypothesis,idea,guess,speculation
+tilheyra_s;belong
+tilhneiging_nv;tendency,trend,leaning,inclination,bias
+tilhugsun_nv;thought,prospect
+tilkoma_nv;emergence,coming,appearance
+tilkomumikill_l;impressive,spectacular,great
+tilkynna_s;announce
+tilkynning_nv;announcement
+tillaga_nv;proposition,recommendation
+tillit_nh;regard,sense,consideration
+tilnefna_s;nominate,designate,assign
+tilraun_nv;attempt,experiment
+tilraunaverkefni_nh;experimental project,pilot project
+tilskipun_nv;mandate,executive order
+tiltekinn_l;specific
+tiltækur_l;available,ready,acquireable,obtainable,gettable
+tiltölulega_aa;relatively,fairly
+tilvera_nv;existence
+tilvik_nh;incident,case,occurance,instance
+tilviljun_nv;coincidence,chance
+tilvitnun_nv;citation,reference,quote,quotation
+timbur_nh;timber,lumber
+timburhús_nh;wooden house
+tipla_s;tip
+titra_s;vibrate,quiver,pulsate
+titrandi_l;vibratory,tremulous,undulant,trembly
+titringur_nk;vibration,tremor,quiver,uneasiness,nervousness
+tjald_nh;tent,screen
+tjalda_s;camp
+tjaldstæði_nh;camping place
+tjaldstæður_l;*camping place
+tjara_nv;tar
+tjá_s;express,inform
+tjörn_nv;pond
+tjörutankur_nk;tar tank
+tog_nh;tow,pull,tug,haul
+toga_s;pull
+togaraútgerð_nv;trawler fishery
+togari_nk;trawler
+togi_nk;*kind
+tonn_nh;ton
+toppur_nk;top,summit,peak,tuft
+torg_nh;square
+trappa_nv;step,stair
+traust_nh;trust,confidence,credence,reliance
+traustur_l;trustworthy,reliable,stable,secure
+trefjaplast_nh;fibre plastic
+treglegur_l;reluctant,difficult
+tregur_l;reluctant,loath,uneager,unwilling,dumb,stupid,slow
+trekkja_s;attract
+treysta_s;trust,rely on
+troða_s;squeeze,cram,jam
+trufla_s;interrupt
+truflun_nv;interruption,disturbance,distraction
+trygga_s;*secure,ensure
+trygging_nv;insurance,assurance,coverage,warranty,protection
+tryggja_s;ensure,secure,insure
+trylltur_l;wild,furious,frantic,fierce
+tré_nh;tree
+trésmiðja_nv;carpenter shop
+trú_nv;religion
+trúa_s;believe
+trúarathöfn_nv;religious ceremony
+trúaður_l;religious
+trúlega_aa;probably,likely,apparent,presumably
+trúlegur_l;plausible,believable,credible,logical,reasonable
+trúr_l;loyal,faithful,devoted
+trýni_nh;snout,beak,nose,proboscis,spout
+tugur_nk;ten,decade
+tuldra_s;mutter,murmur,mumble
+tundurduflabelti_nh;naval minefield
+tunga_nv;tongue,language
+tungl_nh;moon
+tungumál_nh;language,tongue,lingo,speech
+tungutækni_nv;language technology,natural language processing,NLP
+tunna_nv;barrel
+turn_nk;tower
+tuska_nv;rag
+tuttugasti_l;twentieth
+tuttugu_t;twenty
+tveir_t;two
+tvennur_l;two
+tvisvar_aa;twice
+tvíburi_nk;twin
+tvíhliða_l;two-way,two-sided
+tvímælalaust_aa;definitely,undoubtedly,clearly,decidedly,exactly
+tvístíga_s;vacillate,fluctuate,alternate
+tvítugur_l;twenty,twenty years old
+tvívetni_nh;xxx
+tvívetnisgildi_nh;?
+tvívetniskort_nh;xxx
+tvívetnismagn_nh;***
+tvívetnismæling_nv;xxx
+tvöfaldur_l;double,twofold,binary,dual,duplicate
+tvöfalt_aa;double
+tyggja_s;chew,masticate,crunch,bite
+tylla_s;tack,sit
+tynglingur_nk;satellite
+tá_nv;toe
+tákn_nh;sign,symbol
+tákna_s;mean,symbolize,signify,represent
+táknróf_nh;code
+tálknafjarðarkirkja_nvs;Táknafjörður church
+tálknafjör_nks;*Tálknafjörður
+tár_nh;tear
+tæki_nh;tool,machine
+tækifæri_nh;opportunity,chance
+tækni_nv;technology
+tæknilegur_l;technical,technological,scientific,complex
+tæknimaður_nk;technician
+tækninýjung_nv;innovation,invention,novelty,technical innovation
+tæma_s;empty,vacate,evacuate
+tæplega_aa;scarcely,barely
+tæpt_aae;tightest
+tæpur_l;little less than
+tær_l;pure,clear,plain,perfect,unmixed,pristine
+tékkland_nhs;Czech Republic
+tékkneskur_l;Czech
+tékkur_nks;*Czech
+tík_nv;bitch
+tíma_s;be willing to
+tímabil_nh;period
+tímabundinn_l;temporary,provisional,transient
+tímabær_l;timely
+tímapunktur_nk;moment
+tímarit_nh;magazine,journal
+tímasetning_nv;timing
+tími_nk;time
+tína_s;pick,gather
+tíu_t;ten
+tíunda_s;tenth
+tíundi_l;tenth
+tíð_nv;time,age,period
+tíðindi_nh;news,tidings
+tíðka_s;be usual,be customary,be fashionable
+tíðni_nv;frequency
+tíður_l;frequent,common
+tól_nh;tool,handset
+tólf_t;twelve
+tóm_nh;void,vacuum,vacancy,hollow,gap,hole,space
+tómati_nk;tomato
+tómatur_nk;tomato
+tómur_l;empty
+tónleikar_nk;performance,concert,show,gig
+tónleikur_nk;*concert
+tónlist_nv;music
+tónlistarlíf_nh;music scene
+tónlistarskóli_nks;conservatoire,music school
+tónn_nk;tone,sound,note,key
+tónskáld_nh;composer
+tölfræðilegur_l;statistical
+töluli_nh;numbered item
+tölulið_nv;number,numbered item
+töluliður_nk;number,numbered item
+töluvert_aa;considerably
+töluverður_l;considarable,substantial
+tölva_nv;computer
+tölvumálvísinda_nh;*computational linguistics
+tölvumálvísindi_nh;computational linguistics
+tölvunotandi_nk;computer user
+tölvutækni_nv;computer technology
+tönn_nv;tooth
+túlka_s;interpret,translate,read,decipher
+túlkun_nv;interpretation,understanding,explanation,reading,analysis
+tún_nh;field
+túnfiskur_nk;tuna
+týna_s;lose
+týndur_l;lost,missing
+ufsi_nk;coalfish
+uggur_nk;worry,fear
+uggur_nvs;fear,worry
+ull_nv;wool,tweed
+um_aa;about
+um_ao;about,during
+umbrot_nh;turmoil,upthrow,layout
+umburðarlyndi_nh;tolerance,forbearance
+umbót_nv;reform,amendment
+umdæmi_nh;precinct,area,domain,sector,territory,jurisdiction,district
+umfang_nh;scope,extent,domain,range,reach,span
+umfangsmikill_l;massive,comprehensive,immense,extensive
+umferð_nv;traffic
+umferðardeild_nxs;traffic department
+umferðareftirliti_nh;traffic control
+umfjöllun_nv;coverage,discussion
+umfram_ao;in addition to
+umgangast_s;associate with,mingle with
+umgengni_nv;conduct,orderliness
+umgengnisréttur_nk;right to meet
+umheimur_nk;external world
+umhugsun_nv;thought,contemplation
+umhverfi_nh;environment
+umhverfis_ao;around
+umhverfislíf_nh;*
+umhyggja_nv;concern,care
+umkringdur_l;surrounded
+umla_s;mumble,murmur,whisper,grumble
+umlykja_s;surround,encircle,enclose,circle
+ummerki_nh;evidence,sign,trace
+ummæli_nh;comment,statement,quote,saying
+umræddur_l;mentioned,cited,in question
+umræða_nv;discussion
+umræðuefni_nh;subject,topic,theme,matter,issue
+umsjá_nv;custody,care,charge,keeping,safekeeping,trust,watch
+umsjón_nv;care,tendance,supervision,oversight,guardianship
+umslag_nh;envelope
+umsvif_nh;business,commerce,trade
+umsvifalaust_aa;straightway,immediately,promptly,rapidly
+umsókn_nv;application
+umsögn_nv;reference,statement
+umtalsverður_l;considerable
+una_s;accept,comply with,linger,stay
+undan_aa;away,from under
+undan_aþ;away from,from under
+undanfarinn_l;recent
+undanfarið_aa;lately
+undanskilinn_l;excluded
+undantekning_nv;exception
+undanþága_nv;exception
+undanþágu-aðild_nv;exemption membership
+undanþáguákvæði_nh;exemption clause
+undarlega_aa;strangely,abnormally,peculiarly,unusually
+undarlegur_l;strange,funny,bizarre
+undir_aa;under
+undir_ao;under,for
+undir_aþ;under
+undirbúa_s;prepare,ready,devise,train
+undirbúningur_nk;preperation
+undireins_aa;immediately,now,promptly,instantly
+undirrita_s;sign
+undirritaður_l;signed
+undirréttur_nk;common pleas
+undirstaða_nv;base,basis,foundation,ground,substructure
+undra_s;surprise,amaze
+undrandi_l;surprised
+undrun_nv;amazement,astonishment,surprise
+undur_nh;wonder
+ungfrú_nv;mademoiselle,seniorita
+unglingur_nk;youth,teenager
+ungmenni_nh;youth,youngster
+ungur_l;young
+unna_s;love,care,allow
+unnt_l;possible,doable
+uns_c;until
+unun_nv;pleasure,amusement,delight,ecstasy,sensuality,bliss
+upp_aa;up
+upp_ao;up
+uppbygging_nv;development,build-up,fabrication,structure
+uppeldi_nh;upbringing,nurture,breeding,bringing-up
+uppfræðsla_nv;education,teaching
+uppfylla_s;fulfil,satisfy,meet
+uppgötva_s;discover
+uppgötvun_nv;discovery,find,finding,breakthrough
+upphaf_nh;beginning,start
+upphaflega_aa;originally,initially
+upphefja_s;elevate,boost,dignify,ennoble,heighten,glorify,promote,uplift
+upphátt_aa;aloud,out loud
+upphæð_nv;amount,price,sum
+uppi_aa;up,upstairs,alive
+uppistaða_nv;foundation,backbone,staple
+uppkvaðninga_nv;sentencing
+upplagur_l;*ideal
+uppleið_nv;ascendent,going up
+upplifa_s;experience,feel,see,undergo,taste,know
+upplitaður_l;faded,pale,colorless,faint
+upplogur_nk;*untrue,made-up
+upplýsa_s;inform,enlighten
+upplýsing_nv;information
+upplýsingakerfi_nh;information system
+upplýsingaleit_nv;information search
+upplýsingaöld_nv;information age
+uppnám_nh;uproar,turmoil,confusion,disorder,uproar,unrest
+uppreisn_nv;revolution,rebellion,insurgence
+uppreisnarmaður_nk;insurgent,rebel
+upprunalegur_l;original,novel,unprecedented,aboriginal,primal
+uppruni_nk;origin
+uppseldur_l;sold out
+uppsetning_nv;setup,installation
+uppspretta_nv;source,cause,origin,well,wellspring,fountain,spring
+uppsögn_nv;resignation,dismissal,lay-off
+upptaka_nv;record,pickup,adoption
+upptekinn_l;busy,occupied,preoccupied,into
+upptækur_l;confiscate
+upptök_nh;origin,start,beginning
+uppá_aa;up on
+uppá_ao;up on
+uppá_aþ;on,up on
+uppákoma_nv;event,happening,surprise
+uppí_ao;up in
+uppí_aþ;in,up in
+uppúr_aþ;out of,up from
+uss_au;hush,shush
+utan_aa;outside,abroad,from the outside
+utan_ae;besides,outside,out of
+utan_c;except
+utanríkisráðherra_nk;Foreign Secretary,State Secretary,Foreign Minister
+utanríkisráðuneyti_nh;Foreign Office,State Department,Foreign Ministry
+utanverður_l;external
+utar_aae;outermost
+utar_aam;outer
+va_au;ha
+vafalaust_aa;doubtless,surely
+vafasamur_l;questionable,dubious,shady,suspect,controversial
+vafi_nk;doubt,uncertainty
+vafra_s;browse
+vagn_nk;coach,cart,car
+vaka_nv;wake,guard,vigil,lookout,watch
+vaka_s;wake,stay awake,guard,overwatch
+vakandi_l;awake,waking,up,aware
+vakna_s;awake,wake up
+val_nh;choice,option,pick,selection
+vald_nh;power
+valda_s;cause
+valinn_l;chosen,selected,elected,preferred,picked
+vallarhlið_nh;airport gate
+vals_nk;waltz,dance,roller
+vanalega_aa;customarily,frequently,usually,normally,typically,commonly
+vanda_s;do carefully
+vandamál_nh;problem,difficulty
+vandasamur_l;difficult,tricky
+vandaður_l;superb,fine,sophisticated,elaborate
+vandi_nk;problem,difficulty
+vandkvæði_nh;complication,problem,trouble,difficulty
+vandlega_aa;carefully
+vandræðalegur_l;awkward,embarrassing
+vandræði_nh;trouble,jam
+vangaveltur_nv;speculation,reflection
+vangi_nk;cheek
+vani_nk;habit,tendency,custom,routine
+vanskilinn_l;*nonpayment
+vanta_s;need
+vantelja_s;fail to count
+vanur_l;experienced,used to,seasoned,veteran
+var_l;aware
+vara$^1$_s;*aware
+vara_nv;product
+vara_s;persist,last,alarm,caution
+varaformaður_nk;vice president,vice chairman
+varahlutur_nk;spare part
+varahönk_nv;spare hank
+varamaður_nk;substitute
+varanlegur_l;permanent,endless,eternal,irreversible,lasting,unending
+varasamur_l;treacherous,traitorous,deceitful,false,tricky,dangerous
+varfærnislega_aa;carefully
+varla_aa;scarcely,barely,hardly
+varlega_aa;carefully
+varmi_nk;heat,warmth,warmness,hotness
+varnaðarmerking_nv;cautionary label
+varningur_nk;merchandise,commodities,wares,goods,product
+varpa_s;throw
+varsjá_nks;Warsaw
+varsla_nv;watch,patrol,possession,safekeeping
+vart_aa;hardly,scarcely,barely
+varða_nv;cairn,milestone
+varða_s;regard
+varðstjóri_nk;duty officer
+varðveita_s;preserve
+varúð_nv;caution,care,precaution,wariness,watchfulness
+vasaklútur_nk;handkerchief
+vasi_nk;vase
+vaskur_nk;sink,washbasin
+vatn_nh;water
+vatnasvið_nh;watershed,basin,river basin
+vatnsafl_nh;hydroelectric power
+vatnsból_nh;water supply,waterhole
+vatnsfælinn_l;water fearing
+vatnskerfi_nh;water system
+vatnsorkuveri_nh;*hydroelectric power station
+vatnssala_nv;water sale
+vatnssameind_nv;water molecule
+vatnsverksmiðja_nv;water factory
+vatnsvirkjuna_nv;*hydroelectric power station
+vaxa_s;grow
+vaxandi_l;growing
+vaxinn_l;grown,built
+vaxnar_l;grown,built
+vaða_s;wade,barge,maunder,ramble
+vefja_s;roll,wind
+vefmiðli_nh;website
+vefur_nk;web,website,homepage
+vega_s;weigh,count,calulate,slay
+vegabæta_nv;road improvement
+vegagerð_nv;road construction
+vegalengd_nv;distance,space,remoteness
+vegfarandi_nk;pedestrian,wayfarer,passerby,stroller
+veggfóður_nh;wallpaper
+veggur_nk;wall
+vegna_aa;side
+vegna_ae;because
+vegur_nk;way,road
+vegvísur_nvs;Vegvísir
+veifa_s;wave,flag
+veika_s;*
+veikburða_l;weak,infirm,frail,fragile,breakable,delicate
+veiki_nv;illness,disease,sickness,disorder,syndrome
+veikindi_nh;illness,sickness,disease,condition,syndrome
+veikja_s;weaken,reduce,lessen
+veikleiki_nk;weakness
+veikt_aa;weaken
+veikur_l;sick,ill
+veira_nv;virus
+veisla_nv;party,reception
+veita_s;grant,award
+veitingahús_nh;restaurant
+veiða_s;fish,hunt,catch
+veiðarfæri_nh;tackle,fishing tackle
+veiði_nv;catch,hunting,fishing
+veiðistöðvun_nv;hunting stop,fishing stop
+vekja_s;create,cause,wake
+vel_aa;well
+vel_aae;well
+vel_aam;well
+velja_s;choose,select,pick,elect
+velkominn_l;welcome
+vellíðan_nv;wellbeing,comfort
+velta_s;roll,tumble,depend
+velþóknun_nv;satisfaction,approval,appreciation
+venda_s;stay,come to
+venja_nv;tradition,habit,routine
+venja_s;train,condition,learn,cling
+venjulega_aa;usually,normally
+venjulegur_l;normal,regular,typical
+vera_nv;being,creature
+vera_s;be
+verja_s;defend,spend
+verk_nh;work,project,piece,effect
+verka_s;process,season,cure,operate
+verkalýðsfélag_nh;union,trade union
+verkalýðshreyfing_nv;trade union movement
+verkalýður_nk;working class,plebs,masses,proletariat
+verkamaður_nk;worker,laborer,workman
+verkefni_nh;project
+verkfall_nh;strike
+verkferli_nk;process
+verkfræðingur_nk;engineer
+verklegur_l;vocational
+verknaður_nk;action,act
+verksmiðja_nv;factory
+verkstjóri_nk;boss,foreman,forewoman,chief,overseer
+verkur_nk;pain,ache,soreness,prick,agony,discomfort
+vernd_nv;protection
+vernda_s;protect,preserve,conserve,fortify,save,shield,guard
+verri_l;worse
+verslun_nv;shop,store,market
+versna_s;worsen,deteriorate,degrade
+versnandi_l;worsening,declining,deteriorating,receding,retrograde
+vertíð_nv;season
+verulega_aa;substantially,very,significantly
+verulegur_l;significant
+veruleiki_nk;reality
+verð_nh;price
+verða_s;become,be,must
+verðbréfamiðlar_nk;broker,stockbroker
+verðbólga_nv;inflation
+verðeining_nv;price unit
+verðlag_nh;price level,price,rate
+verðmæti_nh;worth,value
+verðmætur_l;valuable
+verður_l;worth,worthy,eligible,qualified
+veröld_nv;world
+verönd_nv;patio,verandah,terrace,porch,piazza
+vesalingur_nk;poor
+veski_nh;wallet
+vestan_aa;west,westwardly
+vestan_ae;west of
+vestfirðir_nks;West Fjords
+vestfjarðagöngunum_nhs;West Fjords tunnel
+vestmannaeyjar_nvs;Westman Islands
+vestri_l;western
+vestrænn_l;western
+vestur_aa;west
+vestur_nh;west
+vesturbakki_nks;West bank
+vesturleið_nv;way west
+vetni_nh;hydrogen
+vetnisfrumeind_nv;hydrogen atom
+vettvangur_nk;scene,field,area,site
+vetur_nk;winter
+veður_nh;weather
+veðurblíða_nv;very good weather
+veðurfar_nh;climate,weather
+veðurguður_nk;*weather god
+vi_nhs;*we
+vik_nh;job,result,recess
+vika_nv;week
+vikublað_nh;weekly
+vikulega_aa;weekly
+vilja_s;want
+viljayfirlýsing_nv;statment of intention
+vilji_nk;will
+villa_nv;error,mistake,fault
+villa_s;misinform,deceive
+villtur_l;wild,untamed,stray,savage
+vinda_s;wring,twist,contort,proceed
+vindur_nk;wind
+vingjarnlega_aa;kindly,friendly,graciously
+vingjarnlegur_l;friendly,warmhearted,sociable
+vinkona_nv;girlfriend,female friend
+vinna_nv;work
+vinna_s;work,make,create,win
+vinnsla_nv;processing,process,production
+vinnslusvæði_nh;operation area
+vinnubrögð_nh;work method
+vinnueftirlit_nhs;Labour Control Authority
+vinnufélagi_nk;colleague,co-worker
+vinnufólk_nh;worker,domestic,servant
+vinnustaður_nk;workplace
+vinnustofa_nv;studio,study,office
+vinnuveitandi_nk;employer,hirer,boss,company,corporation,firm
+vinnuvernd_nv;worker safety,employment protection,occupational safety
+vinsamlegur_l;friendly,sociable,kind,warm
+vinstramegin(n)_l;left side
+vinstri_l;left
+vinstri_nvs;Left
+vinstristjórn_nv;left wing government
+vinstrur_nks;Left
+vinsæld_nv;popularity
+vinsæll_l;popular,fashionable,celebrated,famous,favored,trendy
+vinur_nk;friend
+vinátta_nv;friendship
+virkilega_aa;really
+virkja_s;harness,mobilize,generate
+virkur_l;active,functional,enbled,live
+virtur_l;distinguished,reputable,prestigious,respected
+virða_s;respect,seem,view
+virði_nh;worth,value,importance
+virðing_nv;respect
+virðulegur_l;respectable,reputable,honorable,dignified,distinguished
+viss_l;sure
+vissa_nv;certitute,certainty
+vissulega_aa;surely,of course
+vist_nv;stay,whist,supplies,provisions
+vistarvera_nv;chambers,apartment,flat,building
+vistvænn_l;enviromentally sound
+vit_nh;sense,intelligence,brains
+vita_s;know
+vitanlega_aa;obviously,of course
+vitaskuld_aa;obviously,clearly
+viti_nk;lighthouse,beacon,sign
+vitja_s;visit,call,see,claim,demand
+vitlaus_l;stupid,dumb
+vitleysa_nv;nonesense
+vitna_s;cite,testify,certify
+vitneskja_nv;knowledge
+vitni_nh;witness
+vitorð_nh;connivance,conspiracy
+vitsmunir_nk;intelligence,cognition,mentality,mind,sense
+vitund_nv;awareness,conciousness
+við_aa;at,in
+við_ao;at,by,to,against
+við_aþ;by,beside,at,with
+viðbragð_nh;reaction
+viðburðaríkur_l;eventful,busy,memorable
+viðburður_nk;event
+viðbót_nv;addition
+viðbótarstöðugildi_nh;additional position
+viðbúinn_l;prepared
+viðbúnaðaráætlun_nv;readiness plan
+viðbúnaður_nk;preparedness
+viðeigandi_l;appropriate,suitable,proper,fitting,correct
+viðfangsefni_nh;subject,problem,challenge
+viðgerð_nv;repair,amend,patch,fix,restoration
+viðhald_nh;maintenance
+viðhaldsregla_nv;maintenance rule
+viðhorf_nh;attitude
+viðkomandi_l;respective,relevant,concerned
+viðkvæmur_l;delicate,sensitive
+viðleitni_nv;effort,attempt,try,endeavor
+viðmælandi_nk;listener,auditor,interlocutor
+viðmót_nh;attitude,manner,mood,spirit,behavior,interface,UI,GUI
+viðra_s;air,ventilate,walk,mention,bring up
+viðræða_nv;talk,conversation,discussion
+viðskiptahalli_nk;trade deficit,negative trade balance
+viðskiptamaður_nk;customer,client,consumer,buyer,shopper,purchaser
+viðskiptavinur_nk;customer,client,shopper,clientele
+viðskipti_nh;business
+viðstaddur_l;present
+viðtaka_nv;acceptance
+viðtal_nh;interview
+viðtengingahættur_nk;*subjunctive mood
+viðunandi_l;satisfactory,decent,acceptable
+viður_nk;wood,lumber
+viðurkenna_s;admit,recognise,acknowledge
+viðurkenning_nv;acknowledgment,recognition,acceptance,admission
+voldugur_l;powerful,mighty,pussiant,influential,dominant
+volgur_l;warm
+von_nv;hope,expectation
+vona_s;hope
+vonandi_aa;hopefully
+vonbrigði_nh;disappointment
+vondur_l;bad,evil
+vonlaus_l;hopeless,desperate,hopeless,pointless
+vopn_nh;weapon,armament,arm
+vopnaleit_nv;weapon search
+vor_f;our
+vor_nh;spring
+vorkenna_s;pity,feel sorry for
+votta_s;testify,depose,certify,attest
+vottur_nk;witness,testimony,trace,hint,touch
+votur_l;wet,damp,humid,soaked,watery
+voðalega_aa;awfully,terribly
+voði_nk;danger,hazard,risk,peril,jeopardy
+vá_au;vow
+væla_s;whine,cry,howl
+vænd_nv;expectation
+vængur_nk;wing,vane,side
+vænn_l;kind,generous,handsome,big
+vænta_s;expect,hope
+væntanlega_aa;presumably,likely,apparently
+væntanlegur_l;expected,prospective,future,forthcoming,would be
+vél_nv;machine,engine
+vélbátur_nk;motorboat
+vélstjóri_nk;engineer,motor man
+vélvæðing_nv;mechanization
+vígasveit_nv;regiment
+vík_nv;creek,cove,inlet,armlet
+víkinga_nv;viking
+víkja_s;give way,recede,fall back,diverge
+vín_nh;wine
+vír_nk;wire,cable,line,thread
+vís_l;certain,sure,wise
+vísa_nv;stanza,verse
+vísa_s;point,send
+vísbending_nv;clue,lead,hint,evidence
+vísifingur_nk;index finger,forefinger,first finger
+vísindagrein_nv;science,discipline,field
+vísindalegur_l;scientific
+vísindamaður_nk;scientist
+vísindavefur_nk;science website
+vísir_nk;indicator,sign,forerunner,index,hand
+víst_aa;apparently
+víst_aae;surely
+víxl_nh;alternation,interchange
+víða_aa;widely,in many places
+víða_aam;in more places
+víðtækur_l;widespread,extensive,broad
+víður_l;wide
+víðáttumikill_l;vast,broad,cosmic,enormous,extensive,great,huge,immense,wide
+vökvi_nk;liquid
+völlur_nk;field,stadium
+vör_nv;lip
+vörn_nv;defence,protection
+vörður_nk;guard,watcher,warden
+vöxtur_nk;growth
+vöðvi_nk;muscle
+wadeur_nks;*Wades
+westerlund_nv;*Westerlund
+yfir_aa;over
+yfir_ao;over
+yfir_aþ;over
+yfirborð_nh;surface
+yfirborðslag_nh;surface layer
+yfirbragð_nh;look,tone,demeanor,style
+yfirgefa_s;leave
+yfirgnæfa_s;overshadow,predominate,reign,rule,dominate
+yfirhöfn_nv;coat,overcoat
+yfirleitt_aa;usually
+yfirlit_nh;overview
+yfirlæknir_nk;chief physician
+yfirlýsing_nv;statement
+yfirmaður_nk;boss,head,senior,commander
+yfirráð_nh;control,authority,dominance
+yfirráðasvæði_nh;territory
+yfirvald_nh;authority
+yfirvegaður_l;balanced,rational,sensible,deliberate,composed
+yfirþyrmandi_l;overwhelming,staggering
+ylrækt_nv;warmth cultivation
+yndi_nh;delight,enjoyment,joy,pleasure,dear
+yndislegur_l;wonderful,lovely,graceful,delicioius
+yppta_s;shrug
+yrkja_s;write,poeticize,farm
+yrða_s;address,speak,talk
+ytri_l;outer
+„_nh;*
+“_nh;*
+”_nh;*
+—_nh;—
+á_aa;on
+á_ao;on,to,at
+á_aþ;on,in,of,at,over
+á_nv;river
+ábending_nv;tip,suggestion,advice,hint,idea,pointer,steer
+áberandi_l;prominent
+ábreiða_nv;rug,quilt,cover,blanket
+ábyggilega_aa;probably,surely
+ábyrgð_nv;responsibility
+ábóti_nk;abbot
+áfall_nh;shock,blow,setback,disappointment,seizure,trauma
+áfangastaður_nk;destination
+áfangi_nk;phase,section,course
+áfengi_nh;alcohol
+áform_nh;plan,intention,project
+áforma_s;plan
+áfram_aa;forward,onwards,longer
+ágreiningur_nk;disagreement
+ágæti_nh;excellence,goodness,greatness,integrity,quality,virtue
+ágætlega_aa;nicely,OK
+ágætur_l;nice,fine
+ágóði_nk;profit,benefit,dividend
+ágúst_nk;August
+áhafnarmeðlimur_nk;crew member
+áhersla_nv;emphasis,stress
+áhorfandi_nk;viewer,watcher,spectator
+áhrif_nh;effect,impact
+áhrifamikill_l;effective,influential,dramatic,moving
+áhugalaus_l;uninterested,indifferent,unconcerned,dispassionate
+áhugamál_nh;hobby,interest,obsession
+áhugasamur_l;interested,committed,absorbed,drawn
+áhugaverður_l;interesting,stimulating,exciting
+áhugi_nk;interest
+áhyggja_nv;worry
+áhyggjufullur_l;worried,concerned
+áhyggjulaus_l;carefree,easygoing,untroubled,relaxed,comfortable
+áhætta_nv;risk,danger,hazard,jeopardy,gamble,peril
+áhöfn_nv;crew
+ákafi_nk;enthusiasm,eagerness,excitement,intensity
+ákaflega_aa;very,terribly,highly
+ákaft_aa;eagerly
+ákafur_l;eager,enthusiastic
+ákvarða_s;establish,decide,determine,pinpoint
+ákveða_s;decide
+ákveðinn_l;decided,particular
+ákveðið_aa;firmly,positively,decidedly
+ákvæði_nh;clause,stipulation
+ákvörðun_nv;decision
+ákæra_s;charge
+ákærðir_l;charged
+ákærður_l;charged
+álag_nh;burden,tax,stress,strain
+áleitinn_l;obtrusive,pushing,interfering,haunting
+áleiðis_aa;forward,onward,ahead
+álengdar_aa;nearby,close,proximate
+áletrun_nv;inscription,epigram,label,writing
+álit_nh;view,opinion
+áliðinn_l;late
+áll_nk;channel,eel
+álverð_nh;aluminium price
+álykta_s;reason,infer,deduce,conclude
+ályktun_nv;assumtion,resulution,conclusion,inference
+álíka_aa;similarly
+álíta_s;think,believe
+áminning_nv;reminder,memo,note,reprimand,warning
+án_ae;without
+ánægja_nv;happiness
+ánægjulegur_l;satisfying,pleasurable,pleasing,enjoyable,delightful
+ánægður_l;happy
+ár_nh;year
+ár_nv;river
+árabil_nh;years,ages
+áramót_nh;new year
+árangur_nk;success
+áratugur_nk;decade
+áreiðanlega_aa;certainly,assuredly,for sure
+áreiðanlegur_l;reliable,credible,dependable,honest,responsible,trustworthy
+áreiðanleiki_nk;reliability
+árekstur_nk;crash,impact,collision
+árgangur_nk;progress
+áritun_nv;visa,inscription
+árlega_aa;yearly,annually
+árlegur_l;yearly,annual
+ársbyrjun_nv;beginning of a year
+ársfjórðungur_nk;quarter
+árslok_nh;year end
+árstími_nk;season,time of year,term
+árás_nv;strike,raid,offensive,attack,charge
+árásarmaður_nk;attacker
+áræði_nh;daring
+áróður_nk;propaganda,publicity,marketing
+árþúsund_nh;millenium
+ásamt_aþ;along with
+áskorun_nv;challenge,dare,requisition
+áskrifandi_nk;subscriber
+áskrift_nv;subscription
+ást_nv;love
+ástand_nh;situation
+ástfanginn_l;in love,enamored,infatuated
+ástæða_nv;reason
+ástæðulaus_l;unwarranted,unjustified,pointless,groundless,baseless,wrong
+ásökun_nv;accusation,charge,allegation,imputation,incrimination
+ásýnd_nv;appearance,face,countenance,look,visage
+átak_nh;effort,force,pull,strife,conflict
+átappa_s;bottle
+átján_t;eighteen
+átt_nv;direction
+átta_s;discover,find out
+átta_t;eight
+ávallt_aa;always
+ávarpa_s;address,accost
+ávöxtur_nk;fruit
+áætla_s;estimate,plan
+áætlun_nv;plan
+áðan_aa;earlier,before
+áður_aa;before
+áþekkur_l;similar,akin,alike,uniform,analogous,like,matching,resembling
+áþreifanlega_aa;concrete,physical
+æ_aa;oh,ouch,increasingly
+æ_au;oh,ouch
+æfa_s;train,rehearse,practice,work out
+æfing_nv;training,rehersal,exercise,drill
+ægilega_aa;terribly,awfully
+æpa_s;scream
+ær_nv;sheep
+æsa_s;arouse,excite,fume,inflame,infuriate
+æsifrétt_nv;tabloid news
+æska_nv;youth,childhood
+æskilegur_l;preferable,desirable
+æskuheimili_nh;childhood home
+æstur_l;excited,hysterical,upset,frenetic
+ætla_s;mean,will
+ætlist_nv;want
+ætlun_nv;purpose,intention,assumption
+ætt_nv;family,race,tribe
+ættartengsl_nh;bloodline relation,stock relation
+ættaður_l;descended
+ættingi_nk;relative
+ætíð_aa;always
+ævi_nv;life,lifetime
+ævinlega_aa;always
+ævintýri_nh;adventure,experience,undertaking
+ævintýri_nhs;Adventure
+ævisaga_nv;biography,autobiography,memoir,recollection
+æð_nv;vain
+æða_s;storm,rush,ramp,rampage
+æði_nh;craze,mania,spree,rampage,blast
+æðislega_aa;madly,amazingly,very
+æðislegur_l;wonderful,neat,cool,fantastic,superb,excellent
+æðri_l;higher,superior,upper,greater
+ég_f;I
+ég_nks;*I
+éta/eta_s;eat
+í_aa;in
+í_ao;in
+í_aþ;in,of
+íbygginn_l;knowning
+íbúi_nk;inhabitant
+íbúð_nv;apartment
+íbúðalánasjóður_nks;The Housing Financing Fund
+íbúðarhús_nh;residence,home,dwelling,habitation,house
+ílát_nh;container,cup,holder
+ímynd_nv;image
+ímynda_s;imagine
+ír-ingi_nks;*IR-players
+írak_nks;Iraq
+íran_nks;Iran
+írskur_l;Irish
+ís_nk;ice
+ísafjarðarbæjur_nks;Ísafjörður town
+ísafjarðarbæjur_nks;Ísafjörður town
+ísafjarðarbær_nks;Ísafjörður town
+ískaldur_l;freezing,ice-cold
+ísland_nhs;Iceland
+íslending_nv;Icelander
+íslendingur_nks;Icelander
+íslenska_nv;Icelandic
+íslenska_s;translate to Icelandic
+íslenskur_l;Icelandic
+ísskápur_nk;refridgerator,fridge,cooler
+ítak_nh;pull,influence,presence
+ítali_nk;Italian
+ítali_nks;Italian
+ítalskur_l;Italian
+ítalía_nvs;Italy
+ítarlegur_l;extensive
+ítreka_s;restate,reiterate
+ítölskur_l;Italian
+íþrótt_nv;sport
+íþróttahús_nhs;Gymnasium
+íþyngjandi_l;inflictive
+ó_au;oh,ouch
+óaðfinnanlegur_l;perfect,faultless,impeccable,seamless
+óbreyttur_l;unchanged,same
+ódýr_l;inexpensive,cheap,low-cost
+ódýrur_l;*inexpensive,cheap
+óendanlega_aa;infinitely,eternally,endlessly
+óeðlilegur_l;strange,unusual,unnatural,abnormal
+óflughæfur_l;non-airworthy,non-flyable
+ófreskja_nv;monster,beast,chimera,creature,demon,gargoyle,ogre
+ófullnægjandi_l;unacceptable
+ógn_nv;threat,jeopardy,risk,hazard,demon
+ógna_s;threaten
+ógnvekjandi_l;scary,chilling,alarming,terrifying,frightening,spooky,formidable
+ógöngur_nv;impasse,deadlock,jam,dilemma,dead end
+óhagstæður_l;unfavorable,disadvantageous,unfair
+óhapp_nh;accident
+óhappi_nh;accident
+óheimill_l;unauthorized,banned,illegal,unapproved
+óhjákvæmilegur_l;certain,assured,inescapable,sure,necessary
+óhreinindi_nh;dirt,mud,filth,dust
+óhugsandi_l;unthinkable,unimaginable,inconceivable,impossible
+óháður_l;independent
+óhætt_l;secure,safe
+ójafnt_aa;uneven
+ókominn_l;not here yet,expected,unborn
+ókunnugur_l;unfamiliar,stranger
+ókunnur_l;unknown
+ókynþroska_l;prepubescent
+ól_nv;strap,leash,chain,harness,restrain,rope
+óljós_l;unclear
+óláti_nh;*noise,nuisance
+ólíklegur_l;unlikely
+ólíkur_l;different
+ólöglegur_l;illegal
+ómaka_s;trouble
+ómegin_nh;unconsciousness
+ómetanlegur_l;priceless,invaluable,valuable,precious
+ómur_nk;sound,resonance
+ómögulegur_l;hopeless,impossible
+óneitanlega_aa;undeniably,admittedly
+ónothæfur_l;unusable
+óreiða_nv;chaos,mess,disorder,jumble,entropy
+óreyndur_l;inexperienced,green
+óréttlátur_l;unjust,wrongful,wrong,unfair,unequal
+óréttlæti_nh;injustice,unfairness,inequity,wrong
+órói_nk;unrest,trouble
+órólegur_l;uneasy,restless,nervous,agitated
+ósjálfrátt_aa;spontaneous,involuntary,instinctive,reflex,unwilling
+ósk_nv;wish
+óska_s;wish
+óskaplega_aa;terrifically,very
+óskilgetinn_l;illegimate,bastard
+óskiljanlegur_l;incomprehensible,puzzling,unclear,enigma
+óskiptur_l;undivided,integral,unitary
+ósköp_nh;enormity,misfortune
+óskýr_l;fuzzy,hazy,vague,unclear,blurred
+óspart_aa;unsparing
+óstöðugur_l;unstable
+ósvífinn_l;rude,impertinent,insolent,presumptuous
+ósýnilegur_l;invisible,unseen
+ótal_nh;countless,innumerable,myriad
+ótryggur_l;unstable
+ótrúlega_aa;incredibly,unbelievably,remarkably
+ótrúlegur_l;unbelievable,amazing
+ótt_aa;fast
+ótt_aam;faster,immediately
+ótta_s;fear
+óttasleginn_l;afraid,scared
+ótti_nk;fear
+óvar_l;unaware
+óvenja_nv;unusually
+óvenjulegur_l;unusual,special
+óveður_nh;storm,wind,hurricane,tempest,tornado
+óvinur_nk;enemy,foe
+óvinveittur_l;unfriendly,hostile
+óvirkur_l;inactive,passive,down,dormant
+óvissa_nv;uncertainty,unpredictability
+óviðeigandi_l;inappropriate,undue,improper
+óviðunandi_l;unacceptable
+óvænt_aa;unexpectedly,surprisingly
+óvæntur_l;unexpected,surprising,unplanned
+óvís_l;uncertain,controversial,doubtful,inconclusive,indecisive,unsure
+óánægja_nv;disconent,dissatisfaction
+óánægður_l;unhappy,unsatisfied,depressed,gloomy,joyless,sorry,discontented
+óður_l;crazy,manic,cuckoo,erratic,gaga,llony,mad
+óþarfi_nk;inessentiality,unnecessary,option
+óþarfur_l;unnecessary,needless,redundant
+óþekktur_l;unknown,unheard-of,anonymous
+óþolinmóður_l;impatient,intolerant,unforbearing
+óþægilega_aa;unpleasantly,offensively
+óþægilegur_l;uncomfortable
+óþægindi_nh;inconvenience,discomfort,nuisance
+óþægur_l;naughty,undisciplined,bad,indocile,ill-behaved,disobedient
+öflugur_l;powerful
+öflun_nv;acquisition,acquirement,gathering
+öfugur_l;reverse,inverse,wrong,queer
+öfunda_s;envy,grudge,begrudge
+ögn_nv;particle,tiny amount,grain
+ögrur_nks;*Ögur
+ögurball_nhs;Ögur-dance
+ögurbæur_nks;*Ögur-town
+ökkli_nk;ankle
+ökumaður_nk;driver
+öld_nv;age,century
+ölvun_nv;drunkenness,intoxication
+ömurlegur_l;pathetic,miserable,lousy,horrid,dreary
+önd_nv;duck
+öndverður_l;initial,first,beginning,early,diametric
+öngull_nk;hook,fishhook
+önn_nv;semester
+önugur_l;grumpy,rude,surly,grouchy,cranky,irritable,disagreeable
+ör_l;frequent,fast,rapid
+ör_nv;scar,arrow,dart,missile
+örbylgja_nv;microwave
+öreindafræðingur_nk;particle physicist
+örfár_l;few,handful,rare,scarce
+örgjörvi_nk;CPU
+örlítill_l;tiny,diminutive,dwarf,miniature
+örlítið_aa;slightly,marginally
+örlög_nh;destiny,fate,fortune,karma,doom
+örsmár_l;tiny,minute,miniature,small,petite,microscopic,diminutive
+ört_aa;rapidly,fast,swiftly
+örugglega_aa;definitely,surely,positively
+öruggur_l;safe,secure
+örva_s;stimulate,motivate,arouse,provoke,quicken
+örvænta_s;despair
+örvænting_nv;despair,desparation,despond,hopelessness
+öryggi_nh;safety,security
+öryggisgæsla_nv;security
+öryggiskerfi_nh;security system
+öryggiskrafa_nv;safety requirement
+öryggisregla_nv;safety rule
+öryggisvörður_nk;security guard
+öskra_s;scream,screech,shriek,shrill
+öskur_nh;scream,screak,screech,shriek
+öskutunnulok_nh;trash can lid
+öxl_nv;shoulder
+öðlast_s;obtain,gain,acquire,get
+öðruvísi_aa;differently,otherwise
+öðruvísi_l;different
+úff_au;phew
+úfinn_l;raggedy,unkempt,lumpy
+úlfur_nk;Úlfur,wolf
+úlfur_nks;Úlfur,Wolf
+úr_aa;off,out of,undress
+úr_aþ;of,out of,from
+úr_nh;watch
+úrbót_nv;amendment,betterment,upgrade,melioration,development
+úrkoma_nv;rain,precipitation,snow
+úrskurður_nk;verdict,ruling,decision
+úrslit_nh;result,final,score,outcome
+úrval_nh;selection,variety,cream
+úrvinnsla_nv;process,processing
+út_aa;out
+út_ao;out
+útaf_aþ;of,out of
+útblástur_nk;emission
+útbreiðsla_nv;spread,distribution,circulation
+útbúa_s;equip,prepare,make,create
+útflutningstekjur_nv;export revenue
+útflutningur_nk;export,exportation
+útfæra_s;implement
+útfærsla_nv;implementation
+útför_nv;funeral
+útgerð_nv;fishery,business
+útgerðarmaður_nk;shipowner
+útgerðarstaður_nk;fishery place
+útgáfa_nv;version,publishing
+úthaf_nh;ocean,sea
+úti_aa;outside
+útibú_nh;branch
+útidyr_nv;front door
+útifundur_nk;outdoor meeting
+útigangsfólk_nh;homless
+útigangsmaÃ°ur_nk;*homeless
+útiloka_s;exclude,ban,prevent,prohibit
+útilokaður_l;impossible,impractical,unthinkable,unrealistic,absurd,hopeless
+útland_nh;abroad,foreign country
+útlendingastofnun_nv;Directorate of Immigrations
+útlendingastofnun_nvs;Directorate of Immigrations
+útlendingur_nk;foreigner
+útlendur_l;foreign,exotic
+útlit_nh;look,layout
+útlína_nv;outline,contour,delineation,silhouette,configuration
+útreikningur_nk;calculation
+útrýma_s;exterminate,abolish,erase,eradicate,kill,annihilate,remove
+útsettur_l;orchestrate,arrange
+útskorinn_l;carved
+útskýra_s;explain
+útsvar_nh;local tax
+útsýn_nv;view
+útsýni_nh;view
+úttekt_nv;enquiry,withdrawal,appraisal
+útum_ao;over,all over,out over
+útvarp_nh;radio
+útvarpsstjóri_nk;radio chief
+útvega_s;supply,provide
+útvegsmaður_nk;fishing vessel owner
+útá_ao;at,on,out on
+útá_aþ;on,out on
+útí_ao;in,out in
+útí_aþ;in,out in
+útúr_aþ;out of
+ýfa_s;ripple,ruffle,disturb,irritate,upset,unsettle
+ýkja_aa;exaggerate,overstate,enlarge,brag,color,boast
+ýmis_f;several,various
+ýmislegur_l;miscellaneous
+ýmist_c;either
+ýsa_nv;haddock
+ýta_s;push
+ýtrari_l;further
+þagna_s;shut up,fall silent
+þak_nh;roof
+þakka_s;thank
+þakklátur_l;grateful,thankful,indebted
+þakklæti_nh;gratitude,thankfulness,appreciation,gratefulness
+þang_nh;seaweed,gulfweed,fucus
+þangað_aa;there
+þannig_aa;that way,so
+þannig_l;thus,that way
+þar_aa;there,where
+þar_nks;*There
+þarfna_s;need,require,depend on
+þarfur_l;needed,required,necessary,mandatory,essential,obligatory
+þarna_aa;there
+þarsem_c;where
+þaullesa_s;read carefully
+það_f;it
+það_nhs;*it
+þaðan_aa;from there,therefrom
+þefa_s;scent,nose,odor,sniff,smell,fragrance
+þefur_nk;smell,scent,odor,aroma
+þegar_aa;already
+þegar_c;when
+þegja_s;shut up,keep quiet
+þegjandi_l;silent
+þegn_nk;citizen,national,subject,civilian,voter
+þekja_s;cover
+þekking_nv;knowledge
+þekkingargarður_nks;Knowledge Center
+þekkingarsetursins_nhs;Knowledge Center
+þekkja_s;know,recognize,identify
+þekktur_l;known
+þeldökkur_l;black,dark-skinned
+þenja_s;stretch,strain,tense,dilate,expand
+þessi_f;this
+þetti_nks;*this
+þeyta_s;whip,hurl,honk,wind
+þiggja_s;accept,take
+þil_nh;panel
+þing_nh;parliement,convention,assembly
+þingmaður_nk;congressman,Member of Parliament
+þinn_f;your
+þistill_nk;thistle
+þjappa_s;condense,compress,zip,pack
+þjá_s;suffer,oppress,distress
+þjálfa_s;train,coach,discipline,instruct,condition,teach,practice,drill
+þjálfun_nv;training,exercise,drill,instruction,practice,teaching
+þjáning_nv;suffering,agony,anguish,discomfort,distress,illness,misery,pain
+þjóna_s;serve,wait on,valet
+þjónn_nk;waiter,servant
+þjónusta_nv;service
+þjónustustúlka_nv;maid,barmaid,housemaid,waitress
+þjóta_s;rush,run,speed
+þjóð_nv;nation
+þjóðarbú_nh;national economy
+þjóðarbúskapur_nk;national economy
+þjóðarflokkur_nk;Nation Party
+þjóðarframleiðsla_nv;national production
+þjóðarmorð_nh;genocide
+þjóðarsátt_nv;national reconciliation
+þjóðarsáttarsamningur_nk;national reconciliation agreement
+þjóðartekjur_nv;national income
+þjóðastjórn_nv;national government
+þjóðernishreinsanir_nv;ethning cleansing
+þjóðfræði_nv;ethnography,folklore
+þjóðfélag_nh;society
+þjóðhöfðingi_nk;sovereign,head of state
+þjóðlegur_l;national,ethnical,ethnic
+þjóðlíf_nh;national life
+þjóðmenning_nv;civilization
+þjóðsaga_nv;legend,folktale
+þjóðtrú_nv;folklore,custom,legend,myth,superstition,belief
+þjóðvarðliður_l;national guard
+þjóðvarðliður_nk;national guard
+þjóðvegur_nk;road,highway
+þoka_nv;fog
+þoka_s;further,move
+þokkalegur_l;reasonable,fair,moderate,OK
+þokuflóki_nk;fog
+þola_s;suffer,take,stand,tolerate
+þolinmæði_nv;patience,tolerance,persistence,forbearance
+þolinmóður_l;patient,long-suffering,forbearing,enduring,persistent,tireless
+þora_s;dare
+þorna_s;dry
+þorp_nh;village
+þorskur_nk;cod
+þramma_s;tramp,stamp,stomp,trample,roam,walk
+þraut_nv;riddle,puzzle,challenge,hardship,pain
+þreifa_s;feel,grope,fumble
+þrengja_s;tighten,narrow
+þrennur_l;three
+þrep_nh;step,tread,echelon
+þrettán_t;thirteen
+þreyta_nv;tiredness,exhaustion,fatigue,weariness
+þreyta_s;tire,bore,exhaust,fatigue,weaken
+þreytandi_l;tiresome,annoying,dreary,dull,bothersome,uninteresting
+þreyttur_l;tired
+þrisvar_aa;thrice,three times
+þriðji_l;third
+þriðjudagur_nk;Tuesday
+þrjátíu_t;thirty
+þroskaður_l;mature,aged,developed,ripe,grown
+þroski_nk;maturity,developoment,experience
+þrá_nv;desire,craving,passion,lust,yearning
+þrátt_aa;despite
+þráður_nk;thread,wire,cable,call
+þræða_s;thread,needle,traverse,follow
+þrífa_s;clean
+þrír_t;three
+þrítugsaldur_nk;thirtees
+þróa_s;develop,evolve
+þróun_nv;development,evolution
+þröngur_l;tight,narrow
+þröngva_s;obtrude,force,impose,intrude
+þröskuldur_nk;threshold,brink
+þrútinn_l;swollen,inflamed,bloated
+þrýsta_s;squeeze,press,push
+þrýstingur_nk;pressure
+þrýstistigull_nk;xxx
+þumalfingur_nk;thumb
+þumlungur_nk;inch
+þungamiðja_nv;hub,pivot,center
+þungbúinn_l;sullen,cloudy,gray,heavy
+þungi_nk;weight
+þunglyndi_nh;depression,sadness,unhappiness,melancholy,blues
+þungt_aa;heavy,sorry,ill
+þungur_l;heavy
+þunnur_l;thin,diluted,hung-over
+þurfa_s;need
+þurr_l;dry
+þurrabúð_nv;xxx
+þurrka_s;dry
+þurrkhús_nh;drying house
+þurrlega_aa;dryly
+þver_l;stubborn,cross,bullheaded
+þvermál_nh;diameter
+þvert_aa;across,widthwise
+þvinga_s;coerce,force,blackmail,pressure,compel,constrain,obligate
+þvo_s;wash
+þvottapoki_nk;washcloth,washrag
+þvottur_nk;wash
+þvæla_s;babble,blather,gibberish,gabble,nonesense
+því_aa;because,therefore
+þvílíkur_f;such
+þykja_s;find
+þykkt_nv;thickness,density,solidity,width
+þykkur_l;thick
+þyngd_nv;weight,load,mass
+þyngdarhrun_nh;weight fall
+þyngja_s;get heavy
+þyrla_nv;helicopter
+þá_aa;then,the one
+þá_c;then
+þá_nks;*then
+þága_nv;interest,benefit,good
+þátttaka_nv;participation,attendance,involvement
+þátttakandi_nk;participant
+þáttur_nk;factor,show,episode
+þáverandi_l;then,at the time
+þægilegur_l;comfortable,convenient,pleasant,cozy
+þægindi_nh;comfort,convenience,luxury,ease
+þétt_aa;tight,close
+þétta_s;condense,consolidate,thicken,reinforce,strengthen,tighten
+þéttur_l;solid,tight,dense
+þó_aa;though
+þórólfur_l;*Þórólfur
+þótt_c;though
+þögn_nv;silence
+þögull_l;silent
+þökk_nv;appreciation,gratitude,gratefulness,acknowledgement,credit
+þön_nv;business,occupation,activity
+þörf_nv;need
+þú_f;you
+þúsund_nh;thousand
+þúsund_nv;thousand
+þúsund_t;thousand
+þúsundastur_l;thousandth
+þúsundur_nh;*thousand
+þýskaland_nhs;Germany
+þýskur_l;German
+þýða_s;translate,mean,compile
+þýðing_nv;translation
+þýðingarmikill_l;important,meaningful,significant,substantial,big,large
