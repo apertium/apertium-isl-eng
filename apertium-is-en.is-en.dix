@@ -6141,7 +6141,6 @@
 <e><p><l>hyggja<s n="vblex"/></l><r>plan<s n="vblex"/></r></p></e>
 <!--<e><p><l>hyggja<s n="vblex"/></l><r>believe<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>hyggja<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e>-->
-<e><p><l><g><b/>eftirá<b/>að</g>hyggja<s n="vblex"/></l><r><g><b/>in</g>hindsight<s n="vblex"/></r></p></e>
 <!--<e><p><l>hylja<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>-->
 <e><p><l>hylja<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
 <e><p><l>hátta<s n="vblex"/></l><r>undress<s n="vblex"/></r></p></e>
@@ -6644,6 +6643,8 @@
     <!--<e><p><l>um<b/>það<b/>leyti<s n="adv"/></l><r>thereabouts<s n="adv"/></r></p></e>-->
     <!--<e><p><l>um<b/>það<b/>leyti<s n="adv"/></l><r>when<s n="adv"/></r></p></e>-->
     <e><p><l>um<b/>þetta<b/>leyti<s n="adv"/></l><r>at<b/>this<b/>time<s n="adv"/></r></p></e>
+
+    <e><p><l>eftirá<b/>að<b/>hyggja<s n="adv"/></l><r>in<b/>hindsight<s n="adv"/></r></p></e>
 
 
 
