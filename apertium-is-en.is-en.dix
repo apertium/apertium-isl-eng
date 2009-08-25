@@ -11,6 +11,7 @@
     <sdef n="cnjadv"/>
     <sdef n="ant"/>
     <sdef n="dem"/>
+    <sdef n="qnt"/>
     <sdef n="pr"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
@@ -42,7 +43,21 @@
     <sdef n="adj"/>
     <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
     <sdef n="preadv"/>
+    <sdef n="GD"/>
+    <sdef n="ND"/>
   </sdefs>
+  <pardefs>
+    <pardef n="allur_all__prn">
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+  </pardefs>
 
   <section id="main" type="standard">
     <!-- Prepositions -->
@@ -117,6 +132,8 @@
 
     <e><p><l>þessi<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
 
+    <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
+
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e>
 
@@ -169,6 +186,7 @@
     <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
     <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
+    <e><p><l>súpa<s n="n"/><s n="f"/></l><r>soup<s n="n"/></r></p></e>
     
     
     <!-- Nouns in alphabetical order from bla.xml after manual checking-->
@@ -5211,6 +5229,7 @@
 
     
     <!-- Adjectives -->
+    <e><p><l>góður<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
     <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
     <e><p><l>rauður<s n="adj"/></l><r>red<s n="adj"/></r></p></e>

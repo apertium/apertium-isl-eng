@@ -113,6 +113,7 @@
      <attr-item tags="prn.itg"/>
      <attr-item tags="prn.subj"/>
      <attr-item tags="prn.obj"/>
+     <attr-item tags="prn.qnt"/>
   </def-attr>
 
   <def-attr n="a_adj">
