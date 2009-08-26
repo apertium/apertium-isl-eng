@@ -292,7 +292,7 @@
     <e><p><l>atabaskamál<s n="n"/><s n="nt"/></l><r>Ibibio<b/>language<s n="n"/></r></p></e>
     <e><p><l>atburður<s n="n"/><s n="m"/></l><r>event<s n="n"/></r></p></e>
 <!--    <e><p><l>atburður<s n="n"/><s n="m"/></l><r>incident<s n="n"/></r></p></e> -->
-    <e><p><l>atferli<s n="n"/><s n="nt"/></l><r>behavior<s n="n"/></r></p></e>
+    <e><p><l>atferli<s n="n"/><s n="nt"/></l><r>behaviour<s n="n"/></r></p></e>
     <e><p><l>athugun<s n="n"/><s n="f"/></l><r>observation<s n="n"/></r></p></e>
     <e><p><l>athygli<s n="n"/><s n="f"/></l><r>attention<s n="n"/></r></p></e>
     <e><p><l>athöfn<s n="n"/><s n="f"/></l><r>ceremony<s n="n"/></r></p></e>
@@ -582,7 +582,7 @@
     <!--<e><p><l>breyting<s n="n"/><s n="f"/></l><r>alteration<s n="n"/></r></p></e>-->
     <e><p><l>breyting<s n="n"/><s n="f"/></l><r>change<s n="n"/></r></p></e>
     <!--<e><p><l>breytni<s n="n"/><s n="f"/></l><r>conduct<s n="n"/></r></p></e>-->
-    <e><p><l>breytni<s n="n"/><s n="f"/></l><r>behavior<s n="n"/></r></p></e>
+    <e><p><l>breytni<s n="n"/><s n="f"/></l><r>behaviour<s n="n"/></r></p></e>
     <e><p><l>bridds<s n="n"/><s n="nt"/></l><r>bridge<s n="n"/></r></p></e> <!-- (card game) -->
     <e><p><l>bringa<s n="n"/><s n="f"/></l><r>chest<s n="n"/></r></p></e>
     <e><p><l>bringubein<s n="n"/><s n="nt"/></l><r>breastbone<s n="n"/></r></p></e>
@@ -1651,7 +1651,7 @@
     <e><p><l>hefti<s n="n"/><s n="nt"/></l><r>staple<s n="n"/></r></p></e>
     <e><p><l>heftivír<s n="n"/><s n="m"/></l><r>staple<s n="n"/></r></p></e>
     <e><p><l>hefð<s n="n"/><s n="f"/></l><r>tradition<s n="n"/></r></p></e>
-    <e><p><l>hegðun<s n="n"/><s n="f"/></l><r>behavior<s n="n"/></r></p></e>
+    <e><p><l>hegðun<s n="n"/><s n="f"/></l><r>behaviour<s n="n"/></r></p></e>
     <!--<e><p><l>hegðun<s n="n"/><s n="f"/></l><r>behaviour<s n="n"/></r></p></e>--> <!-- British English spelling -->
     <!--<e><p><l>hegðun<s n="n"/><s n="f"/></l><r>conduct<s n="n"/></r></p></e>-->
     <e><p><l>heilbrigði<s n="n"/><s n="f"/></l><r>good<b/>health<s n="n"/></r></p></e>
