@@ -6853,6 +6853,40 @@
 <!--<e><p><l>töluverður<s n="adj"/></l><r>substantial<s n="adj"/></r></p></e>-->
 <e><p><l>týndur<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
 <!--<e><p><l>týndur<s n="adj"/></l><r>missing<s n="adj"/></r></p></e>-->
+<!--<e><p><l>umfangsmikill<s n="adj"/></l><r>massive<s n="adj"/></r></p></e>-->
+<!--<e><p><l>umfangsmikill<s n="adj"/></l><r>comprehensive<s n="adj"/></r></p></e>-->
+<!--<e><p><l>umfangsmikill<s n="adj"/></l><r>immense<s n="adj"/></r></p></e>-->
+<e><p><l>umfangsmikill<s n="adj"/></l><r>extensive<s n="adj"/></r></p></e>
+<e><p><l>umkringdur<s n="adj"/></l><r>surrounded<s n="adj"/></r></p></e>
+<!--<e><p><l>umræddur<s n="adj"/></l><r>mentioned<s n="adj"/></r></p></e>-->
+<!--<e><p><l>umræddur<s n="adj"/></l><r>cited<s n="adj"/></r></p></e>-->
+<e><p><l>umræddur<s n="adj"/></l><r><g>in<b/></g>question<s n="adj"/></r></p></e>
+<e><p><l>umtalsverður<s n="adj"/></l><r>considerable<s n="adj"/></r></p></e>
+<e><p><l>undanfarinn<s n="adj"/></l><r>recent<s n="adj"/></r></p></e>
+<e><p><l>undanskilinn<s n="adj"/></l><r>excluded<s n="adj"/></r></p></e>
+<e><p><l>undarlegur<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
+<!--<e><p><l>undarlegur<s n="adj"/></l><r>funny<s n="adj"/></r></p></e>-->
+<!--<e><p><l>undarlegur<s n="adj"/></l><r>bizarre<s n="adj"/></r></p></e>-->
+<e><p><l>undirritaður<s n="adj"/></l><r>signed<s n="adj"/></r></p></e>
+<e><p><l>undrandi<s n="adj"/></l><r>surprised<s n="adj"/></r></p></e>
+<e><p><l>unnt<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
+<!--<e><p><l>unnt<s n="adj"/></l><r>doable<s n="adj"/></r></p></e>-->
+<e><p><l>upplagður<s n="adj"/></l><r>ideal<s n="adj"/></r></p></e>
+<e><p><l>upplitaður<s n="adj"/></l><r>faded<s n="adj"/></r></p></e>
+<!--<e><p><l>upplitaður<s n="adj"/></l><r>pale<s n="adj"/></r></p></e>-->
+<!--<e><p><l>upplitaður<s n="adj"/></l><r>colorless<s n="adj"/></r></p></e>-->
+<!--<e><p><l>upplitaður<s n="adj"/></l><r>faint<s n="adj"/></r></p></e>-->
+<e><p><l>upprunalegur<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+<!--<e><p><l>upprunalegur<s n="adj"/></l><r>novel<s n="adj"/></r></p></e>-->
+<!--<e><p><l>upprunalegur<s n="adj"/></l><r>unprecedented<s n="adj"/></r></p></e>-->
+<!--<e><p><l>upprunalegur<s n="adj"/></l><r>aboriginal<s n="adj"/></r></p></e>-->
+<!--<e><p><l>upprunalegur<s n="adj"/></l><r>primal<s n="adj"/></r></p></e>-->
+<e><p><l>uppseldur<s n="adj"/></l><r>sold<g><b/>out</g><s n="adj"/></r></p></e>
+<e><p><l>upptekinn<s n="adj"/></l><r>busy<s n="adj"/></r></p></e>
+<!--<e><p><l>upptekinn<s n="adj"/></l><r>occupied<s n="adj"/></r></p></e>-->
+<!--<e><p><l>upptekinn<s n="adj"/></l><r>preoccupied<s n="adj"/></r></p></e>-->
+<e><p><l>upptækur<s n="adj"/></l><r>confiscated<s n="adj"/></r></p></e>
+<e><p><l>utanverður<s n="adj"/></l><r>external<s n="adj"/></r></p></e>
 
 <!-- END checked adjectives from Anton's list -->
 
