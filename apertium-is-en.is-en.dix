@@ -6727,7 +6727,7 @@
 <!--<e><p><l>svolítill<s n="adj"/></l><r>small<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svolítill<s n="adj"/></l><r>little<s n="adj"/></r></p></e>-->
 <e><p><l>svolítill<s n="adj"/></l><r>some<s n="adj"/></r></p></e>
-<e><p><l>svona<s n="adj"/></l><r>like<b/></g>so<s n="adj"/></r></p></e> <!-- translation depends greatly on context -->
+<e><p><l>svona<s n="adj"/></l><r><g>like<b/></g>so<s n="adj"/></r></p></e> <!-- translation depends greatly on context -->
 <!--<e><p><l>svona<s n="adj"/></l><r>like<b/></g>this<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svona<s n="adj"/></l><r>like<b/></g>that<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svona<s n="adj"/></l><r>this<s n="adj"/></r></p></e>-->
