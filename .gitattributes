@@ -21,7 +21,6 @@ dev/is-en.interwiki.xml -text
 dev/is-en.wiktionary.xml -text
 dev/is-tags.mapping.txt -text
 dev/is_en.txt -text
-dev/results.txt.adj -text
 dev/results.txt.adj.xml -text
 dev/results.txt.leftovers -text
 dev/results.txt.nouns.xml -text
