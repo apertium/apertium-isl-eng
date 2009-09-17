@@ -5252,7 +5252,6 @@
     <e><p><l>slæmur<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>líkur<s n="adj"/></l><r>alike<s n="adj"/></r></p></e>
     <e><p><l>viss<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
-    <e><p><l>skammur<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hár<s n="adj"/></l><r>high<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hár<s n="adj"/></l><r>tall<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sannur<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
@@ -5273,7 +5272,7 @@
     <e><p><l>þungur<s n="adj"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ábyrgur<s n="adj"/></l><r>responsible<s n="adj"/></r></p></e>
     <e><p><l>þröngur<s n="adj"/></l><r>narrow<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>lítill<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>skammur<s n="adj"/></l><r>short<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ágætur<s n="adj"/></l><r>fine<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>breskur<s n="adj"/></l><r>british<s n="adj"/></r></p></e>
     <e><p><l>sterkur<s n="adj"/></l><r>strong<s n="adj"/><s n="sint"/></r></p></e>
