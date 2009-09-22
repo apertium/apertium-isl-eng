@@ -87,6 +87,68 @@
     <e><p><l>inn<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
 
+<!-- Prepositions from Anton's list -->
+<e><p><l>auk<s n="pr"/></l><r>plus<s n="pr"/></r></p></e>
+<!--<e><p><l>auk<s n="pr"/></l><r>besides<s n="pr"/></r></p></e>-->
+<!--<e><p><l>auk<s n="pr"/></l><r><g>in<b/></g>addition<s n="pr"/></r></p></e>-->
+<e><p><l>austan<s n="pr"/></l><r>eastwardly<s n="pr"/></r></p></e>
+<e><p><l>bakvið<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
+<e><p><l>framhjá<s n="pr"/></l><r>past<s n="pr"/></r></p></e>
+<!--<e><p><l>framhjá<s n="pr"/></l><r>by<s n="pr"/></r></p></e>-->
+<e><p><l>fremur<s n="pr"/></l><r>rather<s n="pr"/></r></p></e>
+<e><p><l>gagnvart<s n="pr"/></l><r>facing<s n="pr"/></r></p></e>
+<!--<e><p><l>gagnvart<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>-->
+<!--<e><p><l>gagnvart<s n="pr"/></l><r>against<s n="pr"/></r></p></e>-->
+<!--<e><p><l>gagnvart<s n="pr"/></l><r><g>in<b/></g>front<b/>of<s n="pr"/></r></p></e>-->
+<e><p><l>gegn<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
+<e><p><l>gegnt<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
+<e><p><l>gegnum<s n="pr"/></l><r>through<s n="pr"/></r></p></e>
+<e><p><l>handa<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+<e><p><l>handan<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
+<e><p><l>inní<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
+<e><p><l>jafnframt<s n="pr"/></l><r><g>at<b/>the<b/>same<b/></g>time<s n="pr"/></r></p></e>
+<e><p><l>móti<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
+<e><p><l>norðan<s n="pr"/></l><r>northwardly<s n="pr"/></r></p></e>
+<e><p><l>nálægt<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
+<e><p><l>oní<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+<!--<e><p><l>oní<s n="pr"/></l><r>down<s n="pr"/></r></p></e>-->
+<!--<e><p><l>samfara<s n="pr"/></l><r>incident<s n="pr"/></r></p></e>-->
+<e><p><l>samfara<s n="pr"/></l><r>along<g><b/>with</g><s n="pr"/></r></p></e>
+<!--<e><p><l>samfara<s n="pr"/></l><r>concomitant<s n="pr"/></r></p></e>-->
+<e><p><l>samkvæmt<s n="pr"/></l><r>according<g><b/>to</g><s n="pr"/></r></p></e>
+<e><p><l>sunnan<s n="pr"/></l><r>southwardly<s n="pr"/></r></p></e>
+<e><p><l>síðla<s n="pr"/></l><r>late<s n="pr"/></r></p></e>
+<!--<e><p><l>sökum<s n="pr"/></l><r>because<s n="pr"/></r></p></e>-->
+<!--<e><p><l>sökum<s n="pr"/></l><r>owing<s n="pr"/></r></p></e>-->
+<e><p><l>sökum<s n="pr"/></l><r>due<s n="pr"/></r></p></e>
+<!--<e><p><l>umfram<s n="pr"/></l><r><g>in<b/></g>addition<b/>to<s n="pr"/></r></p></e>-->
+<e><p><l>umfram<s n="pr"/></l><r><g>in<b/></g>excess<b/>of<s n="pr"/></r></p></e>
+<e><p><l>umhverfis<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
+<e><p><l>undan<s n="pr"/></l><r>away<s n="pr"/></r></p></e>
+<e><p><l>uppá<s n="pr"/></l><r>upon<s n="pr"/></r></p></e>
+<!--<e><p><l>uppá<s n="pr"/></l><r>atop<s n="pr"/></r></p></e>-->
+<!--<e><p><l>uppá<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
+<e><p><l>uppí<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+<!--<e><p><l>uppí<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
+<!--<e><p><l>uppí<s n="pr"/></l><r>towards<s n="pr"/></r></p></e>-->
+<e><p><l>uppúr<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>
+<e><p><l>vestan<s n="pr"/></l><r>westwardly<s n="pr"/></r></p></e>
+<!--<e><p><l>útaf<s n="pr"/></l><r>off<s n="pr"/></r></p></e>-->
+<e><p><l>útaf<s n="pr"/></l><r>because<s n="pr"/></r></p></e>
+<!--<e><p><l>útaf<s n="pr"/></l><r>because<g><b/>of</g><s n="pr"/></r></p></e>-->
+<!--<e><p><l>útaf<s n="pr"/></l><r>over<s n="pr"/></r></p></e>-->
+<!--<e><p><l>útaf<s n="pr"/></l><r>about<s n="pr"/></r></p></e>-->
+<!--<e><p><l>útum<s n="pr"/></l><r><g>all<b/></g>over<s n="pr"/></r></p></e>-->
+<e><p><l>útum<s n="pr"/></l><r><g>out<b/></g>through<s n="pr"/></r></p></e>
+<!--<e><p><l>útum<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>-->
+<e><p><l>útá<s n="pr"/></l><r>onto<s n="pr"/></r></p></e>
+<!--<e><p><l>útá<s n="pr"/></l><r>out<g><b/>on</g><s n="pr"/></r></p></e>-->
+<e><p><l>útí<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+<!--<e><p><l>útí<s n="pr"/></l><r><g>out<b/></g>into<s n="pr"/></r></p></e>-->
+<e><p><l>útúr<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>
+<!-- End prepositions from Anton's list -->
+
+
     <!-- Conjunctions -->
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
@@ -167,10 +229,28 @@
     <e><p><l>átta<s n="num"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>níu<s n="num"/></l><r>nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>tíu<s n="num"/></l><r>ten<s n="num"/><s n="sp"/></r></p></e>
+
     <e><p><l>ellefu<s n="num"/></l><r>eleven<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>tólf<s n="num"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
-
+    <e><p><l>þrettán<s n="num"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fjórtán<s n="num"/></l><r>fourteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>fimmtán<s n="num"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sextán<s n="num"/></l><r>sixteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sautján<s n="num"/></l><r>seventeen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>átján<s n="num"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>nítján<s n="num"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
+
+    <e><p><l>tuttugu<s n="num"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þrjátíu<s n="num"/></l><r>thirty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fjörutíu<s n="num"/></l><r>forty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fimmtíu<s n="num"/></l><r>fifty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sextíu<s n="num"/></l><r>sixty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sjötíu<s n="num"/></l><r>seventy<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>áttatíu<s n="num"/></l><r>eighty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>níutíu<s n="num"/></l><r>ninety<s n="num"/><s n="sp"/></r></p></e>
+
+    <e><p><l>hundrað<s n="num"/></l><r>hundred<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þúsund<s n="num"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
 
     
     <!-- Nouns -->
@@ -5027,7 +5107,7 @@
     <e><p><l>þökk<s n="n"/><s n="f"/></l><r>thanks<s n="n"/></r></p></e>
     <e><p><l>þörf<s n="n"/><s n="f"/></l><r>need<s n="n"/></r></p></e>
     <e><p><l>þörungur<s n="n"/><s n="m"/></l><r>alga<s n="n"/></r></p></e>
-    <e><p><l>þúsund<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>
+    <!--<e><p><l>þúsund<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>--> <!-- is also in numbers -->
     <e><p><l>þýska<s n="n"/><s n="f"/></l><r>German<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>þýðandi<s n="n"/><s n="m"/></l><r>translator<s n="n"/></r></p></e>
     <!--<e><p><l>þýðing<s n="n"/><s n="f"/></l><r>meaning<s n="n"/></r></p></e>-->
