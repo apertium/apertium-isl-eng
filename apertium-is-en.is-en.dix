@@ -99,7 +99,6 @@
     <e><p><l>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e><p><l>nema<s n="cnjsub"/></l><r>unless<s n="cnjsub"/></r></p></e>
     <e><p><l>síðan<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
-
     <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
     <e><p><l>þó<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
@@ -107,8 +106,31 @@
     <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
 
-
     <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+
+<!-- Conjunctions from Anton's list -->
+<!-- TODO:  check whether these should be "cnjsub", "cnjcoo" or "cnjadv" (what's the difference?)-->
+<e><p><l>annaðhvort<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
+<!--<e><p><l>annaðhvort<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>-->
+<e><p><l>bæði<s n="cnjsub"/></l><r>both<s n="cnjsub"/></r></p></e>
+<e><p><l>einsog<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
+<!--<e><p><l>einsog<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>-->
+<e><p><l>ellegar<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>
+<e><p><l>er<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+<e><p><l>eð<s n="cnjsub"/></l><r>anyway<s n="cnjsub"/></r></p></e>
+<e><p><l>fyrst<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+<!--<e><p><l>fyrst<s n="cnjsub"/></l><r>now<s n="cnjsub"/></r></p></e>-->
+<e><p><l>heldur<s n="cnjsub"/></l><r>rather<s n="cnjsub"/></r></p></e>
+<e><p><l>hvorki<s n="cnjsub"/></l><r>neither<s n="cnjsub"/></r></p></e>
+<e><p><l>hvort<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
+<!--<e><p><l>hvort<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>-->
+<e><p><l>né<s n="cnjsub"/></l><r>nor<s n="cnjsub"/></r></p></e>
+<e><p><l>tilað<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e>
+<e><p><l>uns<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
+<e><p><l>ýmist<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
+<e><p><l>þarsem<s n="cnjsub"/></l><r>where<s n="cnjsub"/></r></p></e>
+<e><p><l>þótt<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
+<!-- End conjunctions from Anton's list -->
   
   
     <!-- Pronouns -->
