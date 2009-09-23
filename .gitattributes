@@ -36,5 +36,6 @@ dev/results.txt.verbs.xml -text
 /pending-tests.sh -text
 /pipeline.sh -text
 /pipelineIce.sh -text
+/regression-tests-Ice.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
