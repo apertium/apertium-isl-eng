@@ -24,6 +24,7 @@ dev/is_en.txt -text
 dev/newResults.txt.adverbs.xml -text
 dev/newResults.txt.conj.xml -text
 dev/newResults.txt.interj.xml -text
+dev/newResults.txt.leftovers -text
 dev/newResults.txt.num.xml -text
 dev/newResults.txt.preps.xml -text
 dev/results.txt.adj.xml -text
