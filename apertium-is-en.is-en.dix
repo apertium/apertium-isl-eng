@@ -319,6 +319,9 @@
     <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
     <e><p><l>súpa<s n="n"/><s n="f"/></l><r>soup<s n="n"/></r></p></e>
+    <e><p><l>göngutúr<s n="n"/><s n="f"/></l><r>walk<s n="n"/></r></p></e>
+    <!--<e><p><l>göngutúr<s n="n"/><s n="f"/></l><r>stroll<s n="n"/></r></p></e>-->
+    
     
     
     <!-- Nouns in alphabetical order from bla.xml after manual checking-->
