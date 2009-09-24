@@ -11,10 +11,10 @@ DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
 LIST BOS = (>>>) (<s>) (sent) ; 
 LIST EOS = (<<<) (</s>) (sent) ; 
 
-LIST ProperNoun = (np) ;
 LIST Noun = (n) ;
+LIST ProperNoun = (np) ;
 LIST Adj = (adj) ;
-LIST Adverb = (adv) ;
+LIST Adv = (adv) ;
 LIST PersonalPronoun = (prn) ;
 LIST IndefinitePronoun = (prn ind);
 LIST DemonstrativePronoun = (prn dem) ;
@@ -24,6 +24,10 @@ LIST PossessivePronoun = (prn pos) ;
 LIST Preposition = (pr) ;
 LIST Infinitive = (inf) ;
 LIST VerbInfinitive = (vblex inf) ;
+LIST VerbSpecAux = (vaux) ;
+LIST VerbAux = (vaux) ;
+LIST VerbSupine = (vblex supn) ;
+LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) ;
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
@@ -33,6 +37,7 @@ LIST Article = (def) ;
 
 LIST Fem = (f);
 LIST Masc = (m);
+LIST Neu = (nt);
 
 LIST Gen = (gen);
 LIST Acc = (acc);
@@ -47,12 +52,11 @@ LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnv
                "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
 
-
 SECTION
 
-###
+#################################################################################
 # Proper nouns
-###
+#################################################################################
 
 # hús Láru
 
@@ -66,9 +70,9 @@ SELECT ProperNoun IF (-1C ProperNoun) (-1C Gen) (0 ("<.*dóttur">)) (0 Gen) ; 	#
 SELECT ProperNoun IF (-1C ProperNoun) (-1C Fem) ; 				# !tag.isGender(FEMININE) ;
 SELECT ProperNoun IF (-1C ProperNoun) (-1C Masc) ; 				# !tag.isGender(MASCULINE) ;
 
-###
+#################################################################################
 # Nouns
-###
+#################################################################################
 
 # hann sýnir but stakk hún hendi is ok, það sýnir aldrei
 SELECT Noun IF ((-1C PersonalPronoun) OR (-1C PersonalPronoun LINK -1C DemonstrativePronoun) OR (-1C ("<við>"ri)));
@@ -88,12 +92,73 @@ SELECT Noun IF (-1C ProperNoun) (0 Verb) ;
 # Disallow two nouns in a row unless the latter is in the genitive case
 SELECT Noun IF (-1C Noun) (NOT -1 Gen) ((NOT -2 ProperNoun) OR (-2 BOS));
 
+# select the possessive pronoun, "pabbi sinn"
+SELECT PossessivePronoun IF (-1C Noun);
 
-###
+SELECT ("á"ri) IF (-1 Adv);
+
+# skal (ekki) hita
+SELECT VerbInfinitive IF ((-1 VerbSpecAux) OR (-1C Adv LINK NOT -2 BOS LINK -2 VerbSpecAux));
+
+# hafði talið, velja sagnbót
+SELECT VerbSupine IF (-1 VerbAux);
+
+# select the adjective, but ok is "fyrir framan X", and ok is "bara verð markaðarins"
+SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 Noun LINK 1 Gen));
+
+# sú líkn
+SELECT DemonstrativePronoun IF (-1 Nom) (NOT 0 Nom);
+
+SELECT VerbBe IF (NOT 0 Nom);
+
+# select the adjective, "hann er lasinn",
+SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersonalPronoun);
+
+
+#################################################################################
 # Adjectives
-###
+#################################################################################
 
-###
+
+
+#################################################################################
 # Adverbs
-###
+#################################################################################
+
+
+
+#################################################################################
+# Personal pronouns 
+#################################################################################
+
+
+#################################################################################
+# Indefinite pronouns 
+#################################################################################
+
+
+#################################################################################
+# Demonstrative pronouns 
+#################################################################################
+
+
+#################################################################################
+# Reflexive pronouns 
+#################################################################################
+
+
+#################################################################################
+# Interrogative pronouns 
+#################################################################################
+
+
+#################################################################################
+# Possessive pronouns 
+#################################################################################
+
+
+#################################################################################
+# Prepositions
+#################################################################################
+
 
