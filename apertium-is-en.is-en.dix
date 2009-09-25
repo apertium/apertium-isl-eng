@@ -185,7 +185,7 @@
 
 
     <!-- Conjunctions -->
-<!-- formerly tagged as cnjcoo -->
+
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>en<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
@@ -194,23 +194,37 @@
     <e r="LR"><p><l>eða<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>en<s n="cnj"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
-<!-- formerly tagged as cnjsub -->
-    <e><p><l>ef<s n="cnj"/></l><r>if<s n="cnjsub"/></r></p></e>
-    <e><p><l>að<s n="cnj"/></l><r>that<s n="cnjsub"/></r></p></e>
-    <e><p><l>þegar<s n="cnj"/></l><r>when<s n="cnjsub"/></r></p></e>
-    <e><p><l>sem<s n="cnj"/></l><r>as<s n="cnjsub"/></r></p></e>
-    <e><p><l>meðan<s n="cnj"/></l><r>while<s n="cnjsub"/></r></p></e>
-    <e><p><l>nema<s n="cnj"/></l><r>unless<s n="cnjsub"/></r></p></e>
-    <e><p><l>síðan<s n="cnj"/></l><r>since<s n="cnjsub"/></r></p></e>
-    <e><p><l>eins<b/>og<s n="cnj"/></l><r>like<s n="cnjsub"/></r></p></e>
-    <e><p><l>til<b/>þess<b/>að<s n="cnj"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
-    <e><p><l>þó<s n="cnj"/></l><r>though<s n="cnjsub"/></r></p></e>
-    <e><p><l>þó<b/>að<s n="cnj"/></l><r>although<s n="cnjsub"/></r></p></e>
-    <e><p><l>af<b/>því<b/>að<s n="cnj"/></l><r>because<s n="cnjsub"/></r></p></e>
-    <e><p><l>því<b/>að<s n="cnj"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>þegar<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e><p><l>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e><p><l>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
+    <e><p><l>nema<s n="cnjsub"/></l><r>unless<s n="cnjsub"/></r></p></e>
+    <e><p><l>síðan<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
+    <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
+    <e><p><l>þó<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
+    <e><p><l>þó<b/>að<s n="cnjsub"/></l><r>although<s n="cnjsub"/></r></p></e>
+    <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e><p><l>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
 
-<!-- formerly tagged as cnjadv -->
-    <e><p><l>svo<s n="cnj"/></l><r>then<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>ef<s n="cnj"/></l><r>if<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>að<s n="cnj"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>þegar<s n="cnj"/></l><r>when<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>sem<s n="cnj"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>meðan<s n="cnj"/></l><r>while<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>nema<s n="cnj"/></l><r>unless<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>síðan<s n="cnj"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>eins<b/>og<s n="cnj"/></l><r>like<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>til<b/>þess<b/>að<s n="cnj"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>þó<s n="cnj"/></l><r>though<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>þó<b/>að<s n="cnj"/></l><r>although<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>af<b/>því<b/>að<s n="cnj"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>því<b/>að<s n="cnj"/></l><r>because<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+
+    <e r="LR"><p><l>svo<s n="cnj"/></l><r>then<s n="cnjadv"/></r></p></e>
 
 
 <!-- Conjunctions from Anton's list -->
