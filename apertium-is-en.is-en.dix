@@ -186,9 +186,13 @@
 
     <!-- Conjunctions -->
 <!-- formerly tagged as cnjcoo -->
-    <e><p><l>og<s n="cnj"/></l><r>and<s n="cnjcoo"/></r></p></e>
-    <e><p><l>eða<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
-    <e><p><l>en<s n="cnj"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>en<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+
+    <e r="LR"><p><l>og<s n="cnj"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>eða<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>en<s n="cnj"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
 <!-- formerly tagged as cnjsub -->
     <e><p><l>ef<s n="cnj"/></l><r>if<s n="cnjsub"/></r></p></e>
