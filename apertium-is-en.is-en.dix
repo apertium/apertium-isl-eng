@@ -249,6 +249,28 @@
 <e><p><l>ýmist<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
 <e><p><l>þarsem<s n="cnjsub"/></l><r>where<s n="cnjsub"/></r></p></e>
 <e><p><l>þótt<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
+
+<e r="LR"><p><l>annaðhvort<s n="cnj"/></l><r>either<s n="cnjcoo"/></r></p></e>
+<!--<e r="LR"><p><l>annaðhvort<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>-->
+<e r="LR"><p><l>bæði<s n="cnj"/></l><r>both<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>einsog<s n="cnj"/></l><r>like<s n="cnjcoo"/></r></p></e>
+<!--<e r="LR"><p><l>einsog<s n="cnj"/></l><r>as<s n="cnjcoo"/></r></p></e>-->
+<e r="LR"><p><l>ellegar<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>er<s n="cnj"/></l><r>that<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>eð<s n="cnj"/></l><r>anyway<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>fyrst<s n="cnj"/></l><r>since<s n="cnjcoo"/></r></p></e>
+<!--<e r="LR"><p><l>fyrst<s n="cnj"/></l><r>now<s n="cnjcoo"/></r></p></e>-->
+<e r="LR"><p><l>heldur<s n="cnj"/></l><r>rather<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>hvorki<s n="cnj"/></l><r>neither<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>hvort<s n="cnj"/></l><r>whether<s n="cnjcoo"/></r></p></e>
+<!--<e r="LR"><p><l>hvort<s n="cnj"/></l><r>if<s n="cnjcoo"/></r></p></e>-->
+<e r="LR"><p><l>né<s n="cnj"/></l><r>nor<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>tilað<s n="cnj"/></l><r>to<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>uns<s n="cnj"/></l><r>until<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>ýmist<s n="cnj"/></l><r>either<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>þarsem<s n="cnj"/></l><r>where<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>þótt<s n="cnj"/></l><r>though<s n="cnjcoo"/></r></p></e>
+
 <!-- End conjunctions from Anton's list -->
   
   
