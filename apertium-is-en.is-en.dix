@@ -12,6 +12,7 @@
     <sdef n="cnjadv"/>
     <sdef n="ant"/>
     <sdef n="dem"/>
+    <sdef n="itg"/>
     <sdef n="qnt"/>
     <sdef n="pr"/>
     <sdef n="sg"/>
@@ -292,6 +293,14 @@
     <e><p><l>þessi<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/></r></p></e>
 
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
+
+    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>hver<s n="prn"/><s n="itg"/><s n="GD"/><s n="ND"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e>
