@@ -9671,8 +9671,7 @@
     <e><p><l>hver<s n="adv"/></l><r>who<s n="adv"/></r></p></e>
     <e><p><l>hvernig<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
     <e><p><l>hví<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
-    <e><p><l>af<b/>hverju<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
-    <e><p><l>af<b/>hverju<b/>ekki<s n="adv"/></l><r>why<b/>not<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>af<b/>hverju<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
     <e><p><l>hvort<s n="adv"/></l><r>whether<s n="adv"/></r></p></e>
 
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
