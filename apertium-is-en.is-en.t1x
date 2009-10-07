@@ -2,6 +2,10 @@
 <transfer default="chunk">
 
 <section-def-cats>
+  <def-cat n="gen_nom">
+   <!-- kona<n><f><sg><gen><def> -->
+     <cat-item tags="n.*.*.gen.*"/>
+  </def-cat>
   <def-cat n="nom">
      <cat-item tags="n.*"/>
      <cat-item tags="np.al.*"/>
@@ -759,6 +763,89 @@
        </choose>
      </action>
   </rule><!-- END rule for 1 adjective + noun -->
+
+  <rule comment="REGLA: NOM NOMGEN"><!-- rule for 1 noun + noungen -->
+     <pattern>
+       <pattern-item n="nom"/>
+       <pattern-item n="gen_nom"/>
+     </pattern>
+     <action>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="2" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_nom_gen_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+               </lu>
+               <b/>
+              <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <lu>
+                 <lit v="'s"/>
+                 <lit-tag v="gen"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="nom_gen_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <get-case-from pos="1">
+                   <clip pos="2" side="tl" part="lem"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+               </lu>
+               <lu>
+                 <lit v="'s"/>
+                 <lit-tag v="gen"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule><!-- END rule for noun + nomgen -->
+
 
   <rule comment="REGLA: NOM PRNPOS"><!-- rule for nouns followed by possessive pronoun -->
      <pattern>

@@ -1119,6 +1119,7 @@
     <e><p><l>elja<s n="n"/><s n="f"/></l><r>endurance<s n="n"/></r></p></e>
     <e><p><l>elli<s n="n"/><s n="f"/></l><r>old<b/>age<s n="n"/></r></p></e> <!-- check English translation -->
     <e><p><l>elri<s n="n"/><s n="nt"/></l><r>alder<s n="n"/></r></p></e>
+    <e><p><l>elska<s n="n"/><s n="f"/></l><r>love<s n="n"/></r></p></e>
     <!--<e><p><l>elska<s n="n"/><s n="f"/></l><r>affection, love<s n="n"/></r></p></e>--> <!-- ?? -->
     <!--<e><p><l>elska<s n="v"/><s n="f"/></l><r>love<s n="v"/></r></p></e> --> <!-- verb -->
     <!--<e><p><l>embætti<s n="n"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>-->
@@ -8889,6 +8890,8 @@
 <!--<e><p><l>rölta<s n="vblex"/></l><r>wander<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>rölta<s n="vblex"/></l><r>ramble<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>rölta<s n="vblex"/></l><r>amble<s n="vblex"/></r></p></e>-->
+    <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
+    <e><p><l>greiða<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
 <e><p><l>rúma<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
 <!--<e><p><l>rúma<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>-->
 <e><p><l>rýma<s n="vblex"/></l><r>evacuate<s n="vblex"/></r></p></e>
