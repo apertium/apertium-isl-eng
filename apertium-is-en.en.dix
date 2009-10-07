@@ -87406,6 +87406,26 @@
       <i>simultaneously</i> 
       <par n="maybe__adv"/> 
    </e>
+                        <e lm="as" i="">
+      <i>as</i> 
+      <par n="that__cnjsub"/> 
+   </e>
+                        <e lm="unless" i="">
+      <i>unless</i> 
+      <par n="that__cnjsub"/> 
+   </e>
+                        <e lm="though" i="">
+      <i>though</i> 
+      <par n="that__cnjsub"/> 
+   </e>
+                        <e lm="although" i="">
+      <i>although</i> 
+      <par n="that__cnjsub"/> 
+   </e>
+                        <e lm="because" i="">
+      <i>because</i> 
+      <par n="that__cnjsub"/> 
+   </e>
                         <e lm="since" i="">
       <i>since</i> 
       <par n="that__cnjsub"/> 
@@ -88117,6 +88137,10 @@
     </e>
                         <e lm="or" i="">
         <i>or</i> 
+        <par n="and__cnjcoo"/> 
+    </e>
+                        <e lm="rather than" i="">
+        <i>rather<b/>than</i> 
         <par n="and__cnjcoo"/> 
     </e>
                         <e lm="than" i="">

@@ -53,6 +53,10 @@
      <cat-item tags="prn.p3.*"/>
   </def-cat>
 
+  <def-cat n="prn_pos">
+    <cat-item tags="prn.pos.*"/>
+  </def-cat>
+
   <def-cat n="prn">
     <cat-item tags="prn.*"/>
   </def-cat>
@@ -114,6 +118,11 @@
      <attr-item tags="prn.subj"/>
      <attr-item tags="prn.obj"/>
      <attr-item tags="prn.qnt"/>
+  </def-attr>
+
+  <def-attr n="a_poss">
+     <attr-item tags="prn.pos"/>
+     <attr-item tags="det.pos"/>
   </def-attr>
 
   <def-attr n="a_adj">
@@ -401,6 +410,28 @@
          </when>
    </choose>
   </def-macro>
+
+  <def-macro n="prn_pos_to_det_pos" npar="1">
+    <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="minn"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="my"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="a_poss"/>
+             <lit-tag v="det.pos"/>
+           </let>
+         </when>
+   </choose>
+  </def-macro>
+
 
 
 </section-def-macros>
@@ -728,6 +759,41 @@
        </choose>
      </action>
   </rule><!-- END rule for 1 adjective + noun -->
+
+  <rule comment="REGLA: NOM PRNPOS"><!-- rule for nouns followed by possessive pronoun -->
+     <pattern>
+       <pattern-item n="nom"/>
+       <pattern-item n="prn_pos"/>
+     </pattern>
+     <action>
+     <call-macro n="prn_pos_to_det_pos">
+       <with-param pos="2"/>
+     </call-macro>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_poss"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule><!-- END rule for nouns -->
+
+
 
   <rule><!-- rule for 2 adjectives + noun -->
      <pattern>
