@@ -445,9 +445,80 @@
              <lit v="your"/>
            </let>
          </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="hans"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="his"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="hennar"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="her"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="þess"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="its"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="okkar"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="our"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="ykkar"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="your"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="þeirra"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="their"/>
+           </let>
+         </when>
    </choose>
   </def-macro>
-
 
 
 </section-def-macros>
