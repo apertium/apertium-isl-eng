@@ -5,6 +5,12 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.lex.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -36,6 +42,12 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.lex.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -61,6 +73,12 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.lex.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -82,6 +100,12 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.lex.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -94,16 +118,31 @@
     </pipeline>
   </mode>
 
+  <mode name="is-en-lex">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="is-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.lex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="is-en-tagger">
     <pipeline>
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
     </pipeline>
   </mode>
+
 
 
 </modes>

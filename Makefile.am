@@ -12,7 +12,8 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).mode
+     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
+     $(PREFIX1).lex.bin $(PREFIX1).mode
 
 ##
 ## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
@@ -33,6 +34,13 @@ $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
 	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
+
+##
+##	LEXICAL SELECTION
+##
+
+$(PREFIX1).lex.bin: $(BASENAME).$(PREFIX1).lex
+	cg-comp $(BASENAME).$(PREFIX1).lex $@
 
 ##
 ##	TRANSFER RULES
@@ -80,6 +88,7 @@ apertium_is_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin  \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX1).autopgen.bin \
+		    $(PREFIX1).lex.bin \
 		    $(PREFIX1).t1x.bin \
 		    $(PREFIX1).t2x.bin \
 		    $(PREFIX1).t3x.bin \

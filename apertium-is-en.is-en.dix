@@ -47,6 +47,9 @@
     <sdef n="preadv"/>
     <sdef n="GD"/>
     <sdef n="ND"/>
+
+    <sdef n=":0"/>
+    <sdef n=":1"/>
   </sdefs>
   <pardefs>
     <pardef n="allur_all__prn">
@@ -888,7 +891,8 @@
     <e><p><l>bón<s n="n"/><s n="f"/></l><r>request<s n="n"/></r></p></e>
     <!--<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>master<s n="n"/></r></p></e>-->
     <!--<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>-->
-    <e><p><l>bóndi<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
+    <e><p><l>bóndi<s n="n"/><s n=":0"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
+    <e><p><l>bóndi<s n="n"/><s n=":1"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>
     <e><p><l>bór<s n="n"/><s n="nt"/></l><r>boron<s n="n"/></r></p></e>
     <e><p><l>bót<s n="n"/><s n="f"/></l><r>cure<s n="n"/></r></p></e>
     <e><p><l>bótúlíneitrun<s n="n"/><s n="f"/></l><r>botulism<s n="n"/></r></p></e>
