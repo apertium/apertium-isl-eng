@@ -416,6 +416,10 @@
   </def-macro>
 
   <def-macro n="prn_pos_to_det_pos" npar="1">
+    <let>
+      <clip pos="1" side="tl" part="a_poss"/>
+      <lit-tag v="det.pos"/>
+    </let>
     <choose>
          <when>
            <test>
@@ -428,9 +432,17 @@
              <clip pos="1" side="tl" part="lem"/>
              <lit v="my"/>
            </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="þinn"/>
+             </equal>
+           </test>
            <let>
-             <clip pos="1" side="tl" part="a_poss"/>
-             <lit-tag v="det.pos"/>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="your"/>
            </let>
          </when>
    </choose>
