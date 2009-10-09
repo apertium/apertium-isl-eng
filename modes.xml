@@ -8,11 +8,8 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc">
+      <program name="cg-proc -n">
         <file name="is-en.lex.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="is-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -45,11 +42,8 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc">
+      <program name="cg-proc -n">
         <file name="is-en.lex.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="is-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -76,11 +70,8 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc">
+      <program name="cg-proc -n">
         <file name="is-en.lex.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="is-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
@@ -103,11 +94,8 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc">
+      <program name="cg-proc -n">
         <file name="is-en.lex.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="is-en.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
