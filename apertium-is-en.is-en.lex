@@ -13,3 +13,9 @@ SUBSTITUTE (n) (n :0) ("bóndi"ri);
 
 # "bóndi" : "husband"
 SUBSTITUTE (n :0) (n :1) ("bóndi"ri) (1C PrnPos);
+
+# "drottinn" : "king"
+SUBSTITUTE (n) (n :0) ("drottinn"ri);
+
+# "drottinn" : "lord"
+SUBSTITUTE (n :0) (n :1) ("drottinn"ri) (1C ("Guð"));

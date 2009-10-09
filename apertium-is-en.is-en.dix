@@ -19,6 +19,7 @@
     <sdef n="pl"/>
     <sdef n="vblex"/>
     <sdef n="top"/>
+    <sdef n="al"/>
     <sdef n="vbser"/>
     <sdef n="vaux"/>
     <sdef n="vbhaver"/>
@@ -351,6 +352,7 @@
 
     
     <!-- Nouns -->
+    <e><p><l>guð<s n="n"/><s n="nt"/></l><r>god<s n="n"/></r></p></e>
     <e><p><l>tré<s n="n"/><s n="nt"/></l><r>tree<s n="n"/></r></p></e>
     <e><p><l>hestur<s n="n"/><s n="m"/></l><r>horse<s n="n"/></r></p></e>
     <e><p><l>orð<s n="n"/><s n="nt"/></l><r>word<s n="n"/></r></p></e>
@@ -980,6 +982,8 @@
     <e><p><l>drjóli<s n="n"/><s n="m"/></l><r>cock<s n="n"/></r></p></e> <!-- (slang for penis) -->
     <e><p><l>dropi<s n="n"/><s n="m"/></l><r>drop<s n="n"/></r></p></e>
     <e><p><l>drottning<s n="n"/><s n="f"/></l><r>queen<s n="n"/></r></p></e>
+    <e><p><l>drottinn<s n="n"/><s n=":0"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
+    <e><p><l>drottinn<s n="n"/><s n=":1"/><s n="m"/></l><r>lord<s n="n"/></r></p></e>
     <e><p><l>drykkur<s n="n"/><s n="m"/></l><r>drink<s n="n"/></r></p></e>
     <e><p><l>dráttarvél<s n="n"/><s n="f"/></l><r>tractor<s n="n"/></r></p></e> <!-- (vehicle used in farming) -->
     <!--<e><p><l>dráttur<s n="n"/><s n="m"/></l><r>pulling<s n="n"/></r></p></e>--> <!-- don't think pulling is a noun in English -->
@@ -5429,6 +5433,8 @@
     <e><p><l>Þorsteinn<s n="np"/><s n="ant"/><s n="m"/></l><r>Þorsteinn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Þórarinn<s n="np"/><s n="ant"/><s n="m"/></l><r>Þórarinn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
+    <e><p><l>Guð<s n="np"/><s n="al"/><s n="m"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
+
     
     <!-- Adjectives -->
     <e><p><l>góður<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
@@ -6067,7 +6073,6 @@
 <!--<e><p><l>grimmur<s n="adj"/></l><r>fierce<s n="adj"/></r></p></e>-->
 <!--<e><p><l>grimmur<s n="adj"/></l><r>harsh<s n="adj"/></r></p></e>-->
 <!--<e><p><l>grimmur<s n="adj"/></l><r>brutal<s n="adj"/></r></p></e>-->
-<e><p><l>grænn<s n="adj"/></l><r>green<s n="adj"/></r></p></e>
 <e><p><l>grískur<s n="adj"/></l><r>Greek<s n="adj"/></r></p></e>
 <!--<e><p><l>grófur<s n="adj"/></l><r>rough<s n="adj"/></r></p></e>-->
 <!--<e><p><l>grófur<s n="adj"/></l><r>rude<s n="adj"/></r></p></e>-->
@@ -7617,7 +7622,9 @@
 
 
     <!-- Verbs -->
+
     <e><p><l>vera<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
+    <e><p><l>verða<s n="vblex"/></l><r>become<s n="vblex"/></r></p></e>
     <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
