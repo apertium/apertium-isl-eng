@@ -7627,6 +7627,8 @@
     <e><p><l>verða<s n="vblex"/></l><r>become<s n="vblex"/></r></p></e>
     <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
+
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>segja<g><b/>upp</g><s n="vblex"/></l><r>lay<g><b/>off</g><s n="vblex"/></r></p></e>
