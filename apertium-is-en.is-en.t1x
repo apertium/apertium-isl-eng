@@ -61,6 +61,10 @@
     <cat-item tags="prn.pos.*"/>
   </def-cat>
 
+  <def-cat n="det_dem">
+    <cat-item tags="det.dem.*"/>
+  </def-cat>
+
   <def-cat n="prn">
     <cat-item tags="prn.*"/>
   </def-cat>
@@ -122,6 +126,11 @@
      <attr-item tags="prn.subj"/>
      <attr-item tags="prn.obj"/>
      <attr-item tags="prn.qnt"/>
+  </def-attr>
+
+  <def-attr n="a_det">
+     <attr-item tags="det.dem"/>
+     <attr-item tags="det.pos"/>
   </def-attr>
 
   <def-attr n="a_poss">
@@ -846,6 +855,38 @@
        </choose>
      </action>
   </rule><!-- END rule for 1 adjective + noun -->
+
+  <rule comment="REGLA: DETDEM NOM → DETDEM NOM">
+     <pattern>
+       <pattern-item n="det_dem"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_det"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
 
   <rule comment="REGLA: NOM NOMGEN"><!-- rule for 1 noun + noungen -->
      <pattern>

@@ -1445,7 +1445,7 @@
     <e>
       <p>
         <l>is</l> 
-        <r>is<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r> 
+        <r>is<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -1453,7 +1453,7 @@
     <e>
       <p>
         <l>ese</l> 
-        <r>is<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r> 
+        <r>is<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r> 
       </p>
     </e>
 
