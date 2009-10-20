@@ -52,6 +52,7 @@
 
     <sdef n=":0"/>
     <sdef n=":1"/>
+    <sdef n=":2"/>
   </sdefs>
   <pardefs>
     <pardef n="allur_all__prn">
@@ -3925,6 +3926,7 @@
     <e><p><l>skrifstofa<s n="n"/><s n="f"/></l><r>office<s n="n"/></r></p></e>
     <e><p><l>skriðdýr<s n="n"/><s n="nt"/></l><r>reptile<s n="n"/></r></p></e>
     <e><p><l>skrá<s n="n"/><s n="f"/></l><r>list<s n="n"/></r></p></e>
+    <e><p><l>listi<s n="n"/><s n="m"/></l><r>list<s n="n"/></r></p></e>
     <e><p><l>skráakerfi<s n="n"/><s n="nt"/></l><r>file<b/>system<s n="n"/></r></p></e>
     <e><p><l>skrápdýr<s n="n"/><s n="nt"/></l><r>echinoderm<s n="n"/></r></p></e>
     <!--<e><p><l>skræfa<s n="n"/><s n="f"/></l><r>coward<s n="n"/></r></p></e>-->
@@ -4319,9 +4321,9 @@
     <e><p><l>sænska<s n="n"/><s n="f"/></l><r>Swedish<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>sæskrímsli<s n="n"/><s n="nt"/></l><r>sea<b/>monster<s n="n"/></r></p></e>
     <e><p><l>sæstjarna<s n="n"/><s n="f"/></l><r>starfish<s n="n"/></r></p></e>
-    <!--<e><p><l>sæti<s n="n"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>-->
-    <e><p><l>sæti<s n="n"/><s n="nt"/></l><r>seat<s n="n"/></r></p></e>
+    <e><p><l>sæti<s n="n"/><s n=":0"/><s n="nt"/></l><r>seat<s n="n"/></r></p></e>
     <e><p><l>sæti<s n="n"/><s n=":1"/><s n="nt"/></l><r>place<s n="n"/></r></p></e>
+    <e><p><l>sæti<s n="n"/><s n=":2"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>
     <e><p><l>sætistala<s n="n"/><s n="f"/></l><r>atomic<b/>number<s n="n"/></r></p></e>
     <e><p><l>sætt<s n="n"/><s n="f"/></l><r>reconciliation<s n="n"/></r></p></e>
     <e><p><l>séra<s n="n"/><s n="m"/></l><r>reverend<s n="n"/></r></p></e>
