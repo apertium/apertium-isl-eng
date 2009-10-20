@@ -11,8 +11,9 @@ DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
 LIST BOS = (>>>) (<s>) (sent) ; 
 LIST EOS = (<<<) (</s>) (sent) ; 
 
-LIST Noun = (n) ;
-LIST ProperNoun = (np) ;
+LIST Nom = (n) ;
+LIST Num = (num) ;
+LIST ProperNom = (np) ;
 LIST Adj = (adj) ;
 LIST Adv = (adv) ;
 LIST PersonalPronoun = (prn) ;
@@ -21,7 +22,8 @@ LIST DemonstrativePronoun = (prn dem) ;
 LIST ReflexivePronoun = (prn ref) ;
 LIST InterrogativePronoun = (prn itg) ;
 LIST PossessivePronoun = (prn pos) ;
-LIST Preposition = (pr) ;
+LIST Pron = (prn);
+LIST Prep = (pr) ;
 LIST Infinitive = (inf) ;
 LIST VerbInfinitive = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
@@ -31,13 +33,17 @@ LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) ;
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
-LIST Numeral = (num) ;
+LIST CC = (cnjcoo) ;
+LIST CS = (cnjsub) ;
 LIST Exclamation = (ij) ;
 LIST Article = (def) ;
+LIST Det = (det) ;
+LIST Interj = (itg) ;
 
 LIST Fem = (f);
-LIST Masc = (m);
+LIST Msc = (m);
 LIST Neu = (nt);
+
 
 LIST Gen = (gen);
 LIST Acc = (acc);
@@ -52,6 +58,25 @@ LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnv
                "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
 
+LIST NAGD = nom acc gen dat;
+
+LIST COMMA = (",") ;
+
+
+SET NomMscFem = (n m) OR (n f) ;
+SET NomMscNeu = (n m) OR (n nt) ;
+SET NomFemNeu = (n f) OR (n nt) ;
+
+
+SET PRE-N =  Adj | Det | (Nom Gen) | Num | (Pron Gen) | CC ; # Det???
+
+SET WORD = Nom | Verb | Adj | Prep | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
+SET MARK =  COMMA | ("\") | ("\;") ; #"
+SET WORDMARK = WORD | MARK ;
+
+SET NPNHA = WORDMARK - PRE-N - Adv ;
+
+
 SECTION
 
 #################################################################################
@@ -60,40 +85,42 @@ SECTION
 
 # hús Láru
 
-SELECT ProperNoun IF (-1C Noun) (1 Gen) ; 					# !tag.isCase(GENITIVE) ;
-SELECT ProperNoun IF (-1C GenPrep) (1 Gen) ;	
-SELECT ProperNoun IF (-1C AccPrep) (1 Acc) ;
-SELECT ProperNoun IF (-1C DatPrep) (1 Dat) ;
+SELECT ProperNom IF (-1C Nom) (1 Gen) ; 					# !tag.isCase(GENITIVE) ;
+SELECT ProperNom IF (-1C GenPrep) (1 Gen) ;	
+SELECT ProperNom IF (-1C AccPrep) (1 Acc) ;
+SELECT ProperNom IF (-1C DatPrep) (1 Dat) ;
 
 # Hildar Guðmundsdóttur
-SELECT ProperNoun IF (-1C ProperNoun) (-1C Gen) (0 ("<.*dóttur">)) (0 Gen) ; 	# !tag.isCase(GENITIVE) ;
-SELECT ProperNoun IF (-1C ProperNoun) (-1C Fem) ; 				# !tag.isGender(FEMININE) ;
-SELECT ProperNoun IF (-1C ProperNoun) (-1C Masc) ; 				# !tag.isGender(MASCULINE) ;
+SELECT ProperNom IF (-1C ProperNom) (-1C Gen) (0 ("<.*dóttur">)) (0 Gen) ; 	# !tag.isCase(GENITIVE) ;
+SELECT ProperNom IF (-1C ProperNom) (-1C Fem) ; 				# !tag.isGender(FEMININE) ;
+SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 
 #################################################################################
-# Nouns
+# Noms
 #################################################################################
 
 # hann sýnir but stakk hún hendi is ok, það sýnir aldrei
-SELECT Noun IF ((-1C PersonalPronoun) OR (-1C PersonalPronoun LINK -1C DemonstrativePronoun) OR (-1C ("<við>"ri)));
-SELECT Noun IF (-1C GenPrep) (1 Gen) ;	
-SELECT Noun IF (-1C AccPrep) (1 Acc) ;
-SELECT Noun IF (-1C DatPrep) (1 Dat) ;
+
+# CEx. Þessi íslenska kona
+#SELECT Nom IF ((-1C PersonalPronoun) OR (-1C PersonalPronoun LINK -1C DemonstrativePronoun) OR (-1C ("<við>"ri)));
+SELECT Nom IF (-1C GenPrep) (1 Gen) ;	
+SELECT Nom IF (-1C AccPrep) (1 Acc) ;
+SELECT Nom IF (-1C DatPrep) (1 Dat) ;
 
 # að (cn/aa) beina (sgn/n*) mér
-SELECT Noun IF (-1 Inf) (0 VerbInfinitive) ;
+SELECT Nom IF (-1 Inf) (0 VerbInfinitive) ;
 
 # einhvern sem sæti
-SELECT Noun IF (-1 ("<sem>"ri)) (0 Verb) ;
+SELECT Nom IF (-1 ("<sem>"ri)) (0 Verb) ;
 
 # choose the verb
-SELECT Noun IF (-1C ProperNoun) (0 Verb) ;
+SELECT Nom IF (-1C ProperNom) (0 Verb) ;
 
 # Disallow two nouns in a row unless the latter is in the genitive case
-SELECT Noun IF (-1C Noun) (NOT -1 Gen) ((NOT -2 ProperNoun) OR (-2 BOS));
+SELECT Nom IF (-1C Nom) (NOT -1 Gen) ((NOT -2 ProperNom) OR (-2 BOS));
 
 # select the possessive pronoun, "pabbi sinn"
-SELECT PossessivePronoun IF (-1C Noun);
+SELECT PossessivePronoun IF (-1C Nom);
 
 SELECT ("á"ri) IF (-1 Adv);
 
@@ -104,7 +131,7 @@ SELECT VerbInfinitive IF ((-1 VerbSpecAux) OR (-1C Adv LINK NOT -2 BOS LINK -2 V
 SELECT VerbSupine IF (-1 VerbAux);
 
 # select the adjective, but ok is "fyrir framan X", and ok is "bara verð markaðarins"
-SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 Noun LINK 1 Gen));
+SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 Nom LINK 1 Gen));
 
 # sú líkn
 SELECT DemonstrativePronoun IF (-1 Nom) (NOT 0 Nom);
@@ -161,4 +188,11 @@ SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersonalPronoun);
 # Prepositions
 #################################################################################
 
+#################################################################################
+# NPs  
+#################################################################################
+
+REMOVE:ufc_f  Adj + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
+REMOVE:ufc_m  Adj + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
+REMOVE:ufc_nt Adj + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
 

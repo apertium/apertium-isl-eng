@@ -5,6 +5,9 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -39,6 +42,9 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -67,6 +73,9 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -91,6 +100,9 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -111,6 +123,9 @@
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
       </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
@@ -124,6 +139,9 @@
     <pipeline>
       <program name="lt-proc">
         <file name="is-en.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
       </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
