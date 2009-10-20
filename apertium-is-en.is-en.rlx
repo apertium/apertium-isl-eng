@@ -59,6 +59,8 @@ LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnv
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
 
 LIST NAGD = nom acc gen dat;
+LIST GENDER = m f nt;
+LIST NUMBER = sg pl;
 
 LIST COMMA = (",") ;
 
@@ -117,7 +119,7 @@ SELECT Nom IF (-1 ("<sem>"ri)) (0 Verb) ;
 SELECT Nom IF (-1C ProperNom) (0 Verb) ;
 
 # Disallow two nouns in a row unless the latter is in the genitive case
-SELECT Nom IF (-1C Nom) (NOT -1 Gen) ((NOT -2 ProperNom) OR (-2 BOS));
+REMOVE Nom IF (-1C Nom) (NOT -1 Gen) ((NOT -2 ProperNom) OR (-2 BOS));
 
 # select the possessive pronoun, "pabbi sinn"
 SELECT PossessivePronoun IF (-1C Nom);
@@ -195,4 +197,17 @@ SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersonalPronoun);
 REMOVE:ufc_f  Adj + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
 REMOVE:ufc_m  Adj + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
 REMOVE:ufc_nt Adj + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
+
+SELECT:r28 $$GENDER IF (-1C (Adj) + $$GENDER)(0 Nom);
+SELECT:r30b $$GENDER IF (-1C (Det) + $$GENDER)(0 Nom);
+SELECT:r30c $$GENDER IF (-1C (Pron Indef) + $$GENDER)(0 Nom);
+
+SELECT:r29 $$NAGD IF (-1C (Adj) + $$NAGD)(0 Nom);
+SELECT:r30b $$NAGD IF (-1C (Det) + $$NAGD)(0 Nom);
+SELECT:r30c $$NAGD IF (-1C (Pron Indef) + $$NAGD)(0 Nom);
+
+SELECT:r30 $$NUMBER IF (-1C (Adj) + $$NUMBER)(0 Nom);
+SELECT:r30b $$NUMBER IF (-1C (Det) + $$NUMBER)(0 Nom);
+SELECT:r30c $$NUMBER IF (-1C (Pron Indef) + $$NUMBER)(0 Nom);
+
 
