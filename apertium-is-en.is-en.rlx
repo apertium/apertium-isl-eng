@@ -68,7 +68,7 @@ SET NomMscNeu = (n m) OR (n nt) ;
 SET NomFemNeu = (n f) OR (n nt) ;
 
 
-SET PRE-N =  Adj | Det | (Nom Gen) | Num | (Pron Gen) | CC ; # Det???
+SET PRE-N =  Adj | Det | (Nom Gen) | Num | (Pron Gen) | (Pron Dem) | CC ; # Det???
 
 SET WORD = Nom | Verb | Adj | Prep | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
 SET MARK =  COMMA | ("\") | ("\;") ; #"
