@@ -124,7 +124,7 @@
 <!--<e><p><l>samfara<s n="pr"/></l><r>incident<s n="pr"/></r></p></e>-->
     <e><p><l>samfara<s n="pr"/></l><r>along<g><b/>with</g><s n="pr"/></r></p></e>
 <!--<e><p><l>samfara<s n="pr"/></l><r>concomitant<s n="pr"/></r></p></e>-->
-    <e><p><l>samkvæmt<s n="pr"/></l><r>according<g><b/>to</g><s n="pr"/></r></p></e>
+    <e><p><l>samkvæmt<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
     <e><p><l>sunnan<s n="pr"/></l><r>southwardly<s n="pr"/></r></p></e>
     <e><p><l>síðla<s n="pr"/></l><r>late<s n="pr"/></r></p></e>
 <!--<e><p><l>sökum<s n="pr"/></l><r>because<s n="pr"/></r></p></e>-->
@@ -432,7 +432,7 @@
     <e><p><l>afsláttur<s n="n"/><s n="m"/></l><r>discount<s n="n"/></r></p></e> <!-- (from a price) -->
     <e><p><l>afstaða<s n="n"/><s n="f"/></l><r>stand<s n="n"/></r></p></e>
     <e><p><l>afstaða<s n="n"/><s n=":1"/><s n="f"/></l><r>attitude<s n="n"/></r></p></e> 
-    <e><p><l>afstaða<s n="n"/><s n=":2"><s n="f"/></l><r>reaction<s n="n"/></r></p></e> 
+    <e><p><l>afstaða<s n="n"/><s n=":2"/><s n="f"/></l><r>reaction<s n="n"/></r></p></e> 
     <e><p><l>afsteypumót<s n="n"/><s n="nt"/></l><r>mold<s n="n"/></r></p></e> <!-- (sediment surrounding and including the artifacts, features, and other materials at an archaeological site) -->
     <e><p><l>afsökun<s n="n"/><s n="f"/></l><r>excuse<s n="n"/></r></p></e>
     <e><p><l>afturbati<s n="n"/><s n="m"/></l><r>convalescence<s n="n"/></r></p></e>
