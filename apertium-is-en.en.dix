@@ -45600,6 +45600,10 @@
         <i>hour</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="agenda" i="">
+        <i>agenda</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="house" i="">
         <i>house</i> 
         <par n="house__n"/> 

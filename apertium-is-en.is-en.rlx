@@ -86,6 +86,10 @@ SET NPNHA = WORDMARK - PRE-N - Adv ;
 
 SECTION
 
+# Specific lexemes
+
+REMOVE N IF (-1C N OR ProperNom) (0 ("<á>"ri));
+
 #################################################################################
 # Proper nouns
 #################################################################################
@@ -122,7 +126,8 @@ SELECT N IF (-1 Inf) (0 VerbInfinitive) ;
 SELECT N IF (-1 ("<sem>"ri)) (0 Verb) ;
 
 # choose the verb
-SELECT N IF (-1C ProperNom) (0 Verb) ;
+# CEx. Ísland á dagskrá eftir viku
+#SELECT N IF (-1C ProperNom) (0 Verb) ;
 
 # Disallow two nouns in a row unless the latter is in the genitive case
 REMOVE N IF (-1C N) (NOT -1 Gen) ((NOT -2 ProperNom) OR (-2 BOS));
