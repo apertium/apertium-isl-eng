@@ -79465,7 +79465,7 @@
         <par n="accept__vblex"/> 
     </e>
                         <e lm="center" i="">
-        <i>center</i> 
+        <p><l>center</l><r>centre</r></p> 
         <par n="accept__vblex"/> 
     </e>
                         <e lm="centre" i="">
