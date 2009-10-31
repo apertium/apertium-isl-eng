@@ -9280,6 +9280,8 @@
     <e><p><l>sökkva<s n="vblex"/></l><r>sink<s n="vblex"/></r></p></e>
 <!--<e><p><l>sökkva<s n="vblex"/></l><r>dive<s n="vblex"/></r></p></e>-->
     <e><p><l>sýna<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
+    <e><p><l>lýsa<s n="vblex"/><s n=":0"/></l><r>show<s n="vblex"/></r></p></e>
+    <e><p><l>lýsa<s n="vblex"/><s n=":1"/></l><r>light<s n="vblex"/></r></p></e>
 <!--<e><p><l>sýna<s n="vblex"/></l><r>prove<s n="vblex"/></r></p></e>-->
     <e><p><l>takmarka<s n="vblex"/></l><r>limit<s n="vblex"/></r></p></e>
 <!--<e><p><l>takmarka<s n="vblex"/></l><r>restrict<s n="vblex"/></r></p></e>-->

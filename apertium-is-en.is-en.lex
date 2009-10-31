@@ -38,3 +38,9 @@ SUBSTITUTE (vblex) (vblex :0) ("skipa"ri);
 # "skipa" : "appoint"
 SUBSTITUTE (vblex :0) (vblex :1) ("skipa"ri) (1C Acc);
 
+# "lýsa" : "show"
+SUBSTITUTE (vblex) (vblex :0) ("lýsa"ri);
+
+# "lýsa" : "light"
+SUBSTITUTE (vblex :0) (vblex :1) ("lýsa"ri) (1C Acc);
+
