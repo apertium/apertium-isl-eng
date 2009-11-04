@@ -40,7 +40,8 @@ dev/results.txt.verbs.xml -text
 /is-en.prob -text
 /modes.xml -text
 /pending-tests.sh -text
-/pipeline.sh -text
+/pipeline.txt -text
+/pipelineApertium.sh -text
 /pipelineIce.sh -text
 /pipelineIceClient.sh -text
 /regression-tests-Ice.sh -text

@@ -1,2 +1,13 @@
 Icelandic and English
 
+pipelineApertium.sh 
+--------------
+Runs the Apertium pipeline. Should be equivalent to "apertium -d . is-en" 
+
+pipelineIce.sh 
+--------------
+Used to run IceTagger for morphological analysis and PoS tagging and then run the rest of the Apertium pipeline. This starts up IceTagger for each input sentence submitted to the shell. Slow!
+
+pipelineIceClient.sh 
+--------------
+Used to run "a client version" of IceTagger for morphological analysis and PoS tagging and then run the rest of the Apertium pipeline.  This assumes that the IceNLPServer daemon has been started. IceNLPServer starts IceTagger and waits in memory for input (on a socket). Fast!
