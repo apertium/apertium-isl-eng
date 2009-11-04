@@ -36,11 +36,13 @@ dev/results.txt.leftovers -text
 dev/results.txt.nouns.xml -text
 dev/results.txt.verbs.xml -text
 /icetaggerApertium.sh -text
+/icetaggerClientApertium.sh -text
 /is-en.prob -text
 /modes.xml -text
 /pending-tests.sh -text
 /pipeline.sh -text
 /pipelineIce.sh -text
+/pipelineIceClient.sh -text
 /regression-tests-Ice.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
