@@ -194,14 +194,10 @@
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>en<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
-    <e><p><l>enn<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
+    <e><p><l>enn<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e> <!-- TODO: check this... don't think its a cnj, and translation should be "still"? -->
     <e><p><l>svona<s n="cnjcoo"/></l><r>so<s n="cnjcoo"/></r></p></e>
     <e><p><l>né<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
     <e><p><l>heldur<b/>en<s n="cnjcoo"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
-
-    <e r="LR"><p><l>og<s n="cnj"/></l><r>and<s n="cnjcoo"/></r></p></e>
-    <e r="LR"><p><l>eða<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
-    <e r="LR"><p><l>en<s n="cnj"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -217,8 +213,15 @@
     <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>þangað<b/>til<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
-    <e r="LR"><p><l>þar<b/>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+    <e><p><l>þar<b/>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
 
+    <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+
+<!--  The LR restriction is meant for different translations, not for discrepancy in tagging
+        so we're fixing this in the opt.apertium.dict:
+    <e r="LR"><p><l>og<s n="cnj"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>eða<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>en<s n="cnj"/></l><r>but<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>ef<s n="cnj"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>að<s n="cnj"/></l><r>that<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>þegar<s n="cnj"/></l><r>when<s n="cnjsub"/></r></p></e>
@@ -226,16 +229,41 @@
     <e r="LR"><p><l>meðan<s n="cnj"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>nema<s n="cnj"/></l><r>unless<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>síðan<s n="cnj"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>þó<s n="cnj"/></l><r>though<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>svo<s n="cnj"/></l><r>then<s n="cnjadv"/></r></p></e>
+  
+... the following has not been added to opt.apertium.dict yet, because IceTagger doesn't handle MWE yet:
+    <e r="LR"><p><l>heldur<b/>en<s n="cnj"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>þar<b/>sem<s n="cnj"/></l><r>as<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>eins<b/>og<s n="cnj"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>til<b/>þess<b/>að<s n="cnj"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
-    <e r="LR"><p><l>þó<s n="cnj"/></l><r>though<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>þó<b/>að<s n="cnj"/></l><r>although<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>af<b/>því<b/>að<s n="cnj"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>því<b/>að<s n="cnj"/></l><r>because<s n="cnjsub"/></r></p></e>
-
-    <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
-
-    <e r="LR"><p><l>svo<s n="cnj"/></l><r>then<s n="cnjadv"/></r></p></e>
+.... from Anton's list:
+<e r="LR"><p><l>annaðhvort<s n="cnj"/></l><r>either<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>bæði<s n="cnj"/></l><r>both<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>einsog<s n="cnj"/></l><r>like<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>ellegar<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>er<s n="cnj"/></l><r>that<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>eð<s n="cnj"/></l><r>anyway<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>fyrst<s n="cnj"/></l><r>since<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>heldur<s n="cnj"/></l><r>rather<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>hvorki<s n="cnj"/></l><r>neither<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>hvort<s n="cnj"/></l><r>whether<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>né<s n="cnj"/></l><r>nor<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>tilað<s n="cnj"/></l><r>to<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>uns<s n="cnj"/></l><r>until<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>ýmist<s n="cnj"/></l><r>either<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>þarsem<s n="cnj"/></l><r>where<s n="cnjcoo"/></r></p></e>
+<e r="LR"><p><l>þótt<s n="cnj"/></l><r>though<s n="cnjcoo"/></r></p></e>
+-->
+<!-- Extra entries from Anton's list -->
+<!--<e r="LR"><p><l>annaðhvort<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>-->
+<!--<e r="LR"><p><l>einsog<s n="cnj"/></l><r>as<s n="cnjcoo"/></r></p></e>-->
+<!--<e r="LR"><p><l>fyrst<s n="cnj"/></l><r>now<s n="cnjcoo"/></r></p></e>-->
+<!--<e r="LR"><p><l>hvort<s n="cnj"/></l><r>if<s n="cnjcoo"/></r></p></e>-->
+<!-- End conjunctions -->
 
 
 <!-- Conjunctions from Anton's list -->
@@ -265,28 +293,6 @@
     <e><p><l>ýmist<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
     <e><p><l>þarsem<s n="cnjsub"/></l><r>where<s n="cnjsub"/></r></p></e>
     <e><p><l>þótt<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
-
-<e r="LR"><p><l>annaðhvort<s n="cnj"/></l><r>either<s n="cnjcoo"/></r></p></e>
-<!--<e r="LR"><p><l>annaðhvort<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>-->
-<e r="LR"><p><l>bæði<s n="cnj"/></l><r>both<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>einsog<s n="cnj"/></l><r>like<s n="cnjcoo"/></r></p></e>
-<!--<e r="LR"><p><l>einsog<s n="cnj"/></l><r>as<s n="cnjcoo"/></r></p></e>-->
-<e r="LR"><p><l>ellegar<s n="cnj"/></l><r>or<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>er<s n="cnj"/></l><r>that<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>eð<s n="cnj"/></l><r>anyway<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>fyrst<s n="cnj"/></l><r>since<s n="cnjcoo"/></r></p></e>
-<!--<e r="LR"><p><l>fyrst<s n="cnj"/></l><r>now<s n="cnjcoo"/></r></p></e>-->
-<e r="LR"><p><l>heldur<s n="cnj"/></l><r>rather<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>hvorki<s n="cnj"/></l><r>neither<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>hvort<s n="cnj"/></l><r>whether<s n="cnjcoo"/></r></p></e>
-<!--<e r="LR"><p><l>hvort<s n="cnj"/></l><r>if<s n="cnjcoo"/></r></p></e>-->
-<e r="LR"><p><l>né<s n="cnj"/></l><r>nor<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>tilað<s n="cnj"/></l><r>to<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>uns<s n="cnj"/></l><r>until<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>ýmist<s n="cnj"/></l><r>either<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>þarsem<s n="cnj"/></l><r>where<s n="cnjcoo"/></r></p></e>
-<e r="LR"><p><l>þótt<s n="cnj"/></l><r>though<s n="cnjcoo"/></r></p></e>
-
 <!-- End conjunctions from Anton's list -->
   
   
