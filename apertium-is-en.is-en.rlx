@@ -25,12 +25,13 @@ LIST PossessivePronoun = (prn pos) ;
 LIST Pron = (prn);
 LIST Prep = (pr) ;
 LIST Infinitive = (inf) ;
-LIST VerbInfinitive = (vblex inf) ;
+LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
 LIST VerbAux = (vaux) ;
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) ;
+LIST FiniteTenses = pri psi prs pss;
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
 LIST CC = (cnjcoo) ;
@@ -65,6 +66,7 @@ LIST NUMBER = sg pl;
 
 LIST COMMA = (",") ;
 
+SET VerbFin = Verb + FiniteTenses;
 
 SET NomMscFem = (n m) OR (n f) ;
 SET NomMscNeu = (n m) OR (n nt) ;
@@ -120,7 +122,7 @@ SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 #SELECT N IF (-1C DatPrep) (1 Dat) ;
 
 # að (cn/aa) beina (sgn/n*) mér
-SELECT N IF (-1 Inf) (0 VerbInfinitive) ;
+SELECT N IF (-1 Inf) (0 VerbInf) ;
 
 # einhvern sem sæti
 SELECT N IF (-1 ("<sem>"ri)) (0 Verb) ;
@@ -138,7 +140,7 @@ SELECT PossessivePronoun IF (-1C N);
 SELECT ("á"ri) IF (-1 Adv);
 
 # skal (ekki) hita
-SELECT VerbInfinitive IF ((-1 VerbSpecAux) OR (-1C Adv LINK NOT -2 BOS LINK -2 VerbSpecAux));
+SELECT VerbInf IF ((-1 VerbSpecAux) OR (-1C Adv LINK NOT -2 BOS LINK -2 VerbSpecAux));
 
 # hafði talið, velja sagnbót
 SELECT VerbSupine IF (-1 VerbAux);
@@ -160,6 +162,10 @@ SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersonalPronoun);
 # Adjectives
 #################################################################################
 
+# Hann borðar mjög heita súpu en hún hleypur.
+REMOVE N IF (-1C ("<mjög>"));
+REMOVE VerbInf IF (-1C ("<mjög>"));
+REMOVE VerbFin IF (-1C ("<mjög>"));
 
 
 #################################################################################
