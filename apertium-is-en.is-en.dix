@@ -341,10 +341,16 @@
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e> <!-- ???? -->
 
+    <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="m"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+    <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="f"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+    <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="nt"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+    <e r="RL"><p><l>hinn<s n="det"/><s n="def"/><s n="GD"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
+
     <e r="LR"><p><l>þessi<s n="det"/><s n="dem"/><s n="m"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>þessi<s n="det"/><s n="dem"/><s n="f"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>þessi<s n="det"/><s n="dem"/><s n="nt"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="RL"><p><l>þessi<s n="det"/><s n="dem"/><s n="GD"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
+
 
 
     <!-- Numbers -->
@@ -593,7 +599,8 @@
     <e><p><l>aðstoð<s n="n"/><s n=":1"/><s n="f"/></l><r>help<s n="n"/></r></p></e> 
     <e><p><l>aðstoð<s n="n"/><s n=":2"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
     <e><p><l>aðstoðarmaður<s n="n"/><s n="m"/></l><r>assistant<s n="n"/></r></p></e>
-    <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstances<s n="n"/></r></p></e>
+    <!-- <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstance<s n="n"/><s n="pl"/></r></p></e> -->
+    <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>condition<s n="n"/></r></p></e>
   
     <e><p><l>b<s n="n"/><s n="nt"/></l><r>b<s n="n"/></r></p></e>
     <e><p><l>bak<s n="n"/><s n="nt"/></l><r>back<s n="n"/></r></p></e>
@@ -4700,7 +4707,7 @@
     <e><p><l>veggjakrot<s n="n"/><s n="nt"/></l><r>graffiti<s n="n"/></r></p></e>
     <e><p><l>veggur<s n="n"/><s n="m"/></l><r>wall<s n="n"/></r></p></e>
     <e><p><l>vegur<s n="n"/><s n="m"/></l><r>road<s n="n"/></r></p></e>
-    <!--<e><p><l>vegur<s n="n"/><s n="m"/></l><r>way<s n="n"/></r></p></e>-->
+    <e><p><l>vegur<s n="n"/><s n=":1"/><s n="m"/></l><r>way<s n="n"/></r></p></e>
     <e><p><l>veifa<s n="n"/><s n="f"/></l><r>pennant<s n="n"/></r></p></e>
     <!--<e><p><l>vein<s n="n"/><s n="nt"/></l><r>scream<s n="n"/></r></p></e>-->
     <e><p><l>vein<s n="n"/><s n="nt"/></l><r>squall<s n="n"/></r></p></e>
@@ -10030,6 +10037,7 @@
     <e><p><l>heimleiðis<s n="adv"/></l><r>homewards<s n="adv"/></r></p></e>
     <e><p><l>hingað<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
     <e><p><l>hinsvegar<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e><p><l>hins<b/>vegar<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
 <!--<e><p><l>hinsvegar<s n="adv"/></l><r><g>on<b/>the<b/>other<b/></g>hand<s n="adv"/></r></p></e>-->
 <!--<e><p><l>hljóðlega<s n="adv"/></l><r>silently<s n="adv"/></r></p></e>-->
     <e><p><l>hljóðlega<s n="adv"/></l><r>quietly<s n="adv"/></r></p></e>

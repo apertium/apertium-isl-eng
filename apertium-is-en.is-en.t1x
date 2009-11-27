@@ -61,8 +61,9 @@
     <cat-item tags="prn.pos.*"/>
   </def-cat>
 
-  <def-cat n="det_dem">
+  <def-cat n="det">
     <cat-item tags="det.dem.*"/>
+    <cat-item tags="det.def.*"/>
   </def-cat>
 
   <def-cat n="prn">
@@ -87,10 +88,6 @@
 
   <def-cat n="pr">
      <cat-item tags="pr"/>
-  </def-cat>
-  <def-cat n="det">
-     <cat-item tags="det"/>
-     <cat-item tags="det.*"/>
   </def-cat>
 </section-def-cats>
 
@@ -132,6 +129,7 @@
   <def-attr n="a_det">
      <attr-item tags="det.dem"/>
      <attr-item tags="det.pos"/>
+     <attr-item tags="det.def"/>
   </def-attr>
 
   <def-attr n="a_poss">
@@ -639,7 +637,7 @@
      </action>
   </rule>
 
-  <rule>
+  <rule comment="REGLA: Ant">
      <pattern>
        <pattern-item n="ant"/>
      </pattern>
@@ -664,7 +662,7 @@
   </rule>
 
 
-  <rule><!-- rule for adjectives -->
+  <rule comment="REGLA: Adj"><!-- rule for adjectives -->
      <pattern>
        <pattern-item n="adj"/>
      </pattern>
@@ -687,7 +685,7 @@
 
 
 
-  <rule><!-- rule for prepositions -->
+  <rule comment="REGLA: Prep"><!-- rule for prepositions -->
      <pattern>
        <pattern-item n="pp"/>
      </pattern>
@@ -786,7 +784,7 @@
 
 
 
-  <rule><!-- rule for 1 adjective + noun -->
+  <rule comment="REGLA: Adj Nom"><!-- rule for 1 adjective + noun -->
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="nom"/>
@@ -857,9 +855,9 @@
      </action>
   </rule><!-- END rule for 1 adjective + noun -->
 
-  <rule comment="REGLA: DETDEM NOM → DETDEM NOM">
+  <rule comment="REGLA: DET NOM → DET NOM">
      <pattern>
-       <pattern-item n="det_dem"/>
+       <pattern-item n="det"/>
        <pattern-item n="nom"/>
      </pattern>
      <action>
