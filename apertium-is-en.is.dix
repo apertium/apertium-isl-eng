@@ -34958,6 +34958,7 @@
     <e lm="í símanum">       <i>í<b/>símanum</i><par n="upp__adv"/></e>
     <e lm="í gær">           <i>í<b/>gær</i><par n="upp__adv"/></e>
     <e lm="í dag">           <i>í<b/>dag</i><par n="upp__adv"/></e>
+    <e lm="í morgun">        <i>í<b/>morgun</i><par n="upp__adv"/></e>
     <e lm="á morgun">        <i>á<b/>morgun</i><par n="upp__adv"/></e>
     <e lm="algerlega">       <i>algerlega</i><par n="upp__adv"/></e>
     <e lm="rúmlega">         <i>rúmlega</i><par n="upp__adv"/></e>
@@ -35060,6 +35061,8 @@
     <e lm="um þetta leyti">  <i>um<b/>þetta<b/>leyti</i><par n="upp__adv"/></e>
     <e lm="að svo miklu leyti sem"><i>að<b/>svo<b/>miklu<b/>leyti<b/>sem</i><par n="svo__cnjadv"/></e> <!-- check paradigm classification -->
     <e lm="að því leyti sem"><i>að<b/>því<b/>leyti<b/>sem</i><par n="svo__cnjadv"/></e> <!-- check paradigm classification -->
+    <e lm="að minnsta kosti">  <i>að<b/>minnsta<b/>kosti</i><par n="upp__adv"/></e>
+    <e lm="að minnsta kosti" r="LR">  <p><l>a.m.k</l><r>að<b/>minnsta<b/>kosti</r></p><par n="upp__adv"/></e>
 
     <e lm="um þessar mundir"><i>um<b/>þessar<b/>mundir</i><par n="upp__adv"/></e>
     <e lm="um þær mundir">   <i>um<b/>þær<b/>mundir</i><par n="upp__adv"/></e>

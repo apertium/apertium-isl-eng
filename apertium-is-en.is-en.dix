@@ -9737,6 +9737,7 @@
     <e><p><l>hvort<s n="adv"/></l><r>whether<s n="adv"/></r></p></e>
 
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>morgun<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>í<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
@@ -9812,6 +9813,7 @@
     <e><p><l>illa<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
     <e><p><l>þegar<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
 
+    <e><p><l>að<b/>minnsta<b/>kosti<s n="adv"/></l><r>at<b/>least<s n="adv"/></r></p></e>
     <e><p><l>að<b/>einu<b/>leyti<s n="adv"/></l><r>on<b/>one<b/>count<s n="adv"/></r></p></e>
     <e><p><l>að<b/>einhverju<b/>leyti<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
     <!--<e><p><l>að<b/>einhverju<b/>leyti<s n="adv"/></l><r>to<b/>some<b/>degree<s n="adv"/></r></p></e>-->
