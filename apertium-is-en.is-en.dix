@@ -50,6 +50,7 @@
     <sdef n="adj"/>
     <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
     <sdef n="sup"/>
+    <sdef n="abbr"/>
     <sdef n="preadv"/>
     <sdef n="GD"/>
     <sdef n="ND"/>
@@ -10422,6 +10423,11 @@
 
   <!-- END checked adverbs from Anton's list -->
 
+    <!-- Abbreviations -->
+
+    <e r="LR"><p><l>m.a.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>
+    <e r="LR"><p><l>t.d.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>
+    <e><p><l>þ.á.m.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>

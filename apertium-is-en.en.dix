@@ -7,6 +7,7 @@
    <sdef n="predet"/>
    <sdef n="detnt"/>
    <sdef n="top"/>
+   <sdef n="abbr"/>
    <sdef n="ant"/>
    <sdef n="al"/>
    <sdef n="cog"/>
@@ -255,6 +256,19 @@
 
 
     </pardef>
+
+    <pardef n="e.g.__abbr">
+
+    <e>
+      <p>
+        <l></l> 
+        <r><s n="abbr"/></r> 
+      </p>
+    </e>
+
+
+    </pardef>
+
 
     
     <pardef n="expensive__adj">
@@ -88907,6 +88921,7 @@
       <par n="that__cnjsub"/> 
    </e>
 
+        <e lm="e.g."><i>e.g.</i><par n="e.g.__abbr"/></e>
 
 	
 
