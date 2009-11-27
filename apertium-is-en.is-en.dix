@@ -48,6 +48,7 @@
     <sdef n="sent"/>
     <sdef n="adj"/>
     <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
+    <sdef n="sup"/>
     <sdef n="preadv"/>
     <sdef n="GD"/>
     <sdef n="ND"/>
@@ -5389,6 +5390,7 @@
 
 
 
+    <e><p><l>Friðrik<s n="np"/><s n="ant"/><s n="m"/></l><r>Friðrik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Einir<s n="np"/><s n="ant"/><s n="m"/></l><r>Einir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Þórir<s n="np"/><s n="ant"/><s n="m"/></l><r>Þórir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Örvarr<s n="np"/><s n="ant"/><s n="m"/></l><r>Örvarr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5514,6 +5516,7 @@
     <e><p><l>heill<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
     <e><p><l>lágur<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>nógur<s n="adj"/></l><r>sufficient<s n="adj"/></r></p></e>
+    <e><p><l>næstur<s n="adj"/><s n="sup"/></l><r>next<s n="adj"/></r></p></e>
     <e><p><l>erlendur<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
     <e><p><l>tæmandi<s n="adj"/></l><r>exhaustive<s n="adj"/></r></p></e>
     <e><p><l>náinn<s n="adj"/></l><r>intimate<s n="adj"/></r></p></e>
@@ -10410,6 +10413,7 @@
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([0-9]+)?</re><p><l>˚C<s n="num"/></l><r>˚C<s n="num"/></r></p></e>
 
 
   </section>
