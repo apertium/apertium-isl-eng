@@ -43,8 +43,8 @@
     <sdef n="sp"/>
     <sdef n="def"/>
     <sdef n="ind"/>
-    <sdef n="act"/>
-    <sdef n="mid"/>
+    <sdef n="actv"/>
+    <sdef n="midv"/>
     <sdef n="sent"/>
     <sdef n="adj"/>
     <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
@@ -7702,8 +7702,8 @@
     <e><p><l>tala<s n="vblex"/></l><r>talk<s n="vblex"/></r></p></e>
     
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
-    <e><p><l>koma<s n="vblex"/><s n="act"/></l><r>come<s n="vblex"/></r></p></e>
-    <e><p><l>koma<s n="vblex"/><s n="mid"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
+    <e><p><l>koma<s n="vblex"/><s n="actv"/></l><r>come<s n="vblex"/></r></p></e>
+    <e><p><l>koma<s n="vblex"/><s n="midv"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
 
     <e><p><l>koma<g><b/>fram</g><s n="vblex"/></l><r>reveal<s n="vblex"/></r></p></e>
   
