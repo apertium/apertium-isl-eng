@@ -42,6 +42,7 @@
     <sdef n="nt"/>
     <sdef n="sp"/>
     <sdef n="def"/>
+    <sdef n="ind"/>
     <sdef n="act"/>
     <sdef n="mid"/>
     <sdef n="sent"/>
@@ -65,6 +66,16 @@
       <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="annar_another__prn">
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
 
   </pardefs>
 
@@ -316,6 +327,7 @@
     <e r="RL"><p><l>þessi<s n="prn"/><s n="dem"/><s n="GD"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
+    <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
 
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
