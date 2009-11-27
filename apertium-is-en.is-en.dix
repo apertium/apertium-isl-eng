@@ -28,6 +28,7 @@
     <sdef n="p1"/>
     <sdef n="p2"/>
     <sdef n="p3"/>
+    <sdef n="ref"/>
     <sdef n="pos"/>
     <sdef n="pri"/>
     <sdef n="past"/>
@@ -338,8 +339,12 @@
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="RL"><p><l>hver<s n="prn"/><s n="itg"/><s n="GD"/><s n="ND"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
+<!-- <s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/> -->
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e> 
+
     <!-- Determiners -->
     <e><p><l>hið<s n="def"/></l><r>det<s n="def"/></r></p></e> <!-- ???? -->
+
 
     <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="m"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
     <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="f"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
@@ -1564,7 +1569,8 @@
     <e><p><l>fé<s n="n"/><s n="nt"/></l><r>money<s n="n"/></r></p></e>
     <!--<e><p><l>félag<s n="n"/><s n="nt"/></l><r>company<s n="n"/></r></p></e>-->
     <!--<e><p><l>félag<s n="n"/><s n="nt"/></l><r>partnership<s n="n"/></r></p></e>-->
-    <e><p><l>félag<s n="n"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
+    <e><p><l>félag<s n="n"/><s n=":1"/><s n="nt"/></l><r>society<s n="n"/></r></p></e>
+    <e><p><l>félag<s n="n"/><s n="nt"/></l><r>company<s n="n"/></r></p></e>
     <!--<e><p><l>félagi<s n="n"/><s n="m"/></l><r>companion<s n="n"/></r></p></e>-->
     <!--<e><p><l>félagi<s n="n"/><s n="m"/></l><r>comrade<s n="n"/></r></p></e>-->
     <e><p><l>félagi<s n="n"/><s n="m"/></l><r>partner<s n="n"/></r></p></e>
