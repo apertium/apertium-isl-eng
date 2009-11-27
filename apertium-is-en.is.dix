@@ -65,6 +65,7 @@
     
     <pardef n="numeros">
       <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
     </pardef>
     
     <pardef n="separa">
