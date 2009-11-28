@@ -2,6 +2,9 @@
 <transfer default="chunk">
 
 <section-def-cats>
+  <def-cat n="unknown"> <!-- Catch all for unknown words -->
+    <cat-item tags="*"/>
+  </def-cat>
   <def-cat n="gen_nom">
    <!-- kona<n><f><sg><gen><def> -->
      <cat-item tags="n.*.*.gen.*"/>
@@ -18,6 +21,9 @@
   </def-cat>
   <def-cat n="top">
      <cat-item tags="np.top.*"/>
+  </def-cat>
+  <def-cat n="cog">
+     <cat-item tags="np.cog.*"/>
   </def-cat>
   <def-cat n="ant">
      <cat-item tags="np.ant.*"/>
@@ -125,8 +131,10 @@
      <attr-item tags="n"/>
      <attr-item tags="np"/>
      <attr-item tags="np.ant"/>
+     <attr-item tags="np.cog"/>
      <attr-item tags="np.top"/>
      <attr-item tags="np.org"/>
+     <attr-item tags="np.al"/>
   </def-attr>
 
   <def-attr n="a_num">
@@ -872,12 +880,69 @@
                  <clip pos="1" side="tl" part="a_nom"/>
                  <clip pos="1" side="tl" part="gen" link-to="2"/>
                  <clip pos="1" side="tl" part="nbr" link-to="3"/>
-                 <clip pos="1" side="tl" part="leq"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: Cog">
+     <pattern>
+       <pattern-item n="cog"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="cog" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="sl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
+  <rule comment="REGLA: Ant Cog">
+     <pattern>
+       <pattern-item n="ant"/>
+       <pattern-item n="cog"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="ant_cog" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="gen" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
 
 
   <rule comment="REGLA: Adj"><!-- rule for adjectives -->

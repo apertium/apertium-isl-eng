@@ -415,6 +415,7 @@
     <e><p><l>systir<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
     <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
     <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
+    <e><p><l>ræðumaður<s n="n"/><s n="m"/></l><r>speaker<s n="n"/></r></p></e>
     <e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
     <e><p><l>ugla<s n="n"/><s n="f"/></l><r>owl<s n="n"/></r></p></e>
     <e><p><l>mús<s n="n"/><s n="f"/></l><r>mouse<s n="n"/></r></p></e>
@@ -6745,7 +6746,7 @@
 <!--<e><p><l>rúmur<s n="adj"/></l><r>big<s n="adj"/></r></p></e>-->
     <e><p><l>rússneskur<s n="adj"/></l><r>Russian<s n="adj"/></r></p></e>
     <e><p><l>saklaus<s n="adj"/></l><r>innocent<s n="adj"/></r></p></e>
-    <e><p><l>hreinn<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
+    <e><p><l>hreinn<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>saklaus<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>-->
 <!--<e><p><l>saklaus<s n="adj"/></l><r>sinless<s n="adj"/></r></p></e>-->
 <!--<e><p><l>saklaus<s n="adj"/></l><r>uncorrupted<s n="adj"/></r></p></e>-->

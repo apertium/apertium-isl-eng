@@ -36591,6 +36591,10 @@
         <i>Scottish</i> 
         <par n="politics__n"/> 
     </e>
+                        <e lm="Icelander" i="">
+        <i>Icelander</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="Spaniard" i="">
         <i>Spaniard</i> 
         <par n="house__n"/> 
