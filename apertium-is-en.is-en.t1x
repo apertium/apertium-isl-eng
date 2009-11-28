@@ -49,6 +49,18 @@
      <cat-item tags="vblex.*.past.*"/>
      <cat-item tags="vblex.*.pss.*"/>
   </def-cat>
+
+  <def-cat n="auxcj">
+     <cat-item tags="vbser.pri.*"/>
+     <cat-item tags="vbser.prs.*"/>
+     <cat-item tags="vbser.psi.*"/>
+     <cat-item tags="vbser.pss.*"/>
+  </def-cat>
+
+  <def-cat n="inf">
+     <cat-item tags="vblex.inf"/>
+  </def-cat>
+
   <def-cat n="vblex">
      <cat-item tags="vblex.*"/>
   </def-cat>
@@ -88,13 +100,20 @@
      <cat-item tags="adv"/>
   </def-cat>
 
+  <def-cat n="pr">
+     <cat-item tags="pr"/>
+  </def-cat>
+
   <def-cat n="preadv">
      <cat-item tags="preadv"/>
   </def-cat>
 
-  <def-cat n="pr">
-     <cat-item tags="pr"/>
+  <!-- Lexicalised categories -->
+
+  <def-cat n="að">
+     <cat-item lemma="að" tags="*"/>
   </def-cat>
+
 </section-def-cats>
 
 <section-def-attrs>
@@ -1628,7 +1647,7 @@
 
 
 
-  <rule>
+  <rule comment="REGLA: VERBCJ → VERBCJ | sá → saw">
      <pattern>
        <pattern-item n="verbcj"/>
      </pattern>
@@ -1652,6 +1671,42 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: AUX að INF → AUX GER | er að læra → am learning">
+     <pattern>
+       <pattern-item n="auxcj"/>
+       <pattern-item n="að"/>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "verbfinal" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <clip pos="3" side="tl" part="temps"/>
+         <lit-tag v="ger"/>
+       </let>
+       <out>
+         <chunk name="auxcj_ger" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="verbfinal"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
 </section-rules>
 
 </transfer>
