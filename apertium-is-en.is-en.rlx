@@ -63,6 +63,7 @@ LIST AccPrep = "fyrir ofan"ri "gegnum"ri "kringum"ri "um"ri "umfram"ri "umhverfi
 LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnvart"ri "gegnt"ri "handa"ri 
                "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
+LIST MODV = "kunna" "láta" "skula" "vilja" "munna" "mega" ; #todo: translate fao to icelandic
 
 LIST NAGD = nom acc gen dat;
 LIST GENDER = m f nt;
@@ -237,3 +238,9 @@ SELECT:r30 $$NUMBER IF (-1C (Adj) + $$NUMBER)(0 N);
 SELECT:r30b $$NUMBER IF (-1C (Det) + $$NUMBER)(0 N);
 SELECT:r30c $$NUMBER IF (-1C (Pron Indef) + $$NUMBER)(0 N);
 
+
+#################################################################################
+# Verbs
+#################################################################################
+
+SELECT:r51 Infinitive IF (*-1 MODV BARRIER Verb);
