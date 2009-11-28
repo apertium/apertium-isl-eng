@@ -12,9 +12,9 @@ if [ -e /tmp/regression.tst. ]; then
 	rm /tmp/regression.tst.;
 fi
 
-SRCLIST=`mktemp /tmp/regression.src.`;
-TRGLIST=`mktemp /tmp/regression.trg.`;
-TSTLIST=`mktemp /tmp/regression.tst.`;
+SRCLIST=`mktemp /tmp/regression.src.XXXXX`;
+TRGLIST=`mktemp /tmp/regression.trg.XXXXX`;
+TSTLIST=`mktemp /tmp/regression.tst.XXXXX`;
 
 basedir=`pwd`;
 mode=is-en

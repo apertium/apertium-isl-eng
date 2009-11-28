@@ -11,6 +11,7 @@
    <sdef n="ant"/>
    <sdef n="al"/>
    <sdef n="cog"/>
+   <sdef n="org"/>
    <sdef n="atn"/>
    <sdef n="enc"/>
    <sdef n="pro"/>
@@ -2789,6 +2790,19 @@
 
 
     </pardef>
+
+    <pardef n="Wikimedia__np">
+
+    <e>
+      <p>
+        <l/> 
+        <r><s n="np"/><s n="org"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+
+    </pardef>
+
 
     <pardef n="Barcelona__np">
 
@@ -12455,6 +12469,9 @@
     <e lm="Súsanna"><i>Súsanna</i><par n="Mary__np"/></e>
     <e lm="Pála"><i>Pála</i><par n="Mary__np"/></e>
     <e lm="Aþena"><i>Aþena</i><par n="Mary__np"/></e>
+
+    <e lm="Wikimedia"><i>Wikimedia</i><par n="Wikimedia__np"/></e>
+    <e lm="Independence Party"><i>Independence<b/>Party</i><par n="Wikimedia__np"/></e>
 
 	
 	                        <e lm="Aablina" i="">
@@ -39493,6 +39510,10 @@
                         <e lm="chair" i="">
         <i>chair</i> 
         <par n="house__n"/> 
+    </e>
+                        <e lm="vice-chairman" i="">
+        <i>vice-chairm</i> 
+        <par n="m/an__n"/> 
     </e>
                         <e lm="chairman" i="">
         <i>chairm</i> 

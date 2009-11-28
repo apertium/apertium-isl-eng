@@ -5,10 +5,12 @@
   <def-cat n="gen_nom">
    <!-- kona<n><f><sg><gen><def> -->
      <cat-item tags="n.*.*.gen.*"/>
+     <cat-item tags="np.*.*.*.gen.*"/>
   </def-cat>
   <def-cat n="nom">
      <cat-item tags="n.*"/>
      <cat-item tags="np.al.*"/>
+     <cat-item tags="np.org.*"/>
   </def-cat>
   <def-cat n="num">
      <cat-item tags="num.*"/>
@@ -101,6 +103,7 @@
      <attr-item tags="np"/>
      <attr-item tags="np.ant"/>
      <attr-item tags="np.top"/>
+     <attr-item tags="np.org"/>
   </def-attr>
 
   <def-attr n="a_num">
@@ -378,15 +381,70 @@
     <choose>
          <when><!-- noun with definitive article -->
            <test>
-             <equal>
-               <clip pos="1" side="sl" part="a_art"/>
-               <lit-tag v="def"/>
-             </equal>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="a_art"/>
+                 <lit-tag v="def"/>
+               </equal>
+               <not>
+                 <or>
+                   <equal>
+                     <clip pos="1" side="sl" part="a_nom"/>
+                     <lit-tag v="np.org"/>
+                   </equal>
+                   <equal>
+                     <clip pos="1" side="sl" part="a_nom"/>
+                     <lit-tag v="np.top"/>
+                   </equal>
+                   <equal>
+                     <clip pos="1" side="sl" part="a_nom"/>
+                     <lit-tag v="np.ant"/>
+                   </equal>
+                 </or>
+               </not>
+             </and>
            </test>
            <modify-case>
              <clip pos="1" side="tl" part="lem"/>
              <lit v="aa"/>
            </modify-case>
+           <let>
+             <var n="article"/>
+             <concat>
+                 <lit v="^"/>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <lit v="$ "/>
+             </concat>
+           </let> 
+         </when>
+
+         <when><!-- proper noun with definitive article -->
+           <test>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="a_art"/>
+                 <lit-tag v="def"/>
+               </equal>
+               <or>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.org"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.top"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.ant"/>
+                 </equal>
+               </or>
+             </and>
+           </test>
            <let>
              <var n="article"/>
              <concat>

@@ -12,6 +12,7 @@
     <sdef n="cnjsub"/>
     <sdef n="cnjadv"/>
     <sdef n="ant"/>
+    <sdef n="org"/>
     <sdef n="dem"/>
     <sdef n="det"/>
     <sdef n="itg"/>
@@ -1415,6 +1416,7 @@
     <e><p><l>form<s n="n"/><s n="nt"/></l><r>form<s n="n"/></r></p></e>
     <!--<e><p><l>form<s n="n"/><s n="nt"/></l><r>pattern<s n="n"/></r></p></e>-->
     <e><p><l>formaður<s n="n"/><s n="m"/></l><r>chairman<s n="n"/></r></p></e>
+    <e><p><l>varaformaður<s n="n"/><s n="m"/></l><r>vice-chairman<s n="n"/></r></p></e>
     <e><p><l>formáli<s n="n"/><s n="m"/></l><r>foreword<s n="n"/></r></p></e>
     <!--<e><p><l>formáli<s n="n"/><s n="m"/></l><r>preamble<s n="n"/></r></p></e>-->
     <!--<e><p><l>formáli<s n="n"/><s n="m"/></l><r>preface<s n="n"/></r></p></e>-->
@@ -5488,6 +5490,8 @@
     <e><p><l>Þórarinn<s n="np"/><s n="ant"/><s n="m"/></l><r>Þórarinn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <e><p><l>Guð<s n="np"/><s n="al"/><s n="m"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
+
+    <e><p><l>Sjálfstæðisflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Independence<b/>Party<s n="np"/><s n="org"/></r></p></e>
 
     
     <!-- Adjectives -->
@@ -10421,6 +10425,8 @@
 <!--<e><p><l>þvert<s n="adv"/></l><r>widthwise<s n="adv"/></r></p></e>-->
     <e><p><l>þétt<s n="adv"/></l><r>tight<s n="adv"/></r></p></e>
 <!--<e><p><l>þétt<s n="adv"/></l><r>close<s n="adv"/></r></p></e>-->
+
+    <e><p><l>til<b/>að<b/>mynda<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
 
   <!-- END checked adverbs from Anton's list -->
 
