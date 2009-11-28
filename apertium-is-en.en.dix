@@ -24242,6 +24242,10 @@
         <i>Mattew</i> 
         <par n="Mark__np"/> 
     </e>
+                        <e lm="Björn" i="">
+        <i>Björn</i> 
+        <par n="Mark__np"/> 
+    </e>
                         <e lm="Matthew" i="">
         <i>Matthew</i> 
         <par n="Mark__np"/> 
@@ -34826,6 +34830,13 @@
         <i>Arabia</i> 
         <par n="Barcelona__np"/> 
     </e>
+    <e lm="Þorsteinsson"><i>Þorsteinsson</i><par n="Smith__np"/></e>
+    <e lm="Þórarinsson"><i>Þórarinsson</i><par n="Smith__np"/></e>
+    <e lm="Viktorsson"><i>Viktorsson</i><par n="Smith__np"/></e>
+    <e lm="Garðarsson"><i>Garðarsson</i><par n="Smith__np"/></e>
+    <e lm="Lúðvíksson"><i>Lúðvíksson</i><par n="Smith__np"/></e>
+
+
                         <e lm="Arafat" i="">
         <i>Arafat</i> 
         <par n="Smith__np"/> 

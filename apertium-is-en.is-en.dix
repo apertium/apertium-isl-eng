@@ -12,6 +12,7 @@
     <sdef n="cnjsub"/>
     <sdef n="cnjadv"/>
     <sdef n="ant"/>
+    <sdef n="cog"/>
     <sdef n="org"/>
     <sdef n="dem"/>
     <sdef n="det"/>
@@ -5411,6 +5412,7 @@
 
 
 
+    <e><p><l>Björn<s n="np"/><s n="ant"/><s n="m"/></l><r>Björn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Friðrik<s n="np"/><s n="ant"/><s n="m"/></l><r>Friðrik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Einir<s n="np"/><s n="ant"/><s n="m"/></l><r>Einir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Þórir<s n="np"/><s n="ant"/><s n="m"/></l><r>Þórir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5492,6 +5494,12 @@
     <e><p><l>Alfred<s n="np"/><s n="ant"/><s n="m"/></l><r>Alfred<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Þorsteinn<s n="np"/><s n="ant"/><s n="m"/></l><r>Þorsteinn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Þórarinn<s n="np"/><s n="ant"/><s n="m"/></l><r>Þórarinn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
+    <e><p><l>Þorsteinsson<s n="np"/><s n="cog"/><s n="m"/></l><r>Þorsteinsson<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Þórarinsson<s n="np"/><s n="cog"/><s n="m"/></l><r>Þórarinsson<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Viktorsson<s n="np"/><s n="cog"/><s n="m"/></l><r>Viktorsson<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Garðarsson<s n="np"/><s n="cog"/><s n="m"/></l><r>Garðarsson<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Lúðvíksson<s n="np"/><s n="cog"/><s n="m"/></l><r>Lúðvíksson<s n="np"/><s n="cog"/></r></p></e>
 
     <e><p><l>Guð<s n="np"/><s n="al"/><s n="m"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
 
@@ -6737,6 +6745,7 @@
 <!--<e><p><l>rúmur<s n="adj"/></l><r>big<s n="adj"/></r></p></e>-->
     <e><p><l>rússneskur<s n="adj"/></l><r>Russian<s n="adj"/></r></p></e>
     <e><p><l>saklaus<s n="adj"/></l><r>innocent<s n="adj"/></r></p></e>
+    <e><p><l>hreinn<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
 <!--<e><p><l>saklaus<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>-->
 <!--<e><p><l>saklaus<s n="adj"/></l><r>sinless<s n="adj"/></r></p></e>-->
 <!--<e><p><l>saklaus<s n="adj"/></l><r>uncorrupted<s n="adj"/></r></p></e>-->
