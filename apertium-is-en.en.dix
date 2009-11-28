@@ -37611,6 +37611,10 @@
         <i>ardour</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="capital area" i="">
+        <i>capital<b/>area</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="area" i="">
         <i>area</i> 
         <par n="house__n"/> 
@@ -71322,6 +71326,10 @@
                         <e lm="good" i="">
         <i/> 
         <par n="/good__adj"/> 
+    </e>
+                        <e lm="respected" i="">
+        <i>respected</i> 
+        <par n="expensive__adj"/> 
     </e>
                         <e lm="complicated" i="">
         <i>complicated</i> 

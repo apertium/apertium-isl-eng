@@ -333,6 +333,7 @@
 
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
     <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
+    <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
 
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -2996,8 +2997,8 @@
     <e><p><l>líkur<s n="n"/><s n="f"/></l><r>odds<s n="n"/></r></p></e>
     <e><p><l>lím<s n="n"/><s n="nt"/></l><r>glue<s n="n"/></r></p></e>
     <e><p><l>lína<s n="n"/><s n="f"/></l><r>line<s n="n"/></r></p></e>
-    <e><p><l>lítri<s n="n"/><s n="m"/></l><r>liter<s n="n"/></r></p></e>
-    <!--<e><p><l>lítri<s n="n"/><s n="m"/></l><r>litre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>lítri<s n="n"/><s n="m"/></l><r>litre<s n="n"/></r></p></e>
+    <!--<e><p><l>lítri<s n="n"/><s n="m"/></l><r>liter<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>lóa<s n="n"/><s n="f"/></l><r>plover<s n="n"/></r></p></e> <!-- (pluvialis) -->
     <e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>PDA<s n="n"/></r></p></e>
     <!--<e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>personal<b/>digital<b/>assistant<s n="n"/></r></p></e>-->
@@ -3008,7 +3009,9 @@
     <e><p><l>lögmaður<s n="n"/><s n="m"/></l><r>attorney<s n="n"/></r></p></e>
     <!--<e><p><l>lögmaður<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>-->
     <!--<e><p><l>lögmaður<s n="n"/><s n="m"/></l><r>solicitor<s n="n"/></r></p></e>-->
-    <e><p><l>lögregla<s n="n"/><s n="f"/></l><r>police<s n="n"/></r></p></e>
+    <e r="LR"><p><l>lögregla<s n="n"/><s n="f"/><s n="sg"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>lögregla<s n="n"/><s n="f"/><s n="pl"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>lögregla<s n="n"/><s n="f"/><s n="GD"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>lögreglumaður<s n="n"/><s n="m"/></l><r>policeman<s n="n"/></r></p></e>
     <e><p><l>lögreglustöð<s n="n"/><s n="f"/></l><r>police<b/>station<s n="n"/></r></p></e>
     <e><p><l>lús<s n="n"/><s n="f"/></l><r>louse<s n="n"/></r></p></e>
@@ -4327,6 +4330,7 @@
     <e><p><l>svunta<s n="n"/><s n="f"/></l><r>apron<s n="n"/></r></p></e>
     <!--<e><p><l>svunta<s n="n"/><s n="f"/></l><r>counterfoil<s n="n"/></r></p></e>-->
     <e><p><l>svæði<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e>
+    <e><p><l>höfuðborgarsvæði<s n="n"/><s n="nt"/></l><r>capital<b/>area<s n="n"/></r></p></e>
     <!--<e><p><l>svín<s n="n"/><s n="nt"/></l><r>swine<s n="n"/></r></p></e>-->
     <e><p><l>svín<s n="n"/><s n="nt"/></l><r>pig<s n="n"/></r></p></e>
     <e><p><l>svínakjöt<s n="n"/><s n="nt"/></l><r>pork<s n="n"/></r></p></e>
@@ -5543,6 +5547,7 @@
     <e><p><l>heiður<s n="adj"/></l><r>bright<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>fjölbreyttur<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
     <e><p><l>megn<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mætur<s n="adj"/></l><r>respected<s n="adj"/></r></p></e>
     <e><p><l>heill<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
     <e><p><l>heill<s n="adj"/></l><r>healthy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>heill<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
@@ -5608,6 +5613,7 @@
     <e><p><l>dónalegur<s n="adj"/></l><r>rude<s n="adj"/></r></p></e>
     <e><p><l>eðlilegur<s n="adj"/></l><r>normal<s n="adj"/></r></p></e>
     <e><p><l>fjandsamlegur<s n="adj"/></l><r>hostile<s n="adj"/></r></p></e>
+    <e><p><l>friðsamlegur<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
     <e><p><l>fræðilegur<s n="adj"/></l><r>technical<s n="adj"/></r></p></e>
     <e><p><l>fáránlegur<s n="adj"/></l><r>ridiculous<s n="adj"/></r></p></e>
     <e><p><l>hættulegur<s n="adj"/></l><r>dangerous<s n="adj"/></r></p></e>
@@ -7706,6 +7712,7 @@
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>segja<g><b/>upp</g><s n="vblex"/></l><r>lay<g><b/>off</g><s n="vblex"/></r></p></e>
+    <e><p><l>afskrifa<s n="vblex"/></l><r>copy<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<g><b/>undir</g><s n="vblex"/></l><r>underwrite<s n="vblex"/></r></p></e>
     <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
@@ -9764,6 +9771,7 @@
   
     <!-- Adverbs -->
     <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+    <e><p><l>afar<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
 
     <e><p><l>hvar<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
