@@ -7697,6 +7697,7 @@
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>segja<g><b/>upp</g><s n="vblex"/></l><r>lay<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
+    <e><p><l>skrifa<g><b/>undir</g><s n="vblex"/></l><r>underwrite<s n="vblex"/></r></p></e>
     <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
     <e><p><l>vona<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
     <e><p><l>lesa<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
@@ -8643,6 +8644,7 @@
 <!--<e><p><l>lauma<s n="vblex"/></l><r>slide<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>leggja<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>-->
     <e><p><l>leggja<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>hang<g><b/>up</g><s n="vblex"/></r></p></e>
 <!--<e><p><l>leggja<s n="vblex"/></l><r>park<s n="vblex"/></r></p></e>-->
     <e><p><l>leigja<s n="vblex"/></l><r>rent<s n="vblex"/></r></p></e>
     <e><p><l>leika<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>

@@ -172,8 +172,11 @@ REMOVE N IF (-1C ("<mjög>"));
 REMOVE VerbInf IF (-1C ("<mjög>"));
 REMOVE VerbFin IF (-1C ("<mjög>"));
 
-#norska ríkisstjórnin
+# norska ríkisstjórnin
 REMOVE N IF (0 N) (0 Nom) (0 Adj) (0 (vei)) (1C N) (1C Def);
+
+# íslenskan almenning 
+REMOVE N IF (0 N) (0 Nom) (0 Adj) (0 (sta)) (1C N) (1C Indef);
 
 #################################################################################
 # Adverbs

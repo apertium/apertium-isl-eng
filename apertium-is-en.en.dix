@@ -274,6 +274,11 @@
       <e><i>N</i></e>
       <e r="RL"><p><l>N</l><r>n</r></p></e>
     </pardef> 
+
+    <pardef n="Ii">
+      <e><i>I</i></e>
+      <e r="RL"><p><l>I</l><r>i</r></p></e>
+    </pardef> 
     
     <pardef n="expensive__adj">
 
@@ -42970,6 +42975,10 @@
         <i>editorial</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="krona" i="">
+        <i>krona</i> 
+        <par n="staff__n"/> 
+    </e>
                         <e lm="editorial staff" i="">
         <i>editorial<b/>staff</i> 
         <par n="staff__n"/> 
@@ -71508,7 +71517,7 @@
         <par n="expensive__adj"/> 
     </e>
                         <e lm="Icelandic" i="">
-        <i>Icelandic</i> 
+        <par n="Ii"/><i>celandic</i> 
         <par n="expensive__adj"/> 
     </e>
                         <e lm="Indian" i="">
@@ -84754,6 +84763,10 @@
                         <e lm="worsen" i="">
         <i>worsen</i> 
         <par n="accept__vblex"/> 
+    </e>
+                        <e lm="underwrite" i="">
+        <i>underwr</i> 
+        <par n="wr/ite__vblex"/> 
     </e>
                         <e lm="write" i="">
         <i>wr</i> 
