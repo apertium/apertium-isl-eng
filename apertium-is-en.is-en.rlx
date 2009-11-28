@@ -24,13 +24,14 @@ LIST InterrogativePronoun = (prn itg) ;
 LIST PossessivePronoun = (prn pos) ;
 LIST Pron = (prn);
 LIST Prep = (pr) ;
+LIST Participle = (pp) ;
 LIST Infinitive = (inf) ;
 LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
 LIST VerbAux = (vaux) ;
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
-LIST Verb = (vblex) ;
+LIST Verb = (vblex) (vbser) (vbhaver);
 LIST FiniteTenses = pri psi prs pss;
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
@@ -40,6 +41,9 @@ LIST Exclamation = (ij) ;
 LIST Article = (def) ;
 LIST Det = (det) ;
 LIST Interj = (itg) ;
+
+LIST Def = (def) ;
+LIST Indef = (ind) ;
 
 LIST Fem = (f);
 LIST Msc = (m);
@@ -167,12 +171,14 @@ REMOVE N IF (-1C ("<mjög>"));
 REMOVE VerbInf IF (-1C ("<mjög>"));
 REMOVE VerbFin IF (-1C ("<mjög>"));
 
+#norska ríkisstjórnin
+REMOVE N IF (0 N) (0 Nom) (0 Adj) (0 (vei)) (1C N) (1C Def);
 
 #################################################################################
 # Adverbs
 #################################################################################
 
-
+SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 
 #################################################################################
 # Personal pronouns 
@@ -208,6 +214,9 @@ REMOVE VerbFin IF (-1C ("<mjög>"));
 # Prepositions
 #################################################################################
 
+#að styðja 
+SELECT Prep IF (0 ("að"ri)) (1 VerbInf);
+
 #################################################################################
 # NPs  
 #################################################################################
@@ -227,3 +236,4 @@ SELECT:r30c $$NAGD IF (-1C (Pron Indef) + $$NAGD)(0 N);
 SELECT:r30 $$NUMBER IF (-1C (Adj) + $$NUMBER)(0 N);
 SELECT:r30b $$NUMBER IF (-1C (Det) + $$NUMBER)(0 N);
 SELECT:r30c $$NUMBER IF (-1C (Pron Indef) + $$NUMBER)(0 N);
+

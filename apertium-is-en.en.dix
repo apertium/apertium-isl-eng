@@ -270,7 +270,10 @@
 
     </pardef>
 
-
+    <pardef n="Nn">
+      <e><i>N</i></e>
+      <e r="RL"><p><l>N</l><r>n</r></p></e>
+    </pardef> 
     
     <pardef n="expensive__adj">
 
@@ -71613,7 +71616,7 @@
         <par n="expensive__adj"/> 
     </e>
                         <e lm="Norwegian" i="">
-        <i>Norwegian</i> 
+        <par n="Nn"/><i>orwegian</i> 
         <par n="expensive__adj"/> 
     </e>
                         <e lm="Orthodox" i="">

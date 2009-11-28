@@ -74,6 +74,9 @@
 
   <def-cat n="prn_pos">
     <cat-item tags="prn.pos.*"/>
+    <cat-item tags="prn.p1.*.*.gen"/>
+    <cat-item tags="prn.p2.*.*.gen"/>
+    <cat-item tags="prn.p3.*.*.gen"/>
   </def-cat>
 
   <def-cat n="prn_ref">
@@ -510,10 +513,6 @@
   </def-macro>
 
   <def-macro n="prn_pos_to_det_pos" npar="1">
-    <let>
-      <clip pos="1" side="tl" part="a_poss"/>
-      <lit-tag v="det.pos"/>
-    </let>
     <choose>
          <when>
            <test>
@@ -577,10 +576,16 @@
          </when>
          <when>
            <test>
-             <equal>
-               <clip pos="1" side="sl" part="lem"/>
-               <lit v="okkar"/>
-             </equal>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="ég"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="sl" part="nbr"/>
+                 <lit-tag v="pl"/>
+               </equal>
+             </and>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
@@ -1232,7 +1237,7 @@
                  <get-case-from pos="1">
                    <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
-                 <clip pos="2" side="tl" part="a_poss"/>
+                 <lit-tag v="det.pos"/>
                  <clip pos="2" side="tl" part="nbr"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
