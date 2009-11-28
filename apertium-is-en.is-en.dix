@@ -9773,6 +9773,7 @@
     <e><p><l>fram<s n="adv"/></l><r>forth<s n="adv"/></r></p></e>
 
     <e><p><l>aðallega<s n="adv"/></l><r>mainly<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>sögn<s n="adv"/></l><r>reportedly<s n="adv"/></r></p></e>
     <e><p><l>aðeins<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
     <e><p><l>áður<s n="adv"/></l><r>before<s n="adv"/></r></p></e>
     <e><p><l>áfram<s n="adv"/></l><r>forward<s n="adv"/></r></p></e>
@@ -10441,6 +10442,7 @@
     <e r="LR"><p><l>m.a.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>
     <e r="LR"><p><l>t.d.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>
     <e><p><l>þ.á.m.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>
+    <e><p><l>u.þ.b.<s n="abbr"/></l><r>approx.<s n="abbr"/></r></p></e>
 
     <!-- Punctuation -->
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
