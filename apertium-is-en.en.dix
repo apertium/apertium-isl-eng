@@ -36904,6 +36904,10 @@
         <i>adrenaline</i> 
         <par n="house__n"/> 
     </e>
+                        <e lm="slaughter" i="">
+        <i>slaughter</i> 
+        <par n="house__n"/> 
+    </e>
                         <e lm="adult" i="">
         <i>adult</i> 
         <par n="house__n"/> 
@@ -87751,6 +87755,14 @@
    </e>
                         <e lm="this way" i="">
       <i>this<b/>way</i> 
+      <par n="maybe__adv"/> 
+   </e>
+                        <e lm="last autumn" i="">
+      <i>last<b/>autumn</i> 
+      <par n="maybe__adv"/> 
+   </e>
+                        <e lm="this autumn" i="">
+      <i>this<b/>autumn</i> 
       <par n="maybe__adv"/> 
    </e>
                         <e lm="this year" i="">

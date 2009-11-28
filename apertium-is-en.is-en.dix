@@ -426,6 +426,8 @@
     <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
     <e><p><l>skuld<s n="n"/><s n="f"/></l><r>debt<s n="n"/></r></p></e>
     <e><p><l>slys<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e>
+    <e><p><l>slátur<s n="n"/><s n="nt"/></l><r>innards<s n="n"/></r></p></e>
+    <e><p><l>slátrun<s n="n"/><s n="f"/></l><r>slaughter<s n="n"/></r></p></e>
     <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
     <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
@@ -1894,8 +1896,8 @@
     <e><p><l>hatur<s n="n"/><s n="nt"/></l><r>hatred<s n="n"/></r></p></e>
     <e><p><l>haukur<s n="n"/><s n="m"/></l><r>hawk<s n="n"/></r></p></e>
     <e><p><l>haus<s n="n"/><s n="m"/></l><r>head<s n="n"/></r></p></e>
-    <e><p><l>haust<s n="n"/><s n="nt"/></l><r>fall<s n="n"/></r></p></e>
-    <!--<e><p><l>haust<s n="n"/><s n="nt"/></l><r>autumn<s n="n"/></r></p></e>-->
+    <!--<e><p><l>haust<s n="n"/><s n="nt"/></l><r>fall<s n="n"/></r></p></e>-->
+    <e><p><l>haust<s n="n"/><s n="nt"/></l><r>autumn<s n="n"/></r></p></e>
     <e><p><l>hebreska<s n="n"/><s n="f"/></l><r>Hebrew<s n="n"/></r></p></e>
     <e><p><l>hefnd<s n="n"/><s n="f"/></l><r>revenge<s n="n"/></r></p></e>
     <!--<e><p><l>hefti<s n="n"/><s n="nt"/></l><r>handle<s n="n"/></r></p></e>-->
@@ -3758,6 +3760,7 @@
     <e><p><l>salur<s n="n"/><s n="m"/></l><r>hall<s n="n"/></r></p></e> <!-- (large room such as a meeting room, banquet hall, etc.) -->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>-->
     <e><p><l>samband<s n="n"/><s n="nt"/></l><r>relation<s n="n"/></r></p></e>
+    <e><p><l>samtök<s n="n"/><s n="nt"/></l><r>organisation<s n="n"/></r></p></e>
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>relationship<s n="n"/></r></p></e>-->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>federation<s n="n"/></r></p></e>-->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>union<s n="n"/></r></p></e>-->
@@ -4497,10 +4500,10 @@
     <e><p><l>tjara<s n="n"/><s n="f"/></l><r>tar<s n="n"/></r></p></e>
     <e><p><l>tollur<s n="n"/><s n="m"/></l><r>customs<s n="n"/></r></p></e>
     <e><p><l>tombóla<s n="n"/><s n="f"/></l><r>raffle<s n="n"/></r></p></e>
-    <!--<e><p><l>tombóla<s n="n"/><s n="f"/></l><r>tombola<s n="n"/></r></p></e>--> <!-- British English? -->
+    <!--<e><p><l>tombóla<s n="n"/><s n="f"/></l><r>tombola<s n="n"/></r></p></e>--> <!-- British English? [both 'raffle' and 'tombola' are used] -->
     <e><p><l>tomma<s n="n"/><s n="f"/></l><r>inch<s n="n"/></r></p></e>
-    <e><p><l>tonn<s n="n"/><s n="nt"/></l><r>metric<b/>ton<s n="n"/></r></p></e>
-    <!--<e><p><l>tonn<s n="n"/><s n="nt"/></l><r>tonne<s n="n"/></r></p></e>-->
+    <!--<e><p><l>tonn<s n="n"/><s n="nt"/></l><r>metric<b/>ton<s n="n"/></r></p></e>-->
+    <e><p><l>tonn<s n="n"/><s n="nt"/></l><r>tonne<s n="n"/></r></p></e>
     <e><p><l>torg<s n="n"/><s n="nt"/></l><r>square<s n="n"/></r></p></e> <!-- (open space in a town) -->
     <e><p><l>traktor<s n="n"/><s n="m"/></l><r>tractor<s n="n"/></r></p></e> <!-- (vehicle used in farming) -->
     <e><p><l>traust<s n="n"/><s n="nt"/></l><r>trust<s n="n"/></r></p></e>
@@ -4887,6 +4890,7 @@
     <e><p><l>y<s n="n"/><s n="nt"/></l><r>y<s n="n"/></r></p></e>
     <!--<e><p><l>ydd<s n="n"/><s n="nt"/></l><r>refuse from sharpening the tip of a pencil or other similar object<s n="n"/></r></p></e>-->
     <e><p><l>yfirborð<s n="n"/><s n="nt"/></l><r>surface<s n="n"/></r></p></e>
+    <e><p><l>yfirlit<s n="n"/><s n="nt"/></l><r>survey<s n="n"/></r></p></e>
     <e><p><l>yfirdrepsskapur<s n="n"/><s n="f"/></l><r>hypocrisy<s n="n"/></r></p></e>
     <e><p><l>yfirheiti<s n="n"/><s n="nt"/></l><r>hypernym<s n="n"/></r></p></e>
     <!--<e><p><l>yfirlýsing<s n="n"/><s n="f"/></l><r>affidavit<s n="n"/></r></p></e>-->
@@ -9760,6 +9764,8 @@
 
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
     <e><p><l>í<b/>morgun<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>haust<s n="adv"/></l><r>this<b/>autumn<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>fyrrahaust<s n="adv"/></l><r>last<b/>autumn<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>í<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
