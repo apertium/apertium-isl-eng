@@ -1946,7 +1946,7 @@
     <!--<e><p><l>heiti<s n="n"/><s n="nt"/></l><r>term<s n="n"/></r></p></e>-->
     <e><p><l>heiðni<s n="n"/><s n="f"/></l><r>paganism<s n="n"/></r></p></e>
     <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>bright<s n="adj"/></r></p></e>--> <!-- adjective -->
-    <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>clear<s n="adj"/></r></p></e>--> <!-- adjective -->
+    <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>--> <!-- adjective -->
     <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>cloudless<s n="adj"/></r></p></e>--> <!-- adjective -->
     <e><p><l>heiður<s n="n"/><s n="m"/></l><r>honor<s n="n"/></r></p></e>
     <!--<e><p><l>heiður<s n="n"/><s n="m"/></l><r>honour<s n="n"/></r></p></e>--> <!-- British English spelling -->
@@ -3105,6 +3105,7 @@
     <e><p><l>melting<s n="n"/><s n="f"/></l><r>digestion<s n="n"/></r></p></e>
     <e><p><l>meltingarkerfi<s n="n"/><s n="nt"/></l><r>gastrointestinal<b/>tract<s n="n"/></r></p></e>
     <e><p><l>mengi<s n="n"/><s n="nt"/></l><r>set<s n="n"/></r></p></e>
+    <e><p><l>sett<s n="n"/><s n="nt"/></l><r>set<s n="n"/></r></p></e>
     <e><p><l>mengjafræði<s n="n"/><s n="f"/></l><r>set<b/>theory<s n="n"/></r></p></e> <!-- (mathematical theory of sets) -->
     <!--<e><p><l>mengun<s n="n"/><s n="f"/></l><r>contamination<s n="n"/></r></p></e>-->
     <e><p><l>mengun<s n="n"/><s n="f"/></l><r>pollution<s n="n"/></r></p></e>
@@ -5728,11 +5729,11 @@
 <!--<e><p><l>athyglisverður<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>-->
 <!--<e><p><l>athyglisverður<s n="adj"/></l><r>intriguing<s n="adj"/></r></p></e>-->
 <!--<e><p><l>athyglisverður<s n="adj"/></l><r>captivating<s n="adj"/></r></p></e>-->
-    <e><p><l>augljós<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
+    <e><p><l>augljós<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>augljós<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>-->
     <e><p><l>aukinn<s n="adj"/></l><r>increased<s n="adj"/></r></p></e>
     <e><p><l>auðsjáanlegur<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>
-<!--<e><p><l>auðsjáanlegur<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>-->
+<!--<e><p><l>auðsjáanlegur<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>-->
 <!--<e><p><l>auðsjáanlegur<s n="adj"/></l><r>easy<g><b/>to<b/>see</g><s n="adj"/></r></p></e>-->
     <e><p><l>auðugur<s n="adj"/></l><r>rich<s n="adj"/></r></p></e>
 <!--<e><p><l>auðugur<s n="adj"/></l><r>wealthy<s n="adj"/></r></p></e>-->
@@ -5760,7 +5761,7 @@
 <!--<e><p><l>bitur<s n="adj"/></l><r>resentful<s n="adj"/></r></p></e>-->
     <e><p><l>bjartsýnn<s n="adj"/></l><r>optimistic<s n="adj"/></r></p></e>
     <e><p><l>bjartur<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
-<!--<e><p><l>bjartur<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>-->
+<!--<e><p><l>bjartur<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>-->
     <e><p><l>blandinn<s n="adj"/></l><r>mixed<s n="adj"/></r></p></e>
 <!--<e><p><l>blandinn<s n="adj"/></l><r>blended<s n="adj"/></r></p></e>-->
 <!--<e><p><l>blandinn<s n="adj"/></l><r>mingled<s n="adj"/></r></p></e>-->
@@ -6143,7 +6144,7 @@
 <!--<e><p><l>gramur<s n="adj"/></l><r>embittered<s n="adj"/></r></p></e>-->
     <e><p><l>greindur<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
 <!--<e><p><l>greindur<s n="adj"/></l><r>diagnosed<s n="adj"/></r></p></e>-->
-<!--<e><p><l>greinilegur<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>-->
+<!--<e><p><l>greinilegur<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>-->
 <!--<e><p><l>greinilegur<s n="adj"/></l><r>obvious<s n="adj"/></r></p></e>-->
     <e><p><l>greinilegur<s n="adj"/></l><r>apparent<s n="adj"/></r></p></e>
     <e><p><l>grimmur<s n="adj"/></l><r>cruel<s n="adj"/></r></p></e>
@@ -6852,7 +6853,7 @@
     <e><p><l>skiljanlegur<s n="adj"/></l><r>understandable<s n="adj"/></r></p></e>
 <!--<e><p><l>skiljanlegur<s n="adj"/></l><r>comprehensible<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skiljanlegur<s n="adj"/></l><r>intelligible<s n="adj"/></r></p></e>-->
-<!--<e><p><l>skiljanlegur<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>-->
+<!--<e><p><l>skiljanlegur<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>-->
 <!--<e><p><l>skiljanlegur<s n="adj"/></l><r>coherent<s n="adj"/></r></p></e>-->
     <e><p><l>skiptur<s n="adj"/></l><r>divided<s n="adj"/></r></p></e>
     <e><p><l>skjannahvítur<s n="adj"/></l><r>snow-white<s n="adj"/></r></p></e>
@@ -6903,7 +6904,7 @@
 <!--<e><p><l>skær<s n="adj"/></l><r>luminous<s n="adj"/></r></p></e>-->
     <e><p><l>skítugur<s n="adj"/></l><r>dirty<s n="adj"/></r></p></e>
 <!--<e><p><l>skítugur<s n="adj"/></l><r>filthy<s n="adj"/></r></p></e>-->
-    <e><p><l>skýr<s n="adj"/></l><r>clear<s n="adj"/></r></p></e>
+    <e><p><l>skýr<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>skýr<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skýr<s n="adj"/></l><r>crisp<s n="adj"/></r></p></e>-->
     <e><p><l>slakur<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>

@@ -11,6 +11,8 @@ DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
 LIST BOS = (>>>) (<s>) (sent) ; 
 LIST EOS = (<<<) (</s>) (sent) ; 
 
+LIST CLB = (sent);
+
 LIST N = (n) ;
 LIST Num = (num) ;
 LIST ProperNom = (np) ;
@@ -177,6 +179,9 @@ REMOVE N IF (0 N) (0 Nom) (0 Adj) (0 (vei)) (1C N) (1C Def);
 
 # íslenskan almenning 
 REMOVE N IF (0 N) (0 Nom) (0 Adj) (0 (sta)) (1C N) (1C Indef);
+
+# kröfurnar voru skýrar;
+REMOVE Adv IF (0 Adv) (0 Adj) (-1C VerbBe) (1C CLB);
 
 #################################################################################
 # Adverbs
