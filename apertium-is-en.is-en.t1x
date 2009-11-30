@@ -1880,6 +1880,7 @@
          <chunk name="auxcj_ger" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
@@ -1915,6 +1916,7 @@
          <chunk name="auxcj_ger" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
