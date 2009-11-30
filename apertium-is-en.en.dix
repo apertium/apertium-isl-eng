@@ -280,13 +280,9 @@
 
     </pardef>
 
-    <pardef n="Ss">
-      <e r="LR"><i>S</i></e>
-      <e r="RL"><p><l>S</l><r>s</r></p></e>
-    </pardef>
-    <pardef n="Mm">
-      <e r="LR"><i>M</i></e>
-      <e r="RL"><p><l>M</l><r>m</r></p></e>
+    <pardef n="Bb">
+      <e r="LR"><i>B</i></e>
+      <e r="RL"><p><l>B</l><r>b</r></p></e>
     </pardef>
     <pardef n="Cc">
       <e r="LR"><i>C</i></e>
@@ -296,9 +292,17 @@
       <e r="LR"><i>I</i></e>
       <e r="RL"><p><l>I</l><r>i</r></p></e>
     </pardef>
+    <pardef n="Mm">
+      <e r="LR"><i>M</i></e>
+      <e r="RL"><p><l>M</l><r>m</r></p></e>
+    </pardef>
     <pardef n="Nn">
       <e r="LR"><i>N</i></e>
       <e r="RL"><p><l>N</l><r>n</r></p></e>
+    </pardef>
+    <pardef n="Ss">
+      <e r="LR"><i>S</i></e>
+      <e r="RL"><p><l>S</l><r>s</r></p></e>
     </pardef>
     
     <pardef n="expensive__adj">
@@ -38881,18 +38885,17 @@
     <e lm="Asian"><i>Asian</i><par n="expensive__adj"/></e>
     <e lm="Australian"><i>Australian</i><par n="expensive__adj"/></e>
     <e lm="Austrian"><i>Austrian</i><par n="expensive__adj"/></e>
-    <e lm="Balearic"><i>Balearic</i><par n="expensive__adj"/></e>
-    <e lm="Balkan"><i>Balkan</i><par n="expensive__adj"/></e>
-    <e r="RL"><i>Barcelona</i><par n="expensive__adj"/></e>
-    <e lm="Bavarian"><i>Bavarian</i><par n="expensive__adj"/></e>
-    <e lm="Belgian"><i>Belgian</i><par n="expensive__adj"/></e>
-    <e lm="Brazilian"><i>Brazilian</i><par n="expensive__adj"/></e>
-    <e lm="British"><i>British</i><par n="expensive__adj"/></e>
-    <e lm="Buddhist"><i>Buddhist</i><par n="expensive__adj"/></e>
-    <e lm="Bulgarian"><i>Bulgarian</i><par n="expensive__adj"/></e>
-    <e lm="Burmese"><i>Burmese</i><par n="expensive__adj"/></e>
-    <e lm="Byelorussian"><i>Byelorussian</i><par n="expensive__adj"/></e>
-    <e lm="Byzantine"><i>Byzantine</i><par n="expensive__adj"/></e>
+    <e lm="Balearic"><par n="Bb"/><i>alearic</i><par n="expensive__adj"/></e>
+    <e lm="Balkan"><par n="Bb"/><i>alkan</i><par n="expensive__adj"/></e>
+    <e lm="Bavarian"><par n="Bb"/><i>avarian</i><par n="expensive__adj"/></e>
+    <e lm="Belgian"><par n="Bb"/><i>elgian</i><par n="expensive__adj"/></e>
+    <e lm="Brazilian"><par n="Bb"/><i>razilian</i><par n="expensive__adj"/></e>
+    <e lm="British"><par n="Bb"/><i>ritish</i><par n="expensive__adj"/></e>
+    <e lm="Buddhist"><par n="Bb"/><i>uddhist</i><par n="expensive__adj"/></e>
+    <e lm="Bulgarian"><par n="Bb"/><i>ulgarian</i><par n="expensive__adj"/></e>
+    <e lm="Burmese"><par n="Bb"/><i>urmese</i><par n="expensive__adj"/></e>
+    <e lm="Byelorussian"><par n="Bb"/><i>yelorussian</i><par n="expensive__adj"/></e>
+    <e lm="Byzantine"><par n="Bb"/><i>yzantine</i><par n="expensive__adj"/></e>
     <e lm="Cameroonian"><par n="Cc"/><i>ameroonian</i><par n="expensive__adj"/></e>
     <e lm="Canadian"><par n="Cc"/><i>anadian</i><par n="expensive__adj"/></e>
     <e lm="Canarian"><par n="Cc"/><i>anarian</i><par n="expensive__adj"/></e>

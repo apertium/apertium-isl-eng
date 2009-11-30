@@ -1720,6 +1720,7 @@
     <e><p><l>geðlæknir<s n="n"/><s n="m"/></l><r>psychiatrist<s n="n"/></r></p></e>
     <e><p><l>gifta<s n="n"/><s n="f"/></l><r>marry<s n="n"/></r></p></e>
     <e><p><l>gifting<s n="n"/><s n="f"/></l><r>wedding<s n="n"/></r></p></e>
+    <e><p><l>þátttaka<s n="n"/><s n="f"/></l><r>participation<s n="n"/></r></p></e>
     <e><p><l>giftingarhringur<s n="n"/><s n="m"/></l><r>wedding<b/>ring<s n="n"/></r></p></e>
     <!--<e><p><l>taka<b/>gildi<s n="n"/><s n="nt"/></l><r>take<b/>effect<s n="n"/></r></p></e>-->
     <e><p><l>gildi<s n="n"/><s n="nt"/></l><r>value<s n="n"/></r></p></e>
@@ -2752,6 +2753,7 @@
     <e><p><l>kúalubbi<s n="n"/><s n="m"/></l><r>birch<b/>bolete<s n="n"/></r></p></e> <!-- (a mushroom, Leccinum scabrum) -->
     <e><p><l>kúbein<s n="n"/><s n="nt"/></l><r>crowbar<s n="n"/></r></p></e>
     <e><p><l>kúlulega<s n="n"/><s n="f"/></l><r>ball<b/>bearing<s n="n"/></r></p></e>
+    <e><p><l>rúmlega<s n="n"/><s n="f"/></l><r>confinement<s n="n"/></r></p></e> <!-- e.g. to bed -->
     <e><p><l>kúlupenni<s n="n"/><s n="m"/></l><r>ballpoint<b/>pen<s n="n"/></r></p></e>
     <e><p><l>kúnni<s n="n"/><s n="m"/></l><r>customer<s n="n"/></r></p></e>
     <!--<e><p><l>kúnni<s n="n"/><s n="m"/></l><r>client<s n="n"/></r></p></e>-->
@@ -3367,6 +3369,7 @@
     <!--<e><p><l>niður<s n="n"/><s n="m"/></l><r>buzz<s n="n"/></r></p></e>-->
     <e><p><l>niður<s n="n"/><s n="m"/></l><r>drone<s n="n"/></r></p></e>
     <e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhea<s n="n"/></r></p></e>
+    <e><p><l>niðurstaða<s n="n"/><s n="f"/></l><r>result<s n="n"/></r></p></e>
     <!--<e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhoea<s n="n"/></r></p></e>--> <!-- British English spelling -->
     <e><p><l>norska<s n="n"/><s n="f"/></l><r>Norwegian<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>norðaustur<s n="n"/><s n="nt"/></l><r>northeast<s n="n"/></r></p></e>
@@ -5444,6 +5447,8 @@
     <e><p><l>Japan<s n="np"/><s n="top"/><s n="nt"/></l><r>Japan<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Írak<s n="np"/><s n="top"/><s n="nt"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Bandaríki<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>New<b/>York<s n="np"/><s n="top"/><s n="nt"/></l><r>New<b/>York<s n="np"/><s n="top"/></r></p></e>
 
 
 
