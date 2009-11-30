@@ -32,11 +32,11 @@ LIST Participle = (pp) ;
 LIST Inf = (inf) ;
 LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
-LIST VerbAux = (vaux) ;
+LIST VerbAux = (vaux) (vbhaver) (vbser);
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) (vbser) (vbhaver);
-LIST FiniteTenses = pri past prs pss;
+LIST TempsFin = (pri) (past) (prs) (pss);
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
 LIST CC = (cnjcoo) ;
@@ -77,7 +77,7 @@ LIST PERSON = p1 p2 p3;
 
 LIST COMMA = (",") ;
 
-SET VerbFin = Verb + FiniteTenses;
+SET VerbFin = Verb + TempsFin;
 
 SET NomMscFem = (n m) OR (n f) ;
 SET NomMscNeu = (n m) OR (n nt) ;
@@ -275,6 +275,8 @@ SELECT:r53 $$PERSON IF (-1C PersPron + $$PERSON)(0 VerbFin);
 # The modals munu and skulu can never be preceded by another auxiliary. (p.10)
 REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
 
+REMOVE:r55 VerbFin IF (-1C* VerbFin BARRIER CLB) (0 VerbFin) (0 Prep);
+
 #################################################################################
 # Syntax  
 #################################################################################
@@ -285,5 +287,16 @@ REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu"));
 
 SECTION
 
-MAP (@←SUBJ) PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron); 
-MAP (@SUBJ→) PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron);
+LIST @←SUBJ = @←SUBJ;
+LIST @SUBJ→ = @SUBJ→;
+LIST @-FAUXV = @-FAUXV;
+LIST @+FAUXV = @FAUXV; 
+LIST @←N = @←N;
+LIST @N→ = @N→;
+LIST @CNP = @CNP; # SN co-ordinator
+LIST @CVP = @CVP; # SV co-ordinator
+
+MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron); 
+MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron);
+
+MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) (NOT -1C* VerbAux + TempsFin BARRIER CLB) (0C VerbAux + TempsFin);
