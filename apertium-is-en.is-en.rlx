@@ -233,6 +233,9 @@ REMOVE DemPron IF (-1C PersPron);
 #að styðja 
 SELECT Prep IF (0 ("að"ri)) (1 VerbInf);
 
+#sem leggja fram kæru á hendur ríkinu.
+SELECT Prep IF (0 ("á"ri)) (-1 N) (1C N) (NOT 1C Gen);
+
 #################################################################################
 # NPs  
 #################################################################################

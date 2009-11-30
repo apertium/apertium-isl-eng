@@ -376,6 +376,12 @@
     <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="nt"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>enginn<s n="det"/><s n="ind"/><s n="GD"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
 
+    <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="m"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="f"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="nt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>slíkur<s n="det"/><s n="ind"/><s n="GD"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+
+
 
 
 
@@ -439,6 +445,7 @@
     <e><p><l>mús<s n="n"/><s n="f"/></l><r>mouse<s n="n"/></r></p></e>
     <e><p><l>jörð<s n="n"/><s n="f"/></l><r>earth<s n="n"/></r></p></e>
     <e><p><l>vinna<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
+    <e><p><l>vist<s n="n"/><s n="f"/></l><r>stay<s n="n"/></r></p></e>
     <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
     <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>skip<s n="n"/><s n="nt"/></l><r>ship<s n="n"/></r></p></e>
@@ -2414,6 +2421,8 @@
     
     <e><p><l>k<s n="n"/><s n="nt"/></l><r>k<s n="n"/></r></p></e>
     <e><p><l>kadmín<s n="n"/><s n="nt"/></l><r>cadmium<s n="n"/></r></p></e>
+    <e><p><l>kæra<s n="n"/><s n="f"/></l><r>charge<s n="n"/></r></p></e> 
+    <!--<e><p><l>kæra<s n="n"/><s n="f"/></l><r>complaint<s n="n"/></r></p></e> -->
     <e><p><l>kaffibrauð<s n="n"/><s n="nt"/></l><r>pastries<s n="n"/></r></p></e>
     <!--<e><p><l>kaffihús<s n="n"/><s n="nt"/></l><r>café<s n="n"/></r></p></e>-->
     <e><p><l>kaffihús<s n="n"/><s n="nt"/></l><r>coffee<b/>shop<s n="n"/></r></p></e>
@@ -6518,6 +6527,7 @@
 <!--<e><p><l>leyndardómsfullur<s n="adj"/></l><r>enigmatic<s n="adj"/></r></p></e>-->
 <!--<e><p><l>leyndardómsfullur<s n="adj"/></l><r>puzzlinge<s n="adj"/></r></p></e>-->
 <!--<e><p><l>leyndardómsfullur<s n="adj"/></l><r>arcane<s n="adj"/></r></p></e>-->
+    <e><p><l>leynilegur<s n="adj"/></l><r>secret<s n="adj"/></r></p></e>
     <e><p><l>leyndur<s n="adj"/></l><r>secret<s n="adj"/></r></p></e>
 <!--<e><p><l>leyndur<s n="adj"/></l><r>hidden<s n="adj"/></r></p></e>-->
 <!--<e><p><l>leyndur<s n="adj"/></l><r>covert<s n="adj"/></r></p></e>-->

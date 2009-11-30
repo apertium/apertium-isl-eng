@@ -280,32 +280,17 @@
 
     </pardef>
 
-    <pardef n="Nn">
-    <e>
-        <i>N</i>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l>N</l>
-        <r>n</r>
-      </p>
-    </e>
-
+    <pardef n="Cc">
+      <e r="LR"><i>C</i></e>
+      <e r="RL"><p><l>C</l><r>c</r></p></e>
     </pardef>
-
     <pardef n="Ii">
-    <e>
-        <i>I</i>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l>I</l>
-        <r>i</r>
-      </p>
-    </e>
-
+      <e r="LR"><i>I</i></e>
+      <e r="RL"><p><l>I</l><r>i</r></p></e>
+    </pardef>
+    <pardef n="Nn">
+      <e r="LR"><i>N</i></e>
+      <e r="RL"><p><l>N</l><r>n</r></p></e>
     </pardef>
     
     <pardef n="expensive__adj">
@@ -24996,7 +24981,6 @@
     <e lm="Cameroonian"><i>Cameroonian</i><par n="house__n"/></e>
     <e lm="Canarian"><i>Canarian</i><par n="house__n"/></e>
     <e lm="Chilean"><i>Chilean</i><par n="house__n"/></e>
-    <e lm="Chinese"><i>Chinese</i><par n="house__n"/></e>
     <e lm="Cypriot"><i>Cypriot</i><par n="house__n"/></e>
     <e lm="Colombian"><i>Colombian</i><par n="house__n"/></e>
     <e lm="Congolese"><i>Congolese</i><par n="house__n"/></e>
@@ -38900,18 +38884,18 @@
     <e lm="Burmese"><i>Burmese</i><par n="expensive__adj"/></e>
     <e lm="Byelorussian"><i>Byelorussian</i><par n="expensive__adj"/></e>
     <e lm="Byzantine"><i>Byzantine</i><par n="expensive__adj"/></e>
-    <e lm="Cameroonian"><i>Cameroonian</i><par n="expensive__adj"/></e>
-    <e lm="Canadian"><i>Canadian</i><par n="expensive__adj"/></e>
-    <e lm="Canarian"><i>Canarian</i><par n="expensive__adj"/></e>
-    <e lm="Catalan"><i>Catalan</i><par n="expensive__adj"/></e>
-    <e lm="Catholic"><i>Catholic</i><par n="expensive__adj"/></e>
-    <e lm="Chilean"><i>Chilean</i><par n="expensive__adj"/></e>
-    <e lm="Chinese"><i>Chinese</i><par n="expensive__adj"/></e>
-    <e lm="Christian"><i>Christian</i><par n="expensive__adj"/></e>
-    <e lm="Colombian"><i>Colombian</i><par n="expensive__adj"/></e>
-    <e lm="Congolese"><i>Congolese</i><par n="expensive__adj"/></e>
-    <e lm="Cuban"><i>Cuban</i><par n="expensive__adj"/></e>
-    <e lm="Cypriot"><i>Cypriot</i><par n="expensive__adj"/></e>
+    <e lm="Cameroonian"><par n="Cc"/><i>ameroonian</i><par n="expensive__adj"/></e>
+    <e lm="Canadian"><par n="Cc"/><i>anadian</i><par n="expensive__adj"/></e>
+    <e lm="Canarian"><par n="Cc"/><i>anarian</i><par n="expensive__adj"/></e>
+    <e lm="Catalan"><par n="Cc"/><i>atalan</i><par n="expensive__adj"/></e>
+    <e lm="Catholic"><par n="Cc"/><i>atholic</i><par n="expensive__adj"/></e>
+    <e lm="Chilean"><par n="Cc"/><i>hilean</i><par n="expensive__adj"/></e>
+    <e lm="Chinese"><par n="Cc"/><i>hinese</i><par n="expensive__adj"/></e>
+    <e lm="Christian"><par n="Cc"/><i>hristian</i><par n="expensive__adj"/></e>
+    <e lm="Colombian"><par n="Cc"/><i>olombian</i><par n="expensive__adj"/></e>
+    <e lm="Congolese"><par n="Cc"/><i>ongolese</i><par n="expensive__adj"/></e>
+    <e lm="Cuban"><par n="Cc"/><i>uban</i><par n="expensive__adj"/></e>
+    <e lm="Cypriot"><par n="Cc"/><i>ypriot</i><par n="expensive__adj"/></e>
     <e lm="Danish"><i>Danish</i><par n="expensive__adj"/></e>
     <e lm="Egyptian"><i>Egyptian</i><par n="expensive__adj"/></e>
     <e lm="English"><i>English</i><par n="expensive__adj"/></e>
@@ -38927,14 +38911,14 @@
     <e lm="Guatemalan"><i>Guatemalan</i><par n="expensive__adj"/></e>
     <e lm="Honduran"><i>Honduran</i><par n="expensive__adj"/></e>
     <e lm="Hungarian"><i>Hungarian</i><par n="expensive__adj"/></e>
-    <e lm="Iberian"><i>Iberian</i><par n="expensive__adj"/></e>
     <e lm="Icelandic"><par n="Ii"/><i>celandic</i><par n="expensive__adj"/></e>
-    <e lm="Indian"><i>Indian</i><par n="expensive__adj"/></e>
-    <e lm="Indonesian"><i>Indonesian</i><par n="expensive__adj"/></e>
-    <e lm="Irish"><i>Irish</i><par n="expensive__adj"/></e>
-    <e lm="Islamic"><i>Islamic</i><par n="expensive__adj"/></e>
-    <e lm="Israeli"><i>Israeli</i><par n="expensive__adj"/></e>
-    <e lm="Italian"><i>Italian</i><par n="expensive__adj"/></e>
+    <e lm="Iberian"><par n="Ii"/><i>berian</i><par n="expensive__adj"/></e>
+    <e lm="Indian"><par n="Ii"/><i>ndian</i><par n="expensive__adj"/></e>
+    <e lm="Indonesian"><par n="Ii"/><i>ndonesian</i><par n="expensive__adj"/></e>
+    <e lm="Irish"><par n="Ii"/><i>rish</i><par n="expensive__adj"/></e>
+    <e lm="Islamic"><par n="Ii"/><i>slamic</i><par n="expensive__adj"/></e>
+    <e lm="Israeli"><par n="Ii"/><i>sraeli</i><par n="expensive__adj"/></e>
+    <e lm="Italian"><par n="Ii"/><i>talian</i><par n="expensive__adj"/></e>
     <e lm="Jamaican"><i>Jamaican</i><par n="expensive__adj"/></e>
     <e lm="Japanese"><i>Japanese</i><par n="expensive__adj"/></e>
     <e lm="Jewish"><i>Jewish</i><par n="expensive__adj"/></e>
@@ -38952,9 +38936,9 @@
     <e lm="Mexican"><i>Mexican</i><par n="expensive__adj"/></e>
     <e lm="Moroccan"><i>Moroccan</i><par n="expensive__adj"/></e>
     <e lm="Muslim"><i>Muslim</i><par n="expensive__adj"/></e>
-    <e lm="Nepalese"><i>Nepalese</i><par n="expensive__adj"/></e>
-    <e lm="Nicaraguan"><i>Nicaraguan</i><par n="expensive__adj"/></e>
-    <e lm="Nigerian"><i>Nigerian</i><par n="expensive__adj"/></e>
+    <e lm="Nepalese"><par n="Nn"/><i>epalese</i><par n="expensive__adj"/></e>
+    <e lm="Nicaraguan"><par n="Nn"/><i>icaraguan</i><par n="expensive__adj"/></e>
+    <e lm="Nigerian"><par n="Nn"/><i>igerian</i><par n="expensive__adj"/></e>
     <e lm="Norwegian"><par n="Nn"/><i>orwegian</i><par n="expensive__adj"/></e>
     <e lm="Orthodox"><i>Orthodox</i><par n="expensive__adj"/></e>
     <e lm="Palestinian"><i>Palestinian</i><par n="expensive__adj"/></e>

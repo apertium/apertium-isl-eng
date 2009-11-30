@@ -28,8 +28,13 @@
   <def-cat n="ant">
      <cat-item tags="np.ant.*"/>
   </def-cat>
-  <def-cat n="verbcj">
-     <!-- When voice is not marked -->
+
+  <def-cat n="auxcj">
+     <cat-item tags="vbser.pri.*"/>
+     <cat-item tags="vbser.prs.*"/>
+     <cat-item tags="vbser.past.*"/>
+     <cat-item tags="vbser.pss.*"/>
+
      <cat-item tags="vaux.pri.*"/>
      <cat-item tags="vaux.prs.*"/>
      <cat-item tags="vaux.past.*"/>
@@ -39,12 +44,9 @@
      <cat-item tags="vbhaver.prs.*"/>
      <cat-item tags="vbhaver.past.*"/>
      <cat-item tags="vbhaver.pss.*"/>
+  </def-cat>
 
-     <cat-item tags="vbser.pri.*"/>
-     <cat-item tags="vbser.prs.*"/>
-     <cat-item tags="vbser.past.*"/>
-     <cat-item tags="vbser.pss.*"/>
-
+  <def-cat n="verbcj">
      <cat-item tags="vblex.pri.*"/>
      <cat-item tags="vblex.prs.*"/>
      <cat-item tags="vblex.past.*"/>
@@ -55,13 +57,6 @@
      <cat-item tags="vblex.*.prs.*"/>
      <cat-item tags="vblex.*.past.*"/>
      <cat-item tags="vblex.*.pss.*"/>
-  </def-cat>
-
-  <def-cat n="auxcj">
-     <cat-item tags="vbser.pri.*"/>
-     <cat-item tags="vbser.prs.*"/>
-     <cat-item tags="vbser.past.*"/>
-     <cat-item tags="vbser.pss.*"/>
   </def-cat>
 
   <def-cat n="inf">
@@ -208,20 +203,24 @@
   </def-attr>
 
   <def-attr n="voice">
-     <attr-item tags="act"/>
-     <attr-item tags="mid"/>
+     <attr-item tags="actv"/>
+     <attr-item tags="midv"/>
   </def-attr>
 
   <def-attr n="temps">
      <attr-item tags="pri"/>
      <attr-item tags="pres"/>
-     <attr-item tags="pp"/>
      <attr-item tags="past"/>
      <attr-item tags="prs"/>
      <attr-item tags="pss"/>
+
      <attr-item tags="imp"/>
+
      <attr-item tags="inf"/>
-     <attr-item tags="spn"/>
+     <attr-item tags="ger"/>
+     <attr-item tags="supn"/>
+     <attr-item tags="pp"/>
+     <attr-item tags="ppres"/>
   </def-attr>
 
   <def-attr n="gen">
@@ -262,6 +261,8 @@
      <attr-item tags="@←SUBJ"/>
      <attr-item tags="@OBJ→"/>
      <attr-item tags="@←OBJ"/>
+     <attr-item tags="@\+FMAINV"/>
+     <attr-item tags="@\+FAUXV"/>
   </def-attr>
 
 </section-def-attrs>
@@ -288,10 +289,10 @@
               <lit v="vera"/>
             </equal>
           </test>
-          <choose>
+          <choose> <!-- Verb is 'vera' (to be) -->
             <when>
               <test>
-                <or>
+                <or> <!-- Person is 'p2.sg', 'p2.pl', 'p1.pl' or 'p3.pl' -->
                   <equal>
                     <clip pos="1" side="sl" part="pers"/>
                     <lit-tag v="p2"/>
@@ -316,13 +317,19 @@
               </test>           
               <choose>
                 <when>
-                  <test>
-                    <equal>
-                      <clip pos="1" side="sl" part="temps"/>
-                      <lit-tag v="pri"/>
-                    </equal>
+                  <test> <!-- If the tense is 'pri' or 'prs' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pri"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="prs"/>
+                      </equal>
+                    </or>
                   </test> 
-                  <let>
+                  <let> <!-- Set the tense to 'pres' -->
                     <clip pos="1" side="tl" part="temps"/>
                     <lit-tag v="pres"/>
                   </let>
@@ -338,33 +345,44 @@
                </concat>
              </let>         
             </when>
+
             <when>
               <test>
-                <not>
-                  <equal>
-                    <clip pos="1" side="sl" part="pers"/>
-                    <lit-tag v="p2"/>
-                  </equal>
-                </not>
+                <equal>
+                  <clip pos="1" side="sl" part="pers"/>
+                  <lit-tag v="p3"/>
+                </equal>
               </test>           
              <let>
                <var n="cur_verb_fin"/>
                <concat>
-                 <clip pos="1" side="tl" part="whole"/>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_verb"/>
+                 <clip pos="1" side="tl" part="temps"/>
+                 <clip pos="1" side="tl" part="pers"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </concat>
              </let>         
             </when>
 
           </choose>
         </when>
-
+      </choose>
+      <choose>
         <when> <!-- In the third person singular, present tense, we output all the tags -->
           <test>
             <and>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="pri"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pri"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="prs"/>
+                </equal>
+              </or>
               <equal>
                 <clip pos="1" side="sl" part="pers"/>
                 <lit-tag v="p3"/>
@@ -381,7 +399,14 @@
           </let>
           <let>
             <var n="cur_verb_fin"/>
-            <clip pos="1" side="tl" part="whole"/>
+            <concat>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="pers"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </concat>
           </let>            
         </when>
         <when> <!-- Subjunctive gets collapsed into indicative in the present tense -->
@@ -1848,7 +1873,7 @@
          <chunk name="verbcj" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="syntax"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
@@ -1861,10 +1886,37 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: AUXCJ → AUXCJ | sé → was">
+     <pattern>
+       <pattern-item n="auxcj"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="auxcj" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
+
   <rule comment="REGLA: AUX INF → AUX GER | mun koma → will come">
      <pattern>
        <pattern-item n="auxcj"/>
-       <pattern-item n="að"/>
        <pattern-item n="inf"/>
      </pattern>
      <action>
@@ -1872,15 +1924,11 @@
                                         outputs an English conjugated verb in the variable "cur_verb_fin" -->
          <with-param pos="1"/>
        </call-macro>
-       <let>
-         <clip pos="3" side="tl" part="temps"/>
-         <lit-tag v="ger"/>
-       </let>
        <out>
-         <chunk name="auxcj_ger" case="caseFirstWord">
+         <chunk name="auxcj_inf" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="syntax"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
@@ -1904,8 +1952,7 @@
        <pattern-item n="inf"/>
      </pattern>
      <action>
-       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
-                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+       <call-macro n="conj_verb1"> <!-- Output English conjugated verb in "cur_verb_fin" -->
          <with-param pos="1"/>
        </call-macro>
        <let>
@@ -1916,7 +1963,7 @@
          <chunk name="auxcj_ger" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="tl" part="syntax"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
