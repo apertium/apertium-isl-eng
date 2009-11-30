@@ -60,7 +60,7 @@
   <def-cat n="auxcj">
      <cat-item tags="vbser.pri.*"/>
      <cat-item tags="vbser.prs.*"/>
-     <cat-item tags="vbser.psi.*"/>
+     <cat-item tags="vbser.past.*"/>
      <cat-item tags="vbser.pss.*"/>
   </def-cat>
 
@@ -90,20 +90,32 @@
   </def-cat>
 
   <def-cat n="det">
-    <cat-item tags="det.dem.*"/>
+    <cat-item tags="det.ind.*"/>
     <cat-item tags="det.def.*"/>
+    <cat-item tags="det.dem.*"/>
   </def-cat>
 
   <def-cat n="prn">
     <cat-item tags="prn.*"/>
   </def-cat>
 
+  <def-cat n="ppres">
+     <cat-item tags="vblex.ppres"/>
+     <cat-item tags="vblex.ger"/>
+  </def-cat>
+
   <def-cat n="pp">
-     <cat-item tags="vblex.pp"/>
+     <cat-item tags="vblex.pp.*"/>
   </def-cat>
 
   <def-cat n="adj">
      <cat-item tags="adj.*"/>
+  </def-cat>
+
+  <def-cat n="sadv">
+     <cat-item lemma="aldrei" tags="adv"/>
+     <cat-item lemma="alltaf" tags="adv"/>
+     <cat-item lemma="ekki" tags="adv"/>
   </def-cat>
 
   <def-cat n="adv">
@@ -116,6 +128,10 @@
 
   <def-cat n="preadv">
      <cat-item tags="preadv"/>
+  </def-cat>
+
+  <def-cat n="sent">
+     <cat-item tags="sent"/>
   </def-cat>
 
   <!-- Lexicalised categories -->
@@ -169,6 +185,7 @@
      <attr-item tags="det.dem"/>
      <attr-item tags="det.pos"/>
      <attr-item tags="det.def"/>
+     <attr-item tags="det.ind"/>
   </def-attr>
 
   <def-attr n="a_poss">
@@ -239,6 +256,14 @@
      <attr-item tags="comp"/>
      <attr-item tags="sup"/>
   </def-attr>
+
+  <def-attr n="syntax">
+     <attr-item tags="@SUBJ→"/>
+     <attr-item tags="@←SUBJ"/>
+     <attr-item tags="@OBJ→"/>
+     <attr-item tags="@←OBJ"/>
+  </def-attr>
+
 </section-def-attrs>
 
 <section-def-vars>
@@ -246,8 +271,10 @@
   <def-var n="genere"/>
   <def-var n="article"/>
   <def-var n="genitiu"/>
-  <def-var n="verbfinal"/>
+
+  <def-var n="cur_verb_fin"/>
   <def-var n="cur_subj_prn"/>
+  <def-var n="cur_sent_adv"/>
 </section-def-vars>
 
 <section-def-macros>
@@ -302,7 +329,7 @@
                 </when>
              </choose>
              <let>
-               <var n="verbfinal"/>
+               <var n="cur_verb_fin"/>
                <concat>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_verb"/>
@@ -321,7 +348,7 @@
                 </not>
               </test>           
              <let>
-               <var n="verbfinal"/>
+               <var n="cur_verb_fin"/>
                <concat>
                  <clip pos="1" side="tl" part="whole"/>
                </concat>
@@ -353,7 +380,7 @@
             <lit-tag v="pri"/>
           </let>
           <let>
-            <var n="verbfinal"/>
+            <var n="cur_verb_fin"/>
             <clip pos="1" side="tl" part="whole"/>
           </let>            
         </when>
@@ -375,7 +402,7 @@
             <lit-tag v="pres"/>
           </let>
           <let>
-            <var n="verbfinal"/>
+            <var n="cur_verb_fin"/>
             <concat>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
@@ -402,7 +429,30 @@
             <lit-tag v="past"/>
           </let>
           <let>
-            <var n="verbfinal"/>
+            <var n="cur_verb_fin"/>
+            <concat>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </concat>
+          </let>      
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="lem"/>
+              <lit v="munu"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+          <let>
+            <var n="cur_verb_fin"/>
             <concat>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
@@ -1683,6 +1733,7 @@
        <chunk name="prn" case="caseFirstWord">
          <tags>
            <tag><lit-tag v="SN"/></tag>
+            <tag><clip pos="1" side="tl" part="syntax"/></tag>
             <tag><clip pos="1" side="tl" part="pers"/></tag>
             <tag><clip pos="1" side="tl" part="gen"/></tag>
             <tag><clip pos="1" side="tl" part="nbr"/></tag>
@@ -1754,9 +1805,35 @@
        </chunk>
      </out>
    </action>
-</rule>
+  </rule>
+
+  <!-- ///////////////////////////////////////////////////////// -->
+
+  <rule comment="REGLA: SADV → SADV | ekki → not">
+     <pattern>
+       <pattern-item n="sadv"/>
+     </pattern>
+     <action>
+       <let>
+         <var n="cur_sent_adv"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_sent_adv" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SADV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
 
 
+
+  <!-- ///////////////////////////////////////////////////////// -->
 
   <rule comment="REGLA: VERBCJ → VERBCJ | sá → saw">
      <pattern>
@@ -1764,26 +1841,27 @@
      </pattern>
      <action>
        <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
-                                        outputs an English conjugated verb in the variable "verbfinal" -->
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
          <with-param pos="1"/>
        </call-macro>
        <out>
          <chunk name="verbcj" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <var n="verbfinal"/>
+              <var n="cur_verb_fin"/>
             </lu>
           </chunk>
         </out>
      </action>
   </rule>
 
-  <rule comment="REGLA: AUX að INF → AUX GER | er að læra → am learning">
+  <rule comment="REGLA: AUX INF → AUX GER | mun koma → will come">
      <pattern>
        <pattern-item n="auxcj"/>
        <pattern-item n="að"/>
@@ -1791,7 +1869,7 @@
      </pattern>
      <action>
        <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
-                                        outputs an English conjugated verb in the variable "verbfinal" -->
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
          <with-param pos="1"/>
        </call-macro>
        <let>
@@ -1807,7 +1885,7 @@
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
-              <var n="verbfinal"/>
+              <var n="cur_verb_fin"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -1817,6 +1895,66 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: AUX að INF → AUX GER | er að læra → am learning">
+     <pattern>
+       <pattern-item n="auxcj"/>
+       <pattern-item n="að"/>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <clip pos="3" side="tl" part="temps"/>
+         <lit-tag v="ger"/>
+       </let>
+       <out>
+         <chunk name="auxcj_ger" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <!-- ///////////////////////////////////////////////////////// -->
+
+  <rule comment="REGLA: SENT → SENT | . → .">
+     <pattern>
+       <pattern-item n="sent"/>
+     </pattern>
+     <action>
+       <out>
+         <chunk name="sent" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
+
+
+
 
 </section-rules>
 

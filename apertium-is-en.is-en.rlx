@@ -1,7 +1,9 @@
 ###############################################################################
 #
 #	This is a partial conversion of the rule file from the IceTagger 
-#	part-of-speech tagger for Icelandic by Hrafn Loftsson.
+#	part-of-speech tagger for Icelandic by Hrafn Loftsson, along with 
+#       some hacked up rules from Trond Trosterud's Faroese CG and some of 
+#       our very own home-brew crack.
 #
 ###############################################################################
 
@@ -18,23 +20,23 @@ LIST Num = (num) ;
 LIST ProperNom = (np) ;
 LIST Adj = (adj) ;
 LIST Adv = (adv) ;
-LIST PersonalPronoun = (prn) ;
-LIST IndefinitePronoun = (prn ind);
-LIST DemonstrativePronoun = (prn dem) ;
+LIST PersPron = (prn p1) (prn p2) (prn p3) ;
+LIST IndefPron = (prn ind);
+LIST DemPron = (prn dem) ;
 LIST ReflexivePronoun = (prn ref) ;
 LIST InterrogativePronoun = (prn itg) ;
 LIST PossessivePronoun = (prn pos) ;
 LIST Pron = (prn);
 LIST Prep = (pr) ;
 LIST Participle = (pp) ;
-LIST Infinitive = (inf) ;
+LIST Inf = (inf) ;
 LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
 LIST VerbAux = (vaux) ;
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) (vbser) (vbhaver);
-LIST FiniteTenses = pri psi prs pss;
+LIST FiniteTenses = pri past prs pss;
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
 LIST CC = (cnjcoo) ;
@@ -65,11 +67,13 @@ LIST AccPrep = "fyrir ofan"ri "gegnum"ri "kringum"ri "um"ri "umfram"ri "umhverfi
 LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnvart"ri "gegnt"ri "handa"ri 
                "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
-LIST MODV = "kunna" "láta" "skula" "vilja" "munna" "mega" ; #todo: translate fao to icelandic
+LIST MODV = "kunna" "láta" "skula" "vilja" "munu" "mega" "vera" ; #todo: translate fao to icelandic
+LIST SADV = "aldrei" "ekki" ; # complete
 
 LIST NAGD = nom acc gen dat;
 LIST GENDER = m f nt;
 LIST NUMBER = sg pl;
+LIST PERSON = p1 p2 p3;
 
 LIST COMMA = (",") ;
 
@@ -122,7 +126,7 @@ SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 # hann sýnir but stakk hún hendi is ok, það sýnir aldrei
 
 # CEx. Þessi íslenska kona
-#SELECT Nom IF ((-1C PersonalPronoun) OR (-1C PersonalPronoun LINK -1C DemonstrativePronoun) OR (-1C ("<við>"ri)));
+#SELECT Nom IF ((-1C PersPron) OR (-1C PersPron LINK -1C DemPron) OR (-1C ("<við>"ri)));
 # CEx. um nýja samkomulagið
 #SELECT N IF (-1C GenPrep) (1 Gen) ;	
 #SELECT N IF (-1C AccPrep) (1 Acc) ;
@@ -157,12 +161,12 @@ SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 N LINK 1 Gen));
 
 # sú líkn
 # CEx. að í því hefðu fyrirvararnir
-#SELECT DemonstrativePronoun IF (-1 N) (NOT 0 N);
+#SELECT DemPron IF (-1 N) (NOT 0 N);
 
 SELECT VerbBe IF (NOT 0 N);
 
 # select the adjective, "hann er lasinn",
-SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersonalPronoun);
+SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersPron);
 
 
 #################################################################################
@@ -203,6 +207,9 @@ SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 # Demonstrative pronouns 
 #################################################################################
 
+# Ég sá ekki 
+REMOVE DemPron IF (-1C PersPron);
+
 
 #################################################################################
 # Reflexive pronouns 
@@ -234,21 +241,49 @@ REMOVE:ufc_f  Adj + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK
 REMOVE:ufc_m  Adj + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
 REMOVE:ufc_nt Adj + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
 
-SELECT:r28 $$GENDER IF (-1C (Adj) + $$GENDER)(0 N);
-SELECT:r30b $$GENDER IF (-1C (Det) + $$GENDER)(0 N);
-SELECT:r30c $$GENDER IF (-1C (Pron Indef) + $$GENDER)(0 N);
+REMOVE:d_ufc_f  Det + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
+REMOVE:d_ufc_m  Det + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
+REMOVE:d_ufc_nt Det + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
 
-SELECT:r29 $$NAGD IF (-1C (Adj) + $$NAGD)(0 N);
-SELECT:r30b $$NAGD IF (-1C (Det) + $$NAGD)(0 N);
-SELECT:r30c $$NAGD IF (-1C (Pron Indef) + $$NAGD)(0 N);
+SELECT:r28 $$GENDER IF (-1C Adj + $$GENDER)(0 N);
+SELECT:r28b $$GENDER IF (-1C Det + $$GENDER)(0 N);
+SELECT:r28c $$GENDER IF (-1C IndefPron + $$GENDER)(0 N);
 
-SELECT:r30 $$NUMBER IF (-1C (Adj) + $$NUMBER)(0 N);
-SELECT:r30b $$NUMBER IF (-1C (Det) + $$NUMBER)(0 N);
-SELECT:r30c $$NUMBER IF (-1C (Pron Indef) + $$NUMBER)(0 N);
+SELECT:r29 $$NAGD IF (-1C Adj + $$NAGD)(0 N);
+SELECT:r29b $$NAGD IF (-1C Det + $$NAGD)(0 N);
+SELECT:r29c $$NAGD IF (-1C IndefPron + $$NAGD)(0 N);
 
+SELECT:r30 $$NUMBER IF (-1C Adj + $$NUMBER)(0 N);
+SELECT:r30b $$NUMBER IF (-1C Det + $$NUMBER)(0 N);
+SELECT:r30c $$NUMBER IF (-1C IndefPron + $$NUMBER)(0 N);
+
+# enga bók
+SELECT:r31 Det IF (1C N) (0 Det) (0 IndefPron);
 
 #################################################################################
 # Verbs
 #################################################################################
 
-SELECT:r51 Infinitive IF (*-1 MODV BARRIER Verb);
+SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
+
+# María mun koma
+SELECT:r52 MODV IF (1C Inf);
+
+# Ég las bókina
+SELECT:r53 $$PERSON IF (-1C PersPron + $$PERSON)(0 VerbFin);
+
+# The modals munu and skulu can never be preceded by another auxiliary. (p.10)
+REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
+
+#################################################################################
+# Syntax  
+#################################################################################
+
+## Todo: 
+##       Disambiguate co-ordinators, find objects, predicates, adverbials, just 
+##       enough to let us write transfer rules more easily.
+
+SECTION
+
+MAP (@←SUBJ) PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron); 
+MAP (@SUBJ→) PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron);

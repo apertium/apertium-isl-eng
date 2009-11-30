@@ -4,11 +4,18 @@ SOFT-DELIMITERS       = ("<,>") ;
 LIST BOS              = (>>>);
 LIST EOS              = (<<<);
 
+LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja";
+LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
+
 LIST Acc              = (acc);
 LIST PrnPos           = (prn pos);
 LIST Ord              = (ord) ("fyrstur"ri);
 
 SECTION
+
+##
+## NOUNS 
+##
 
 # "bóndi" : "farmer"
 SUBSTITUTE (n) (n :0) ("bóndi"ri);
@@ -44,3 +51,12 @@ SUBSTITUTE (vblex) (vblex :0) ("lýsa"ri);
 # "lýsa" : "light"
 SUBSTITUTE (vblex :0) (vblex :1) ("lýsa"ri) (1C Acc);
 
+## 
+## PREPOSITIONS 
+##
+
+# "við" : "beside"
+SUBSTITUTE (pr) (pr :0) ("við"ri);
+
+# "við" : "to"
+SUBSTITUTE (pr :0) (pr :1) ("við"ri) (-1C* CommVerb) (1C Human);

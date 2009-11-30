@@ -80,6 +80,15 @@
       <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
+    <pardef n="nokkur_some__prn">
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
 
 
   </pardefs>
@@ -108,7 +117,8 @@
     <e><p><l>út<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
-    <e><p><l>við<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+    <e><p><l>við<s n="pr"/><s n=":0"/></l><r>beside<s n="pr"/></r></p></e>
+    <e><p><l>við<s n="pr"/><s n=":1"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>inn<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
 
@@ -333,6 +343,7 @@
 
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
     <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
+    <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e> 
     <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
 
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -359,6 +370,12 @@
     <e r="LR"><p><l>þessi<s n="det"/><s n="dem"/><s n="f"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>þessi<s n="det"/><s n="dem"/><s n="nt"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="RL"><p><l>þessi<s n="det"/><s n="dem"/><s n="GD"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
+
+    <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="m"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="f"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="nt"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>enginn<s n="det"/><s n="ind"/><s n="GD"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
+
 
 
 
@@ -4262,7 +4279,8 @@
     <!--<e><p><l>stökk<s n="n"/><s n="nt"/></l><r>gallop<s n="n"/></r></p></e>-->
     <!--<e><p><l>stöðvun<s n="n"/><s n="f"/></l><r>halt<s n="n"/></r></p></e>-->
     <e><p><l>stöðvun<s n="n"/><s n="f"/></l><r>stopping<s n="n"/></r></p></e>
-    <e><p><l>stúdentspróf<s n="n"/><s n="nt"/></l><r>college<b/>degree<s n="n"/></r></p></e>
+    <e><p><l>stúdentspróf<s n="n"/><s n="nt"/></l><r>degree<s n="n"/></r></p></e>
+    <e><p><l>stúdent<s n="n"/><s n="m"/></l><r>student<s n="n"/></r></p></e>
     <e><p><l>stúfa<s n="n"/><s n="f"/></l><r>succisa<b/>pratensis<s n="n"/></r></p></e>
     <e><p><l>stúlka<s n="n"/><s n="f"/></l><r>girl<s n="n"/></r></p></e>
     <!--<e><p><l>stýri<s n="n"/><s n="nt"/></l><r>rudder<s n="n"/></r></p></e>-->
@@ -8993,6 +9011,7 @@
 <!--<e><p><l>rölta<s n="vblex"/></l><r>ramble<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>rölta<s n="vblex"/></l><r>amble<s n="vblex"/></r></p></e>-->
     <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
+    <e><p><l>halda<s n="vblex"/><s n=":1"/></l><r>think<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
     <e><p><l>rúma<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
 <!--<e><p><l>rúma<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>-->
@@ -9793,6 +9812,7 @@
     <e><p><l>í<b/>morgun<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
     <e><p><l>í<b/>haust<s n="adv"/></l><r>this<b/>autumn<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrrahaust<s n="adv"/></l><r>last<b/>autumn<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>fyrra<s n="adv"/></l><r>last<b/>year<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>í<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>

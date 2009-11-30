@@ -17,6 +17,7 @@
 /configure.ac -text
 /demo.sh -text
 /detailedDemo.sh -text
+dev/NOTES -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
 dev/inconsistency.sh -text

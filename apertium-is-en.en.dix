@@ -1663,7 +1663,7 @@
     <e>
       <p>
         <l></l>
-        <r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r>
+        <r><s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -42972,6 +42972,7 @@
     <e lm="therefore"><i>therefore</i><par n="maybe__adv"/></e>
     <e lm="this way"><i>this<b/>way</i><par n="maybe__adv"/></e>
     <e lm="last autumn"><i>last<b/>autumn</i><par n="maybe__adv"/></e>
+    <e lm="last year"><i>last<b/>year</i><par n="maybe__adv"/></e>
     <e lm="this autumn"><i>this<b/>autumn</i><par n="maybe__adv"/></e>
     <e lm="this year"><i>this<b/>year</i><par n="maybe__adv"/></e>
     <e lm="though"><i>though</i><par n="maybe__adv"/></e>
