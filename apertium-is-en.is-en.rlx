@@ -13,7 +13,7 @@ DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
 LIST BOS = (>>>) (<s>) (sent) ; 
 LIST EOS = (<<<) (</s>) (sent) ; 
 
-LIST CLB = (sent);
+LIST CLB = (sent) (cnjsub); 
 
 LIST N = (n) ;
 LIST Num = (num) ;
@@ -37,6 +37,7 @@ LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) (vbser) (vbhaver);
 LIST TempsFin = (pri) (past) (prs) (pss);
+LIST TempsIrreal = (prs) (pss);
 LIST RelativeConjunction = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
 LIST CC = (cnjcoo) ;
@@ -53,6 +54,8 @@ LIST Fem = (f);
 LIST Msc = (m);
 LIST Neu = (nt);
 
+LIST Sg = (sg);
+LIST Pl = (pl);
 
 LIST Nom = (nom);
 LIST Gen = (gen);
@@ -88,6 +91,7 @@ SET NOTACC = Nom | Gen | Dat ;
 SET NOTACCDAT = Nom | Gen ;
 SET OBL = Acc | Dat | Gen ;
 
+SET POST-DET = Adj | Det | N | Num | Adv ;
 SET PRE-N =  Adj | Det | (N Gen) | Num | (Pron Gen) | (Pron Dem) | CC ; # Det???
 
 SET WORD = N | Verb | Adj | Prep | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
@@ -163,7 +167,7 @@ SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 N LINK 1 Gen));
 # CEx. að í því hefðu fyrirvararnir
 #SELECT DemPron IF (-1 N) (NOT 0 N);
 
-SELECT VerbBe IF (NOT 0 N);
+#SELECT VerbBe IF (NOT 0 N);
 
 # select the adjective, "hann er lasinn",
 SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersPron);
@@ -186,6 +190,9 @@ REMOVE N IF (0 N) (0 Nom) (0 Adj) (0 (sta)) (1C N) (1C Indef);
 
 # kröfurnar voru skýrar;
 REMOVE Adv IF (0 Adv) (0 Adj) (-1C VerbBe) (1C CLB);
+
+# Fallega rauða rósin
+REMOVE Adv IF (NOT -1C* VerbFin BARRIER CLB) (0 Adv) (0 Adj) (1 Adj);
 
 #################################################################################
 # Adverbs
@@ -210,6 +217,8 @@ SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 # Ég sá ekki 
 REMOVE DemPron IF (-1C PersPron);
 
+# En mér leið ekki vel eftir þetta.
+REMOVE Det IF (0 Det) (0 Pron) (NOT 1 POST-DET);
 
 #################################################################################
 # Reflexive pronouns 
@@ -267,6 +276,13 @@ SELECT:r31 Det IF (1C N) (0 Det) (0 IndefPron);
 # Verbs
 #################################################################################
 
+REMOVE (imp) (NOT -1 CLB); 
+
+
+# Ég sé hesta
+
+REMOVE TempsIrreal + VerbAux IF (NOT -1C* CS) (NOT -1 BOS);
+
 SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
 
 # María mun koma
@@ -278,7 +294,7 @@ SELECT:r53 $$PERSON IF (-1C PersPron + $$PERSON)(0 VerbFin);
 # The modals munu and skulu can never be preceded by another auxiliary. (p.10)
 REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
 
-REMOVE:r55 VerbFin IF (-1C* VerbFin BARRIER CLB) (0 VerbFin) (0 Prep);
+REMOVE:r55 VerbFin IF (-1C* VerbFin BARRIER CLB) (0 VerbFin) ;
 
 #################################################################################
 # Syntax  
@@ -302,4 +318,6 @@ LIST @CVP = @CVP; # SV co-ordinator
 MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron); 
 MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron);
 
-MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) (NOT -1C* VerbAux + TempsFin BARRIER CLB) (0C VerbAux + TempsFin);
+MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
+                                        (NOT -1C* VerbAux + TempsFin BARRIER CLB) 
+                                        (0C VerbAux + TempsFin);

@@ -280,6 +280,14 @@
 
     </pardef>
 
+    <pardef n="Ss">
+      <e r="LR"><i>S</i></e>
+      <e r="RL"><p><l>S</l><r>s</r></p></e>
+    </pardef>
+    <pardef n="Mm">
+      <e r="LR"><i>M</i></e>
+      <e r="RL"><p><l>M</l><r>m</r></p></e>
+    </pardef>
     <pardef n="Cc">
       <e r="LR"><i>C</i></e>
       <e r="RL"><p><l>C</l><r>c</r></p></e>
@@ -24795,6 +24803,7 @@
     <e lm="venture"><i>venture</i><par n="house__n"/></e>
     <e lm="venue"><i>venue</i><par n="house__n"/></e>
     <e lm="verb"><i>verb</i><par n="house__n"/></e>
+    <e lm="verdict"><i>verdict</i><par n="house__n"/></e>
     <e lm="verse"><i>verse</i><par n="house__n"/></e>
     <e lm="version"><i>version</i><par n="house__n"/></e>
     <e lm="vesicle"><i>vesicle</i><par n="house__n"/></e>
@@ -40638,15 +40647,299 @@
     <e lm="sovereign"><i>sovereign</i><par n="expensive__adj"/></e>
     <e lm="surviving"><i>surviving</i><par n="expensive__adj"/></e>
     <e lm="soloist"><i>soloist</i><par n="expensive__adj"/></e>
-    <e lm="Sumerian"><i>Sumerian</i><par n="expensive__adj"/></e>
+    <e lm="Sumerian"><par n="Ss"/><i>umerian</i><par n="expensive__adj"/></e>
     <e lm="turquoise"><i>turquoise</i><par n="expensive__adj"/></e>
     <e lm="vacant"><i>vacant</i><par n="expensive__adj"/></e>
     <e lm="veteran"><i>veteran</i><par n="expensive__adj"/></e>
     <e lm="widowed"><i>widowed</i><par n="expensive__adj"/></e>
-    <e lm="widowed"><i>multitudinous</i><par n="expensive__adj"/></e>
+    <e lm="multitudinous"><i>multitudinous</i><par n="expensive__adj"/></e>
     <e lm="hesitant"><i>hesitant</i><par n="expensive__adj"/></e>
     <e lm="low quality"><i>low<b/>quality</i><par n="expensive__adj"/></e>
     <e lm="naked"><i>naked</i><par n="expensive__adj"/></e>
+
+    <e lm="Arabic"><i>Arabic</i><par n="expensive__adj"/></e>
+    <e lm="aquaphobic"><i>aquaphobic</i><par n="expensive__adj"/></e>
+    <e lm="Nordic"><par n="Nn"/><i>ordic</i><par n="expensive__adj"/></e>
+    <e lm="gothic"><i>Gothic</i><par n="expensive__adj"/></e>
+    <e lm="historic"><i>historic</i><par n="expensive__adj"/></e>
+    <e lm="widespread"><i>widespread</i><par n="expensive__adj"/></e>
+    <e lm="absorbed"><i>absorbed</i><par n="expensive__adj"/></e>
+    <e lm="placed"><i>placed</i><par n="expensive__adj"/></e>
+    <e lm="enhanced"><i>enhanced</i><par n="expensive__adj"/></e>
+    <e lm="experienced"><i>experienced</i><par n="expensive__adj"/></e>
+    <e lm="inexperienced"><i>inexperienced</i><par n="expensive__adj"/></e>
+    <e lm="convinced"><i>convinced</i><par n="expensive__adj"/></e>
+    <e lm="faded"><i>faded</i><par n="expensive__adj"/></e>
+    <e lm="loaded"><i>loaded</i><par n="expensive__adj"/></e>
+    <e lm="two-sided"><i>two-sided</i><par n="expensive__adj"/></e>
+    <e lm="divided"><i>divided</i><par n="expensive__adj"/></e>
+    <e lm="undivided"><i>undivided</i><par n="expensive__adj"/></e>
+    <e lm="landed"><i>landed</i><par n="expensive__adj"/></e>
+    <e lm="descended"><i>descended</i><par n="expensive__adj"/></e>
+    <e lm="intended"><i>intended</i><par n="expensive__adj"/></e>
+    <e lm="winded"><i>winded</i><par n="expensive__adj"/></e>
+    <e lm="surrounded"><i>surrounded</i><par n="expensive__adj"/></e>
+    <e lm="wounded"><i>wounded</i><par n="expensive__adj"/></e>
+    <e lm="excluded"><i>excluded</i><par n="expensive__adj"/></e>
+    <e lm="crowded"><i>crowded</i><par n="expensive__adj"/></e>
+    <e lm="alleged"><i>alleged</i><par n="expensive__adj"/></e>
+    <e lm="changed"><i>changed</i><par n="expensive__adj"/></e>
+    <e lm="unchanged"><i>unchanged</i><par n="expensive__adj"/></e>
+    <e lm="prolonged"><i>prolonged</i><par n="expensive__adj"/></e>
+    <e lm="charged"><i>charged</i><par n="expensive__adj"/></e>
+    <e lm="clenched"><i>clenched</i><par n="expensive__adj"/></e>
+    <e lm="touched"><i>touched</i><par n="expensive__adj"/></e>
+    <e lm="vanished"><i>vanished</i><par n="expensive__adj"/></e>
+    <e lm="petrified"><i>petrified</i><par n="expensive__adj"/></e>
+    <e lm="unjustified"><i>unjustified</i><par n="expensive__adj"/></e>
+    <e lm="fried"><i>fried</i><par n="expensive__adj"/></e>
+    <e lm="married"><i>married</i><par n="expensive__adj"/></e>
+    <e lm="worried"><i>worried</i><par n="expensive__adj"/></e>
+    <e lm="buried"><i>buried</i><par n="expensive__adj"/></e>
+    <e lm="tied"><i>tied</i><par n="expensive__adj"/></e>
+    <e lm="checked"><i>checked</i><par n="expensive__adj"/></e>
+    <e lm="shocked"><i>shocked</i><par n="expensive__adj"/></e>
+    <e lm="locked"><i>locked</i><par n="expensive__adj"/></e>
+    <e lm="asked"><i>asked</i><par n="expensive__adj"/></e>
+    <e lm="healed"><i>healed</i><par n="expensive__adj"/></e>
+    <e lm="so-called"><i>so-called</i><par n="expensive__adj"/></e>
+    <e lm="puzzled"><i>puzzled</i><par n="expensive__adj"/></e>
+    <e lm="named"><i>named</i><par n="expensive__adj"/></e>
+    <e lm="forenamed"><i>forenamed</i><par n="expensive__adj"/></e>
+    <e lm="signed"><i>signed</i><par n="expensive__adj"/></e>
+    <e lm="combined"><i>combined</i><par n="expensive__adj"/></e>
+    <e lm="defined"><i>defined</i><par n="expensive__adj"/></e>
+    <e lm="determined"><i>determined</i><par n="expensive__adj"/></e>
+    <e lm="stunned"><i>stunned</i><par n="expensive__adj"/></e>
+    <e lm="above-mentioned"><i>above-mentioned</i><par n="expensive__adj"/></e>
+    <e lm="learned"><i>learned</i><par n="expensive__adj"/></e>
+    <e lm="scared"><i>scared</i><par n="expensive__adj"/></e>
+    <e lm="prepared"><i>prepared</i><par n="expensive__adj"/></e>
+    <e lm="scattered"><i>scattered</i><par n="expensive__adj"/></e>
+    <e lm="tired"><i>tired</i><par n="expensive__adj"/></e>
+    <e lm="multicoloured"><i>multicoloured</i><par n="expensive__adj"/></e>
+    <e lm="increased"><i>increased</i><par n="expensive__adj"/></e>
+    <e lm="surprised"><i>surprised</i><par n="expensive__adj"/></e>
+    <e lm="closed"><i>closed</i><par n="expensive__adj"/></e>
+    <e lm="composed"><i>composed</i><par n="expensive__adj"/></e>
+    <e lm="opposed"><i>opposed</i><par n="expensive__adj"/></e>
+    <e lm="collapsed"><i>collapsed</i><par n="expensive__adj"/></e>
+    <e lm="dressed"><i>dressed</i><par n="expensive__adj"/></e>
+    <e lm="impressed"><i>impressed</i><par n="expensive__adj"/></e>
+    <e lm="crossed"><i>crossed</i><par n="expensive__adj"/></e>
+    <e lm="focused"><i>focused</i><par n="expensive__adj"/></e>
+    <e lm="confused"><i>confused</i><par n="expensive__adj"/></e>
+    <e lm="sophisticated"><i>sophisticated</i><par n="expensive__adj"/></e>
+    <e lm="confiscated"><i>confiscated</i><par n="expensive__adj"/></e>
+    <e lm="outdated"><i>outdated</i><par n="expensive__adj"/></e>
+    <e lm="created"><i>created</i><par n="expensive__adj"/></e>
+    <e lm="related"><i>related</i><par n="expensive__adj"/></e>
+    <e lm="isolated"><i>isolated</i><par n="expensive__adj"/></e>
+    <e lm="decorated"><i>decorated</i><par n="expensive__adj"/></e>
+    <e lm="orchestrated"><i>orchestrated</i><par n="expensive__adj"/></e>
+    <e lm="irritated"><i>irritated</i><par n="expensive__adj"/></e>
+    <e lm="evaluated"><i>evaluated</i><par n="expensive__adj"/></e>
+    <e lm="situated"><i>situated</i><par n="expensive__adj"/></e>
+    <e lm="cultivated"><i>cultivated</i><par n="expensive__adj"/></e>
+    <e lm="connected"><i>connected</i><par n="expensive__adj"/></e>
+    <e lm="expected"><i>expected</i><par n="expensive__adj"/></e>
+    <e lm="addicted"><i>addicted</i><par n="expensive__adj"/></e>
+    <e lm="marketed"><i>marketed</i><par n="expensive__adj"/></e>
+    <e lm="misinterpreted"><i>misinterpreted</i><par n="expensive__adj"/></e>
+    <e lm="excited"><i>excited</i><par n="expensive__adj"/></e>
+    <e lm="limited"><i>limited</i><par n="expensive__adj"/></e>
+    <e lm="united"><i>united</i><par n="expensive__adj"/></e>
+    <e lm="painted"><i>painted</i><par n="expensive__adj"/></e>
+    <e lm="imported"><i>imported</i><par n="expensive__adj"/></e>
+    <e lm="interested"><i>interested</i><par n="expensive__adj"/></e>
+    <e lm="uninterested"><i>uninterested</i><par n="expensive__adj"/></e>
+    <e lm="relieved"><i>relieved</i><par n="expensive__adj"/></e>
+    <e lm="carved"><i>carved</i><par n="expensive__adj"/></e>
+    <e lm="curved"><i>curved</i><par n="expensive__adj"/></e>
+    <e lm="paralysed"><i>paralysed</i><par n="expensive__adj"/></e>
+    <e lm="unauthorised"><i>unauthorised</i><par n="expensive__adj"/></e>
+    <e lm="afraid"><i>afraid</i><par n="expensive__adj"/></e>
+    <e lm="sold"><i>sold</i><par n="expensive__adj"/></e>
+    <e lm="understood"><i>understood</i><par n="expensive__adj"/></e>
+    <e lm="loud"><i>loud</i><par n="expensive__adj"/></e>
+    <e lm="made"><i>made</i><par n="expensive__adj"/></e>
+    <e lm="inside"><i>inside</i><par n="expensive__adj"/></e>
+    <e lm="rude"><i>rude</i><par n="expensive__adj"/></e>
+    <e lm="carefree"><i>carefree</i><par n="expensive__adj"/></e>
+    <e lm="climbable"><i>climbable</i><par n="expensive__adj"/></e>
+    <e lm="understandable"><i>understandable</i><par n="expensive__adj"/></e>
+    <e lm="sizeable"><i>sizeable</i><par n="expensive__adj"/></e>
+    <e lm="objectionable"><i>objectionable</i><par n="expensive__adj"/></e>
+    <e lm="questionable"><i>questionable</i><par n="expensive__adj"/></e>
+    <e lm="considerable"><i>considerable</i><par n="expensive__adj"/></e>
+    <e lm="adorable"><i>adorable</i><par n="expensive__adj"/></e>
+    <e lm="memorable"><i>memorable</i><par n="expensive__adj"/></e>
+    <e lm="unfavorable"><i>unfavourable</i><par n="expensive__adj"/></e>
+    <e lm="pleasurable"><i>pleasurable</i><par n="expensive__adj"/></e>
+    <e lm="passable"><i>passable</i><par n="expensive__adj"/></e>
+    <e lm="unusable"><i>unusable</i><par n="expensive__adj"/></e>
+    <e lm="irritable"><i>irritable</i><par n="expensive__adj"/></e>
+    <e lm="stable"><i>stable</i><par n="expensive__adj"/></e>
+    <e lm="believable"><i>believable</i><par n="expensive__adj"/></e>
+    <e lm="unbelievable"><i>unbelievable</i><par n="expensive__adj"/></e>
+    <e lm="inconceivable"><i>inconceivable</i><par n="expensive__adj"/></e>
+    <e lm="taxable"><i>taxable</i><par n="expensive__adj"/></e>
+    <e lm="sizable"><i>sizable</i><par n="expensive__adj"/></e>
+    <e lm="availible"><i>availible</i><par n="expensive__adj"/></e>
+    <e lm="sensible"><i>sensible</i><par n="expensive__adj"/></e>
+    <e lm="permissible"><i>permissible</i><par n="expensive__adj"/></e>
+    <e lm="purple"><i>purple</i><par n="expensive__adj"/></e>
+    <e lm="aflame"><i>aflame</i><par n="expensive__adj"/></e>
+    <e lm="welcome"><i>welcome</i><par n="expensive__adj"/></e>
+    <e lm="monochrome"><i>monochrome</i><par n="expensive__adj"/></e>
+    <e lm="some"><i>some</i><par n="expensive__adj"/></e>
+    <e lm="tiresome"><i>tiresome</i><par n="expensive__adj"/></e>
+    <e lm="awesome"><i>awesome</i><par n="expensive__adj"/></e>
+    <e lm="done"><i>done</i><par n="expensive__adj"/></e>
+    <e lm="gone"><i>gone</i><par n="expensive__adj"/></e>
+    <e lm="bare"><i>bare</i><par n="expensive__adj"/></e>
+    <e lm="meagre"><i>meagre</i><par n="expensive__adj"/></e>
+    <e lm="pasture"><i>pasture</i><par n="expensive__adj"/></e>
+    <e lm="longwise"><i>longwise</i><par n="expensive__adj"/></e>
+    <e lm="coarse"><i>coarse</i><par n="expensive__adj"/></e>
+    <e lm="appropriate"><i>appropriate</i><par n="expensive__adj"/></e>
+    <e lm="illegimate"><i>illegimate</i><par n="expensive__adj"/></e>
+    <e lm="affectionate"><i>affectionate</i><par n="expensive__adj"/></e>
+    <e lm="elite"><i>elite</i><par n="expensive__adj"/></e>
+    <e lm="polite"><i>polite</i><par n="expensive__adj"/></e>
+    <e lm="opposite"><i>opposite</i><par n="expensive__adj"/></e>
+    <e lm="talkative"><i>talkative</i><par n="expensive__adj"/></e>
+    <e lm="contemplative"><i>contemplative</i><par n="expensive__adj"/></e>
+    <e lm="inactive"><i>inactive</i><par n="expensive__adj"/></e>
+    <e lm="perceptive"><i>perceptive</i><par n="expensive__adj"/></e>
+    <e lm="susceptive"><i>susceptive</i><par n="expensive__adj"/></e>
+    <e lm="stiff"><i>stiff</i><par n="expensive__adj"/></e>
+    <e lm="residing"><i>residing</i><par n="expensive__adj"/></e>
+    <e lm="demanding"><i>demanding</i><par n="expensive__adj"/></e>
+    <e lm="laughing"><i>laughing</i><par n="expensive__adj"/></e>
+    <e lm="thinking"><i>thinking</i><par n="expensive__adj"/></e>
+    <e lm="trembling"><i>trembling</i><par n="expensive__adj"/></e>
+    <e lm="giggling"><i>giggling</i><par n="expensive__adj"/></e>
+    <e lm="smiling"><i>smiling</i><par n="expensive__adj"/></e>
+    <e lm="bestselling"><i>bestselling</i><par n="expensive__adj"/></e>
+    <e lm="upcoming"><i>upcoming</i><par n="expensive__adj"/></e>
+    <e lm="charming"><i>charming</i><par n="expensive__adj"/></e>
+    <e lm="worsening"><i>worsening</i><par n="expensive__adj"/></e>
+    <e lm="grinning"><i>grinning</i><par n="expensive__adj"/></e>
+    <e lm="sleeping"><i>sleeping</i><par n="expensive__adj"/></e>
+    <e lm="staggering"><i>staggering</i><par n="expensive__adj"/></e>
+    <e lm="flickering"><i>flickering</i><par n="expensive__adj"/></e>
+    <e lm="shivering"><i>shivering</i><par n="expensive__adj"/></e>
+    <e lm="boring"><i>boring</i><par n="expensive__adj"/></e>
+    <e lm="decreasing"><i>decreasing</i><par n="expensive__adj"/></e>
+    <e lm="embarrassing"><i>embarrassing</i><par n="expensive__adj"/></e>
+    <e lm="biting"><i>biting</i><par n="expensive__adj"/></e>
+    <e lm="exciting"><i>exciting</i><par n="expensive__adj"/></e>
+    <e lm="unmoving"><i>unmoving</i><par n="expensive__adj"/></e>
+    <e lm="knowing"><i>knowing</i><par n="expensive__adj"/></e>
+    <e lm="growing"><i>growing</i><par n="expensive__adj"/></e>
+    <e lm="Czech"><par n="Cc"/><i>zech</i><par n="expensive__adj"/></e>
+    <e lm="bleak"><i>bleak</i><par n="expensive__adj"/></e>
+    <e lm="drunk"><i>drunk</i><par n="expensive__adj"/></e>
+    <e lm="berserk"><i>berserk</i><par n="expensive__adj"/></e>
+    <e lm="vocational"><i>vocational</i><par n="expensive__adj"/></e>
+    <e lm="impersonal"><i>impersonal</i><par n="expensive__adj"/></e>
+    <e lm="multilingual"><i>multilingual</i><par n="expensive__adj"/></e>
+    <e lm="monolingual"><i>monolingual</i><par n="expensive__adj"/></e>
+    <e lm="tranquil"><i>tranquil</i><par n="expensive__adj"/></e>
+    <e lm="evil"><i>evil</i><par n="expensive__adj"/></e>
+    <e lm="uncool"><i>uncool</i><par n="expensive__adj"/></e>
+    <e lm="handful"><i>handful</i><par n="expensive__adj"/></e>
+    <e lm="prideful"><i>prideful</i><par n="expensive__adj"/></e>
+    <e lm="grateful"><i>grateful</i><par n="expensive__adj"/></e>
+    <e lm="colorful"><i>colorful</i><par n="expensive__adj"/></e>
+    <e lm="unsuccessful"><i>unsuccessful</i><par n="expensive__adj"/></e>
+    <e lm="resentful"><i>resentful</i><par n="expensive__adj"/></e>
+    <e lm="eventful"><i>eventful</i><par n="expensive__adj"/></e>
+    <e lm="sorrowful"><i>sorrowful</i><par n="expensive__adj"/></e>
+    <e lm="dim"><i>dim</i><par n="expensive__adj"/></e>
+    <e lm="medium"><i>medium</i><par n="expensive__adj"/></e>
+    <e lm="hidden"><i>hidden</i><par n="expensive__adj"/></e>
+    <e lm="golden"><i>golden</i><par n="expensive__adj"/></e>
+    <e lm="broken"><i>broken</i><par n="expensive__adj"/></e>
+    <e lm="fallen"><i>fallen</i><par n="expensive__adj"/></e>
+    <e lm="swollen"><i>swollen</i><par n="expensive__adj"/></e>
+    <e lm="chosen"><i>chosen</i><par n="expensive__adj"/></e>
+    <e lm="even"><i>even</i><par n="expensive__adj"/></e>
+    <e lm="given"><i>given</i><par n="expensive__adj"/></e>
+    <e lm="born"><i>born</i><par n="expensive__adj"/></e>
+    <e lm="newborn"><i>newborn</i><par n="expensive__adj"/></e>
+    <e lm="known"><i>known</i><par n="expensive__adj"/></e>
+    <e lm="unknown"><i>unknown</i><par n="expensive__adj"/></e>
+    <e lm="hello"><i>hello</i><par n="expensive__adj"/></e>
+    <e lm="steep"><i>steep</i><par n="expensive__adj"/></e>
+    <e lm="damp"><i>damp</i><par n="expensive__adj"/></e>
+    <e lm="dear"><i>dear</i><par n="expensive__adj"/></e>
+    <e lm="unclear"><i>unclear</i><par n="expensive__adj"/></e>
+    <e lm="circular"><i>circular</i><par n="expensive__adj"/></e>
+    <e lm="sheer"><i>sheer</i><par n="expensive__adj"/></e>
+    <e lm="eager"><i>eager</i><par n="expensive__adj"/></e>
+    <e lm="rather"><i>rather</i><par n="expensive__adj"/></e>
+    <e lm="endless"><i>endless</i><par n="expensive__adj"/></e>
+    <e lm="priceless"><i>priceless</i><par n="expensive__adj"/></e>
+    <e lm="hopeless"><i>hopeless</i><par n="expensive__adj"/></e>
+    <e lm="miscellaneous"><i>miscellaneous</i><par n="expensive__adj"/></e>
+    <e lm="spacious"><i>spacious</i><par n="expensive__adj"/></e>
+    <e lm="ceremonious"><i>ceremonious</i><par n="expensive__adj"/></e>
+    <e lm="treacherous"><i>treacherous</i><par n="expensive__adj"/></e>
+    <e lm="neat"><i>neat</i><par n="expensive__adj"/></e>
+    <e lm="upset"><i>upset</i><par n="expensive__adj"/></e>
+    <e lm="swift"><i>swift</i><par n="expensive__adj"/></e>
+    <e lm="quit"><i>quit</i><par n="expensive__adj"/></e>
+    <e lm="built"><i>built</i><par n="expensive__adj"/></e>
+    <e lm="adult"><i>adult</i><par n="expensive__adj"/></e>
+    <e lm="giant"><i>giant</i><par n="expensive__adj"/></e>
+    <e lm="prepubescent"><i>prepubescent</i><par n="expensive__adj"/></e>
+    <e lm="impatient"><i>impatient</i><par n="expensive__adj"/></e>
+    <e lm="water-repellent"><i>water-repellent</i><par n="expensive__adj"/></e>
+    <e lm="insolent"><i>insolent</i><par n="expensive__adj"/></e>
+    <e lm="joint"><i>joint</i><par n="expensive__adj"/></e>
+    <e lm="shot"><i>shot</i><par n="expensive__adj"/></e>
+    <e lm="barefoot"><i>barefoot</i><par n="expensive__adj"/></e>
+    <e lm="unkempt"><i>unkempt</i><par n="expensive__adj"/></e>
+    <e lm="overcast"><i>overcast</i><par n="expensive__adj"/></e>
+    <e lm="against"><i>against</i><par n="expensive__adj"/></e>
+    <e lm="lost"><i>lost</i><par n="expensive__adj"/></e>
+    <e lm="unjust"><i>unjust</i><par n="expensive__adj"/></e>
+    <e lm="cut"><i>cut</i><par n="expensive__adj"/></e>
+    <e lm="askew"><i>askew</i><par n="expensive__adj"/></e>
+    <e lm="gay"><i>gay</i><par n="expensive__adj"/></e>
+    <e lm="shabby"><i>shabby</i><par n="expensive__adj"/></e>
+    <e lm="ready"><i>ready</i><par n="expensive__adj"/></e>
+    <e lm="loneley"><i>loneley</i><par n="expensive__adj"/></e>
+    <e lm="non-airworthy"><i>non-airworthy</i><par n="expensive__adj"/></e>
+    <e lm="rocky"><i>rocky</i><par n="expensive__adj"/></e>
+    <e lm="unfriendly"><i>unfriendly</i><par n="expensive__adj"/></e>
+    <e lm="equally"><i>equally</i><par n="expensive__adj"/></e>
+    <e lm="fully"><i>fully</i><par n="expensive__adj"/></e>
+    <e lm="elderly"><i>elderly</i><par n="expensive__adj"/></e>
+    <e lm="curly"><i>curly</i><par n="expensive__adj"/></e>
+    <e lm="reluctantly"><i>reluctantly</i><par n="expensive__adj"/></e>
+    <e lm="bristly"><i>bristly</i><par n="expensive__adj"/></e>
+    <e lm="gloomy"><i>gloomy</i><par n="expensive__adj"/></e>
+    <e lm="roomy"><i>roomy</i><par n="expensive__adj"/></e>
+    <e lm="sleepy"><i>sleepy</i><par n="expensive__adj"/></e>
+    <e lm="skimpy"><i>skimpy</i><par n="expensive__adj"/></e>
+    <e lm="grumpy"><i>grumpy</i><par n="expensive__adj"/></e>
+    <e lm="scary"><i>scary</i><par n="expensive__adj"/></e>
+    <e lm="stationary"><i>stationary</i><par n="expensive__adj"/></e>
+    <e lm="angry"><i>angry</i><par n="expensive__adj"/></e>
+    <e lm="hungry"><i>hungry</i><par n="expensive__adj"/></e>
+    <e lm="sorry"><i>sorry</i><par n="expensive__adj"/></e>
+    <e lm="uneasy"><i>uneasy</i><par n="expensive__adj"/></e>
+    <e lm="cosy"><i>cosy</i><par n="expensive__adj"/></e>
+    <e lm="glossy"><i>glossy</i><par n="expensive__adj"/></e>
+    <e lm="busy"><i>busy</i><par n="expensive__adj"/></e>
+    <e lm="almighty"><i>almighty</i><par n="expensive__adj"/></e>
+    <e lm="salty"><i>salty</i><par n="expensive__adj"/></e>
+    <e lm="dusty"><i>dusty</i><par n="expensive__adj"/></e>
+    <e lm="heavy"><i>heavy</i><par n="expensive__adj"/></e>
+    <e lm="navy"><i>navy</i><par n="expensive__adj"/></e>
 
 
 	

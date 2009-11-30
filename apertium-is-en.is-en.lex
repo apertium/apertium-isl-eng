@@ -7,9 +7,13 @@ LIST EOS              = (<<<);
 LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja";
 LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
 
-LIST Acc              = (acc);
 LIST PrnPos           = (prn pos);
+LIST PrnPersAnim      = (prn p1) (prn p2) (prn p3 m) (prn p3 f);
 LIST Ord              = (ord) ("fyrstur"ri);
+
+LIST Acc              = (acc);
+LIST Gen              = (gen);
+LIST Dat              = (dat);
 
 SECTION
 
@@ -21,7 +25,7 @@ SECTION
 SUBSTITUTE (n) (n :0) ("bóndi"ri);
 
 # "bóndi" : "husband"
-SUBSTITUTE (n :0) (n :1) ("bóndi"ri) (1C PrnPos);
+SUBSTITUTE (n :0) (n :1) ("bóndi"ri) (1C PrnPos OR PrnPersAnim + Gen);
 
 # "drottinn" : "king"
 SUBSTITUTE (n) (n :0) ("drottinn"ri);

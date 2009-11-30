@@ -100,6 +100,7 @@
   </def-cat>
 
   <def-cat n="pp">
+     <cat-item tags="vblex.pp"/>
      <cat-item tags="vblex.pp.*"/>
   </def-cat>
 
@@ -347,123 +348,197 @@
             </when>
 
             <when>
-              <test>
-                <equal>
-                  <clip pos="1" side="sl" part="pers"/>
-                  <lit-tag v="p3"/>
-                </equal>
+              <test> <!-- Verb 'vera' in p3.sg or p1.sg -->
+                <and>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="sl" part="pers"/>
+                      <lit-tag v="p3"/>
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="pers"/>
+                      <lit-tag v="p1"/>
+                    </equal>
+                  </or>
+                  <equal>
+                    <clip pos="1" side="sl" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                </and>
               </test>           
-             <let>
-               <var n="cur_verb_fin"/>
-               <concat>
-                 <clip pos="1" side="tl" part="lemh"/>
-                 <clip pos="1" side="tl" part="a_verb"/>
-                 <clip pos="1" side="tl" part="temps"/>
-                 <clip pos="1" side="tl" part="pers"/>
-                 <clip pos="1" side="tl" part="nbr"/>
-                 <clip pos="1" side="tl" part="lemq"/>
-               </concat>
-             </let>         
+              <choose>
+                <when>
+                  <test> <!-- If the tense is 'pri' or 'prs' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pri"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="prs"/>
+                      </equal>
+                    </or>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="pri"/>
+                  </let>
+                  <let>
+                    <var n="cur_verb_fin"/>
+                    <concat>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="temps"/>
+                      <clip pos="1" side="tl" part="pers"/>
+                      <clip pos="1" side="tl" part="nbr"/>
+                      <clip pos="1" side="tl" part="lemq"/>
+                    </concat>
+                  </let>     
+                </when>
+                <when>
+                  <test> <!-- If the tense is 'past' or 'pss' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="past"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pss"/>
+                      </equal>
+                    </or>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="past"/>
+                  </let>
+                  <let>
+                    <var n="cur_verb_fin"/>
+                    <concat>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="temps"/>
+                      <clip pos="1" side="tl" part="pers"/>
+                      <clip pos="1" side="tl" part="nbr"/>
+                      <clip pos="1" side="tl" part="lemq"/>
+                    </concat>
+                  </let>         
+                </when>
+              </choose>
             </when>
 
           </choose>
         </when>
       </choose>
       <choose>
-        <when> <!-- In the third person singular, present tense, we output all the tags -->
+        <when> 
           <test>
-            <and>
-              <or>
-                <equal>
-                  <clip pos="1" side="sl" part="temps"/>
-                  <lit-tag v="pri"/>
-                </equal>
-                <equal>
-                  <clip pos="1" side="sl" part="temps"/>
-                  <lit-tag v="prs"/>
-                </equal>
-              </or>
-              <equal>
-                <clip pos="1" side="sl" part="pers"/>
-                <lit-tag v="p3"/>
+            <not>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="vera"/>
               </equal>
-              <equal>
-                <clip pos="1" side="sl" part="nbr"/>
-                <lit-tag v="sg"/>
-              </equal>
-            </and>
+            </not>
           </test>
-          <let>
-            <clip pos="1" side="tl" part="temps"/>
-            <lit-tag v="pri"/>
-          </let>
-          <let>
-            <var n="cur_verb_fin"/>
-            <concat>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
-              <clip pos="1" side="tl" part="pers"/>
-              <clip pos="1" side="tl" part="nbr"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </concat>
-          </let>            
-        </when>
-        <when> <!-- Subjunctive gets collapsed into indicative in the present tense -->
-          <test>
-            <or>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
+          <choose>
+            <when> 
+              <test>
+                <and>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="pri"/>
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="prs"/>
+                    </equal>
+                  </or>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="pri"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="prs"/>
-              </equal>
-            </or>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="temps"/>
-            <lit-tag v="pres"/>
-          </let>
-          <let>
-            <var n="cur_verb_fin"/>
-            <concat>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </concat>
-          </let>            
-        </when>
-        <when> <!-- Subjunctive gets collapsed into indicative in the past tense -->
-          <test>
-            <or>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
+              </let>
+              <let>
+                <var n="cur_verb_fin"/>
+                <concat>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <clip pos="1" side="tl" part="pers"/>
+                  <clip pos="1" side="tl" part="nbr"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+              </let>            
+            </when>
+            <when> 
+              <test>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="pri"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="prs"/>
+                  </equal>
+                </or>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="pres"/>
+              </let>
+              <let>
+                <var n="cur_verb_fin"/>
+                <concat>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+              </let>            
+            </when>
+            <when> 
+              <test>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="past"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="pss"/>
+                  </equal>
+                </or>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
                 <lit-tag v="past"/>
-              </equal>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="pss"/>
-              </equal>
-            </or>
-          </test>
-          <let>
-            <clip pos="1" side="tl" part="temps"/>
-            <lit-tag v="past"/>
-          </let>
-          <let>
-            <var n="cur_verb_fin"/>
-            <concat>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_verb"/>
-              <clip pos="1" side="tl" part="temps"/>
-              <clip pos="1" side="tl" part="lemq"/>
-            </concat>
-          </let>      
+              </let>
+              <let>
+                <var n="cur_verb_fin"/>
+                <concat>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="1" side="tl" part="temps"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+              </let>      
+            </when>
+          </choose>
         </when>
       </choose>
+
       <choose>
         <when>
           <test>
@@ -635,7 +710,7 @@
            <test>
              <equal>
                <clip pos="1" side="sl" part="lem"/>
-               <lit v="hans"/>
+               <lit v="hann"/>
              </equal>
            </test>
            <let>
@@ -647,7 +722,7 @@
            <test>
              <equal>
                <clip pos="1" side="sl" part="lem"/>
-               <lit v="hennar"/>
+               <lit v="hún"/>
              </equal>
            </test>
            <let>
@@ -657,10 +732,16 @@
          </when>
          <when>
            <test>
-             <equal>
-               <clip pos="1" side="sl" part="lem"/>
-               <lit v="þess"/>
-             </equal>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="það"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="sl" part="nbr"/>
+                 <lit-tag v="sg"/>
+               </equal>
+             </and>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
@@ -689,7 +770,7 @@
            <test>
              <equal>
                <clip pos="1" side="sl" part="lem"/>
-               <lit v="ykkar"/>
+               <lit v="þú"/>
              </equal>
            </test>
            <let>
@@ -699,10 +780,16 @@
          </when>
          <when>
            <test>
-             <equal>
-               <clip pos="1" side="sl" part="lem"/>
-               <lit v="þeirra"/>
-             </equal>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="það"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="sl" part="nbr"/>
+                 <lit-tag v="pl"/>
+               </equal>
+             </and>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
@@ -1914,6 +2001,37 @@
 
 
 
+  <rule comment="REGLA: AUX PP → AUX PP | var bakað → was baked">
+     <pattern>
+       <pattern-item n="auxcj"/>
+       <pattern-item n="pp"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="auxcj_pp" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
   <rule comment="REGLA: AUX INF → AUX GER | mun koma → will come">
      <pattern>
        <pattern-item n="auxcj"/>
@@ -1938,7 +2056,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>

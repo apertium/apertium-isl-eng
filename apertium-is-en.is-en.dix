@@ -2636,6 +2636,7 @@
     <e><p><l>korn<s n="n"/><s n="nt"/></l><r>grain<s n="n"/></r></p></e>
     <e><p><l>kort<s n="n"/><s n="nt"/></l><r>map<s n="n"/></r></p></e>
     <e><p><l>kosningaréttur<s n="n"/><s n="m"/></l><r>suffrage<s n="n"/></r></p></e>
+    <e><p><l>kosning<s n="n"/><s n="f"/></l><r>election<s n="n"/></r></p></e>
     <e><p><l>koss<s n="n"/><s n="m"/></l><r>kiss<s n="n"/></r></p></e>
     <e><p><l>kostur<s n="n"/><s n="m"/></l><r>choice<s n="n"/></r></p></e>
     <!--<e><p><l>kostur<s n="n"/><s n="m"/></l><r>possibility<s n="n"/></r></p></e>-->
@@ -5635,7 +5636,6 @@
     <e><p><l>huggulegur<s n="adj"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>skemmtilegur<s n="adj"/></l><r>funny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>óreglulegur<s n="adj"/></l><r>irregular<s n="adj"/></r></p></e>
-    <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
     <e><p><l>nauðsynlegur<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
     <e><p><l>mögulegur<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
     <e><p><l>huggulegur<s n="adj"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
@@ -5674,13 +5674,13 @@
     <e><p><l>ógurlegur<s n="adj"/></l><r>awful<s n="adj"/></r></p></e>
     <e><p><l>ópersónulegur<s n="adj"/></l><r>impersonal<s n="adj"/></r></p></e>
     <e><p><l>gulur<s n="adj"/></l><r>yellow<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>íslenskur<s n="adj"/></l><r>icelandic<s n="adj"/></r></p></e>
-    <e><p><l>enskur<s n="adj"/></l><r>english<s n="adj"/></r></p></e>
-    <e><p><l>afrískur<s n="adj"/></l><r>african<s n="adj"/></r></p></e>
+    <e><p><l>íslenskur<s n="adj"/></l><r>Icelandic<s n="adj"/></r></p></e>
+    <e><p><l>enskur<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
+    <e><p><l>afrískur<s n="adj"/></l><r>African<s n="adj"/></r></p></e>
     <e><p><l>hvítur<s n="adj"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>nálægur<s n="adj"/></l><r>near<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>pólskur<s n="adj"/></l><r>polish<s n="adj"/></r></p></e>
-    <e><p><l>gotneskur<s n="adj"/></l><r>gothic<s n="adj"/></r></p></e>
+    <e><p><l>pólskur<s n="adj"/></l><r>Polish<s n="adj"/></r></p></e>
+    <e><p><l>gotneskur<s n="adj"/></l><r>Gothic<s n="adj"/></r></p></e>
     <e><p><l>fátækur<s n="adj"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sjaldgæfur<s n="adj"/></l><r>rare<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>tryggur<s n="adj"/></l><r>loyal<s n="adj"/></r></p></e>
@@ -6500,7 +6500,7 @@
 <!--<e><p><l>laginn<s n="adj"/></l><r>qualified<s n="adj"/></r></p></e>-->
 <!--<e><p><l>laglegur<s n="adj"/></l><r>pretty<s n="adj"/></r></p></e>-->
     <e><p><l>laglegur<s n="adj"/></l><r>good-looking<s n="adj"/></r></p></e>
-    <e><p><l>lamaður<s n="adj"/></l><r>paralized<s n="adj"/></r></p></e>
+    <e><p><l>lamaður<s n="adj"/></l><r>paralysed<s n="adj"/></r></p></e>
 <!--<e><p><l>lamaður<s n="adj"/></l><r>petrified<s n="adj"/></r></p></e>-->
 <!--<e><p><l>lamaður<s n="adj"/></l><r>stunned<s n="adj"/></r></p></e>-->
 <!--<e><p><l>lamaður<s n="adj"/></l><r>numb<s n="adj"/></r></p></e>-->
@@ -6596,7 +6596,7 @@
 <!--<e><p><l>margbrotinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>-->
     <e><p><l>margbrotinn<s n="adj"/></l><r>complex<s n="adj"/></r></p></e>
 <!--<e><p><l>margbrotinn<s n="adj"/></l><r>sophisticated<s n="adj"/></r></p></e>-->
-    <e><p><l>marglitur<s n="adj"/></l><r>multicolored<s n="adj"/></r></p></e>
+    <e><p><l>marglitur<s n="adj"/></l><r>multicoloured<s n="adj"/></r></p></e>
 <!--<e><p><l>marglitur<s n="adj"/></l><r>motley<s n="adj"/></r></p></e>-->
 <!--<e><p><l>marglitur<s n="adj"/></l><r>polychrome<s n="adj"/></r></p></e>-->
     <e><p><l>margur<s n="adj"/></l><r>many<s n="adj"/></r></p></e>
@@ -6685,7 +6685,9 @@
 <!--<e><p><l>náttúrulegur<s n="adj"/></l><r>biological<s n="adj"/></r></p></e>-->
 <!--<e><p><l>náttúrulegur<s n="adj"/></l><r>evironmental<s n="adj"/></r></p></e>-->
 <!--<e><p><l>nægilegur<s n="adj"/></l><r>sufficient<s n="adj"/></r></p></e>-->
+
     <e><p><l>nægilegur<s n="adj"/></l><r>enough<s n="adj"/></r></p></e>
+
 <!--<e><p><l>nægur<s n="adj"/></l><r>satisfactory<s n="adj"/></r></p></e>-->
     <e><p><l>nægur<s n="adj"/></l><r>sufficient<s n="adj"/></r></p></e>
 <!--<e><p><l>nægur<s n="adj"/></l><r>adequate<s n="adj"/></r></p></e>-->
@@ -6828,11 +6830,12 @@
 <!--<e><p><l>sannfærður<s n="adj"/></l><r>confident<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sannfærður<s n="adj"/></l><r>positive<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sanngjarn<s n="adj"/></l><r>reasonable<s n="adj"/></r></p></e>-->
-    <e><p><l>sanngjarn<s n="adj"/></l><r>fair<s n="adj"/></r></p></e>
+    <e><p><l>sanngjarn<s n="adj"/></l><r>fair<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>sanngjarn<s n="adj"/></l><r>equitable<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sanngjarn<s n="adj"/></l><r>inexpensive<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sanngjarn<s n="adj"/></l><r>affordable<s n="adj"/></r></p></e>-->
-    <e><p><l>sekur<s n="adj"/></l><r>guilty<s n="adj"/></r></p></e>
+    <e><p><l>sekur<s n="adj"/></l><r>guilty<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hranalegur<s n="adj"/></l><r>rough<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>settur<s n="adj"/></l><r>put<s n="adj"/></r></p></e>-->
     <e><p><l>settur<s n="adj"/></l><r>placed<s n="adj"/></r></p></e>
 <!--<e><p><l>settur<s n="adj"/></l><r>passed<s n="adj"/></r></p></e>-->
@@ -7176,7 +7179,7 @@
 <!--<e><p><l>tíður<s n="adj"/></l><r>common<s n="adj"/></r></p></e>-->
     <e><p><l>tómur<s n="adj"/></l><r>empty<s n="adj"/></r></p></e>
     <e><p><l>tölfræðilegur<s n="adj"/></l><r>statistical<s n="adj"/></r></p></e>
-    <e><p><l>töluverður<s n="adj"/></l><r>considarable<s n="adj"/></r></p></e>
+    <e><p><l>töluverður<s n="adj"/></l><r>considerable<s n="adj"/></r></p></e>
 <!--<e><p><l>töluverður<s n="adj"/></l><r>substantial<s n="adj"/></r></p></e>-->
     <e><p><l>týndur<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
 <!--<e><p><l>týndur<s n="adj"/></l><r>missing<s n="adj"/></r></p></e>-->
@@ -7452,7 +7455,7 @@
 <!--<e><p><l>ískaldur<s n="adj"/></l><r>freezing<s n="adj"/></r></p></e>-->
     <e><p><l>ískaldur<s n="adj"/></l><r>ice-cold<s n="adj"/></r></p></e>
     <e><p><l>ítalskur<s n="adj"/></l><r>Italian<s n="adj"/></r></p></e>
-    <e><p><l>íþyngjandi<s n="adj"/></l><r>heavy<s n="adj"/></r></p></e>
+    <e><p><l>íþyngjandi<s n="adj"/></l><r>heavy<s n="adj"/><s n="sint"/></r></p></e>
 
     <e><p><l>óaðfinnanlegur<s n="adj"/></l><r>perfect<s n="adj"/></r></p></e>
 <!--<e><p><l>óaðfinnanlegur<s n="adj"/></l><r>faultless<s n="adj"/></r></p></e>-->
@@ -7476,10 +7479,10 @@
 <!--<e><p><l>ógnvekjandi<s n="adj"/></l><r>frightening<s n="adj"/></r></p></e>-->
 <!--<e><p><l>ógnvekjandi<s n="adj"/></l><r>spooky<s n="adj"/></r></p></e>-->
 <!--<e><p><l>ógnvekjandi<s n="adj"/></l><r>formidable<s n="adj"/></r></p></e>-->
-    <e><p><l>óhagstæður<s n="adj"/></l><r>unfavorable<s n="adj"/></r></p></e>
+    <e><p><l>óhagstæður<s n="adj"/></l><r>unfavourable<s n="adj"/></r></p></e>
 <!--<e><p><l>óhagstæður<s n="adj"/></l><r>disadvantageous<s n="adj"/></r></p></e>-->
 <!--<e><p><l>óhagstæður<s n="adj"/></l><r>unfair<s n="adj"/></r></p></e>-->
-    <e><p><l>óheimill<s n="adj"/></l><r>unauthorized<s n="adj"/></r></p></e>
+    <e><p><l>óheimill<s n="adj"/></l><r>unauthorised<s n="adj"/></r></p></e>
 <!--<e><p><l>óheimill<s n="adj"/></l><r>banned<s n="adj"/></r></p></e>-->
 <!--<e><p><l>óheimill<s n="adj"/></l><r>illegal<s n="adj"/></r></p></e>-->
 <!--<e><p><l>óheimill<s n="adj"/></l><r>unapproved<s n="adj"/></r></p></e>-->
