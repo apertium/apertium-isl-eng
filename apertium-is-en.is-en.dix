@@ -114,12 +114,10 @@
     <e><p><l>um<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e><p><l>undir<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
     <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
-    <e><p><l>út<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/><s n=":0"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/><s n=":1"/></l><r>to<s n="pr"/></r></p></e>
-    <e><p><l>inn<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
 
 <!-- Prepositions from Anton's list -->
@@ -223,7 +221,6 @@
     <e><p><l>en<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
     <e><p><l>svona<s n="cnjcoo"/></l><r>so<s n="cnjcoo"/></r></p></e>
     <e><p><l>né<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
-    <e><p><l>heldur<b/>en<s n="cnjcoo"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -232,16 +229,10 @@
     <e><p><l>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e><p><l>nema<s n="cnjsub"/></l><r>unless<s n="cnjsub"/></r></p></e>
     <e><p><l>síðan<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
-    <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
-    <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
     <e><p><l>þó<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
-    <e><p><l>þó<b/>að<s n="cnjsub"/></l><r>although<s n="cnjsub"/></r></p></e>
-    <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
-    <e><p><l>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
-    <e><p><l>þangað<b/>til<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
-    <e><p><l>þar<b/>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
 
     <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+
 
 <!--  The LR restriction is meant for different translations, not for discrepancy in tagging
         so we're fixing this in the opt.apertium.dict:
@@ -524,7 +515,6 @@
     <e><p><l>algyðistrú<s n="n"/><s n="f"/></l><r>pantheism<s n="n"/></r></p></e> <!-- (belief that the universe is divine) -->
     <e><p><l>alheimur<s n="n"/><s n="m"/></l><r>universe<s n="n"/></r></p></e>
     <e><p><l>aliönd<s n="n"/><s n="f"/></l><r>domestic<b/>duck<s n="n"/></r></p></e>
-    <e><p><l>almenn<b/>skynsemi<s n="n"/><s n="f"/></l><r>common<b/>sense<s n="n"/></r></p></e>
     <e><p><l>almenningur<s n="n"/><s n="m"/></l><r>public<s n="n"/></r></p></e>
     <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/></r></p></e>
     <e><p><l>alur<s n="n"/><s n="m"/></l><r>awl<s n="n"/></r></p></e>
@@ -543,7 +533,6 @@
     <e><p><l>andefni<s n="n"/><s n="nt"/></l><r>antimatter<s n="n"/></r></p></e>
     <e><p><l>andheiti<s n="n"/><s n="nt"/></l><r>antonym<s n="n"/></r></p></e> <!-- (word which has the opposite meaning). -->
     <e><p><l>andi<s n="n"/><s n="m"/></l><r>spirit<s n="n"/></r></p></e>
-    <e><p><l>andlangs<b/>herra<s n="n"/><s n="m"/></l><r>god<s n="n"/></r></p></e>
     <e><p><l>andlit<s n="n"/><s n="nt"/></l><r>face<s n="n"/></r></p></e>
     <e><p><l>andlát<s n="n"/><s n="nt"/></l><r>death<s n="n"/></r></p></e>
     <e><p><l>andrúmsloft<s n="n"/><s n="nt"/></l><r>atmosphere<s n="n"/></r></p></e>
@@ -1181,7 +1170,6 @@
     <e><p><l>einkunn<s n="n"/><s n="f"/></l><r>grade<s n="n"/></r></p></e>
     <!--<e><p><l>einkunn<s n="n"/><s n="f"/></l><r>mark<s n="n"/></r></p></e>-->
     <e><p><l>einmanaleiki<s n="n"/><s n="m"/></l><r>loneliness<s n="n"/></r></p></e>
-    <!--<e><p><l>einnar<b/>nætur<b/>gaman<s n="n"/><s n="nt"/></l><r>one<b/>night<b/>stand<s n="n"/></r></p></e>-->
     <e><p><l>einræða<s n="n"/><s n="f"/></l><r>monologue<s n="n"/></r></p></e>
     <!--<e><p><l>einræða<s n="n"/><s n="f"/></l><r>soliloquy<s n="n"/></r></p></e>--> <!-- check English word -->
     <e><p><l>einsemd<s n="n"/><s n="f"/></l><r>solitude<s n="n"/></r></p></e>
@@ -1232,8 +1220,6 @@
     <e><p><l>englahorn<s n="n"/><s n="nt"/></l><r>English<b/>horn<s n="n"/></r></p></e>
     <e><p><l>enni<s n="n"/><s n="nt"/></l><r>forehead<s n="n"/></r></p></e>
     <e><p><l>enska<s n="n"/><s n="f"/></l><r>English<s n="n"/></r></p></e>
-    <!--<e><p><l>enskt<b/>horn<s n="n"/><s n="nt"/></l><r>cor<b/>anglais<s n="n"/></r></p></e>-->
-    <e><p><l>enskt<b/>horn<s n="n"/><s n="nt"/></l><r>English<b/>horn<s n="n"/></r></p></e>
     <e><p><l>eplabaka<s n="n"/><s n="f"/></l><r>apple<b/>pie<s n="n"/></r></p></e>
     <e><p><l>eplasafi<s n="n"/><s n="m"/></l><r>apple<b/>juice<s n="n"/></r></p></e>
     <e><p><l>eplatré<s n="n"/><s n="nt"/></l><r>apple<b/>tree<s n="n"/></r></p></e>
@@ -1243,7 +1229,6 @@
     <e><p><l>erfiðleiki<s n="n"/><s n="m"/></l><r>difficulty<s n="n"/></r></p></e>
     <e><p><l>erindi<s n="n"/><s n="nt"/></l><r>errand<s n="n"/></r></p></e>
     <!--<e><p><l>erindi<s n="n"/><s n="nt"/></l><r>verse<s n="n"/></r></p></e>--> <!-- in poetry -->
-    <!--<e><p><l>eiga<b/>erindi<b/>við<s n="n"/><s n="nt"/></l><r>have<b/>business<b/>with<s n="n"/></r></p></e>-->
     <e><p><l>ermi<s n="n"/><s n="f"/></l><r>sleeve<s n="n"/></r></p></e>
     <e><p><l>esperantó<s n="n"/><s n="nt"/></l><r>Esperanto<s n="n"/></r></p></e>
     <e><p><l>etan<s n="n"/><s n="nt"/></l><r>ethane<s n="n"/></r></p></e>
@@ -10902,6 +10887,28 @@
 <e><p><l>þar<b/>af<s n="cnjsub"/></l><r>thereof<s n="cnjsub"/></r></p></e>
 <e><p><l>þar<b/>með<s n="cnjsub"/></l><r>thereupon<s n="cnjsub"/></r></p></e>
 <e><p><l>því<b/>aðeins<b/>að<s n="cnjsub"/></l><r>only<b/>if<s n="cnjsub"/></r></p></e>
+
+<!-- moved n-grams to here -->
+    <e><p><l>út<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>inn<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+
+    <e><p><l>heldur<b/>en<s n="cnjcoo"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
+    <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
+    <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
+    <e><p><l>þó<b/>að<s n="cnjsub"/></l><r>although<s n="cnjsub"/></r></p></e>
+    <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e><p><l>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e><p><l>þangað<b/>til<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
+    <e><p><l>þar<b/>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>almenn<b/>skynsemi<s n="n"/><s n="f"/></l><r>common<b/>sense<s n="n"/></r></p></e>
+    <e><p><l>andlangs<b/>herra<s n="n"/><s n="m"/></l><r>god<s n="n"/></r></p></e>
+    <e><p><l>einnar<b/>nætur<b/>gaman<s n="n"/><s n="nt"/></l><r>one<b/>night<b/>stand<s n="n"/></r></p></e>
+    <!--<e><p><l>enskt<b/>horn<s n="n"/><s n="nt"/></l><r>cor<b/>anglais<s n="n"/></r></p></e>-->
+    <e><p><l>enskt<b/>horn<s n="n"/><s n="nt"/></l><r>English<b/>horn<s n="n"/></r></p></e>
+    <e><p><l>eiga<b/>erindi<b/>við<s n="n"/><s n="nt"/></l><r>have<b/>business<b/>with<s n="n"/></r></p></e>
+
+<!-- END moved n-grams to here -->
 
   <!-- END Multiwords (n-grams) -->
 
