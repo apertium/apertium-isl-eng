@@ -335,6 +335,19 @@
                     <lit-tag v="pres"/>
                   </let>
                 </when>
+
+                <when>
+                  <test> <!-- If the tense is 'pss' -->
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="pss"/>
+                    </equal>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="past"/>
+                  </let>
+                </when>
              </choose>
              <let>
                <var n="cur_verb_fin"/>
@@ -397,17 +410,11 @@
                   </let>     
                 </when>
                 <when>
-                  <test> <!-- If the tense is 'past' or 'pss' -->
-                    <or>
-                      <equal>
-                        <clip pos="1" side="sl" part="temps"/>
-                        <lit-tag v="past"/>
-                      </equal>
-                      <equal>
-                        <clip pos="1" side="sl" part="temps"/>
-                        <lit-tag v="pss"/>
-                      </equal>
-                    </or>
+                  <test> <!-- If the tense is 'pss' -->
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="pss"/>
+                    </equal>
                   </test> 
                   <let> <!-- Set the tense to 'pres' -->
                     <clip pos="1" side="tl" part="temps"/>
@@ -510,16 +517,10 @@
             </when>
             <when> 
               <test>
-                <or>
-                  <equal>
-                    <clip pos="1" side="sl" part="temps"/>
-                    <lit-tag v="past"/>
-                  </equal>
-                  <equal>
-                    <clip pos="1" side="sl" part="temps"/>
-                    <lit-tag v="pss"/>
-                  </equal>
-                </or>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pss"/>
+                </equal>
               </test>
               <let>
                 <clip pos="1" side="tl" part="temps"/>

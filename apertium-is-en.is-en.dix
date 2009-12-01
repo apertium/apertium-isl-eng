@@ -1641,6 +1641,8 @@
     <e><p><l>föt<s n="n"/><s n="nt"/></l><r>clothes<s n="n"/></r></p></e>
     <e><p><l>föðurbróðir<s n="n"/><s n="m"/></l><r>paternal<b/>uncle<s n="n"/></r></p></e>
     <e><p><l>föðurland<s n="n"/><s n="nt"/></l><r>fatherland<s n="n"/></r></p></e>
+    <e><p><l>vesturland<s n="n"/><s n="nt"/><s n="sg"/></l><r>Western<b/>country<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>vesturland<s n="n"/><s n="nt"/><s n="pl"/></l><r>West<s n="n"/><s n="sg"/></r></p></e>
     <!--<e><p><l>föðurland<s n="n"/><s n="nt"/></l><r>native<b/>land<s n="n"/></r></p></e>-->
     <e><p><l>föðursystir<s n="n"/><s n="f"/></l><r>paternal<b/>aunt<s n="n"/></r></p></e>
     <e><p><l>fýll<s n="n"/><s n="m"/></l><r>fulmar<s n="n"/></r></p></e>
@@ -5394,6 +5396,7 @@
     <e><p><l>tónlistarskóli<s n="n"/><s n="m"/></l><r>conservatory<s n="n"/></r></p></e>
     <e><p><l>hólmi<s n="n"/><s n="m"/></l><r>holm<s n="n"/></r></p></e> <!-- islet -->
     <e><p><l>Dani<s n="n"/><s n="m"/></l><r>Dane<s n="n"/></r></p></e>
+    <e><p><l>breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( -->
     <e><p><l>framkvæmdastjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>
 <!--    <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
     <e><p><l>Rússi<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
@@ -5594,6 +5597,8 @@
     <e><p><l>Alsír<s n="np"/><s n="top"/><s n="nt"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ísrael<s n="np"/><s n="top"/><s n="nt"/></l><r>Israel<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kasakstan<s n="np"/><s n="top"/><s n="nt"/></l><r>Kazakhstan<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Íran<s n="np"/><s n="top"/><s n="nt"/></l><r>Iran<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Afganistan<s n="np"/><s n="top"/><s n="nt"/></l><r>Afghanistan<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Víetnam<s n="np"/><s n="top"/><s n="nt"/></l><r>Vietnam<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Egyptaland<s n="np"/><s n="top"/><s n="nt"/></l><r>Egypt<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Serbía<s n="np"/><s n="top"/><s n="f"/></l><r>Serbia<s n="np"/><s n="top"/></r></p></e>
@@ -7662,14 +7667,14 @@
 <!--<e><p><l>óhugsandi<s n="adj"/></l><r>impossible<s n="adj"/></r></p></e>-->
     <e><p><l>óháður<s n="adj"/></l><r>independent<s n="adj"/></r></p></e>
 <!--<e><p><l>óhætt<s n="adj"/></l><r>secure<s n="adj"/></r></p></e>-->
-    <e><p><l>óhætt<s n="adj"/></l><r>safe<s n="adj"/></r></p></e>
-    <e><p><l>ókominn<s n="adj"/></l><r><g>not<b/></g>here<b/>yet<s n="adj"/></r></p></e>
+    <e><p><l>óhætt<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ókominn<s n="adj"/></l><r>not<b/>here<b/>yet<s n="adj"/></r></p></e>
 <!--<e><p><l>ókunnugur<s n="adj"/></l><r>unfamiliar<s n="adj"/></r></p></e>-->
     <e><p><l>ókunnugur<s n="adj"/></l><r>stranger<s n="adj"/></r></p></e>
     <e><p><l>ókunnur<s n="adj"/></l><r>unknown<s n="adj"/></r></p></e>
     <e><p><l>ókynþroska<s n="adj"/></l><r>prepubescent<s n="adj"/></r></p></e>
     <e><p><l>óljós<s n="adj"/></l><r>unclear<s n="adj"/></r></p></e>
-    <e><p><l>ólíklegur<s n="adj"/></l><r>unlikely<s n="adj"/></r></p></e>
+    <e><p><l>ólíklegur<s n="adj"/></l><r>unlikely<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ólíkur<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
     <e><p><l>ólöglegur<s n="adj"/></l><r>illegal<s n="adj"/></r></p></e>
     <e><p><l>ómetanlegur<s n="adj"/></l><r>priceless<s n="adj"/></r></p></e>
@@ -7803,7 +7808,7 @@
 <!--<e><p><l>örsmár<s n="adj"/></l><r>petite<s n="adj"/></r></p></e>-->
 <!--<e><p><l>örsmár<s n="adj"/></l><r>microscopic<s n="adj"/></r></p></e>-->
 <!--<e><p><l>örsmár<s n="adj"/></l><r>diminutive<s n="adj"/></r></p></e>-->
-    <e><p><l>öruggur<s n="adj"/></l><r>safe<s n="adj"/></r></p></e>
+    <e><p><l>öruggur<s n="adj"/></l><r>safe<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>öruggur<s n="adj"/></l><r>secure<s n="adj"/></r></p></e>-->
     <e><p><l>öðruvísi<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
 <!--<e><p><l>úfinn<s n="adj"/></l><r>rough<s n="adj"/></r></p></e>--> <!-- e.g. úfinn sjór = rough seas -->

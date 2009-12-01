@@ -19840,6 +19840,7 @@
     <e lm="Siberia"><i>Siberia</i><par n="Barcelona__np"/></e>
     <e lm="Christiania"><i>Christiania</i><par n="Barcelona__np"/></e>
     <e lm="Iraq"><i>Iraq</i><par n="Barcelona__np"/></e>
+    <e lm="Iran"><i>Iran</i><par n="Barcelona__np"/></e>
 
 
 
@@ -19905,6 +19906,10 @@
     <e lm="Scottish"><i>Scottish</i><par n="politics__n"/></e>
     <e lm="Icelander"><i>Icelander</i><par n="house__n"/></e>
     <e lm="Spaniard"><i>Spaniard</i><par n="house__n"/></e>
+    <e lm="Dane"><i>Dane</i><par n="house__n"/></e>
+    <e lm="Swede"><i>Swede</i><par n="house__n"/></e>
+    <e lm="Briton"><i>Briton</i><par n="house__n"/></e>
+    <e lm="Englishman"><i>Englishm</i><par n="m/an__n"/></e>
     <e lm="Valencian"><i>Valencian</i><par n="house__n"/></e>
     <e lm="Sumerian"><i>Sumerian</i><par n="house__n"/></e>
     <e lm="Sunday"><i>Sunday</i><par n="house__n"/></e>
@@ -20215,6 +20220,7 @@
     <e lm="asymmetry"><i>asymmetr</i><par n="bab/y__n"/></e>
     <e lm="athlete"><i>athlete</i><par n="house__n"/></e>
     <e lm="athletics"><i>athletics</i><par n="east__n"/></e>
+    <e lm="handling"><i>handling</i><par n="east__n"/></e>
     <e lm="atmosphere"><i>atmosphere</i><par n="house__n"/></e>
     <e lm="atom"><i>atom</i><par n="house__n"/></e>
     <e lm="atomisation"><i>atomisation</i><par n="house__n"/></e>
@@ -22845,6 +22851,7 @@
     <e lm="minimum"><i>minim</i><par n="maxim/um__n"/></e>
     <e lm="minimisation"><i>minimisation</i><par n="house__n"/></e>
     <e lm="prime minister"><i>prime<b/>minister</i><par n="house__n"/></e>
+    <e lm="foreign minister"><i>foreign<b/>minister</i><par n="house__n"/></e>
     <e lm="minister"><i>minister</i><par n="house__n"/></e>
 
     <e lm="minister of justice"><i>minister</i><par n="house__n"/><p><l><b/>of<b/>justice</l><r><g><b/>of<b/>justice</g></r></p></e>
