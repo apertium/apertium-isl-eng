@@ -805,6 +805,7 @@
     <e><p><l>blóð<s n="n"/><s n="nt"/></l><r>blood<s n="n"/></r></p></e>
     <e><p><l>blóðbað<s n="n"/><s n="nt"/></l><r>bloodbath<s n="n"/></r></p></e>
     <e><p><l>blóðflaga<s n="n"/><s n="f"/></l><r>platelet<s n="n"/></r></p></e>
+    <e><p><l>tillaga<s n="n"/><s n="f"/></l><r>proposal<s n="n"/></r></p></e>
     <!--<e><p><l>blóðflaga<s n="n"/><s n="f"/></l><r>thrombocyte<s n="n"/></r></p></e>-->
     <e><p><l>blóðnasir<s n="n"/><s n="f"/></l><r>bloody<b/>nose<s n="n"/></r></p></e>
     <!--<e><p><l>blóðnasir<s n="n"/><s n="f"/></l><r>nosebleed<s n="n"/></r></p></e>-->
@@ -5334,6 +5335,163 @@
     <e><p><l>nóvember<s n="n"/><s n="nt"/></l><r>November<s n="n"/></r></p></e>
     <e><p><l>desember<s n="n"/><s n="nt"/></l><r>December<s n="n"/></r></p></e>
 
+    <e><p><l>eiga<s n="n"/><s n="f"/></l><r>ownership<s n="n"/></r></p></e>
+    <e><p><l>langa<s n="n"/><s n="f"/></l><r>ling<s n="n"/></r></p></e> <!--Molva vulgaris-->
+    <e><p><l>útbreiðsla<s n="n"/><s n="f"/></l><r>spreading<s n="n"/></r></p></e>
+    <e><p><l>neysla<s n="n"/><s n="f"/></l><r>consumption<s n="n"/></r></p></e>
+    <e><p><l>formúla<s n="n"/><s n="f"/></l><r>formula<s n="n"/></r></p></e>
+    <e><p><l>útkoma<s n="n"/><s n="f"/></l><r>outcome<s n="n"/></r></p></e>
+    <e><p><l>nefna<s n="n"/><s n="f"/></l><r>name<s n="n"/></r></p></e>
+    <e><p><l>sinna<s n="n"/><s n="f"/></l><r>interest<s n="n"/></r></p></e>
+    <e><p><l>uppskera<s n="n"/><s n="f"/></l><r>harvest<s n="n"/></r></p></e>
+    <e><p><l>stefnuskrá<s n="n"/><s n="f"/></l><r>platform<s n="n"/></r></p></e> <!-- programme -->
+    <e><p><l>rétta<s n="n"/><s n="f"/></l><r>right<s n="n"/></r></p></e> <!-- right side -->
+    <e><p><l>aðild<s n="n"/><s n="f"/></l><r>participation<s n="n"/></r></p></e>
+    <e><p><l>kennd<s n="n"/><s n="f"/></l><r>feeling<s n="n"/></r></p></e>
+    <e><p><l>vesturströnd<s n="n"/><s n="f"/></l><r>western<b/>coast<s n="n"/></r></p></e>
+    <e><p><l>þúsund<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>
+    <e><p><l>lóð<s n="n"/><s n="f"/></l><r>site<s n="n"/></r></p></e> <!-- building site / plot -->
+    <e><p><l>stöð<s n="n"/><s n="f"/></l><r>station<s n="n"/></r></p></e>
+    <e><p><l>miðstöð<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e> <!-- hq -->
+    <e><p><l>meðferð<s n="n"/><s n="f"/></l><r>handling<s n="n"/></r></p></e>
+    <e><p><l>aðgerð<s n="n"/><s n="f"/></l><r>operation<s n="n"/></r></p></e>
+    <e><p><l>vísbending<s n="n"/><s n="f"/></l><r>clue<s n="n"/></r></p></e> <!-- hint -->
+    <e><p><l>fullyrðing<s n="n"/><s n="f"/></l><r>assertion<s n="n"/></r></p></e>
+    <e><p><l>samning<s n="n"/><s n="f"/></l><r>composition<s n="n"/></r></p></e>
+    <e><p><l>viðurkenning<s n="n"/><s n="f"/></l><r>recognition<s n="n"/></r></p></e>
+    <!--<e><p><l>viðurkenning<s n="n"/><s n="f"/></l><r>admission<s n="n"/></r></p></e>-->
+    <e><p><l>samsetning<s n="n"/><s n="f"/></l><r>assembly<s n="n"/></r></p></e>
+    <!--<e><p><l>samsetning<s n="n"/><s n="f"/></l><r>compound<s n="n"/></r></p></e>-->
+    <e><p><l>starfsemi<s n="n"/><s n="f"/></l><r>operation<s n="n"/></r></p></e> <!-- work -->
+    <e><p><l>samkeppni<s n="n"/><s n="f"/></l><r>competition<s n="n"/></r></p></e>
+    <e><p><l>mörk<s n="n"/><s n="f"/></l><r>forest<s n="n"/></r></p></e> <!-- or 250 grammes -->
+    <e><p><l>stjórn<s n="n"/><s n="f"/></l><r>leadership<s n="n"/></r></p></e>
+    <e><p><l>bæjarstjórn<s n="n"/><s n="f"/></l><r>town<b/>council<s n="n"/></r></p></e>
+    <e><p><l>sveitarstjórn<s n="n"/><s n="f"/></l><r>parish<b/>council<s n="n"/></r></p></e> <!-- ? -->
+    <e><p><l>þjálfun<s n="n"/><s n="f"/></l><r>training<s n="n"/></r></p></e>
+    <e><p><l>fjölgun<s n="n"/><s n="f"/></l><r>increase<s n="n"/></r></p></e>
+    <e><p><l>túlkun<s n="n"/><s n="f"/></l><r>interpretation<s n="n"/></r></p></e> <!-- art -->
+    <e><p><l>könnun<s n="n"/><s n="f"/></l><r>research<s n="n"/></r></p></e>
+    <e><p><l>aðfaranótt<s n="n"/><s n="f"/></l><r>night<g><b/>before</g><s n="n"/></r></p></e>
+    <e><p><l>tala<s n="n"/><s n="m"/></l><r>numeral<s n="n"/></r></p></e>
+    <e><p><l>sviði<s n="n"/><s n="m"/></l><r>sting<s n="n"/></r></p></e>
+    <e><p><l>þátttakandi<s n="n"/><s n="m"/></l><r>participant<s n="n"/></r></p></e>
+    <e><p><l>stjórnandi<s n="n"/><s n="m"/></l><r>leader<s n="n"/></r></p></e>
+    <e><p><l>endi<s n="n"/><s n="m"/></l><r>end<s n="n"/></r></p></e>
+    <e><p><l>dauði<s n="n"/><s n="m"/></l><r>death<s n="n"/></r></p></e>
+    <e><p><l>ráðgjafi<s n="n"/><s n="m"/></l><r>advisor<s n="n"/></r></p></e>
+    <e><p><l>starfi<s n="n"/><s n="m"/></l><r>work<s n="n"/></r></p></e> <!-- see 'starf' -->
+    <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
+    <e><p><l>Svíi<s n="n"/><s n="m"/></l><r>Swede<s n="n"/></r></p></e>
+    <e><p><l>Indverji<s n="n"/><s n="m"/></l><r>Indian<s n="n"/></r></p></e>
+    <e><p><l>Spánverji<s n="n"/><s n="m"/></l><r>Spaniard<s n="n"/></r></p></e>
+    <e><p><l>Kínverji<s n="n"/><s n="m"/></l><r>Chinese<b/>person<s n="n"/></r></p></e>
+    <e><p><l>möguleiki<s n="n"/><s n="m"/></l><r>possibility<s n="n"/></r></p></e>
+    <e><p><l>Seðlabanki<s n="n"/><s n="m"/></l><r>Central<b/>bank<s n="n"/></r></p></e>
+    <e><p><l>Landsbanki<s n="n"/><s n="m"/></l><r>Landsbanki<s n="n"/></r></p></e>
+    <e><p><l>smali<s n="n"/><s n="m"/></l><r>shepherd<s n="n"/></r></p></e>
+    <e><p><l>Ítali<s n="n"/><s n="m"/></l><r>Italian<s n="n"/></r></p></e>
+    <e><p><l>tónlistarskóli<s n="n"/><s n="m"/></l><r>conservatory<s n="n"/></r></p></e>
+    <e><p><l>hólmi<s n="n"/><s n="m"/></l><r>holm<s n="n"/></r></p></e> <!-- islet -->
+    <e><p><l>Dani<s n="n"/><s n="m"/></l><r>Dane<s n="n"/></r></p></e>
+    <e><p><l>framkvæmdastjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>
+<!--    <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>Rússi<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
+    <e><p><l>varaforseti<s n="n"/><s n="m"/></l><r>vice-president<s n="n"/></r></p></e>
+    <e><p><l>nasisti<s n="n"/><s n="m"/></l><r>nazi<s n="n"/></r></p></e>
+    <e><p><l>þótti<s n="n"/><s n="m"/></l><r>arrogance<s n="n"/></r></p></e>
+    <e><p><l>suðurhluti<s n="n"/><s n="m"/></l><r>south<s n="n"/></r></p></e> <!-- south part -->
+    <e><p><l>austurhluti<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p></e> <!-- east part -->
+<!--    <e><p><l>bæjarfulltrúi<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>stíll<s n="n"/><s n="m"/></l><r>style<s n="n"/></r></p></e>
+    <e><p><l>klár<s n="n"/><s n="m"/></l><r>workhorse<s n="n"/></r></p></e>
+    <e><p><l>dollar<s n="n"/><s n="m"/></l><r>dollar<s n="n"/></r></p></e>
+    <e><p><l>sendir<s n="n"/><s n="m"/></l><r>transmitter<s n="n"/></r></p></e>
+    <e><p><l>mælir<s n="n"/><s n="m"/></l><r>meter<s n="n"/></r></p></e> <!-- meter [instr.], metre [measur.,poetry] -->
+    <e><p><l>vísir<s n="n"/><s n="m"/></l><r>hand<s n="n"/></r></p></e> <!-- clock -->
+    <!--<e><p><l>vísir<s n="n"/><s n="m"/></l><r>sprout<s n="n"/></r></p></e>-->
+    <e><p><l>missir<s n="n"/><s n="m"/></l><r>loss<s n="n"/></r></p></e>
+    <e><p><l>Bandaríkjamaður<s n="n"/><s n="m"/></l><r>American<s n="n"/></r></p></e>
+    <e><p><l>eyjamaður<s n="n"/><s n="m"/></l><r>islander<s n="n"/></r></p></e>
+    <e><p><l>stjórnmálamaður<s n="n"/><s n="m"/></l><r>politician<s n="n"/></r></p></e>
+    <e><p><l>veiðimaður<s n="n"/><s n="m"/></l><r>hunter<s n="n"/></r></p></e>
+    <e><p><l>leikmaður<s n="n"/><s n="m"/></l><r>layman<s n="n"/></r></p></e>
+    <e><p><l>liðsmaður<s n="n"/><s n="m"/></l><r>supporter<s n="n"/></r></p></e>
+    <e><p><l>landsmaður<s n="n"/><s n="m"/></l><r>countryman<s n="n"/></r></p></e>
+    <e><p><l>félagsmaður<s n="n"/><s n="m"/></l><r>member<s n="n"/></r></p></e> <!-- of society -->
+    <e><p><l>stuðningsmaður<s n="n"/><s n="m"/></l><r>supporter<s n="n"/></r></p></e>
+<!--    <e><p><l>miðjumaður<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>kostnaður<s n="n"/><s n="m"/></l><r>expenses<s n="n"/></r></p></e>
+    <e><p><l>beður<s n="n"/><s n="m"/></l><r>bed<s n="n"/></r></p></e> <!-- flowers -->
+    <e><p><l>úrskurður<s n="n"/><s n="m"/></l><r>decision<s n="n"/></r></p></e>
+    <e><p><l>efnahagur<s n="n"/><s n="m"/></l><r>finances<s n="n"/></r></p></e>
+<!--    <e><p><l>langur<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>sálfræðingur<s n="n"/><s n="m"/></l><r>psychologist<s n="n"/></r></p></e>
+    <e><p><l>stuðningur<s n="n"/><s n="m"/></l><r>support<s n="n"/></r></p></e>
+    <e><p><l>peningur<s n="n"/><s n="m"/><s n="sg"/></l><r>coin<s n="n"/></r></p></e> 
+    <e><p><l>peningur<s n="n"/><s n="m"/><s n="pl"/></l><r>money<s n="n"/></r></p></e>  <!-- "he's got a lot of coin" ;) -->
+    <e><p><l>útreikningur<s n="n"/><s n="m"/></l><r>calculation<s n="n"/></r></p></e>
+    <e><p><l>misskilningur<s n="n"/><s n="m"/></l><r>misunderstanding<s n="n"/></r></p></e>
+    <e><p><l>þrýstingur<s n="n"/><s n="m"/></l><r>pressure<s n="n"/></r></p></e>
+    <e><p><l>tugur<s n="n"/><s n="m"/></l><r>ten<s n="n"/></r></p></e>
+<!--    <e><p><l>úrslitaleikur<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>kveikur<s n="n"/><s n="m"/></l><r>wick<s n="n"/></r></p></e>
+    <e><p><l>Grikkur<s n="n"/><s n="m"/></l><r>Greek<s n="n"/></r></p></e>
+    <e><p><l>Bandaríkjadalur<s n="n"/><s n="m"/></l><r>US<b/>dollar<s n="n"/></r></p></e>
+<!--    <e><p><l>ganur<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>toppur<s n="n"/><s n="m"/></l><r>top<s n="n"/></r></p></e>
+    <e><p><l>snertur<s n="n"/><s n="m"/></l><r>bit<s n="n"/></r></p></e>
+    <e><p><l>austur<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p></e>
+<!--    <e><p><l>stjórnvald<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>Norðurland<s n="n"/><s n="nt"/></l><r>Northern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>pund<s n="n"/><s n="nt"/></l><r>pound<s n="n"/></r></p></e>
+    <e><p><l>framboð<s n="n"/><s n="nt"/></l><r>candidacy<s n="n"/></r></p></e>
+<!--    <e><p><l>hvolf<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e> -->
+    <e><p><l>samstarf<s n="n"/><s n="nt"/></l><r>co-operation<s n="n"/></r></p></e>
+    <e><p><l>viðhorf<s n="n"/><s n="nt"/></l><r>position<s n="n"/></r></p></e> <!-- attitude -->
+    <e><p><l>framlag<s n="n"/><s n="nt"/></l><r>contribution<s n="n"/></r></p></e>
+    <e><p><l>skipulag<s n="n"/><s n="nt"/></l><r>organisation<s n="n"/></r></p></e> <!-- plan -->
+    <e><p><l>ákvæði<s n="n"/><s n="nt"/></l><r>clause<s n="n"/></r></p></e>
+    <e><p><l>reiði<s n="n"/><s n="m"/></l><r>anger<s n="n"/></r></p></e>
+    <e><p><l>reiði<s n="n"/><s n="nt"/></l><r>anger<s n="n"/></r></p></e>
+    <e><p><l>grundvallaratriði<s n="n"/><s n="nt"/></l><r>basic<b/>feature<s n="n"/></r></p></e>
+    <e><p><l>veikindi<s n="n"/><s n="nt"/></l><r>illness<s n="n"/></r></p></e>
+    <e><p><l>virði<s n="n"/><s n="nt"/></l><r>worth<s n="n"/></r></p></e>
+    <e><p><l>samræmi<s n="n"/><s n="nt"/></l><r>consistency<s n="n"/></r></p></e>
+    <e><p><l>verkefni<s n="n"/><s n="nt"/></l><r>task<s n="n"/></r></p></e>
+    <e><p><l>tilefni<s n="n"/><s n="nt"/></l><r>cause<s n="n"/></r></p></e>
+    <e><p><l>viðurnefni<s n="n"/><s n="nt"/></l><r>nickname<s n="n"/></r></p></e>
+    <e><p><l>nágrenni<s n="n"/><s n="nt"/></l><r>neighbourhood<s n="n"/></r></p></e>
+    <e><p><l>mynni<s n="n"/><s n="nt"/></l><r>mouth<s n="n"/></r></p></e> <!-- of river -->
+    <e><p><l>verðmæti<s n="n"/><s n="nt"/></l><r>value<s n="n"/></r></p></e>
+<!--
+    <e><p><l>afskipti<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>leyti<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>rak<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>rek<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>tilvik<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>rök<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>skjal<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>val<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>árabil<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>gan<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>megin<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>eigin<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>verðlaun<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>þrep<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>óhapp<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>Ríkisútvarp<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>klár<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>kór<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>Þjóðleikhús<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>mat<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>met<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>sent<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>hlot<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>ljóst<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+    <e><p><l>ný<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>
+-->
+
     
     <!-- Proper nouns -->
 
@@ -5377,6 +5535,7 @@
     <e><p><l>Mið-Evrópa<s n="np"/><s n="top"/><s n="nt"/></l><r>Central<b/>Europe<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Suður-Evrópa<s n="np"/><s n="top"/><s n="nt"/></l><r>Southern<b/>Europe<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Norður-Evrópa<s n="np"/><s n="top"/><s n="nt"/></l><r>Northern<b/>Europe<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Austur-Evrópa<s n="np"/><s n="top"/><s n="nt"/></l><r>Eastern<b/>Europe<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Bólivía<s n="np"/><s n="top"/><s n="nt"/></l><r>Bolivia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Andorra<s n="np"/><s n="top"/><s n="nt"/></l><r>Andorra<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Argentína<s n="np"/><s n="top"/><s n="nt"/></l><r>Argentina<s n="np"/><s n="top"/></r></p></e>
