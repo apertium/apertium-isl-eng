@@ -338,6 +338,7 @@
 
     <!-- Numbers -->
 
+    <e><p><l>núll<s n="num"/></l><r>zero<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>einn<s n="num"/></l><r>one<s n="num"/><s n="sg"/></r></p></e>
     <e><p><l>tveir<s n="num"/></l><r>two<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>þrír<s n="num"/></l><r>three<s n="num"/><s n="sp"/></r></p></e>
@@ -348,7 +349,6 @@
     <e><p><l>átta<s n="num"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>níu<s n="num"/></l><r>nine<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>tíu<s n="num"/></l><r>ten<s n="num"/><s n="sp"/></r></p></e>
-
     <e><p><l>ellefu<s n="num"/></l><r>eleven<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>tólf<s n="num"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>þrettán<s n="num"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
@@ -356,9 +356,9 @@
     <e><p><l>fimmtán<s n="num"/></l><r>fifteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>sextán<s n="num"/></l><r>sixteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>sautján<s n="num"/></l><r>seventeen<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>seytján<s n="num"/></l><r>seventeen<s n="num"/><s n="sp"/></r></p></e> <!-- older alternative spelling -->
     <e><p><l>átján<s n="num"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>nítján<s n="num"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
-
     <e><p><l>tuttugu<s n="num"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>þrjátíu<s n="num"/></l><r>thirty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>fjörutíu<s n="num"/></l><r>forty<s n="num"/><s n="sp"/></r></p></e>
@@ -367,9 +367,39 @@
     <e><p><l>sjötíu<s n="num"/></l><r>seventy<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>áttatíu<s n="num"/></l><r>eighty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>níutíu<s n="num"/></l><r>ninety<s n="num"/><s n="sp"/></r></p></e>
-
     <e><p><l>hundrað<s n="num"/></l><r>hundred<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>þúsund<s n="num"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
+
+    <e><p><l>fyrstur<s n="num"/></l><r>first<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>annar<s n="num"/></l><r>another<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þriðji<s n="num"/></l><r>third<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fjórði<s n="num"/></l><r>forth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fimmti<s n="num"/></l><r>fifth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sjötti<s n="num"/></l><r>sixth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sjöundi<s n="num"/></l><r>seventh<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>áttundi<s n="num"/></l><r>eighth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>níundi<s n="num"/></l><r>ninth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>tíundi<s n="num"/></l><r>tenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>ellefti<s n="num"/></l><r>eleventh<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>tólfti<s n="num"/></l><r>twelfth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þrettándi<s n="num"/></l><r>thirteenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fjórtándi<s n="num"/></l><r>fourteenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fimmtándi<s n="num"/></l><r>fifteenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sextándi<s n="num"/></l><r>sixteenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sautjándi<s n="num"/></l><r>seventeenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>seytjándi<s n="num"/></l><r>seventeenth<s n="num"/><s n="sp"/></r></p></e> <!-- older alternative spelling -->
+    <e><p><l>átjándi<s n="num"/></l><r>eighteenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>nítjándi<s n="num"/></l><r>nineteenth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>tuttugasti<s n="num"/></l><r>twentieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þrítugasti<s n="num"/></l><r>thirtieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fertugasti<s n="num"/></l><r>fortieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>fimmtugasti<s n="num"/></l><r>fiftieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sextugasti<s n="num"/></l><r>sixtieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>sjötugasti<s n="num"/></l><r>seventieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>áttræðasti<s n="num"/></l><r>eightieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>níræðasti<s n="num"/></l><r>ninetieth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>hundraðasti<s n="num"/></l><r>hundredth<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>þúsundasti<s n="num"/></l><r>thousandth<s n="num"/><s n="sp"/></r></p></e>
 
     
     <!-- Nouns -->
@@ -465,7 +495,7 @@
     <e><p><l>almenningur<s n="n"/><s n="m"/></l><r>public<s n="n"/></r></p></e>
     <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/></r></p></e>
     <e><p><l>alur<s n="n"/><s n="m"/></l><r>awl<s n="n"/></r></p></e>
-    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>serious<s n="n"/></r></p></e> <!-- ADJ? -FMT -->
+    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>serious<b/>business<s n="n"/></r></p></e>
 <!--    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>seriousness<s n="n"/></r></p></e> --> 
     <e><p><l>alviska<s n="n"/><s n="f"/></l><r>omniscience<s n="n"/></r></p></e> <!-- (capacity to know everything) -->
     <e><p><l>alþingi<s n="n"/><s n="nt"/></l><r>Althing<s n="n"/></r></p></e>
@@ -803,7 +833,7 @@
     <!--<e><p><l>brennisteinn<s n="n"/><s n="m"/></l><r>sulphur<s n="n"/></r></p></e>--> <!-- British English spelling -->
     <!--<e><p><l>brennivín<s n="n"/><s n="nt"/></l><r>Brennivín<s n="n"/></r></p></e> --> <!-- an Icelandic hard liqour -->
     <e><p><l>brennivín<s n="n"/><s n="nt"/></l><r>liquor<s n="n"/></r></p></e>
-    <e><p><l>breska<s n="n"/><s n="f"/></l><r>British<s n="n"/></r></p></e>
+    <e><p><l>breska<s n="n"/><s n="f"/></l><r>British<s n="n"/></r></p></e> <!-- language -->
     <!--<e><p><l>breyta<s n="n"/><s n="f"/></l><r>change, alter<s n="n"/></r></p></e> --> <!-- verb -->
     <e><p><l>breyta<s n="n"/><s n="f"/></l><r>variable<s n="n"/></r></p></e>
     <!--<e><p><l>breyting<s n="n"/><s n="f"/></l><r>alteration<s n="n"/></r></p></e>-->
@@ -1275,7 +1305,6 @@
     <e><p><l>feðgar<s n="n"/><s n="m"/></l><r>father<b/>and<b/>son<s n="n"/></r></p></e>
     <e><p><l>filma<s n="n"/><s n="f"/></l><r>film<s n="n"/></r></p></e>
     <e><p><l>fimma<s n="n"/><s n="f"/></l><r>five<s n="n"/></r></p></e> <!-- in cards -->
-    <e><p><l>fimmtudagur<s n="n"/><s n="m"/></l><r>Thursday<s n="n"/></r></p></e>
     <e><p><l>fingur<s n="n"/><s n="m"/></l><r>finger<s n="n"/></r></p></e>
     <e><p><l>finnska<s n="n"/><s n="f"/></l><r>Finnish<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>firma<s n="n"/><s n="nt"/></l><r>business<s n="n"/></r></p></e>
@@ -1433,7 +1462,6 @@
     <!--<e><p><l>framkvæmd<s n="n"/><s n="f"/></l><r>project<s n="n"/></r></p></e>-->
     <!--<e><p><l>framleiðsla<s n="n"/><s n="f"/></l><r>produce<s n="n"/></r></p></e>-->
     <e><p><l>framleiðsla<s n="n"/><s n="f"/></l><r>production<s n="n"/></r></p></e>
-    <e><p><l>framsóknarflokkur<s n="n"/><s n="m"/></l><r>Progressive<b/>party<s n="n"/></r></p></e>
     <e><p><l>framsöguháttur<s n="n"/><s n="m"/></l><r>grammatical<b/>mood<s n="n"/></r></p></e>
     <e><p><l>framtíð<s n="n"/><s n="f"/></l><r>future<s n="n"/></r></p></e>
     <e><p><l>franska<s n="n"/><s n="f"/></l><r>French<s n="n"/></r></p></e>
@@ -1572,7 +1600,6 @@
     <e><p><l>fönix<s n="n"/><s n="m"/></l><r>phoenix<s n="n"/></r></p></e> <!-- (mythological bird) -->
     <e><p><l>för<s n="n"/><s n="f"/></l><r>journey<s n="n"/></r></p></e>
     <!--<e><p><l>för<s n="n"/><s n="f"/></l><r>voyage<s n="n"/></r></p></e>-->
-    <e><p><l>föstudagur<s n="n"/><s n="m"/></l><r>Friday<s n="n"/></r></p></e>
     <e><p><l>föt<s n="n"/><s n="nt"/></l><r>clothes<s n="n"/></r></p></e>
     <e><p><l>föðurbróðir<s n="n"/><s n="m"/></l><r>paternal<b/>uncle<s n="n"/></r></p></e>
     <e><p><l>föðurland<s n="n"/><s n="nt"/></l><r>fatherland<s n="n"/></r></p></e>
@@ -2695,7 +2722,6 @@
     <e><p><l>lauftré<s n="n"/><s n="nt"/></l><r>deciduous<b/>tree<s n="n"/></r></p></e>
     <e><p><l>laug<s n="n"/><s n="f"/></l><r>pool<s n="n"/></r></p></e>
     <!--<e><p><l>laug<s n="n"/><s n="f"/></l><r>bath<s n="n"/></r></p></e>-->
-    <e><p><l>laugardagur<s n="n"/><s n="m"/></l><r>Saturday<s n="n"/></r></p></e>
     <e><p><l>hvítlaukur<s n="n"/><s n="m"/></l><r>garlic<s n="n"/></r></p></e>
     <e><p><l>blaðlaukur<s n="n"/><s n="m"/></l><r>leek<s n="n"/></r></p></e>
     <e><p><l>laukur<s n="n"/><s n="m"/></l><r>onion<s n="n"/></r></p></e>
@@ -3090,7 +3116,6 @@
     <e><p><l>miðja<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e>
     <!--<e><p><l>miðja<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e>--> <!-- British English spelling -->
     <e><p><l>miðnætti<s n="n"/><s n="nt"/></l><r>midnight<s n="n"/></r></p></e>
-    <e><p><l>miðvikudagur<s n="n"/><s n="m"/></l><r>Wednesday<s n="n"/></r></p></e>
     <e><p><l>mjólk<s n="n"/><s n="f"/></l><r>milk<s n="n"/></r></p></e>
     <e><p><l>mjónefur<s n="n"/><s n="m"/></l><r>echidna<s n="n"/></r></p></e>
     <e><p><l>mjöðm<s n="n"/><s n="f"/></l><r>hip<s n="n"/></r></p></e> <!-- (body part) -->
@@ -3172,7 +3197,6 @@
     <e><p><l>málvísindi<s n="n"/><s n="nt"/></l><r>linguistics<s n="n"/></r></p></e> <!-- (scientific study of language) -->
     <e><p><l>málþóf<s n="n"/><s n="nt"/></l><r>filibuster<s n="n"/></r></p></e> <!-- the use of delaying tactics in politics -->
     <e><p><l>máni<s n="n"/><s n="m"/></l><r>moon<s n="n"/></r></p></e>
-    <e><p><l>mánudagur<s n="n"/><s n="m"/></l><r>Monday<s n="n"/></r></p></e>
     <e><p><l>mánuður<s n="n"/><s n="m"/></l><r>month<s n="n"/></r></p></e>
     <e><p><l>más<s n="n"/><s n="nt"/></l><r>panting<s n="n"/></r></p></e>
     <!--<e><p><l>más<s n="n"/><s n="nt"/></l><r>puffing<s n="n"/></r></p></e>-->
@@ -3328,7 +3352,6 @@
     <!--<e><p><l>nörd<s n="n"/><s n="m"/></l><r>geek<s n="n"/></r></p></e>-->
     <e><p><l>nörd<s n="n"/><s n="m"/></l><r>nerd<s n="n"/></r></p></e>
     <e><p><l>nös<s n="n"/><s n="f"/></l><r>nostril<s n="n"/></r></p></e>
-    <e><p><l>núll<s n="n"/><s n="nt"/></l><r>zero<s n="n"/></r></p></e>
     <e><p><l>númer<s n="n"/><s n="nt"/></l><r>number<s n="n"/></r></p></e>
     <e><p><l>nútíð<s n="n"/><s n="f"/></l><r>present<b/>tense<s n="n"/></r></p></e>
     <e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>whole<b/>milk<s n="n"/></r></p></e>
@@ -3697,7 +3720,6 @@
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>federation<s n="n"/></r></p></e>-->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>union<s n="n"/></r></p></e>-->
     <e><p><l>sameind<s n="n"/><s n="f"/></l><r>molecule<s n="n"/></r></p></e>
-    <e><p><l>samfylking<s n="n"/><s n="f"/></l><r>social<b/>democratic<b/>alliance<s n="n"/></r></p></e>
     <!--<e><p><l>samfélag<s n="n"/><s n="nt"/></l><r>civic<b/>community<s n="n"/></r></p></e>-->
     <e><p><l>samfélag<s n="n"/><s n="nt"/></l><r>community<s n="n"/></r></p></e>
     <e><p><l>samheitaorðabók<s n="n"/><s n="f"/></l><r>thesaurus<s n="n"/></r></p></e>
@@ -3880,7 +3902,7 @@
     <!--<e><p><l>skortur<s n="n"/><s n="m"/></l><r>want<s n="n"/></r></p></e>-->
     <e><p><l>skorða<s n="n"/><s n="f"/></l><r>immobilise<s n="n"/></r></p></e>
     <!--<e><p><l>skorða<s n="n"/><s n="f"/></l><r>prop<b/>up<s n="n"/></r></p></e>-->
-    <e><p><l>skoska<s n="n"/><s n="f"/></l><r>Scottish<s n="n"/></r></p></e> <!-- ADJ? -FMT -->
+    <e><p><l>skoska<s n="n"/><s n="f"/></l><r>Scottish<s n="n"/></r></p></e> <!-- language -->
     <e><p><l>skot<s n="n"/><s n="nt"/></l><r>bullet<s n="n"/></r></p></e>
     <!--<e><p><l>skot<s n="n"/><s n="nt"/></l><r>gunshot<s n="n"/></r></p></e>-->
     <!--<e><p><l>skot<s n="n"/><s n="nt"/></l><r>shot<s n="n"/></r></p></e>-->
@@ -4194,7 +4216,6 @@
     <e><p><l>sundbolur<s n="n"/><s n="f"/></l><r>swimsuit<s n="n"/></r></p></e>
     <e><p><l>sundlaug<s n="n"/><s n="f"/></l><r>swimming<b/>pool<s n="n"/></r></p></e>
     <e><p><l>sundskýla<s n="n"/><s n="f"/></l><r>swimming<b/>trunks<s n="n"/></r></p></e>
-    <e><p><l>sunnudagur<s n="n"/><s n="m"/></l><r>Sunday<s n="n"/></r></p></e>
     <e><p><l>suðumark<s n="n"/><s n="nt"/></l><r>boiling<b/>point<s n="n"/></r></p></e>
     <e><p><l>suður<s n="n"/><s n="nt"/></l><r>south<s n="n"/></r></p></e>
     <e><p><l>suðurhvel<s n="n"/><s n="nt"/></l><r>southern<b/>hemisphere<s n="n"/></r></p></e>
@@ -5136,7 +5157,6 @@
     <e><p><l>þorskur<s n="n"/><s n="m"/></l><r>cod<s n="n"/></r></p></e>
     <e><p><l>þorsti<s n="n"/><s n="m"/></l><r>thirst<s n="n"/></r></p></e>
     <e><p><l>þota<s n="n"/><s n="f"/></l><r>jet<s n="n"/></r></p></e>
-    <e><p><l>þriðjudagur<s n="n"/><s n="m"/></l><r>Tuesday<s n="n"/></r></p></e>
     <!--<e><p><l>þrjóska<s n="n"/><s n="f"/></l><r>intransigence<s n="n"/></r></p></e>-->
     <e><p><l>þrjóska<s n="n"/><s n="f"/></l><r>stubbornness<s n="n"/></r></p></e>
     <e><p><l>þruma<s n="n"/><s n="f"/></l><r>thunder<s n="n"/></r></p></e>
@@ -5192,7 +5212,6 @@
     <e><p><l>þökk<s n="n"/><s n="f"/></l><r>thanks<s n="n"/></r></p></e>
     <e><p><l>þörf<s n="n"/><s n="f"/></l><r>need<s n="n"/></r></p></e>
     <e><p><l>þörungur<s n="n"/><s n="m"/></l><r>alga<s n="n"/></r></p></e>
-    <!--<e><p><l>þúsund<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>--> <!-- is also in numbers -->
     <e><p><l>þýska<s n="n"/><s n="f"/></l><r>German<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>þýðandi<s n="n"/><s n="m"/></l><r>translator<s n="n"/></r></p></e>
     <!--<e><p><l>þýðing<s n="n"/><s n="f"/></l><r>meaning<s n="n"/></r></p></e>-->
@@ -5213,6 +5232,15 @@
     <e><p><l>október<s n="n"/><s n="nt"/></l><r>October<s n="n"/></r></p></e>
     <e><p><l>nóvember<s n="n"/><s n="nt"/></l><r>November<s n="n"/></r></p></e>
     <e><p><l>desember<s n="n"/><s n="nt"/></l><r>December<s n="n"/></r></p></e>
+
+    <e><p><l>mánudagur<s n="n"/><s n="m"/></l><r>Monday<s n="n"/></r></p></e>
+    <e><p><l>þriðjudagur<s n="n"/><s n="m"/></l><r>Tuesday<s n="n"/></r></p></e>
+    <e><p><l>miðvikudagur<s n="n"/><s n="m"/></l><r>Wednesday<s n="n"/></r></p></e>
+    <e><p><l>fimmtudagur<s n="n"/><s n="m"/></l><r>Thursday<s n="n"/></r></p></e>
+    <e><p><l>föstudagur<s n="n"/><s n="m"/></l><r>Friday<s n="n"/></r></p></e>
+    <e><p><l>laugardagur<s n="n"/><s n="m"/></l><r>Saturday<s n="n"/></r></p></e>
+    <e><p><l>sunnudagur<s n="n"/><s n="m"/></l><r>Sunday<s n="n"/></r></p></e>
+
 
     <e><p><l>eiga<s n="n"/><s n="f"/></l><r>ownership<s n="n"/></r></p></e> <!-- Check this: invalid Icelandic word as noun? -->
     <e><p><l>langa<s n="n"/><s n="f"/></l><r>ling<s n="n"/></r></p></e> <!--Molva vulgaris-->
@@ -5589,12 +5617,16 @@
     <e><p><l>Ólafsson<s n="np"/><s n="cog"/><s n="m"/></l><r>Ólafsson<s n="np"/><s n="cog"/></r></p></e>
 
 
-
     <e><p><l>Guð<s n="np"/><s n="al"/><s n="m"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
 
-    <e><p><l>Sjálfstæðisflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Independence<b/>Party<s n="np"/><s n="org"/></r></p></e>
 
-    
+    <e><p><l>Sjálfstæðisflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Independence<b/>Party<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Framsóknarflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Progressive<b/>Party<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="m"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Vinstri-Græn<s n="np"/><s n="org"/><s n="m"/></l><r>Left<b/>Wing<b/>Alliance<s n="np"/><s n="org"/></r></p></e>     <!-- NB the translation was a shot in the dark -->
+
+
+
     <!-- Adjectives -->
     <e><p><l>góður<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
@@ -5803,7 +5835,7 @@
 <!--<e><p><l>andstæður<s n="adj"/></l><r>contrary<s n="adj"/></r></p></e>-->
 <!--<e><p><l>andvígur<s n="adj"/></l><r>against<s n="adj"/></r></p></e>-->
     <e><p><l>andvígur<s n="adj"/></l><r>opposed<s n="adj"/></r></p></e>
-    <e><p><l>annar<s n="adj"/></l><r>another<s n="adj"/></r></p></e> <!-- annar also means second -->
+    <e><p><l>annar<s n="adj"/></l><r>another<s n="adj"/></r></p></e>
     <e><p><l>arabískur<s n="adj"/></l><r>Arabic<s n="adj"/></r></p></e>
     <e><p><l>athugaður<s n="adj"/></l><r>checked<s n="adj"/></r></p></e>
 <!--<e><p><l>athugaður<s n="adj"/></l><r>studied<s n="adj"/></r></p></e>-->
@@ -6070,13 +6102,11 @@
     <e><p><l>felldur<s n="adj"/></l><r>collapsed<s n="adj"/></r></p></e>
     <e><p><l>ferskur<s n="adj"/></l><r>fresh<s n="adj"/></r></p></e>
     <e><p><l>fertugur<s n="adj"/></l><r>forty<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
-    <e><p><l>fimmti<s n="adj"/></l><r>fifth<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>fimmtugur<s n="adj"/></l><r>fifty<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>fjarlægur<s n="adj"/></l><r>distant<s n="adj"/></r></p></e>
     <e><p><l>fjárhagslegur<s n="adj"/></l><r>financial<s n="adj"/></r></p></e>
 <!--<e><p><l>fjólublár<s n="adj"/></l><r>violet<s n="adj"/></r></p></e>-->
     <e><p><l>fjólublár<s n="adj"/></l><r>purple<s n="adj"/></r></p></e>
-    <e><p><l>fjórði<s n="adj"/></l><r>forth<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>fjölbreytilegur<s n="adj"/></l><r>diverse<s n="adj"/></r></p></e>
 <!--<e><p><l>fjölbreytilegur<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>-->
 <!--<e><p><l>fjölbreytilegur<s n="adj"/></l><r>mixed<s n="adj"/></r></p></e>-->
@@ -6158,7 +6188,6 @@
     <e><p><l>fyrrnefndur<s n="adj"/></l><r>forenamed<s n="adj"/></r></p></e>
 <!--<e><p><l>fyrrnefndur<s n="adj"/></l><r>above-mentioned<s n="adj"/></r></p></e>-->
     <e><p><l>fyrrverandi<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
-    <e><p><l>fyrstur<s n="adj"/></l><r>first<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>fágaður<s n="adj"/></l><r>sophisticated<s n="adj"/></r></p></e>
 <!--<e><p><l>fágaður<s n="adj"/></l><r>elegant<s n="adj"/></r></p></e>-->
 <!--<e><p><l>fágaður<s n="adj"/></l><r>civilized<s n="adj"/></r></p></e>-->
@@ -6739,7 +6768,6 @@
 <!--<e><p><l>nístandi<s n="adj"/></l><r>penetrating<s n="adj"/></r></p></e>-->
 <!--<e><p><l>nístandi<s n="adj"/></l><r>penetrative<s n="adj"/></r></p></e>-->
 <!--<e><p><l>nístandi<s n="adj"/></l><r>piercing<s n="adj"/></r></p></e>-->
-    <e><p><l>nítjándi<s n="adj"/></l><r>nineteenth<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>núgildandi<s n="adj"/></l><r>current<s n="adj"/></r></p></e>
 <!--<e><p><l>núgildandi<s n="adj"/></l><r>contemporary<s n="adj"/></r></p></e>-->
 <!--<e><p><l>núgildandi<s n="adj"/></l><r>existent<s n="adj"/></r></p></e>-->
@@ -6890,9 +6918,7 @@
     <e><p><l>sjálfsagður<s n="adj"/></l><r>self-evident<s n="adj"/></r></p></e>
 <!--<e><p><l>sjálfsagður<s n="adj"/></l><r>inevitable<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sjálfsagður<s n="adj"/></l><r>sure<s n="adj"/></r></p></e>-->
-    <e><p><l>sjötti<s n="adj"/></l><r>sixth<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>sjötugur<s n="adj"/></l><r>seventy<g><b/>years<b/>old</g><s n="adj"/></r></p></e>
-    <e><p><l>sjöundi<s n="adj"/></l><r>seventh<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>sjúkur<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
 <!--<e><p><l>sjúkur<s n="adj"/></l><r>ill<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sjúkur<s n="adj"/></l><r>diseased<s n="adj"/></r></p></e>-->
@@ -7194,8 +7220,7 @@
 <!--<e><p><l>trúr<s n="adj"/></l><r>loyal<s n="adj"/></r></p></e>-->
     <e><p><l>trúr<s n="adj"/></l><r>faithful<s n="adj"/></r></p></e>
 <!--<e><p><l>trúr<s n="adj"/></l><r>devoted<s n="adj"/></r></p></e>-->
-    <e><p><l>tuttugasti<s n="adj"/></l><r>twentieth<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
-    <e><p><l>tvennur<s n="adj"/></l><r>pair<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
+    <e><p><l>tvenna<s n="adj"/></l><r>pair<s n="adj"/></r></p></e>
 <!--<e><p><l>tvíhliða<s n="adj"/></l><r>two-way<s n="adj"/></r></p></e>-->
     <e><p><l>tvíhliða<s n="adj"/></l><r>two-sided<s n="adj"/></r></p></e>
     <e><p><l>tvítugur<s n="adj"/></l><r>twenty<g><b/>years<b/>old</g><s n="adj"/></r></p></e>
@@ -7215,7 +7240,6 @@
 <!--<e><p><l>tímabundinn<s n="adj"/></l><r>provisional<s n="adj"/></r></p></e>-->
 <!--<e><p><l>tímabundinn<s n="adj"/></l><r>transient<s n="adj"/></r></p></e>-->
     <e><p><l>tímabær<s n="adj"/></l><r>timely<s n="adj"/></r></p></e>
-    <e><p><l>tíundi<s n="adj"/></l><r>tenth<s n="adj"/></r></p></e><!-- why is this adj... shouldn't it be num? -->
     <e><p><l>tíður<s n="adj"/></l><r>frequent<s n="adj"/></r></p></e>
 <!--<e><p><l>tíður<s n="adj"/></l><r>common<s n="adj"/></r></p></e>-->
     <e><p><l>tómur<s n="adj"/></l><r>empty<s n="adj"/></r></p></e>
@@ -7738,7 +7762,6 @@
 <!--<e><p><l>þreytandi<s n="adj"/></l><r>bothersome<s n="adj"/></r></p></e>-->
 <!--<e><p><l>þreytandi<s n="adj"/></l><r>uninteresting<s n="adj"/></r></p></e>-->
     <e><p><l>þreyttur<s n="adj"/></l><r>tired<s n="adj"/></r></p></e>
-    <e><p><l>þriðji<s n="adj"/></l><r>third<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>þroskaður<s n="adj"/></l><r>mature<s n="adj"/></r></p></e>
 <!--<e><p><l>þroskaður<s n="adj"/></l><r>aged<s n="adj"/></r></p></e>-->
 <!--<e><p><l>þroskaður<s n="adj"/></l><r>developed<s n="adj"/></r></p></e>-->
@@ -7773,7 +7796,6 @@
 <!--<e><p><l>þéttur<s n="adj"/></l><r>tight<s n="adj"/></r></p></e>-->
     <e><p><l>þéttur<s n="adj"/></l><r>dense<s n="adj"/></r></p></e>
     <e><p><l>þögull<s n="adj"/></l><r>silent<s n="adj"/></r></p></e>
-    <e><p><l>þúsundastur<s n="adj"/></l><r>thousandth<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>þýskur<s n="adj"/></l><r>German<s n="adj"/></r></p></e>
 <!--<e><p><l>þýðingarmikill<s n="adj"/></l><r>important<s n="adj"/></r></p></e>-->
 <!--<e><p><l>þýðingarmikill<s n="adj"/></l><r>meaningful<s n="adj"/></r></p></e>-->
