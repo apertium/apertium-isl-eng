@@ -280,6 +280,10 @@
 
     </pardef>
 
+    <pardef n="Aa">
+      <e r="LR"><i>A</i></e>
+      <e r="RL"><p><l>A</l><r>a</r></p></e>
+    </pardef>
     <pardef n="Bb">
       <e r="LR"><i>B</i></e>
       <e r="RL"><p><l>B</l><r>b</r></p></e>
@@ -19957,6 +19961,7 @@
     <e lm="accountant"><i>accountant</i><par n="house__n"/></e>
     <e lm="accounting"><i>accounting</i><par n="house__n"/></e>
     <e lm="accumulation"><i>accumulation</i><par n="house__n"/></e>
+    <e lm="prerequisite"><i>prerequisite</i><par n="house__n"/></e>
     <e lm="accuracy"><i>accurac</i><par n="bab/y__n"/></e>
     <e lm="ace"><i>ace</i><par n="house__n"/></e>
     <e lm="achievement"><i>achievement</i><par n="house__n"/></e>
@@ -22946,7 +22951,7 @@
     <e lm="movie"><i>movie</i><par n="house__n"/></e>
     <e lm="mucosa"><i>mucosa</i><par n="house__n"/></e>
     <e lm="mucus"><i>mucus</i><par n="access__n"/></e>
-    <e lm="mucus"><i>mucus</i><par n="access__n"/></e>
+    <e lm="Christmas"><par n="Cc"/><i>hristmas</i><par n="access__n"/></e>
     <e lm="mud"><i>mud</i><par n="house__n"/></e>
     <e lm="mulch"><i>mulch</i><par n="access__n"/></e>
     <e lm="multinational"><i>multinational</i><par n="house__n"/></e>
@@ -23421,6 +23426,7 @@
     <e lm="poet"><i>poet</i><par n="house__n"/></e>
     <e lm="poetry"><i>poetr</i><par n="bab/y__n"/></e>
     <e lm="point"><i>point</i><par n="house__n"/></e>
+    <e lm="point of view"><i>point</i><par n="house__n"/><p><l><b/>of<b/>view</l><r><g><b/>of<b/>view</g></r></p></e>
     <e lm="poison"><i>poison</i><par n="house__n"/></e>
     <e lm="poisoning"><i>poisoning</i><par n="house__n"/></e>
     <e lm="polarisation"><i>polarisation</i><par n="house__n"/></e>
@@ -24631,6 +24637,7 @@
     <e lm="tournament"><i>tournament</i><par n="house__n"/></e>
     <e lm="towel"><i>towel</i><par n="house__n"/></e>
     <e lm="tower"><i>tower</i><par n="house__n"/></e>
+    <e lm="prayer tower"><i>prayer<b/>tower</i><par n="house__n"/></e>
     <e lm="town"><i>town</i><par n="house__n"/></e>
     <e lm="town council"><i>town<b/>council</i><par n="house__n"/></e>
     <e lm="town hall"><i>town<b/>hall</i><par n="house__n"/></e>
@@ -38892,17 +38899,17 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
-    <e lm="Afghan"><i>Afghan</i><par n="expensive__adj"/></e>
-    <e lm="African"><i>African</i><par n="expensive__adj"/></e>
-    <e lm="Albanian"><i>Albanian</i><par n="expensive__adj"/></e>
-    <e lm="American"><i>American</i><par n="expensive__adj"/></e>
-    <e lm="Andorran"><i>Andorran</i><par n="expensive__adj"/></e>
-    <e lm="Anglo-Saxon"><i>Anglo-Saxon</i><par n="expensive__adj"/></e>
-    <e lm="Arab"><i>Arab</i><par n="expensive__adj"/></e>
-    <e lm="Argentinian"><i>Argentinian</i><par n="expensive__adj"/></e>
-    <e lm="Asian"><i>Asian</i><par n="expensive__adj"/></e>
-    <e lm="Australian"><i>Australian</i><par n="expensive__adj"/></e>
-    <e lm="Austrian"><i>Austrian</i><par n="expensive__adj"/></e>
+    <e lm="Afghan"><par n="Aa"/><i>Afghan</i><par n="expensive__adj"/></e>
+    <e lm="African"><par n="Aa"/><i>African</i><par n="expensive__adj"/></e>
+    <e lm="Albanian"><par n="Aa"/><i>Albanian</i><par n="expensive__adj"/></e>
+    <e lm="American"><par n="Aa"/><i>American</i><par n="expensive__adj"/></e>
+    <e lm="Andorran"><par n="Aa"/><i>Andorran</i><par n="expensive__adj"/></e>
+    <e lm="Anglo-Saxon"><par n="Aa"/><i>Anglo-Saxon</i><par n="expensive__adj"/></e>
+    <e lm="Arab"><par n="Aa"/><i>Arab</i><par n="expensive__adj"/></e>
+    <e lm="Argentinian"><par n="Aa"/><i>Argentinian</i><par n="expensive__adj"/></e>
+    <e lm="Asian"><par n="Aa"/><i>Asian</i><par n="expensive__adj"/></e>
+    <e lm="Australian"><par n="Aa"/><i>Australian</i><par n="expensive__adj"/></e>
+    <e lm="Austrian"><par n="Aa"/><i>Austrian</i><par n="expensive__adj"/></e>
     <e lm="Balearic"><par n="Bb"/><i>alearic</i><par n="expensive__adj"/></e>
     <e lm="Balkan"><par n="Bb"/><i>alkan</i><par n="expensive__adj"/></e>
     <e lm="Bavarian"><par n="Bb"/><i>avarian</i><par n="expensive__adj"/></e>
@@ -40828,6 +40835,7 @@
     <e lm="elite"><i>elite</i><par n="expensive__adj"/></e>
     <e lm="polite"><i>polite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="expensive__adj"/></e>
+    <e lm="opposite"><i>opposite</i><par n="maybe__adv"/></e>
     <e lm="talkative"><i>talkative</i><par n="expensive__adj"/></e>
     <e lm="contemplative"><i>contemplative</i><par n="expensive__adj"/></e>
     <e lm="inactive"><i>inactive</i><par n="expensive__adj"/></e>
@@ -41232,7 +41240,9 @@
     <e lm="modulate"><i>modulat</i><par n="liv/e__vblex"/></e>
     <e lm="circumscribe"><i>circumscrib</i><par n="liv/e__vblex"/></e>
     <e lm="cite"><i>cit</i><par n="liv/e__vblex"/></e>
-    <e lm="civilize"><i>civiliz</i><par n="liv/e__vblex"/></e>
+    <e lm="civilise"><i>civilis</i><par n="liv/e__vblex"/></e>
+    <e lm="mobilise"><i>mobilis</i><par n="liv/e__vblex"/></e>
+    <e lm="immobilise"><i>immobilis</i><par n="liv/e__vblex"/></e>
     <e lm="claim"><i>claim</i><par n="accept__vblex"/></e>
     <e lm="clarify"><i>clarif</i><par n="appl/y__vblex"/></e>
     <e lm="classify"><i>classif</i><par n="appl/y__vblex"/></e>
@@ -42588,6 +42598,8 @@
     <e lm="a bit"><i>a<b/>bit</i><par n="maybe__adv"/></e>
     <e lm="a little bit"><i>a<b/>little<b/>bit</i><par n="maybe__adv"/></e>
     <e lm="a lot"><i>a<b/>lot</i><par n="maybe__adv"/></e>
+    <e lm="over the weekend"><i>over<b/>the<b/>weekend</i><par n="maybe__adv"/></e>
+    <e lm="after the weekend"><i>after<b/>the<b/>weekend</i><par n="maybe__adv"/></e>
     <e lm="about"><i>about</i><par n="maybe__adv"/></e>
     <e lm="above"><i>above</i><par n="maybe__adv"/></e>
     <e lm="above all"><i>above<b/>all</i><par n="maybe__adv"/></e>
@@ -43375,12 +43387,12 @@
     <e r="RL"><i>without<b/>saying<b/>a<b/>word</i><par n="maybe__adv"/></e>
     <e r="RL"><i>without<b/>taking<b/>precautions</i><par n="maybe__adv"/></e>
     <e lm="wonderfully"><i>wonderfully</i><par n="maybe__adv"/></e>
-    <e lm="wonderfully"><i>wonderfully</i><par n="maybe__adv"/></e>
     <e lm="worldwide"><i>worldwide</i><par n="maybe__adv"/></e>
     <e lm="wrong"><i>wrong</i><par n="maybe__adv"/></e>
     <e lm="wrongly"><i>wrongly</i><par n="maybe__adv"/></e>
     <e lm="yes"><i>yes</i><par n="maybe__adv"/></e>
     <e lm="yesterday"><i>yesterday</i><par n="maybe__adv"/></e>
+    <e lm="yesterday evening"><i>yesterday<b/>evening</i><par n="maybe__adv"/></e>
     <e lm="yet"><i>yet</i><par n="maybe__adv"/></e>
     <e lm="ago"><i>ago</i><par n="maybe__adv"/></e>
     <e lm="last night"><i>last<b/>night</i><par n="maybe__adv"/></e>

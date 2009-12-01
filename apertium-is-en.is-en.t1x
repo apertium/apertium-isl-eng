@@ -88,6 +88,7 @@
     <cat-item tags="det.ind.*"/>
     <cat-item tags="det.def.*"/>
     <cat-item tags="det.dem.*"/>
+    <cat-item tags="det.qnt.*"/>
   </def-cat>
 
   <def-cat n="prn">
@@ -182,6 +183,7 @@
      <attr-item tags="det.pos"/>
      <attr-item tags="det.def"/>
      <attr-item tags="det.ind"/>
+     <attr-item tags="det.qnt"/>
   </def-attr>
 
   <def-attr n="a_poss">
@@ -338,10 +340,16 @@
 
                 <when>
                   <test> <!-- If the tense is 'pss' -->
-                    <equal>
-                      <clip pos="1" side="sl" part="temps"/>
-                      <lit-tag v="pss"/>
-                    </equal>
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="past"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pss"/>
+                      </equal>
+                    </or>
                   </test> 
                   <let> <!-- Set the tense to 'pres' -->
                     <clip pos="1" side="tl" part="temps"/>
@@ -411,10 +419,16 @@
                 </when>
                 <when>
                   <test> <!-- If the tense is 'pss' -->
-                    <equal>
-                      <clip pos="1" side="sl" part="temps"/>
-                      <lit-tag v="pss"/>
-                    </equal>
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="past"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pss"/>
+                      </equal>
+                    </or>
                   </test> 
                   <let> <!-- Set the tense to 'pres' -->
                     <clip pos="1" side="tl" part="temps"/>
@@ -517,10 +531,16 @@
             </when>
             <when> 
               <test>
-                <equal>
-                  <clip pos="1" side="sl" part="temps"/>
-                  <lit-tag v="pss"/>
-                </equal>
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="past"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pss"/>
+                      </equal>
+                    </or>
               </test>
               <let>
                 <clip pos="1" side="tl" part="temps"/>
@@ -1140,6 +1160,26 @@
   </rule><!-- END rule for adjectives -->
 
 
+  <rule comment="REGLA: Det"><!-- rule for adjectives -->
+     <pattern>
+       <pattern-item n="det"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="det" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="DET"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_det"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
 
   <rule comment="REGLA: Prep"><!-- rule for prepositions -->
      <pattern>

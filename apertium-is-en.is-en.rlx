@@ -281,7 +281,7 @@ REMOVE (imp) (NOT -1 CLB);
 
 # Ég sé hesta
 
-REMOVE TempsIrreal + VerbAux IF (NOT -1C* CS) (NOT -1 BOS);
+REMOVE TempsIrreal + VerbAux IF (NOT -1* CS) (NOT -1 BOS);
 
 SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
 
@@ -289,7 +289,7 @@ SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
 SELECT:r52 MODV IF (1C Inf);
 
 # Ég las bókina
-SELECT:r53 $$PERSON IF (-1C PersPron + $$PERSON)(0 VerbFin);
+SELECT:r53 $$PERSON IF (-1 PersPron + $$PERSON)(0 VerbFin);
 
 # The modals munu and skulu can never be preceded by another auxiliary. (p.10)
 REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
