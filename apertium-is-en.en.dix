@@ -20297,6 +20297,7 @@
     <e lm="axis"><i>ax</i><par n="analys/is__n"/></e>
     <e lm="axe"><i>axe</i><par n="house__n"/></e>
     <e lm="baby"><i>bab</i><par n="bab/y__n"/></e>
+    <e lm="navy"><i>nav</i><par n="bab/y__n"/></e>
     <e lm="bacillus"><i>bacillus</i><par n="access__n"/></e>
     <e lm="back"><i>back</i><par n="house__n"/></e>
     <e lm="background"><i>background</i><par n="house__n"/></e>
@@ -23263,6 +23264,7 @@
     <e lm="parrot"><i>parrot</i><par n="house__n"/></e>
     <e lm="parsimony"><i>parsimon</i><par n="bab/y__n"/></e>
     <e lm="party"><i>part</i><par n="bab/y__n"/></e>
+    <e lm="political party"><i>political<b/>part</i><par n="bab/y__n"/></e>
     <e lm="part"><i>part</i><par n="house__n"/></e>
     <e lm="participant"><i>participant</i><par n="house__n"/></e>
     <e lm="participation"><i>participation</i><par n="house__n"/></e>

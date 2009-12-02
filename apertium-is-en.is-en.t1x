@@ -287,7 +287,7 @@
       <choose>
         <when>
           <test>
-            <equal>
+            <equal caseless="yes">
               <clip pos="1" side="sl" part="lem"/>
               <lit v="vera"/>
             </equal>
@@ -2156,13 +2156,12 @@
             </lu>
           </chunk>
         </out>
+        <let>
+          <var n="cur_verb_fin"/>
+          <lit v=""/>
+        </let>
      </action>
   </rule>
-
-
-
-
-
 
 </section-rules>
 
