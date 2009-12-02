@@ -300,6 +300,10 @@
       <e r="LR"><i>I</i></e>
       <e r="RL"><p><l>I</l><r>i</r></p></e>
     </pardef>
+    <pardef n="Ll">
+      <e r="LR"><i>L</i></e>
+      <e r="RL"><p><l>L</l><r>l</r></p></e>
+    </pardef>
     <pardef n="Mm">
       <e r="LR"><i>M</i></e>
       <e r="RL"><p><l>M</l><r>m</r></p></e>
@@ -19936,6 +19940,7 @@
     <e lm="abdication"><i>abdication</i><par n="house__n"/></e>
     <e lm="abdomen"><i>abdomen</i><par n="house__n"/></e>
     <e lm="aberration"><i>aberration</i><par n="house__n"/></e>
+    <e lm="declaration"><i>declaration</i><par n="house__n"/></e>
     <e lm="ability"><i>abilit</i><par n="bab/y__n"/></e>
     <e lm="ablation"><i>ablation</i><par n="house__n"/></e>
     <e lm="abnegation"><i>abnegation</i><par n="house__n"/></e>
@@ -38972,10 +38977,10 @@
     <e lm="Jordanian"><i>Jordanian</i><par n="expensive__adj"/></e>
     <e lm="Kenyan"><i>Kenyan</i><par n="expensive__adj"/></e>
     <e lm="Korean"><i>Korean</i><par n="expensive__adj"/></e>
-    <e lm="Latin"><i>Latin</i><par n="expensive__adj"/></e>
-    <e lm="Latvian"><i>Latvian</i><par n="expensive__adj"/></e>
-    <e lm="Lebanese"><i>Lebanese</i><par n="expensive__adj"/></e>
-    <e lm="Lithuanian"><i>Lithuanian</i><par n="expensive__adj"/></e>
+    <e lm="Latin"><par n="Ll"/><i>atin</i><par n="expensive__adj"/></e>
+    <e lm="Latvian"><par n="Ll"/><i>atvian</i><par n="expensive__adj"/></e>
+    <e lm="Lebanese"><par n="Ll"/><i>ebanese</i><par n="expensive__adj"/></e>
+    <e lm="Lithuanian"><par n="Ll"/><i>ithuanian</i><par n="expensive__adj"/></e>
     <e lm="Majorcan"><i>Majorcan</i><par n="expensive__adj"/></e>
     <e lm="Maltese"><i>Maltese</i><par n="expensive__adj"/></e>
     <e lm="Marxist"><i>Marxist</i><par n="expensive__adj"/></e>
@@ -43963,6 +43968,7 @@
     <e><par n="cometa"/></e>
     <e><par n="paresq"/></e>
     <e><par n="pardret"/></e>
+    <e><par n="persons"/></e>
     <e><par n="separ"/></e>
     <e><par n="guionet"/></e>
     <e><par n="emails"/></e>

@@ -5763,6 +5763,7 @@
     <e><p><l>ópersónulegur<s n="adj"/></l><r>impersonal<s n="adj"/></r></p></e>
     <e><p><l>gulur<s n="adj"/></l><r>yellow<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>íslenskur<s n="adj"/></l><r>Icelandic<s n="adj"/></r></p></e>
+    <e><p><l>litháískur<s n="adj"/></l><r>Lithuanian<s n="adj"/></r></p></e>
     <e><p><l>enskur<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
     <e><p><l>afrískur<s n="adj"/></l><r>African<s n="adj"/></r></p></e>
     <e><p><l>hvítur<s n="adj"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
@@ -11014,11 +11015,11 @@
 
     <e>
       <re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re> 
-      <p><l>óttir<s n="np"/><s n="cog"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p>
+      <p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p>
     </e>
     <e>
       <re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re> 
-      <p><l>on<s n="np"/><s n="cog"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p>
+      <p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p>
     </e>
 
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
