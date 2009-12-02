@@ -5130,7 +5130,7 @@
     <e><p><l>þilfar<s n="n"/><s n="nt"/></l><r>deck<s n="n"/></r></p></e>
     <e><p><l>þind<s n="n"/><s n="f"/></l><r>diaphragm<s n="n"/></r></p></e>
     <e><p><l>þing<s n="n"/><s n="nt"/></l><r>parliament<s n="n"/></r></p></e>
-    <e><p><l>þingmaður<s n="n"/><s n="m"/></l><r>Member<b/>of<b/>Parliament<s n="n"/></r></p></e> <!-- (MP) who in Iceland attend the meetings held at Althing -->
+    <e><p><l>þingmaður<s n="n"/><s n="m"/></l><r>member<g><b/>of<b/>parliament</g><s n="n"/></r></p></e> <!-- (MP) who in Iceland attend the meetings held at Althing -->
     <e><p><l>þinur<s n="n"/><s n="m"/></l><r>fir<s n="n"/></r></p></e>
     <e><p><l>þistill<s n="n"/><s n="m"/></l><r>thistle<s n="n"/></r></p></e>
     <e><p><l>þjófnaður<s n="n"/><s n="m"/></l><r>theft<s n="n"/></r></p></e>
@@ -5521,6 +5521,7 @@
 
 
 
+    <e><p><l>Stefán<s n="np"/><s n="ant"/><s n="m"/></l><r>Stefán<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Björn<s n="np"/><s n="ant"/><s n="m"/></l><r>Björn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Friðrik<s n="np"/><s n="ant"/><s n="m"/></l><r>Friðrik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Einir<s n="np"/><s n="ant"/><s n="m"/></l><r>Einir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
