@@ -3179,9 +3179,10 @@
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>cup<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>speech<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>-->
-    <e><p><l>mál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>affair<s n="n"/></r></p></e>-->
+    <e><p><l>mál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>
+
     <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>attorney<s n="n"/></r></p></e>-->
     <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>-->
     <e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>trial<b/>lawyer<s n="n"/></r></p></e>
@@ -3304,7 +3305,7 @@
     <e><p><l>norðaustur<s n="n"/><s n="nt"/></l><r>northeast<s n="n"/></r></p></e>
     <e><p><l>norður<s n="n"/><s n="nt"/></l><r>north<s n="n"/></r></p></e>
     <e><p><l>norðurhvel<s n="n"/><s n="nt"/></l><r>northern<b/>hemisphere<s n="n"/></r></p></e>
-    <e><p><l>norðurljós<s n="n"/><s n="nt"/></l><r>aurora<b/>borealis<s n="n"/></r></p></e>
+    <e r="RL"><p><l>norðurljós<s n="n"/><s n="nt"/></l><r>aurora<b/>borealis<s n="n"/></r></p></e>
     <e><p><l>norðurljós<s n="n"/><s n="nt"/></l><r>northern<b/>lights<s n="n"/></r></p></e>
     <e><p><l>nostalgía<s n="n"/><s n="f"/></l><r>nostalgia<s n="n"/></r></p></e>
     <e><p><l>not<s n="n"/><s n="nt"/></l><r>use<s n="n"/></r></p></e>

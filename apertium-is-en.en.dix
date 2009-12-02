@@ -38909,17 +38909,17 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
-    <e lm="Afghan"><par n="Aa"/><i>Afghan</i><par n="expensive__adj"/></e>
-    <e lm="African"><par n="Aa"/><i>African</i><par n="expensive__adj"/></e>
-    <e lm="Albanian"><par n="Aa"/><i>Albanian</i><par n="expensive__adj"/></e>
-    <e lm="American"><par n="Aa"/><i>American</i><par n="expensive__adj"/></e>
-    <e lm="Andorran"><par n="Aa"/><i>Andorran</i><par n="expensive__adj"/></e>
-    <e lm="Anglo-Saxon"><par n="Aa"/><i>Anglo-Saxon</i><par n="expensive__adj"/></e>
-    <e lm="Arab"><par n="Aa"/><i>Arab</i><par n="expensive__adj"/></e>
-    <e lm="Argentinian"><par n="Aa"/><i>Argentinian</i><par n="expensive__adj"/></e>
-    <e lm="Asian"><par n="Aa"/><i>Asian</i><par n="expensive__adj"/></e>
-    <e lm="Australian"><par n="Aa"/><i>Australian</i><par n="expensive__adj"/></e>
-    <e lm="Austrian"><par n="Aa"/><i>Austrian</i><par n="expensive__adj"/></e>
+    <e lm="Afghan"><par n="Aa"/><i>fghan</i><par n="expensive__adj"/></e>
+    <e lm="African"><par n="Aa"/><i>frican</i><par n="expensive__adj"/></e>
+    <e lm="Albanian"><par n="Aa"/><i>lbanian</i><par n="expensive__adj"/></e>
+    <e lm="American"><par n="Aa"/><i>merican</i><par n="expensive__adj"/></e>
+    <e lm="Andorran"><par n="Aa"/><i>ndorran</i><par n="expensive__adj"/></e>
+    <e lm="Anglo-Saxon"><par n="Aa"/><i>nglo-Saxon</i><par n="expensive__adj"/></e>
+    <e lm="Arab"><par n="Aa"/><i>rab</i><par n="expensive__adj"/></e>
+    <e lm="Argentinian"><par n="Aa"/><i>rgentinian</i><par n="expensive__adj"/></e>
+    <e lm="Asian"><par n="Aa"/><i>sian</i><par n="expensive__adj"/></e>
+    <e lm="Australian"><par n="Aa"/><i>ustralian</i><par n="expensive__adj"/></e>
+    <e lm="Austrian"><par n="Aa"/><i>ustrian</i><par n="expensive__adj"/></e>
     <e lm="Balearic"><par n="Bb"/><i>alearic</i><par n="expensive__adj"/></e>
     <e lm="Balkan"><par n="Bb"/><i>alkan</i><par n="expensive__adj"/></e>
     <e lm="Bavarian"><par n="Bb"/><i>avarian</i><par n="expensive__adj"/></e>
