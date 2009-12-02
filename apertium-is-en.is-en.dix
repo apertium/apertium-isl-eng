@@ -2285,7 +2285,7 @@
     <!--<e><p><l>hótfyndni<s n="n"/><s n="f"/></l><r>pettiness<s n="n"/></r></p></e>-->
     <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>port<s n="n"/></r></p></e>-->
     <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbour<s n="n"/></r></p></e>--> <!-- British English spelling -->
-    <e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbor<s n="n"/></r></p></e>
+    <e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbour<s n="n"/></r></p></e>
     <e><p><l>höfrungur<s n="n"/><s n="m"/></l><r>dolphin<s n="n"/></r></p></e>
     <e><p><l>höfundarréttur<s n="n"/><s n="m"/></l><r>copyright<s n="n"/></r></p></e>
     <e><p><l>höfundur<s n="n"/><s n="m"/></l><r>author<s n="n"/></r></p></e>
@@ -5598,6 +5598,7 @@
     <e><p><l>Þjóðrekur<s n="np"/><s n="ant"/><s n="m"/></l><r>Þjóðrekur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Pála<s n="np"/><s n="ant"/><s n="f"/></l><r>Pála<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Linda<s n="np"/><s n="ant"/><s n="f"/></l><r>Linda<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Helga<s n="np"/><s n="ant"/><s n="f"/></l><r>Helga<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Aþena<s n="np"/><s n="ant"/><s n="f"/></l><r>Aþena<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Dagbjartur<s n="np"/><s n="ant"/><s n="m"/></l><r>Dagbjartur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
