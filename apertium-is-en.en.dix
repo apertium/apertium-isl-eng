@@ -13693,6 +13693,15 @@
 
 
     </pardef>
+
+    <pardef n="persons">
+      <!-- Ásta Árnadóttir, Ásta Á. Árnadóttir -->
+      <e><re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
+      <!-- Davíð Oddsson, Davíð D. Oddsson -->
+      <e><re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
+    </pardef>
+
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -38988,15 +38997,15 @@
     <e lm="Protestant"><i>Protestant</i><par n="expensive__adj"/></e>
     <e lm="Russian"><i>Russian</i><par n="expensive__adj"/></e>
     <e lm="Russian"><i>Russian</i><par n="expensive__adj"/></e>
-    <e lm="Scandinavian"><i>Scandinavian</i><par n="expensive__adj"/></e>
-    <e lm="Scottish"><i>Scottish</i><par n="expensive__adj"/></e>
-    <e lm="Somali"><i>Somali</i><par n="expensive__adj"/></e>
-    <e lm="Soviet"><i>Soviet</i><par n="expensive__adj"/></e>
-    <e lm="Spanish"><i>Spanish</i><par n="expensive__adj"/></e>
-    <e lm="Sudanese"><i>Sudanese</i><par n="expensive__adj"/></e>
-    <e lm="Swedish"><i>Swedish</i><par n="expensive__adj"/></e>
-    <e lm="Swiss"><i>Swiss</i><par n="expensive__adj"/></e>
-    <e lm="Syrian"><i>Syrian</i><par n="expensive__adj"/></e>
+    <e lm="Scandinavian"><par n="Ss"/><i>candinavian</i><par n="expensive__adj"/></e>
+    <e lm="Scottish"><par n="Ss"/><i>cottish</i><par n="expensive__adj"/></e>
+    <e lm="Somali"><par n="Ss"/><i>omali</i><par n="expensive__adj"/></e>
+    <e lm="Soviet"><par n="Ss"/><i>oviet</i><par n="expensive__adj"/></e>
+    <e lm="Spanish"><par n="Ss"/><i>panish</i><par n="expensive__adj"/></e>
+    <e lm="Sudanese"><par n="Ss"/><i>udanese</i><par n="expensive__adj"/></e>
+    <e lm="Swedish"><par n="Ss"/><i>wedish</i><par n="expensive__adj"/></e>
+    <e lm="Swiss"><par n="Ss"/><i>wiss</i><par n="expensive__adj"/></e>
+    <e lm="Syrian"><par n="Ss"/><i>yrian</i><par n="expensive__adj"/></e>
     <e lm="Taiwanese"><i>Taiwanese</i><par n="expensive__adj"/></e>
     <e lm="Thai"><i>Thai</i><par n="expensive__adj"/></e>
     <e lm="Turkish"><i>Turkish</i><par n="expensive__adj"/></e>
