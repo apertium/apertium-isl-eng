@@ -149,6 +149,16 @@
     </pipeline>
   </mode>
 
+  <mode name="is-en-tagger2">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="is-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+    </pipeline>
+  </mode>
 
 
 </modes>
