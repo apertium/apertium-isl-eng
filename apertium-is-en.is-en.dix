@@ -2965,7 +2965,7 @@
  <!-- TODO:  Why was this LR/RL done?  I don't think "lögregla" is ever plural in Icelandic - MDB -->
     <e r="LR"><p><l>lögregla<s n="n"/><s n="f"/><s n="sg"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>lögregla<s n="n"/><s n="f"/><s n="pl"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>lögregla<s n="n"/><s n="f"/><s n="GD"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>lögregla<s n="n"/><s n="f"/><s n="ND"/></l><r>police<s n="n"/><s n="pl"/></r></p></e>
 
     <e><p><l>lögreglumaður<s n="n"/><s n="m"/></l><r>policeman<s n="n"/></r></p></e>
     <e><p><l>lögreglustöð<s n="n"/><s n="f"/></l><r>police<b/>station<s n="n"/></r></p></e>
