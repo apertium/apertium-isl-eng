@@ -7,6 +7,8 @@ LIST EOS              = (<<<);
 LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja";
 LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
 
+LIST Islands          = "England" "Ísland" ;
+
 LIST PrnPos           = (prn pos);
 LIST PrnPersAnim      = (prn p1) (prn p2) (prn p3 m) (prn p3 f);
 LIST Ord              = (ord) ("fyrstur"ri);
@@ -64,3 +66,9 @@ SUBSTITUTE (pr) (pr :0) ("við"ri);
 
 # "við" : "to"
 SUBSTITUTE (pr :0) (pr :1) ("við"ri) (-1C* CommVerb) (1C Human);
+
+# "á" : "on"
+SUBSTITUTE (pr) (pr :0) ("á"ri);
+
+# "á" : "in"
+SUBSTITUTE (pr :0) (pr :1) ("á"ri) (1C Islands);

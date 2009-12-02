@@ -119,7 +119,8 @@
     <e><p><l>á<b/>milli<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/><s n=":0"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/><s n=":1"/></l><r>to<s n="pr"/></r></p></e>
-    <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
+    <e><p><l>á<s n="pr"/><s n=":0"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
+    <e><p><l>á<s n="pr"/><s n=":1"/></l><r>in<s n="pr"/></r></p></e>
 
 <!-- Prepositions from Anton's list -->
     <e><p><l>auk<s n="pr"/></l><r>plus<s n="pr"/></r></p></e>
@@ -5311,6 +5312,7 @@
     <e><p><l>tónlistarskóli<s n="n"/><s n="m"/></l><r>conservatory<s n="n"/></r></p></e>
     <e><p><l>hólmi<s n="n"/><s n="m"/></l><r>holm<s n="n"/></r></p></e> <!-- islet -->
     <e><p><l>Dani<s n="n"/><s n="m"/></l><r>Dane<s n="n"/></r></p></e>
+    <e><p><l>Rómverji<s n="n"/><s n="m"/></l><r>Roman<s n="n"/></r></p></e>
     <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( -->
     <e><p><l>framkvæmdastjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>
 <!--    <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
