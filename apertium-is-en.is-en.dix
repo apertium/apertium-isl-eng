@@ -53,7 +53,7 @@
     <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
     <sdef n="sup"/>
     <sdef n="abbr"/>
-    <!--<sdef n="preadv"/> --> <!-- we decided not to use preadv -->
+    <sdef n="preadv"/>  <!-- we decided not to use preadv -->
     <sdef n="GD"/>
     <sdef n="ND"/>
 
@@ -9855,9 +9855,10 @@
   
     <!-- Adverbs -->
     <!-- NB:  we decided not to use preadv, only adv -->
-    <!--<e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>-->
-    <!--<e><p><l>afar<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>-->
-    <!--<e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>-->
+    <!-- Having these as preadv won't break anything -->
+    <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+    <e><p><l>afar<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+    <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
 
     <e><p><l>mjög<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
     <e><p><l>afar<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
@@ -10943,11 +10944,6 @@
 <e><p><l>þ.e.a.s.<s n="abbr"/></l><r>i.e.<s n="abbr"/></r></p></e>
 <e><p><l>þ.m.t.<s n="abbr"/></l><r>incl.<s n="abbr"/></r></p></e>
 <e><p><l>þús.<s n="abbr"/></l><r>thous.<s n="abbr"/></r></p></e>
-
-    <!--<e r="LR"><p><l>m.a.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>-->
-    <!--<e r="LR"><p><l>t.d.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>-->
-    <!--<e><p><l>þ.á.m.<s n="abbr"/></l><r>e.g.<s n="abbr"/></r></p></e>-->
-    <!--<e><p><l>u.þ.b.<s n="abbr"/></l><r>approx.<s n="abbr"/></r></p></e>-->
 
   <!-- END Abbreviations -->
 
