@@ -243,7 +243,7 @@ REMOVE Det IF (0 Det) (0 Pron) (NOT 1 POST-DET);
 SELECT Prep IF (0 ("að"ri)) (1 VerbInf);
 
 #sem leggja fram kæru á hendur ríkinu.
-SELECT Prep IF (0 ("á"ri)) (-1 N) (1C N) (NOT 1C Gen);
+SELECT Prep IF (0 ("[Áá]"ri)) (1C N OR ProperNom) (NOT 1C Gen);
 
 #################################################################################
 # NPs  
