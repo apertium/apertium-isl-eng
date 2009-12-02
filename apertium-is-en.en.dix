@@ -19916,17 +19916,17 @@
     <e lm="Protestant"><i>Protestant</i><par n="house__n"/></e>
     <e lm="Russian"><i>Russian</i><par n="house__n"/></e>
     <e lm="Saturday"><i>Saturday</i><par n="house__n"/></e>
-    <e lm="Scottish"><i>Scottish</i><par n="politics__n"/></e>
-    <e lm="Icelander"><i>Icelander</i><par n="house__n"/></e>
-    <e lm="Spaniard"><i>Spaniard</i><par n="house__n"/></e>
+    <e lm="Icelander"><par n="Ii"/><i>celander</i><par n="house__n"/></e>
+    <e lm="Scottish"><par n="Ss"/><i>cottish</i><par n="politics__n"/></e>
+    <e lm="Spaniard"><par n="Ss"/><i>paniard</i><par n="house__n"/></e>
+    <e lm="Sumerian"><par n="Ss"/><i>umerian</i><par n="house__n"/></e>
+    <e lm="Swede"><par n="Ss"/><i>wede</i><par n="house__n"/></e>
+    <e lm="Swiss"><par n="Ss"/><i>wiss</i><par n="politics__n"/></e>
     <e lm="Dane"><i>Dane</i><par n="house__n"/></e>
-    <e lm="Swede"><i>Swede</i><par n="house__n"/></e>
     <e lm="Briton"><i>Briton</i><par n="house__n"/></e>
     <e lm="Englishman"><i>Englishm</i><par n="m/an__n"/></e>
     <e lm="Valencian"><i>Valencian</i><par n="house__n"/></e>
-    <e lm="Sumerian"><i>Sumerian</i><par n="house__n"/></e>
     <e lm="Sunday"><i>Sunday</i><par n="house__n"/></e>
-    <e lm="Swiss"><i>Swiss</i><par n="politics__n"/></e>
     <e lm="Thursday"><i>Thursday</i><par n="house__n"/></e>
     <e lm="Tuesday"><i>Tuesday</i><par n="house__n"/></e>
     <e lm="Turkish"><i>Turkish</i><par n="politics__n"/></e>
