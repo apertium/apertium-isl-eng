@@ -1,96 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dictionary>
-  <alphabet/>
-  <sdefs>
-    <sdef n="n"/>
-    <sdef n="np"/>
-    <sdef n="ij"/>
-    <sdef n="num"/>
-    <sdef n="adv"/>
-    <sdef n="cnj"/>
-    <sdef n="cnjcoo"/>
-    <sdef n="cnjsub"/>
-    <sdef n="cnjadv"/>
-    <sdef n="ant"/>
-    <sdef n="cog"/>
-    <sdef n="org"/>
-    <sdef n="dem"/>
-    <sdef n="det"/>
-    <sdef n="itg"/>
-    <sdef n="qnt"/>
-    <sdef n="pr"/>
-    <sdef n="sg"/>
-    <sdef n="pl"/>
-    <sdef n="vblex"/>
-    <sdef n="top"/>
-    <sdef n="al"/>
-    <sdef n="vbser"/>
-    <sdef n="vaux"/>
-    <sdef n="vbhaver"/>
-    <sdef n="p1"/>
-    <sdef n="p2"/>
-    <sdef n="p3"/>
-    <sdef n="ref"/>
-    <sdef n="pos"/>
-    <sdef n="pri"/>
-    <sdef n="past"/>
-    <sdef n="prn"/>
-    <sdef n="nom"/>
-    <sdef n="acc"/>
-    <sdef n="dat"/>
-    <sdef n="gen"/>
-    <sdef n="m"/>
-    <sdef n="f"/>
-    <sdef n="mf"/>
-    <sdef n="nt"/>
-    <sdef n="sp"/>
-    <sdef n="def"/>
-    <sdef n="ind"/>
-    <sdef n="actv"/>
-    <sdef n="midv"/>
-    <sdef n="sent"/>
-    <sdef n="adj"/>
-    <sdef n="sint"/> <!-- synthetic adjectve, i.e. blue, bluer, bluest (vs. expensive, more expensive, most expensive) -->
-    <sdef n="sup"/>
-    <sdef n="abbr"/>
-    <sdef n="preadv"/>  <!-- we decided not to use preadv -->
-    <sdef n="GD"/>
-    <sdef n="ND"/>
+<!--
+	Dictionary:
+	Sections: 1
+	Entries: 6455
+	Sdefs: 57
+	Paradigms: 3
 
-    <sdef n=":0"/>
-    <sdef n=":1"/>
-    <sdef n=":2"/>
+-->
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="n" /> 
+    <sdef n="np" /> 
+    <sdef n="ij" /> 
+    <sdef n="num" /> 
+    <sdef n="adv" /> 
+    <sdef n="cnj" /> 
+    <sdef n="cnjcoo" /> 
+    <sdef n="cnjsub" /> 
+    <sdef n="cnjadv" /> 
+    <sdef n="ant" /> 
+    <sdef n="cog" /> 
+    <sdef n="org" /> 
+    <sdef n="dem" /> 
+    <sdef n="det" /> 
+    <sdef n="itg" /> 
+    <sdef n="qnt" /> 
+    <sdef n="pr" /> 
+    <sdef n="sg" /> 
+    <sdef n="pl" /> 
+    <sdef n="vblex" /> 
+    <sdef n="top" /> 
+    <sdef n="al" /> 
+    <sdef n="vbser" /> 
+    <sdef n="vaux" /> 
+    <sdef n="vbhaver" /> 
+    <sdef n="p1" /> 
+    <sdef n="p2" /> 
+    <sdef n="p3" /> 
+    <sdef n="ref" /> 
+    <sdef n="pos" /> 
+    <sdef n="pri" /> 
+    <sdef n="past" /> 
+    <sdef n="prn" /> 
+    <sdef n="nom" /> 
+    <sdef n="acc" /> 
+    <sdef n="dat" /> 
+    <sdef n="gen" /> 
+    <sdef n="m" /> 
+    <sdef n="f" /> 
+    <sdef n="mf" /> 
+    <sdef n="nt" /> 
+    <sdef n="sp" /> 
+    <sdef n="def" /> 
+    <sdef n="ind" /> 
+    <sdef n="actv" /> 
+    <sdef n="midv" /> 
+    <sdef n="sent" /> 
+    <sdef n="adj" /> 
+    <sdef n="sint" /> 
+    <sdef n="sup" /> 
+    <sdef n="abbr" /> 
+    <sdef n="preadv" /> 
+    <sdef n="GD" /> 
+    <sdef n="ND" /> 
+    <sdef n=":0" /> 
+    <sdef n=":1" /> 
+    <sdef n=":2" /> 
   </sdefs>
   <pardefs>
     <pardef n="allur_all__prn">
-      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
-      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
-      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
-      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
-      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
-      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
-      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR">
+      <p>
+        <l><s n="m"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="f"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="nt"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="m"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="f"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="nt"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l><s n="GD"/><s n="ND"/></l>
+        <r><s n="mf"/><s n="sp"/></r>
+      </p>
+    </e>
+
     </pardef>
     <pardef n="annar_another__prn">
-      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR">
+      <p>
+        <l><s n="m"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="f"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="nt"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="m"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="f"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="nt"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l><s n="GD"/><s n="ND"/></l>
+        <r><s n="mf"/><s n="sg"/></r>
+      </p>
+    </e>
+
     </pardef>
     <pardef n="nokkur_some__prn">
-      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="LR">
+      <p>
+        <l><s n="m"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="f"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="nt"/><s n="sg"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="m"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="f"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l><s n="nt"/><s n="pl"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l><s n="GD"/><s n="ND"/></l>
+        <r><s n="mf"/><s n="pl"/></r>
+      </p>
+    </e>
+
     </pardef>
-
-
   </pardefs>
 
   <section id="main" type="standard">
@@ -287,10 +418,10 @@
     <e r="RL"><p><l>þessi<s n="prn"/><s n="dem"/><s n="GD"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
-    <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
-    <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e> 
-    <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>both<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e> 
-    <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e> 
+    <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
+    <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>both<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
 
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -301,7 +432,7 @@
     <e r="RL"><p><l>hver<s n="prn"/><s n="itg"/><s n="GD"/><s n="ND"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
 <!-- <s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/> -->
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e> 
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <!-- Determiners -->
     <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="m"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
@@ -468,12 +599,12 @@
     <e><p><l>afkomandi<s n="n"/><s n="m"/></l><r>descendant<s n="n"/></r></p></e>
     <e><p><l>afkvæmi<s n="n"/><s n="nt"/></l><r>offspring<s n="n"/></r></p></e>
     <e><p><l>afl<s n="n"/><s n="nt"/></l><r>force<s n="n"/></r></p></e>
-    <e><p><l>afl<s n="n"/><s n=":1"/><s n="nt"/></l><r>power<s n="n"/></r></p></e> 
-    <e><p><l>afl<s n="n"/><s n=":2"/><s n="nt"/></l><r>strength<s n="n"/></r></p></e> 
+    <e><p><l>afl<s n="n"/><s n=":1"/><s n="nt"/></l><r>power<s n="n"/></r></p></e>
+    <e><p><l>afl<s n="n"/><s n=":2"/><s n="nt"/></l><r>strength<s n="n"/></r></p></e>
     <e><p><l>aflagssögn<s n="n"/><s n="f"/></l><r>deponent<b/>verb<s n="n"/></r></p></e>
     <e><p><l>afleiða<s n="n"/><s n="f"/></l><r>derive<s n="n"/></r></p></e>
     <e><p><l>afleiðing<s n="n"/><s n="f"/></l><r>result<s n="n"/></r></p></e>
-    <e><p><l>afleiðing<s n="n"/><s n=":1"/><s n="f"/></l><r>consequence<s n="n"/></r></p></e> 
+    <e><p><l>afleiðing<s n="n"/><s n=":1"/><s n="f"/></l><r>consequence<s n="n"/></r></p></e>
     <e><p><l>afleiðing<s n="n"/><s n=":2"/><s n="f"/></l><r>effect<s n="n"/></r></p></e>
     <e><p><l>aflfræði<s n="n"/><s n="f"/></l><r>classical<b/>mechanics<s n="n"/></r></p></e>
     <e><p><l>afmæli<s n="n"/><s n="nt"/></l><r>birthday<s n="n"/></r></p></e>
@@ -482,8 +613,8 @@
     <e><p><l>afríkanska<s n="n"/><s n="f"/></l><r>Afrikaans<s n="n"/></r></p></e>
     <e><p><l>afsláttur<s n="n"/><s n="m"/></l><r>discount<s n="n"/></r></p></e> <!-- (from a price) -->
     <e><p><l>afstaða<s n="n"/><s n="f"/></l><r>stand<s n="n"/></r></p></e>
-    <e><p><l>afstaða<s n="n"/><s n=":1"/><s n="f"/></l><r>attitude<s n="n"/></r></p></e> 
-    <e><p><l>afstaða<s n="n"/><s n=":2"/><s n="f"/></l><r>reaction<s n="n"/></r></p></e> 
+    <e><p><l>afstaða<s n="n"/><s n=":1"/><s n="f"/></l><r>attitude<s n="n"/></r></p></e>
+    <e><p><l>afstaða<s n="n"/><s n=":2"/><s n="f"/></l><r>reaction<s n="n"/></r></p></e>
     <e><p><l>afsteypumót<s n="n"/><s n="nt"/></l><r>mold<s n="n"/></r></p></e> <!-- (sediment surrounding and including the artifacts, features, and other materials at an archaeological site) -->
     <e><p><l>afsökun<s n="n"/><s n="f"/></l><r>excuse<s n="n"/></r></p></e>
     <e><p><l>afturbati<s n="n"/><s n="m"/></l><r>convalescence<s n="n"/></r></p></e>
@@ -557,7 +688,7 @@
     <e><p><l>at<s n="n"/><s n="nt"/></l><r>fight<s n="n"/></r></p></e>
     <e><p><l>atabaskamál<s n="n"/><s n="nt"/></l><r>Ibibio<b/>language<s n="n"/></r></p></e>
     <e><p><l>atburður<s n="n"/><s n="m"/></l><r>event<s n="n"/></r></p></e>
-    <e><p><l>atburður<s n="n"/><s n=":1"/><s n="m"/></l><r>incident<s n="n"/></r></p></e> 
+    <e><p><l>atburður<s n="n"/><s n=":1"/><s n="m"/></l><r>incident<s n="n"/></r></p></e>
     <e><p><l>atferli<s n="n"/><s n="nt"/></l><r>behaviour<s n="n"/></r></p></e>
     <e><p><l>athugun<s n="n"/><s n="f"/></l><r>observation<s n="n"/></r></p></e>
     <e><p><l>athygli<s n="n"/><s n="f"/></l><r>attention<s n="n"/></r></p></e>
@@ -565,12 +696,12 @@
     <e><p><l>atkvæði<s n="n"/><s n="nt"/></l><r>vote<s n="n"/></r></p></e>
 <!--    <e><p><l>atkvæði<s n="n"/><s n="nt"/></l><r>syllable<s n="n"/></r></p></e> -->
     <e><p><l>atriði<s n="n"/><s n="nt"/></l><r>point<s n="n"/></r></p></e>
-    <e><p><l>atriði<s n="n"/><s n=":1"/><s n="nt"/></l><r>scene<s n="n"/></r></p></e> 
+    <e><p><l>atriði<s n="n"/><s n=":1"/><s n="nt"/></l><r>scene<s n="n"/></r></p></e>
     <e><p><l>atvik<s n="n"/><s n="nt"/></l><r>incident<s n="n"/></r></p></e>
     <e><p><l>atviksorð<s n="n"/><s n="nt"/></l><r>adverb<s n="n"/></r></p></e>
     <e><p><l>atvinna<s n="n"/><s n="f"/></l><r>employment<s n="n"/></r></p></e>
-    <e><p><l>atvinna<s n="n"/><s n=":1"/><s n="f"/></l><r>work<s n="n"/></r></p></e> 
-    <e><p><l>atvinna<s n="n"/><s n=":2"/><s n="f"/></l><r>living<s n="n"/></r></p></e> 
+    <e><p><l>atvinna<s n="n"/><s n=":1"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
+    <e><p><l>atvinna<s n="n"/><s n=":2"/><s n="f"/></l><r>living<s n="n"/></r></p></e>
     <e><p><l>atvinnuleysi<s n="n"/><s n="nt"/></l><r>unemployment<s n="n"/></r></p></e>
     <e><p><l>atvinnumaður<s n="n"/><s n="m"/></l><r>professional<s n="n"/></r></p></e>
     <e><p><l>atómmassi<s n="n"/><s n="m"/></l><r>atomic<b/>mass<s n="n"/></r></p></e>
@@ -621,8 +752,8 @@
     <e><p><l>aðgreining<s n="n"/><s n="f"/></l><r>distinction<s n="n"/></r></p></e>
     <e><p><l>aðili<s n="n"/><s n="m"/></l><r>party<s n="n"/></r></p></e>
     <e><p><l>aðstoð<s n="n"/><s n="f"/></l><r>assistance<s n="n"/></r></p></e>
-    <e><p><l>aðstoð<s n="n"/><s n=":1"/><s n="f"/></l><r>help<s n="n"/></r></p></e> 
-    <e><p><l>aðstoð<s n="n"/><s n=":2"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
+    <e><p><l>aðstoð<s n="n"/><s n=":1"/><s n="f"/></l><r>help<s n="n"/></r></p></e>
+    <e><p><l>aðstoð<s n="n"/><s n=":2"/><s n="f"/></l><r>aid<s n="n"/></r></p></e>
     <e><p><l>aðstoðarmaður<s n="n"/><s n="m"/></l><r>assistant<s n="n"/></r></p></e>
     <!-- <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>circumstance<s n="n"/><s n="pl"/></r></p></e> -->
     <e><p><l>aðstæður<s n="n"/><s n="f"/></l><r>condition<s n="n"/></r></p></e>
@@ -659,8 +790,8 @@
 <!--    <e><p><l>bann<s n="n"/><s n="nt"/></l><r>prohibition<s n="n"/></r></p></e> -->
     <e><p><l>barbari<s n="n"/><s n="m"/></l><r>barbarian<s n="n"/></r></p></e>
     <e><p><l>bardagi<s n="n"/><s n="m"/></l><r>fight<s n="n"/></r></p></e>
-    <e><p><l>bardagi<s n="n"/><s n=":1"/><s n="m"/></l><r>battle<s n="n"/></r></p></e> 
-    <e><p><l>bardagi<s n="n"/><s n=":2"/><s n="m"/></l><r>combat<s n="n"/></r></p></e> 
+    <e><p><l>bardagi<s n="n"/><s n=":1"/><s n="m"/></l><r>battle<s n="n"/></r></p></e>
+    <e><p><l>bardagi<s n="n"/><s n=":2"/><s n="m"/></l><r>combat<s n="n"/></r></p></e>
 <!--    <e><p><l>bardagi<s n="n"/><s n="m"/></l><r>brawl<s n="n"/></r></p></e> -->
     <e><p><l>barkakýli<s n="n"/><s n="nt"/></l><r>Adam's<b/>apple<s n="n"/></r></p></e>
 <!--    <e><p><l>barkakýli<s n="n"/><s n="nt"/></l><r>larynx<s n="n"/></r></p></e> -->
@@ -1830,7 +1961,7 @@
     <e><p><l>gúmmí<s n="n"/><s n="nt"/></l><r>rubber<s n="n"/></r></p></e>
   
   
-   <e><p><l>h<s n="n"/><s n="nt"/></l><r>h<s n="n"/></r></p></e>
+    <e><p><l>h<s n="n"/><s n="nt"/></l><r>h<s n="n"/></r></p></e>
     <e><p><l>haf<s n="n"/><s n="nt"/></l><r>sea<s n="n"/></r></p></e>
     <!--<e><p><l>haf<s n="n"/><s n="nt"/></l><r>ocean<s n="n"/></r></p></e>-->
     <e><p><l>hafnín<s n="n"/><s n="nt"/></l><r>hafnium<s n="n"/></r></p></e>
@@ -2392,7 +2523,7 @@
     
     <e><p><l>k<s n="n"/><s n="nt"/></l><r>k<s n="n"/></r></p></e>
     <e><p><l>kadmín<s n="n"/><s n="nt"/></l><r>cadmium<s n="n"/></r></p></e>
-    <e><p><l>kæra<s n="n"/><s n="f"/></l><r>charge<s n="n"/></r></p></e> 
+    <e><p><l>kæra<s n="n"/><s n="f"/></l><r>charge<s n="n"/></r></p></e>
     <!--<e><p><l>kæra<s n="n"/><s n="f"/></l><r>complaint<s n="n"/></r></p></e> -->
     <e><p><l>kaffibrauð<s n="n"/><s n="nt"/></l><r>pastries<s n="n"/></r></p></e>
     <!--<e><p><l>kaffihús<s n="n"/><s n="nt"/></l><r>café<s n="n"/></r></p></e>-->
@@ -5348,7 +5479,7 @@
 <!--    <e><p><l>langur<s n="n"/><s n="m"/></l><r>@<s n="n"/></r></p></e> -->
     <e><p><l>sálfræðingur<s n="n"/><s n="m"/></l><r>psychologist<s n="n"/></r></p></e>
     <e><p><l>stuðningur<s n="n"/><s n="m"/></l><r>support<s n="n"/></r></p></e>
-    <e><p><l>peningur<s n="n"/><s n="m"/><s n="sg"/></l><r>coin<s n="n"/></r></p></e> 
+    <e><p><l>peningur<s n="n"/><s n="m"/><s n="sg"/></l><r>coin<s n="n"/></r></p></e>
     <e><p><l>peningur<s n="n"/><s n="m"/><s n="pl"/></l><r>money<s n="n"/></r></p></e>  <!-- "he's got a lot of coin" ;) -->
     <e><p><l>útreikningur<s n="n"/><s n="m"/></l><r>calculation<s n="n"/></r></p></e>
     <e><p><l>misskilningur<s n="n"/><s n="m"/></l><r>misunderstanding<s n="n"/></r></p></e>
@@ -11018,21 +11149,14 @@
 
     <!-- Punctuation -->
 
-    <e>
-      <re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re> 
-      <p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p>
-    </e>
-    <e>
-      <re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re> 
-      <p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p>
-    </e>
+    <e><re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re><p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([0-9]+)?</re><p><l>˚C<s n="num"/></l><r>˚C<s n="num"/></r></p></e>
-    <e><p><l>klukkan<b/></l><r/></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
+    <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
 
 
   </section>
-
 </dictionary>
