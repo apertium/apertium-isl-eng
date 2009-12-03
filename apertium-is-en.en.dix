@@ -13785,7 +13785,7 @@
     <e lm="Aþena"><i>Aþena</i><par n="Mary__np"/></e>
 
     <e lm="Wikimedia"><i>Wikimedia</i><par n="Wikimedia__np"/></e>
-    <e lm="Independence Party"><i>Independence<b/>Party</i><par n="Wikimedia__np"/></e>
+    <e lm="Independence Party"><par n="Ii"/><i>ndependence<b/>Party</i><par n="Wikimedia__np"/></e>
 
 	
     <e lm="Aablina"><i>Aablina</i><par n="Mary__np"/></e>
@@ -40819,7 +40819,7 @@
     <e lm="considerable"><i>considerable</i><par n="expensive__adj"/></e>
     <e lm="adorable"><i>adorable</i><par n="expensive__adj"/></e>
     <e lm="memorable"><i>memorable</i><par n="expensive__adj"/></e>
-    <e lm="unfavorable"><i>unfavourable</i><par n="expensive__adj"/></e>
+    <e lm="unfavourable"><i>unfavourable</i><par n="expensive__adj"/></e>
     <e lm="pleasurable"><i>pleasurable</i><par n="expensive__adj"/></e>
     <e lm="passable"><i>passable</i><par n="expensive__adj"/></e>
     <e lm="unusable"><i>unusable</i><par n="expensive__adj"/></e>
@@ -40830,7 +40830,6 @@
     <e lm="inconceivable"><i>inconceivable</i><par n="expensive__adj"/></e>
     <e lm="taxable"><i>taxable</i><par n="expensive__adj"/></e>
     <e lm="sizable"><i>sizable</i><par n="expensive__adj"/></e>
-    <e lm="availible"><i>availible</i><par n="expensive__adj"/></e>
     <e lm="sensible"><i>sensible</i><par n="expensive__adj"/></e>
     <e lm="permissible"><i>permissible</i><par n="expensive__adj"/></e>
     <e lm="purple"><i>purple</i><par n="expensive__adj"/></e>
