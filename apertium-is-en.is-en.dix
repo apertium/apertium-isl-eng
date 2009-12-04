@@ -4620,7 +4620,11 @@
     <e><p><l>upphæð<s n="n"/><s n="f"/></l><r>sum<s n="n"/></r></p></e> <!-- of money -->
     <!--<e><p><l>upphæð<s n="n"/><s n="f"/></l><r>amount<s n="n"/></r></p></e>-->
     <e><p><l>uppistöðuefni<s n="n"/><s n="nt"/></l><r>matrix<s n="n"/></r></p></e> <!-- (medium in which bacteria are cultured) -->
-    <e><p><l>upplýsing<s n="n"/><s n="f"/></l><r>information<s n="n"/></r></p></e>
+
+    <e r="LR"><p><l>upplýsing<s n="n"/><s n="f"/><s n="sg"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>upplýsing<s n="n"/><s n="f"/><s n="pl"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>upplýsing<s n="n"/><s n="f"/><s n="ND"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
+
     <e><p><l>upplýsingamiðstöð<s n="n"/><s n="f"/></l><r>information<b/>centre<s n="n"/></r></p></e>
     <e><p><l>uppreisn<s n="n"/><s n="f"/></l><r>rebellion<s n="n"/></r></p></e>
     <!--<e><p><l>uppruni<s n="n"/><s n="m"/></l><r>origin<s n="n"/></r></p></e>-->
