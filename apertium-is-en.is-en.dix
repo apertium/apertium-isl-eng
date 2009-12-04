@@ -9,12 +9,14 @@
     <sdef n="adv" /> 
     <sdef n="cnj" /> 
     <sdef n="cnjcoo" /> 
+    <sdef n="rel" /> 
     <sdef n="cnjsub" /> 
     <sdef n="cnjadv" /> 
     <sdef n="ant" /> 
     <sdef n="cog" /> 
     <sdef n="org" /> 
     <sdef n="dem" /> 
+    <sdef n="an" /> 
     <sdef n="det" /> 
     <sdef n="itg" /> 
     <sdef n="qnt" /> 
@@ -89,9 +91,21 @@
       <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="sem_that__rel">
+      <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
+    <!-- Particles --> 
+  
+    <e><p><l>sem<s n="rel"/><s n=":0"/><s n="an"/></l><r>that<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
+    <e><p><l>sem<s n="rel"/><s n=":1"/><s n="an"/></l><r>which<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
+    <e><p><l>sem<s n="rel"/><s n=":2"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
+
     <!-- Prepositions -->
     <e><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>af<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
@@ -209,7 +223,7 @@
     <e><p><l>úff<s n="ij"/></l><r>phew<s n="ij"/></r></p></e>
 <!-- End interjections from Anton's list -->
 
-
+   
 
     <!-- Conjunctions -->
 

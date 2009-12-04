@@ -300,6 +300,9 @@ REMOVE:r55 VerbFin IF (-1C* VerbFin BARRIER CLB) (0 VerbFin) ;
 REMOVE VerbFin + (p1) IF (NOT -1* (prn p1) BARRIER CLB) (NOT 1* (prn p1) BARRIER CLB) ;
 REMOVE VerbFin + (p2) IF (NOT -1* (prn p2) BARRIER CLB) (NOT 1* (prn p2) BARRIER CLB) ;
 
+#Bandaríkin hafa beðið þær 43 þjóðir sem eru með hermenn í Afganistan að senda 10.000 hermenn
+SELECT ("hafa"ri) + VerbFin IF (1C Participle);
+
 #################################################################################
 # Syntax  
 #################################################################################
@@ -312,6 +315,8 @@ SECTION
 
 LIST @←SUBJ = @←SUBJ;
 LIST @SUBJ→ = @SUBJ→;
+LIST @-FMAINV = @-FMAINV;
+LIST @+FMAINV = @FMAINV; 
 LIST @-FAUXV = @-FAUXV;
 LIST @+FAUXV = @FAUXV; 
 LIST @←N = @←N;
@@ -324,4 +329,8 @@ MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron);
 
 MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
                                         (NOT -1C* VerbAux + TempsFin BARRIER CLB) 
-                                        (0C VerbAux + TempsFin);
+                                        (0C VerbAux + TempsFin) (1C* Participle OR Inf BARRIER CLB + PRE-N);
+
+MAP (@-FMAINV) TARGET Participle (-1C* @+FAUXV BARRIER CLB);
+
+MAP (@N→) TARGET (num) (0C (num)) (1C N);

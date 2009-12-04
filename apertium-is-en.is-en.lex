@@ -86,3 +86,11 @@ SUBSTITUTE (pr :0) (pr :1) ("við"ri) (-1C* CommVerb) (1C Human);
 #    1:"in"
 SUBSTITUTE (pr) (pr :0) ("á"ri);
 SUBSTITUTE (pr :0) (pr :1) ("á"ri) (1C Islands);
+
+##
+## PARTICLES
+##
+
+# "sem" :
+#      0:"that"
+SUBSTITUTE (rel) (rel :0) ("sem"ri);
