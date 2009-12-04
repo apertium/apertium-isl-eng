@@ -41722,6 +41722,7 @@
     <e lm="get"><i>g</i><par n="g/et__vblex"/></e>
     <e lm="get hold of"><i>g</i><par n="g/et__vblex"/><p><l><b/>hold<b/>of</l><r><g><b/>hold<b/>of</g></r></p></e>
     <e lm="get dark"><i>g</i><par n="g/et__vblex"/><p><l><b/>dark</l><r><g><b/>dark</g></r></p></e>
+    <e lm="get there"><i>g</i><par n="g/et__vblex"/><p><l><b/>there</l><r><g><b/>there</g></r></p></e>
     <e lm="give up"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="give back"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="gain"><i>gain</i><par n="accept__vblex"/></e>
