@@ -291,9 +291,11 @@
 
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
     <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
-    <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>both<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
+
+    <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>sumur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>einhver<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
 
     <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
@@ -3182,12 +3184,12 @@
     <e><p><l>sólmyrkvi<s n="n"/><s n="m"/></l><r>solar<b/>eclipse<s n="n"/></r></p></e>
     <e><p><l>tunglmyrkvi<s n="n"/><s n="m"/></l><r>lunar<b/>eclipse<s n="n"/></r></p></e>
     <e><p><l>máfur<s n="n"/><s n="m"/></l><r>gull<s n="n"/></r></p></e>
+    <e><p><l>mál<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e> <!-- 'matter' seems more frequent in news text -->
+    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>cup<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>speech<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>-->
-    <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>affair<s n="n"/></r></p></e>-->
-    <e><p><l>mál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>
 
     <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>attorney<s n="n"/></r></p></e>-->
     <!--<e><p><l>málafærslumaður<s n="n"/><s n="m"/></l><r>barrister<s n="n"/></r></p></e>-->
