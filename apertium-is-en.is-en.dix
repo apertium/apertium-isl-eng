@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	Dictionary:
-	Sections: 1
-	Entries: 6455
-	Sdefs: 57
-	Paradigms: 3
-
--->
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
@@ -70,157 +62,31 @@
   </sdefs>
   <pardefs>
     <pardef n="allur_all__prn">
-    <e r="LR">
-      <p>
-        <l><s n="m"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="f"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="nt"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="m"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="f"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="nt"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l><s n="GD"/><s n="ND"/></l>
-        <r><s n="mf"/><s n="sp"/></r>
-      </p>
-    </e>
-
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="annar_another__prn">
-    <e r="LR">
-      <p>
-        <l><s n="m"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="f"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="nt"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="m"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="f"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="nt"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l><s n="GD"/><s n="ND"/></l>
-        <r><s n="mf"/><s n="sg"/></r>
-      </p>
-    </e>
-
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="nokkur_some__prn">
-    <e r="LR">
-      <p>
-        <l><s n="m"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="f"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="nt"/><s n="sg"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="m"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="f"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l><s n="nt"/><s n="pl"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
-    <e r="RL">
-      <p>
-        <l><s n="GD"/><s n="ND"/></l>
-        <r><s n="mf"/><s n="pl"/></r>
-      </p>
-    </e>
-
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
   </pardefs>
 
@@ -11156,7 +11022,7 @@
   <!-- END Abbreviations -->
 
 
-    <!-- Punctuation -->
+    <!-- Punctuation and guessers -->
 
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re><p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -11167,7 +11033,6 @@
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([0-9]+)?</re><p><l>˚C<s n="num"/></l><r>˚C<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
-
 
   </section>
 </dictionary>
