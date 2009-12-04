@@ -54,6 +54,7 @@
     <sdef n="adj" /> 
     <sdef n="sint" /> 
     <sdef n="sup" /> 
+    <sdef n="comp" /> 
     <sdef n="abbr" /> 
     <sdef n="preadv" /> 
     <sdef n="GD" /> 
@@ -153,14 +154,14 @@
     <e><p><l>handa<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>handan<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
     <e><p><l>inní<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
-    <e><p><l>jafnframt<s n="pr"/></l><r><g>at<b/>the<b/>same<b/></g>time<s n="pr"/></r></p></e>
+    <e><p><l>jafnframt<s n="pr"/></l><r>along<b/>with<s n="pr"/></r></p></e>
     <e><p><l>móti<s n="pr"/></l><r>against<s n="pr"/></r></p></e>
     <e><p><l>norðan<s n="pr"/></l><r>northwardly<s n="pr"/></r></p></e>
     <e><p><l>nálægt<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
     <e><p><l>oní<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
 <!--<e><p><l>oní<s n="pr"/></l><r>down<s n="pr"/></r></p></e>-->
 <!--<e><p><l>samfara<s n="pr"/></l><r>incident<s n="pr"/></r></p></e>-->
-    <e><p><l>samfara<s n="pr"/></l><r>along<g><b/>with</g><s n="pr"/></r></p></e>
+    <e><p><l>samfara<s n="pr"/></l><r>along<b/>with<s n="pr"/></r></p></e>
 <!--<e><p><l>samfara<s n="pr"/></l><r>concomitant<s n="pr"/></r></p></e>-->
     <e><p><l>samkvæmt<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
     <e><p><l>sunnan<s n="pr"/></l><r>southwardly<s n="pr"/></r></p></e>
@@ -168,8 +169,8 @@
 <!--<e><p><l>sökum<s n="pr"/></l><r>because<s n="pr"/></r></p></e>-->
 <!--<e><p><l>sökum<s n="pr"/></l><r>owing<s n="pr"/></r></p></e>-->
     <e><p><l>sökum<s n="pr"/></l><r>due<s n="pr"/></r></p></e>
-<!--<e><p><l>umfram<s n="pr"/></l><r><g>in<b/></g>addition<b/>to<s n="pr"/></r></p></e>-->
-    <e><p><l>umfram<s n="pr"/></l><r><g>in<b/></g>excess<b/>of<s n="pr"/></r></p></e>
+<!--<e><p><l>umfram<s n="pr"/></l><r>in<b/>addition<b/>to<s n="pr"/></r></p></e>-->
+    <e><p><l>umfram<s n="pr"/></l><r>in<b/>excess<b/>of<s n="pr"/></r></p></e>
     <e><p><l>umhverfis<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
     <e><p><l>undan<s n="pr"/></l><r>away<s n="pr"/></r></p></e>
     <e><p><l>uppá<s n="pr"/></l><r>upon<s n="pr"/></r></p></e>
@@ -178,7 +179,7 @@
     <e><p><l>uppí<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
 <!--<e><p><l>uppí<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
 <!--<e><p><l>uppí<s n="pr"/></l><r>towards<s n="pr"/></r></p></e>-->
-    <e><p><l>uppúr<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>
+    <e><p><l>uppúr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vestan<s n="pr"/></l><r>westwardly<s n="pr"/></r></p></e>
 <!--<e><p><l>útaf<s n="pr"/></l><r>off<s n="pr"/></r></p></e>-->
     <e><p><l>útaf<s n="pr"/></l><r>because<s n="pr"/></r></p></e>
@@ -186,13 +187,13 @@
 <!--<e><p><l>útaf<s n="pr"/></l><r>over<s n="pr"/></r></p></e>-->
 <!--<e><p><l>útaf<s n="pr"/></l><r>about<s n="pr"/></r></p></e>-->
 <!--<e><p><l>útum<s n="pr"/></l><r><g>all<b/></g>over<s n="pr"/></r></p></e>-->
-    <e><p><l>útum<s n="pr"/></l><r><g>out<b/></g>through<s n="pr"/></r></p></e>
+    <e><p><l>útum<s n="pr"/></l><r>out<b/>through<s n="pr"/></r></p></e>
 <!--<e><p><l>útum<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>-->
     <e><p><l>útá<s n="pr"/></l><r>onto<s n="pr"/></r></p></e>
 <!--<e><p><l>útá<s n="pr"/></l><r>out<g><b/>on</g><s n="pr"/></r></p></e>-->
     <e><p><l>útí<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
 <!--<e><p><l>útí<s n="pr"/></l><r><g>out<b/></g>into<s n="pr"/></r></p></e>-->
-    <e><p><l>útúr<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>
+    <e><p><l>útúr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>á<b/>móti<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
 <!-- End prepositions from Anton's list -->
 
@@ -235,6 +236,7 @@
 
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>til<b/>að<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e> <!-- Check this -->
     <e><p><l>þegar<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>þá<b/>er<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
@@ -2562,8 +2564,8 @@
     <!--<e><p><l>klósett<s n="n"/><s n="nt"/></l><r>WC<s n="n"/></r></p></e>-->
     <!--<e><p><l>klósett<s n="n"/><s n="nt"/></l><r>toilet<s n="n"/></r></p></e>-->
     <e><p><l>klósettpappír<s n="n"/><s n="m"/></l><r>toilet<b/>paper<s n="n"/></r></p></e>
-    <e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>soccer<s n="n"/></r></p></e>
-    <!--<e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>football<s n="n"/></r></p></e> --> <!-- (sport) -->
+    <e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>football<s n="n"/></r></p></e>
+    <!--<e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>soccer<s n="n"/></r></p></e> --> <!-- (sport) -->
     <e><p><l>kné<s n="n"/><s n="nt"/></l><r>knee<s n="n"/></r></p></e>
     <e><p><l>knéfiðla<s n="n"/><s n="f"/></l><r>cello<s n="n"/></r></p></e> <!-- (musical instrument) -->
     <e><p><l>knús<s n="n"/><s n="nt"/></l><r>cuddle<s n="n"/></r></p></e>
@@ -3388,6 +3390,9 @@
     <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>full-cream<b/>milk<s n="n"/></r></p></e>-->
     <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>fresh<b/>milk<s n="n"/></r></p></e>-->
     <!--<e><p><l>nýmjólk<s n="n"/><s n="f"/></l><r>whole<b/>cream<b/>cow's<b/>milk<s n="n"/></r></p></e>-->
+    <e><p><l>nýting<s n="n"/><s n="f"/></l><r>use<s n="n"/></r></p></e>
+    <!--<e><p><l>nýting<s n="n"/><s n="f"/></l><r>utilisation<s n="n"/></r></p></e>-->
+    <!--<e><p><l>nýting<s n="n"/><s n="f"/></l><r>harnessing<s n="n"/></r></p></e>-->
     <e><p><l>nýra<s n="n"/><s n="nt"/></l><r>kidney<s n="n"/></r></p></e>
     <e><p><l>nýöld<s n="n"/><s n="f"/></l><r>modern<b/>times<s n="n"/></r></p></e>
     
@@ -10050,6 +10055,7 @@
     <e><p><l>þarna<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
     <e><p><l>illa<s n="adv"/></l><r>badly<s n="adv"/></r></p></e>
     <e><p><l>þegar<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+    <e><p><l>jafnframt<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
 
 
   <!-- Adverbs from Anton's list -->
@@ -10332,6 +10338,7 @@
 <!--<e><p><l>nokkurntímann<s n="adv"/></l><r>anytime<s n="adv"/></r></p></e>-->
     <e><p><l>norðar<s n="adv"/></l><r><g>farther<b/></g>north<s n="adv"/></r></p></e>
 <!--<e><p><l>náið<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>-->
+    <e><p><l>náið<s n="adv"/><s n="comp"/></l><r>in<b/>full<s n="adv"/></r></p></e>
     <e><p><l>náið<s n="adv"/><s n="sup"/></l><r>practically<s n="adv"/></r></p></e>
     <e><p><l>náið<s n="adv"/></l><r>intimately<s n="adv"/></r></p></e>
     <e><p><l>nálega<s n="adv"/></l><r>approximately<s n="adv"/></r></p></e>

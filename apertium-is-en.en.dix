@@ -22231,6 +22231,7 @@
     <e lm="hour"><i>hour</i><par n="house__n"/></e>
     <e lm="agenda"><i>agenda</i><par n="house__n"/></e>
     <e lm="house"><i>house</i><par n="house__n"/></e>
+    <e lm="use"><i>use</i><par n="house__n"/></e>
     <e lm="household"><i>household</i><par n="house__n"/></e>
     <e lm="housing"><i>housing</i><par n="house__n"/></e>
     <e lm="human"><i>human</i><par n="house__n"/></e>
@@ -40880,6 +40881,7 @@
     <e lm="polite"><i>polite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="maybe__adv"/></e>
+    <e lm="in full"><i>in<b/>full</i><par n="maybe__adv"/></e>
     <e lm="talkative"><i>talkative</i><par n="expensive__adj"/></e>
     <e lm="contemplative"><i>contemplative</i><par n="expensive__adj"/></e>
     <e lm="inactive"><i>inactive</i><par n="expensive__adj"/></e>
@@ -43985,6 +43987,7 @@
     <e lm="right in front of"><i>right<b/>in<b/>front<b/>of</i><par n="at__pr"/></e>
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="at__pr"/></e>
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="that__cnjsub"/></e>
+    <e lm="to" r="RL"><i>to</i><par n="that__cnjsub"/></e>
 
 
     <e lm="A.D."><i>A.D.</i><par n="e.g.__abbr"/></e>
