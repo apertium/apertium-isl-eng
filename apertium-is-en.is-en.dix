@@ -9153,6 +9153,8 @@
     <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
     <e><p><l>halda<s n="vblex"/><s n=":1"/></l><r>think<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
+    <e><p><l>greiða<s n="vblex"/><s n=":0"/></l><r>pay<s n="vblex"/></r></p></e>
+    <e><p><l>greiða<s n="vblex"/><s n=":1"/></l><r>comb<s n="vblex"/></r></p></e>
     <e><p><l>rúma<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
 <!--<e><p><l>rúma<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>-->
     <e><p><l>rýma<s n="vblex"/></l><r>evacuate<s n="vblex"/></r></p></e>
@@ -10866,6 +10868,7 @@
     <e><p><l>annað<b/>kvöld<s n="adv"/></l><r>tomorrow<b/>night<s n="adv"/></r></p></e>
     <e><p><l>í<b/>ár<s n="adv"/></l><r>this<b/>year<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrra<s n="adv"/></l><r>last<b/>year<s n="adv"/></r></p></e>
+    <e><p><l>til<b/>samans<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
     <e><p><l>í<b/>hittið<b/>fyrra<s n="adv"/></l><r>the<b/>year<b/>last<s n="adv"/></r></p></e>
 
     <e><p><l>í<b/>vor<s n="adv"/></l><r>this<b/>spring<s n="adv"/></r></p></e>

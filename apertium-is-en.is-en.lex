@@ -57,6 +57,13 @@ SUBSTITUTE (vblex :0) (vblex :1) ("skipa"ri) (1C Acc);
 SUBSTITUTE (vblex) (vblex :0) ("lýsa"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("lýsa"ri) (1C Acc);
 
+# "greiða" : 
+#       0:"pay"
+#       1:"comb"
+SUBSTITUTE (vblex) (vblex :0) ("greiða"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("greiða"ri) (1C Dat);
+
+
 ## 
 ## PREPOSITIONS 
 ##
