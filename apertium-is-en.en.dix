@@ -278,7 +278,7 @@
     </pardef>
 
     <pardef n="organisations">
-      <e><re>[A-ZÁÆÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>Ltd.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
+      <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>Ltd.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
 
     </pardef>
 
@@ -13715,9 +13715,9 @@
 
     <pardef n="persons">
       <!-- Ásta Árnadóttir, Ásta Á. Árnadóttir -->
-      <e><re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
+      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
       <!-- Davíð Oddsson, Davíð D. Oddsson -->
-      <e><re>[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
+      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
     </pardef>
 
 
