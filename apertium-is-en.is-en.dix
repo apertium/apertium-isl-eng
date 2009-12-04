@@ -314,7 +314,7 @@
     <e><p><l>sumur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>einhver<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
 
-    <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
+    <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
 
 <!-- <s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/> -->
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -9976,12 +9976,14 @@
     <e><p><l>afar<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
     <e><p><l>virkilega<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
 
-    <e><p><l>hvar<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
-    <e><p><l>hve<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
-    <e><p><l>hvenær<s n="adv"/></l><r>when<s n="adv"/></r></p></e>
-    <e><p><l>hver<s n="adv"/></l><r>who<s n="adv"/></r></p></e>
-    <e><p><l>hvernig<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
-    <e><p><l>hví<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
+    <e><p><l>hvar<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hve<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvenær<s n="adv"/><s n="itg"/></l><r>when<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hver<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvernig<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hví<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvaðan<s n="adv"/></l><r>from<b/>where<s n="adv"/></r></p></e>
+
     <e><p><l>hvort<s n="adv"/></l><r>whether<s n="adv"/></r></p></e>
 
     <e><p><l>oft<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
@@ -10254,11 +10256,9 @@
     <e><p><l>hvarvetna<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
 <!--<e><p><l>hvarvetna<s n="adv"/></l><r>universally<s n="adv"/></r></p></e>-->
     <e><p><l>hvasst<s n="adv"/></l><r>sharply<s n="adv"/></r></p></e>
-    <e><p><l>hvaðan<s n="adv"/></l><r><g>from<b/></g>where<s n="adv"/></r></p></e>
     <e><p><l>hvergi<s n="adv"/></l><r>nowhere<s n="adv"/></r></p></e>
     <e><p><l>hversu<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
     <e><p><l>hvert<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
-    <e><p><l>hví<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
     <e><p><l>hálf<s n="adv"/></l><r>half<s n="adv"/></r></p></e>
     <e><p><l>hæfilega<s n="adv"/></l><r>suitably<s n="adv"/></r></p></e>
 <!--<e><p><l>hæfilega<s n="adv"/></l><r>reasonably<s n="adv"/></r></p></e>-->

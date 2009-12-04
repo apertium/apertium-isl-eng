@@ -277,6 +277,7 @@
   <def-var n="article"/>
   <def-var n="genitiu"/>
 
+  <def-var n="cur_verb_lem"/>
   <def-var n="cur_verb_fin"/>
   <def-var n="cur_subj_prn"/>
   <def-var n="cur_sent_adv"/>
@@ -285,6 +286,10 @@
 <section-def-macros>
 
   <def-macro n="conj_verb1" npar="1">
+      <let>
+        <var n="cur_verb_lem"/>
+        <clip pos="1" side="sl" part="lem"/>
+      </let>
 
       <choose>
         <when>
@@ -2088,6 +2093,65 @@
             </lu>
           </chunk>
         </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: að INF → GER | að gera → doing">
+     <pattern>
+       <pattern-item n="að"/>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <choose>
+         <when>
+           <test>
+             <equal caseless="yes">
+               <var n="cur_verb_lem"/>
+               <lit v="vera"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="2" side="tl" part="temps"/>
+             <lit-tag v="ger"/>
+           </let>
+           <out>
+             <chunk name="ger" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="2" side="sl" part="syntax"/></tag>
+                  <tag><clip pos="2" side="tl" part="temps"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+             <chunk name="inf" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="2" side="sl" part="syntax"/></tag>
+                  <tag><clip pos="2" side="tl" part="temps"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="whole"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
      </action>
   </rule>
 
