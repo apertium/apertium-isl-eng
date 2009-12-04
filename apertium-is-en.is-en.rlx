@@ -296,6 +296,10 @@ REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu"));
 
 REMOVE:r55 VerbFin IF (-1C* VerbFin BARRIER CLB) (0 VerbFin) ;
 
+# *NATO sendi 7.000 hermenn
+REMOVE VerbFin + (p1) IF (NOT -1* (prn p1) BARRIER CLB) (NOT 1* (prn p1) BARRIER CLB) ;
+REMOVE VerbFin + (p2) IF (NOT -1* (prn p2) BARRIER CLB) (NOT 1* (prn p2) BARRIER CLB) ;
+
 #################################################################################
 # Syntax  
 #################################################################################

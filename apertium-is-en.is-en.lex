@@ -63,6 +63,13 @@ SUBSTITUTE (vblex :0) (vblex :1) ("lýsa"ri) (1C Acc);
 SUBSTITUTE (vblex) (vblex :0) ("greiða"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("greiða"ri) (1C Dat);
 
+# "leggja" : 
+#       0:"lay"
+#       1:"park"
+SUBSTITUTE (vblex) (vblex :0) ("leggja"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("leggja"ri) (1C Dat);
+
+
 
 ## 
 ## PREPOSITIONS 

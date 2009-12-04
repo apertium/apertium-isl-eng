@@ -56,6 +56,7 @@
     <sdef n="preadv" /> 
     <sdef n="GD" /> 
     <sdef n="ND" /> 
+
     <sdef n=":0" /> 
     <sdef n=":1" /> 
     <sdef n=":2" /> 
@@ -8824,10 +8825,19 @@
 <!--<e><p><l>lauma<s n="vblex"/></l><r>lurk<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>lauma<s n="vblex"/></l><r>worm<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>lauma<s n="vblex"/></l><r>slide<s n="vblex"/></r></p></e>-->
+
+    <e><p><l>leggja<s n="vblex"/><s n=":0"/></l><r>lay<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<s n="vblex"/><s n=":1"/></l><r>park<s n="vblex"/></r></p></e>
 <!--<e><p><l>leggja<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>-->
-    <e><p><l>leggja<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>hang<g><b/>up</g><s n="vblex"/></r></p></e>
-<!--<e><p><l>leggja<s n="vblex"/></l><r>park<s n="vblex"/></r></p></e>-->
+    <e><p><l>leggja<g><b/>aftur</g><s n="vblex"/></l><r>close<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>niður</g><s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>saman</g><s n="vblex"/></l><r>add<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>til</g><s n="vblex"/></l><r>propose<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>upp</g><s n="vblex"/></l><r>set<g><b/>off</g><s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>upp<b/>laupana</g><s n="vblex"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>út</g><s n="vblex"/></l><r>interpret<s n="vblex"/></r></p></e>
+
     <e><p><l>leigja<s n="vblex"/></l><r>rent<s n="vblex"/></r></p></e>
     <e><p><l>leika<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
     <e><p><l>leita<s n="vblex"/></l><r>search<s n="vblex"/></r></p></e>
