@@ -331,6 +331,10 @@
       <e r="LR"><i>S</i></e>
       <e r="RL"><p><l>S</l><r>s</r></p></e>
     </pardef>
+    <pardef n="Uu">
+      <e r="LR"><i>U</i></e>
+      <e r="RL"><p><l>U</l><r>u</r></p></e>
+    </pardef>
     
     <pardef n="expensive__adj">
 
@@ -3110,17 +3114,23 @@
 
     </pardef>
 
-    <pardef n="Wikimedia__np">
+    <pardef n="United_Nations__np">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="np"/><s n="org"/><s n="pl"/></r>
+      </p>
+    </e>
+    </pardef>
 
+
+    <pardef n="Wikimedia__np">
     <e>
       <p>
         <l></l>
         <r><s n="np"/><s n="org"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
 
@@ -13799,6 +13809,7 @@
     <e lm="Pála"><i>Pála</i><par n="Mary__np"/></e>
     <e lm="Aþena"><i>Aþena</i><par n="Mary__np"/></e>
 
+    <e lm="United Nations"><par n="Uu"/><i>nited<b/>Nations</i><par n="United_Nations__np"/></e>
     <e lm="Wikimedia"><i>Wikimedia</i><par n="Wikimedia__np"/></e>
     <e lm="Independence Party"><par n="Ii"/><i>ndependence<b/>Party</i><par n="Wikimedia__np"/></e>
 
