@@ -3544,7 +3544,8 @@
     <e><p><l>raki<s n="n"/><s n="m"/></l><r>moisture<s n="n"/></r></p></e>
     <e><p><l>rakki<s n="n"/><s n="m"/></l><r>dog<s n="n"/></r></p></e>
     <e><p><l>rampur<s n="n"/><s n="m"/></l><r>ramp<s n="n"/></r></p></e> <!-- (inclined surface) -->
-    <e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>research<s n="n"/></r></p></e>
+    <e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>investigation<s n="n"/></r></p></e>
+    <!--<e><p><l>rannsókn<s n="n"/><s n="f"/></l><r>research<s n="n"/></r></p></e>-->
     <e><p><l>rass<s n="n"/><s n="m"/></l><r>ass<s n="n"/></r></p></e> <!-- (UK) arse, rump -->
     <!--<e><p><l>rasskinn<s n="n"/><s n="f"/></l><r>buttcheek<s n="n"/></r></p></e>-->
     <e><p><l>rasskinn<s n="n"/><s n="f"/></l><r>buttock<s n="n"/></r></p></e>
@@ -4400,9 +4401,9 @@
     <e><p><l>tala<s n="n"/><s n="f"/></l><r>number<s n="n"/></r></p></e>
     <!--<e><p><l>tala<s n="n"/><s n="f"/></l><r>speech<s n="n"/></r></p></e>-->
     <!--<e><p><l>tala<s n="n"/><s n="f"/></l><r>talk<s n="n"/></r></p></e>-->
-    <e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>advocate<s n="n"/></r></p></e>
+    <!--<e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>advocate<s n="n"/></r></p></e>-->
+    <e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>spokesperson<s n="n"/></r></p></e>
     <!--<e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>proponent<s n="n"/></r></p></e>-->
-    <!--<e><p><l>talsmaður<s n="n"/><s n="m"/></l><r>spokesperson<s n="n"/></r></p></e>-->
     <e><p><l>tankur<s n="n"/><s n="m"/></l><r>tank<s n="n"/></r></p></e> <!-- (storage vessel for liquids or gases) -->
     <e><p><l>tannbursti<s n="n"/><s n="m"/></l><r>toothbrush<s n="n"/></r></p></e> <!-- (brush for cleaning the teeth and tongue) -->
     <e><p><l>tannkrem<s n="n"/><s n="nt"/></l><r>toothpaste<s n="n"/></r></p></e>

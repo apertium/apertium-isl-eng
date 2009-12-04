@@ -43986,8 +43986,65 @@
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="at__pr"/></e>
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="that__cnjsub"/></e>
 
+
+    <e lm="A.D."><i>A.D.</i><par n="e.g.__abbr"/></e>
+    <e lm="Ap."><i>Ap.</i><par n="e.g.__abbr"/></e>
+    <e lm="Aug."><i>Aug.</i><par n="e.g.__abbr"/></e>
+    <e lm="B.C."><i>B.C.</i><par n="e.g.__abbr"/></e>
+    <e lm="cf."><i>cf.</i><par n="e.g.__abbr"/></e>
+    <e lm="Dec."><i>Dec.</i><par n="e.g.__abbr"/></e>
+    <e lm="Dr."><i>Dr.</i><par n="e.g.__abbr"/></e>
+    <e lm="etc."><i>etc.</i><par n="e.g.__abbr"/></e>
+    <e lm="Feb."><i>Feb.</i><par n="e.g.__abbr"/></e>
+    <e lm="i.e."><i>i.e.</i><par n="e.g.__abbr"/></e>
+    <e lm="incl."><i>incl.</i><par n="e.g.__abbr"/></e>
+    <e lm="Jan."><i>Jan.</i><par n="e.g.__abbr"/></e>
+    <e lm="Ltd."><i>Ltd.</i><par n="e.g.__abbr"/></e>
+    <e lm="mill."><i>mill.</i><par n="e.g.__abbr"/></e>
+    <e lm="NB."><i>NB.</i><par n="e.g.__abbr"/></e>
+    <e lm="no."><i>no.</i><par n="e.g.__abbr"/></e>
+    <e lm="Nov."><i>Nov.</i><par n="e.g.__abbr"/></e>
+    <e lm="Oct."><i>Oct.</i><par n="e.g.__abbr"/></e>
+    <e lm="p."><i>p.</i><par n="e.g.__abbr"/></e>
+    <e lm="ref."><i>ref.</i><par n="e.g.__abbr"/></e>
+    <e lm="Rev."><i>Rev.</i><par n="e.g.__abbr"/></e>
+    <e lm="Sep."><i>Sep.</i><par n="e.g.__abbr"/></e>
+    <e lm="Sept."><i>Sept.</i><par n="e.g.__abbr"/></e>
+    <e lm="thous."><i>thous.</i><par n="e.g.__abbr"/></e>
     <e lm="e.g."><i>e.g.</i><par n="e.g.__abbr"/></e>
     <e lm="approx."><i>approx.</i><par n="e.g.__abbr"/></e>
+
+
+    <e lm="according to" r="RL"><i>according<b/>to</i><par n="e.g.__abbr"/></e>
+    <e lm="after noon" r="RL"><i>after<b/>noon</i><par n="e.g.__abbr"/></e>
+    <e lm="after" r="RL"><i>after</i><par n="e.g.__abbr"/></e>
+    <e lm="among other things" r="RL"><i>among<b/>other<b/>things</i><par n="e.g.__abbr"/></e>
+    <e lm="and more" r="RL"><i>and<b/>more</i><par n="e.g.__abbr"/></e>
+    <e lm="and such" r="RL"><i>and<b/>such</i><par n="e.g.__abbr"/></e>
+    <e lm="at least" r="RL"><i>at<b/>least</i><par n="e.g.__abbr"/></e>
+    <e lm="before noon" r="RL"><i>before<b/>noon</i><par n="e.g.__abbr"/></e>
+    <e lm="before" r="RL"><i>before</i><par n="e.g.__abbr"/></e>
+    <e lm="considering" r="RL"><i>considering</i><par n="e.g.__abbr"/></e>
+    <e lm="hour" r="RL"><i>hour</i><par n="e.g.__abbr"/></e>
+    <e lm="Icelandic" r="RL"><i>Icelandic</i><par n="e.g.__abbr"/></e>
+    <e lm="in other words" r="RL"><i>in<b/>other<b/>words</i><par n="e.g.__abbr"/></e>
+    <e lm="ISK" r="RL"><i>ISK</i><par n="e.g.__abbr"/></e>
+    <e lm="issue no." r="RL"><i>issue<b/>no.</i><par n="e.g.__abbr"/></e>
+    <e lm="July" r="RL"><i>July</i><par n="e.g.__abbr"/></e>
+    <e lm="June" r="RL"><i>June</i><par n="e.g.__abbr"/></e>
+    <e lm="last" r="RL"><i>last</i><par n="e.g.__abbr"/></e>
+    <e lm="many more" r="RL"><i>many<b/>more</i><par n="e.g.__abbr"/></e>
+    <e lm="more" r="RL"><i>more</i><par n="e.g.__abbr"/></e>
+    <e lm="next" r="RL"><i>next</i><par n="e.g.__abbr"/></e>
+    <e lm="o'clock" r="RL"><i>o'clock</i><par n="e.g.__abbr"/></e>
+    <e lm="on the left" r="RL"><i>on<b/>the<b/>left</i><par n="e.g.__abbr"/></e>
+    <e lm="on the right" r="RL"><i>on<b/>the<b/>right</i><par n="e.g.__abbr"/></e>
+    <e lm="paid" r="RL"><i>paid</i><par n="e.g.__abbr"/></e>
+    <e lm="paragraph" r="RL"><i>paragraph</i><par n="e.g.__abbr"/></e>
+    <e lm="perhaps" r="RL"><i>perhaps</i><par n="e.g.__abbr"/></e>
+    <e lm="such as" r="RL"><i>such<b/>as</i><par n="e.g.__abbr"/></e>
+    <e lm="therefore" r="RL"><i>therefore</i><par n="e.g.__abbr"/></e>
+
 
   </section>
 
