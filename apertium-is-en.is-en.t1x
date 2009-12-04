@@ -285,6 +285,29 @@
 <section-def-macros>
 
   <def-macro n="conj_verb1" npar="1">
+
+      <choose>
+        <when>
+          <test>
+            <or>
+              <equal>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="vblex.midv"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="tl" part="a_verb"/>
+                <lit-tag v="vblex.actv"/>
+              </equal>
+            </or>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <lit-tag v="vblex"/>
+          </let>
+        </when>
+      </choose>
+
+
       <choose>
         <when>
           <test>
@@ -2035,6 +2058,33 @@
             </tags>
             <lu>
               <var n="cur_verb_fin"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: INF → INF | senda → send">
+     <pattern>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="inf" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
