@@ -277,6 +277,11 @@
 
     </pardef>
 
+    <pardef n="organisations">
+      <e><re>[A-ZÁÆÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>Ltd.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
+
+    </pardef>
+
     <pardef n="e.g.__abbr">
 
     <e>
@@ -19996,6 +20001,7 @@
     <e lm="acquisition"><i>acquisition</i><par n="house__n"/></e>
     <e lm="acrobat"><i>acrobat</i><par n="house__n"/></e>
     <e lm="act"><i>act</i><par n="house__n"/></e>
+    <e lm="act of parliament"><i>act</i><par n="house__n"/><p><l><b/>of<b/>parliament</l><r><g><b/>of<b/>parliament</g></r></p></e>
     <e lm="action"><i>action</i><par n="house__n"/></e>
     <e lm="activism"><i>activism</i><par n="house__n"/></e>
     <e lm="activist"><i>activist</i><par n="house__n"/></e>
@@ -43981,6 +43987,7 @@
     <e><par n="paresq"/></e>
     <e><par n="pardret"/></e>
     <e><par n="persons"/></e>
+    <e><par n="organisations"/></e>
     <e><par n="separ"/></e>
     <e><par n="guionet"/></e>
     <e><par n="emails"/></e>
