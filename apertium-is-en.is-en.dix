@@ -427,14 +427,9 @@
     <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>both<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
+    <e><p><l>einhver<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
 
-    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>hver<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>hver<s n="prn"/><s n="itg"/><s n="GD"/><s n="ND"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
 
 <!-- <s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/> -->
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -459,6 +454,11 @@
     <e r="LR"><p><l>báðir<s n="det"/><s n="ind"/><s n="f"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>báðir<s n="det"/><s n="ind"/><s n="nt"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>báðir<s n="det"/><s n="ind"/><s n="GD"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
+
+    <e r="LR"><p><l>einhver<s n="det"/><s n="ind"/><s n="m"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>einhver<s n="det"/><s n="ind"/><s n="f"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>einhver<s n="det"/><s n="ind"/><s n="nt"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>einhver<s n="det"/><s n="ind"/><s n="GD"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
 
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="m"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="f"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
@@ -5499,10 +5499,14 @@
     <e><p><l>snertur<s n="n"/><s n="m"/></l><r>bit<s n="n"/></r></p></e>
     <e><p><l>austur<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p></e>
 <!--    <e><p><l>stjórnvald<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e> -->
+
     <e><p><l>Norðurland<s n="n"/><s n="nt"/></l><r>Northern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>Suðurland<s n="n"/><s n="nt"/></l><r>Southern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
     <e><p><l>Austurland<s n="n"/><s n="nt"/></l><r>Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Suðausturland<s n="n"/><s n="nt"/></l><r>South-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>Vesturland<s n="n"/><s n="nt"/></l><r>Western<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
     <e><p><l>Norðausturland<s n="n"/><s n="nt"/></l><r>North-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>Suðausturland<s n="n"/><s n="nt"/></l><r>South-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+
     <e><p><l>pund<s n="n"/><s n="nt"/></l><r>pound<s n="n"/></r></p></e>
     <e><p><l>framboð<s n="n"/><s n="nt"/></l><r>candidacy<s n="n"/></r></p></e>
 <!--    <e><p><l>hvolf<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e> -->
