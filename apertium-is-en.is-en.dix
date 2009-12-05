@@ -10898,6 +10898,7 @@
 <!--<e><p><l>skreppa<g><b/>saman</g><s n="vblex"/></l><r>shrivel<s n="vblex"/></r></p></e>-->
     <e><p><l>slaka<g><b/>á</g><s n="vblex"/></l><r>relax<s n="vblex"/></r></p></e>
 <!--<e><p><l>slaka<g><b/>á</g><s n="vblex"/></l><r>unwind<s n="vblex"/></r></p></e>-->
+    <e><p><l>ræða<s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
 
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <!--<e><p><l><g>í<b/></g>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>--> <!-- I'm confused... how/when should use the <g> tag? -->
