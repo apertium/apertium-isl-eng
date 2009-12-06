@@ -19680,6 +19680,7 @@
     <e lm="Lleida"><i>Lleida</i><par n="Barcelona__np"/></e>
     <e lm="Lluís"><i>Lluís</i><par n="Mark__np"/></e>
     <e lm="London"><i>London</i><par n="Barcelona__np"/></e>
+    <e lm="Copenhagen"><i>Copenhagen</i><par n="Barcelona__np"/></e>
     <e lm="Lorena"><i>Lorena</i><par n="Mary__np"/></e>
     <e lm="Lorraine"><i>Lorraine</i><par n="Barcelona__np"/></e>
     <e lm="Louis"><i>Louis</i><par n="Mark__np"/></e>
@@ -21098,6 +21099,7 @@
     <e lm="counterprogramming"><i>counterprogramming</i><par n="house__n"/></e>
     <e lm="counterweight"><i>counterweight</i><par n="house__n"/></e>
     <e lm="country"><i>countr</i><par n="bab/y__n"/></e>
+    <e lm="member country"><i>member<b/>countr</i><par n="bab/y__n"/></e>
     <e lm="countryside"><i>countryside</i><par n="house__n"/></e>
     <e lm="couple"><i>couple</i><par n="house__n"/></e>
     <e lm="coupon"><i>coupon</i><par n="house__n"/></e>
@@ -21997,7 +21999,7 @@
     <e lm="gardening"><i>gardening</i><par n="house__n"/></e>
     <e lm="garlic"><i>garlic</i><par n="house__n"/></e>
     <e lm="gas"><i>gas</i><par n="access__n"/></e>
-    <e lm="gas"><i>gas</i><par n="access__n"/></e>
+    <e lm="greenhouse gas"><i>greenhouse<b/>gas</i><par n="access__n"/></e>
     <e lm="gasoline"><i>gasoline</i><par n="house__n"/></e>
     <e lm="gate"><i>gate</i><par n="house__n"/></e>
     <e lm="gateway"><i>gateway</i><par n="house__n"/></e>
@@ -23693,6 +23695,7 @@
     <e lm="pump"><i>pump</i><par n="house__n"/></e>
     <e lm="pumper"><i>pumper</i><par n="house__n"/></e>
     <e lm="pumping"><i>pumping</i><par n="house__n"/></e>
+    <e lm="dumping"><i>dumping</i><par n="house__n"/></e>
     <e lm="punctuation"><i>punctuation</i><par n="house__n"/></e>
     <e lm="punishment"><i>punishment</i><par n="house__n"/></e>
     <e lm="pupil"><i>pupil</i><par n="house__n"/></e>
@@ -41045,6 +41048,7 @@
     <e lm="go through"><i></i><par n="/go__vblex"/><p><l><b/>through</l><r><g><b/>through</g></r></p></e>
     <e lm="go up"><i></i><par n="/go__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/></e>
+    <e lm="lift"><i>lift</i><par n="accept__vblex"/></e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/></e>
     <e lm="abdicate"><i>abdicat</i><par n="liv/e__vblex"/></e>
     <e lm="abet"><i>abet</i><par n="admit__vblex"/></e>

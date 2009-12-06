@@ -289,8 +289,12 @@ SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
 # María mun koma
 SELECT:r52 MODV IF (1C Inf);
 
+# Íslendingar munu boða að þeir ætli að draga úr losun
+SELECT MODV + TempsFin IF (1C Inf);
+
 # Ég las bókina
-SELECT:r53 $$PERSON IF (-1 PersPron + $$PERSON)(0 VerbFin);
+# #á morgun í Kaupmannahöfn, að því er Ríkisútvarpið greindi frá. 
+SELECT:r53 $$PERSON IF (-1 PersPron + $$PERSON)(0 VerbFin) (NOT 1 ("er"ri));
 
 # The modals munu and skulu can never be preceded by another auxiliary. (p.10)
 REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
@@ -303,6 +307,7 @@ REMOVE VerbFin + (p2) IF (NOT -1* (prn p2) BARRIER CLB) (NOT 1* (prn p2) BARRIER
 
 #Bandaríkin hafa beðið þær 43 þjóðir sem eru með hermenn í Afganistan að senda 10.000 hermenn
 SELECT ("hafa"ri) + VerbFin IF (1C Participle);
+
 
 #################################################################################
 # Syntax  

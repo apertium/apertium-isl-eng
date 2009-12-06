@@ -107,6 +107,8 @@
     <e><p><l>sem<s n="rel"/><s n=":1"/><s n="an"/></l><r>which<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
     <e><p><l>sem<s n="rel"/><s n=":2"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
 
+    <e><p><l>er<s n="rel"/><s n="an"/></l><r>which<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
+
     <!-- Prepositions -->
     <e><p><l>til<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>af<s n="pr"/></l><r>off<s n="pr"/></r></p></e>
@@ -466,6 +468,7 @@
     <e><p><l>slys<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e>
     <e><p><l>slátur<s n="n"/><s n="nt"/></l><r>innards<s n="n"/></r></p></e>
     <e><p><l>slátrun<s n="n"/><s n="f"/></l><r>slaughter<s n="n"/></r></p></e>
+    <e><p><l>losun<s n="n"/><s n="f"/></l><r>dumping<s n="n"/></r></p></e>
     <e><p><l>viðtal<s n="n"/><s n="nt"/></l><r>interview<s n="n"/></r></p></e>
     <e><p><l>ábyrgð<s n="n"/><s n="f"/></l><r>responsibility<s n="n"/></r></p></e>
     <e><p><l>ár<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
@@ -1956,6 +1959,7 @@
     <!--<e><p><l>heimskautsnótt<s n="n"/><s n="f"/></l><r>polar<b/>night<s n="n"/></r></p></e>-->
     <e><p><l>heimspeki<s n="n"/><s n="f"/></l><r>philosophy<s n="n"/></r></p></e>
     <e><p><l>heimspekingur<s n="n"/><s n="m"/></l><r>philosopher<s n="n"/></r></p></e>
+    <e><p><l>ráðstefna<s n="n"/><s n="f"/></l><r>conference<s n="n"/></r></p></e>
     <e><p><l>heimsvaldastefna<s n="n"/><s n="f"/></l><r>imperialism<s n="n"/></r></p></e> <!-- (the policy of extending power, by force) -->
     <e><p><l>heimsálfa<s n="n"/><s n="f"/></l><r>continent<s n="n"/></r></p></e>
     <e><p><l>heimsókn<s n="n"/><s n="f"/></l><r>visit<s n="n"/></r></p></e>
@@ -2591,6 +2595,7 @@
     <e><p><l>kontrafagott<s n="n"/><s n="nt"/></l><r>contrabassoon<s n="n"/></r></p></e>
     <e><p><l>konungshöll<s n="n"/><s n="f"/></l><r>royal<b/>palace<s n="n"/></r></p></e>
     <e><p><l>konungsríki<s n="n"/><s n="nt"/></l><r>kingdom<s n="n"/></r></p></e>
+    <e><p><l>aðildarríki<s n="n"/><s n="nt"/></l><r>member<b/>country<s n="n"/></r></p></e>
     <!--<e><p><l>konungsríki<s n="n"/><s n="nt"/></l><r>realm<s n="n"/></r></p></e>-->
     <e><p><l>konungsveldi<s n="n"/><s n="nt"/></l><r>monarchy<s n="n"/></r></p></e>
     <e><p><l>konungur<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
@@ -4440,6 +4445,8 @@
     <e><p><l>taumur<s n="n"/><s n="m"/></l><r>bridle<s n="n"/></r></p></e>
     <e><p><l>te<s n="n"/><s n="nt"/></l><r>tea<s n="n"/></r></p></e>
     <e><p><l>tegund<s n="n"/><s n="f"/></l><r>kind<s n="n"/></r></p></e>
+    <e><p><l>lofttegund<s n="n"/><s n="f"/></l><r>gas<s n="n"/></r></p></e>
+    <e><p><l>gróðurhúsalofttegund<s n="n"/><s n="f"/></l><r>greenhouse<b/>gas<s n="n"/></r></p></e>
     <!--<e><p><l>tegund<s n="n"/><s n="f"/></l><r>species<s n="n"/></r></p></e>-->
     <e><p><l>teikn<s n="n"/><s n="nt"/></l><r>token<s n="n"/></r></p></e>
     <e><p><l>teista<s n="n"/><s n="f"/></l><r>black<b/>guillemot<s n="n"/></r></p></e>
@@ -5563,6 +5570,7 @@
     <e><p><l>Írak<s n="np"/><s n="top"/><s n="nt"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Bandaríki<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Kaupmannahöfn<s n="np"/><s n="top"/><s n="f"/></l><r>Copenhagen<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>New<b/>York<s n="np"/><s n="top"/><s n="nt"/></l><r>New<b/>York<s n="np"/><s n="top"/></r></p></e>
 
 
@@ -8051,7 +8059,8 @@
     <!--<e><p><l>botna<s n="vblex"/></l><r>end<s n="vblex"/></r></p></e>-->
     <!--<e><p><l>boða<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>-->
     <!--<e><p><l>boða<s n="vblex"/></l><r>preach<s n="vblex"/></r></p></e>-->
-    <e><p><l>boða<s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
+    <e><p><l>boða<s n="vblex"/></l><r>proclaim<s n="vblex"/></r></p></e>
+    <e><p><l>boða<s n="vblex"/><s n=":1"/></l><r>summon<s n="vblex"/></r></p></e>
     <e><p><l>bragða<s n="vblex"/></l><r>taste<s n="vblex"/></r></p></e>
     <!--<e><p><l>bragða<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>-->
     <!--<e><p><l>bragða<s n="vblex"/></l><r>sample<s n="vblex"/></r></p></e>-->
@@ -8433,6 +8442,7 @@
 <!--<e><p><l>greina<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>greina<s n="vblex"/></l><r>diagnose<s n="vblex"/></r></p></e>-->
     <e><p><l>greina<s n="vblex"/></l><r>detect<s n="vblex"/></r></p></e>
+    <e><p><l>greina<g><b/>frá</g><s n="vblex"/></l><r>report<s n="vblex"/></r></p></e>
 <!--<e><p><l>grenja<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>-->
     <e><p><l>grenja<s n="vblex"/></l><r>bawl<s n="vblex"/></r></p></e>
 <!--<e><p><l>grenja<s n="vblex"/></l><r>roar<s n="vblex"/></r></p></e>-->

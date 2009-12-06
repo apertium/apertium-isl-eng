@@ -59,6 +59,11 @@
      <cat-item tags="vblex.*.pss.*"/>
   </def-cat>
 
+  <def-cat n="auxinf">
+     <cat-item tags="vaux.inf"/>
+     <cat-item tags="vaux.*.inf"/>
+  </def-cat>
+
   <def-cat n="inf">
      <cat-item tags="vblex.inf"/>
      <cat-item tags="vblex.*.inf"/>
@@ -2273,7 +2278,7 @@
      </action>
   </rule>
 
-  <rule comment="REGLA: AUX INF → AUX GER | mun koma → will come">
+  <rule comment="REGLA: AUX INF → AUX INF | mun koma → will come">
      <pattern>
        <pattern-item n="auxcj"/>
        <pattern-item n="inf"/>
