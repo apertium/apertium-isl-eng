@@ -70,7 +70,7 @@ LIST AccPrep = "fyrir ofan"ri "gegnum"ri "kringum"ri "um"ri "umfram"ri "umhverfi
 LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnvart"ri "gegnt"ri "handa"ri 
                "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
-LIST MODV = "kunna" "láta" "skula" "vilja" "munu" "mega" "vera" ; #todo: translate fao to icelandic
+LIST MODV = "ætla" "kunna" "láta" "skula" "vilja" "munu" "mega" "vera" ; #todo: translate fao to icelandic
 LIST SADV = "aldrei" "ekki" ; # complete
 
 LIST NAGD = nom acc gen dat;
@@ -137,7 +137,8 @@ SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 #SELECT N IF (-1C DatPrep) (1 Dat) ;
 
 # að (cn/aa) beina (sgn/n*) mér
-SELECT N IF (-1 Inf) (0 VerbInf) ;
+# Íslendingar munu boða að
+SELECT N IF (-1 Inf) (0 VerbInf) (NOT -1 MODV) ;
 
 # einhvern sem sæti
 SELECT N IF (-1 ("<sem>"ri)) (0 Verb) ;

@@ -954,8 +954,10 @@
     <e><p><l>bíll<s n="n"/><s n="m"/></l><r>car<s n="n"/></r></p></e>
     <e><p><l>bílskúr<s n="n"/><s n="m"/></l><r>garage<s n="n"/></r></p></e> <!-- (for storing a car, etc.) -->
     <e><p><l>bílstjóri<s n="n"/><s n="m"/></l><r>driver<s n="n"/></r></p></e>
-    <!--<e><p><l>bíó<s n="n"/><s n="nt"/></l><r>cinema<s n="n"/></r></p></e>-->
-    <e><p><l>bíó<s n="n"/><s n="nt"/></l><r>movie<b/>theater<s n="n"/></r></p></e>
+    <e><p><l>bíó<s n="n"/><s n="nt"/></l><r>cinema<s n="n"/></r></p></e>
+    <!--<e><p><l>bíó<s n="n"/><s n="nt"/></l><r>movie<b/>theater<s n="n"/></r></p></e>-->
+    <e><p><l>kvikmyndahús<s n="n"/><s n="nt"/></l><r>cinema<s n="n"/></r></p></e>
+    <!--<e><p><l>kvikmyndahús<s n="n"/><s n="nt"/></l><r>movie<b/>theater<s n="n"/></r></p></e>-->
     <!--<e><p><l>bófi<s n="n"/><s n="m"/></l><r>bandit<s n="n"/></r></p></e>-->
     <e><p><l>bófi<s n="n"/><s n="m"/></l><r>crook<s n="n"/></r></p></e>
     <!--<e><p><l>bógur<s n="n"/><s n="m"/></l><r>side<s n="n"/></r></p></e>-->
@@ -2656,11 +2658,10 @@
     <e><p><l>kveðja<s n="n"/><s n="f"/></l><r>greeting<s n="n"/></r></p></e>
     <e><p><l>kveðskapur<s n="n"/><s n="m"/></l><r>poetry<s n="n"/></r></p></e>
     <e><p><l>kvikasilfur<s n="n"/><s n="nt"/></l><r>mercury<s n="n"/></r></p></e>
-    <!--<e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>film<s n="n"/></r></p></e>-->
-    <e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>movie<s n="n"/></r></p></e>
+    <e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>film<s n="n"/></r></p></e>
+    <!--<e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>movie<s n="n"/></r></p></e>-->
     <!--<e><p><l>kvikmynd<s n="n"/><s n="f"/></l><r>motion<b/>picture<s n="n"/></r></p></e>-->
     <e><p><l>kvikmyndagerð<s n="n"/><s n="f"/></l><r>cinematography<s n="n"/></r></p></e>
-    <e><p><l>kvikmyndahús<s n="n"/><s n="nt"/></l><r>movie<b/>theater<s n="n"/></r></p></e>
     <e><p><l>kviður<s n="n"/><s n="m"/></l><r>belly<s n="n"/></r></p></e>
     <e><p><l>kvæði<s n="n"/><s n="nt"/></l><r>poem<s n="n"/></r></p></e>
     <e><p><l>kví<s n="n"/><s n="f"/></l><r>pen<s n="n"/></r></p></e>
@@ -10337,10 +10338,14 @@
     <e><p><l>nokkurntímann<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
 <!--<e><p><l>nokkurntímann<s n="adv"/></l><r>anytime<s n="adv"/></r></p></e>-->
     <e><p><l>norðar<s n="adv"/></l><r><g>farther<b/></g>north<s n="adv"/></r></p></e>
-<!--<e><p><l>náið<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>-->
+
     <e><p><l>náið<s n="adv"/><s n="comp"/></l><r>in<b/>full<s n="adv"/></r></p></e>
     <e><p><l>náið<s n="adv"/><s n="sup"/></l><r>practically<s n="adv"/></r></p></e>
+    <e><p><l>náið<s n="adv"/><s n=":1"/><s n="sup"/></l><r>nearly<s n="adv"/></r></p></e>
+    <e><p><l>náið<s n="adv"/><s n=":2"/><s n="sup"/></l><r>almost<s n="adv"/></r></p></e>
     <e><p><l>náið<s n="adv"/></l><r>intimately<s n="adv"/></r></p></e>
+    <!--<e><p><l>náið<s n="adv"/></l><r>closely<s n="adv"/></r></p></e>-->
+
     <e><p><l>nálega<s n="adv"/></l><r>approximately<s n="adv"/></r></p></e>
 <!--<e><p><l>nálega<s n="adv"/></l><r>about<s n="adv"/></r></p></e>-->
 <!--<e><p><l>nálega<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>-->
