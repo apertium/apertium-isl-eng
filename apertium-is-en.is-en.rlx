@@ -308,6 +308,9 @@ REMOVE VerbFin + (p2) IF (NOT -1* (prn p2) BARRIER CLB) (NOT 1* (prn p2) BARRIER
 #Bandaríkin hafa beðið þær 43 þjóðir sem eru með hermenn í Afganistan að senda 10.000 hermenn
 SELECT ("hafa"ri) + VerbFin IF (1C Participle);
 
+#100 breskir hermenn hafa fallið í Afganistan
+SELECT Participle IF (-1C VerbAux);
+
 
 #################################################################################
 # Syntax  
