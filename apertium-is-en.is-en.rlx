@@ -13,7 +13,7 @@ DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
 LIST BOS = (>>>) (<s>) (sent) ; 
 LIST EOS = (<<<) (</s>) (sent) ; 
 
-LIST CLB = (sent) (cnjsub); 
+LIST CLB = (sent) (cnjsub) (cm); 
 
 LIST N = (n) ;
 LIST Num = (num) ;
@@ -38,7 +38,7 @@ LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) (vbser) (vbhaver);
 LIST TempsFin = (pri) (past) (prs) (pss);
 LIST TempsIrreal = (prs) (pss);
-LIST RelativeConjunction = (rel) ;
+LIST Rel = (rel) ;
 LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
 LIST CC = (cnjcoo) ;
 LIST CS = (cnjsub) ;
@@ -273,6 +273,9 @@ SELECT:r30c $$NUMBER IF (-1C IndefPron + $$NUMBER)(0 N);
 # enga bók
 SELECT:r31 Det IF (1C N) (0 Det) (0 IndefPron);
 
+#Nánast allir Íslendingar nota nú netið með ADSL.
+SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C N) (1C $$NAGD);
+
 #################################################################################
 # Verbs
 #################################################################################
@@ -306,10 +309,13 @@ REMOVE VerbFin + (p1) IF (NOT -1* (prn p1) BARRIER CLB) (NOT 1* (prn p1) BARRIER
 REMOVE VerbFin + (p2) IF (NOT -1* (prn p2) BARRIER CLB) (NOT 1* (prn p2) BARRIER CLB) ;
 
 #Bandaríkin hafa beðið þær 43 þjóðir sem eru með hermenn í Afganistan að senda 10.000 hermenn
-SELECT ("hafa"ri) + VerbFin IF (1C Participle);
+SELECT ("hafa"ri) + VerbFin IF (1C* Participle BARRIER PRE-N);
 
 #100 breskir hermenn hafa fallið í Afganistan
 SELECT Participle IF (-1C VerbAux);
+
+#Himinninn er blár
+REMOVE Rel IF (0 ("<er>"ri)) (NOT -1* VerbFin BARRIER CLB) (NOT 1* VerbFin BARRIER CLB);
 
 
 #################################################################################
@@ -343,3 +349,4 @@ MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB)
 MAP (@-FMAINV) TARGET Participle (-1C* @+FAUXV BARRIER CLB);
 
 MAP (@N→) TARGET (num) (0C (num)) (1C N);
+MAP (@N→) TARGET (det) (0C (det)) (1C N);

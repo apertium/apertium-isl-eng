@@ -125,8 +125,9 @@
      <cat-item tags="adv"/>
   </def-cat>
 
-  <def-cat n="pr">
+  <def-cat n="prep">
      <cat-item tags="pr"/>
+     <cat-item tags="pr.*"/>
   </def-cat>
 
   <def-cat n="preadv">
@@ -286,9 +287,23 @@
   <def-var n="cur_verb_fin"/>
   <def-var n="cur_subj_prn"/>
   <def-var n="cur_sent_adv"/>
+  <def-var n="cur_adv_lema"/>
+  <def-var n="cur_prep_lema"/>
 </section-def-vars>
 
 <section-def-macros>
+  <def-macro n="reset_variables" npar="1">
+    <let><var n="number"/>       <lit v=""/></let>
+    <let><var n="genere"/>       <lit v=""/></let>
+    <let><var n="article"/>      <lit v=""/></let>
+    <let><var n="genitiu"/>      <lit v=""/></let>
+    <let><var n="cur_verb_lem"/> <lit v=""/></let>
+    <let><var n="cur_verb_fin"/> <lit v=""/></let>
+    <let><var n="cur_subj_prn"/> <lit v=""/></let>
+    <let><var n="cur_sent_adv"/> <lit v=""/></let>
+    <let><var n="cur_adv_lema"/> <lit v=""/></let>
+    <let><var n="cur_prep_lema"/><lit v=""/></let>
+  </def-macro>
 
   <def-macro n="conj_verb1" npar="1">
       <let>
@@ -2078,6 +2093,29 @@
 
   <!-- ///////////////////////////////////////////////////////// -->
 
+  <rule comment="REGLA: PREP → PREP | með → with">
+     <pattern>
+       <pattern-item n="prep"/>
+     </pattern>
+     <action>
+       <let>
+         <var n="cur_prep_lema"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_prep_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="PREP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
   <rule comment="REGLA: SADV → SADV | ekki → not">
      <pattern>
        <pattern-item n="sadv"/>
@@ -2100,6 +2138,30 @@
      </action>
   </rule>
 
+
+
+
+  <rule comment="REGLA: ADV → ADV | nánast → practically">
+     <pattern>
+       <pattern-item n="adv"/>
+     </pattern>
+     <action>
+       <let>
+         <var n="cur_adv_lema"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_adv_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="ADV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
 
 
   <!-- ///////////////////////////////////////////////////////// -->
@@ -2367,10 +2429,9 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="cur_verb_fin"/>
-          <lit v=""/>
-        </let>
+        <call-macro n="reset_variables">
+          <with-param pos="1"/>
+        </call-macro>
      </action>
   </rule>
 

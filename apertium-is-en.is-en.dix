@@ -357,6 +357,12 @@
     <e r="LR"><p><l>margur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>margur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
 
+    <e r="LR"><p><l>allur<s n="det"/><s n="qnt"/><s n="m"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
+    <e r="LR"><p><l>allur<s n="det"/><s n="qnt"/><s n="f"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
+    <e r="LR"><p><l>allur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
+    <e r="RL"><p><l>allur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
+
+
     <e r="LR"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="mf"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="nt"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="GD"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>

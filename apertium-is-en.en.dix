@@ -13754,6 +13754,7 @@
     <e lm="less"><i>less</i><par n="much__det"/></e>
     <e lm="little"><i>little</i><par n="much__det"/></e>
     <e lm="more"><i>more</i><par n="enough__det"/></e>
+    <e lm="all"><i>all</i><par n="many__det"/></e>
     <e lm="most"><i>most</i><par n="enough__det"/></e>
     <e lm="much"><i>much</i><par n="much__det"/></e>
     <e lm="my"><i>my</i><par n="her__det"/></e>
@@ -13777,7 +13778,6 @@
     <e lm="which"><i>which</i><par n="what__det"/></e>
     <e lm="your"><i>your</i><par n="her__det"/></e>
     <e lm="last"><i>last</i><par n="second__det"/></e>
-    <e lm="all"><i>all</i><par n="all__predet"/></e>
     <e lm="fourth"><i>fourth</i><par n="second__det"/></e>
     <e lm="fifth"><i>fifth</i><par n="second__det"/></e>
     <e lm="sixth"><i>sixth</i><par n="second__det"/></e>
