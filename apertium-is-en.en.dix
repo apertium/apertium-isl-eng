@@ -41036,6 +41036,8 @@
     <e lm="be"><par n="/be__vbser"/></e>
     <e lm="go out"><i></i><par n="/go__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
+    <e lm="be consistent"><i></i><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>
+    <e lm="be adrift"><i></i><par n="/be__vblex"/><p><l><b/>adrift</l><r><g><b/>adrift</g></r></p></e>
     <e lm="go down"><i></i><par n="/go__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="be worth"><i></i><par n="/be__vblex"/><p><l><b/>worth</l><r><g><b/>worth</g></r></p></e>
     <e lm="be left"><i></i><par n="/be__vblex"/><p><l><b/>left</l><r><g><b/>left</g></r></p></e>

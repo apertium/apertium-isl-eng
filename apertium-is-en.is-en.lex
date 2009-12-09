@@ -76,8 +76,9 @@ SUBSTITUTE (vblex :0) (vblex :1) ("leggja"ri) (1C Dat);
 ##
 
 # "við" : 
-#      0: "beside"
+#      0: "with"
 #      1: "to"
+#      2: "beside"
 SUBSTITUTE (pr) (pr :0) ("við"ri);
 SUBSTITUTE (pr :0) (pr :1) ("við"ri) (-1C* CommVerb) (1C Human);
 
