@@ -725,7 +725,7 @@
     <e><p><l>bað<s n="n"/><s n="nt"/></l><r>bath<s n="n"/></r></p></e>
 <!--    <e><p><l>bað<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e> -->
     <e><p><l>baðherbergi<s n="n"/><s n="nt"/></l><r>bathroom<s n="n"/></r></p></e>
-    <e><p><l>baðkar<s n="n"/><s n="nt"/></l><r>bathtub<s n="n"/></r></p></e>
+    <e><p><l>baðkar<s n="n"/><s n="nt"/></l><r>bath<s n="n"/></r></p></e>
     <e><p><l>beddi<s n="n"/><s n="m"/></l><r>cot<s n="n"/></r></p></e>
     <e><p><l>bein<s n="n"/><s n="nt"/></l><r>bone<s n="n"/></r></p></e>
 <!--    <e><p><l>bein<s n="n"/><s n="nt"/></l><r>hafa bein í nefinu<s n="n"/></r></p></e>
@@ -994,6 +994,8 @@
     <e><p><l>bóndi<s n="n"/><s n=":1"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>
     <e><p><l>bór<s n="n"/><s n="nt"/></l><r>boron<s n="n"/></r></p></e>
     <e><p><l>bót<s n="n"/><s n="f"/></l><r>cure<s n="n"/></r></p></e>
+    <e><p><l>bót<s n="n"/><s n="f"/><s n="pl"/></l><r>compensation<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>bætur<s n="n"/><s n="f"/></l><r>compensation<s n="n"/></r></p></e>
     <e><p><l>bótúlíneitrun<s n="n"/><s n="f"/></l><r>botulism<s n="n"/></r></p></e>
     <e><p><l>böggull<s n="n"/><s n="m"/></l><r>package<s n="n"/></r></p></e>
     <!--<e><p><l>böggull<s n="n"/><s n="m"/></l><r>parcel<s n="n"/></r></p></e>-->
@@ -5899,6 +5901,7 @@
     <e><p><l>fjölbreyttur<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
     <e><p><l>megn<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>mætur<s n="adj"/></l><r>respected<s n="adj"/></r></p></e>
+    <e><p><l>dæmdur<s n="adj"/></l><r>sentenced<s n="adj"/></r></p></e>
     <e><p><l>heill<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
     <e><p><l>heill<s n="adj"/></l><r>healthy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>heill<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>
@@ -6342,7 +6345,7 @@
     <e><p><l>eintómur<s n="adj"/></l><r>sheer<s n="adj"/></r></p></e>
 <!--<e><p><l>eintómur<s n="adj"/></l><r>mere<s n="adj"/></r></p></e>-->
 <!--<e><p><l>eldrauður<s n="adj"/></l><r>fiery<s n="adj"/></r></p></e>-->
-    <e><p><l>eldrauður<s n="adj"/></l><r><g>bright</g><b/>red<s n="adj"/></r></p></e>
+    <e><p><l>eldrauður<s n="adj"/></l><r>bright<b/>red<s n="adj"/></r></p></e>
 <!--<e><p><l>elskulegur<s n="adj"/></l><r>lovely<s n="adj"/></r></p></e>-->
 <!--<e><p><l>elskulegur<s n="adj"/></l><r>sweet<s n="adj"/></r></p></e>-->
     <e><p><l>elskulegur<s n="adj"/></l><r>adorable<s n="adj"/></r></p></e>
@@ -6459,7 +6462,7 @@
 <!--<e><p><l>fróðlegur<s n="adj"/></l><r>enlightening<s n="adj"/></r></p></e>-->
     <e><p><l>fullkominn<s n="adj"/></l><r>perfect<s n="adj"/></r></p></e>
 <!--<e><p><l>fullkunnugur<s n="adj"/></l><r>known<s n="adj"/></r></p></e>-->
-    <e><p><l>fullkunnugur<s n="adj"/></l><r><g>completely<b/></g>familiar<s n="adj"/></r></p></e>
+    <e><p><l>fullkunnugur<s n="adj"/></l><r>completely<b/>familiar<s n="adj"/></r></p></e>
     <e><p><l>fullorðinn<s n="adj"/></l><r>adult<s n="adj"/></r></p></e>
     <e><p><l>fullreistur<s n="adj"/></l><r>fully<g><b/>erect</g><s n="adj"/></r></p></e>
     <e><p><l>fyndinn<s n="adj"/></l><r>funny,amusing<s n="adj"/></r></p></e>
@@ -7018,7 +7021,7 @@
 <!--<e><p><l>nakinn<s n="adj"/></l><r>exposed<s n="adj"/></r></p></e>-->
 <!--<e><p><l>nakinn<s n="adj"/></l><r>uncovered<s n="adj"/></r></p></e>-->
 <!--<e><p><l>nakinn<s n="adj"/></l><r>undressed<s n="adj"/></r></p></e>-->
-    <e><p><l>nefbrotinn<s n="adj"/></l><r><g>has<b/>a<b/></g>broken<b/>nose<s n="adj"/></r></p></e>
+    <e><p><l>nefbrotinn<s n="adj"/></l><r>has<b/>a<b/>broken<b/>nose<s n="adj"/></r></p></e>
     <e><p><l>nefndur<s n="adj"/></l><r>named<s n="adj"/></r></p></e>
     <e><p><l>neikvæður<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
 <!--<e><p><l>neikvæður<s n="adj"/></l><r>downbeat<s n="adj"/></r></p></e>-->
@@ -7058,10 +7061,10 @@
 <!--<e><p><l>núgildandi<s n="adj"/></l><r>existing<s n="adj"/></r></p></e>-->
 <!--<e><p><l>núgildandi<s n="adj"/></l><r>present<s n="adj"/></r></p></e>-->
     <e><p><l>núverandi<s n="adj"/></l><r>current<s n="adj"/></r></p></e>
-    <e><p><l>nýbyrjaður<s n="adj"/></l><r><g>just<b/></g>begun<s n="adj"/></r></p></e>
-    <e><p><l>nýbónaður<s n="adj"/></l><r><g>just<b/></g>waxed<s n="adj"/></r></p></e>
+    <e><p><l>nýbyrjaður<s n="adj"/></l><r>just<b/>begun<s n="adj"/></r></p></e>
+    <e><p><l>nýbónaður<s n="adj"/></l><r>just<b/>waxed<s n="adj"/></r></p></e>
     <e><p><l>nýfæddur<s n="adj"/></l><r>newborn<s n="adj"/></r></p></e>
-    <e><p><l>nýkominn<s n="adj"/></l><r><g>recently<b/></g>arrived<s n="adj"/></r></p></e>
+    <e><p><l>nýkominn<s n="adj"/></l><r>recently<b/>arrived<s n="adj"/></r></p></e>
     <e><p><l>ofangreindur<s n="adj"/></l><r>above-mentioned<s n="adj"/></r></p></e>
     <e><p><l>ofurlítill<s n="adj"/></l><r>tiny<s n="adj"/></r></p></e>
 <!--<e><p><l>ofurlítill<s n="adj"/></l><r>puny<s n="adj"/></r></p></e>-->
@@ -7279,7 +7282,7 @@
 <!--<e><p><l>skrýtinn<s n="adj"/></l><r>funny<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skrýtinn<s n="adj"/></l><r>odd<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skrýtinn<s n="adj"/></l><r>peculiar<s n="adj"/></r></p></e>-->
-    <e><p><l>skuldsettur<s n="adj"/></l><r><g>in<b/></g>debt<s n="adj"/></r></p></e>
+    <e><p><l>skuldsettur<s n="adj"/></l><r>in<b/>debt<s n="adj"/></r></p></e>
     <e><p><l>skyldur<s n="adj"/></l><r>related<s n="adj"/></r></p></e>
 <!--<e><p><l>skyldur<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>-->
     <e><p><l>skynsamlegur<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>
@@ -7381,7 +7384,7 @@
 <!--<e><p><l>strangur<s n="adj"/></l><r>firm<s n="adj"/></r></p></e>-->
     <e><p><l>stríður<s n="adj"/></l><r>bristly<s n="adj"/></r></p></e>
     <e><p><l>stuttur<s n="adj"/></l><r>short<s n="adj"/></r></p></e>
-    <e><p><l>stórauðugur<s n="adj"/></l><r><g>very<b/></g>wealthy<s n="adj"/></r></p></e>
+    <e><p><l>stórauðugur<s n="adj"/></l><r>very<b/>wealthy<s n="adj"/></r></p></e>
     <e><p><l>stórbrotinn<s n="adj"/></l><r>spectacular<s n="adj"/></r></p></e> <!-- usually about landscape -->
 <!--<e><p><l>stórbrotinn<s n="adj"/></l><r>magnificent<s n="adj"/></r></p></e>-->
 <!--<e><p><l>stórbrotinn<s n="adj"/></l><r>great<s n="adj"/></r></p></e>-->
@@ -7399,16 +7402,16 @@
 <!--<e><p><l>stöðugur<s n="adj"/></l><r>constant<s n="adj"/></r></p></e>-->
     <e><p><l>svalur<s n="adj"/></l><r>cool<s n="adj"/></r></p></e>
     <e><p><l>svangur<s n="adj"/></l><r>hungry<s n="adj"/></r></p></e>
-    <e><p><l>svartklæddur<s n="adj"/></l><r><g>dressed<b/>in<b/></g>black<s n="adj"/></r></p></e>
+    <e><p><l>svartklæddur<s n="adj"/></l><r>dressed<b/>in<b/>black<s n="adj"/></r></p></e>
     <e><p><l>svipaður<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
 <!--<e><p><l>svipaður<s n="adj"/></l><r>like<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svipaður<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>-->
     <e><p><l>svokallaður<s n="adj"/></l><r>so-called<s n="adj"/></r></p></e>
-    <e><p><l>svoleiðis<s n="adj"/></l><r><g>like<b/></g>so<s n="adj"/></r></p></e>
+    <e><p><l>svoleiðis<s n="adj"/></l><r>like<b/>so<s n="adj"/></r></p></e>
 <!--<e><p><l>svolítill<s n="adj"/></l><r>small<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svolítill<s n="adj"/></l><r>little<s n="adj"/></r></p></e>-->
     <e><p><l>svolítill<s n="adj"/></l><r>some<s n="adj"/></r></p></e>
-    <e><p><l>svona<s n="adj"/></l><r><g>like<b/></g>so<s n="adj"/></r></p></e> <!-- translation depends greatly on context -->
+    <e><p><l>svona<s n="adj"/></l><r>like<b/>so<s n="adj"/></r></p></e> <!-- translation depends greatly on context -->
 <!--<e><p><l>svona<s n="adj"/></l><r><g>like<b/></g>this<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svona<s n="adj"/></l><r><g>like<b/></g>that<s n="adj"/></r></p></e>-->
 <!--<e><p><l>svona<s n="adj"/></l><r>this<s n="adj"/></r></p></e>-->
@@ -7422,7 +7425,7 @@
     <e><p><l>syfjaður<s n="adj"/></l><r>sleepy<s n="adj"/></r></p></e>
 <!--<e><p><l>syfjaður<s n="adj"/></l><r>drowsy<s n="adj"/></r></p></e>-->
 <!--<e><p><l>syfjaður<s n="adj"/></l><r>tired<s n="adj"/></r></p></e>-->
-    <e><p><l>syfjulegur<s n="adj"/></l><r><g>looks<b/></g>sleepy<s n="adj"/></r></p></e>
+    <e><p><l>syfjulegur<s n="adj"/></l><r>looks<b/>sleepy<s n="adj"/></r></p></e>
 <!--<e><p><l>syfjulegur<s n="adj"/></l><r><g>looks<b/></g>drowsy<s n="adj"/></r></p></e>-->
 <!--<e><p><l>syfjulegur<s n="adj"/></l><r>slumberous<s n="adj"/></r></p></e>-->
 <!--<e><p><l>syfjulegur<s n="adj"/></l><r><g>looks<b/></g>tired<s n="adj"/></r></p></e>-->
@@ -7442,7 +7445,7 @@
     <e><p><l>sérstakur<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
     <e><p><l>sérstæður<s n="adj"/></l><r>unique<s n="adj"/></r></p></e>
 <!--<e><p><l>sérstæður<s n="adj"/></l><r>special<s n="adj"/></r></p></e>-->
-    <e><p><l>séríslenskur<s n="adj"/></l><r><g>uniquely<b/></g>Icelandic<s n="adj"/></r></p></e>
+    <e><p><l>séríslenskur<s n="adj"/></l><r>uniquely<b/>Icelandic<s n="adj"/></r></p></e>
     <e><p><l>sífelldur<s n="adj"/></l><r>constant<s n="adj"/></r></p></e>
 <!--<e><p><l>sífelldur<s n="adj"/></l><r>nonstop<s n="adj"/></r></p></e>-->
 <!--<e><p><l>sífelldur<s n="adj"/></l><r>enduring<s n="adj"/></r></p></e>-->
@@ -7539,7 +7542,7 @@
     <e><p><l>umkringdur<s n="adj"/></l><r>surrounded<s n="adj"/></r></p></e>
 <!--<e><p><l>umræddur<s n="adj"/></l><r>mentioned<s n="adj"/></r></p></e>-->
 <!--<e><p><l>umræddur<s n="adj"/></l><r>cited<s n="adj"/></r></p></e>-->
-    <e><p><l>umræddur<s n="adj"/></l><r><g>in<b/></g>question<s n="adj"/></r></p></e>
+    <e><p><l>umræddur<s n="adj"/></l><r>in<b/>question<s n="adj"/></r></p></e>
     <e><p><l>umtalsverður<s n="adj"/></l><r>considerable<s n="adj"/></r></p></e>
     <e><p><l>undanfarinn<s n="adj"/></l><r>recent<s n="adj"/></r></p></e>
     <e><p><l>undanskilinn<s n="adj"/></l><r>excluded<s n="adj"/></r></p></e>
@@ -7585,7 +7588,7 @@
 <!--<e><p><l>vandaður<s n="adj"/></l><r>fine<s n="adj"/></r></p></e>-->
 <!--<e><p><l>vandaður<s n="adj"/></l><r>sophisticated<s n="adj"/></r></p></e>-->
 <!--<e><p><l>vandaður<s n="adj"/></l><r>elaborate<s n="adj"/></r></p></e>-->
-    <e><p><l>vandaður<s n="adj"/></l><r><g>well<b/></g>made<s n="adj"/></r></p></e>
+    <e><p><l>vandaður<s n="adj"/></l><r>well<b/>made<s n="adj"/></r></p></e>
 <!--<e><p><l>vandræðalegur<s n="adj"/></l><r>awkward<s n="adj"/></r></p></e>-->
     <e><p><l>vandræðalegur<s n="adj"/></l><r>embarrassing<s n="adj"/></r></p></e>
     <e><p><l>vanur<s n="adj"/></l><r>experienced<s n="adj"/></r></p></e>
@@ -7768,7 +7771,7 @@
 <!--<e><p><l>áreiðanlegur<s n="adj"/></l><r>dependable<s n="adj"/></r></p></e>-->
 <!--<e><p><l>áreiðanlegur<s n="adj"/></l><r>responsible<s n="adj"/></r></p></e>-->
 <!--<e><p><l>áreiðanlegur<s n="adj"/></l><r>trustworthy<s n="adj"/></r></p></e>-->
-    <e><p><l>ástfanginn<s n="adj"/></l><r><g>in<b/></g>love<s n="adj"/></r></p></e>
+    <e><p><l>ástfanginn<s n="adj"/></l><r>in<b/>love<s n="adj"/></r></p></e>
 <!--<e><p><l>ástæðulaus<s n="adj"/></l><r>unwarranted<s n="adj"/></r></p></e>-->
     <e><p><l>ástæðulaus<s n="adj"/></l><r>unjustified<s n="adj"/></r></p></e>
 <!--<e><p><l>ástæðulaus<s n="adj"/></l><r>pointless<s n="adj"/></r></p></e>-->
@@ -9379,7 +9382,6 @@
 <!--<e><p><l>rölta<s n="vblex"/></l><r>amble<s n="vblex"/></r></p></e>-->
     <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
     <e><p><l>halda<s n="vblex"/><s n=":1"/></l><r>think<s n="vblex"/></r></p></e>
-    <e><p><l>greiða<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/><s n=":0"/></l><r>pay<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/><s n=":1"/></l><r>comb<s n="vblex"/></r></p></e>
     <e><p><l>rúma<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
@@ -9471,7 +9473,7 @@
 <!--<e><p><l>skipa<s n="vblex"/></l><r>occupy<s n="vblex"/></r></p></e>-->
     <e><p><l>skipta<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
 <!--<e><p><l>skipta<s n="vblex"/></l><r>switch<s n="vblex"/></r></p></e>-->
-    <e><p><l>skipuleggja<s n="vblex"/></l><r>organize<s n="vblex"/></r></p></e>
+    <e><p><l>skipuleggja<s n="vblex"/></l><r>organise<s n="vblex"/></r></p></e>
     <e><p><l>skjálfa<s n="vblex"/></l><r>shake<s n="vblex"/></r></p></e>
     <e><p><l>skjátla<s n="vblex"/></l><r>mistake<s n="vblex"/></r></p></e>
 <!--<e><p><l>skjóta<s n="vblex"/></l><r>fire<s n="vblex"/></r></p></e>-->
@@ -9674,7 +9676,7 @@
     <e><p><l>styðja<s n="vblex"/></l><r>support<s n="vblex"/></r></p></e>
     <e><p><l>stækka<s n="vblex"/></l><r>grow<s n="vblex"/></r></p></e>
     <e><p><l>stíga<s n="vblex"/></l><r>step<s n="vblex"/></r></p></e>
-    <e><p><l>stórauka<s n="vblex"/></l><r><g>greatly</g><b/>increase<s n="vblex"/></r></p></e>
+    <e><p><l>stórauka<s n="vblex"/></l><r>greatly<b/>increase<s n="vblex"/></r></p></e>
     <e><p><l>stökkva<s n="vblex"/></l><r>jump<s n="vblex"/></r></p></e>
     <e><p><l>stöðva<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
 <!--<e><p><l>stýra<s n="vblex"/></l><r>control<s n="vblex"/></r></p></e>-->
@@ -10388,7 +10390,7 @@
 <!--<e><p><l>fullkomlega<s n="adv"/></l><r>absolutely<s n="adv"/></r></p></e>-->
 <!--<e><p><l>fullkomlega<s n="adv"/></l><r>flawlessly<s n="adv"/></r></p></e>-->
 <!--<e><p><l>fyrirfram<s n="adv"/></l><r>beforehand<s n="adv"/></r></p></e>-->
-    <e><p><l>fyrirfram<s n="adv"/></l><r><g>in<b/></g>advance<s n="adv"/></r></p></e>
+    <e><p><l>fyrirfram<s n="adv"/></l><r>in<b/>advance<s n="adv"/></r></p></e>
     <e><p><l>fyrrum<s n="adv"/></l><r>former<s n="adv"/></r></p></e>
 <!--<e><p><l>fyrrum<s n="adv"/></l><r>sometime<s n="adv"/></r></p></e>-->
 <!--<e><p><l>fyrrum<s n="adv"/></l><r>earlier<s n="adv"/></r></p></e>-->
@@ -10425,7 +10427,7 @@
 <!--<e><p><l>hart<s n="adv"/></l><r>eagerly<s n="adv"/></r></p></e>-->
     <e><p><l>hart<s n="adv"/></l><r>hotly<s n="adv"/></r></p></e>
     <e><p><l>heim<s n="adv"/></l><r>home<s n="adv"/></r></p></e>
-    <e><p><l>heiman<s n="adv"/></l><r><g>away<b/>from<b/></g>home<s n="adv"/></r></p></e>
+    <e><p><l>heiman<s n="adv"/></l><r>away<b/>from<b/>home<s n="adv"/></r></p></e>
     <e><p><l>heimleiðis<s n="adv"/></l><r>homewards<s n="adv"/></r></p></e>
     <e><p><l>hingað<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
 <!--<e><p><l>hljóðlega<s n="adv"/></l><r>silently<s n="adv"/></r></p></e>-->
@@ -10451,9 +10453,9 @@
     <e><p><l>hálf<s n="adv"/></l><r>half<s n="adv"/></r></p></e>
     <e><p><l>hæfilega<s n="adv"/></l><r>suitably<s n="adv"/></r></p></e>
 <!--<e><p><l>hæfilega<s n="adv"/></l><r>reasonably<s n="adv"/></r></p></e>-->
-    <e><p><l>hérlendis<s n="adv"/></l><r><g>in<b/>this<b/></g>country<s n="adv"/></r></p></e>
+    <e><p><l>hérlendis<s n="adv"/></l><r>in<b/>this<b/>country<s n="adv"/></r></p></e>
     <e><p><l>hérna<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
-    <e><p><l>héðan<s n="adv"/></l><r><g>from<b/></g>here<s n="adv"/></r></p></e>
+    <e><p><l>héðan<s n="adv"/></l><r>from<b/>here<s n="adv"/></r></p></e>
     <e><p><l>innanborðs<s n="adv"/></l><r>inside<s n="adv"/></r></p></e>
 <!--<e><p><l>innanborðs<s n="adv"/></l><r>inboard<s n="adv"/></r></p></e>-->
     <e><p><l>innar<s n="adv"/></l><r><g>farther<b/></g>within<s n="adv"/></r></p></e>
@@ -10479,7 +10481,7 @@
 <!--<e><p><l>kurteislega<s n="adv"/></l><r>mannerly<s n="adv"/></r></p></e>-->
     <e><p><l>kæruleysislega<s n="adv"/></l><r>carelessly<s n="adv"/></r></p></e>
     <e><p><l>laust<s n="adv"/></l><r>lightly<s n="adv"/></r></p></e>
-    <e><p><l>liðlega<s n="adv"/></l><r><g>in<b/></g>excess<s n="adv"/></r></p></e>
+    <e><p><l>liðlega<s n="adv"/></l><r>in<b/>excess<s n="adv"/></r></p></e>
     <e><p><l>loks<s n="adv"/></l><r>finally<s n="adv"/></r></p></e>
     <e><p><l>loksins<s n="adv"/></l><r>finally<s n="adv"/></r></p></e>
     <e><p><l>lágt<s n="adv"/></l><r>lowest<s n="adv"/></r></p></e>
@@ -10525,7 +10527,7 @@
     <e><p><l>nokkurntíma<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
     <e><p><l>nokkurntímann<s n="adv"/></l><r>ever<s n="adv"/></r></p></e>
 <!--<e><p><l>nokkurntímann<s n="adv"/></l><r>anytime<s n="adv"/></r></p></e>-->
-    <e><p><l>norðar<s n="adv"/></l><r><g>farther<b/></g>north<s n="adv"/></r></p></e>
+    <e><p><l>norðar<s n="adv"/></l><r>farther<b/>north<s n="adv"/></r></p></e>
 
     <e><p><l>náið<s n="adv"/><s n="comp"/></l><r>in<b/>full<s n="adv"/></r></p></e>
     <e><p><l>náið<s n="adv"/><s n="sup"/></l><r>practically<s n="adv"/></r></p></e>
@@ -10547,9 +10549,9 @@
     <e><p><l>nýlega<s n="adv"/></l><r>lately<s n="adv"/></r></p></e>
     <e><p><l>of<s n="adv"/></l><r>too<s n="adv"/></r></p></e>
 <!--<e><p><l>ofan<s n="adv"/></l><r>above<s n="adv"/></r></p></e>-->
-    <e><p><l>ofan<s n="adv"/></l><r><g>from<b/></g>above<s n="adv"/></r></p></e>
+    <e><p><l>ofan<s n="adv"/></l><r>from<b/>above<s n="adv"/></r></p></e>
 <!--<e><p><l>ofan<s n="adv"/></l><r>down<s n="adv"/></r></p></e>-->
-    <e><p><l>ofar<s n="adv"/></l><r>higher<g><b/>than</g><s n="adv"/></r></p></e>
+    <e><p><l>ofar<s n="adv"/></l><r>higher<b/>than<s n="adv"/></r></p></e>
 <!--<e><p><l>ofboðslega<s n="adv"/></l><r>very<s n="adv"/></r></p></e>-->
 <!--<e><p><l>ofboðslega<s n="adv"/></l><r>terrifically<s n="adv"/></r></p></e>-->
     <e><p><l>ofboðslega<s n="adv"/></l><r>incredibly<s n="adv"/></r></p></e>
@@ -10711,10 +10713,10 @@
     <e><p><l>vissulega<s n="adv"/></l><r>surely<s n="adv"/></r></p></e>
 <!--<e><p><l>vissulega<s n="adv"/></l><r><g>of<b/></g>course<s n="adv"/></r></p></e>-->
 <!--<e><p><l>vitanlega<s n="adv"/></l><r>obviously<s n="adv"/></r></p></e>-->
-    <e><p><l>vitanlega<s n="adv"/></l><r><g>of<b/></g>course<s n="adv"/></r></p></e>
+    <e><p><l>vitanlega<s n="adv"/></l><r>of<b/>course<s n="adv"/></r></p></e>
 <!--<e><p><l>vitaskuld<s n="adv"/></l><r>obviously<s n="adv"/></r></p></e>-->
 <!--<e><p><l>vitaskuld<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>-->
-    <e><p><l>vitaskuld<s n="adv"/></l><r><g>of<b/></g>course<s n="adv"/></r></p></e>
+    <e><p><l>vitaskuld<s n="adv"/></l><r>of<b/>course<s n="adv"/></r></p></e>
     <e><p><l>vonandi<s n="adv"/></l><r>hopefully<s n="adv"/></r></p></e>
     <e><p><l>voðalega<s n="adv"/></l><r>awfully<s n="adv"/></r></p></e>
 <!--<e><p><l>voðalega<s n="adv"/></l><r>terribly<s n="adv"/></r></p></e>-->
@@ -10795,7 +10797,7 @@
 <!--<e><p><l>ýkja<s n="adv"/></l><r>brag<s n="adv"/></r></p></e>-->
 <!--<e><p><l>ýkja<s n="adv"/></l><r>color<s n="adv"/></r></p></e>-->
 <!--<e><p><l>ýkja<s n="adv"/></l><r>boast<s n="adv"/></r></p></e>-->
-    <e><p><l>þaðan<s n="adv"/></l><r><g>from<b/></g>there<s n="adv"/></r></p></e>
+    <e><p><l>þaðan<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
     <e><p><l>þrisvar<s n="adv"/></l><r>thrice<s n="adv"/></r></p></e>
 <!--<e><p><l>þrisvar<s n="adv"/></l><r>three<g><b/>times</g><s n="adv"/></r></p></e>-->
     <e><p><l>þrátt<s n="adv"/></l><r>despite<s n="adv"/></r></p></e>

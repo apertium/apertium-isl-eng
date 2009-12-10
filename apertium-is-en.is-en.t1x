@@ -286,6 +286,7 @@
   <def-var n="cur_verb_lem"/>
   <def-var n="cur_verb_fin"/>
   <def-var n="cur_subj_prn"/>
+  <def-var n="cur_subj_gen" v="&lt;m&gt;"/>
   <def-var n="cur_sent_adv"/>
   <def-var n="cur_adv_lema"/>
   <def-var n="cur_prep_lema"/>
@@ -865,6 +866,52 @@
              <clip pos="1" side="tl" part="lem"/>
              <lit v="their"/>
            </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="lem"/>
+               <lit v="sinn"/>
+             </equal>
+           </test>
+           <choose>
+             <when>
+               <test>
+                 <equal>
+                   <var n="cur_subj_gen"/>
+                   <lit-tag v="m"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="his"/>
+               </let>
+             </when>
+             <when>
+               <test>
+                 <equal>
+                   <var n="cur_subj_gen"/>
+                   <lit-tag v="f"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="her"/>
+               </let>
+             </when>
+             <when>
+               <test>
+                 <equal>
+                   <var n="cur_subj_gen"/>
+                   <lit-tag v="nt"/>
+                 </equal>
+               </test>
+               <let>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="its"/>
+               </let>
+             </when>
+           </choose>
          </when>
    </choose>
   </def-macro>
@@ -1976,6 +2023,10 @@
              <clip pos="1" side="sl" part="gen"/>
              <clip pos="1" side="sl" part="nbr"/>
            </concat>
+        </let>
+        <let>
+          <var n="cur_subj_gen"/>
+          <clip pos="1" side="sl" part="gen"/>
         </let>
       </otherwise>
      </choose>

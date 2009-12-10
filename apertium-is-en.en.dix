@@ -38948,6 +38948,7 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
+    <e lm="sentenced"><i>sentenced</i><par n="expensive__adj"/></e>
     <e lm="Afghan"><par n="Aa"/><i>fghan</i><par n="expensive__adj"/></e>
     <e lm="African"><par n="Aa"/><i>frican</i><par n="expensive__adj"/></e>
     <e lm="Albanian"><par n="Aa"/><i>lbanian</i><par n="expensive__adj"/></e>
@@ -42002,7 +42003,6 @@
     <e lm="orbit"><i>orbit</i><par n="accept__vblex"/></e>
     <e lm="order"><i>order</i><par n="accept__vblex"/></e>
     <e lm="organise"><i>organis</i><par n="liv/e__vblex"/></e>
-    <e lm="organize"><i>organiz</i><par n="liv/e__vblex"/></e>
     <e lm="originate"><i>originat</i><par n="liv/e__vblex"/></e>
     <e lm="outline"><i>outlin</i><par n="liv/e__vblex"/></e>
     <e lm="overcome"><i>overc</i><par n="bec/ome__vblex"/></e>
@@ -42013,7 +42013,7 @@
     <e lm="pack"><i>pack</i><par n="accept__vblex"/></e>
     <e lm="paint"><i>paint</i><par n="accept__vblex"/></e>
     <e lm="parade"><i>parad</i><par n="liv/e__vblex"/></e>
-    <e lm="paralyze"><i>paralyz</i><par n="liv/e__vblex"/></e>
+    <e lm="paralyse"><i>paralys</i><par n="liv/e__vblex"/></e>
     <e lm="park"><i>park</i><par n="accept__vblex"/></e>
     <e lm="part"><i>part</i><par n="accept__vblex"/></e>
     <e lm="participate"><i>participat</i><par n="liv/e__vblex"/></e>
