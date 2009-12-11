@@ -48,6 +48,7 @@
     <sdef n="sp" /> 
     <sdef n="def" /> 
     <sdef n="ind" /> 
+    <sdef n="ord" /> 
     <sdef n="actv" /> 
     <sdef n="midv" /> 
     <sdef n="sent" /> 
@@ -426,37 +427,36 @@
     <e><p><l>hundrað<s n="num"/></l><r>hundred<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>þúsund<s n="num"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
 
-    <e><p><l>fyrstur<s n="num"/></l><r>first<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>annar<s n="num"/></l><r>another<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>þriðji<s n="num"/></l><r>third<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>fjórði<s n="num"/></l><r>forth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>fimmti<s n="num"/></l><r>fifth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>sjötti<s n="num"/></l><r>sixth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>sjöundi<s n="num"/></l><r>seventh<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>áttundi<s n="num"/></l><r>eighth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>níundi<s n="num"/></l><r>ninth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>tíundi<s n="num"/></l><r>tenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>ellefti<s n="num"/></l><r>eleventh<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>tólfti<s n="num"/></l><r>twelfth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>þrettándi<s n="num"/></l><r>thirteenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>fjórtándi<s n="num"/></l><r>fourteenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>fimmtándi<s n="num"/></l><r>fifteenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>sextándi<s n="num"/></l><r>sixteenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>sautjándi<s n="num"/></l><r>seventeenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>seytjándi<s n="num"/></l><r>seventeenth<s n="num"/><s n="sp"/></r></p></e> <!-- older alternative spelling -->
-    <e><p><l>átjándi<s n="num"/></l><r>eighteenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>nítjándi<s n="num"/></l><r>nineteenth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>tuttugasti<s n="num"/></l><r>twentieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>þrítugasti<s n="num"/></l><r>thirtieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>fertugasti<s n="num"/></l><r>fortieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>fimmtugasti<s n="num"/></l><r>fiftieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>sextugasti<s n="num"/></l><r>sixtieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>sjötugasti<s n="num"/></l><r>seventieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>áttræðasti<s n="num"/></l><r>eightieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>níræðasti<s n="num"/></l><r>ninetieth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>hundraðasti<s n="num"/></l><r>hundredth<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>þúsundasti<s n="num"/></l><r>thousandth<s n="num"/><s n="sp"/></r></p></e>
-
+    <!-- These are adjectives [following FAO conventions] -->
+    <e><p><l>fyrstur<s n="adj"/><s n="ord"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>annar<s n="adj"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>þriðji<s n="adj"/><s n="ord"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fjórði<s n="adj"/><s n="ord"/></l><r>forth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fimmti<s n="adj"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sjötti<s n="adj"/><s n="ord"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sjöundi<s n="adj"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>áttundi<s n="adj"/><s n="ord"/></l><r>eighth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>níundi<s n="adj"/><s n="ord"/></l><r>ninth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>tíundi<s n="adj"/><s n="ord"/></l><r>tenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>ellefti<s n="adj"/><s n="ord"/></l><r>eleventh<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>tólfti<s n="adj"/><s n="ord"/></l><r>twelfth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>þrettándi<s n="adj"/><s n="ord"/></l><r>thirteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fjórtándi<s n="adj"/><s n="ord"/></l><r>fourteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fimmtándi<s n="adj"/><s n="ord"/></l><r>fifteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sextándi<s n="adj"/><s n="ord"/></l><r>sixteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sautjándi<s n="adj"/><s n="ord"/></l><r>seventeenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>átjándi<s n="adj"/><s n="ord"/></l><r>eighteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>nítjándi<s n="adj"/><s n="ord"/></l><r>nineteenth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>tuttugasti<s n="adj"/><s n="ord"/></l><r>twentieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>þrítugasti<s n="adj"/><s n="ord"/></l><r>thirtieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fertugasti<s n="adj"/><s n="ord"/></l><r>fortieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fimmtugasti<s n="adj"/><s n="ord"/></l><r>fiftieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sextugasti<s n="adj"/><s n="ord"/></l><r>sixtieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>sjötugasti<s n="adj"/><s n="ord"/></l><r>seventieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>áttræðasti<s n="adj"/><s n="ord"/></l><r>eightieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>níræðasti<s n="adj"/><s n="ord"/></l><r>ninetieth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>hundraðasti<s n="adj"/><s n="ord"/></l><r>hundredth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>þúsundasti<s n="adj"/><s n="ord"/></l><r>thousandth<s n="adj"/><s n="ord"/></r></p></e>
     
     <!-- Nouns -->
     <e><p><l>guð<s n="n"/><s n="nt"/></l><r>god<s n="n"/></r></p></e>
@@ -8902,6 +8902,7 @@
 <!--<e><p><l>hæfa<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>-->
     <e><p><l>hægja<s n="vblex"/></l><r>slow<s n="vblex"/></r></p></e>
     <e><p><l>hækka<s n="vblex"/></l><r>heighten<s n="vblex"/></r></p></e>
+    <e><p><l>hætta<s n="vblex"/></l><r>quit<s n="vblex"/></r></p></e>
 <!--<e><p><l>hækka<s n="vblex"/></l><r>rise<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>hækka<s n="vblex"/></l><r>climb<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>hífa<s n="vblex"/></l><r>heave<s n="vblex"/></r></p></e>-->
