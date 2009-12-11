@@ -1284,6 +1284,14 @@
 
     <pardef n="several__det">
 
+    <e r="RL">
+      <p>
+        <l></l>
+        <r><s n="det"/><s n="ind"/><s n="sg"/></r>
+      </p>
+    </e>
+
+
     <e>
       <p>
         <l></l>

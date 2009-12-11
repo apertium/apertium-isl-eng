@@ -61,7 +61,7 @@ SUBSTITUTE (vblex :0) (vblex :1) ("lýsa"ri) (1C Acc);
 #       0:"pay"
 #       1:"comb"
 SUBSTITUTE (vblex) (vblex :0) ("greiða"ri);
-SUBSTITUTE (vblex :0) (vblex :1) ("greiða"ri) (1C Dat);
+#SUBSTITUTE (vblex :0) (vblex :1) ("greiða"ri) (1C Dat);
 
 # "leggja" : 
 #       0:"lay"

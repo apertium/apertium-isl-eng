@@ -51,6 +51,7 @@
     <sdef n="actv" /> 
     <sdef n="midv" /> 
     <sdef n="sent" /> 
+    <sdef n="cm" /> 
     <sdef n="adj" /> 
     <sdef n="sint" /> 
     <sdef n="sup" /> 
@@ -96,6 +97,11 @@
       <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+    <pardef n="ýmis_various__det">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="ND"/></l><r><s n="pl"/></r></p></e>
     </pardef>
 
   </pardefs>
@@ -352,6 +358,11 @@
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="f"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="nt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>slíkur<s n="det"/><s n="ind"/><s n="GD"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
+
+    <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="m"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
+    <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="f"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
+    <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="nt"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
+    <e r="RL"><p><l>ýmis<s n="det"/><s n="ind"/><s n="GD"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
 
     <e r="LR"><p><l>margur<s n="det"/><s n="qnt"/><s n="m"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>margur<s n="det"/><s n="qnt"/><s n="f"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
@@ -11275,6 +11286,7 @@
 
     <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
 
+    <e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([0-9]+)?</re><p><l>˚C<s n="num"/></l><r>˚C<s n="num"/></r></p></e>
