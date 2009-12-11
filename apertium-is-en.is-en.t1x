@@ -95,6 +95,7 @@
     <cat-item tags="det.def.*"/>
     <cat-item tags="det.dem.*"/>
     <cat-item tags="det.qnt.*"/>
+    <cat-item tags="det.pos.*"/>
   </def-cat>
 
   <def-cat n="prn">
@@ -911,9 +912,72 @@
                  <lit v="its"/>
                </let>
              </when>
+             <otherwise>
+               <let>
+                 <clip pos="1" side="tl" part="lem"/>
+                 <lit v="its"/>
+               </let>
+             </otherwise>
            </choose>
          </when>
    </choose>
+  </def-macro>
+
+  <def-macro n="conc_det_pos" npar="1">
+     <choose>
+       <when>
+         <test>
+           <equal>
+             <clip pos="1" side="sl" part="lem"/>
+             <lit v="sinn"/>
+           </equal>
+         </test>
+         <choose>
+           <when>
+             <test>
+               <equal>
+                 <var n="cur_subj_gen"/>
+                 <lit-tag v="m"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="1" side="tl" part="lem"/>
+               <lit v="his"/>
+             </let>
+           </when>
+           <when>
+             <test>
+               <equal>
+                 <var n="cur_subj_gen"/>
+                 <lit-tag v="f"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="1" side="tl" part="lem"/>
+               <lit v="her"/>
+             </let>
+           </when>
+           <when>
+             <test>
+               <equal>
+                 <var n="cur_subj_gen"/>
+                 <lit-tag v="nt"/>
+               </equal>
+             </test>
+             <let>
+               <clip pos="1" side="tl" part="lem"/>
+               <lit v="its"/>
+             </let>
+           </when>
+           <otherwise>
+             <let>
+               <clip pos="1" side="tl" part="lem"/>
+               <lit v="its"/>
+             </let>
+           </otherwise>
+         </choose>
+       </when>
+     </choose>
   </def-macro>
 
   <def-macro n="conv_ref_prn" npar="1">
@@ -1565,6 +1629,9 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
+       <call-macro n="conc_det_pos">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>

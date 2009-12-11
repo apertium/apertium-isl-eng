@@ -373,6 +373,12 @@
     <e r="LR"><p><l>flestur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>most<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>flestur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>most<s n="det"/><s n="qnt"/></r></p></e>
 
+    <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="m"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="f"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
+    <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="nt"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
+    <e r="RL"><p><l>sinn<s n="det"/><s n="pos"/><s n="GD"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
+
+
 
 
     <!-- Numbers -->
@@ -2977,7 +2983,8 @@
     <!--<e><p><l>lífvera<s n="n"/><s n="f"/></l><r>life<b/>form<s n="n"/></r></p></e>-->
     <e><p><l>lífvera<s n="n"/><s n="f"/></l><r>organism<s n="n"/></r></p></e>
     <!--<e><p><l>lík<s n="n"/><s n="nt"/></l><r>cadaver<s n="n"/></r></p></e>-->
-    <e><p><l>lík<s n="n"/><s n="nt"/></l><r>corpse<s n="n"/></r></p></e>
+    <e><p><l>lík<s n="n"/><s n="nt"/></l><r>body<s n="n"/></r></p></e>
+    <!--<e><p><l>lík<s n="n"/><s n="nt"/></l><r>corpse<s n="n"/></r></p></e>-->
     <e><p><l>líkami<s n="n"/><s n="m"/></l><r>body<s n="n"/></r></p></e>
     <!--<e><p><l>líkamsrækt<s n="n"/><s n="f"/></l><r>bodybuilding<s n="n"/></r></p></e>-->
     <!--<e><p><l>líkamsrækt<s n="n"/><s n="f"/></l><r>physical<b/>training<s n="n"/></r></p></e>-->
