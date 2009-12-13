@@ -8142,6 +8142,7 @@
     <e><p><l>sjá<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
     <e><p><l>breyta<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
+    <e><p><l>brenna<s n="vblex"/></l><r>burn<s n="vblex"/></r></p></e>
     <e><p><l>afskrifa<s n="vblex"/></l><r>copy<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>skrifa<g><b/>undir</g><s n="vblex"/></l><r>underwrite<s n="vblex"/></r></p></e>
@@ -8170,6 +8171,63 @@
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="actv"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="midv"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
+
+    <e><p><l>bana<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
+    <!--<e><p><l>bana<s n="vblex"/></l><r>slay<s n="vblex"/></r></p></e>-->
+    <e><p><l>beygja<s n="vblex"/></l><r>bend<s n="vblex"/></r></p></e>
+    <e><p><l>birta<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
+    <e><p><l>blinda<s n="vblex"/></l><r>blind<s n="vblex"/></r></p></e>
+    <e><p><l>blunda<s n="vblex"/></l><r>nap<s n="vblex"/></r></p></e>
+    <e><p><l>byrgja<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
+    <e><p><l>drýgja<s n="vblex"/></l><r>commit<s n="vblex"/></r></p></e>
+    <e><p><l>drýgja<g><b/>glæp</g><s n="vblex"/></l><r>commit<g><b/>a<b/>crime</g><s n="vblex"/></r></p></e>
+    <e><p><l>fæða<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>
+    <e><p><l>flétta<s n="vblex"/></l><r>twist<s n="vblex"/></r></p></e>
+    <e><p><l>flétta<g><b/>inn<b/>í</g><s n="vblex"/></l><r>mix<g><b/>with</g><s n="vblex"/></r></p></e>
+    <e><p><l>fræða<s n="vblex"/></l><r>instruct<s n="vblex"/></r></p></e>
+    <!--<e><p><l>fræða<s n="vblex"/></l><r>inform<s n="vblex"/></r></p></e>-->
+    <e><p><l>fylkja<s n="vblex"/></l><r>muster<s n="vblex"/></r></p></e>
+    <e><p><l>fylkja<g><b/>liði</g><s n="vblex"/></l><r>muster<g><b/>a<b/>force</g><s n="vblex"/></r></p></e>
+    <e><p><l>gifta<s n="vblex"/><s n="actv"/></l><r>give<g><b/>in<b/>marriage</g><s n="vblex"/></r></p></e>
+    <e><p><l>gifta<s n="vblex"/><s n="midv"/></l><r>get<g><b/>married</g><s n="vblex"/></r></p></e>
+    <e><p><l>handtaka<s n="vblex"/></l><r>arrest<s n="vblex"/></r></p></e>
+    <e><p><l>heilsa<s n="vblex"/></l><r>greet<s n="vblex"/></r></p></e>
+    <e><p><l>hræða<s n="vblex"/></l><r>frighten<s n="vblex"/></r></p></e>
+    <!--<e><p><l>hræða<s n="vblex"/></l><r>intimidate<s n="vblex"/></r></p></e>-->
+    <e><p><l>hrækja<s n="vblex"/></l><r>spit<s n="vblex"/></r></p></e>
+    <e><p><l>hryggja<s n="vblex"/></l><r>grieve<s n="vblex"/></r></p></e>
+    <!--<e><p><l>hryggja<s n="vblex"/></l><r>sadden<s n="vblex"/></r></p></e>-->
+    <e><p><l>hýða<s n="vblex"/></l><r>whip<s n="vblex"/></r></p></e>
+    <!--<e><p><l>hýða<s n="vblex"/></l><r>peel<s n="vblex"/></r></p></e>-->
+    <e><p><l>kóróna<s n="vblex"/></l><r>crown<s n="vblex"/></r></p></e>
+    <!--<e><p><l>kóróna<s n="vblex"/></l><r>coronate<s n="vblex"/></r></p></e>-->
+    <e><p><l>lægja<s n="vblex"/></l><r>reduce<s n="vblex"/></r></p></e>
+    <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
+    <!--<e><p><l>lemja<s n="vblex"/></l><r>strike<s n="vblex"/></r></p></e>-->
+    <!--<e><p><l>lemja<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>-->
+    <e><p><l>lúta<s n="vblex"/></l><r>stoop<s n="vblex"/></r></p></e>
+    <!--<e><p><l>lúta<s n="vblex"/></l><r>bend<s n="vblex"/></r></p></e>-->
+    <e><p><l>mala<s n="vblex"/></l><r>crush<s n="vblex"/></r></p></e>
+    <!--<e><p><l>mala<s n="vblex"/></l><r>grind<s n="vblex"/></r></p></e>-->
+    <!--<e><p><l>mala<s n="vblex"/></l><r>mill<s n="vblex"/></r></p></e>-->
+    <!--<e><p><l>mala<s n="vblex"/></l><r>chatter<s n="vblex"/></r></p></e>-->
+    <e><p><l>rækja<s n="vblex"/></l><r>perform<s n="vblex"/></r></p></e>
+    <!--<e><p><l>rækja<s n="vblex"/></l><r>pursue<s n="vblex"/></r></p></e>-->
+    <e><p><l>semja<s n="vblex"/></l><r>compose<s n="vblex"/></r></p></e>
+    <!--<e><p><l>semja<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>-->
+    <!--<e><p><l>semja<s n="vblex"/></l><r>negotiate<s n="vblex"/></r></p></e>-->
+    <e><p><l>steikja<s n="vblex"/></l><r>roast<s n="vblex"/></r></p></e>
+    <!--<e><p><l>steikja<s n="vblex"/></l><r>fry<s n="vblex"/></r></p></e>-->
+    <!--<e><p><l>steikja<s n="vblex"/></l><r>grill<s n="vblex"/></r></p></e>-->
+    <e><p><l>strá<s n="vblex"/></l><r>spread<s n="vblex"/></r></p></e>
+    <e><p><l>sverfa<s n="vblex"/></l><r>file<s n="vblex"/></r></p></e>
+    <e><p><l>syrgja<s n="vblex"/></l><r>mourn<s n="vblex"/></r></p></e>
+    <!--<e><p><l>syrgja<s n="vblex"/></l><r>grieve<g><b/>over</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>vægja<s n="vblex"/></l><r>spare<s n="vblex"/></r></p></e>
+    <!--<e><p><l>vægja<s n="vblex"/></l><r>give<g><b/>in</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>þerra<s n="vblex"/></l><r>dry<s n="vblex"/></r></p></e>
+    <e><p><l>þruma<s n="vblex"/></l><r>thunder<s n="vblex"/></r></p></e>
+    <!--<e><p><l>þruma<s n="vblex"/></l><r>roar<s n="vblex"/></r></p></e>-->
 
   
   <!-- Checked verbs from Anton's list -->
@@ -8302,6 +8360,7 @@
     <!--<e><p><l>brölta<s n="vblex"/></l><r>climb<s n="vblex"/></r></p></e>-->
     <!--<e><p><l>brölta<s n="vblex"/></l><r>struggle<s n="vblex"/></r></p></e>-->
     <e><p><l>byggja<s n="vblex"/></l><r>build<s n="vblex"/></r></p></e>
+    <e><p><l>byggja<g><b/>upp</g><s n="vblex"/></l><r>structure<s n="vblex"/></r></p></e>
     <e><p><l>bylta<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
     <!--<e><p><l>bylta<s n="vblex"/></l><r>welter<s n="vblex"/></r></p></e>-->
     <e><p><l>byrja<s n="vblex"/></l><r>begin<s n="vblex"/></r></p></e>
@@ -9891,6 +9950,7 @@
 <!--<e><p><l>upplýsa<s n="vblex"/></l><r>enlighten<s n="vblex"/></r></p></e>-->
     <e><p><l>vafra<s n="vblex"/></l><r>browse<s n="vblex"/></r></p></e>
     <e><p><l>vinna<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
+    <e><p><l>vinna<g><b/>á</g><s n="vblex"/></l><r>gain<g><b/>ground</g><s n="vblex"/></r></p></e>
 <!--<e><p><l>vaka<s n="vblex"/></l><r>wake<s n="vblex"/></r></p></e>-->
     <e><p><l>vaka<s n="vblex"/></l><r>stay<g><b/>awake</g><s n="vblex"/></r></p></e>
 <!--<e><p><l>vakna<s n="vblex"/></l><r>awake<s n="vblex"/></r></p></e>-->
