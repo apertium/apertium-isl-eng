@@ -293,9 +293,11 @@
     <!-- Pronouns -->
     <e><p><l>ég<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>þú<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>þér<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>hann<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>hún<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e><p><l>það<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>vér<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
     <e><p><l>minn<s n="prn"/><s n="pos"/></l><r>mine<s n="prn"/><s n="pos"/></r></p></e>
     <e><p><l>þinn<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p></e>
@@ -360,6 +362,11 @@
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="nt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>slíkur<s n="det"/><s n="ind"/><s n="GD"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
 
+    <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="m"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="f"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="nt"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>neinn<s n="det"/><s n="ind"/><s n="GD"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
+
     <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="m"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
     <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="f"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
     <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="nt"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
@@ -374,7 +381,6 @@
     <e r="LR"><p><l>allur<s n="det"/><s n="qnt"/><s n="f"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>allur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>allur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
-
 
     <e r="LR"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="mf"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="nt"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
@@ -431,7 +437,7 @@
     <e><p><l>fyrstur<s n="adj"/><s n="ord"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>annar<s n="adj"/><s n="ord"/></l><r>second<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>þriðji<s n="adj"/><s n="ord"/></l><r>third<s n="adj"/><s n="ord"/></r></p></e>
-    <e><p><l>fjórði<s n="adj"/><s n="ord"/></l><r>forth<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>fjórði<s n="adj"/><s n="ord"/></l><r>fourth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>fimmti<s n="adj"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>sjötti<s n="adj"/><s n="ord"/></l><r>sixth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>sjöundi<s n="adj"/><s n="ord"/></l><r>seventh<s n="adj"/><s n="ord"/></r></p></e>
@@ -571,6 +577,7 @@
     <e><p><l>andlát<s n="n"/><s n="nt"/></l><r>death<s n="n"/></r></p></e>
     <e><p><l>andrúmsloft<s n="n"/><s n="nt"/></l><r>atmosphere<s n="n"/></r></p></e>
     <e><p><l>andstaða<s n="n"/><s n="f"/></l><r>opposition<s n="n"/></r></p></e>
+    <e><p><l>örk<s n="n"/><s n="f"/></l><r>sheet<s n="n"/></r></p></e> <!-- of paper -->
     <e><p><l>andstæða<s n="n"/><s n="f"/></l><r>opposition<s n="n"/></r></p></e>
     <e><p><l>andstæða<s n="n"/><s n=":1"/><s n="f"/></l><r>contrast<s n="n"/></r></p></e>
     <e><p><l>andstæðingur<s n="n"/><s n="m"/></l><r>opponent<s n="n"/></r></p></e>
@@ -2697,6 +2704,7 @@
     <e><p><l>kvæði<s n="n"/><s n="nt"/></l><r>poem<s n="n"/></r></p></e>
     <e><p><l>kví<s n="n"/><s n="f"/></l><r>pen<s n="n"/></r></p></e>
     <e><p><l>kvísl<s n="n"/><s n="f"/></l><r>branch<s n="n"/></r></p></e>
+    <e><p><l>ættkvísl<s n="n"/><s n="f"/></l><r>tribe<s n="n"/></r></p></e>
     <e><p><l>kvöld<s n="n"/><s n="nt"/></l><r>evening<s n="n"/></r></p></e>
     <e><p><l>kvöldmatur<s n="n"/><s n="m"/></l><r>dinner<s n="n"/></r></p></e>
     <e><p><l>kvöldverður<s n="n"/><s n="m"/></l><r>dinner<s n="n"/></r></p></e>
@@ -3233,6 +3241,7 @@
     <e><p><l>sólmyrkvi<s n="n"/><s n="m"/></l><r>solar<b/>eclipse<s n="n"/></r></p></e>
     <e><p><l>tunglmyrkvi<s n="n"/><s n="m"/></l><r>lunar<b/>eclipse<s n="n"/></r></p></e>
     <e><p><l>máfur<s n="n"/><s n="m"/></l><r>gull<s n="n"/></r></p></e>
+    <e><p><l>lögmál<s n="n"/><s n="nt"/></l><r>law<s n="n"/></r></p></e> <!-- of nature -->
     <e><p><l>mál<s n="n"/><s n="nt"/></l><r>matter<s n="n"/></r></p></e> <!-- 'matter' seems more frequent in news text -->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>language<s n="n"/></r></p></e>-->
     <!--<e><p><l>mál<s n="n"/><s n="nt"/></l><r>cup<s n="n"/></r></p></e>-->
@@ -3451,6 +3460,7 @@
     <e><p><l>ormur<s n="n"/><s n="m"/></l><r>worm<s n="n"/></r></p></e>
     <e><p><l>orrusta<s n="n"/><s n="f"/></l><r>battle<s n="n"/></r></p></e>
     <e><p><l>orsök<s n="n"/><s n="f"/></l><r>cause<s n="n"/></r></p></e>
+    <e><p><l>boðorð<s n="n"/><s n="f"/></l><r>commandment<s n="n"/></r></p></e>
     <!--<e><p><l>orsök<s n="n"/><s n="f"/></l><r>reason<s n="n"/></r></p></e>-->
     <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>message<s n="n"/></r></p></e>-->
     <!--<e><p><l>orð<s n="n"/><s n="nt"/></l><r>remark<s n="n"/></r></p></e>-->
@@ -4582,6 +4592,7 @@
     <e><p><l>tímarit<s n="n"/><s n="nt"/></l><r>magazine<s n="n"/></r></p></e>
     <!--<e><p><l>tímatal<s n="n"/><s n="nt"/></l><r>calendar<s n="n"/></r></p></e>-->
     <e><p><l>tímatal<s n="n"/><s n="nt"/></l><r>chronology<s n="n"/></r></p></e>
+    <e r="LR"><p><l>mund<s n="n"/><s n="f"/></l><r>time<s n="n"/></r></p></e>
     <e><p><l>tímavél<s n="n"/><s n="f"/></l><r>time<b/>machine<s n="n"/></r></p></e>
     <!--<e><p><l>tími<s n="n"/><s n="m"/></l><r>hour<s n="n"/></r></p></e>-->
     <e><p><l>tími<s n="n"/><s n="m"/></l><r>time<s n="n"/></r></p></e>
@@ -4761,11 +4772,10 @@
     <e><p><l>verksmiðja<s n="n"/><s n="f"/></l><r>factory<s n="n"/></r></p></e>
     <!--<e><p><l>verkur<s n="n"/><s n="m"/></l><r>pain<s n="n"/></r></p></e>-->
     <e><p><l>verkur<s n="n"/><s n="m"/></l><r>ache<s n="n"/></r></p></e>
-    <!--<e><p><l>verslun<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>-->
-    <e><p><l>verslun<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e>
+    <!--<e><p><l>verslun<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e>-->
+    <e><p><l>verslun<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>
     <e><p><l>veruleiki<s n="n"/><s n="m"/></l><r>reality<s n="n"/></r></p></e>
-    <!--<e><p><l>verzlun<s n="n"/><s n="f"/></l><r>shop<s n="n"/></r></p></e>-->
-    <e><p><l>verzlun<s n="n"/><s n="f"/></l><r>store<s n="n"/></r></p></e> <!-- older spelling, rarely used -->
+    <e><p><l>sannleiki<s n="n"/><s n="m"/></l><r>truth<s n="n"/></r></p></e>
     <e><p><l>verð<s n="n"/><s n="nt"/></l><r>price<s n="n"/></r></p></e>
     <e><p><l>veröld<s n="n"/><s n="f"/></l><r>world<s n="n"/></r></p></e>
     <e><p><l>verönd<s n="n"/><s n="f"/></l><r>porch<s n="n"/></r></p></e>
@@ -5871,6 +5881,7 @@
 
 
     <e><p><l>Guð<s n="np"/><s n="al"/><s n="m"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Kristur<s n="np"/><s n="al"/><s n="m"/></l><r>Christ<s n="np"/><s n="al"/></r></p></e>
 
 
     <e><p><l>Sameinuðu<b/>þjóðirnar<s n="np"/><s n="org"/><s n="f"/></l><r>United<b/>Nations<s n="np"/><s n="org"/></r></p></e>
@@ -5878,13 +5889,14 @@
     <e><p><l>Sjálfstæðisflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Independence<b/>Party<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>Framsóknarflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Progressive<b/>Party<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="m"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>Vinstri-Græn<s n="np"/><s n="org"/><s n="m"/></l><r>Left<b/>Wing<b/>Alliance<s n="np"/><s n="org"/></r></p></e>     <!-- NB the translation was a shot in the dark -->
+    <e><p><l>Vinstri-Græn<s n="np"/><s n="org"/><s n="m"/></l><r>Left-Green<b/>Alliance<s n="np"/><s n="org"/></r></p></e>     <!-- NB the translation was a shot in the dark // better with Green ? -FMT -->
 
 
 
     <!-- Adjectives -->
     <e><p><l>góður<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
+    <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
     <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
     <e><p><l>rauður<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>flókinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
@@ -5915,6 +5927,7 @@
     <e><p><l>sannur<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
     <e><p><l>fullur<s n="adj"/></l><r>drunk<s n="adj"/></r></p></e>
+    <e><p><l>hallur<s n="adj"/></l><r>inclined<s n="adj"/></r></p></e>
     <e><p><l>heiður<s n="adj"/></l><r>bright<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>fjölbreyttur<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>
     <e><p><l>megn<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
@@ -5966,6 +5979,8 @@
     <e><p><l>auður<s n="adj"/></l><r>empty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>huggulegur<s n="adj"/></l><r>nice<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>skemmtilegur<s n="adj"/></l><r>funny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>óguðlegur<s n="adj"/></l><r>godless<s n="adj"/></r></p></e>
+    <e><p><l>óhreinn<s n="adj"/></l><r>dirty<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>óreglulegur<s n="adj"/></l><r>irregular<s n="adj"/></r></p></e>
     <e><p><l>nauðsynlegur<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
     <e><p><l>mögulegur<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
@@ -6043,7 +6058,6 @@
     <!--<e><p><l>reisa<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
     <e><p><l>ákveðinn<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
     <!--<e><p><l>haldinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>neinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
     <!--<e><p><l>fenginn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
     <!--<e><p><l>tekinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
     <!--<e><p><l>falinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
@@ -8120,6 +8134,7 @@
     <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
+    <e><p><l>skulu<s n="vaux"/></l><r>shall<s n="vaux"/></r></p></e>
 
     <e><p><l>vera<g><b/>á<b/>reki</g><s n="vblex"/></l><r>be<g><b/>adrift</g><s n="vblex"/></r></p></e>
     <e><p><l>vera<g><b/>í<b/>samræmi</g><s n="vblex"/></l><r>be<g><b/>consistent</g><s n="vblex"/></r></p></e>
@@ -8417,6 +8432,7 @@
 <!--<e><p><l>faðma<s n="vblex"/></l><r>cuddle<s n="vblex"/></r></p></e>-->
     <e><p><l>fela<s n="vblex"/></l><r>hide<s n="vblex"/></r></p></e>
     <!--<e><p><l>fela<s n="vblex"/></l><r>conceal<s n="vblex"/></r></p></e>-->
+    <e><p><l>drepa<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>
     <e><p><l>fella<s n="vblex"/></l><r>trip<s n="vblex"/></r></p></e>
 <!--<e><p><l>fella<s n="vblex"/></l><r>collapse<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>fella<s n="vblex"/></l><r>kill<s n="vblex"/></r></p></e>--> <!-- to kill an animal -->
@@ -9238,6 +9254,7 @@
 <!--<e><p><l>neyta<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>neyta<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>-->
     <e><p><l>neyða<s n="vblex"/></l><r>force<s n="vblex"/></r></p></e>
+    <e><p><l>eyða<s n="vblex"/></l><r>destroy<s n="vblex"/></r></p></e>
     <e><p><l>njóta<s n="vblex"/></l><r>enjoy<s n="vblex"/></r></p></e>
 <!--<e><p><l>njóta<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>-->
     <e><p><l>nota<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
@@ -9873,6 +9890,7 @@
     <e><p><l>upplýsa<s n="vblex"/></l><r>inform<s n="vblex"/></r></p></e>
 <!--<e><p><l>upplýsa<s n="vblex"/></l><r>enlighten<s n="vblex"/></r></p></e>-->
     <e><p><l>vafra<s n="vblex"/></l><r>browse<s n="vblex"/></r></p></e>
+    <e><p><l>vinna<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
 <!--<e><p><l>vaka<s n="vblex"/></l><r>wake<s n="vblex"/></r></p></e>-->
     <e><p><l>vaka<s n="vblex"/></l><r>stay<g><b/>awake</g><s n="vblex"/></r></p></e>
 <!--<e><p><l>vakna<s n="vblex"/></l><r>awake<s n="vblex"/></r></p></e>-->
