@@ -615,10 +615,20 @@
       <choose>
         <when>
           <test>
-            <equal>
-              <clip pos="1" side="sl" part="lem"/>
-              <lit v="munu"/>
-            </equal>
+            <or>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="skulu"/>
+              </equal>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="mega"/>
+              </equal>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="munu"/>
+              </equal>
+            </or>
           </test>
           <let>
             <clip pos="1" side="tl" part="temps"/>

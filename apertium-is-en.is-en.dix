@@ -4543,7 +4543,7 @@
     <!--<e><p><l>truflun<s n="n"/><s n="f"/></l><r>interruption<s n="n"/></r></p></e>-->
     <!--<e><p><l>truflun<s n="n"/><s n="f"/></l><r>intrusion<s n="n"/></r></p></e>-->
     <e><p><l>trygging<s n="n"/><s n="f"/></l><r>insurance<s n="n"/></r></p></e>
-    <e><p><l>tré<s n="n"/><s n="nt"/></l><r>tree<s n="n"/></r></p></e>
+    <e><p><l>skilningstré<s n="n"/><s n="nt"/></l><r>tree<g><b/>of<b/>knowledge</g><s n="n"/></r></p></e>
     <e><p><l>tréblásturshljóðfæri<s n="n"/><s n="nt"/></l><r>woodwind<s n="n"/></r></p></e>
     <e><p><l>tríósónata<s n="n"/><s n="f"/></l><r>trio<b/>sonata<s n="n"/></r></p></e>
     <e><p><l>trójuhestur<s n="n"/><s n="m"/></l><r>Trojan<b/>horse<s n="n"/></r></p></e>
@@ -8135,6 +8135,7 @@
     <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
     <e><p><l>skulu<s n="vaux"/></l><r>shall<s n="vaux"/></r></p></e>
+    <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
 
     <e><p><l>vera<g><b/>á<b/>reki</g><s n="vblex"/></l><r>be<g><b/>adrift</g><s n="vblex"/></r></p></e>
     <e><p><l>vera<g><b/>í<b/>samræmi</g><s n="vblex"/></l><r>be<g><b/>consistent</g><s n="vblex"/></r></p></e>
@@ -9272,7 +9273,6 @@
 <!--<e><p><l>mata<s n="vblex"/></l><r>nurse<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>mata<s n="vblex"/></l><r>nurture<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>mega<s n="vblex"/></l><r>can<s n="vblex"/></r></p></e>-->
-    <e><p><l>mega<s n="vblex"/></l><r>may<s n="vblex"/></r></p></e>
     <e><p><l>meina<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>
     <e><p><l>meiða<s n="vblex"/></l><r>hurt<s n="vblex"/></r></p></e>
 <!--<e><p><l>meiða<s n="vblex"/></l><r>injure<s n="vblex"/></r></p></e>-->
@@ -10589,6 +10589,7 @@
 <!--<e><p><l>jafnan<s n="adv"/></l><r>normally<s n="adv"/></r></p></e>-->
 <!--<e><p><l>jafnskjótt<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>-->
     <e><p><l>jafnskjótt<s n="adv"/></l><r>simultaneously<s n="adv"/></r></p></e>
+    <e><p><l>jafnskjótt<b/>og<s n="adv"/></l><r>as<b/>soon<b/>as<s n="adv"/></r></p></e>
 <!--<e><p><l>jafnskjótt<s n="adv"/></l><r>concurrently<s n="adv"/></r></p></e>-->
 <!--<e><p><l>jafnskjótt<s n="adv"/></l><r>synchronously<s n="adv"/></r></p></e>-->
     <e><p><l>jafnt<s n="adv"/></l><r>equal<s n="adv"/></r></p></e>

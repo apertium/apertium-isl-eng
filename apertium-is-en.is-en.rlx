@@ -317,6 +317,9 @@ SELECT Participle IF (-1C VerbAux);
 #Himinninn er blár
 REMOVE Rel IF (0 ("<er>"ri)) (NOT -1* VerbFin BARRIER CLB) (NOT 1* VerbFin BARRIER CLB);
 
+#mátt þú ekki eta
+SELECT MODV + $$PERSON IF (1C PersPron + $$PERSON);
+
 
 #################################################################################
 # Syntax  
