@@ -8166,7 +8166,32 @@
     <e><p><l>fá<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
     <e><p><l>gera<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
     <e><p><l>láta<s n="vblex"/></l><r>let<s n="vblex"/></r></p></e>
+    <e><p><l>láta<g><b/>af</g><s n="vblex"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>tala<s n="vblex"/></l><r>talk<s n="vblex"/></r></p></e>
+
+    <e><p><l>gáta<s n="vblex"/></l><r>check<s n="vblex"/></r></p></e>
+    <e><p><l>bleikja<s n="vblex"/></l><r>bleach<s n="vblex"/></r></p></e>
+    <e><p><l>hneggja<s n="vblex"/></l><r>neigh<s n="vblex"/></r></p></e>
+    <e><p><l>mýkja<s n="vblex"/></l><r>soften<s n="vblex"/></r></p></e>
+    <e><p><l>rykkja<s n="vblex"/></l><r>pull<s n="vblex"/></r></p></e>
+    <e><p><l>skenkja<s n="vblex"/></l><r>donate<s n="vblex"/></r></p></e>
+    <!--<e><p><l>skenkja<s n="vblex"/></l><r>pour<g><b/>out</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>þyrla<s n="vblex"/></l><r>whirl<s n="vblex"/></r></p></e>
+    <!--<e><p><l>þyrla<s n="vblex"/></l><r>swirl<s n="vblex"/></r></p></e>-->
+    <e><p><l>sníða<s n="vblex"/></l><r>cut<s n="vblex"/></r></p></e>
+    <!--<e><p><l>sníða<s n="vblex"/></l><r>cut<g><b/>out</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>bika<s n="vblex"/></l><r>tar<s n="vblex"/></r></p></e>
+    <!--<e><p><l>bika<s n="vblex"/></l><r>pitch<s n="vblex"/></r></p></e>-->
+    <e><p><l>afklæða<s n="vblex"/></l><r>undress<s n="vblex"/></r></p></e>
+    <!--<e><p><l>afklæða<s n="vblex"/></l><r>strip<s n="vblex"/></r></p></e>-->
+    <e><p><l>dá<s n="vblex"/></l><r>admire<s n="vblex"/></r></p></e>
+    <!--<e><p><l>dá<s n="vblex"/></l><r>adore<s n="vblex"/></r></p></e>-->
+    <e><p><l>kæfa<s n="vblex"/></l><r>suffocate<s n="vblex"/></r></p></e>
+    <!--<e><p><l>kæfa<s n="vblex"/></l><r>choke<s n="vblex"/></r></p></e>-->
+    <e><p><l>niðurlægja<s n="vblex"/></l><r>humiliate<s n="vblex"/></r></p></e>
+    <e><p><l>beiða<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
+    <!--<e><p><l>beiða<s n="vblex"/></l><r>request<s n="vblex"/></r></p></e>-->
+
     
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="actv"/></l><r>come<s n="vblex"/></r></p></e>
