@@ -42931,6 +42931,7 @@
     <e lm="home"><i>home</i><par n="maybe__adv"/></e>
     <e lm="hopelessly"><i>hopelessly</i><par n="maybe__adv"/></e>
     <e lm="how"><i>how</i><par n="where__adv"/></e>
+    <e lm="who"><i>who</i><par n="where__adv"/></e>
     <e lm="however"><i>however</i><par n="maybe__adv"/></e>
     <e lm="hugely"><i>hugely</i><par n="maybe__adv"/></e>
     <e lm="humbly"><i>humbly</i><par n="maybe__adv"/></e>
@@ -43582,7 +43583,6 @@
     <e lm="quite"><i>quite</i><par n="maybe__adv"/></e>
     <e lm="outer"><i>outer</i><par n="maybe__adv"/></e>
     <e lm="thrice"><i>thrice</i><par n="maybe__adv"/></e>
-    <e lm="who"><i>who</i><par n="maybe__adv"/></e>
     <e lm="onward"><i>onward</i><par n="maybe__adv"/></e>
     <e lm="homewards"><i>homewards</i><par n="maybe__adv"/></e>
     <e lm="in this country"><i>in<b/>this<b/>country</i><par n="maybe__adv"/></e>
