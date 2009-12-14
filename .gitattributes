@@ -18,6 +18,7 @@
 /demo.sh -text
 /detailedDemo.sh -text
 dev/NOTES -text
+dev/apertium-is-en.is-en.dix.sorted -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
 dev/inconsistency.sh -text
