@@ -1133,6 +1133,54 @@
          </when>
          <when>
            <test>
+             <equal>
+               <var n="cur_subj_prn"/>
+               <lit-tag v="p1.mf.pl"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="ourselves"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="pers"/>
+             <lit-tag v="p1"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="mf"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="nbr"/>
+             <lit-tag v="pl"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <var n="cur_subj_prn"/>
+               <lit-tag v="p2.mf.pl"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="yourselves"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="pers"/>
+             <lit-tag v="p2"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="mf"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="nbr"/>
+             <lit-tag v="pl"/>
+           </let>
+         </when>
+         <when>
+           <test>
              <or>
                <equal>
                  <var n="cur_subj_prn"/>
