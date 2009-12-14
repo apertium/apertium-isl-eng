@@ -205,6 +205,8 @@ SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 # Personal pronouns 
 #################################################################################
 
+#ég gerði það sjálfur
+SELECT Acc IF (-1 VerbFin) (-1C* PersPron + Nom);
 
 #################################################################################
 # Indefinite pronouns 

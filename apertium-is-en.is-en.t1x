@@ -249,6 +249,7 @@
      <attr-item tags="p1"/>
      <attr-item tags="p2"/>
      <attr-item tags="p3"/>
+     <attr-item tags="PD"/>
   </def-attr>
 
   <def-attr n="nbr">
@@ -1009,6 +1010,55 @@
           </and>
         </test>
         <choose>
+         <when>
+           <test>
+             <equal>
+               <var n="cur_subj_prn"/>
+               <lit-tag v="p1.mf.sg"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="myself"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="pers"/>
+             <lit-tag v="p1"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="mf"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="nbr"/>
+             <lit-tag v="sg"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <var n="cur_subj_prn"/>
+               <lit-tag v="p2.mf.sg"/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="yourself"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="pers"/>
+             <lit-tag v="p2"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="mf"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="nbr"/>
+             <lit-tag v="sg"/>
+           </let>
+         </when>
+
          <when>
            <test>
              <equal>

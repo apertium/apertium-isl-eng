@@ -61,6 +61,7 @@
     <sdef n="preadv" /> 
     <sdef n="GD" /> 
     <sdef n="ND" /> 
+    <sdef n="PD" /> 
 
     <sdef n=":0" /> 
     <sdef n=":1" /> 
@@ -330,6 +331,7 @@
 
 <!-- <s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/> -->
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <!-- Determiners -->
     <e r="LR"><p><l>hinn<s n="det"/><s n="def"/><s n="m"/></l><r>the<s n="det"/><s n="def"/></r></p></e>
