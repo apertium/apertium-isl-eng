@@ -6063,46 +6063,58 @@
     <!--<e><p><l>sama<s n="adj"/></l><r><s n="adj"/></r></p></e>-->
     <!--<e><p><l>reisa<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
     <e><p><l>ákveðinn<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
-    <!--<e><p><l>haldinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>fenginn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>tekinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>falinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>talinn<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <e><p><l>unninn<s n="adj"/></l><r>processed<s n="adj"/></r></p></e>
-    <!--<e><p><l>skrifaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>viljaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>kallaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>ætlaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>Ætlaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>vopnaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>skipaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>skráður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>ritaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>notaður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>greiddur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>lagður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>sagður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>dæmdur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>kenndur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>skírður<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
+
+    <e><p><l>gríðarlegur<s n="adj"/></l><r>enormous<s n="adj"/></r></p></e>
+    <e><p><l>viðurkenndur<s n="adj"/></l><r>recognised<s n="adj"/></r></p></e>
+    <e><p><l>peningalegur<s n="adj"/></l><r>financial<s n="adj"/></r></p></e>
+    <e><p><l>afgerandi<s n="adj"/></l><r>decisive<s n="adj"/></r></p></e>
+    <e><p><l>lagalegur<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
+    <e><p><l>kjörinn<s n="adj"/></l><r>selected<s n="adj"/></r></p></e>
+    <e><p><l>sérlegur<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
+    <e><p><l>lífshættulegur<s n="adj"/></l><r>life-threatening<s n="adj"/></r></p></e>
+    <e><p><l>hrottalegur<s n="adj"/></l><r>brutal<s n="adj"/></r></p></e>
+    <e><p><l>hlutfallslegur<s n="adj"/></l><r>proportional<s n="adj"/></r></p></e>
+    <e><p><l>færeyskur<s n="adj"/></l><r>Faroese<s n="adj"/></r></p></e>
+    <e><p><l>þjálfaður<s n="adj"/></l><r>trained<s n="adj"/></r></p></e>
+    <e><p><l>umdeildur<s n="adj"/></l><r>controversial<s n="adj"/></r></p></e>
+    <e><p><l>tvennur<s n="adj"/></l><r>two<s n="adj"/></r></p></e> <!-- adj.?? -->
+    <e><p><l>svívirðilegur<s n="adj"/></l><r>infamous<s n="adj"/></r></p></e>
+    <e><p><l>stórhættulegur<s n="adj"/></l><r>very<b/>dangerous<s n="adj"/></r></p></e>
+    <e><p><l>sterklegur<s n="adj"/></l><r>strong<s n="adj"/></r></p></e>
+    <e><p><l>sorglegur<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+    <e><p><l>sjálfur<s n="adj"/></l><r>self<s n="adj"/></r></p></e> <!-- CHECK -->
+    <e><p><l>rosalegur<s n="adj"/></l><r>violent<s n="adj"/></r></p></e>
+    <e><p><l>ráðandi<s n="adj"/></l><r>dominating<s n="adj"/></r></p></e>
+    <e><p><l>óskemmtilegur<s n="adj"/></l><r>boring<s n="adj"/></r></p></e>
+    <e><p><l>ómerkilegur<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+    <!--<e><p><l>ómerkilegur<s n="adj"/></l><r>unreliable<s n="adj"/></r></p></e>-->
+    <e><p><l>óformlegur<s n="adj"/></l><r>informal<s n="adj"/></r></p></e>
+    <e><p><l>nægjanlegur<s n="adj"/></l><r>enough<s n="adj"/></r></p></e>
+    <!--<e><p><l>nægjanlegur<s n="adj"/></l><r>sufficient<s n="adj"/></r></p></e>-->
+    <e><p><l>klaufalegur<s n="adj"/></l><r>awkward<s n="adj"/></r></p></e>
+    <e><p><l>innbyrðis<s n="adj"/></l><r>internally<s n="adj"/></r></p></e>
+    <e><p><l>hroðalegur<s n="adj"/></l><r>horrible<s n="adj"/></r></p></e>
+    <e><p><l>geysilegur<s n="adj"/></l><r>enormous<s n="adj"/></r></p></e>
+    <e><p><l>fullkomlegur<s n="adj"/></l><r>completely<s n="adj"/></r></p></e> <!-- adv.?? -->
+    <e><p><l>frumlegur<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+    <e><p><l>fljótandi<s n="adj"/></l><r>floating<s n="adj"/></r></p></e>
+    <e><p><l>fleygur<s n="adj"/></l><r>fledged<s n="adj"/></r></p></e> 
+    <!--<e><p><l>fleygur<s n="adj"/></l><r>airworthy<s n="adj"/></r></p></e> -->
+    <e><p><l>fjölþjóðlegur<s n="adj"/></l><r>multinational<s n="adj"/></r></p></e>
+    <e><p><l>fáanlegur<s n="adj"/></l><r>available<s n="adj"/></r></p></e>
+    <e><p><l>efnislegur<s n="adj"/></l><r>material<s n="adj"/></r></p></e>
+    <e><p><l>borgaralegur<s n="adj"/></l><r>civil<s n="adj"/></r></p></e>
+    <e><p><l>áríðandi<s n="adj"/></l><r>urgent<s n="adj"/></r></p></e>
+
     <e><p><l>mannúðlegur<s n="adj"/></l><r>humanitarian<s n="adj"/></r></p></e>
     <e><p><l>ríflegur<s n="adj"/></l><r>ample<s n="adj"/></r></p></e>
     <e><p><l>faglegur<s n="adj"/></l><r>professional<s n="adj"/></r></p></e>
     <e><p><l>drengilegur<s n="adj"/></l><r>decent<s n="adj"/></r></p></e>
     <e><p><l>innilegur<s n="adj"/></l><r>cordial<s n="adj"/></r></p></e>
     <e><p><l>vænlegur<s n="adj"/></l><r>promising<s n="adj"/></r></p></e>
-    <!--<e><p><l>gríðarlegur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>sannarlegur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
     <e><p><l>vikulegur<s n="adj"/></l><r>weekly<s n="adj"/></r></p></e>
     <e><p><l>hörmulegur<s n="adj"/></l><r>tragic<s n="adj"/></r></p></e>
-    <!--<e><p><l>styrkur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <e><p><l>spænskur<s n="adj"/></l><r>Spanish<s n="adj"/></r></p></e>
-    <!--<e><p><l>snertur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>staðsettur<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>ýmis<s n="adj"/></l><r>@<s n="adj"/></r></p></e>--> <!-- pron/det: various -->
-    <!--<e><p><l>rangu<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <!--<e><p><l>raku<s n="adj"/></l><r>@<s n="adj"/></r></p></e>-->
-    <e><p><l>rúmu<s n="adj"/></l><r>spacious<s n="adj"/></r></p></e>
+    <e><p><l>rúmur<s n="adj"/></l><r>spacious<s n="adj"/></r></p></e>
 
 
 <!-- Checked adjectives from Anton's list-->
