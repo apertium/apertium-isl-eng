@@ -20097,6 +20097,7 @@
     <e lm="alluvium"><i>alluvium</i><par n="house__n"/></e>
     <e lm="almond"><i>almond</i><par n="house__n"/></e>
     <e lm="alms"><i>alms</i><par n="personnel__n"/></e>
+    <e lm="Chinese" r="RL"><par n="Cc"/><i>hinese</i><par n="personnel__n"/></e>
     <e lm="alphabet"><i>alphabet</i><par n="house__n"/></e>
     <e lm="altar"><i>altar</i><par n="house__n"/></e>
     <e lm="altarpiece"><i>altarpiece</i><par n="house__n"/></e>

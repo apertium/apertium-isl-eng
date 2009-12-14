@@ -110,6 +110,8 @@
   <def-cat n="pp">
      <cat-item tags="vblex.pp"/>
      <cat-item tags="vblex.pp.*"/>
+     <cat-item tags="vblex.*.pp"/>
+     <cat-item tags="vblex.*.pp.*"/>
   </def-cat>
 
   <def-cat n="adj">

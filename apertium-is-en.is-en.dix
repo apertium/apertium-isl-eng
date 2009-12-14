@@ -5545,6 +5545,7 @@
     <e><p><l>Indverji<s n="n"/><s n="m"/></l><r>Indian<s n="n"/></r></p></e>
     <e><p><l>Spánverji<s n="n"/><s n="m"/></l><r>Spaniard<s n="n"/></r></p></e>
     <e><p><l>Kínverji<s n="n"/><s n="m"/></l><r>Chinese<b/>person<s n="n"/></r></p></e>
+    <e><p><l>Kínverji<s n="n"/><s n="m"/><s n="pl"/></l><r>Chinese<s n="n"/><s n="pl"/></r></p></e> <!-- 'The Chinese' -->
     <e><p><l>möguleiki<s n="n"/><s n="m"/></l><r>possibility<s n="n"/></r></p></e>
     <e><p><l>Seðlabanki<s n="n"/><s n="m"/></l><r>Central<b/>bank<s n="n"/></r></p></e>
     <e><p><l>Landsbanki<s n="n"/><s n="m"/></l><r>Landsbanki<s n="n"/></r></p></e>
