@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interchunk> <!-- This file should probably be t3x // For re-ordering -->
   <section-def-cats>
-    <def-cat n="SN_SUBJ">
+    <def-cat n="FAUXV">
+      <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
+    </def-cat>
+    <def-cat n="INF">
+      <cat-item tags="SV.inf.*"/>
+      <cat-item tags="SV.inf"/>
+    </def-cat>
+    <def-cat n="SV">
+      <cat-item tags="SV"/>
+      <cat-item tags="SV.*"/>
+    </def-cat>
+    <def-cat n="SN_SUBJ_L">
       <cat-item tags="SN.@SUBJ→.*"/>
+    </def-cat>
+    <def-cat n="SN_SUBJ_R">
+      <cat-item tags="SN.@←SUBJ.*"/>
     </def-cat>
     <def-cat n="PREP">
       <cat-item tags="PREP"/>
@@ -13,10 +27,6 @@
     <def-cat n="SN">
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
-    </def-cat>
-    <def-cat n="SV">
-      <cat-item tags="SV"/>
-      <cat-item tags="SV.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -53,7 +63,7 @@
 
     <rule comment="REGLA: SN_SUBJ SV SADV → SN_SUBJ SADV SV">
       <pattern>
-        <pattern-item n="SN_SUBJ"/>
+        <pattern-item n="SN_SUBJ_L"/>
         <pattern-item n="SV"/>
         <pattern-item n="SADV"/>
       </pattern>
@@ -75,6 +85,42 @@
             <clip pos="2" part="lem"/>
             <clip pos="2" part="tags"/>
             <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: FAUXV SN_SUBJ_R SADV INF → SN_SUBJ_R FAUXV SADV INF">
+      <pattern>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+        <pattern-item n="SADV"/>
+        <pattern-item n="INF"/>
+      </pattern>
+      <action c="mátt þú ekki éta → you may not eat"> 
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
           </chunk>
         </out>
       </action>
