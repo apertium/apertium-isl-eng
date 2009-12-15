@@ -23771,6 +23771,7 @@
     <e lm="ranch"><i>ranch</i><par n="access__n"/></e>
     <e lm="rancher"><i>rancher</i><par n="house__n"/></e>
     <e lm="range"><i>range</i><par n="house__n"/></e>
+    <e lm="mountain range"><i>mountain<b/>range</i><par n="house__n"/></e>
     <e lm="rank"><i>rank</i><par n="house__n"/></e>
     <e lm="rapidity"><i>rapidit</i><par n="bab/y__n"/></e>
     <e lm="rapist"><i>rapist</i><par n="house__n"/></e>
@@ -24706,6 +24707,7 @@
     <e lm="tower"><i>tower</i><par n="house__n"/></e>
     <e lm="prayer tower"><i>prayer<b/>tower</i><par n="house__n"/></e>
     <e lm="town"><i>town</i><par n="house__n"/></e>
+    <e lm="small town"><i>small<b/>town</i><par n="house__n"/></e>
     <e lm="town council"><i>town<b/>council</i><par n="house__n"/></e>
     <e lm="town hall"><i>town<b/>hall</i><par n="house__n"/></e>
     <e lm="toxin"><i>toxin</i><par n="house__n"/></e>
@@ -39019,10 +39021,11 @@
     <e lm="Egyptian"><i>Egyptian</i><par n="expensive__adj"/></e>
     <e lm="English"><i>English</i><par n="expensive__adj"/></e>
     <e lm="European"><i>European</i><par n="expensive__adj"/></e>
-    <e lm="Falangist"><i>Falangist</i><par n="expensive__adj"/></e>
-    <e lm="Finnish"><i>Finnish</i><par n="expensive__adj"/></e>
-    <e lm="Flemish"><i>Flemish</i><par n="expensive__adj"/></e>
-    <e lm="French"><i>French</i><par n="expensive__adj"/></e>
+    <e lm="Falangist"><par n="Ff"/><i>alangist</i><par n="expensive__adj"/></e>
+    <e lm="Finnish"><par n="Ff"/><i>innish</i><par n="expensive__adj"/></e>
+    <e lm="Flemish"><par n="Ff"/><i>lemish</i><par n="expensive__adj"/></e>
+    <e lm="French"><par n="Ff"/><i>rench</i><par n="expensive__adj"/></e>
+    <e lm="Faroese"><par n="Ff"/><i>aroese</i><par n="expensive__adj"/></e>
     <e lm="German"><i>German</i><par n="expensive__adj"/></e>
     <e lm="Gibraltarian"><i>Gibraltarian</i><par n="expensive__adj"/></e>
     <e lm="Gothic"><i>Gothic</i><par n="expensive__adj"/></e>
@@ -39120,6 +39123,7 @@
     <e lm="advisory"><i>advisory</i><par n="expensive__adj"/></e>
     <e lm="aeolian"><i>aeolian</i><par n="expensive__adj"/></e>
     <e lm="aerial"><i>aerial</i><par n="expensive__adj"/></e>
+    <e lm="controversial"><i>controversial</i><par n="expensive__adj"/></e>
     <e lm="aerodynamic"><i>aerodynamic</i><par n="expensive__adj"/></e>
     <e lm="aeronautical"><i>aeronautical</i><par n="expensive__adj"/></e>
     <e lm="aerospace"><i>aerospace</i><par n="expensive__adj"/></e>

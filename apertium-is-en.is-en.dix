@@ -940,7 +940,7 @@
     <e><p><l>hlæjandi<s n="adj"/></l><r>laughing<s n="adj"/></r></p></e>
 <!--<e><p><l>hlýlegur<s n="adj"/></l><r>kind<s n="adj"/></r></p></e>-->
 <!--<e><p><l>hlýlegur<s n="adj"/></l><r>sympathetic<s n="adj"/></r></p></e>-->
-    <e><p><l>hlýlegur<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
+    <e><p><l>hlýlegur<s n="adj"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>hlýlegur<s n="adj"/></l><r>pleasant<s n="adj"/></r></p></e>-->
     <e><p><l>hneykslaður<s n="adj"/></l><r>shocked<s n="adj"/></r></p></e>
     <e><p><l>hollenskur<s n="adj"/></l><r>Dutch<s n="adj"/></r></p></e>
@@ -1116,7 +1116,7 @@
 <!--<e><p><l>kynlegur<s n="adj"/></l><r>weird<s n="adj"/></r></p></e>-->
 <!--<e><p><l>kynlegur<s n="adj"/></l><r>uncanny<s n="adj"/></r></p></e>-->
 <!--<e><p><l>kynlegur<s n="adj"/></l><r>surreal<s n="adj"/></r></p></e>-->
-    <e><p><l>kynlegur<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
+    <e><p><l>kynlegur<s n="adj"/></l><r>strange<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>kyrr<s n="adj"/></l><r>still<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>kyrrlátur<s n="adj"/></l><r>calm<s n="adj"/></r></p></e>-->
 <!--<e><p><l>kyrrlátur<s n="adj"/></l><r>quiet<s n="adj"/></r></p></e>-->
@@ -1567,7 +1567,7 @@
     <e><p><l>skringilegur<s n="adj"/></l><r>peculiar<s n="adj"/></r></p></e>
 <!--<e><p><l>skringilegur<s n="adj"/></l><r>eccentric<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skringilegur<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>-->
-    <e><p><l>skrýtinn<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
+    <e><p><l>skrýtinn<s n="adj"/></l><r>strange<s n="adj"/><s n="sint"/></r></p></e>
 <!--<e><p><l>skrýtinn<s n="adj"/></l><r>weird<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skrýtinn<s n="adj"/></l><r>unusual<s n="adj"/></r></p></e>-->
 <!--<e><p><l>skrýtinn<s n="adj"/></l><r>funny<s n="adj"/></r></p></e>-->
@@ -6136,7 +6136,7 @@
     <e><p><l>baka<s n="n"/><s n="f"/></l><r>pie<s n="n"/></r></p></e>
     <e><p><l>bakari<s n="n"/><s n="m"/></l><r>baker<s n="n"/></r></p></e>
     <e><p><l>bakarí<s n="n"/><s n="nt"/></l><r>bakery<s n="n"/></r></p></e>
-    <e><p><l>bakki<s n="n"/><s n="m"/></l><r>tray<s n="n"/></r></p></e>
+    <e><p><l>bakki<s n="n"/><s n=":0"/><s n="m"/></l><r>tray<s n="n"/></r></p></e>
     <e><p><l>bakki<s n="n"/><s n=":1"/><s n="m"/></l><r>bank<s n="n"/></r></p></e> <!-- (edge of river or lake) -->
     <e><p><l>bakpoki<s n="n"/><s n="m"/></l><r>backpack<s n="n"/></r></p></e>
 <!--     <e><p><l>bakpoki<s n="n"/><s n="m"/></l><r>rucksack<s n="n"/></r></p></e> -->
@@ -6427,6 +6427,7 @@
     <!--<e><p><l>bær<s n="n"/><s n="m"/></l><r>farm<s n="n"/></r></p></e>-->
     <!--<e><p><l>bær<s n="n"/><s n="m"/></l><r>farmstead<s n="n"/></r></p></e>-->
     <e><p><l>bær<s n="n"/><s n="m"/></l><r>town<s n="n"/></r></p></e>
+    <e><p><l>smábær<s n="n"/><s n="m"/></l><r>small<b/>town<s n="n"/></r></p></e>
     <!--<e><p><l>bær<s n="n"/><s n="m"/></l><r>village<s n="n"/></r></p></e>-->
     <e><p><l>bæti<s n="n"/><s n="nt"/></l><r>byte<s n="n"/></r></p></e>
     <e><p><l>bílaleiga<s n="n"/><s n="f"/></l><r>car<b/>rental<s n="n"/></r></p></e>

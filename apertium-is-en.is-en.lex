@@ -46,6 +46,11 @@ SUBSTITUTE (n :0) (n :1) ("sæti"ri) (-1C Ord);
 #         1:"headmaster"
 SUBSTITUTE (n) (n :0) ("rektor"ri);
 
+# "bakki"  :
+#         0:"tray"
+#         1:"bank" [river]
+SUBSTITUTE (n) (n :0) ("bakki"ri);
+
 ##
 ## VERBS
 ##
