@@ -266,7 +266,7 @@
      <attr-item tags="gen"/>
   </def-attr>
 
-  <def-attr n="degree">
+  <def-attr n="grau">
      <attr-item tags="comp"/>
      <attr-item tags="sup"/>
   </def-attr>
@@ -287,6 +287,8 @@
   <def-var n="genere"/>
   <def-var n="article"/>
   <def-var n="genitiu"/>
+
+  <def-var n="cur_adj_grau1"/>
 
   <def-var n="cur_verb_lem"/>
   <def-var n="cur_verb_fin"/>
@@ -309,6 +311,70 @@
     <let><var n="cur_sent_adv"/> <lit v=""/></let>
     <let><var n="cur_adv_lema"/> <lit v=""/></let>
     <let><var n="cur_prep_lema"/><lit v=""/></let>
+  </def-macro>
+
+  <def-macro n="set_cur_adj_grau1" npar="1">
+      <let>
+        <var n="cur_adj_grau1"/>
+        <lit v=""/>
+      </let>
+      <choose>
+        <when>
+          <test>
+            <and>
+              <not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </not>
+              <equal>
+                <clip pos="1" side="sl" part="grau"/>
+                <lit-tag v="comp"/>
+              </equal>
+            </and>
+          </test>
+          <append n="cur_adj_grau1">
+            <lit v="more"/>
+            <lit-tag v="preadv"/>
+            <lit v="$ ^"/>
+          </append>
+          <let>
+            <clip pos="1" side="tl" part="grau"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <not>
+                <equal>
+                  <clip pos="1" side="tl" part="a_adj"/>
+                  <lit-tag v="adj.sint"/>
+                </equal>
+              </not>
+              <equal>
+                <clip pos="1" side="sl" part="grau"/>
+                <lit-tag v="sup"/>
+              </equal>
+            </and>
+          </test>
+          <append n="cur_adj_grau1">
+            <lit v="most"/>
+            <lit-tag v="preadv"/>
+            <lit v="$ ^"/>
+          </append>
+          <let>
+            <clip pos="1" side="tl" part="grau"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <otherwise>
+          <append n="cur_adj_grau1">
+            <lit v=""/>
+          </append>
+        </otherwise>
+      </choose>
   </def-macro>
 
   <def-macro n="conj_verb1" npar="1">
@@ -1414,12 +1480,16 @@
        <pattern-item n="adj"/>
      </pattern>
      <action>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="adj" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SA"/></tag>
                </tags>
               <lu>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_adj"/>
                  <clip pos="1" side="tl" part="degree"/>
