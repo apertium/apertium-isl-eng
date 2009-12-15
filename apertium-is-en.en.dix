@@ -20453,6 +20453,7 @@
     <e lm="birth"><i>birth</i><par n="house__n"/></e>
     <e lm="childbirth"><i>childbirth</i><par n="house__n"/></e>
     <e lm="birthday"><i>birthday</i><par n="house__n"/></e>
+    <e lm="birth day"><i>birth<b/>day</i><par n="house__n"/></e>
     <e lm="biscuit"><i>biscuit</i><par n="house__n"/></e>
     <e lm="bisexuality"><i>bisexualit</i><par n="bab/y__n"/></e>
     <e lm="bishop"><i>bishop</i><par n="house__n"/></e>
@@ -24997,6 +24998,7 @@
     <e lm="watt"><i>watt</i><par n="house__n"/></e>
     <e lm="wave"><i>wave</i><par n="house__n"/></e>
     <e lm="way"><i>way</i><par n="house__n"/></e>
+    <e lm="tray"><i>tray</i><par n="house__n"/></e>
     <e lm="waystation"><i>waystation</i><par n="house__n"/></e>
     <e lm="weakness"><i>weakness</i><par n="access__n"/></e>
     <e lm="wealth"><i>wealth</i><par n="house__n"/></e>
