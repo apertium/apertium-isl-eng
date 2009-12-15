@@ -10940,6 +10940,8 @@
 <!--    <e><p><l>ný<s n="n"/><s n="nt"/></l><r>@<s n="n"/></r></p></e>-->
 
     <e><p><l>Argentínumaður<s n="n"/><s n="m"/></l><r>Argentinian<s n="n"/></r></p></e>
+    <e><p><l>forstöðumaður<s n="n"/><s n="m"/></l><r>director<s n="n"/></r></p></e>
+    <!--<e><p><l>forstöðumaður<s n="n"/><s n="m"/></l><r>leader<s n="n"/></r></p></e>-->
 
     <e><p><l>aðgengi<s n="n"/><s n="nt"/></l><r>access<s n="n"/></r></p></e>
     <e><p><l>aðstaða<s n="n"/><s n="f"/></l><r>position<s n="n"/></r></p></e>
@@ -11110,6 +11112,9 @@
     <e><p><l>rektor<s n="n"/><s n=":0"/><s n="m"/></l><r>vice<b/>chancellor<s n="n"/></r></p></e>
     <e><p><l>rektor<s n="n"/><s n=":1"/><s n="m"/></l><r>headmaster<s n="n"/></r></p></e>
     <!--<e><p><l>rektor<s n="n"/><s n="f"/></l><r>rector<s n="n"/></r></p></e>-->
+    <e><p><l>gagn<s n="n"/><s n="nt"/></l><r>use<s n="n"/></r></p></e>
+    <!--<e><p><l>gagn<s n="n"/><s n="nt"/><s n="pl"/></l><r>data<s n="n"/></r></p></e>-->
+    <!--<e><p><l>gagn<s n="n"/><s n="nt"/><s n="pl"/></l><r>document<s n="n"/><s n="pl"/></r></p></e>-->
 
 
     <e><p><l>réttur<s n="adj"/></l><r>right<s n="adj"/></r></p></e>
