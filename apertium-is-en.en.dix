@@ -311,6 +311,10 @@
       <e r="LR"><i>D</i></e>
       <e r="RL"><p><l>D</l><r>d</r></p></e>
     </pardef>
+    <pardef n="Ff">
+      <e r="LR"><i>F</i></e>
+      <e r="RL"><p><l>F</l><r>f</r></p></e>
+    </pardef>
     <pardef n="Ii">
       <e r="LR"><i>I</i></e>
       <e r="RL"><p><l>I</l><r>i</r></p></e>
@@ -331,9 +335,17 @@
       <e r="LR"><i>S</i></e>
       <e r="RL"><p><l>S</l><r>s</r></p></e>
     </pardef>
+    <pardef n="Tt">
+      <e r="LR"><i>T</i></e>
+      <e r="RL"><p><l>T</l><r>t</r></p></e>
+    </pardef>
     <pardef n="Uu">
       <e r="LR"><i>U</i></e>
       <e r="RL"><p><l>U</l><r>u</r></p></e>
+    </pardef>
+    <pardef n="Ww">
+      <e r="LR"><i>W</i></e>
+      <e r="RL"><p><l>W</l><r>w</r></p></e>
     </pardef>
     
     <pardef n="expensive__adj">
@@ -19919,7 +19931,15 @@
     <e lm="English"><i>English</i><par n="politics__n"/></e>
     <e lm="European"><i>European</i><par n="house__n"/></e>
     <e lm="French"><i>French</i><par n="politics__n"/></e>
-    <e lm="Friday"><i>Friday</i><par n="house__n"/></e>
+
+    <e lm="Sunday"><par n="Ss"/><i>unday</i><par n="house__n"/></e>
+    <e lm="Thursday"><par n="Tt"/><i>hursday</i><par n="house__n"/></e>
+    <e lm="Monday"><par n="Mm"/><i>onday</i><par n="house__n"/></e>
+    <e lm="Tuesday"><par n="Tt"/><i>uesday</i><par n="house__n"/></e>
+    <e lm="Wednesday"><par n="Ww"/><i>ednesday</i><par n="house__n"/></e>
+    <e lm="Saturday"><par n="Ss"/><i>aturday</i><par n="house__n"/></e>
+    <e lm="Friday"><par n="Ff"/><i>riday</i><par n="house__n"/></e>
+
     <e lm="German"><i>German</i><par n="house__n"/></e>
     <e lm="Greek"><i>Greek</i><par n="house__n"/></e>
     <e lm="Irish"><i>Irish</i><par n="politics__n"/></e>
@@ -19930,12 +19950,12 @@
     <e lm="Latin"><i>Latin</i><par n="house__n"/></e>
     <e lm="Marxism"><i>Marxism</i><par n="house__n"/></e>
     <e lm="Marxist"><i>Marxist</i><par n="house__n"/></e>
-    <e lm="Monday"><i>Monday</i><par n="house__n"/></e>
     <e lm="Nazism"><i>Nazism</i><par n="house__n"/></e>
     <e lm="Palestinian"><i>Palestinian</i><par n="house__n"/></e>
     <e lm="Protestant"><i>Protestant</i><par n="house__n"/></e>
     <e lm="Russian"><i>Russian</i><par n="house__n"/></e>
-    <e lm="Saturday"><i>Saturday</i><par n="house__n"/></e>
+
+
     <e lm="Icelander"><par n="Ii"/><i>celander</i><par n="house__n"/></e>
     <e lm="Scottish"><par n="Ss"/><i>cottish</i><par n="politics__n"/></e>
     <e lm="Spaniard"><par n="Ss"/><i>paniard</i><par n="house__n"/></e>
@@ -19946,11 +19966,10 @@
     <e lm="Briton"><i>Briton</i><par n="house__n"/></e>
     <e lm="Englishman"><i>Englishm</i><par n="m/an__n"/></e>
     <e lm="Valencian"><i>Valencian</i><par n="house__n"/></e>
-    <e lm="Sunday"><i>Sunday</i><par n="house__n"/></e>
-    <e lm="Thursday"><i>Thursday</i><par n="house__n"/></e>
-    <e lm="Tuesday"><i>Tuesday</i><par n="house__n"/></e>
+
+
     <e lm="Turkish"><i>Turkish</i><par n="politics__n"/></e>
-    <e lm="Wednesday"><i>Wednesday</i><par n="house__n"/></e>
+
     <e lm="abandonment"><i>abandonment</i><par n="house__n"/></e>
     <e lm="abbot"><i>abbot</i><par n="house__n"/></e>
     <e lm="abdication"><i>abdication</i><par n="house__n"/></e>
