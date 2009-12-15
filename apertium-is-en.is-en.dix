@@ -188,7 +188,6 @@
 
     <!-- Time -->
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
-    <!--<e><p><l><g>í<b/></g>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>--> <!-- I'm confused... how/when should use the <g> tag? -->
     <e><p><l>í<b/>gærkvöldi<s n="adv"/></l><r>yesterday<b/>evening<s n="adv"/></r></p></e>
     <e><p><l>í<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e><p><l>í<b/>morgun<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
