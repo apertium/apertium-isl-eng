@@ -11107,6 +11107,9 @@
     <e><p><l>lögun<s n="n"/><s n="f"/></l><r>shape<s n="n"/></r></p></e>
     <e><p><l>skógrækt<s n="n"/><s n="f"/></l><r>forestry<s n="n"/></r></p></e>
     <!--<e><p><l>skógrækt<s n="n"/><s n="f"/></l><r>reforestation<s n="n"/></r></p></e>-->
+    <e><p><l>rektor<s n="n"/><s n=":0"/><s n="m"/></l><r>vice<b/>chancellor<s n="n"/></r></p></e>
+    <e><p><l>rektor<s n="n"/><s n=":1"/><s n="m"/></l><r>headmaster<s n="n"/></r></p></e>
+    <!--<e><p><l>rektor<s n="n"/><s n="f"/></l><r>rector<s n="n"/></r></p></e>-->
 
 
     <e><p><l>réttur<s n="adj"/></l><r>right<s n="adj"/></r></p></e>

@@ -41,6 +41,11 @@ SUBSTITUTE (n :0) (n :1) ("drottinn"ri) (1C ("Guð"));
 SUBSTITUTE (n) (n :0) ("sæti"ri);
 SUBSTITUTE (n :0) (n :1) ("sæti"ri) (-1C Ord);
 
+# "rektor" :
+#         0:"vice chancellor"
+#         1:"headmaster"
+SUBSTITUTE (n) (n :0) ("rektor"ri);
+
 ##
 ## VERBS
 ##

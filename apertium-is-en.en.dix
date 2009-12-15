@@ -20364,6 +20364,7 @@
     <e lm="bang"><i>bang</i><par n="house__n"/></e>
     <e lm="bangle"><i>bangle</i><par n="house__n"/></e>
     <e lm="bank"><i>bank</i><par n="house__n"/></e>
+    <e lm="central bank"><i>central<b/>bank</i><par n="house__n"/></e>
     <e lm="banker"><i>banker</i><par n="house__n"/></e>
     <e lm="banking"><i>banking</i><par n="house__n"/></e>
     <e lm="banner"><i>banner</i><par n="house__n"/></e>
@@ -20711,6 +20712,7 @@
     <e lm="chair"><i>chair</i><par n="house__n"/></e>
     <e lm="vice-chairman"><i>vice-chairm</i><par n="m/an__n"/></e>
     <e lm="chairman"><i>chairm</i><par n="m/an__n"/></e>
+    <e lm="chairman of the board"><i>chairm</i><par n="m/an__n"/><p><l><b/>of<b/>the<b/>board</l><r><g><b/>of<b/>the<b/>board</g></r></p></e>
     <e lm="chairperson"><i>chairperson</i><par n="house__n"/></e>
     <e lm="challenge"><i>challenge</i><par n="house__n"/></e>
     <e lm="chamber"><i>chamber</i><par n="house__n"/></e>
@@ -20721,6 +20723,7 @@
     <e lm="chance"><i>chance</i><par n="house__n"/></e>
     <e lm="chancellery"><i>chanceller</i><par n="bab/y__n"/></e>
     <e lm="chancellor"><i>chancellor</i><par n="house__n"/></e>
+    <e lm="vice chancellor"><i>vice<b/>chancellor</i><par n="house__n"/></e>
     <e lm="change"><i>change</i><par n="house__n"/></e>
     <e lm="channel"><i>channel</i><par n="house__n"/></e>
     <e lm="chaos"><i>chaos</i><par n="politics__n"/></e>
@@ -38976,6 +38979,7 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
+    <e lm="selected"><i>selected</i><par n="expensive__adj"/></e>
     <e lm="sentenced"><i>sentenced</i><par n="expensive__adj"/></e>
     <e lm="Afghan"><par n="Aa"/><i>fghan</i><par n="expensive__adj"/></e>
     <e lm="African"><par n="Aa"/><i>frican</i><par n="expensive__adj"/></e>
