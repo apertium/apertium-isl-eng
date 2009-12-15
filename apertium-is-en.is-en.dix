@@ -111,8 +111,8 @@
 
 <!--Don't sort alphabetically:-->
     <!-- Punctuation and guessers -->
-    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re><p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re><p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
 
@@ -1003,7 +1003,6 @@
 <!--<e><p><l>hvass<s n="adj"/></l><r>edged<s n="adj"/></r></p></e>-->
 <!--<e><p><l>hvass<s n="adj"/></l><r>windy<s n="adj"/></r></p></e>-->
 <!--<e><p><l>hvass<s n="adj"/></l><r>harsh<s n="adj"/></r></p></e>-->
-    <e><p><l>hvernig<s n="adj"/></l><r>how<s n="adj"/></r></p></e> <!-- are question-words adjectives?? -->
 <!--<e><p><l>hversdagslegur<s n="adj"/></l><r>plain<s n="adj"/></r></p></e>-->
     <e><p><l>hversdagslegur<s n="adj"/></l><r>ordinary<s n="adj"/></r></p></e>
 <!--<e><p><l>hversdagslegur<s n="adj"/></l><r>casual<s n="adj"/></r></p></e>-->
@@ -5017,6 +5016,7 @@
 <!--<e><p><l>reika<s n="vblex"/></l><r>rove<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>reika<s n="vblex"/></l><r>stroll<s n="vblex"/></r></p></e>-->
     <e><p><l>reikna<s n="vblex"/></l><r>calculate<s n="vblex"/></r></p></e>
+    <e><p><l>reikna<g><b/>út</g><s n="vblex"/></l><r>calculate<s n="vblex"/></r></p></e>
 <!--<e><p><l>reikna<s n="vblex"/></l><r>compute<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>reikna<s n="vblex"/></l><r>assume<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>reikna<s n="vblex"/></l><r>expect<s n="vblex"/></r></p></e>-->

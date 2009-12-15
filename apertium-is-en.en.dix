@@ -331,6 +331,10 @@
       <e r="LR"><i>N</i></e>
       <e r="RL"><p><l>N</l><r>n</r></p></e>
     </pardef>
+    <pardef n="Pp">
+      <e r="LR"><i>P</i></e>
+      <e r="RL"><p><l>P</l><r>p</r></p></e>
+    </pardef>
     <pardef n="Ss">
       <e r="LR"><i>S</i></e>
       <e r="RL"><p><l>S</l><r>s</r></p></e>
@@ -13737,9 +13741,9 @@
 
     <pardef n="persons">
       <!-- Ásta Árnadóttir, Ásta Á. Árnadóttir -->
-      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
+      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
       <!-- Davíð Oddsson, Davíð D. Oddsson -->
-      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ [A-ZÁÞÐÉÍÓÚÝÖÅ]?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
+      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
     </pardef>
 
 
@@ -23302,8 +23306,11 @@
     <e lm="parquet"><i>parquet</i><par n="house__n"/></e>
     <e lm="parrot"><i>parrot</i><par n="house__n"/></e>
     <e lm="parsimony"><i>parsimon</i><par n="bab/y__n"/></e>
+
     <e lm="party"><i>part</i><par n="bab/y__n"/></e>
+    <e lm="Progressive Party"><par n="Pp"/><i>rogressive<b/>Part</i><par n="bab/y__n"/></e>
     <e lm="political party"><i>political<b/>part</i><par n="bab/y__n"/></e>
+
     <e lm="part"><i>part</i><par n="house__n"/></e>
     <e lm="participant"><i>participant</i><par n="house__n"/></e>
     <e lm="participation"><i>participation</i><par n="house__n"/></e>
