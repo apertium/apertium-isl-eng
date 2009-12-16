@@ -2520,7 +2520,7 @@
 <!--<p><l>þarfur<s n="adj"/></l><r>required<s n="adj"/></r></p></e>-->
     <e><p><l>þegjandi<s n="adj"/></l><r>silent<s n="adj"/></r></p></e>
     <e><p><l>þekktur<s n="adj"/></l><r>known<s n="adj"/></r></p></e>
- <e><p><l>þeldökkur<s n="adj"/></l><r>black<s n="adj"/></r></p></e> --> <!-- i.e. a person's skin-color / race -->
+ <e><p><l>þeldökkur<s n="adj"/></l><r>black<s n="adj"/></r></p></e> <!-- i.e. a person's skin-color / race -->
     <e><p><l>þeldökkur<s n="adj"/></l><r>dark-skinned<s n="adj"/></r></p></e>
     <e><p><l>þjálfaður<s n="adj"/></l><r>trained<s n="adj"/></r></p></e>
 <!--<p><l>þjóðlegur<s n="adj"/></l><r>ethnic<s n="adj"/></r></p></e>-->
@@ -4467,11 +4467,11 @@
 <!--<p><l>gjósa<s n="vblex"/></l><r>explode<s n="vblex"/></r></p></e>-->
 <!--<p><l>gjósa<s n="vblex"/></l><r>spout<s n="vblex"/></r></p></e>-->
 <!--<p><l>gjóta<s n="vblex"/></l><r>bear<s n="vblex"/></r></p></e>-->
- <e><p><l>gjóta<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e> --> <!-- (of an animal, esp. a mare, cow, or ewe) give birth to (young) -->
- <e><p><l>gjóta<s n="vblex"/></l><r>farrow<s n="vblex"/></r></p></e>--> <!-- (of a sow) give birth to (piglets) -->
+ <e><p><l>gjóta<s n="vblex"/></l><r>drop<s n="vblex"/></r></p></e> <!-- (of an animal, esp. a mare, cow, or ewe) give birth to (young) -->
+ <e><p><l>gjóta<s n="vblex"/></l><r>farrow<s n="vblex"/></r></p></e> <!-- (of a sow) give birth to (piglets) -->
 <!--<p><l>gjóta<s n="vblex"/></l><r>give<g><b/>birth<b/>to</g><s n="vblex"/></r></p></e>-->
     <e><p><l>gjóta<s n="vblex"/></l><r>pup<s n="vblex"/></r></p></e>
- <e><p><l>gjóta<s n="vblex"/></l><r>spawn<s n="vblex"/></r></p></e>--> <!-- (of a fish, frog, mollusk, crustacean, etc.) release or deposit eggs -->
+ <e><p><l>gjóta<s n="vblex"/></l><r>spawn<s n="vblex"/></r></p></e> <!-- (of a fish, frog, mollusk, crustacean, etc.) release or deposit eggs -->
     <e><p><l>gjöra<g><b/>svo<b/>vel</g><s n="vblex"/></l><r>bon<b/>appetit<s n="vblex"/></r></p></e>  <!-- possibly better to translate as "help yourselves" ? -->
     <e><p><l>gjöra<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
 <!--<p><l>gjöra<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>-->
