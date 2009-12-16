@@ -109,7 +109,9 @@
 
   <def-cat n="pp">
      <cat-item tags="vblex.pp"/>
+     <cat-item tags="vblex.supn"/>
      <cat-item tags="vblex.pp.*"/>
+     <cat-item tags="vblex.*.supn"/>
      <cat-item tags="vblex.*.pp"/>
      <cat-item tags="vblex.*.pp.*"/>
   </def-cat>
@@ -1522,7 +1524,7 @@
      </action>
   </rule>
 
-  <rule comment="REGLA: Prep"><!-- rule for prepositions -->
+  <rule comment="REGLA: Past Participle"><!-- rule for past participles-->
      <pattern>
        <pattern-item n="pp"/>
      </pattern>
@@ -1535,13 +1537,13 @@
               <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_verb"/>
-                 <clip pos="1" side="tl" part="temps"/>
+                 <lit-tag v="pp"/>  <!-- Input can be supn or pp -->
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
      </action>
-  </rule><!-- END rule for prepositions -->
+  </rule><!-- END rule for past participles-->
 
 
   <rule comment="REGLA: NOM TOP"><!-- rule for nouns -->
@@ -2631,7 +2633,7 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
+              <lit-tag v="pp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>

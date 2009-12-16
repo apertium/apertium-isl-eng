@@ -39228,7 +39228,6 @@
     <e lm="blatant"><i>blatant</i><par n="common/__adj"/></e>
     <e lm="blind"><i>blind</i><par n="long/__adj"/></e>
     <e lm="blond"><i>blond</i><par n="long/__adj"/></e>
-    <e lm="blue"><i>blue</i><par n="expensive__adj"/></e>
     <e lm="botanic"><i>botanic</i><par n="expensive__adj"/></e>
     <e lm="bottom"><i>bottom</i><par n="expensive__adj"/></e>
     <e lm="boundless"><i>boundless</i><par n="expensive__adj"/></e>
@@ -39237,6 +39236,7 @@
     <e lm="bright"><i>bright</i><par n="long/__adj"/></e>
     <e lm="brilliant"><i>brilliant</i><par n="expensive__adj"/></e>
     <e lm="brittle"><i>brittle</i><par n="nice/__adj"/></e>
+    <e lm="blue"><i>blue</i><par n="nice/__adj"/></e>
     <e lm="broad"><i>broad</i><par n="broad/__adj"/></e>
     <e lm="brown"><i>brown</i><par n="expensive__adj"/></e>
     <e lm="brutal"><i>brutal</i><par n="expensive__adj"/></e>

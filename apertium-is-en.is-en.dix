@@ -3967,7 +3967,7 @@
 
     <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
 
-    <e><p><l>geta<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e><p><l>geta<s n="vblex"/></l><r>can<s n="vaux"/></r></p></e> <!-- we should look at this, is 'geta' considered modal/aux in is ? -->
     <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
     <e><p><l>skulu<s n="vaux"/></l><r>shall<s n="vaux"/></r></p></e>
     <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
@@ -11347,6 +11347,16 @@
     <!-- END Leftovers -->
 
     <!-- Insert new additions here: -->
+
+    <e><p><l>stór<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>blár<s n="adj"/></l><r>blue<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>grár<s n="adj"/></l><r>grey<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lítill<s n="adj"/></l><r>small<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>grannur<s n="adj"/></l><r>skinny<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>flókinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
+    <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
+    <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
 
 
 
