@@ -315,6 +315,10 @@
       <e r="LR"><i>F</i></e>
       <e r="RL"><p><l>F</l><r>f</r></p></e>
     </pardef>
+    <pardef n="Gg">
+      <e r="LR"><i>G</i></e>
+      <e r="RL"><p><l>G</l><r>g</r></p></e>
+    </pardef>
     <pardef n="Ii">
       <e r="LR"><i>I</i></e>
       <e r="RL"><p><l>I</l><r>i</r></p></e>
@@ -39028,11 +39032,11 @@
     <e lm="Flemish"><par n="Ff"/><i>lemish</i><par n="expensive__adj"/></e>
     <e lm="French"><par n="Ff"/><i>rench</i><par n="expensive__adj"/></e>
     <e lm="Faroese"><par n="Ff"/><i>aroese</i><par n="expensive__adj"/></e>
-    <e lm="German"><i>German</i><par n="expensive__adj"/></e>
-    <e lm="Gibraltarian"><i>Gibraltarian</i><par n="expensive__adj"/></e>
-    <e lm="Gothic"><i>Gothic</i><par n="expensive__adj"/></e>
-    <e lm="Greek"><i>Greek</i><par n="expensive__adj"/></e>
-    <e lm="Guatemalan"><i>Guatemalan</i><par n="expensive__adj"/></e>
+    <e lm="German"><par n="Gg"/><i>erman</i><par n="expensive__adj"/></e>
+    <e lm="Gibraltarian"><par n="Gg"/><i>ibraltarian</i><par n="expensive__adj"/></e>
+    <e lm="Gothic"><par n="Gg"/><i>othic</i><par n="expensive__adj"/></e>
+    <e lm="Greek"><par n="Gg"/><i>reek</i><par n="expensive__adj"/></e>
+    <e lm="Guatemalan"><par n="Gg"/><i>uatemalan</i><par n="expensive__adj"/></e>
     <e lm="Honduran"><i>Honduran</i><par n="expensive__adj"/></e>
     <e lm="Hungarian"><i>Hungarian</i><par n="expensive__adj"/></e>
     <e lm="Icelandic"><par n="Ii"/><i>celandic</i><par n="expensive__adj"/></e>
