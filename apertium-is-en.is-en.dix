@@ -11365,6 +11365,7 @@
     <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e> 	 
+    <e><p><l>óheppilegur<s n="adj"/></l><r>unfortunate<s n="adj"/></r></p></e> 	 
 
     <e><p><l>í<b/>smáatriði<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
@@ -11384,6 +11385,7 @@
     <e><p><l>sinna<s n="n"/><s n="f"/></l><r>interest<s n="n"/></r></p></e>
     <e><p><l>jólagjöf<s n="n"/><s n="f"/></l><r>Christmas<b/>present<s n="n"/></r></p></e>
     <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
+    <e><p><l>lög<s n="n"/><s n="nt"/></l><r>law<s n="n"/></r></p></e>
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
     <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
     <e><p><l>mannréttindi<s n="n"/><s n="nt"/></l><r>human<b/>right<s n="n"/></r></p></e>
@@ -11392,6 +11394,7 @@
     <e><p><l>höfða<g><b/>mál<b/>gegn</g><s n="vblex"/></l><r>start<g><b/>proceedings<b/>against</g><s n="vblex"/></r></p></e>
     <e><p><l>höfða<g><b/>til</g><s n="vblex"/></l><r>appeal<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
+    <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 

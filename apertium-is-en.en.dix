@@ -39300,6 +39300,7 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
+    <e lm="unfortunate"><i>unfortunate</i><par n="expensive__adj"/></e>
     <e lm="selected"><i>selected</i><par n="expensive__adj"/></e>
     <e lm="sentenced"><i>sentenced</i><par n="expensive__adj"/></e>
     <e lm="Afghan"><par n="Aa"/><i>fghan</i><par n="expensive__adj"/></e>
@@ -43744,7 +43745,6 @@
     <e lm="undoubtedly"><i>undoubtedly</i><par n="maybe__adv"/></e>
     <e lm="unexpectedly"><i>unexpectedly</i><par n="maybe__adv"/></e>
     <e lm="unfairly"><i>unfairly</i><par n="maybe__adv"/></e>
-    <e lm="unfortunately"><i>unfortunately</i><par n="maybe__adv"/></e>
     <e lm="unfortunately"><i>unfortunately</i><par n="maybe__adv"/></e>
     <e lm="unilaterally"><i>unilaterally</i><par n="maybe__adv"/></e>
     <e lm="unintentionally"><i>unintentionally</i><par n="maybe__adv"/></e>
