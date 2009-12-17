@@ -938,10 +938,16 @@
          </when>
          <when>
            <test>
-             <equal>
-               <clip pos="1" side="sl" part="lem"/>
-               <lit v="þú"/>
-             </equal>
+             <or>
+               <equal>
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="þér"/>
+               </equal>
+               <equal>
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="þú"/>
+               </equal>
+             </or>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
