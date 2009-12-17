@@ -19442,6 +19442,32 @@
     <e lm="Adam"><i>Adam</i><par n="Mark__np"/></e>
     <e lm="Adriana"><i>Adriana</i><par n="Mary__np"/></e>
     <e lm="Adrià"><i>Adrià</i><par n="Mark__np"/></e>
+
+    <e lm="India"><i>India</i><par n="Barcelona__np"/></e>
+    <e lm="Czech Republic"><i>Czech<b/>Republic</i><par n="Barcelona__np"/></e>
+    <e lm="Zealand"><i>Zealand</i><par n="Barcelona__np"/></e>
+    <e lm="Jutland"><i>Jutland</i><par n="Barcelona__np"/></e>
+    <e lm="New-Zealand"><i>New<b/>Zealand</i><par n="Barcelona__np"/></e>
+    <e lm="Saxony"><i>Saxony</i><par n="Barcelona__np"/></e>
+    <e lm="Prussia"><i>Prussia</i><par n="Barcelona__np"/></e>
+    <e lm="Newfoundland"><i>Newfoundland</i><par n="Barcelona__np"/></e>
+    <e lm="Holstein"><i>Holstein</i><par n="Barcelona__np"/></e>
+    <e lm="Cleveland"><i>Cleveland</i><par n="Barcelona__np"/></e>
+    <e lm="Newfoundland"><i>Newfoundland</i><par n="Barcelona__np"/></e>
+    <e lm="Maryland"><i>Maryland</i><par n="Barcelona__np"/></e>
+    <e lm="Gotland"><i>Gotland</i><par n="Barcelona__np"/></e>
+    <e lm="Vinland"><i>Vinland</i><par n="Barcelona__np"/></e>
+    <e lm="Sunderland"><i>Sunderland</i><par n="Barcelona__np"/></e>
+    <e lm="Vigur"><i>Vigur</i><par n="Barcelona__np"/></e>
+    <e lm="Kenya"><i>Kenya</i><par n="Barcelona__np"/></e>
+    <e lm="Liberia"><i>Liberia</i><par n="Barcelona__np"/></e>
+    <e lm="South America"><i>South<b/>America</i><par n="Barcelona__np"/></e>
+    <e lm="South-Korea"><i>South<b/>Korea</i><par n="Barcelona__np"/></e>
+    <e lm="North-Korea"><i>North<b/>Korea</i><par n="Barcelona__np"/></e>
+    <e lm="European Union"><i>European<b/>Union</i><par n="Barcelona__np"/></e>
+    <e lm="York"><i>York</i><par n="Barcelona__np"/></e>
+
+
     <e lm="Akureyri"><i>Akureyri</i><par n="Barcelona__np"/></e>
     <e lm="Reykjavík"><i>Reykjavík</i><par n="Barcelona__np"/></e>
     <e lm="Afghanistan"><i>Afghanistan</i><par n="Barcelona__np"/></e>

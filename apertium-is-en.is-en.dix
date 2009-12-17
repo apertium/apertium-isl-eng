@@ -3949,7 +3949,7 @@
     <e><p><l>Tékkland<s n="np"/><s n="top"/><s n="nt"/></l><r>Czech<b/>Republic<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ungverjaland<s n="np"/><s n="top"/><s n="nt"/></l><r>Hungary<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Vestur-Evrópa<s n="np"/><s n="top"/><s n="nt"/></l><r>Western<b/>Europe<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Vigur<s n="np"/><s n="top"/><s n="nt"/></l><r>Vector<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Vigur<s n="np"/><s n="top"/><s n="nt"/></l><r>Vigur<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Víetnam<s n="np"/><s n="top"/><s n="nt"/></l><r>Vietnam<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ástralía<s n="np"/><s n="top"/><s n="f"/></l><r>Australia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Írak<s n="np"/><s n="top"/><s n="nt"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
@@ -11394,6 +11394,30 @@
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+
+
+    <e><p><l>Skotland<s n="np"/><s n="top"/><s n="nt"/></l><r>Scotland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Sjáland<s n="np"/><s n="top"/><s n="nt"/></l><r>Zealand<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Jótland<s n="np"/><s n="top"/><s n="nt"/></l><r>Jutland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Sýrland<s n="np"/><s n="top"/><s n="nt"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Nýja-Sjáland<s n="np"/><s n="top"/><s n="nt"/></l><r>New<b/>Zealand<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Saxland<s n="np"/><s n="top"/><s n="nt"/></l><r>Saxony<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Prússland<s n="np"/><s n="top"/><s n="nt"/></l><r>Prussia<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Nýfundnaland<s n="np"/><s n="top"/><s n="nt"/></l><r>Newfoundland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Holtsetaland<s n="np"/><s n="top"/><s n="nt"/></l><r>Holstein<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Cleveland<s n="np"/><s n="top"/><s n="nt"/></l><r>Cleveland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Maryland<s n="np"/><s n="top"/><s n="nt"/></l><r>Maryland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Gotland<s n="np"/><s n="top"/><s n="nt"/></l><r>Gotland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Vínland<s n="np"/><s n="top"/><s n="nt"/></l><r>Vinland<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Sunderland<s n="np"/><s n="top"/><s n="nt"/></l><r>Sunderland<s n="np"/><s n="top"/></r></p></e>
+    <e r="LR"><p><l>Norðurálfa<s n="np"/><s n="top"/><s n="nt"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Suðurskautsálfa<s n="np"/><s n="top"/><s n="nt"/></l><r>Antarctica<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Kórea<s n="np"/><s n="top"/><s n="nt"/></l><r>Korea<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Suður-Kórea<s n="np"/><s n="top"/><s n="nt"/></l><r>South<b/>Korea<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Norður-Kórea<s n="np"/><s n="top"/><s n="nt"/></l><r>North<b/>Korea<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>York<s n="np"/><s n="top"/><s n="nt"/></l><r>York<s n="np"/><s n="top"/></r></p></e>
+
+
 <!-- END TODO -->
 
   </section>
