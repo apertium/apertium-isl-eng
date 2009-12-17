@@ -323,6 +323,10 @@
       <e r="LR"><i>I</i></e>
       <e r="RL"><p><l>I</l><r>i</r></p></e>
     </pardef>
+    <pardef n="Jj">
+      <e r="LR"><i>J</i></e>
+      <e r="RL"><p><l>J</l><r>j</r></p></e>
+    </pardef>
     <pardef n="Ll">
       <e r="LR"><i>L</i></e>
       <e r="RL"><p><l>L</l><r>l</r></p></e>
@@ -13748,6 +13752,7 @@
       <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Mary__np"/></e>
       <!-- Davíð Oddsson, Davíð D. Oddsson -->
       <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
+      <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sen</re><p><l></l><r></r></p><par n="Mark__np"/></e>
     </pardef>
 
 
@@ -22756,6 +22761,7 @@
     <e lm="mouse"><i>m</i><par n="m/ouse__n"/></e>
     <e lm="owl"><i>owl</i><par n="house__n"/></e>
     <e lm="man"><i>m</i><par n="m/an__n"/></e>
+    <e lm="countryman"><i>countrym</i><par n="m/an__n"/></e>
     <e lm="fisherman"><i>fisherm</i><par n="m/an__n"/></e>
     <e lm="machination"><i>machination</i><par n="house__n"/></e>
     <e lm="machine"><i>machine</i><par n="house__n"/></e>
@@ -23975,6 +23981,7 @@
     <e lm="ride"><i>ride</i><par n="house__n"/></e>
     <e lm="rider"><i>rider</i><par n="house__n"/></e>
     <e lm="right"><i>right</i><par n="house__n"/></e>
+    <e lm="human right"><i>human<b/>right</i><par n="house__n"/></e>
     <e lm="rigidity"><i>rigidit</i><par n="bab/y__n"/></e>
     <e lm="rigour"><i>rigour</i><par n="house__n"/></e>
     <e lm="ring"><i>ring</i><par n="house__n"/></e>
@@ -39047,10 +39054,10 @@
     <e lm="Islamic"><par n="Ii"/><i>slamic</i><par n="expensive__adj"/></e>
     <e lm="Israeli"><par n="Ii"/><i>sraeli</i><par n="expensive__adj"/></e>
     <e lm="Italian"><par n="Ii"/><i>talian</i><par n="expensive__adj"/></e>
-    <e lm="Jamaican"><i>Jamaican</i><par n="expensive__adj"/></e>
-    <e lm="Japanese"><i>Japanese</i><par n="expensive__adj"/></e>
-    <e lm="Jewish"><i>Jewish</i><par n="expensive__adj"/></e>
-    <e lm="Jordanian"><i>Jordanian</i><par n="expensive__adj"/></e>
+    <e lm="Jamaican"><par n="Jj"/><i>amaican</i><par n="expensive__adj"/></e>
+    <e lm="Japanese"><par n="Jj"/><i>apanese</i><par n="expensive__adj"/></e>
+    <e lm="Jewish"><par n="Jj"/><i>ewish</i><par n="expensive__adj"/></e>
+    <e lm="Jordanian"><par n="Jj"/><i>ordanian</i><par n="expensive__adj"/></e>
     <e lm="Kenyan"><i>Kenyan</i><par n="expensive__adj"/></e>
     <e lm="Korean"><i>Korean</i><par n="expensive__adj"/></e>
     <e lm="Latin"><par n="Ll"/><i>atin</i><par n="expensive__adj"/></e>
@@ -42896,7 +42903,6 @@
     <e lm="extraordinarily"><i>extraordinarily</i><par n="maybe__adv"/></e>
     <e lm="extremely"><i>extremely</i><par n="maybe__adv"/></e>
     <e lm="falsely"><i>falsely</i><par n="maybe__adv"/></e>
-    <e lm="far"><i>far</i><par n="maybe__adv"/></e>
     <e lm="finally"><i>finally</i><par n="maybe__adv"/></e>
     <e lm="finally"><i>finally</i><par n="maybe__adv"/></e>
     <e lm="finally"><i>finally</i><par n="maybe__adv"/></e>
@@ -42946,7 +42952,9 @@
     <e lm="full blast"><i>full<b/>blast</i><par n="maybe__adv"/></e>
     <e lm="fully"><i>fully</i><par n="maybe__adv"/></e>
     <e lm="fundamentally"><i>fundamentally</i><par n="maybe__adv"/></e>
+    <e lm="far"><i>far</i><par n="maybe__adv"/></e>
     <e lm="further"><i>further</i><par n="maybe__adv"/></e>
+    <e lm="furthest"><i>furthest</i><par n="maybe__adv"/></e>
     <e lm="furthermore"><i>furthermore</i><par n="maybe__adv"/></e>
     <e lm="generally"><i>generally</i><par n="maybe__adv"/></e>
     <e lm="generally"><i>generally</i><par n="maybe__adv"/></e>

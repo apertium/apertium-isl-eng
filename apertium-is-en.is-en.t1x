@@ -44,6 +44,7 @@
      <cat-item tags="vbhaver.prs.*"/>
      <cat-item tags="vbhaver.past.*"/>
      <cat-item tags="vbhaver.pss.*"/>
+
   </def-cat>
 
   <def-cat n="verbcj">
@@ -128,6 +129,7 @@
 
   <def-cat n="adv">
      <cat-item tags="adv"/>
+     <cat-item tags="adv.*"/>
   </def-cat>
 
   <def-cat n="prep">
@@ -144,6 +146,10 @@
   </def-cat>
 
   <!-- Lexicalised categories -->
+
+  <def-cat n="geta">
+     <cat-item lemma="geta" tags="vblex.*"/>
+  </def-cat>
 
   <def-cat n="að">
      <cat-item lemma="að" tags="*"/>
@@ -203,6 +209,10 @@
      <attr-item tags="det.pos"/>
   </def-attr>
 
+  <def-attr n="a_adv">
+     <attr-item tags="adv"/>
+     <attr-item tags="adv.itg"/>
+  </def-attr>
   <def-attr n="a_adj">
      <attr-item tags="adj"/>
      <attr-item tags="adj.ord"/>
@@ -694,6 +704,10 @@
               <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/>
                 <lit v="mega"/>
+              </equal>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="geta"/>
               </equal>
               <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/>
@@ -2457,7 +2471,9 @@
              <tag><lit-tag v="ADV"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_adv"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -2602,6 +2618,40 @@
             </out>
           </otherwise>
         </choose>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: GETA PP → CAN INF | get komið → can come">
+     <pattern>
+       <pattern-item n="geta"/>
+       <pattern-item n="pp"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="auxcj_inf" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
      </action>
   </rule>
 

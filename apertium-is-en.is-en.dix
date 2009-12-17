@@ -113,6 +113,7 @@
     <!-- Punctuation and guessers -->
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re><p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+s</re><p><l>en<s n="np"/><s n="ant"/><s n="m"/></l><r>en<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
 
@@ -2810,7 +2811,6 @@
     <e><p><l>fallega<s n="adv"/></l><r>nicely<s n="adv"/></r></p></e>
     <e><p><l>fast<s n="adv"/></l><r>tight<s n="adv"/></r></p></e>
     <e><p><l>ferlega<s n="adv"/></l><r>terribly<s n="adv"/></r></p></e>
-    <e><p><l>fjarri<s n="adv"/></l><r>far<b/>away<s n="adv"/></r></p></e>
     <e><p><l>flatt<s n="adv"/></l><r>flat<s n="adv"/></r></p></e>
     <e><p><l>fljótlega<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
     <e><p><l>fljótt<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
@@ -3646,7 +3646,7 @@
 <!--<p><l>auk<s n="pr"/></l><r>besides<s n="pr"/></r></p></e>-->
     <e><p><l>auk<s n="pr"/></l><r>plus<s n="pr"/></r></p></e>
     <e><p><l>að<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
-    <e><p><l>bakvið<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
+    <e><p><l>bak<b/>við<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
     <e><p><l>eftir<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
 <!--<p><l>framhjá<s n="pr"/></l><r>by<s n="pr"/></r></p></e>-->
     <e><p><l>framhjá<s n="pr"/></l><r>past<s n="pr"/></r></p></e>
@@ -3663,7 +3663,7 @@
     <e><p><l>handan<s n="pr"/></l><r>beyond<s n="pr"/></r></p></e>
     <e><p><l>hjá<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>inn<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
-    <e><p><l>inní<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
+    <e><p><l>inni<b/>í<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
     <e><p><l>jafnframt<s n="pr"/></l><r>along<b/>with<s n="pr"/></r></p></e>
     <e><p><l>kringum<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
     <e><p><l>með<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
@@ -3689,11 +3689,11 @@
     <e><p><l>undir<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
 <!--<p><l>uppá<s n="pr"/></l><r>atop<s n="pr"/></r></p></e>-->
 <!--<p><l>uppá<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
-    <e><p><l>uppá<s n="pr"/></l><r>upon<s n="pr"/></r></p></e>
-    <e><p><l>uppí<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>upp<b/>á<s n="pr"/></l><r>upon<s n="pr"/></r></p></e>
+    <e><p><l>upp<b/>í<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
 <!--<p><l>uppí<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
 <!--<p><l>uppí<s n="pr"/></l><r>towards<s n="pr"/></r></p></e>-->
-    <e><p><l>uppúr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>upp<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>vegna<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/><s n=":0"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>við<s n="pr"/><s n=":1"/></l><r>to<s n="pr"/></r></p></e>
@@ -3712,13 +3712,13 @@
 <!--<p><l>útaf<s n="pr"/></l><r>because<g><b/>of</g><s n="pr"/></r></p></e>-->
 <!--<p><l>útaf<s n="pr"/></l><r>off<s n="pr"/></r></p></e>-->
 <!--<p><l>útaf<s n="pr"/></l><r>over<s n="pr"/></r></p></e>-->
-<!--<p><l>útum<s n="pr"/></l><r><g>all<b/></g>over<s n="pr"/></r></p></e>-->
+<!--<p><l>útum<s n="pr"/></l><r>all<b/>over<s n="pr"/></r></p></e>-->
     <e><p><l>útum<s n="pr"/></l><r>out<b/>through<s n="pr"/></r></p></e>
-<!--<p><l>útum<s n="pr"/></l><r>out<g><b/>of</g><s n="pr"/></r></p></e>-->
-    <e><p><l>útá<s n="pr"/></l><r>onto<s n="pr"/></r></p></e>
-<!--<p><l>útá<s n="pr"/></l><r>out<g><b/>on</g><s n="pr"/></r></p></e>-->
-<!--<p><l>útí<s n="pr"/></l><r><g>out<b/></g>into<s n="pr"/></r></p></e>-->
-    <e><p><l>útí<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+<!--<p><l>útum<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>-->
+    <e><p><l>út<b/>á<s n="pr"/></l><r>onto<s n="pr"/></r></p></e>
+<!--<p><l>útá<s n="pr"/></l><r>out<b/>on<s n="pr"/></r></p></e>-->
+<!--<p><l>útí<s n="pr"/></l><r>out<b/>into<s n="pr"/></r></p></e>-->
+    <e><p><l>út<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
 
 
     <e><p><l>útaf<s n="pr"/></l><r>because<s n="pr"/></r></p></e> <!-- CHECK ?? -->
@@ -11040,7 +11040,6 @@
     <e><p><l>túlkun<s n="n"/><s n="f"/></l><r>interpretation<s n="n"/></r></p></e> <!-- art -->
     <e><p><l>könnun<s n="n"/><s n="f"/></l><r>research<s n="n"/></r></p></e>
     <e><p><l>aðfaranótt<s n="n"/><s n="f"/></l><r>night<g><b/>before</g><s n="n"/></r></p></e>
-    <e><p><l>tala<s n="n"/><s n="f"/></l><r>numeral<s n="n"/></r></p></e>
     <e><p><l>sviði<s n="n"/><s n="m"/></l><r>sting<s n="n"/></r></p></e>
     <e><p><l>þátttakandi<s n="n"/><s n="m"/></l><r>participant<s n="n"/></r></p></e>
     <e><p><l>stjórnandi<s n="n"/><s n="m"/></l><r>leader<s n="n"/></r></p></e>
@@ -11335,7 +11334,6 @@
     <!--<e><p><l>ummæli<s n="n"/><s n="nt"/></l><r>statement<s n="n"/></r></p></e>--> <!--pl-->
     <e><p><l>undirtekt<s n="n"/><s n="f"/></l><r>agreement<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>úrslit<s n="n"/><s n="nt"/></l><r>result<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
-    <e><p><l>útlönd<s n="n"/><s n="nt"/></l><r>foreign<b/>countries<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel, actually.... is used in SG as slang -->
     <e><p><l>viðtökur<s n="n"/><s n="f"/></l><r>reception<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>vinsældir<s n="n"/><s n="f"/></l><r>popularity<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>yfirburðir<s n="n"/><s n="m"/></l><r>superiority<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
@@ -11357,13 +11355,44 @@
     <e><p><l>grannur<s n="adj"/></l><r>skinny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>flókinn<s n="adj"/></l><r>complicated<s n="adj"/></r></p></e>
     <e><p><l>fallegur<s n="adj"/></l><r>beautiful<s n="adj"/></r></p></e>
+    <e><p><l>hálfur<s n="adj"/></l><r>half<s n="adj"/></r></p></e>
+    <e><p><l>frjáls<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
+    <e><p><l>spænskur<s n="adj"/></l><r>Spanish<s n="adj"/></r></p></e>
+    <e><p><l>erfiður<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
+    <e><p><l>skriflegur<s n="adj"/></l><r>written<s n="adj"/></r></p></e>
+    <e><p><l>óumflýjanlegur<s n="adj"/></l><r>inevitable<s n="adj"/></r></p></e>
+    <e><p><l>sakleysislegur<s n="adj"/></l><r>innocent<b/>looking<s n="adj"/></r></p></e>
     <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e> 	 
 
     <e><p><l>í<b/>smáatriði<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
+    <e><p><l>fjarri<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
+    <e><p><l>fjarri<s n="adv"/><s n="comp"/></l><r>further<s n="adv"/></r></p></e>
+    <e><p><l>fjarri<s n="adv"/><s n="sup"/></l><r>furthest<s n="adv"/></r></p></e>
+    <e><p><l>fyrir<b/>mitt<b/>leyti<s n="adv"/></l><r>personally<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>mörgu<b/>leyti<s n="adv"/></l><r>in<b/>many<b/>ways<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>mjög<b/>litlu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>very<b/>small<b/>degree<s n="adv"/></r></p></e>
 
+    <e><p><l>starfi<s n="n"/><s n="m"/></l><r>job<s n="n"/></r></p></e>
+    <e><p><l>endi<s n="n"/><s n="m"/></l><r>end<s n="n"/></r></p></e>
+    <!--<e><p><l>tala<s n="n"/><s n="f"/></l><r>numeral<s n="n"/></r></p></e>-->
+    <e><p><l>þótti<s n="n"/><s n="m"/></l><r>arrogance<s n="n"/></r></p></e>
+    <e><p><l>sendiherra<s n="n"/><s n="m"/></l><r>ambassador<s n="n"/></r></p></e>
+    <e><p><l>tilnefning<s n="n"/><s n="f"/></l><r>nomination<s n="n"/></r></p></e>
+    <e><p><l>sinna<s n="n"/><s n="f"/></l><r>interest<s n="n"/></r></p></e>
+    <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
+    <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
+    <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
+    <e><p><l>mannréttindi<s n="n"/><s n="nt"/></l><r>human<b/>right<s n="n"/></r></p></e>
 
+  
+    <e><p><l>höfða<g><b/>mál<b/>gegn</g><s n="vblex"/></l><r>start<g><b/>proceedings<b/>against</g><s n="vblex"/></r></p></e>
+    <e><p><l>höfða<g><b/>til</g><s n="vblex"/></l><r>appeal<g><b/>to</g><s n="vblex"/></r></p></e>
+    <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
+
+    <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 <!-- END TODO -->
 
   </section>
