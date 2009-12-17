@@ -1979,7 +1979,7 @@
     <e><p><l>tvenna<s n="adj"/></l><r>pair<s n="adj"/></r></p></e>
     <e><p><l>tvíhliða<s n="adj"/></l><r>two-sided<s n="adj"/></r></p></e>
 <!--<p><l>tvíhliða<s n="adj"/></l><r>two-way<s n="adj"/></r></p></e>-->
-    <e><p><l>tvítugur<s n="adj"/></l><r>twenty<g><b/>years<b/>old</g><s n="adj"/></r></p></e>
+    <e><p><l>tvítugur<s n="adj"/></l><r>twenty<b/>year<b/>old<s n="adj"/></r></p></e> <!-- mod. adj. in sg. -->
     <e><p><l>tvítyngdur<s n="adj"/></l><r>bilingual<s n="adj"/></r></p></e>
 <!--<p><l>tvöfaldur<s n="adj"/></l><r>binary<s n="adj"/></r></p></e>-->
     <e><p><l>tvöfaldur<s n="adj"/></l><r>double<s n="adj"/></r></p></e>
@@ -11382,6 +11382,7 @@
     <e><p><l>sendiherra<s n="n"/><s n="m"/></l><r>ambassador<s n="n"/></r></p></e>
     <e><p><l>tilnefning<s n="n"/><s n="f"/></l><r>nomination<s n="n"/></r></p></e>
     <e><p><l>sinna<s n="n"/><s n="f"/></l><r>interest<s n="n"/></r></p></e>
+    <e><p><l>jólagjöf<s n="n"/><s n="f"/></l><r>Christmas<b/>present<s n="n"/></r></p></e>
     <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
     <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
