@@ -104,6 +104,8 @@
   </def-cat>
 
   <def-cat n="ppres">
+     <cat-item tags="vblex.*.ppres"/>
+     <cat-item tags="vblex.*.ger"/>
      <cat-item tags="vblex.ppres"/>
      <cat-item tags="vblex.ger"/>
   </def-cat>
@@ -1558,6 +1560,28 @@
            </out>
      </action>
   </rule><!-- END rule for past participles-->
+
+  <rule comment="REGLA: Present Participle"><!-- rule for present participles-->
+     <pattern>
+       <pattern-item n="ppres"/>
+     </pattern>
+     <action>
+           <out>
+             <chunk name="ppres" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_verb"/>
+                 <lit-tag v="ger"/>  <!-- Input can be ppres or ger -->
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule><!-- END rule for present participles-->
+
 
 
   <rule comment="REGLA: NOM TOP"><!-- rule for nouns -->
