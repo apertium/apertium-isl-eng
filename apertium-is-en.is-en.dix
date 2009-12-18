@@ -275,10 +275,11 @@
     <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>sumur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>einhver<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>hvor<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
 
     <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
+    <e><p><l>hvor<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
 
-<!-- <s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/> -->
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
     <!-- END Pronouns -->
@@ -3568,6 +3569,11 @@
     <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="f"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="nt"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>neinn<s n="det"/><s n="ind"/><s n="GD"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
+
+    <e r="LR"><p><l>annar<s n="det"/><s n="ind"/><s n="m"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>annar<s n="det"/><s n="ind"/><s n="f"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>annar<s n="det"/><s n="ind"/><s n="nt"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
+    <e r="RL"><p><l>annar<s n="det"/><s n="ind"/><s n="GD"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
 
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="m"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="f"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
@@ -11369,6 +11375,7 @@
     <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e> 	 
     <e><p><l>óheppilegur<s n="adj"/></l><r>unfortunate<s n="adj"/></r></p></e> 	 
+    <e><p><l>einn<s n="adj"/></l><r>alone<s n="adj"/></r></p></e> 	 
 
     <e><p><l>í<b/>smáatriði<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
@@ -11378,6 +11385,21 @@
     <e><p><l>fyrir<b/>mitt<b/>leyti<s n="adv"/></l><r>personally<s n="adv"/></r></p></e>
     <e><p><l>að<b/>mörgu<b/>leyti<s n="adv"/></l><r>in<b/>many<b/>ways<s n="adv"/></r></p></e>
     <e><p><l>að<b/>mjög<b/>litlu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>very<b/>small<b/>degree<s n="adv"/></r></p></e>
+
+   <e><p><l>því<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+   <e><p><l>harðlega<s n="adv"/></l><r>strongly<s n="adv"/></r></p></e>
+   <e><p><l>réttilega<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
+   <e><p><l>ranglega<s n="adv"/></l><r>wrongly<s n="adv"/></r></p></e>
+   <e><p><l>fyrirvaralaust<s n="adv"/></l><r>unconditionally<s n="adv"/></r></p></e>
+   <e><p><l>víðsvegar<s n="adv"/></l><r>far<b/>and<b/>wide<s n="adv"/></r></p></e>
+   <e><p><l>víðsvegar<b/>um<b/>heim<s n="adv"/></l><r>around<b/>the<b/>world<s n="adv"/></r></p></e>
+   <e><p><l>tímanlega<s n="adv"/></l><r>in<b/>good<b/>time<s n="adv"/></r></p></e>
+   <e><p><l>nýverið<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+   <e><p><l>innanlands<s n="adv"/></l><r>domestically<s n="adv"/></r></p></e>
+   <e><p><l>utanhúss<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+   <e><p><l>berlega<s n="adv"/></l><r>openly<s n="adv"/></r></p></e>
+   <e><p><l>aukalega<s n="adv"/></l><r>extra<s n="adv"/></r></p></e>
+   <e><p><l>nú<b/>þegar<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
 
     <e><p><l>starfi<s n="n"/><s n="m"/></l><r>job<s n="n"/></r></p></e>
     <e><p><l>endi<s n="n"/><s n="m"/></l><r>end<s n="n"/></r></p></e>
@@ -11389,6 +11411,7 @@
     <e><p><l>jólagjöf<s n="n"/><s n="f"/></l><r>Christmas<b/>present<s n="n"/></r></p></e>
     <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
     <e><p><l>lög<s n="n"/><s n="nt"/></l><r>law<s n="n"/></r></p></e>
+    <e><p><l>virkni<s n="n"/><s n="f"/></l><r>activity<s n="n"/></r></p></e>
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
     <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
@@ -11402,6 +11425,7 @@
     <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>mark<g><b/>up</g><s n="vblex"/></r></p></e>
 <!--    <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>set<g><b/>off</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>hefja<g><b/>viðræður</g><s n="vblex"/></l><r>start<g><b/>talks</g><s n="vblex"/></r></p></e>
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 

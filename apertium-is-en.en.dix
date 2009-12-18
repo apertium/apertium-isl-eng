@@ -42705,6 +42705,7 @@
     <e lm="stage"><i>stag</i><par n="liv/e__vblex"/></e>
     <e lm="stamp"><i>stamp</i><par n="accept__vblex"/></e>
     <e lm="start"><i>start</i><par n="accept__vblex"/></e>
+    <e lm="start talks"><i>start</i><par n="accept__vblex"/><p><l><b/>talks</l><r><g><b/>talks</g></r></p></e>
     <e lm="state"><i>stat</i><par n="liv/e__vblex"/></e>
     <e lm="stay"><i>stay</i><par n="accept__vblex"/></e>
     <e lm="step"><i>step</i><par n="step__vblex"/></e>

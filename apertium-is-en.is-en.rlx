@@ -208,6 +208,9 @@ SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 #ég gerði það sjálfur
 SELECT Acc IF (-1 VerbFin) (-1C* PersPron + Nom);
 
+#Við gerðum það sjálf.
+SELECT:r53 $$PERSON IF (1C VerbFin + $$PERSON)(0 PersPron) ;
+
 #################################################################################
 # Indefinite pronouns 
 #################################################################################
