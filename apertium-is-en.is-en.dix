@@ -11388,21 +11388,23 @@
     <e><p><l>að<b/>mörgu<b/>leyti<s n="adv"/></l><r>in<b/>many<b/>ways<s n="adv"/></r></p></e>
     <e><p><l>að<b/>mjög<b/>litlu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>very<b/>small<b/>degree<s n="adv"/></r></p></e>
 
-   <e><p><l>því<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
-   <e><p><l>harðlega<s n="adv"/></l><r>strongly<s n="adv"/></r></p></e>
-   <e><p><l>réttilega<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
-   <e><p><l>ranglega<s n="adv"/></l><r>wrongly<s n="adv"/></r></p></e>
-   <e><p><l>fyrirvaralaust<s n="adv"/></l><r>unconditionally<s n="adv"/></r></p></e>
-   <e><p><l>víðsvegar<s n="adv"/></l><r>far<b/>and<b/>wide<s n="adv"/></r></p></e>
-   <e><p><l>víðsvegar<b/>um<b/>heim<s n="adv"/></l><r>around<b/>the<b/>world<s n="adv"/></r></p></e>
-   <e><p><l>tímanlega<s n="adv"/></l><r>in<b/>good<b/>time<s n="adv"/></r></p></e>
-   <e><p><l>nýverið<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
-   <e><p><l>innanlands<s n="adv"/></l><r>domestically<s n="adv"/></r></p></e>
-   <e><p><l>utanhúss<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
-   <e><p><l>berlega<s n="adv"/></l><r>openly<s n="adv"/></r></p></e>
-   <e><p><l>aukalega<s n="adv"/></l><r>extra<s n="adv"/></r></p></e>
-   <e><p><l>nú<b/>þegar<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
-
+    <e><p><l>því<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e><p><l>harðlega<s n="adv"/></l><r>strongly<s n="adv"/></r></p></e>
+    <e><p><l>réttilega<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
+    <e><p><l>ranglega<s n="adv"/></l><r>wrongly<s n="adv"/></r></p></e>
+    <e><p><l>fyrirvaralaust<s n="adv"/></l><r>unconditionally<s n="adv"/></r></p></e>
+    <e><p><l>víðsvegar<s n="adv"/></l><r>far<b/>and<b/>wide<s n="adv"/></r></p></e>
+    <e><p><l>víðsvegar<b/>um<b/>heim<s n="adv"/></l><r>around<b/>the<b/>world<s n="adv"/></r></p></e>
+    <e><p><l>tímanlega<s n="adv"/></l><r>in<b/>good<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>nýverið<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+    <e><p><l>innanlands<s n="adv"/></l><r>domestically<s n="adv"/></r></p></e>
+    <e><p><l>utanhúss<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>berlega<s n="adv"/></l><r>openly<s n="adv"/></r></p></e>
+    <e><p><l>aukalega<s n="adv"/></l><r>extra<s n="adv"/></r></p></e>
+    <e><p><l>nú<b/>þegar<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+ 
+    <e><p><l>eftir<b/>að<s n="cnjadv"/></l><r>after<s n="cnjadv"/></r></p></e>
+ 
     <e><p><l>starfi<s n="n"/><s n="m"/></l><r>job<s n="n"/></r></p></e>
     <e><p><l>endi<s n="n"/><s n="m"/></l><r>end<s n="n"/></r></p></e>
     <!--<e><p><l>tala<s n="n"/><s n="f"/></l><r>numeral<s n="n"/></r></p></e>-->
@@ -11412,6 +11414,7 @@
     <e><p><l>sinna<s n="n"/><s n="f"/></l><r>interest<s n="n"/></r></p></e>
     <e><p><l>jólagjöf<s n="n"/><s n="f"/></l><r>Christmas<b/>present<s n="n"/></r></p></e>
     <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
+    <e><p><l>fréttamaður<s n="n"/><s n="m"/></l><r>reporter<s n="n"/></r></p></e>
     <e><p><l>lög<s n="n"/><s n="nt"/></l><r>law<s n="n"/></r></p></e>
     <e><p><l>virkni<s n="n"/><s n="f"/></l><r>activity<s n="n"/></r></p></e>
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
@@ -11422,6 +11425,7 @@
   
     <e><p><l>höfða<g><b/>mál<b/>gegn</g><s n="vblex"/></l><r>start<g><b/>proceedings<b/>against</g><s n="vblex"/></r></p></e>
     <e><p><l>höfða<g><b/>til</g><s n="vblex"/></l><r>appeal<g><b/>to</g><s n="vblex"/></r></p></e>
+    <e><p><l>halda<g><b/>áfram</g><s n="vblex"/></l><r>carry<g><b/>on</g><s n="vblex"/></r></p></e>
     <e><p><l>grípa<g><b/>til</g><s n="vblex"/></l><r>resort<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>

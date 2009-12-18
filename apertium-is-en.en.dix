@@ -41608,6 +41608,7 @@
     <e lm="caricature"><i>caricatur</i><par n="liv/e__vblex"/></e>
     <e lm="carry out"><i>carr</i><par n="appl/y__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="carry"><i>carr</i><par n="appl/y__vblex"/></e>
+    <e lm="carry on"><i>carr</i><par n="appl/y__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
     <e lm="cast"><i>cast</i><par n="cost__vblex"/></e>
     <e lm="castrate"><i>castrat</i><par n="liv/e__vblex"/></e>
     <e lm="catalog"><i>catalog</i><par n="accept__vblex"/></e>

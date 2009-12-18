@@ -141,7 +141,8 @@ SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 SELECT N IF (-1 Inf) (0 VerbInf) (NOT -1 MODV) ;
 
 # einhvern sem sæti
-SELECT N IF (-1 ("<sem>"ri)) (0 Verb) ;
+# sem steðjar að heiminum
+SELECT N IF (-1 ("<sem>"ri)) (0 Verb) (NOT 1 ("að"ri));
 
 # choose the verb
 # CEx. Ísland á dagskrá eftir viku
@@ -206,7 +207,7 @@ SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 #################################################################################
 
 #ég gerði það sjálfur
-SELECT Acc IF (-1 VerbFin) (-1C* PersPron + Nom);
+SELECT PersPron + Acc IF (-1 VerbFin) (-1C* PersPron + Nom);
 
 #Við gerðum það sjálf.
 SELECT:r53 $$PERSON IF (1C VerbFin + $$PERSON)(0 PersPron) ;
