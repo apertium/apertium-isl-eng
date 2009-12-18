@@ -296,6 +296,10 @@
       <e r="LR"><i>D</i></e>
       <e r="RL"><p><l>D</l><r>d</r></p></e>
     </pardef>
+    <pardef n="Ee">
+      <e r="LR"><i>E</i></e>
+      <e r="RL"><p><l>E</l><r>e</r></p></e>
+    </pardef>
     <pardef n="Ff">
       <e r="LR"><i>F</i></e>
       <e r="RL"><p><l>F</l><r>f</r></p></e>
@@ -303,6 +307,10 @@
     <pardef n="Gg">
       <e r="LR"><i>G</i></e>
       <e r="RL"><p><l>G</l><r>g</r></p></e>
+    </pardef>
+    <pardef n="Hh">
+      <e r="LR"><i>H</i></e>
+      <e r="RL"><p><l>H</l><r>h</r></p></e>
     </pardef>
     <pardef n="Ii">
       <e r="LR"><i>I</i></e>
@@ -39326,9 +39334,9 @@
     <e lm="Cuban"><par n="Cc"/><i>uban</i><par n="expensive__adj"/></e>
     <e lm="Cypriot"><par n="Cc"/><i>ypriot</i><par n="expensive__adj"/></e>
     <e lm="Danish"><par n="Dd"/><i>anish</i><par n="expensive__adj"/></e>
-    <e lm="Egyptian"><i>Egyptian</i><par n="expensive__adj"/></e>
-    <e lm="English"><i>English</i><par n="expensive__adj"/></e>
-    <e lm="European"><i>European</i><par n="expensive__adj"/></e>
+    <e lm="Egyptian"><par n="Ee"/><i>gyptian</i><par n="expensive__adj"/></e>
+    <e lm="English"><par n="Ee"/><i>nglish</i><par n="expensive__adj"/></e>
+    <e lm="European"><par n="Ee"/><i>uropean</i><par n="expensive__adj"/></e>
     <e lm="Falangist"><par n="Ff"/><i>alangist</i><par n="expensive__adj"/></e>
     <e lm="Finnish"><par n="Ff"/><i>innish</i><par n="expensive__adj"/></e>
     <e lm="Flemish"><par n="Ff"/><i>lemish</i><par n="expensive__adj"/></e>
@@ -39339,8 +39347,8 @@
     <e lm="Gothic"><par n="Gg"/><i>othic</i><par n="expensive__adj"/></e>
     <e lm="Greek"><par n="Gg"/><i>reek</i><par n="expensive__adj"/></e>
     <e lm="Guatemalan"><par n="Gg"/><i>uatemalan</i><par n="expensive__adj"/></e>
-    <e lm="Honduran"><i>Honduran</i><par n="expensive__adj"/></e>
-    <e lm="Hungarian"><i>Hungarian</i><par n="expensive__adj"/></e>
+    <e lm="Honduran"><par n="Hh"/><i>onduran</i><par n="expensive__adj"/></e>
+    <e lm="Hungarian"><par n="Hh"/><i>ungarian</i><par n="expensive__adj"/></e>
     <e lm="Icelandic"><par n="Ii"/><i>celandic</i><par n="expensive__adj"/></e>
     <e lm="Iberian"><par n="Ii"/><i>berian</i><par n="expensive__adj"/></e>
     <e lm="Indian"><par n="Ii"/><i>ndian</i><par n="expensive__adj"/></e>
