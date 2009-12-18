@@ -51,6 +51,13 @@ SUBSTITUTE (n) (n :0) ("rektor"ri);
 #         1:"bank" [river]
 SUBSTITUTE (n) (n :0) ("bakki"ri);
 
+# "aðgerð" :
+#         0:"operation"
+#         1:"measures"
+#         2:"repairs"
+SUBSTITUTE (n) (n :0) ("aðgerð"ri);
+SUBSTITUTE (n :0) (n :1) ("aðgerð"ri) (0 ("<aðgerða>"ri)) (-1 ("grípa# til"ri));
+
 ##
 ## VERBS
 ##

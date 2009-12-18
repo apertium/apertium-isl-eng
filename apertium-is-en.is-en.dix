@@ -11029,7 +11029,9 @@
     <e><p><l>miðstöð<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e> <!-- hq -->
     <e><p><l>meðferð<s n="n"/><s n="f"/></l><r>treatment<s n="n"/></r></p></e>
     <!--<e><p><l>meðferð<s n="n"/><s n="f"/></l><r>handling<s n="n"/></r></p></e>-->
-    <e><p><l>aðgerð<s n="n"/><s n="f"/></l><r>operation<s n="n"/></r></p></e>
+    <e><p><l>aðgerð<s n="n"/><s n=":0"/><s n="f"/></l><r>operation<s n="n"/></r></p></e>
+    <e><p><l>aðgerð<s n="n"/><s n=":1"/><s n="f"/></l><r>measure<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>aðgerð<s n="n"/><s n=":2"/><s n="f"/></l><r>repair<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>vísbending<s n="n"/><s n="f"/></l><r>clue<s n="n"/></r></p></e> <!-- hint -->
     <e><p><l>fullyrðing<s n="n"/><s n="f"/></l><r>assertion<s n="n"/></r></p></e>
     <e><p><l>samningur<s n="n"/><s n="m"/></l><r>contract<s n="n"/></r></p></e>
@@ -11420,6 +11422,7 @@
   
     <e><p><l>höfða<g><b/>mál<b/>gegn</g><s n="vblex"/></l><r>start<g><b/>proceedings<b/>against</g><s n="vblex"/></r></p></e>
     <e><p><l>höfða<g><b/>til</g><s n="vblex"/></l><r>appeal<g><b/>to</g><s n="vblex"/></r></p></e>
+    <e><p><l>grípa<g><b/>til</g><s n="vblex"/></l><r>resort<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
     <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>

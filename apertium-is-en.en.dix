@@ -20013,6 +20013,7 @@
     <e lm="absolution"><i>absolution</i><par n="house__n"/></e>
     <e lm="absolutism"><i>absolutism</i><par n="house__n"/></e>
     <e lm="abstention"><i>abstention</i><par n="house__n"/></e>
+    <e lm="anvil"><i>anvil</i><par n="house__n"/></e>
     <e lm="abstentionism"><i>abstentionism</i><par n="house__n"/></e>
     <e lm="abstentionist"><i>abstentionist</i><par n="house__n"/></e>
     <e lm="abstinence"><i>abstinence</i><par n="house__n"/></e>
@@ -42033,6 +42034,7 @@
     <e lm="fire"><i>fir</i><par n="liv/e__vblex"/></e>
     <e lm="fish"><i>fish</i><par n="approach__vblex"/></e>
     <e lm="fit"><i>fit</i><par n="fit__vblex"/></e>
+    <e lm="quit"><i>quit</i><par n="fit__vblex"/></e>
     <e lm="fix"><i>fix</i><par n="approach__vblex"/></e>
     <e lm="fly"><i>fl</i><par n="fl/y__vblex"/></e>
     <e lm="flatter"><i>flatter</i><par n="accept__vblex"/></e>
@@ -42555,6 +42557,7 @@
     <e lm="resist"><i>resist</i><par n="accept__vblex"/></e>
     <e lm="resolve"><i>resolv</i><par n="liv/e__vblex"/></e>
     <e lm="resort"><i>resort</i><par n="accept__vblex"/></e>
+    <e lm="resort to"><i>resort</i><par n="accept__vblex"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="respect"><i>respect</i><par n="accept__vblex"/></e>
     <e lm="rest"><i>rest</i><par n="accept__vblex"/></e>
     <e lm="restart"><i>restart</i><par n="accept__vblex"/></e>
