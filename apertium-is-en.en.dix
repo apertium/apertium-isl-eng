@@ -160,25 +160,10 @@
 
     <pardef n="numeros">
 
-    <e>
-      <re>[0-9]+([.,][0-9]+)?</re>
-      <p>
-        <l></l>
-        <r><s n="num"/></r>
-      </p>
-    </e>
 
-
-
-    <e>
-      <re>[0-9]+([.,][0-9]+)?%</re>
-      <p>
-        <l></l>
-        <r><s n="num"/><s n="percent"/></r>
-      </p>
-    </e>
-
-
+      <e>       <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>       <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
+      <e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
 
     <e>
       <re>[0-9]+([.,][0-9]+)?</re>
@@ -18064,7 +18049,6 @@
     <e lm="Lincoln"><i>Lincoln</i><par n="Mark__np"/></e>
     <e lm="Lisandro"><i>Lisandro</i><par n="Mark__np"/></e>
     <e lm="Logan"><i>Logan</i><par n="Mark__np"/></e>
-    <e lm="London"><i>London</i><par n="Mark__np"/></e>
     <e lm="Lonnie"><i>Lonnie</i><par n="Mark__np"/></e>
     <e lm="Lorenzo"><i>Lorenzo</i><par n="Mark__np"/></e>
     <e lm="Louis"><i>Louis</i><par n="Mark__np"/></e>
@@ -19092,7 +19076,6 @@
     <e lm="Lizette"><i>Lizette</i><par n="Mary__np"/></e>
     <e lm="Logan"><i>Logan</i><par n="Mary__np"/></e>
     <e lm="Lola"><i>Lola</i><par n="Mary__np"/></e>
-    <e lm="London"><i>London</i><par n="Mary__np"/></e>
     <e lm="Loren"><i>Loren</i><par n="Mary__np"/></e>
     <e lm="Lorena"><i>Lorena</i><par n="Mary__np"/></e>
     <e lm="Louise"><i>Louise</i><par n="Mary__np"/></e>
@@ -19722,6 +19705,7 @@
     <e lm="Lleida"><i>Lleida</i><par n="Barcelona__np"/></e>
     <e lm="Lluís"><i>Lluís</i><par n="Mark__np"/></e>
     <e lm="London"><i>London</i><par n="Barcelona__np"/></e>
+    <e lm="Álftanes"><i>Álftanes</i><par n="Barcelona__np"/></e>
     <e lm="Copenhagen"><i>Copenhagen</i><par n="Barcelona__np"/></e>
     <e lm="Lorena"><i>Lorena</i><par n="Mary__np"/></e>
     <e lm="Lorraine"><i>Lorraine</i><par n="Barcelona__np"/></e>
@@ -24623,6 +24607,7 @@
     <e lm="task"><i>task</i><par n="house__n"/></e>
     <e lm="taste"><i>taste</i><par n="house__n"/></e>
     <e lm="tax"><i>tax</i><par n="access__n"/></e>
+    <e lm="council tax"><i>council<b/>tax</i><par n="access__n"/></e>
     <e lm="taxation"><i>taxation</i><par n="house__n"/></e>
     <e lm="taxi"><i>taxi</i><par n="house__n"/></e>
     <e lm="taxi driver"><i>taxi<b/>driver</i><par n="house__n"/></e>
@@ -42116,6 +42101,7 @@
     <e lm="guide"><i>guid</i><par n="liv/e__vblex"/></e>
     <e lm="hold"><i>h</i><par n="h/old__vblex"/></e>
     <e lm="hang"><i>h</i><par n="h/ang__vblex"/></e>
+    <e lm="hang up"><i>h</i><par n="h/ang__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="have got"><i>ha</i><par n="ha/ve__vblex"/><p><l><b/>got</l><r><g><b/>got</g></r></p></e>
     <e lm="have"><i>ha</i><par n="ha/ve__vblex"/></e>
     <e lm="halt"><i>halt</i><par n="accept__vblex"/></e>
@@ -42286,7 +42272,7 @@
     <e lm="love"><i>lov</i><par n="liv/e__vblex"/></e>
     <e lm="lunch"><i>lunch</i><par n="approach__vblex"/></e>
     <e lm="make"><i>ma</i><par n="ma/ke__vblex"/></e>
-    <e lm="make"><i>ma</i><par n="ma/ke__vblex"/><p><l><b/>a<b/>mistake</l><r><g><b/>a<b/>mistake</g></r></p></e>
+    <e lm="make a mistake"><i>ma</i><par n="ma/ke__vblex"/><p><l><b/>a<b/>mistake</l><r><g><b/>a<b/>mistake</g></r></p></e>
     <e lm="maintain"><i>maintain</i><par n="accept__vblex"/></e>
     <e lm="manacle"><i>manacl</i><par n="liv/e__vblex"/></e>
     <e lm="manage"><i>manag</i><par n="liv/e__vblex"/></e>
@@ -42295,6 +42281,7 @@
     <e lm="manoeuvre"><i>manoeuvr</i><par n="liv/e__vblex"/></e>
     <e lm="manufacture"><i>manufactur</i><par n="liv/e__vblex"/></e>
     <e lm="mark"><i>mark</i><par n="accept__vblex"/></e>
+    <e lm="mark up"><i>mark</i><par n="accept__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="marry"><i>marr</i><par n="appl/y__vblex"/></e>
     <e lm="mask"><i>mask</i><par n="accept__vblex"/></e>
     <e lm="mass"><i>mass</i><par n="approach__vblex"/></e>

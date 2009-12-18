@@ -119,9 +119,12 @@
 
     <e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([0-9]+)?</re><p><l>˚C<s n="num"/></l><r>˚C<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
+
+
     <!-- END Punctuation and guessers -->
 
 
@@ -3906,6 +3909,7 @@
     <e><p><l>Lettland<s n="np"/><s n="top"/><s n="nt"/></l><r>Latvia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Litháen<s n="np"/><s n="top"/><s n="nt"/></l><r>Lithuania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Álftanes<s n="np"/><s n="top"/><s n="nt"/></l><r>Álftanes<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbería<s n="np"/><s n="top"/><s n="nt"/></l><r>Liberia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbýa<s n="np"/><s n="top"/><s n="nt"/></l><r>Libya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Malasía<s n="np"/><s n="top"/><s n="nt"/></l><r>Malaysia<s n="np"/><s n="top"/></r></p></e>
@@ -4972,7 +4976,6 @@
     <e><p><l>leggja<g><b/>til</g><s n="vblex"/></l><r>propose<s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>upp</g><s n="vblex"/></l><r>set<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>upp<b/>laupana</g><s n="vblex"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
-    <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>hang<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>út</g><s n="vblex"/></l><r>interpret<s n="vblex"/></r></p></e>
 <!--<p><l>leggja<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>-->
     <e><p><l>leggja<s n="vblex"/><s n=":0"/></l><r>lay<s n="vblex"/></r></p></e>
@@ -11386,6 +11389,7 @@
     <e><p><l>jólagjöf<s n="n"/><s n="f"/></l><r>Christmas<b/>present<s n="n"/></r></p></e>
     <e><p><l>hugi<s n="n"/><s n="m"/></l><r>mind<s n="n"/></r></p></e>
     <e><p><l>lög<s n="n"/><s n="nt"/></l><r>law<s n="n"/></r></p></e>
+    <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
     <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
     <e><p><l>mannréttindi<s n="n"/><s n="nt"/></l><r>human<b/>right<s n="n"/></r></p></e>
@@ -11394,7 +11398,10 @@
     <e><p><l>höfða<g><b/>mál<b/>gegn</g><s n="vblex"/></l><r>start<g><b/>proceedings<b/>against</g><s n="vblex"/></r></p></e>
     <e><p><l>höfða<g><b/>til</g><s n="vblex"/></l><r>appeal<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
+    <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
     <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>
+    <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>mark<g><b/>up</g><s n="vblex"/></r></p></e>
+<!--    <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>set<g><b/>off</g><s n="vblex"/></r></p></e>-->
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
