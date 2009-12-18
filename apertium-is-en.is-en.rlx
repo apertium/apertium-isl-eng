@@ -23,7 +23,7 @@ LIST Adv = (adv) ;
 LIST PersPron = (prn p1) (prn p2) (prn p3) ;
 LIST IndefPron = (prn ind);
 LIST DemPron = (prn dem) ;
-LIST ReflexivePronoun = (prn ref) ;
+LIST Refl = (prn ref) ;
 LIST InterrogativePronoun = (prn itg) ;
 LIST PossessivePronoun = (prn pos) ;
 LIST Pron = (prn);
@@ -39,7 +39,7 @@ LIST Verb = (vblex) (vbser) (vbhaver) (vaux);
 LIST TempsFin = (pri) (past) (prs) (pss);
 LIST TempsIrreal = (prs) (pss);
 LIST Rel = (rel) ;
-LIST Conjunction = (cnjcoo) (cnjadv) (cnjsub) ;
+LIST Conj = (cnjcoo) (cnjadv) (cnjsub) ;
 LIST CC = (cnjcoo) ;
 LIST CS = (cnjsub) ;
 LIST Exclamation = (ij) ;
@@ -197,7 +197,7 @@ REMOVE Adv IF (0 Adv) (0 Adj) (-1C VerbBe) (1C CLB);
 REMOVE Adv IF (NOT -1C* VerbFin BARRIER CLB) (0 Adv) (0 Adj) (1 Adj);
 
 #################################################################################
-# Adverbs
+# Advs
 #################################################################################
 
 SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
@@ -212,6 +212,11 @@ SELECT PersPron + Acc IF (-1 VerbFin) (-1C* PersPron + Nom);
 #Við gerðum það sjálf.
 SELECT:r53 $$PERSON IF (1C VerbFin + $$PERSON)(0 PersPron) ;
 
+#þá auðveldustu
+REMOVE ("<þá>"ri) + PersPron IF (1 Verb OR Conj OR  Adv OR  N);
+REMOVE ("<þá>"ri) + PersPron IF (-1 VerbBe OR Conj OR  Adv OR  N);
+REMOVE ("<þá>"ri) + PersPron IF ((-1C Refl) OR (-1 VerbBe OR PersPron)); # væri þá and réði sig þá
+
 #################################################################################
 # Indefinite pronouns 
 #################################################################################
@@ -222,7 +227,11 @@ SELECT:r53 $$PERSON IF (1C VerbFin + $$PERSON)(0 PersPron) ;
 #################################################################################
 
 # Ég sá ekki 
-REMOVE DemPron IF (-1C PersPron);
+# finnst þér þá
+REMOVE DemPron IF (-1C PersPron)
+REMOVE ("<þá>"ri) + DemPron IF (1 VerbFin) (NOT 1 Rel); # þá sem ...
+REMOVE ("<þá>"ri) + DemPron IF (1 Conj OR Adv) (-1 BOS); # Þá þegar ...
+REMOVE ("<þá>"ri) + DemPron IF (1C N OR ProperNom) (-1 Verb); # gekk þá maðurinn 
 
 # En mér leið ekki vel eftir þetta.
 REMOVE Det IF (0 Det) (0 Pron) (NOT 1 POST-DET);
