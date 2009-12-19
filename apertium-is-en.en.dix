@@ -22966,6 +22966,7 @@
     <e lm="miniaturisation"><i>miniaturisation</i><par n="house__n"/></e>
     <e lm="minimum"><i>minim</i><par n="maxim/um__n"/></e>
     <e lm="minimisation"><i>minimisation</i><par n="house__n"/></e>
+    <e lm="advisor"><i>advisor</i><par n="house__n"/></e>
     <e lm="prime minister"><i>prime<b/>minister</i><par n="house__n"/></e>
     <e lm="foreign minister"><i>foreign<b/>minister</i><par n="house__n"/></e>
     <e lm="minister"><i>minister</i><par n="house__n"/></e>
@@ -24450,6 +24451,8 @@
     <e lm="start"><i>start</i><par n="house__n"/></e>
     <e lm="starvation"><i>starvation</i><par n="house__n"/></e>
     <e lm="state"><i>state</i><par n="house__n"/></e>
+    <e lm="island state"><i>island<b/>state</i><par n="house__n"/></e>
+    <e lm="key state"><i>key<b/>state</i><par n="house__n"/></e>
     <e lm="statement"><i>statement</i><par n="house__n"/></e>
     <e lm="statesman"><i>statesm</i><par n="m/an__n"/></e>
     <e lm="station"><i>station</i><par n="house__n"/></e>
@@ -39316,6 +39319,7 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
+    <e lm="recognised"><i>recognised</i><par n="expensive__adj"/></e>
     <e lm="unfortunate"><i>unfortunate</i><par n="expensive__adj"/></e>
     <e lm="selected"><i>selected</i><par n="expensive__adj"/></e>
     <e lm="sentenced"><i>sentenced</i><par n="expensive__adj"/></e>
@@ -42514,7 +42518,6 @@
     <e lm="read"><i>read</i><par n="cost__vblex"/></e>
     <e lm="readjust"><i>readjust</i><par n="accept__vblex"/></e>
     <e lm="realise"><i>realis</i><par n="liv/e__vblex"/></e>
-    <e lm="realize"><i>realiz</i><par n="liv/e__vblex"/></e>
     <e lm="reappear"><i>reappear</i><par n="accept__vblex"/></e>
     <e lm="reason"><i>reason</i><par n="accept__vblex"/></e>
     <e lm="reassure"><i>reassur</i><par n="liv/e__vblex"/></e>
@@ -42523,8 +42526,7 @@
     <e lm="recess"><i>recess</i><par n="approach__vblex"/></e>
     <e lm="recite"><i>recit</i><par n="liv/e__vblex"/></e>
     <e lm="reckon"><i>reckon</i><par n="accept__vblex"/></e>
-    <e lm="recognize"><i>recogniz</i><par n="liv/e__vblex"/></e>
-    <e lm="recognize"><i>recogniz</i><par n="liv/e__vblex"/></e>
+    <e lm="recognise"><i>recognis</i><par n="liv/e__vblex"/></e>
     <e lm="recommend"><i>recommend</i><par n="accept__vblex"/></e>
     <e lm="reconsider"><i>reconsider</i><par n="accept__vblex"/></e>
     <e lm="reconstruct"><i>reconstruct</i><par n="accept__vblex"/></e>

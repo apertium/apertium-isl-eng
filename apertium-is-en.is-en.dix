@@ -3474,6 +3474,7 @@
     <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>alveg<b/>eins<b/>og<s n="cnjsub"/></l><r>just<b/>like<s n="cnjsub"/></r></p></e>
     <e><p><l>annaðhvort<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
+    <e><p><l>annaðhvort<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e> <!-- CNJCOO or CNJSUB?-->
 <!--<p><l>annaðhvort<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>-->
     <e><p><l>að<b/>því<b/>er<s n="cnjsub"/></l><r>as<b/>far<b/>as<s n="cnjsub"/></r></p></e>
     <e><p><l>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
@@ -3493,7 +3494,6 @@
 <!--<p><l>fyrst<s n="cnjsub"/></l><r>now<s n="cnjsub"/></r></p></e>-->
     <e><p><l>fyrst<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>heldur<b/>en<s n="cnjcoo"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
-    <e><p><l>heldur<s n="cnjsub"/></l><r>rather<s n="cnjsub"/></r></p></e>
     <e><p><l>hvorki<s n="cnjsub"/></l><r>neither<s n="cnjsub"/></r></p></e>
     <e><p><l>hvort<b/>sem<s n="cnjsub"/></l><r>whether<b/>or<b/>not<s n="cnjsub"/></r></p></e>
 <!--<p><l>hvort<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>-->
@@ -9736,7 +9736,7 @@
     <e><p><l>skólaár<s n="n"/><s n="nt"/></l><r>academic<b/>year<s n="n"/></r></p></e>
     <e><p><l>skóli<s n="n"/><s n="m"/></l><r>school<s n="n"/></r></p></e>
     <e><p><l>skömm<s n="n"/><s n="f"/></l><r>shame<s n="n"/></r></p></e>
-    <e><p><l>skúr<s n="n"/><s n="f"/></l><r>rainshower<s n="n"/></r></p></e>
+    <e><p><l>skúr<s n="n"/><s n="f"/></l><r>rain<b/>shower<s n="n"/></r></p></e>
     <e><p><l>ský<s n="n"/><s n="nt"/></l><r>cloud<s n="n"/></r></p></e>
     <e><p><l>skýring<s n="n"/><s n="f"/></l><r>explanation<s n="n"/></r></p></e>
     <e><p><l>skýrsla<s n="n"/><s n="f"/></l><r>report<s n="n"/></r></p></e>
@@ -9880,7 +9880,7 @@
     <e><p><l>stelpa<s n="n"/><s n="f"/></l><r>girl<s n="n"/></r></p></e>
     <e><p><l>steypireyður<s n="n"/><s n="f"/></l><r>blue<b/>whale<s n="n"/></r></p></e>
     <e><p><l>steðji<s n="n"/><s n="m"/></l><r>anvil<s n="n"/></r></p></e>
-    <e><p><l>stig<s n="n"/><s n="nt"/></l><r>superlative<b/>degree<s n="n"/></r></p></e>
+    <e><p><l>stig<s n="n"/><s n="nt"/></l><r>degree<s n="n"/></r></p></e> <!-- rm 'superlative' -->
     <e><p><l>stigagangur<s n="n"/><s n="m"/></l><r>stairway<s n="n"/></r></p></e>
     <e><p><l>stigi<s n="n"/><s n="m"/></l><r>ladder<s n="n"/></r></p></e>
     <!--<e><p><l>stigi<s n="n"/><s n="m"/></l><r>stairs<s n="n"/></r></p></e>-->
@@ -11312,8 +11312,8 @@
     <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( ... Why the frown?  'Breti' is 'British person', we could change it to that if it makes you happier ;) -->
     <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>municipal<b/>manager<s n="n"/></r></p></e>  <!-- ? can the title be 'mayor' if it is a small rural town? -->
 
-    <e><p><l>kínverji<s n="n"/><s n="m"/></l><r>Chinese<b/>person<s n="n"/></r></p></e>
-    <e><p><l>kínverjar<s n="n"/><s n="m"/><s n="pl"/></l><r>Chinese<s n="n"/><s n="pl"/></r></p></e> <!-- 'The Chinese' -->
+<!--    <e><p><l>kínverji<s n="n"/><s n="m"/></l><r>Chinese<b/>person<s n="n"/></r></p></e> -->
+    <e><p><l>kínverji<s n="n"/><s n="m"/></l><r>Chinese<s n="n"/></r></p></e>
 
     <e><p><l>Norðurland<s n="n"/><s n="nt"/></l><r>Northern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
     <e><p><l>Suðurland<s n="n"/><s n="nt"/></l><r>Southern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
@@ -11430,6 +11430,7 @@
     <e><p><l>þá<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
     <e><p><l>fyrir<b/>því<b/>að<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
 
+    <e><p><l>heldur<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
 
  
     <e><p><l>starfi<s n="n"/><s n="m"/></l><r>job<s n="n"/></r></p></e>
@@ -11470,6 +11471,7 @@
     <e><p><l>aðsetur<s n="n"/><s n="nt"/></l><r>residence<s n="n"/></r></p></e>
     <e><p><l>aðfangadagskvöld<s n="n"/><s n="nt"/></l><r>Christmas<b/>eve<s n="n"/></r></p></e>
     <e><p><l>viðmið<s n="n"/><s n="nt"/></l><r>norm<s n="n"/></r></p></e>
+    <e><p><l>frost<s n="n"/><s n="nt"/></l><r>frost<s n="n"/></r></p></e>
     <e><p><l>starfsfólk<s n="n"/><s n="nt"/></l><r>staff<s n="n"/></r></p></e>
     <e><p><l>il<s n="n"/><s n="f"/></l><r>sole<s n="n"/></r></p></e> <!-- of the foot -->
     <e><p><l>uppgötvun<s n="n"/><s n="f"/></l><r>discovery<s n="n"/></r></p></e>
@@ -11479,6 +11481,7 @@
     <e><p><l>lengja<s n="n"/><s n="f"/></l><r>strip<s n="n"/></r></p></e>
     <e><p><l>lögg<s n="n"/><s n="f"/></l><r>drop<s n="n"/></r></p></e>
     <e><p><l>uppsetning<s n="n"/><s n="f"/></l><r>arrangement<s n="n"/></r></p></e>
+    <e><p><l>skúr<s n="n"/><s n="m"/></l><r>shed<s n="n"/></r></p></e>
     <e><p><l>skipun<s n="n"/><s n="f"/></l><r>order<s n="n"/></r></p></e>
     <e><p><l>upplifun<s n="n"/><s n="f"/></l><r>experience<s n="n"/></r></p></e>
     <e><p><l>bráð<s n="n"/><s n="f"/></l><r>victim<s n="n"/></r></p></e>
@@ -11503,9 +11506,27 @@
     <e><p><l>útjaðar<s n="n"/><s n="m"/></l><r>outskirts<s n="n"/></r></p></e>  
     <!--<e><p><l>þroski<s n="n"/><s n="m"/></l><r>maturity<s n="n"/></r></p></e>  -->
     <e><p><l>ósigur<s n="n"/><s n="m"/></l><r>defeat<s n="n"/></r></p></e> 
+    <e><p><l>lykilríki<s n="n"/><s n="nt"/></l><r>key<b/>state<s n="n"/></r></p></e> 
+    <e><p><l>eyríki<s n="n"/><s n="nt"/></l><r>island<b/>state<s n="n"/></r></p></e> 
+    <e><p><l>aðalatriði<s n="n"/><s n="nt"/></l><r>main<b/>point<s n="n"/></r></p></e> 
     <e><p><l>vinnudagur<s n="n"/><s n="m"/></l><r>workday<s n="n"/></r></p></e> 
+    <e><p><l>undantekning<s n="n"/><s n="f"/></l><r>exception<s n="n"/></r></p></e> 
+    <e><p><l>nútími<s n="n"/><s n="m"/></l><r>present<s n="n"/></r></p></e>  <!-- in the present -->
+    <e><p><l>orðspor<s n="n"/><s n="nt"/></l><r>reputation<s n="n"/></r></p></e> 
+    <e><p><l>tilhneiging<s n="n"/><s n="f"/></l><r>trend<s n="n"/></r></p></e> 
     <e><p><l>mótmælandi<s n="n"/><s n="m"/></l><r>Protestant<s n="n"/></r></p></e> 
+    <e><p><l>fylgismaður<s n="n"/><s n="m"/></l><r>supporter<s n="n"/></r></p></e> 
+    <e><p><l>forveri<s n="n"/><s n="m"/></l><r>predecessor<s n="n"/></r></p></e> 
+    <e><p><l>þingva<s n="n"/><s n="f"/></l><r>clamp<s n="n"/></r></p></e> 
+    <e><p><l>víkingur<s n="n"/><s n="m"/></l><r>viking<s n="n"/></r></p></e> 
+    <e><p><l>tilstilli<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
+    <e><p><l>löggjöf<s n="n"/><s n="f"/></l><r>legislation<s n="n"/></r></p></e> 
+    <e><p><l>arfleifð<s n="n"/><s n="f"/></l><r>legacy<s n="n"/></r></p></e> 
+    <e><p><l>myndun<s n="n"/><s n="f"/></l><r>development<s n="n"/></r></p></e> 
+    <!--<e><p><l>myndun<s n="n"/><s n="f"/></l><r>formation<s n="n"/></r></p></e> -->
     <e><p><l>spá<s n="n"/><s n="f"/></l><r>forecast<s n="n"/></r></p></e>
+    <e><p><l>meðlimur<s n="n"/><s n="m"/></l><r>member<s n="n"/></r></p></e>
+    <e><p><l>karldýr<s n="n"/><s n="m"/></l><r>male<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
     <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
@@ -11519,8 +11540,10 @@
     <e><p><l>höfða<g><b/>mál<b/>gegn</g><s n="vblex"/></l><r>start<g><b/>proceedings<b/>against</g><s n="vblex"/></r></p></e>
     <e><p><l>höfða<g><b/>til</g><s n="vblex"/></l><r>appeal<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>halda<g><b/>áfram</g><s n="vblex"/></l><r>carry<g><b/>on</g><s n="vblex"/></r></p></e>
+    <e><p><l>halda<g><b/>fram</g><s n="vblex"/></l><r>maintain<s n="vblex"/></r></p></e>
     <e><p><l>grípa<g><b/>til</g><s n="vblex"/></l><r>resort<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
+    <e><p><l>ferja<s n="vblex"/></l><r>ferry<s n="vblex"/></r></p></e>
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
     <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>mark<g><b/>up</g><s n="vblex"/></r></p></e>
@@ -11560,6 +11583,7 @@
     <e><p><l>Sunderland<s n="np"/><s n="top"/><s n="nt"/></l><r>Sunderland<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Norðurálfa<s n="np"/><s n="top"/><s n="nt"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Suðurskautsálfa<s n="np"/><s n="top"/><s n="nt"/></l><r>Antarctica<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Venesúela<s n="np"/><s n="top"/><s n="nt"/></l><r>Venezuela<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kórea<s n="np"/><s n="top"/><s n="nt"/></l><r>Korea<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Suður-Kórea<s n="np"/><s n="top"/><s n="nt"/></l><r>South<b/>Korea<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Norður-Kórea<s n="np"/><s n="top"/><s n="nt"/></l><r>North<b/>Korea<s n="np"/><s n="top"/></r></p></e>

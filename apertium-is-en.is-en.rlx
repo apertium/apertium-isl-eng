@@ -335,6 +335,11 @@ REMOVE Rel IF (0 ("<er>"ri)) (NOT -1* VerbFin BARRIER CLB) (NOT 1* VerbFin BARRI
 #mátt þú ekki eta
 SELECT MODV + $$PERSON IF (1C PersPron + $$PERSON);
 
+##
+# Specific pre-disambiguation lexical selection
+# 
+
+SELECT ("stig"ri) IF (0 ("<stiga>"ri)) (1 ("frost"ri) OR ("hiti"ri));
 
 #################################################################################
 # Syntax  
@@ -368,3 +373,4 @@ MAP (@-FMAINV) TARGET Participle (-1C* @+FAUXV BARRIER CLB);
 
 MAP (@N→) TARGET (num) (0C (num)) (1C N);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
+
