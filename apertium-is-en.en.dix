@@ -20044,6 +20044,7 @@
     <e lm="acceleration"><i>acceleration</i><par n="house__n"/></e>
     <e lm="accent"><i>accent</i><par n="house__n"/></e>
     <e lm="acceptance"><i>acceptance</i><par n="house__n"/></e>
+    <e lm="envoy"><i>envoy</i><par n="house__n"/></e>
     <e lm="resemblance"><i>resemblance</i><par n="house__n"/></e>
     <e lm="access"><i>access</i><par n="access__n"/></e>
     <e lm="accessibility"><i>accessibilit</i><par n="bab/y__n"/></e>
@@ -43745,6 +43746,7 @@
     <e lm="to the utmost"><i>to<b/>the<b/>utmost</i><par n="maybe__adv"/></e>
     <e lm="today"><i>today</i><par n="maybe__adv"/></e>
     <e lm="this morning"><i>this<b/>morning</i><par n="maybe__adv"/></e>
+    <e lm="this evening"><i>this<b/>evening</i><par n="maybe__adv"/></e>
     <e lm="tomorrow"><i>tomorrow</i><par n="maybe__adv"/></e>
     <e lm="tonight"><i>tonight</i><par n="maybe__adv"/></e>
     <e lm="too"><i>too</i><par n="maybe__adv"/></e>

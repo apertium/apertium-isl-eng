@@ -195,6 +195,7 @@
     <e><p><l>í<b/>gærkvöldi<s n="adv"/></l><r>yesterday<b/>evening<s n="adv"/></r></p></e>
     <e><p><l>í<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e><p><l>í<b/>morgun<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>kvöld<s n="adv"/></l><r>this<b/>evening<s n="adv"/></r></p></e>
     <e><p><l>á<b/>morgun<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
     <e><p><l>annað<b/>kvöld<s n="adv"/></l><r>tomorrow<b/>night<s n="adv"/></r></p></e>
     <e><p><l>í<b/>ár<s n="adv"/></l><r>this<b/>year<s n="adv"/></r></p></e>
@@ -11485,6 +11486,7 @@
     <e><p><l>beður<s n="n"/><s n="m"/></l><r>bed<s n="n"/></r></p></e> <!-- flowerbed -->
     <e><p><l>skilnaður<s n="n"/><s n="m"/></l><r>separation<s n="n"/></r></p></e>
     <e><p><l>forði<s n="n"/><s n="m"/></l><r>supply<s n="n"/></r></p></e>
+    <e><p><l>sendimaður<s n="n"/><s n="m"/></l><r>envoy<s n="n"/></r></p></e>
     <e><p><l>flutningur<s n="n"/><s n="m"/></l><r>transport<s n="n"/></r></p></e>
     <e><p><l>sagnfræðingur<s n="n"/><s n="m"/></l><r>historian<s n="n"/></r></p></e>
     <e><p><l>rúst<s n="n"/><s n="f"/></l><r>ruin<s n="n"/></r></p></e>
