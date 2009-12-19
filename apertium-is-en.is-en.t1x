@@ -1716,7 +1716,7 @@
              <chunk name="adj_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
                  <get-case-from pos="1">
@@ -1737,6 +1737,49 @@
        </choose>
      </action>
   </rule><!-- END rule for 1 adjective + noun -->
+
+  <rule comment="REGLA: Det Adj Nom"><!-- rule for det + 1 adjective + noun -->
+     <pattern>
+       <pattern-item n="det"/>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="2"/>
+       </call-macro>
+           <out>
+             <chunk name="det_adj_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_det"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+              <b pos="1"/>
+              <lu>
+                 <var n="cur_adj_grau1"/>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule><!-- END rule for det +  1 adjective + noun -->
+
+
 
   <rule comment="REGLA: NUM ADJ NOM"><!-- rule for 1 adjective + noun -->
      <pattern>

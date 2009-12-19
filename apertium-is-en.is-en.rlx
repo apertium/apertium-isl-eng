@@ -25,7 +25,7 @@ LIST IndefPron = (prn ind);
 LIST DemPron = (prn dem) ;
 LIST Refl = (prn ref) ;
 LIST InterrogativePronoun = (prn itg) ;
-LIST PossessivePronoun = (prn pos) ;
+LIST PossPron = (prn pos) ;
 LIST Pron = (prn);
 LIST Prep = (pr) ;
 LIST Participle = (pp) (supn);
@@ -152,7 +152,7 @@ SELECT N IF (-1 ("<sem>"ri)) (0 Verb) (NOT 1 ("að"ri));
 REMOVE N IF (-1C N) (NOT -1 Gen) ((NOT -2 ProperNom) OR (-2 BOS));
 
 # select the possessive pronoun, "pabbi sinn"
-SELECT PossessivePronoun IF (-1C N);
+SELECT PossPron IF (-1C N);
 
 SELECT ("á"ri) IF (-1 Adv);
 
@@ -357,8 +357,8 @@ LIST @N→ = @N→;
 LIST @CNP = @CNP; # SN co-ordinator
 LIST @CVP = @CVP; # SV co-ordinator
 
-MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron); 
-MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron);
+MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron); 
+MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
 MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
                                         (NOT -1C* VerbAux + TempsFin BARRIER CLB) 

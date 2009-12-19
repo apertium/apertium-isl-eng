@@ -332,6 +332,10 @@
       <e r="LR"><i>N</i></e>
       <e r="RL"><p><l>N</l><r>n</r></p></e>
     </pardef>
+    <pardef n="Oo">
+      <e r="LR"><i>O</i></e>
+      <e r="RL"><p><l>O</l><r>o</r></p></e>
+    </pardef>
     <pardef n="Pp">
       <e r="LR"><i>P</i></e>
       <e r="RL"><p><l>P</l><r>p</r></p></e>
@@ -1686,7 +1690,7 @@
     <e>
       <p>
         <l>at</l>
-        <r>at<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r>
+        <r>at<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -1695,7 +1699,7 @@
     <e>
       <p>
         <l>ose</l>
-        <r>at<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r>
+        <r>at<s n="prn"/><s n="dem"/><s n="mf"/><s n="pl"/></r>
       </p>
     </e>
 
@@ -19459,6 +19463,15 @@
     <e lm="North-Korea"><i>North<b/>Korea</i><par n="Barcelona__np"/></e>
     <e lm="European Union"><i>European<b/>Union</i><par n="Barcelona__np"/></e>
     <e lm="York"><i>York</i><par n="Barcelona__np"/></e>
+    <e lm="Soviet Union"><i>Soviet<b/>Union</i><par n="Barcelona__np"/></e>
+    <e lm="Kurdistan"><i>Kurdistan</i><par n="Barcelona__np"/></e>
+    <e lm="Tatarstan"><i>Tatarstan</i><par n="Barcelona__np"/></e>
+    <e lm="Turkmenistan"><i>Turkmenistan</i><par n="Barcelona__np"/></e>
+    <e lm="Tajikistan"><i>Tajikistan</i><par n="Barcelona__np"/></e>
+    <e lm="Kyrgyzstan"><i>Kyrgyzstan</i><par n="Barcelona__np"/></e>
+    <e lm="Turkistan"><i>Turkistan</i><par n="Barcelona__np"/></e>
+    <e lm="Uzbekistan"><i>Uzbekistan</i><par n="Barcelona__np"/></e>
+
 
 
     <e lm="Akureyri"><i>Akureyri</i><par n="Barcelona__np"/></e>
@@ -19858,7 +19871,6 @@
     <e lm="Slovenia"><i>Slovenia</i><par n="Barcelona__np"/></e>
     <e lm="Sofia"><i>Sofia</i><par n="Barcelona__np"/></e>
     <e lm="Sofia"><i>Sofia</i><par n="Mary__np"/></e>
-    <e lm="South Africa"><i>South<b/>Africa</i><par n="Barcelona__np"/></e>
     <e lm="South Africa"><i>South<b/>Africa</i><par n="Barcelona__np"/></e>
     <e lm="Spain"><i>Spain</i><par n="Barcelona__np"/></e>
     <e lm="Stephen"><i>Stephen</i><par n="Mark__np"/></e>
@@ -21251,6 +21263,7 @@
     <e lm="dating"><i>dating</i><par n="house__n"/></e>
     <e lm="daughter"><i>daughter</i><par n="house__n"/></e>
     <e lm="day"><i>day</i><par n="house__n"/></e>
+    <e lm="workday"><i>workday</i><par n="house__n"/></e>
     <e lm="de-rating"><i>de-rating</i><par n="house__n"/></e>
     <e lm="deactivation"><i>deactivation</i><par n="house__n"/></e>
     <e lm="dead person"><i>dead<b/>person</i><par n="house__n"/></e>
@@ -22939,6 +22952,7 @@
     <e lm="millimeter"><i>millimeter</i><par n="house__n"/></e>
     <e lm="millimetre"><i>millimetre</i><par n="house__n"/></e>
     <e lm="million"><i>million</i><par n="house__n"/></e>
+    <e lm="billion"><i>billion</i><par n="house__n"/></e>
     <e lm="millionaire"><i>millionaire</i><par n="house__n"/></e>
     <e lm="min."><p><l>min.</l><r>min.</r></p><par n="east__n"/></e>
     <e lm="minaret"><i>minaret</i><par n="house__n"/></e>
@@ -23631,6 +23645,8 @@
     <e lm="preserve"><i>preserve</i><par n="house__n"/></e>
     <e lm="presidency"><i>presidenc</i><par n="bab/y__n"/></e>
     <e lm="president"><i>president</i><par n="house__n"/></e>
+    <e lm="American president"><i>American<b/>president</i><par n="house__n"/></e>
+    <e lm="French president"><i>French<b/>president</i><par n="house__n"/></e>
     <e lm="press"><i>press</i><par n="politics__n"/></e>
     <e lm="pressure"><i>pressure</i><par n="house__n"/></e>
     <e lm="prestige"><i>prestige</i><par n="house__n"/></e>
@@ -24800,6 +24816,7 @@
     <e lm="treaty"><i>treat</i><par n="bab/y__n"/></e>
     <e lm="treatment"><i>treatment</i><par n="house__n"/></e>
     <e lm="tree"><i>tree</i><par n="house__n"/></e>
+    <e lm="Christmas tree"><par n="Cc"/><i>hristmas<b/>tree</i><par n="house__n"/></e>
     <e lm="tree of knowledge"><i>tree</i><par n="house__n"/><p><l><b/>of<b/>knowledge</l><r><g><b/>of<b/>knowledge</g></r></p></e>
     <e lm="trek"><i>trek</i><par n="house__n"/></e>
     <e lm="tremor"><i>tremor</i><par n="house__n"/></e>
@@ -25187,18 +25204,20 @@
     <e lm="Vietnamese"><i>Vietnamese</i><par n="house__n"/></e>
     <e lm="Yugoslav"><i>Yugoslav</i><par n="house__n"/></e>
     <e lm="Yugoslavian"><i>Yugoslavian</i><par n="house__n"/></e>
-    <e lm="january"><i>Januar</i><par n="bab/y__n"/></e>
-    <e lm="february"><i>Februar</i><par n="bab/y__n"/></e>
+
+    <e lm="January"><par n="Jj"/><i>anuar</i><par n="bab/y__n"/></e>
+    <e lm="February"><par n="Ff"/><i>ebruar</i><par n="bab/y__n"/></e>
     <e r="LR"><i>March</i><par n="access__n"/></e>
-    <e lm="april"><i>April</i><par n="house__n"/></e>
-    <e lm="may"><i>May</i><par n="house__n"/></e>
-    <e lm="june"><i>June</i><par n="house__n"/></e>
-    <e lm="july"><i>Jul</i><par n="bab/y__n"/></e>
-    <e lm="august"><i>August</i><par n="house__n"/></e>
-    <e lm="september"><i>September</i><par n="house__n"/></e>
-    <e lm="october"><i>October</i><par n="house__n"/></e>
-    <e lm="november"><i>November</i><par n="house__n"/></e>
-    <e lm="december"><i>December</i><par n="house__n"/></e>
+    <e lm="April"><par n="Aa"/><i>pril</i><par n="house__n"/></e>
+    <e lm="May"><par n="Mm"/><i>ay</i><par n="house__n"/></e>
+    <e lm="June"><par n="Jj"/><i>une</i><par n="house__n"/></e>
+    <e lm="July"><par n="Jj"/><i>ul</i><par n="bab/y__n"/></e>
+    <e lm="August"><par n="Aa"/><i>ugust</i><par n="house__n"/></e>
+    <e lm="September"><par n="Ss"/><i>eptember</i><par n="house__n"/></e>
+    <e lm="October"><par n="Oo"/><i>ctober</i><par n="house__n"/></e>
+    <e lm="November"><par n="Nn"/><i>ovember</i><par n="house__n"/></e>
+    <e lm="December"><par n="Dd"/><i>ecember</i><par n="house__n"/></e>
+
     <e lm="Mr"><i>Mr</i><par n="east__n"/></e>
     <e lm="Mrs"><i>Mrs</i><par n="east__n"/></e>
     <e lm="Ms"><i>Ms</i><par n="east__n"/></e>

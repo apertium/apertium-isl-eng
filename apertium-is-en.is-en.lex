@@ -7,6 +7,7 @@ LIST EOS              = (<<<);
 LIST PrnPos           = (prn pos);
 LIST PrnPersAnim      = (prn p1) (prn p2) (prn p3 m) (prn p3 f);
 LIST Ord              = (ord) ("fyrstur"ri);
+LIST Num              = (num) ("milljarður"ri) ("þúsund"ri);
 
 LIST Acc              = (acc);
 LIST Gen              = (gen);
@@ -57,6 +58,12 @@ SUBSTITUTE (n) (n :0) ("bakki"ri);
 #         2:"repairs"
 SUBSTITUTE (n) (n :0) ("aðgerð"ri);
 SUBSTITUTE (n :0) (n :1) ("aðgerð"ri) (0 ("<aðgerða>"ri)) (-1 ("grípa# til"ri));
+
+# "dalur" :
+#        0:"valley"
+#        1:"dollar"
+SUBSTITUTE (n) (n :0) ("dalur"ri);
+SUBSTITUTE (n :0) (n :1) ("dalur"ri) (-1 Num);
 
 ##
 ## VERBS
