@@ -138,15 +138,15 @@ SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 
 # að (cn/aa) beina (sgn/n*) mér
 # Íslendingar munu boða að
-SELECT N IF (-1 Inf) (0 VerbInf) (NOT -1 MODV) ;
+REMOVE N IF (-1 Inf) (0 VerbInf) (NOT -1 MODV) ;
 
 # einhvern sem sæti
 # sem steðjar að heiminum
-SELECT N IF (-1 ("<sem>"ri)) (0 Verb) (NOT 1 ("að"ri));
+REMOVE N IF (-1 ("<sem>"ri)) (0 Verb) (NOT 1 ("að"ri));
 
 # choose the verb
 # CEx. Ísland á dagskrá eftir viku
-#SELECT N IF (-1C ProperNom) (0 Verb) ;
+REMOVE N IF (-1C ProperNom) (0 Verb) ;
 
 # Disallow two nouns in a row unless the latter is in the genitive case
 REMOVE N IF (-1C N) (NOT -1 Gen) ((NOT -2 ProperNom) OR (-2 BOS));

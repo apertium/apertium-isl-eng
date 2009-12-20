@@ -13818,6 +13818,7 @@
     <e lm="Súsanna"><i>Súsanna</i><par n="Mary__np"/></e>
     <e lm="Pála"><i>Pála</i><par n="Mary__np"/></e>
     <e lm="Aþena"><i>Aþena</i><par n="Mary__np"/></e>
+    <e lm="Ásta"><i>Ásta</i><par n="Mary__np"/></e>
 
     <e lm="United Nations"><par n="Uu"/><i>nited<b/>Nations</i><par n="United_Nations__np"/></e>
     <e lm="Wikimedia"><i>Wikimedia</i><par n="Wikimedia__np"/></e>
@@ -19439,6 +19440,13 @@
     <e lm="Adam"><i>Adam</i><par n="Mark__np"/></e>
     <e lm="Adriana"><i>Adriana</i><par n="Mary__np"/></e>
     <e lm="Adrià"><i>Adrià</i><par n="Mark__np"/></e>
+
+    <e lm="Florida"><i>Florida</i><par n="Barcelona__np"/></e>
+    <e lm="Grindavík"><i>Grindavík</i><par n="Barcelona__np"/></e>
+    <e lm="Njarðvík"><i>Njarðvík</i><par n="Barcelona__np"/></e>
+    <e lm="Húsavík"><i>Húsavík</i><par n="Barcelona__np"/></e>
+    <e lm="Keflavík"><i>Keflavík</i><par n="Barcelona__np"/></e>
+    <e lm="Breiðdalsvík"><i>Breiðdalsvík</i><par n="Barcelona__np"/></e>
 
     <e lm="India"><i>India</i><par n="Barcelona__np"/></e>
     <e lm="Czech Republic"><i>Czech<b/>Republic</i><par n="Barcelona__np"/></e>
