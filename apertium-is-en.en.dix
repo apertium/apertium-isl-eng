@@ -22321,6 +22321,8 @@
     <e lm="hurry"><i>hurr</i><par n="bab/y__n"/></e>
     <e lm="hurricane"><i>hurricane</i><par n="house__n"/></e>
     <e lm="husband"><i>husband</i><par n="house__n"/></e>
+    <e lm="husband and wife"><p><l>husband<b/>and<b/>wife</l><r>husband<b/>and<b/>wife<s n="n"/><s n="sg"/></r></p></e>
+    <e lm="husband and wife"><p><l>husbands<b/>and<b/>wives</l><r>husband<b/>and<b/>wife<s n="n"/><s n="pl"/></r></p></e>
     <e lm="hybrid"><i>hybrid</i><par n="house__n"/></e>
     <e lm="hybridisation"><i>hybridisation</i><par n="house__n"/></e>
     <e lm="hydrate"><i>hydrate</i><par n="house__n"/></e>

@@ -11393,6 +11393,7 @@
     <e><p><l>einn<s n="adj"/></l><r>alone<s n="adj"/></r></p></e> 	 
     <e><p><l>unninn<s n="adj"/></l><r>processed<s n="adj"/></r></p></e> 	 
     <e><p><l>harkalegur<s n="adj"/></l><r>severe<s n="adj"/></r></p></e> 	 
+    <e><p><l>trúarlegur<s n="adj"/></l><r>religious<s n="adj"/></r></p></e> 	 
     <e><p><l>einróma<s n="adj"/></l><r>unanimous<s n="adj"/></r></p></e> 	 
     <e><p><l>upphaflegur<s n="adj"/></l><r>original<s n="adj"/></r></p></e> 	 
     <e><p><l>tvennur<s n="adj"/></l><r>two<s n="adj"/></r></p></e>  <!-- tvenns konar -->
@@ -11458,6 +11459,8 @@
     <e><p><l>fréttamaður<s n="n"/><s n="m"/></l><r>lot<s n="n"/></r></p></e>
     <e><p><l>lög<s n="n"/><s n="nt"/></l><r>law<s n="n"/></r></p></e>
     <e><p><l>lyf<s n="n"/><s n="nt"/></l><r>medicine<s n="n"/></r></p></e>
+    <e><p><l>handverk<s n="n"/><s n="nt"/></l><r>craft<s n="n"/></r></p></e>
+    <e><p><l>framhaldsnám<s n="n"/><s n="nt"/></l><r>post-graduate<b/>study<s n="n"/></r></p></e>
     <e><p><l>grand<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>
     <e><p><l>þúsund<s n="n"/><s n="nt"/></l><r>thousand<s n="n"/></r></p></e> <!-- nt = sg, f = pl ? -->
     <e><p><l>þúsund<s n="n"/><s n="f"/></l><r>thousand<s n="n"/></r></p></e>
@@ -11509,6 +11512,7 @@
     <e><p><l>heill<s n="n"/><s n="f"/></l><r>luck<s n="n"/></r></p></e>
     <e><p><l>reiði<s n="n"/><s n="f"/></l><r>anger<s n="n"/></r></p></e>
     <e><p><l>lóð<s n="n"/><s n="nt"/></l><r>weight<s n="n"/></r></p></e>
+    <e><p><l>tilvísun<s n="n"/><s n="f"/></l><r>reference<s n="n"/></r></p></e>
     <e><p><l>rauf<s n="n"/><s n="f"/></l><r>hole<s n="n"/></r></p></e>
     <e><p><l>ræktun<s n="n"/><s n="f"/></l><r>cultivation<s n="n"/></r></p></e>
     <!--<e><p><l>ræktun<s n="n"/><s n="f"/></l><r>breeding<s n="n"/></r></p></e>-->
@@ -11547,6 +11551,8 @@
     <e><p><l>þurrka<s n="n"/><s n="f"/></l><r>drought<s n="n"/></r></p></e> 
     <e><p><l>forveri<s n="n"/><s n="m"/></l><r>predecessor<s n="n"/></r></p></e> 
     <e><p><l>þingva<s n="n"/><s n="f"/></l><r>clamp<s n="n"/></r></p></e> 
+    <e><p><l>þolinmæði<s n="n"/><s n="f"/></l><r>patience<s n="n"/></r></p></e> 
+    <e><p><l>frelsun<s n="n"/><s n="f"/></l><r>liberation<s n="n"/></r></p></e> 
     <e><p><l>víkingur<s n="n"/><s n="m"/></l><r>viking<s n="n"/></r></p></e> 
     <e><p><l>tilstilli<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
     <e><p><l>kvíða<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e> 
