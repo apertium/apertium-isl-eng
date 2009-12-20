@@ -3756,6 +3756,7 @@
     <!-- NB: internal grouping by: 'np+al', 'np+ant+gender', 'np+cog', 'np+org', 'np+top' -->
     <e><p><l>Guð<s n="np"/><s n="al"/><s n="m"/></l><r>God<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>Kristur<s n="np"/><s n="al"/><s n="m"/></l><r>Christ<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Wikipedia<s n="np"/><s n="al"/><s n="f"/></l><r>Wikipedia<s n="np"/><s n="al"/></r></p></e>
 
     <e><p><l>Ásta<s n="np"/><s n="ant"/><s n="f"/></l><r>Ásta<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Aþena<s n="np"/><s n="ant"/><s n="f"/></l><r>Aþena<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -11394,6 +11395,7 @@
     <e><p><l>unninn<s n="adj"/></l><r>processed<s n="adj"/></r></p></e> 	 
     <e><p><l>harkalegur<s n="adj"/></l><r>severe<s n="adj"/></r></p></e> 	 
     <e><p><l>trúarlegur<s n="adj"/></l><r>religious<s n="adj"/></r></p></e> 	 
+    <e><p><l>annarlegur<s n="adj"/></l><r>strange<s n="adj"/></r></p></e> 	 
     <e><p><l>einróma<s n="adj"/></l><r>unanimous<s n="adj"/></r></p></e> 	 
     <e><p><l>upphaflegur<s n="adj"/></l><r>original<s n="adj"/></r></p></e> 	 
     <e><p><l>tvennur<s n="adj"/></l><r>two<s n="adj"/></r></p></e>  <!-- tvenns konar -->
@@ -11545,6 +11547,138 @@
     <e r="LR"><p><l>systkini<s n="n"/><s n="nt"/><s n="sg"/></l><r>sibling<s n="n"/><s n="pl"/></r></p></e> 
     <e r="LR"><p><l>systkini<s n="n"/><s n="nt"/><s n="pl"/></l><r>sibling<s n="n"/><s n="pl"/></r></p></e> 
     <e r="RL"><p><l>systkini<s n="n"/><s n="nt"/><s n="ND"/></l><r>sibling<s n="n"/><s n="pl"/></r></p></e> 
+
+    <e><p><l>aðdáandi<s n="n"/><s n="m"/></l><r>fan<s n="n"/></r></p></e>    
+    <e><p><l>aðferðafræði<s n="n"/><s n="f"/></l><r>methodology<s n="n"/></r></p></e>    
+    <e><p><l>aðskilnaður<s n="n"/><s n="m"/></l><r>separation<s n="n"/></r></p></e>    
+    <e><p><l>æti<s n="n"/><s n="nt"/></l><r>feed<s n="n"/></r></p></e>    
+    <e><p><l>ævilok<s n="n"/><s n="nt"/></l><r>death<s n="n"/></r></p></e>    
+    <e><p><l>afrit<s n="n"/><s n="nt"/></l><r>copy<s n="n"/></r></p></e>    
+    <e><p><l>afurð<s n="n"/><s n="f"/></l><r>product<s n="n"/></r></p></e>    
+    <e><p><l>ágæti<s n="n"/><s n="nt"/></l><r>excellence<s n="n"/></r></p></e>    
+    <e><p><l>áreiti<s n="n"/><s n="nt"/></l><r>stimulus<s n="n"/></r></p></e>    
+    <e><p><l>bókavörður<s n="n"/><s n="m"/></l><r>librarian<s n="n"/></r></p></e>    
+    <e><p><l>búseta<s n="n"/><s n="f"/></l><r>residence<s n="n"/></r></p></e>    
+    <e><p><l>doktorsgráða<s n="n"/><s n="f"/></l><r>doctorate<s n="n"/></r></p></e>    
+    <e><p><l>eiginleiki<s n="n"/><s n="m"/></l><r>feature<s n="n"/></r></p></e>    
+    <e><p><l>eind<s n="n"/><s n="f"/></l><r>particle<s n="n"/></r></p></e>    
+    <e><p><l>einkaréttur<s n="n"/><s n="m"/></l><r>exclusive<b/>right<s n="n"/></r></p></e>    
+    <e><p><l>endalok<s n="n"/><s n="nt"/></l><r>completion<s n="n"/></r></p></e>    
+    <e><p><l>endurnýjun<s n="n"/><s n="f"/></l><r>renewal<s n="n"/></r></p></e>    
+    <e><p><l>færsla<s n="n"/><s n="f"/></l><r>accounting<s n="n"/></r></p></e>    
+    <e><p><l>fallorð<s n="n"/><s n="nt"/></l><r>nominal<s n="n"/></r></p></e>    
+    <e><p><l>flokkun<s n="n"/><s n="f"/></l><r>taxonomy<s n="n"/></r></p></e>    
+    <e><p><l>flöt<s n="n"/><s n="f"/></l><r>lawn<s n="n"/></r></p></e>    
+    <e><p><l>forfaðir<s n="n"/><s n="m"/></l><r>forefather<s n="n"/></r></p></e>    
+    <e><p><l>formennska<s n="n"/><s n="f"/></l><r>chairmanship<s n="n"/></r></p></e>    
+    <e><p><l>fræðigrein<s n="n"/><s n="f"/></l><r>discipline<s n="n"/></r></p></e>    
+    <e><p><l>fræðimaður<s n="n"/><s n="m"/></l><r>scholar<s n="n"/></r></p></e>    
+    <e><p><l>fræði<s n="n"/><s n="f"/></l><r>studies<s n="n"/></r></p></e>    
+    <e><p><l>framsetning<s n="n"/><s n="f"/></l><r>presentation<s n="n"/></r></p></e>    
+    <e><p><l>frávik<s n="n"/><s n="nt"/></l><r>exception<s n="n"/></r></p></e>    
+    <e><p><l>fyrirbæri<s n="n"/><s n="nt"/></l><r>phenomenon<s n="n"/></r></p></e>    
+    <e><p><l>geymd<s n="n"/><s n="f"/></l><r>preservation<s n="n"/></r></p></e>    
+    <e><p><l>gönguleið<s n="n"/><s n="f"/></l><r>path<s n="n"/></r></p></e>    
+    <e><p><l>Grænlendingur<s n="n"/><s n="m"/></l><r>Greenlander<s n="n"/></r></p></e>    
+    <e><p><l>heimavist<s n="n"/><s n="f"/></l><r>dorm<s n="n"/></r></p></e>    
+    <e><p><l>hertogi<s n="n"/><s n="m"/></l><r>duke<s n="n"/></r></p></e>    
+    <e><p><l>hljóðritun<s n="n"/><s n="f"/></l><r>recording<s n="n"/></r></p></e>    
+    <e><p><l>hluthyggja<s n="n"/><s n="f"/></l><r>realism<s n="n"/></r></p></e>    
+    <e><p><l>hryggur<s n="n"/><s n="m"/></l><r>back<s n="n"/></r></p></e>    
+    <e><p><l>hugrekki<s n="n"/><s n="f"/></l><r>courage<s n="n"/></r></p></e>    
+    <e><p><l>hugsuður<s n="n"/><s n="m"/></l><r>thinker<s n="n"/></r></p></e>    
+    <e><p><l>hylli<s n="n"/><s n="f"/></l><r>favour<s n="n"/></r></p></e>    
+    <e><p><l>jafngildi<s n="n"/><s n="nt"/></l><r>equivalent<s n="n"/></r></p></e>    
+    <e><p><l>Kennaraháskóli<s n="n"/><s n="m"/></l><r>teacher<b/>training<b/>college<s n="n"/></r></p></e>    
+    <e><p><l>kennslustofa<s n="n"/><s n="f"/></l><r>class<b/>room<s n="n"/></r></p></e>    
+    <e><p><l>klasi<s n="n"/><s n="m"/></l><r>cluster<s n="n"/></r></p></e>    
+    <e><p><l>kommúnisti<s n="n"/><s n="m"/></l><r>communist<s n="n"/></r></p></e>    
+    <e><p><l>Kóran<s n="n"/><s n="m"/></l><r>Quran<s n="n"/></r></p></e>    
+    <e><p><l>kynslóð<s n="n"/><s n="f"/></l><r>generation<s n="n"/></r></p></e>    
+    <e><p><l>kynþroski<s n="n"/><s n="m"/></l><r>maturation<s n="n"/></r></p></e>    
+    <e><p><l>láglendi<s n="n"/><s n="nt"/></l><r>lowland<s n="n"/></r></p></e>    
+    <e><p><l>lektor<s n="n"/><s n="m"/></l><r>lecturer<s n="n"/></r></p></e>    
+    <e><p><l>líkan<s n="n"/><s n="f"/></l><r>model<s n="n"/></r></p></e>    
+    <e><p><l>mælikvarði<s n="n"/><s n="m"/></l><r>scale<s n="n"/></r></p></e>    
+    <e><p><l>málsvari<s n="n"/><s n="m"/></l><r>advocate<s n="n"/></r></p></e>    
+    <e><p><l>millibil<s n="n"/><s n="nt"/></l><r>interval<s n="n"/></r></p></e>    
+    <e><p><l>minjar<s n="n"/><s n="f"/></l><r>relic<s n="n"/></r></p></e>    
+    <e><p><l>mormóni<s n="n"/><s n="m"/></l><r>Mormon<s n="n"/></r></p></e>    
+    <e><p><l>mótstaða<s n="n"/><s n="f"/></l><r>resistance<s n="n"/></r></p></e>    
+    <e><p><l>mótun<s n="n"/><s n="f"/></l><r>formation<s n="n"/></r></p></e>    
+    <e><p><l>múr<s n="n"/><s n="m"/></l><r>wall<s n="n"/></r></p></e>    
+    <e><p><l>myndefni<s n="n"/><s n="nt"/></l><r>illustration<s n="n"/></r></p></e>    
+    <e><p><l>nálgun<s n="n"/><s n="f"/></l><r>approximation<s n="n"/></r></p></e>    
+    <e><p><l>norðvestur<s n="n"/><s n="nt"/></l><r>north<b/>west<s n="n"/></r></p></e>    
+    <e><p><l>nóta<s n="n"/><s n="f"/></l><r>note<s n="n"/></r></p></e>    
+    <e><p><l>núll<s n="n"/><s n="nt"/></l><r>zero<s n="n"/></r></p></e>    
+    <e><p><l>ofsókn<s n="n"/><s n="f"/></l><r>persecution<s n="n"/></r></p></e>    
+    <e><p><l>óþarfi<s n="n"/><s n="m"/></l><r>luxury<s n="n"/></r></p></e>    
+    <e><p><l>Persi<s n="n"/><s n="m"/></l><r>Persian<s n="n"/></r></p></e>    
+    <e><p><l>pláss<s n="n"/><s n="nt"/></l><r>space<s n="n"/></r></p></e>    
+    <e><p><l>Portúgali<s n="n"/><s n="m"/></l><r>Portuguese<s n="n"/></r></p></e>    
+    <e><p><l>prent<s n="n"/><s n="nt"/></l><r>print<s n="n"/></r></p></e>    
+    <e><p><l>ritmál<s n="n"/><s n="nt"/></l><r>written<b/>language<s n="n"/></r></p></e>    
+    <e><p><l>ritstjórn<s n="n"/><s n="f"/></l><r>editorial<s n="n"/></r></p></e>    
+    <e><p><l>ritun<s n="n"/><s n="f"/></l><r>writing<s n="n"/></r></p></e>    
+    <e><p><l>röksemdafærsla<s n="n"/><s n="f"/></l><r>argument<s n="n"/></r></p></e>    
+    <e><p><l>samræða<s n="n"/><s n="f"/></l><r>conversation<s n="n"/></r></p></e>    
+    <e><p><l>samræða<s n="n"/><s n="f"/></l><r>dialogue<s n="n"/></r></p></e>    
+    <e><p><l>sería<s n="n"/><s n="f"/></l><r>series<s n="n"/></r></p></e>    
+    <e><p><l>sjónarsvið<s n="n"/><s n="nt"/></l><r>visual<b/>range<s n="n"/></r></p></e>    
+    <e><p><l>skilgreining<s n="n"/><s n="f"/></l><r>definition<s n="n"/></r></p></e>    
+    <e><p><l>skilmáli<s n="n"/><s n="m"/></l><r>condition<s n="n"/></r></p></e>    
+    <e><p><l>skynjun<s n="n"/><s n="f"/></l><r>detection<s n="n"/></r></p></e>    
+    <e><p><l>slit<s n="n"/><s n="nt"/></l><r>wear<s n="n"/></r></p></e>    
+    <e><p><l>smellur<s n="n"/><s n="m"/></l><r>click<s n="n"/></r></p></e>    
+    <e><p><l>smíð<s n="n"/><s n="f"/></l><r>construction<s n="n"/></r></p></e>    
+    <e><p><l>snerting<s n="n"/><s n="f"/></l><r>touch<s n="n"/></r></p></e>    
+    <e><p><l>sökk<s n="n"/><s n="nt"/></l><r>sink<s n="n"/></r></p></e>    
+    <e><p><l>sóló<s n="n"/><s n="f"/></l><r>colo<s n="n"/></r></p></e>    
+    <e><p><l>spönn<s n="n"/><s n="f"/></l><r>span<s n="n"/></r></p></e>    
+    <e><p><l>stopp<s n="n"/><s n="nt"/></l><r>stop<s n="n"/></r></p></e>    
+    <e><p><l>suðaustur<s n="n"/><s n="nt"/></l><r>south<b/>east<s n="n"/></r></p></e>    
+    <e><p><l>suðvestur<s n="n"/><s n="nt"/></l><r>south<b/>west<s n="n"/></r></p></e>    
+    <e><p><l>svigi<s n="n"/><s n="m"/></l><r>parenthesis<s n="n"/></r></p></e>    
+    <e><p><l>sykur<s n="n"/><s n="nt"/></l><r>sugar<s n="n"/></r></p></e>    
+    <e><p><l>tengill<s n="n"/><s n="m"/></l><r>link<s n="n"/></r></p></e>    
+    <e><p><l>testamenti<s n="n"/><s n="nt"/></l><r>testament<s n="n"/></r></p></e>    
+    <e><p><l>tign<s n="n"/><s n="f"/></l><r>nobility<s n="n"/></r></p></e>    
+    <e><p><l>tilkall<s n="n"/><s n="nt"/></l><r>claim<s n="n"/></r></p></e>    
+    <e><p><l>tilstilli<s n="n"/><s n="nt"/></l><r>aid<s n="n"/></r></p></e>    
+    <e><p><l>tilurð<s n="n"/><s n="f"/></l><r>birth<s n="n"/></r></p></e>    
+    <e><p><l>tímaröð<s n="n"/><s n="f"/></l><r>chronological<b/>order<s n="n"/></r></p></e>    
+    <e><p><l>tól<s n="n"/><s n="nt"/></l><r>tool<s n="n"/></r></p></e>    
+    <e><p><l>tónverk<s n="n"/><s n="nt"/></l><r>music<s n="n"/></r></p></e>    
+    <e><p><l>Tyrki<s n="n"/><s n="m"/></l><r>Turk<s n="n"/></r></p></e>    
+    <e><p><l>ull<s n="n"/><s n="m"/></l><r>wool<s n="n"/></r></p></e>    
+    <e><p><l>umbót<s n="n"/><s n="f"/></l><r>reform<s n="n"/></r></p></e>    
+    <e><p><l>umdæmi<s n="n"/><s n="nt"/></l><r>region<s n="n"/></r></p></e>    
+    <e><p><l>ummerki<s n="n"/><s n="nt"/></l><r>evidence<s n="n"/></r></p></e>    
+    <e><p><l>undirflokkur<s n="n"/><s n="m"/></l><r>subgroup<s n="n"/></r></p></e>    
+    <e><p><l>undirstaða<s n="n"/><s n="f"/></l><r>base<s n="n"/></r></p></e>    
+    <e><p><l>uppgjöf<s n="n"/><s n="f"/></l><r>submission<s n="n"/></r></p></e>    
+    <e><p><l>upphafsmaður<s n="n"/><s n="m"/></l><r>founder<s n="n"/></r></p></e>    
+    <e><p><l>upplausn<s n="n"/><s n="f"/></l><r>solution<s n="n"/></r></p></e>    
+    <e><p><l>uppspretta<s n="n"/><s n="f"/></l><r>source<s n="n"/></r></p></e>    
+    <e><p><l>upptök<s n="n"/><s n="nt"/></l><r>source<s n="n"/></r></p></e>    
+    <e><p><l>útgáfufyrirtæki<s n="n"/><s n="nt"/></l><r>publisher<s n="n"/></r></p></e>    
+    <e><p><l>úthverfi<s n="n"/><s n="nt"/></l><r>suburb<s n="n"/></r></p></e>    
+    <e><p><l>útþensla<s n="n"/><s n="f"/></l><r>expansion<s n="n"/></r></p></e>    
+    <e><p><l>valdataka<s n="n"/><s n="f"/></l><r>coup<s n="n"/></r></p></e>    
+    <e><p><l>varðveisla<s n="n"/><s n="f"/></l><r>storage<s n="n"/></r></p></e>    
+    <e><p><l>velgengni<s n="n"/><s n="f"/></l><r>success<s n="n"/></r></p></e>    
+    <e><p><l>vellíðan<s n="n"/><s n="f"/></l><r>well-being<s n="n"/></r></p></e>    
+    <e><p><l>verslunarstaður<s n="n"/><s n="m"/></l><r>trading<b/>centre<s n="n"/></r></p></e>    
+    <e><p><l>vesturhluti<s n="n"/><s n="m"/></l><r>west<s n="n"/></r></p></e>    
+    <e><p><l>viðauki<s n="n"/><s n="m"/></l><r>appendix<s n="n"/></r></p></e>    
+    <e><p><l>vígi<s n="n"/><s n="nt"/></l><r>fort<s n="n"/></r></p></e>    
+    <e><p><l>þegn<s n="n"/><s n="m"/></l><r>subject<s n="n"/></r></p></e>    
+    <e><p><l>þema<s n="n"/><s n="nt"/></l><r>theme<s n="n"/></r></p></e>    
+    <e><p><l>þingkosning<s n="n"/><s n="f"/></l><r>parliamentary<b/>election<s n="n"/></r></p></e>    
+    <e><p><l>þjóðflokkur<s n="n"/><s n="m"/></l><r>tribe<s n="n"/></r></p></e>    
+    <e><p><l>þykkt<s n="n"/><s n="f"/></l><r>thickness<s n="n"/></r></p></e>    
+
 
     <e><p><l>martröð<s n="n"/><s n="f"/></l><r>nightmare<s n="n"/></r></p></e> 
     <e><p><l>yfirstjórn<s n="n"/><s n="f"/></l><r>management<s n="n"/></r></p></e> 

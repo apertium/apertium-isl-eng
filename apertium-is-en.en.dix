@@ -41436,6 +41436,7 @@
     <e lm="go through"><i></i><par n="/go__vblex"/><p><l><b/>through</l><r><g><b/>through</g></r></p></e>
     <e lm="go up"><i></i><par n="/go__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/></e>
+    <e lm="compliment"><i>compliment</i><par n="accept__vblex"/></e>
     <e lm="lift"><i>lift</i><par n="accept__vblex"/></e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/></e>
     <e lm="oblige"><i>oblig</i><par n="liv/e__vblex"/></e>
@@ -41802,6 +41803,8 @@
     <e lm="cut"><i>cut</i><par n="cut__vblex"/></e>
     <e lm="do"><i>d</i><par n="d/o__vblex"/></e>
     <e lm="die"><i>d</i><par n="d/ie__vblex"/></e>
+    <e lm="lie"><i>l</i><par n="d/ie__vblex"/></e> <!--they lied about the bird-->
+    <e lm="lie"><i>l</i><par n="l/ie__vblex"/></e> <!--she lay on the ground -->
     <e lm="dig"><i>d</i><par n="d/ig__vblex"/></e>
     <e lm="damage"><i>damag</i><par n="liv/e__vblex"/></e>
     <e lm="dampen"><i>dampen</i><par n="accept__vblex"/></e>
