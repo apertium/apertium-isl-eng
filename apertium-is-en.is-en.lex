@@ -119,3 +119,13 @@ SUBSTITUTE (pr :0) (pr :1) ("á"ri) (1C Islands);
 # "sem" :
 #      0:"that"
 SUBSTITUTE (rel) (rel :0) ("sem"ri);
+
+##
+## ADJECTIVES 
+## 
+
+# "rómanskur" :
+#            0:"Romance"
+#            1:"Latin"
+SUBSTITUTE (adj) (adj :0) ("rómanskur"ri);
+SUBSTITUTE (adj :0) (adj :1) ("rómanskur"ri) (1C ("Ameríka"));

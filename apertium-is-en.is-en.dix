@@ -11439,6 +11439,8 @@
     <e><p><l>frjálslegur<s n="adj"/></l><r>outgoing<s n="adj"/></r></p></e>
     <e><p><l>kunnuglegur<s n="adj"/></l><r>familiar<s n="adj"/></r></p></e>
     <e><p><l>forvitnilegur<s n="adj"/></l><r>interesting<s n="adj"/></r></p></e>
+    <e><p><l>rómanskur<s n="adj"/><s n=":0"/></l><r>Romance<s n="adj"/></r></p></e>
+    <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
 
     <e><p><l>í<b/>smáatriði<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
@@ -11742,6 +11744,7 @@
     <e><p><l>halda<g><b/>fram</g><s n="vblex"/></l><r>maintain<s n="vblex"/></r></p></e>
     <e><p><l>grípa<g><b/>til</g><s n="vblex"/></l><r>resort<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
+    <e><p><l>frjósa<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
     <e><p><l>ferja<s n="vblex"/></l><r>ferry<s n="vblex"/></r></p></e>
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
     <e><p><l>apa<s n="vblex"/></l><r>imitate<s n="vblex"/></r></p></e> <!-- ape ? -->
