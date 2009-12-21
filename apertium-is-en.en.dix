@@ -20903,6 +20903,10 @@
     <e lm="coal"><i>coal</i><par n="house__n"/></e>
     <e lm="coalition"><i>coalition</i><par n="house__n"/></e>
     <e lm="coast"><i>coast</i><par n="house__n"/></e>
+    <e lm="east coast"><i>east<b/>coast</i><par n="house__n"/></e>
+    <e lm="west coast"><i>west<b/>coast</i><par n="house__n"/></e>
+    <e lm="north coast"><i>north<b/>coast</i><par n="house__n"/></e>
+    <e lm="south coast"><i>south<b/>coast</i><par n="house__n"/></e>
     <e lm="coat"><i>coat</i><par n="house__n"/></e>
     <e lm="raincoat"><i>raincoat</i><par n="house__n"/></e>
     <e lm="cobweb"><i>cobweb</i><par n="house__n"/></e>
@@ -21538,6 +21542,7 @@
     <e lm="dogmatism"><i>dogmatism</i><par n="house__n"/></e>
     <e lm="doll"><i>doll</i><par n="house__n"/></e>
     <e lm="dollar"><i>dollar</i><par n="house__n"/></e>
+    <e lm="US dollar"><i>US<b/>dollar</i><par n="house__n"/></e>
     <e lm="dolphin"><i>dolphin</i><par n="house__n"/></e>
     <e lm="domain"><i>domain</i><par n="house__n"/></e>
     <e lm="domestication"><i>domestication</i><par n="house__n"/></e>
@@ -41510,6 +41515,7 @@
     <e lm="announce"><i>announc</i><par n="liv/e__vblex"/></e>
     <e lm="answer"><i>answer</i><par n="accept__vblex"/></e>
     <e lm="appeal"><i>appeal</i><par n="accept__vblex"/></e>
+    <e lm="appeal to"><i>appeal</i><par n="accept__vblex"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="appear"><i>appear</i><par n="accept__vblex"/></e>
     <e lm="appease"><i>appeas</i><par n="liv/e__vblex"/></e>
     <e lm="apply for"><i>appl</i><par n="appl/y__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e>
@@ -41613,6 +41619,7 @@
     <e lm="boycott"><i>boycott</i><par n="accept__vblex"/></e>
     <e lm="bring together"><i>br</i><par n="br/ing__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>together</l><r><g><b/>together</g></r></p></e>
     <e lm="break"><i>br</i><par n="br/eak__vblex"/></e>
+    <e lm="break down"><i>br</i><par n="br/eak__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="bring"><i>br</i><par n="br/ing__vblex"/></e>
     <e lm="brake"><i>brak</i><par n="liv/e__vblex"/></e>
     <e lm="breed"><i>bre</i><par n="ble/ed__vblex"/></e>
@@ -41662,12 +41669,12 @@
     <e lm="censor"><i>censor</i><par n="accept__vblex"/></e>
     <e lm="center"><p><l>center</l><r>centre</r></p><par n="accept__vblex"/></e>
     <e lm="centre"><i>centr</i><par n="liv/e__vblex"/></e>
-    <e lm="centralize"><i>centraliz</i><par n="liv/e__vblex"/></e>
+    <e lm="centralise"><i>centralis</i><par n="liv/e__vblex"/></e>
     <e lm="certify"><i>certif</i><par n="appl/y__vblex"/></e>
     <e lm="chain"><i>chain</i><par n="accept__vblex"/></e>
     <e lm="chair"><i>chair</i><par n="accept__vblex"/></e>
     <e lm="change"><i>chang</i><par n="liv/e__vblex"/></e>
-    <e lm="characterize"><i>characteriz</i><par n="liv/e__vblex"/></e>
+    <e lm="characterise"><i>characteris</i><par n="liv/e__vblex"/></e>
     <e lm="charge"><i>charg</i><par n="liv/e__vblex"/></e>
     <e lm="chase"><i>chas</i><par n="liv/e__vblex"/></e>
     <e lm="chat"><i>chat</i><par n="admit__vblex"/></e>
@@ -41689,6 +41696,7 @@
     <e lm="classify"><i>classif</i><par n="appl/y__vblex"/></e>
     <e lm="clean"><i>clean</i><par n="accept__vblex"/></e>
     <e lm="clear"><i>clear</i><par n="accept__vblex"/></e>
+    <e lm="clear the throat"><i>clear</i><par n="accept__vblex"/><p><l><b/>the<b/>throat</l><r><g><b/>the<b/>throat</g></r></p></e>
     <e lm="climb"><i>climb</i><par n="accept__vblex"/></e>
     <e lm="close"><i>clos</i><par n="liv/e__vblex"/></e>
     <e lm="coin"><i>coin</i><par n="accept__vblex"/></e>
@@ -41704,7 +41712,7 @@
     <e lm="command"><i>command</i><par n="accept__vblex"/></e>
     <e lm="commence"><i>commenc</i><par n="liv/e__vblex"/></e>
     <e lm="comment"><i>comment</i><par n="accept__vblex"/></e>
-    <e lm="commercialize"><i>commercializ</i><par n="liv/e__vblex"/></e>
+    <e lm="commercialise"><i>commercialis</i><par n="liv/e__vblex"/></e>
     <e lm="commission"><i>commission</i><par n="accept__vblex"/></e>
     <e lm="commit"><i>commit</i><par n="admit__vblex"/></e>
     <e lm="communicate"><i>communicat</i><par n="liv/e__vblex"/></e>
@@ -41845,7 +41853,7 @@
     <e lm="demand"><i>demand</i><par n="accept__vblex"/></e>
     <e lm="demonstrate"><i>demonstrat</i><par n="liv/e__vblex"/></e>
     <e lm="deny"><i>den</i><par n="appl/y__vblex"/></e>
-    <e lm="denationalize"><i>denationaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="denationalise"><i>denationalis</i><par n="liv/e__vblex"/></e>
     <e lm="denominate"><i>denominat</i><par n="liv/e__vblex"/></e>
     <e lm="denote"><i>denot</i><par n="liv/e__vblex"/></e>
     <e lm="denounce"><i>denounc</i><par n="liv/e__vblex"/></e>
@@ -42050,6 +42058,7 @@
     <e lm="fight"><i>f</i><par n="f/ight__vblex"/></e>
     <e lm="find out"><i>f</i><par n="f/ind__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="fall down"><i>f</i><par n="f/all__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
+    <e lm="fall asleep"><i>f</i><par n="f/all__vblex"/><p><l><b/>asleep</l><r><g><b/>asleep</g></r></p></e>
     <e lm="find"><i>f</i><par n="f/ind__vblex"/></e>
     <e lm="fall"><i>f</i><par n="f/all__vblex"/></e>
     <e lm="face"><i>fac</i><par n="liv/e__vblex"/></e>
@@ -42101,7 +42110,7 @@
     <e lm="forget"><i>forg</i><par n="forg/et__vblex"/></e>
     <e lm="forgive"><i>forg</i><par n="g/ive__vblex"/></e>
     <e lm="form"><i>form</i><par n="accept__vblex"/></e>
-    <e lm="formalize"><i>formaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="formalise"><i>formalis</i><par n="liv/e__vblex"/></e>
     <e lm="formulate"><i>formulat</i><par n="liv/e__vblex"/></e>
     <e lm="fortify"><i>fortif</i><par n="appl/y__vblex"/></e>
     <e lm="forward"><i>forward</i><par n="accept__vblex"/></e>
@@ -42119,16 +42128,20 @@
     <e lm="fund"><i>fund</i><par n="accept__vblex"/></e>
     <e lm="furnish"><i>furnish</i><par n="approach__vblex"/></e>
     <e lm="give"><i>g</i><par n="g/ive__vblex"/></e>
+    <e lm="give up"><i>g</i><par n="g/ive__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
+    <e lm="give in marriage"><i>g</i><par n="g/ive__vblex"/><p><l><b/>in<b/>marriage</l><r><g><b/>in<b/>marriage</g></r></p></e>
     <e lm="get"><i>g</i><par n="g/et__vblex"/></e>
     <e lm="get hold of"><i>g</i><par n="g/et__vblex"/><p><l><b/>hold<b/>of</l><r><g><b/>hold<b/>of</g></r></p></e>
     <e lm="get dark"><i>g</i><par n="g/et__vblex"/><p><l><b/>dark</l><r><g><b/>dark</g></r></p></e>
     <e lm="get there"><i>g</i><par n="g/et__vblex"/><p><l><b/>there</l><r><g><b/>there</g></r></p></e>
+    <e lm="get married"><i>g</i><par n="g/et__vblex"/><p><l><b/>married</l><r><g><b/>married</g></r></p></e>
     <e lm="give up"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="give back"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>
     <e lm="gain"><i>gain</i><par n="accept__vblex"/></e>
+    <e lm="gain ground"><i>gain</i><par n="accept__vblex"/><p><l><b/>ground</l><r><g><b/>ground</g></r></p></e>
     <e lm="gallop"><i>gallop</i><par n="accept__vblex"/></e>
     <e lm="gather"><i>gather</i><par n="accept__vblex"/></e>
-    <e lm="generalize"><i>generaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="generalise"><i>generalis</i><par n="liv/e__vblex"/></e>
     <e lm="generate"><i>generat</i><par n="liv/e__vblex"/></e>
     <e lm="germinate"><i>germinat</i><par n="liv/e__vblex"/></e>
     <e lm="gild"><i>gild</i><par n="accept__vblex"/></e>
@@ -42160,7 +42173,7 @@
     <e lm="handle"><i>handl</i><par n="liv/e__vblex"/></e>
     <e lm="happen"><i>happen</i><par n="accept__vblex"/></e>
     <e lm="harm"><i>harm</i><par n="accept__vblex"/></e>
-    <e lm="harmonize"><i>harmoniz</i><par n="liv/e__vblex"/></e>
+    <e lm="harmonise"><i>harmonis</i><par n="liv/e__vblex"/></e>
     <e lm="harvest"><i>harvest</i><par n="accept__vblex"/></e>
     <e lm="hate"><i>hat</i><par n="liv/e__vblex"/></e>
     <e lm="hatch"><i>hatch</i><par n="approach__vblex"/></e>
@@ -42209,7 +42222,7 @@
     <e lm="incriminate"><i>incriminat</i><par n="liv/e__vblex"/></e>
     <e lm="indicate"><i>indicat</i><par n="liv/e__vblex"/></e>
     <e lm="induce"><i>induc</i><par n="liv/e__vblex"/></e>
-    <e lm="industrialize"><i>industrializ</i><par n="liv/e__vblex"/></e>
+    <e lm="industrialise"><i>industrialis</i><par n="liv/e__vblex"/></e>
     <e lm="infect"><i>infect</i><par n="accept__vblex"/></e>
     <e lm="influence"><i>influenc</i><par n="liv/e__vblex"/></e>
     <e lm="inform"><i>inform</i><par n="accept__vblex"/></e>
@@ -42234,7 +42247,7 @@
     <e lm="intercept"><i>intercept</i><par n="accept__vblex"/></e>
     <e lm="interest"><i>interest</i><par n="accept__vblex"/></e>
     <e lm="interfere"><i>interfer</i><par n="liv/e__vblex"/></e>
-    <e lm="internalize"><i>internaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="internalise"><i>internalis</i><par n="liv/e__vblex"/></e>
     <e lm="interpose"><i>interpos</i><par n="liv/e__vblex"/></e>
     <e lm="interpret"><i>interpret</i><par n="accept__vblex"/></e>
     <e lm="interrogate"><i>interrogat</i><par n="liv/e__vblex"/></e>
@@ -42272,6 +42285,7 @@
     <e lm="know"><i>kn</i><par n="bl/ow__vblex"/></e>
     <e lm="knit"><i>knit</i><par n="admit__vblex"/></e>
     <e lm="knock"><i>knock</i><par n="accept__vblex"/></e>
+    <e lm="knock out"><i>knock</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="lay off"><i>la</i><par n="pa/y__vblex"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="lay"><i>la</i><par n="pa/y__vblex"/></e>
     <e lm="label"><i>label</i><par n="control__vblex"/></e>
@@ -42290,7 +42304,7 @@
     <e lm="learn"><i>learn</i><par n="deal__vblex"/></e>
     <e r="LR"><i>learn</i><par n="accept__vblex"/></e>
     <e lm="lease"><i>leas</i><par n="liv/e__vblex"/></e>
-    <e lm="legalize"><i>legaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="legalise"><i>legalis</i><par n="liv/e__vblex"/></e>
     <e lm="legitimate"><i>legitimat</i><par n="liv/e__vblex"/></e>
     <e lm="lend"><i>len</i><par n="ben/d__vblex"/></e>
     <e lm="let"><i>let</i><par n="cut__vblex"/></e>
@@ -42317,6 +42331,7 @@
     <e lm="look"><i>look</i><par n="accept__vblex"/></e>
     <e lm="look for"><i>look</i><par n="accept__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e>
     <e lm="look like"><i>look</i><par n="accept__vblex"/><p><l><b/>like</l><r><g><b/>like</g></r></p></e>
+    <e lm="look at"><i>look</i><par n="accept__vblex"/><p><l><b/>at</l><r><g><b/>at</g></r></p></e>
     <e lm="loom"><i>loom</i><par n="accept__vblex"/></e>
     <e lm="love"><i>lov</i><par n="liv/e__vblex"/></e>
     <e lm="lunch"><i>lunch</i><par n="approach__vblex"/></e>
@@ -42335,14 +42350,14 @@
     <e lm="mask"><i>mask</i><par n="accept__vblex"/></e>
     <e lm="mass"><i>mass</i><par n="approach__vblex"/></e>
     <e lm="match"><i>match</i><par n="approach__vblex"/></e>
-    <e lm="materialize"><i>materializ</i><par n="liv/e__vblex"/></e>
+    <e lm="materialise"><i>materialis</i><par n="liv/e__vblex"/></e>
     <e lm="matter"><i>matter</i><par n="accept__vblex"/></e>
     <e lm="mature"><i>matur</i><par n="liv/e__vblex"/></e>
     <e lm="meet"><i>me</i><par n="me/et__vblex"/></e>
     <e lm="mean"><i>mean</i><par n="deal__vblex"/></e>
     <e lm="meander"><i>meander</i><par n="accept__vblex"/></e>
     <e lm="measure"><i>measur</i><par n="liv/e__vblex"/></e>
-    <e lm="mechanize"><i>mechaniz</i><par n="liv/e__vblex"/></e>
+    <e lm="mechanise"><i>mechanis</i><par n="liv/e__vblex"/></e>
     <e lm="melt"><i>melt</i><par n="accept__vblex"/></e>
     <e lm="mention"><i>mention</i><par n="accept__vblex"/></e>
     <e lm="merge"><i>merg</i><par n="liv/e__vblex"/></e>
@@ -42355,7 +42370,7 @@
     <e lm="moderate"><i>moderat</i><par n="liv/e__vblex"/></e>
     <e lm="modify"><i>modif</i><par n="appl/y__vblex"/></e>
     <e lm="monitor"><i>monitor</i><par n="accept__vblex"/></e>
-    <e lm="monopolize"><i>monopoliz</i><par n="liv/e__vblex"/></e>
+    <e lm="monopolise"><i>monopolis</i><par n="liv/e__vblex"/></e>
     <e lm="mortgage"><i>mortgag</i><par n="liv/e__vblex"/></e>
     <e lm="motivate"><i>motivat</i><par n="liv/e__vblex"/></e>
     <e lm="motorise"><i>motoris</i><par n="liv/e__vblex"/></e>
@@ -42365,15 +42380,15 @@
     <e lm="murder"><i>murder</i><par n="accept__vblex"/></e>
     <e lm="mutter"><i>mutter</i><par n="accept__vblex"/></e>
     <e lm="name"><i>nam</i><par n="liv/e__vblex"/></e>
-    <e lm="nationalize"><i>nationaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="nationalise"><i>nationalis</i><par n="liv/e__vblex"/></e>
     <e lm="need"><i>need</i><par n="accept__vblex"/></e>
     <e lm="neglect"><i>neglect</i><par n="accept__vblex"/></e>
     <e lm="negotiate"><i>negotiat</i><par n="liv/e__vblex"/></e>
-    <e lm="neutralize"><i>neutraliz</i><par n="liv/e__vblex"/></e>
+    <e lm="neutralise"><i>neutralis</i><par n="liv/e__vblex"/></e>
     <e lm="nominate"><i>nominat</i><par n="liv/e__vblex"/></e>
-    <e lm="normalize"><i>normaliz</i><par n="liv/e__vblex"/></e>
+    <e lm="normalise"><i>normalis</i><par n="liv/e__vblex"/></e>
     <e lm="note"><i>not</i><par n="liv/e__vblex"/></e>
-    <e lm="notarize"><i>notariz</i><par n="liv/e__vblex"/></e>
+    <e lm="notarise"><i>notaris</i><par n="liv/e__vblex"/></e>
     <e lm="notch"><i>notch</i><par n="approach__vblex"/></e>
     <e lm="notify"><i>notif</i><par n="appl/y__vblex"/></e>
     <e lm="nourish"><i>nourish</i><par n="approach__vblex"/></e>
@@ -42392,7 +42407,7 @@
     <e lm="open"><i>open</i><par n="accept__vblex"/></e>
     <e lm="operate"><i>operat</i><par n="liv/e__vblex"/></e>
     <e lm="opt"><i>opt</i><par n="accept__vblex"/></e>
-    <e lm="optimize"><i>optimiz</i><par n="liv/e__vblex"/></e>
+    <e lm="optimise"><i>optimis</i><par n="liv/e__vblex"/></e>
     <e lm="orbit"><i>orbit</i><par n="accept__vblex"/></e>
     <e lm="order"><i>order</i><par n="accept__vblex"/></e>
     <e lm="organise"><i>organis</i><par n="liv/e__vblex"/></e>
@@ -42445,11 +42460,11 @@
     <e lm="plumb"><i>plumb</i><par n="accept__vblex"/></e>
     <e lm="point"><i>point</i><par n="accept__vblex"/></e>
     <e lm="poison"><i>poison</i><par n="accept__vblex"/></e>
-    <e lm="polarize"><i>polariz</i><par n="liv/e__vblex"/></e>
+    <e lm="polarise"><i>polaris</i><par n="liv/e__vblex"/></e>
     <e lm="poll"><i>poll</i><par n="accept__vblex"/></e>
     <e lm="pollute"><i>pollut</i><par n="liv/e__vblex"/></e>
     <e lm="pop"><i>pop</i><par n="step__vblex"/></e>
-    <e lm="popularize"><i>populariz</i><par n="liv/e__vblex"/></e>
+    <e lm="popularise"><i>popularis</i><par n="liv/e__vblex"/></e>
     <e lm="populate"><i>populat</i><par n="liv/e__vblex"/></e>
     <e lm="pose"><i>pos</i><par n="liv/e__vblex"/></e>
     <e lm="posit"><i>posit</i><par n="accept__vblex"/></e>
@@ -42484,7 +42499,7 @@
     <e lm="prevent"><i>prevent</i><par n="accept__vblex"/></e>
     <e lm="price"><i>pric</i><par n="liv/e__vblex"/></e>
     <e lm="print"><i>print</i><par n="accept__vblex"/></e>
-    <e lm="prioritize"><i>prioritiz</i><par n="liv/e__vblex"/></e>
+    <e lm="prioritise"><i>prioritis</i><par n="liv/e__vblex"/></e>
     <e lm="proceed"><i>proceed</i><par n="accept__vblex"/></e>
     <e lm="succeed"><i>succeed</i><par n="accept__vblex"/></e>
     <e lm="process"><i>process</i><par n="approach__vblex"/></e>
@@ -42578,7 +42593,7 @@
     <e lm="rename"><i>renam</i><par n="liv/e__vblex"/></e>
     <e lm="renew"><i>renew</i><par n="accept__vblex"/></e>
     <e lm="rent"><i>rent</i><par n="accept__vblex"/></e>
-    <e lm="reorganize"><i>reorganiz</i><par n="liv/e__vblex"/></e>
+    <e lm="reorganise"><i>reorganis</i><par n="liv/e__vblex"/></e>
     <e lm="repair"><i>repair</i><par n="accept__vblex"/></e>
     <e lm="repeat"><i>repeat</i><par n="accept__vblex"/></e>
     <e lm="repel"><i>repel</i><par n="control__vblex"/></e>
@@ -42624,7 +42639,7 @@
     <e lm="revive"><i>reviv</i><par n="liv/e__vblex"/></e>
     <e lm="revoke"><i>revok</i><par n="liv/e__vblex"/></e>
     <e lm="revolt"><i>revolt</i><par n="accept__vblex"/></e>
-    <e lm="revolutionize"><i>revolutioniz</i><par n="liv/e__vblex"/></e>
+    <e lm="revolutionise"><i>revolutionis</i><par n="liv/e__vblex"/></e>
     <e lm="reward"><i>reward</i><par n="accept__vblex"/></e>
     <e lm="rhyme"><i>rhym</i><par n="liv/e__vblex"/></e>
     <e lm="rid"><i>rid</i><par n="outbid__vblex"/></e>
@@ -42679,11 +42694,12 @@
     <e lm="send in"><i>sen</i><par n="ben/d__vblex"/><p><l><b/>in</l><r><g><b/>in</g></r></p></e>
     <e lm="send"><i>sen</i><par n="ben/d__vblex"/></e>
     <e lm="sense"><i>sens</i><par n="liv/e__vblex"/></e>
-    <e lm="sensitize"><i>sensitiz</i><par n="liv/e__vblex"/></e>
+    <e lm="sensitise"><i>sensitis</i><par n="liv/e__vblex"/></e>
     <e lm="sentence"><i>sentenc</i><par n="liv/e__vblex"/></e>
     <e lm="separate"><i>separat</i><par n="liv/e__vblex"/></e>
     <e lm="serve"><i>serv</i><par n="liv/e__vblex"/></e>
     <e lm="set"><i>set</i><par n="cut__vblex"/></e>
+    <e lm="set off"><i>set</i><par n="cut__vblex"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="set up"><i>set</i><par n="cut__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="settle"><i>settl</i><par n="liv/e__vblex"/></e>
     <e lm="sew"><i>sew</i><par n="hew__vblex"/></e>
@@ -42753,8 +42769,10 @@
     <e lm="stamp"><i>stamp</i><par n="accept__vblex"/></e>
     <e lm="start"><i>start</i><par n="accept__vblex"/></e>
     <e lm="start talks"><i>start</i><par n="accept__vblex"/><p><l><b/>talks</l><r><g><b/>talks</g></r></p></e>
+    <e lm="start proceedings"><i>start</i><par n="accept__vblex"/><p><l><b/>proceedings<b/>against</l><r><g><b/>proceedings<b/>against</g></r></p></e>
     <e lm="state"><i>stat</i><par n="liv/e__vblex"/></e>
     <e lm="stay"><i>stay</i><par n="accept__vblex"/></e>
+    <e lm="stay awake"><i>stay</i><par n="accept__vblex"/><p><l><b/>awake</l><r><g><b/>awake</g></r></p></e>
     <e lm="step"><i>step</i><par n="step__vblex"/></e>
     <e lm="step into"><i>step</i><par n="step__vblex"/><p><l><b/>into</l><r><g><b/>into</g></r></p></e>
     <e lm="stimulate"><i>stimulat</i><par n="liv/e__vblex"/></e>
@@ -42782,7 +42800,7 @@
     <e lm="submerge"><i>submerg</i><par n="liv/e__vblex"/></e>
     <e lm="submit"><i>submit</i><par n="admit__vblex"/></e>
     <e lm="subordinate"><i>subordinat</i><par n="liv/e__vblex"/></e>
-    <e lm="subsidize"><i>subsidiz</i><par n="liv/e__vblex"/></e>
+    <e lm="subsidise"><i>subsidis</i><par n="liv/e__vblex"/></e>
     <e lm="substitute"><i>substitut</i><par n="liv/e__vblex"/></e>
     <e lm="subtract"><i>subtract</i><par n="accept__vblex"/></e>
     <e lm="suck"><i>suck</i><par n="accept__vblex"/></e>
@@ -42814,8 +42832,8 @@
     <e lm="sweep"><i>swe</i><par n="ke/ep__vblex"/></e>
     <e lm="sweat"><i>sweat</i><par n="accept__vblex"/></e>
     <e lm="switch"><i>switch</i><par n="approach__vblex"/></e>
-    <e lm="symbolize"><i>symboliz</i><par n="liv/e__vblex"/></e>
-    <e lm="synchronize"><i>synchroniz</i><par n="liv/e__vblex"/></e>
+    <e lm="symbolise"><i>symbolis</i><par n="liv/e__vblex"/></e>
+    <e lm="synchronise"><i>synchronis</i><par n="liv/e__vblex"/></e>
     <e lm="tell"><i>t</i><par n="s/ell__vblex"/></e>
     <e lm="tear"><i>t</i><par n="sw/ear__vblex"/></e>
     <e lm="take off"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
@@ -42883,6 +42901,7 @@
     <e lm="turn"><i>turn</i><par n="accept__vblex"/></e>
     <e lm="turn off"><i>turn</i><par n="accept__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="turn out"><i>turn</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
+    <e lm="turn on"><i>turn</i><par n="accept__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
     <e lm="turn up"><i>turn</i><par n="accept__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="twist"><i>twist</i><par n="accept__vblex"/></e>
     <e lm="type"><i>typ</i><par n="liv/e__vblex"/></e>
@@ -42914,6 +42933,7 @@
     <e lm="win"><i>w</i><par n="w/in__vblex"/></e>
     <e lm="wait"><i>wait</i><par n="accept__vblex"/></e>
     <e lm="wake"><i>wak</i><par n="liv/e__vblex"/></e>
+    <e lm="wake up"><i>wak</i><par n="liv/e__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="walk"><i>walk</i><par n="accept__vblex"/></e>
     <e lm="wander"><i>wander</i><par n="accept__vblex"/></e>
     <e lm="want"><i>want</i><par n="accept__vblex"/></e>
@@ -42941,84 +42961,72 @@
     <e lm="write"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>about</l><r><j/>about<s n="pr"/></r></p></e>
     <e lm="wrap"><i>wrap</i><par n="step__vblex"/></e>
     <e lm="zone"><i>zon</i><par n="liv/e__vblex"/></e>
-    <e lm="I'm"><p><l>I'm</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-    <e lm="you're"><p><l>you're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-    <e lm="she's"><p><l>she's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="he's"><p><l>he's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="it's"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="we're"><p><l>we're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-    <e lm="they're"><p><l>they're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-    <e lm="I'll"><p><l>I'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="you'll"><p><l>you'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="she'll"><p><l>she'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="he'll"><p><l>he'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="it'll"><p><l>it'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="we'll"><p><l>we'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="they'll"><p><l>they'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="I've"><p><l>I've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-    <e lm="you've"><p><l>you've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-    <e lm="she's"><p><l>she's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="he's"><p><l>he's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="they've"><p><l>they've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-    <e lm="I've got"><p><l>I've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
-    <e lm="you've got"><p><l>you've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
-    <e lm="she's got"><p><l>she's<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="he's got"><p><l>he's<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="it's got"><p><l>it's<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="we've got"><p><l>we've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
-    <e lm="they've got"><p><l>they've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
-    <e lm="I'd"><p><l>I'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="you'd"><p><l>you'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="she'd"><p><l>she'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="he'd"><p><l>he'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="it'd"><p><l>it'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="we'd"><p><l>we'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="they'd"><p><l>they'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
-    <e lm="I'd"><p><l>I'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="you'd"><p><l>you'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="she'd"><p><l>she'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="he'd"><p><l>he'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="it'd"><p><l>it'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="we'd"><p><l>we'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="they'd"><p><l>they'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
-    <e lm="can't"><p><l>can't</l><r>can<s n="vaux"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="couldn't"><p><l>couldn't</l><r>can<s n="vaux"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="don't"><p><l>don't</l><r>do<s n="vbdo"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="doesn't"><p><l>doesn't</l><r>do<s n="vbdo"/><s n="pri"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="didn't"><p><l>didn't</l><r>do<s n="vbdo"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="isn't"><p><l>isn't</l><r>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="wasn't"><p><l>wasn't</l><r>be<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="wasn't"><p><l>wasn't</l><r>be<s n="vbser"/><s n="past"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="weren't"><p><l>weren't</l><r>be<s n="vbser"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="wouldn't"><p><l>wouldn't</l><r>would<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="hasn't"><p><l>hasn't</l><r>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="haven't"><p><l>haven't</l><r>have<s n="vbhaver"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="hadn't"><p><l>hadn't</l><r>have<s n="vbhaver"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="aren't"><p><l>aren't</l><r>be<s n="vbser"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="ain't"><p><l>ain't</l><r>be<s n="vbser"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="cannot"><p><l>cannot</l><r>can<s n="vaux"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="shouldn't"><p><l>shouldn't</l><r>should<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="shan't"><p><l>shan't</l><r>shall<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="won't"><p><l>won't</l><r>will<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
-    <e lm="there's"><p><l>there's</l><r>there<s n="adv"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="there's"><p><l>there's</l><r>there<s n="adv"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="there're"><p><l>there're</l><r>there<s n="adv"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
-    <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="would've"><p><l>would've</l><r>would<s n="vaux"/><s n="inf"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-    <e lm="should've"><p><l>should've</l><r>should<s n="vaux"/><s n="inf"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-    <e lm="could've"><p><l>could've</l><r>can<s n="vaux"/><s n="past"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
-    <e r="LR"><p><l>wanna</l><r>want<s n="vbmod"/><s n="pres"/><g><b/>to</g></r></p></e>
-    <e lm="gonna"><p><l>gonna</l><r>go<s n="vblex"/><s n="ger"/><j/>to<s n="pr"/></r></p></e>
-    <e lm="that's"><p><l>that's</l><r>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e lm="annoy"><i>annoy</i><par n="enjoy__vblex"/></e>
-    <e lm="breach"><i>breach</i><par n="approach__vblex"/></e>
-    <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
-    <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/><p><l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
-    <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>cash</l><r><g><b/>cash</g></r></p></e>
-    <e lm="go Dutch"><i></i><par n="/go__vblex"/><p><l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
-    <e r="RL"><i>sho</i><par n="sho/ot__vblex"/><p><l><b/>in<b/>the<b/>dark</l><r><g><b/>in<b/>the<b/>dark</g></r></p></e>
-    <e lm="take for granted"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>for<b/>granted</l><r><g><b/>for<b/>granted</g></r></p></e>
+
+    <e lm="grab"><i>grab</i><par n="dub__vblex"/></e>
+    <e lm="bleed"><i>bleed</i><par n="accept__vblex"/></e>
+    <e lm="braid"><i>braid</i><par n="accept__vblex"/></e>
+    <e lm="nod"><i>nod</i><par n="outbid__vblex"/></e>
+    <e lm="coerce"><i>coerc</i><par n="liv/e__vblex"/></e>
+    <e lm="ride"><i>rid</i><par n="liv/e__vblex"/></e>
+    <e lm="pee"><i>pee</i><par n="agree__vblex"/></e>
+    <e lm="massage"><i>massag</i><par n="liv/e__vblex"/></e>
+    <e lm="fumble"><i>fumbl</i><par n="liv/e__vblex"/></e>
+    <e lm="fiddle"><i>fiddl</i><par n="liv/e__vblex"/></e>
+    <e lm="giggle"><i>giggl</i><par n="liv/e__vblex"/></e>
+    <e lm="tangle"><i>tangl</i><par n="liv/e__vblex"/></e>
+    <e lm="untangle"><i>untangl</i><par n="liv/e__vblex"/></e>
+    <e lm="sprinkle"><i>sprinkl</i><par n="liv/e__vblex"/></e>
+    <e lm="revise"><i>revis</i><par n="liv/e__vblex"/></e>
+    <e lm="rehearse"><i>rehears</i><par n="liv/e__vblex"/></e>
+    <e lm="radiate"><i>radiat</i><par n="liv/e__vblex"/></e>
+    <e lm="humiliate"><i>humiliat</i><par n="liv/e__vblex"/></e>
+    <e lm="vibrate"><i>vibrat</i><par n="liv/e__vblex"/></e>
+    <e lm="grieve"><i>griev</i><par n="liv/e__vblex"/></e>
+    <e lm="swerve"><i>swerv</i><par n="liv/e__vblex"/></e>
+    <e lm="sniff"><i>sniff</i><par n="accept__vblex"/></e>
+    <e lm="tag"><i>tag</i><par n="plug__vblex"/></e>
+    <e lm="snatch"><i>snatch</i><par n="accept__vblex"/></e>
+    <e lm="neigh"><i>neigh</i><par n="accept__vblex"/></e>
+    <e lm="blush"><i>blush</i><par n="accept__vblex"/></e>
+    <e lm="sneak"><i>sneak</i><par n="accept__vblex"/></e>
+    <e lm="jerk"><i>jerk</i><par n="accept__vblex"/></e>
+    <e lm="boil"><i>boil</i><par n="accept__vblex"/></e>
+    <e lm="till"><i>till</i><par n="accept__vblex"/></e>
+    <e lm="whirl"><i>whirl</i><par n="accept__vblex"/></e>
+    <e lm="loosen"><i>loosen</i><par n="accept__vblex"/></e>
+    <e lm="christen"><i>christen</i><par n="accept__vblex"/></e>
+    <e lm="liven"><i>liven</i><par n="accept__vblex"/></e>
+    <e lm="rain"><i>rain</i><par n="accept__vblex"/></e>
+    <e lm="spin"><i>sp</i><par n="sp/in__vblex"/></e>
+    <e lm="mourn"><i>mourn</i><par n="accept__vblex"/></e>
+    <e lm="yawn"><i>yawn</i><par n="accept__vblex"/></e>
+    <e lm="recap"><i>recap</i><par n="step__vblex"/></e>
+    <e lm="nap"><i>nap</i><par n="step__vblex"/></e>
+    <e lm="whip"><i>whip</i><par n="step__vblex"/></e>
+    <e lm="stoop"><i>stoop</i><par n="accept__vblex"/></e>
+    <e lm="tar"><i>tar</i><par n="occur__vblex"/></e>
+    <e lm="peer"><i>peer</i><par n="accept__vblex"/></e>
+    <e lm="swagger"><i>swagger</i><par n="accept__vblex"/></e>
+    <e lm="muster"><i>muster</i><par n="accept__vblex"/></e>
+    <e lm="cower"><i>cower</i><par n="accept__vblex"/></e>
+    <e lm="tower"><i>tower</i><par n="accept__vblex"/></e>
+    <e lm="tailor"><i>tailor</i><par n="accept__vblex"/></e>
+    <e lm="repress"><i>repress</i><par n="accept__vblex"/></e>
+    <e lm="float"><i>float</i><par n="accept__vblex"/></e>
+    <e lm="wet"><i>wet</i><par n="fit__vblex"/></e>
+    <e lm="spit"><i>sp</i><par n="s/it__vblex"/></e>
+    <e lm="scent"><i>scent</i><par n="accept__vblex"/></e>
+    <e lm="frequent"><i>frequent</i><par n="accept__vblex"/></e>
+    <e lm="erupt"><i>erupt</i><par n="accept__vblex"/></e>
+    <e lm="roast"><i>roast</i><par n="accept__vblex"/></e>
+    <e lm="hoist"><i>hoist</i><par n="accept__vblex"/></e>
+    <e lm="desist"><i>desist</i><par n="accept__vblex"/></e>
+    <e lm="bow"><i>bow</i><par n="accept__vblex"/></e>
+    <e lm="swallow"><i>swallow</i><par n="accept__vblex"/></e>
+    <e lm="vow"><i>vow</i><par n="accept__vblex"/></e>
+    <e lm="pacify"><i>pacif</i><par n="appl/y__vblex"/></e>
+    <e lm="ferry"><i>ferr</i><par n="appl/y__vblex"/></e>
+
     <e r="RL"><par n="/be__vblex"/><p><l><b/>hesitant</l><r><g><b/>hesitant</g></r></p></e>
     <e r="RL"><p><l>there<b/>is</l><r>there<b/>is<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>there<b/>are</l><r>there<b/>is<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -44392,6 +44400,87 @@
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="at__pr"/></e>
     <e lm="in order to"><i>in<b/>order<b/>to</i><par n="that__cnjsub"/></e>
     <e lm="to" r="RL"><i>to</i><par n="that__cnjsub"/></e>
+
+
+
+    <e lm="I'm"><p><l>I'm</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+    <e lm="you're"><p><l>you're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+    <e lm="she's"><p><l>she's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="he's"><p><l>he's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="it's"><p><l>it's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="we're"><p><l>we're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+    <e lm="they're"><p><l>they're</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+    <e lm="I'll"><p><l>I'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="you'll"><p><l>you'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="she'll"><p><l>she'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="he'll"><p><l>he'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="it'll"><p><l>it'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="we'll"><p><l>we'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="they'll"><p><l>they'll</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>will<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="I've"><p><l>I've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e lm="you've"><p><l>you've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e lm="she's"><p><l>she's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="he's"><p><l>he's</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="they've"><p><l>they've</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e lm="I've got"><p><l>I've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
+    <e lm="you've got"><p><l>you've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
+    <e lm="she's got"><p><l>she's<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="he's got"><p><l>he's<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="it's got"><p><l>it's<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<b/>got<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="we've got"><p><l>we've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
+    <e lm="they've got"><p><l>they've<b/>got</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<b/>got<s n="vblex"/><s n="pres"/></r></p></e>
+    <e lm="I'd"><p><l>I'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="you'd"><p><l>you'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="she'd"><p><l>she'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="he'd"><p><l>he'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="it'd"><p><l>it'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="we'd"><p><l>we'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="they'd"><p><l>they'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>have<s n="vbhaver"/><s n="past"/></r></p></e>
+    <e lm="I'd"><p><l>I'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="you'd"><p><l>you'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="she'd"><p><l>she'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="he'd"><p><l>he'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="it'd"><p><l>it'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="we'd"><p><l>we'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="they'd"><p><l>they'd</l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/><j/>would<s n="vaux"/><s n="inf"/></r></p></e>
+    <e lm="can't"><p><l>can't</l><r>can<s n="vaux"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="couldn't"><p><l>couldn't</l><r>can<s n="vaux"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="don't"><p><l>don't</l><r>do<s n="vbdo"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="doesn't"><p><l>doesn't</l><r>do<s n="vbdo"/><s n="pri"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="didn't"><p><l>didn't</l><r>do<s n="vbdo"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="isn't"><p><l>isn't</l><r>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="wasn't"><p><l>wasn't</l><r>be<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="wasn't"><p><l>wasn't</l><r>be<s n="vbser"/><s n="past"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="weren't"><p><l>weren't</l><r>be<s n="vbser"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="wouldn't"><p><l>wouldn't</l><r>would<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="hasn't"><p><l>hasn't</l><r>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="haven't"><p><l>haven't</l><r>have<s n="vbhaver"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="hadn't"><p><l>hadn't</l><r>have<s n="vbhaver"/><s n="past"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="aren't"><p><l>aren't</l><r>be<s n="vbser"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="ain't"><p><l>ain't</l><r>be<s n="vbser"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="cannot"><p><l>cannot</l><r>can<s n="vaux"/><s n="pres"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="shouldn't"><p><l>shouldn't</l><r>should<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="shan't"><p><l>shan't</l><r>shall<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="won't"><p><l>won't</l><r>will<s n="vaux"/><s n="inf"/><j/>not<s n="adv"/></r></p></e>
+    <e lm="there's"><p><l>there's</l><r>there<s n="adv"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="there's"><p><l>there's</l><r>there<s n="adv"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="there're"><p><l>there're</l><r>there<s n="adv"/><j/>be<s n="vbser"/><s n="pres"/></r></p></e>
+    <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="who's"><p><l>who's</l><r>who<s n="prn"/><s n="itg"/><s n="m"/><s n="sp"/><j/>have<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="would've"><p><l>would've</l><r>would<s n="vaux"/><s n="inf"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e lm="should've"><p><l>should've</l><r>should<s n="vaux"/><s n="inf"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e lm="could've"><p><l>could've</l><r>can<s n="vaux"/><s n="past"/><j/>have<s n="vbhaver"/><s n="pres"/></r></p></e>
+    <e r="LR"><p><l>wanna</l><r>want<s n="vbmod"/><s n="pres"/><g><b/>to</g></r></p></e>
+    <e lm="gonna"><p><l>gonna</l><r>go<s n="vblex"/><s n="ger"/><j/>to<s n="pr"/></r></p></e>
+    <e lm="that's"><p><l>that's</l><r>that<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/><j/>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="annoy"><i>annoy</i><par n="enjoy__vblex"/></e>
+    <e lm="breach"><i>breach</i><par n="approach__vblex"/></e>
+    <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
+    <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/><p><l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
+    <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>cash</l><r><g><b/>cash</g></r></p></e>
+    <e lm="go Dutch"><i></i><par n="/go__vblex"/><p><l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
+    <e r="RL"><i>sho</i><par n="sho/ot__vblex"/><p><l><b/>in<b/>the<b/>dark</l><r><g><b/>in<b/>the<b/>dark</g></r></p></e>
+    <e lm="take for granted"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>for<b/>granted</l><r><g><b/>for<b/>granted</g></r></p></e>
 
 
     <e lm="A.D."><i>A.D.</i><par n="e.g.__abbr"/></e>
