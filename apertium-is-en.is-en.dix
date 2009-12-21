@@ -9842,7 +9842,8 @@
     <e><p><l>sprengja<s n="n"/><s n="f"/></l><r>bomb<s n="n"/></r></p></e> <!-- (a device filled with explosives) -->
     <e><p><l>speni<s n="n"/><s n="m"/></l><r>teat<s n="n"/></r></p></e>
     <!--<e><p><l>spenna<s n="n"/><s n="f"/></l><r>buckle<s n="n"/></r></p></e>-->
-    <e><p><l>spenna<s n="n"/><s n="f"/></l><r>clasp<s n="n"/></r></p></e>
+    <!--<e><p><l>spenna<s n="n"/><s n="f"/></l><r>clasp<s n="n"/></r></p></e>-->
+    <e><p><l>spenna<s n="n"/><s n="f"/></l><r>tension<s n="n"/></r></p></e>
     <!--<e><p><l>spenna<s n="n"/><s n="f"/></l><r>voltage<s n="n"/></r></p></e>-->
     <!--<e><p><l>sperðileitrun<s n="n"/><s n="f"/></l><r>botulism<s n="n"/></r></p></e>-->
     <e><p><l>spik<s n="n"/><s n="nt"/></l><r>fat<s n="n"/></r></p></e>
@@ -11403,6 +11404,7 @@
     <e><p><l>hálfur<s n="adj"/></l><r>half<s n="adj"/></r></p></e>
     <e><p><l>frjáls<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>spænskur<s n="adj"/></l><r>Spanish<s n="adj"/></r></p></e>
+    <e><p><l>íranskur<s n="adj"/></l><r>Iranian<s n="adj"/></r></p></e>
     <e><p><l>kanadískur<s n="adj"/></l><r>Canadian<s n="adj"/></r></p></e>
     <e><p><l>erfiður<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
     <e><p><l>skriflegur<s n="adj"/></l><r>written<s n="adj"/></r></p></e>

@@ -20061,6 +20061,27 @@
     <e lm="acclimatisation"><i>acclimatisation</i><par n="house__n"/></e>
     <e lm="accommodation"><i>accommodation</i><par n="house__n"/></e>
     <e lm="accompaniment"><i>accompaniment</i><par n="house__n"/></e>
+
+    <e lm="advertising department"><i>advertising<b/>department</i><par n="house__n"/></e>
+    <e lm="entanglement"><i>entanglement</i><par n="house__n"/></e>
+    <e lm="wind instrument"><i>wind<b/>instrument</i><par n="house__n"/></e>
+    <e lm="element symbol"><i>element<b/>symbol</i><par n="house__n"/></e>
+    <e lm="garment"><i>garment</i><par n="house__n"/></e>
+    <e lm="elementary school"><i>elementary<b/>school</i><par n="house__n"/></e>
+    <e lm="home assignment"><i>home<b/>assignment</i><par n="house__n"/></e>
+    <e lm="musical instrument"><i>musical<b/>instrument</i><par n="house__n"/></e>
+    <e lm="basement"><i>basement</i><par n="house__n"/></e>
+    <e lm="settlement"><i>settlement</i><par n="house__n"/></e>
+    <e lm="memento"><i>memento</i><par n="house__n"/></e>
+    <e lm="amusement"><i>amusement</i><par n="house__n"/></e>
+    <e lm="fire department"><i>fire<b/>department</i><par n="house__n"/></e>
+    <e lm="placement"><i>placement</i><par n="house__n"/></e>
+    <e lm="pavement"><i>pavement</i><par n="house__n"/></e>
+    <e lm="string instrument"><i>string<b/>instrument</i><par n="house__n"/></e>
+    <e lm="testament"><i>testament</i><par n="house__n"/></e>
+    <e lm="parliamentary election"><i>parliamentary<b/>election</i><par n="house__n"/></e>
+
+
     <e lm="accord"><i>accord</i><par n="house__n"/></e>
     <e lm="account"><i>account</i><par n="house__n"/></e>
     <e lm="accountancy"><i>accountanc</i><par n="bab/y__n"/></e>
@@ -25471,6 +25492,7 @@
    <e lm="saddle"><i>saddle</i><par n="house__n"/>     </e>
    <e lm="sausage"><i>sausage</i><par n="house__n"/>     </e>
    <e lm="settlement"><i>settlement</i><par n="house__n"/>     </e>
+   <e lm="settlement of Iceland"><i>settlement</i><par n="house__n"/><p><l><b/>of<b/>Iceland</l><r><g><b/>of<b/>Iceland</g></r></p></e>
    <e lm="shell"><i>shell</i><par n="house__n"/>     </e>
    <e lm="sheriff"><i>sheriff</i><par n="house__n"/>     </e>
    <e lm="shine"><i>shine</i><par n="house__n"/></e>
@@ -39390,6 +39412,7 @@
     <e lm="Honduran"><par n="Hh"/><i>onduran</i><par n="expensive__adj"/></e>
     <e lm="Hungarian"><par n="Hh"/><i>ungarian</i><par n="expensive__adj"/></e>
     <e lm="Icelandic"><par n="Ii"/><i>celandic</i><par n="expensive__adj"/></e>
+    <e lm="Iranian"><par n="Ii"/><i>ranian</i><par n="expensive__adj"/></e>
     <e lm="Iberian"><par n="Ii"/><i>berian</i><par n="expensive__adj"/></e>
     <e lm="Indian"><par n="Ii"/><i>ndian</i><par n="expensive__adj"/></e>
     <e lm="Indonesian"><par n="Ii"/><i>ndonesian</i><par n="expensive__adj"/></e>
@@ -41077,7 +41100,7 @@
     <e lm="fugitive"><i>fugitive</i><par n="expensive__adj"/></e>
     <e lm="winning"><i>winning</i><par n="expensive__adj"/></e>
     <e lm="ruling"><i>ruling</i><par n="expensive__adj"/></e>
-    <e lm="Dutch"><i>Dutch</i><par n="expensive__adj"/></e>
+    <e lm="Dutch"><par n="Dd"/><i>utch</i><par n="expensive__adj"/></e>
     <e r="RL"><i>time</i><par n="expensive__adj"/></e>
     <e lm="orphan"><i>orphan</i><par n="expensive__adj"/></e>
     <e lm="idiot"><i>idiot</i><par n="expensive__adj"/></e>
@@ -43674,6 +43697,7 @@
     <e lm="simultaneously"><i>simultaneously</i><par n="maybe__adv"/></e>
     <e lm="simultaneously"><i>simultaneously</i><par n="maybe__adv"/></e>
     <e lm="as"><i>as</i><par n="that__cnjsub"/></e>
+    <e lm="as far as"><i>as<b/>far<b/>as</i><par n="that__cnjsub"/></e>
     <e lm="unless"><i>unless</i><par n="that__cnjsub"/></e>
     <e lm="though"><i>though</i><par n="that__cnjsub"/></e>
     <e lm="although"><i>although</i><par n="that__cnjsub"/></e>
