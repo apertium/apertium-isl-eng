@@ -105,6 +105,12 @@
       <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
       <e r="RL"><p><l><s n="ND"/></l><r><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="mikill_much__det">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="ND"/></l><r><s n="sg"/></r></p></e>
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -3619,10 +3625,10 @@
     <e r="LR"><p><l>flestur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>most<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>flestur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>most<s n="det"/><s n="qnt"/></r></p></e>
 
-    <e r="LR"><p><l>mikill<s n="det"/><s n="qnt"/><s n="m"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
-    <e r="LR"><p><l>mikill<s n="det"/><s n="qnt"/><s n="f"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
-    <e r="LR"><p><l>mikill<s n="det"/><s n="qnt"/><s n="nt"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
-    <e r="RL"><p><l>mikill<s n="det"/><s n="qnt"/><s n="GD"/></l><r>much<s n="det"/><s n="qnt"/></r></p></e>
+    <e r="LR"><p><l>mikill<s n="det"/><s n="qnt"/><s n="m"/></l><r>much<s n="det"/><s n="qnt"/></r></p><par n="mikill_much__det"/></e>
+    <e r="LR"><p><l>mikill<s n="det"/><s n="qnt"/><s n="f"/></l><r>much<s n="det"/><s n="qnt"/></r></p><par n="mikill_much__det"/></e>
+    <e r="LR"><p><l>mikill<s n="det"/><s n="qnt"/><s n="nt"/></l><r>much<s n="det"/><s n="qnt"/></r></p><par n="mikill_much__det"/></e>
+    <e r="RL"><p><l>mikill<s n="det"/><s n="qnt"/><s n="GD"/></l><r>much<s n="det"/><s n="qnt"/></r></p><par n="mikill_much__det"/></e>
 
     <e r="LR"><p><l>meiri<s n="det"/><s n="qnt"/><s n="mf"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>meiri<s n="det"/><s n="qnt"/><s n="nt"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>

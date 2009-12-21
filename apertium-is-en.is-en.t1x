@@ -1344,7 +1344,7 @@
                <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -1911,7 +1911,7 @@
               <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_det"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
