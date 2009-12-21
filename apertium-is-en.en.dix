@@ -1431,16 +1431,12 @@
     </pardef>
 
     <pardef n="many__det">
-
     <e>
       <p>
         <l></l>
         <r><s n="det"/><s n="qnt"/><s n="pl"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
     <pardef n="much__det">
@@ -13775,6 +13771,7 @@
     <e lm="little"><i>little</i><par n="much__det"/></e>
     <e lm="more"><i>more</i><par n="enough__det"/></e>
     <e lm="all"><i>all</i><par n="many__det"/></e>
+    <e lm="all"><i>all</i><par n="enough__det"/></e>
     <e lm="most"><i>most</i><par n="enough__det"/></e>
     <e lm="much"><i>much</i><par n="much__det"/></e>
     <e lm="my"><i>my</i><par n="her__det"/></e>
@@ -42850,6 +42847,7 @@
     <e lm="suspect"><i>suspect</i><par n="accept__vblex"/></e>
     <e lm="suspend"><i>suspend</i><par n="accept__vblex"/></e>
     <e lm="sustain"><i>sustain</i><par n="accept__vblex"/></e>
+    <e lm="abstain"><i>abstain</i><par n="accept__vblex"/></e>
     <e lm="swing"><i>sw</i><par n="cl/ing__vblex"/></e>
     <e lm="swear"><i>sw</i><par n="sw/ear__vblex"/></e>
     <e lm="swim"><i>sw</i><par n="sw/im__vblex"/></e>
