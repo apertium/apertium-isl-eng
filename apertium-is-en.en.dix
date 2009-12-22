@@ -23733,6 +23733,7 @@
     <e lm="progenitor"><i>progenitor</i><par n="house__n"/></e>
     <e lm="prognosis"><i>prognos</i><par n="analys/is__n"/></e>
     <e lm="program"><i>program</i><par n="house__n"/></e>
+    <e lm="computer program"><i>computer<b/>program</i><par n="house__n"/></e>
     <e lm="programme"><i>programme</i><par n="house__n"/></e>
     <e lm="programmer"><i>programmer</i><par n="house__n"/></e>
     <e lm="programming"><i>programming</i><par n="house__n"/></e>
@@ -24682,6 +24683,7 @@
     <e lm="tear"><i>tear</i><par n="house__n"/></e>
     <e lm="technician"><i>technician</i><par n="house__n"/></e>
     <e lm="technology"><i>technolog</i><par n="bab/y__n"/></e>
+    <e lm="language technology"><i>language<b/>technolog</i><par n="bab/y__n"/></e>
     <e lm="teenager"><i>teenager</i><par n="house__n"/></e>
     <e lm="telecommunication"><i>telecommunication</i><par n="house__n"/></e>
     <e lm="teledetection"><i>teledetection</i><par n="house__n"/></e>
@@ -25171,12 +25173,12 @@
     <e lm="zone"><i>zone</i><par n="house__n"/></e>
     <e lm="stretcher"><i>stretcher</i><par n="house__n"/></e>
     <e lm="zoning"><i>zoning</i><par n="house__n"/></e>
-    <e lm="Albanian"><i>Albanian</i><par n="house__n"/></e>
-    <e lm="Andorran"><i>Andorran</i><par n="house__n"/></e>
-    <e lm="Anglo-Saxon"><i>Anglo-Saxon</i><par n="house__n"/></e>
-    <e lm="Argentinian"><i>Argentinian</i><par n="house__n"/></e>
-    <e lm="Australian"><i>Australian</i><par n="house__n"/></e>
-    <e lm="Austrian"><i>Austrian</i><par n="house__n"/></e>
+    <e lm="Albanian"><par n="Aa"/><i>lbanian</i><par n="house__n"/></e>
+    <e lm="Andorran"><par n="Aa"/><i>ndorran</i><par n="house__n"/></e>
+    <e lm="Anglo-Saxon"><par n="Aa"/><i>nglo-Saxon</i><par n="house__n"/></e>
+    <e lm="Argentinian"><par n="Aa"/><i>rgentinian</i><par n="house__n"/></e>
+    <e lm="Australian"><par n="Aa"/><i>ustralian</i><par n="house__n"/></e>
+    <e lm="Austrian"><par n="Aa"/><i>ustrian</i><par n="house__n"/></e>
     <e lm="Byelorussian"><i>Byelorussian</i><par n="house__n"/></e>
     <e lm="Bavarian"><i>Bavarian</i><par n="house__n"/></e>
     <e lm="Cameroonian"><i>Cameroonian</i><par n="house__n"/></e>
@@ -41298,6 +41300,7 @@
     <e lm="opposite"><i>opposite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="maybe__adv"/></e>
     <e lm="in full"><i>in<b/>full</i><par n="maybe__adv"/></e>
+    <e lm="in detail"><i>in<b/>detail</i><par n="maybe__adv"/></e>
     <e lm="talkative"><i>talkative</i><par n="expensive__adj"/></e>
     <e lm="contemplative"><i>contemplative</i><par n="expensive__adj"/></e>
     <e lm="inactive"><i>inactive</i><par n="expensive__adj"/></e>

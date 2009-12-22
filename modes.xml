@@ -149,16 +149,61 @@
     </pipeline>
   </mode>
 
-  <mode name="is-en-tagger2">
+  <mode name="is-en-cmpd-lex">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -e">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc -n">
+        <file name="is-en.lex.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
+
+  <mode name="is-en-cmpd">
+    <pipeline>
+      <program name="lt-proc -e">
+        <file name="is-en.automorf.bin"/>
+      </program>
+      <program name="cg-proc">
+        <file name="is-en.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -p -g $2">
+        <file name="is-en.prob"/>
+      </program>
+      <program name="cg-proc -n">
+        <file name="is-en.lex.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-is-en.is-en.t1x"/>
+        <file name="is-en.t1x.bin"/>
+        <file name="is-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-is-en.is-en.t2x"/>
+        <file name="is-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-is-en.is-en.t3x"/>
+        <file name="is-en.t3x.bin"/>
+      </program>      
+      <program name="lt-proc $1">
+        <file name="is-en.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="is-en.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
 
 
 </modes>

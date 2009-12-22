@@ -9513,9 +9513,9 @@
     <!--<e><p><l>salerni<s n="n"/><s n="nt"/></l><r>WC<s n="n"/></r></p></e>-->
     <e><p><l>salt<s n="n"/><s n="nt"/></l><r>salt<s n="n"/></r></p></e>
     <e><p><l>salur<s n="n"/><s n="m"/></l><r>hall<s n="n"/></r></p></e> <!-- (large room such as a meeting room, banquet hall, etc.) -->
-    <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>-->
-    <e><p><l>samband<s n="n"/><s n="nt"/></l><r>relation<s n="n"/></r></p></e>
     <e><p><l>samtök<s n="n"/><s n="nt"/></l><r>organisation<s n="n"/></r></p></e>
+    <e><p><l>samband<s n="n"/><s n="nt"/></l><r>relation<s n="n"/></r></p></e>
+    <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>connection<s n="n"/></r></p></e>-->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>relationship<s n="n"/></r></p></e>-->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>federation<s n="n"/></r></p></e>-->
     <!--<e><p><l>samband<s n="n"/><s n="nt"/></l><r>union<s n="n"/></r></p></e>-->
@@ -10305,6 +10305,8 @@
     <e><p><l>tæki<s n="n"/><s n="nt"/></l><r>tool<s n="n"/></r></p></e>
     <e><p><l>tækifæri<s n="n"/><s n="nt"/></l><r>chance<s n="n"/></r></p></e>
     <e><p><l>tækni<s n="n"/><s n="f"/></l><r>technology<s n="n"/></r></p></e>
+    <e><p><l>máltækni<s n="n"/><s n="f"/></l><r>language<b/>technology<s n="n"/></r></p></e>
+    <e r="LR"><p><l>tungutækni<s n="n"/><s n="f"/></l><r>language<b/>technology<s n="n"/></r></p></e>
     <e><p><l>tékki<s n="n"/><s n="m"/></l><r>cheque<s n="n"/></r></p></e>
     <e><p><l>tík<s n="n"/><s n="f"/></l><r>bitch<s n="n"/></r></p></e>
     <!--<e><p><l>tímabil<s n="n"/><s n="nt"/></l><r>interval<s n="n"/></r></p></e>-->
@@ -11442,7 +11444,7 @@
     <e><p><l>rómanskur<s n="adj"/><s n=":0"/></l><r>Romance<s n="adj"/></r></p></e>
     <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
 
-    <e><p><l>í<b/>smáatriði<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>smáatriðum<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
     <e><p><l>fjarri<s n="adv"/></l><r>far<s n="adv"/></r></p></e>
     <e><p><l>fjarri<s n="adv"/><s n="comp"/></l><r>further<s n="adv"/></r></p></e>
@@ -11717,6 +11719,7 @@
     <e><p><l>norðurströnd<s n="n"/><s n="f"/></l><r>north<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>suðurströnd<s n="n"/><s n="f"/></l><r>south<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>víkingur<s n="n"/><s n="m"/></l><r>viking<s n="n"/></r></p></e> 
+    <e><p><l>umsókn<s n="n"/><s n="f"/></l><r>application<s n="n"/></r></p></e> 
     <e><p><l>tilstilli<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
     <e><p><l>kvíða<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e> 
     <e><p><l>löggjöf<s n="n"/><s n="f"/></l><r>legislation<s n="n"/></r></p></e> 
@@ -11743,6 +11746,7 @@
     <e><p><l>halda<g><b/>áfram</g><s n="vblex"/></l><r>carry<g><b/>on</g><s n="vblex"/></r></p></e>
     <e><p><l>halda<g><b/>fram</g><s n="vblex"/></l><r>maintain<s n="vblex"/></r></p></e>
     <e><p><l>grípa<g><b/>til</g><s n="vblex"/></l><r>resort<g><b/>to</g><s n="vblex"/></r></p></e>
+    <e><p><l>taka<g><b/>þátt</g><s n="vblex"/></l><r>take<g><b/>part</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
     <e><p><l>frjósa<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
     <e><p><l>ferja<s n="vblex"/></l><r>ferry<s n="vblex"/></r></p></e>
