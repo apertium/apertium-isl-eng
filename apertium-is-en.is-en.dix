@@ -564,7 +564,7 @@
     <e><p><l>byggður<s n="adj"/></l><r>built<s n="adj"/></r></p></e>
 <!--<p><l>bágur<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>-->
 <!--<p><l>bágur<s n="adj"/></l><r>hard<s n="adj"/></r></p></e>-->
-    <e><p><l>bágur<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+    <e><p><l>bágur<s n="adj"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>bættur<s n="adj"/></l><r>amended<s n="adj"/></r></p></e>-->
     <e><p><l>bættur<s n="adj"/></l><r>enhanced<s n="adj"/></r></p></e>
 <!--<p><l>bættur<s n="adj"/></l><r>fixed<s n="adj"/></r></p></e>-->
@@ -576,23 +576,23 @@
     <e><p><l>búsettur<s n="adj"/></l><r>residing<s n="adj"/></r></p></e>
     <e><p><l>daglegur<s n="adj"/></l><r>daily<s n="adj"/></r></p></e>
     <e><p><l>danskur<s n="adj"/></l><r>Danish<s n="adj"/></r></p></e>
-    <e><p><l>dapur<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
-    <e><p><l>dapurlegur<s n="adj"/></l><r>bleak<s n="adj"/></r></p></e>
-<!--<p><l>dapurlegur<s n="adj"/></l><r>dreary<s n="adj"/></r></p></e>-->
-<!--<p><l>dapurlegur<s n="adj"/></l><r>gloomy<s n="adj"/></r></p></e>-->
-<!--<p><l>dapurlegur<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>-->
+    <e><p><l>dapur<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>dapurlegur<s n="adj"/></l><r>bleak<s n="adj"/><s n="sint"/></r></p></e>
+<!--<p><l>dapurlegur<s n="adj"/></l><r>dreary<s n="adj"/><s n="sint"/></r></p></e>-->
+<!--<p><l>dapurlegur<s n="adj"/></l><r>gloomy<s n="adj"/><s n="sint"/></r></p></e>-->
+<!--<p><l>dapurlegur<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>-->
 <!--<p><l>dapurlegur<s n="adj"/></l><r>sorrowful<s n="adj"/></r></p></e>-->
 <!--<p><l>dapurlegur<s n="adj"/></l><r>tragic<s n="adj"/></r></p></e>-->
-    <e><p><l>daufur<s n="adj"/></l><r>dim<s n="adj"/></r></p></e>
-<!--<p><l>daufur<s n="adj"/></l><r>dull<s n="adj"/></r></p></e>-->
-<!--<p><l>daufur<s n="adj"/></l><r>faint<s n="adj"/></r></p></e>-->
+    <e><p><l>daufur<s n="adj"/></l><r>dim<s n="adj"/><s n="sint"/></r></p></e>
+<!--<p><l>daufur<s n="adj"/></l><r>dull<s n="adj"/><s n="sint"/></r></p></e>-->
+<!--<p><l>daufur<s n="adj"/></l><r>faint<s n="adj"/><s n="sint"/></r></p></e>-->
 <!--<p><l>daufur<s n="adj"/></l><r>spiritless<s n="adj"/></r></p></e>-->
     <e><p><l>dauður<s n="adj"/></l><r>dead<s n="adj"/></r></p></e>
 <!--<p><l>dimmblár<s n="adj"/></l><r><g>dark</g><b/>blue<s n="adj"/></r></p></e>-->
 <!--<p><l>dimmblár<s n="adj"/></l><r>navy<g><b/>blue</g><s n="adj"/></r></p></e>-->
     <e><p><l>dimmblár<s n="adj"/></l><r>navy<s n="adj"/></r></p></e>
     <e><p><l>dimmur<s n="adj"/></l><r>dark<s n="adj"/></r></p></e>
-<!--<p><l>dimmur<s n="adj"/></l><r>dim<s n="adj"/></r></p></e>-->
+<!--<p><l>dimmur<s n="adj"/></l><r>dim<s n="adj"/><s n="sint"/></r></p></e>-->
     <e><p><l>djúpur<s n="adj"/></l><r>deep<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>dreifður<s n="adj"/></l><r>distributed<s n="adj"/></r></p></e>-->
     <e><p><l>dreifður<s n="adj"/></l><r>scattered<s n="adj"/></r></p></e>
@@ -607,15 +607,15 @@
 <!--<p><l>drukkinn<s n="adj"/></l><r>intoxicated<s n="adj"/></r></p></e>-->
 <!--<p><l>drungalegur<s n="adj"/></l><r>dim<s n="adj"/></r></p></e>-->
 <!--<p><l>drungalegur<s n="adj"/></l><r>dreary<s n="adj"/></r></p></e>-->
-    <e><p><l>drungalegur<s n="adj"/></l><r>gloomy<s n="adj"/></r></p></e>
+    <e><p><l>drungalegur<s n="adj"/></l><r>gloomy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>duglegur<s n="adj"/></l><r>hard-working<s n="adj"/></r></p></e>
     <e><p><l>dularfullur<s n="adj"/></l><r>mysterious<s n="adj"/></r></p></e>
-<!--<p><l>dularfullur<s n="adj"/></l><r>weird<s n="adj"/></r></p></e>-->
+<!--<p><l>dularfullur<s n="adj"/></l><r>weird<s n="adj"/><s n="sint"/></r></p></e>-->
     <e><p><l>dyggur<s n="adj"/></l><r>true<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>dágóður<s n="adj"/></l><r>good<s n="adj"/></r></p></e>-->
 <!--<p><l>dágóður<s n="adj"/></l><r>respectable<s n="adj"/></r></p></e>-->
     <e><p><l>dágóður<s n="adj"/></l><r>sizeable<s n="adj"/></r></p></e>
-<!--<p><l>dágóður<s n="adj"/></l><r>tidy<s n="adj"/></r></p></e>-->
+<!--<p><l>dágóður<s n="adj"/></l><r>tidy<s n="adj"/><s n="sint"/></r></p></e>-->
     <e><p><l>dáinn<s n="adj"/></l><r>dead<s n="adj"/></r></p></e>
 <!--<p><l>dálítill<s n="adj"/></l><r>little<s n="adj"/></r></p></e>-->
     <e><p><l>dálítill<s n="adj"/></l><r>some<s n="adj"/></r></p></e>
@@ -629,8 +629,8 @@
 <!--<p><l>dæmigerður<s n="adj"/></l><r>ordinary<s n="adj"/></r></p></e>-->
 <!--<p><l>dæmigerður<s n="adj"/></l><r>regular<s n="adj"/></r></p></e>-->
     <e><p><l>dæmigerður<s n="adj"/></l><r>typical<s n="adj"/></r></p></e>
-    <e><p><l>dónalegur<s n="adj"/></l><r>rude<s n="adj"/></r></p></e>
-<!--<p><l>dökkbrúnn<s n="adj"/></l><r>coffee<g><b/>colored</g><s n="adj"/></r></p></e>-->
+    <e><p><l>dónalegur<s n="adj"/></l><r>rude<s n="adj"/><s n="sint"/></r></p></e>
+<!--<p><l>dökkbrúnn<s n="adj"/></l><r>coffee<g><b/>coloured</g><s n="adj"/></r></p></e>-->
     <e><p><l>dökkbrúnn<s n="adj"/></l><r>dark<g><b/>brown</g><s n="adj"/></r></p></e>
 <!--<p><l>dökkbrúnn<s n="adj"/></l><r>mahogany<s n="adj"/></r></p></e>-->
 <!--<p><l>dökkbrúnn<s n="adj"/></l><r>sepia<s n="adj"/></r></p></e>-->
@@ -980,7 +980,7 @@
 <!--<p><l>hagstæður<s n="adj"/></l><r>advantageous<s n="adj"/></r></p></e>-->
 <!--<p><l>hagstæður<s n="adj"/></l><r>economic<s n="adj"/></r></p></e>-->
 <!--<p><l>hagstæður<s n="adj"/></l><r>fair<s n="adj"/></r></p></e>-->
-    <e><p><l>hagstæður<s n="adj"/></l><r>favorable<s n="adj"/></r></p></e>
+    <e><p><l>hagstæður<s n="adj"/></l><r>favourable<s n="adj"/></r></p></e>
     <e><p><l>hallur<s n="adj"/></l><r>inclined<s n="adj"/></r></p></e>
 <!--<p><l>hallærislegur<s n="adj"/></l><r>tacky<s n="adj"/></r></p></e>-->
     <e><p><l>hallærislegur<s n="adj"/></l><r>uncool<s n="adj"/></r></p></e>
@@ -1032,7 +1032,7 @@
     <e><p><l>helgur<s n="adj"/></l><r>holy<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>helgur<s n="adj"/></l><r>sacred<s n="adj"/></r></p></e>-->
 <!--<p><l>heppilegur<s n="adj"/></l><r>advantageous<s n="adj"/></r></p></e>-->
-<!--<p><l>heppilegur<s n="adj"/></l><r>favorable<s n="adj"/></r></p></e>-->
+<!--<p><l>heppilegur<s n="adj"/></l><r>favourable<s n="adj"/></r></p></e>-->
     <e><p><l>heppilegur<s n="adj"/></l><r>fortunate<s n="adj"/></r></p></e>
 <!--<p><l>heppilegur<s n="adj"/></l><r>good<s n="adj"/></r></p></e>-->
     <e><p><l>heppinn<s n="adj"/></l><r>lucky<s n="adj"/><s n="sint"/></r></p></e>
@@ -1332,7 +1332,7 @@
     <e><p><l>listrænn<s n="adj"/></l><r>artistic<s n="adj"/></r></p></e>
 <!--<p><l>listrænn<s n="adj"/></l><r>artsy<s n="adj"/></r></p></e>-->
     <e><p><l>litháískur<s n="adj"/></l><r>Lithuanian<s n="adj"/></r></p></e>
-    <e><p><l>litríkur<s n="adj"/></l><r>colorful<s n="adj"/></r></p></e>
+    <e><p><l>litríkur<s n="adj"/></l><r>colourful<s n="adj"/></r></p></e>
 <!--<p><l>litríkur<s n="adj"/></l><r>motley<s n="adj"/></r></p></e>-->
 <!--<p><l>liðinn<s n="adj"/></l><r>gone<s n="adj"/></r></p></e>-->
     <e><p><l>liðinn<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
@@ -1359,7 +1359,7 @@
 <!--<p><l>lærður<s n="adj"/></l><r>scholarly<s n="adj"/></r></p></e>-->
     <e><p><l>læstur<s n="adj"/></l><r>locked<s n="adj"/></r></p></e>
 <!--<p><l>lélegur<s n="adj"/></l><r>bad<s n="adj"/></r></p></e>-->
-    <e><p><l>lélegur<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+    <e><p><l>lélegur<s n="adj"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>lélegur<s n="adj"/></l><r>wretched<s n="adj"/></r></p></e>-->
 <!--<p><l>léttur<s n="adj"/></l><r>easy<s n="adj"/></r></p></e>-->
     <e><p><l>léttur<s n="adj"/></l><r>light<s n="adj"/><s n="sint"/></r></p></e>
@@ -1779,7 +1779,7 @@
     <e><p><l>skýr<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>skýr<s n="adj"/></l><r>crisp<s n="adj"/></r></p></e>-->
 <!--<p><l>slakur<s n="adj"/></l><r>bad<s n="adj"/></r></p></e>-->
-    <e><p><l>slakur<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+    <e><p><l>slakur<s n="adj"/></l><r>poor<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>slakur<s n="adj"/></l><r>slack<s n="adj"/></r></p></e>-->
     <e><p><l>slitinn<s n="adj"/></l><r>broken<s n="adj"/></r></p></e>
 <!--<p><l>slitinn<s n="adj"/></l><r>worn<s n="adj"/></r></p></e>-->
@@ -2047,7 +2047,7 @@
 <!--<p><l>unnt<s n="adj"/></l><r>doable<s n="adj"/></r></p></e>-->
     <e><p><l>unnt<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
     <e><p><l>upplagður<s n="adj"/></l><r>ideal<s n="adj"/></r></p></e>
-<!--<p><l>upplitaður<s n="adj"/></l><r>colorless<s n="adj"/></r></p></e>-->
+<!--<p><l>upplitaður<s n="adj"/></l><r>colourless<s n="adj"/></r></p></e>-->
     <e><p><l>upplitaður<s n="adj"/></l><r>faded<s n="adj"/></r></p></e>
 <!--<p><l>upplitaður<s n="adj"/></l><r>faint<s n="adj"/></r></p></e>-->
 <!--<p><l>upplitaður<s n="adj"/></l><r>pale<s n="adj"/></r></p></e>-->
@@ -2139,7 +2139,7 @@
     <e><p><l>vinstramegin<s n="adj"/></l><r>left-hand-side<s n="adj"/></r></p></e>
 <!--<p><l>vinsæll<s n="adj"/></l><r>celebrated<s n="adj"/></r></p></e>-->
 <!--<p><l>vinsæll<s n="adj"/></l><r>fashionable<s n="adj"/></r></p></e>-->
-<!--<p><l>vinsæll<s n="adj"/></l><r>favored<s n="adj"/></r></p></e>-->
+<!--<p><l>vinsæll<s n="adj"/></l><r>favoured<s n="adj"/></r></p></e>-->
     <e><p><l>vinsæll<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>
 <!--<p><l>vinsæll<s n="adj"/></l><r>trendy<s n="adj"/></r></p></e>-->
     <e><p><l>virkur<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
@@ -2149,7 +2149,7 @@
     <e><p><l>virtur<s n="adj"/></l><r>respected<s n="adj"/></r></p></e>
 <!--<p><l>virðulegur<s n="adj"/></l><r>dignified<s n="adj"/></r></p></e>-->
 <!--<p><l>virðulegur<s n="adj"/></l><r>distinguished<s n="adj"/></r></p></e>-->
-<!--<p><l>virðulegur<s n="adj"/></l><r>honorable<s n="adj"/></r></p></e>-->
+<!--<p><l>virðulegur<s n="adj"/></l><r>honourable<s n="adj"/></r></p></e>-->
 <!--<p><l>virðulegur<s n="adj"/></l><r>reputable<s n="adj"/></r></p></e>-->
     <e><p><l>virðulegur<s n="adj"/></l><r>respectable<s n="adj"/></r></p></e>
     <e><p><l>viss<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
@@ -3422,7 +3422,7 @@
     <e><p><l>úti<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
 <!--<p><l>ýkja<s n="adv"/></l><r>boast<s n="adv"/></r></p></e>-->
 <!--<p><l>ýkja<s n="adv"/></l><r>brag<s n="adv"/></r></p></e>-->
-<!--<p><l>ýkja<s n="adv"/></l><r>color<s n="adv"/></r></p></e>-->
+<!--<p><l>ýkja<s n="adv"/></l><r>colour<s n="adv"/></r></p></e>-->
 <!--<p><l>ýkja<s n="adv"/></l><r>enlarge<s n="adv"/></r></p></e>-->
     <e><p><l>ýkja<s n="adv"/></l><r>exaggerate<s n="adv"/></r></p></e>
 <!--<p><l>ýkja<s n="adv"/></l><r>overstate<s n="adv"/></r></p></e>-->
@@ -4592,7 +4592,7 @@
     <e><p><l>gæða<s n="vblex"/></l><r>endow<s n="vblex"/></r></p></e>
 <!--<p><l>gæða<s n="vblex"/></l><r>feast<s n="vblex"/></r></p></e>-->
 <!--<p><l>gæða<s n="vblex"/></l><r>invest<s n="vblex"/></r></p></e>-->
-<!--<p><l>gæða<s n="vblex"/></l><r>savor<s n="vblex"/></r></p></e>-->
+<!--<p><l>gæða<s n="vblex"/></l><r>savour<s n="vblex"/></r></p></e>-->
 <!--<p><l>góna<s n="vblex"/></l><r>gape<s n="vblex"/></r></p></e>-->
     <e><p><l>góna<s n="vblex"/></l><r>gawk<s n="vblex"/></r></p></e>
 <!--<p><l>góna<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>-->
@@ -5060,7 +5060,7 @@
     <e><p><l>liggja<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
     <e><p><l>linna<s n="vblex"/></l><r>quit<s n="vblex"/></r></p></e>
 <!--<p><l>linna<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>-->
-    <e><p><l>lita<s n="vblex"/></l><r>color<s n="vblex"/></r></p></e>
+    <e><p><l>lita<s n="vblex"/></l><r>colour<s n="vblex"/></r></p></e>
 <!--<p><l>lita<s n="vblex"/></l><r>crayon<s n="vblex"/></r></p></e>-->
 <!--<p><l>lita<s n="vblex"/></l><r>dye<s n="vblex"/></r></p></e>-->
 <!--<p><l>lita<s n="vblex"/></l><r>paint<s n="vblex"/></r></p></e>-->
@@ -5497,7 +5497,7 @@
 <!--<p><l>skreppa<s n="vblex"/></l><r>go<g><b/>out</g><s n="vblex"/></r></p></e>-->
     <e><p><l>skreppa<s n="vblex"/></l><r>pop<g><b/>out</g><s n="vblex"/></r></p></e>
 <!--<p><l>skreyta<s n="vblex"/></l><r>beautify<s n="vblex"/></r></p></e>-->
-<!--<p><l>skreyta<s n="vblex"/></l><r>color<s n="vblex"/></r></p></e>-->
+<!--<p><l>skreyta<s n="vblex"/></l><r>colour<s n="vblex"/></r></p></e>-->
     <e><p><l>skreyta<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
 <!--<p><l>skreyta<s n="vblex"/></l><r>furnish<s n="vblex"/></r></p></e>-->
 <!--<p><l>skreyta<s n="vblex"/></l><r>garnish<s n="vblex"/></r></p></e>-->
@@ -6645,7 +6645,7 @@
     <!--<e><p><l>bruni<s n="n"/><s n="m"/></l><r>combustion<s n="n"/></r></p></e>-->
     <e><p><l>bruni<s n="n"/><s n="m"/></l><r>fire<s n="n"/></r></p></e>
     <e><p><l>bryggja<s n="n"/><s n="f"/></l><r>pier<s n="n"/></r></p></e>
-    <e><p><l>brynja<s n="n"/><s n="f"/></l><r>armor<s n="n"/></r></p></e> <!-- (armour) -->
+    <e><p><l>brynja<s n="n"/><s n="f"/></l><r>armour<s n="n"/></r></p></e> <!-- (armor) -->
     <e><p><l>brá<s n="n"/><s n="f"/></l><r>eyelash<s n="n"/></r></p></e>
     <!--<e><p><l>bráð<s n="n"/><s n="f"/></l><r>game<s n="n"/></r></p></e>-->
     <e><p><l>bráð<s n="n"/><s n="f"/></l><r>wild<b/>animal<s n="n"/></r></p></e>
@@ -7731,8 +7731,8 @@
     <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>bright<s n="adj"/></r></p></e>--> <!-- adjective -->
     <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>--> <!-- adjective -->
     <!--<e><p><l>heiður<s n="adj"/><s n="m"/></l><r>cloudless<s n="adj"/></r></p></e>--> <!-- adjective -->
-    <e><p><l>heiður<s n="n"/><s n="m"/></l><r>honor<s n="n"/></r></p></e>
-    <!--<e><p><l>heiður<s n="n"/><s n="m"/></l><r>honour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>heiður<s n="n"/><s n="m"/></l><r>honour<s n="n"/></r></p></e>
+    <!--<e><p><l>heiður<s n="n"/><s n="m"/></l><r>honor<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>hel<s n="n"/><s n="f"/></l><r>hell<s n="n"/></r></p></e>
     <e><p><l>helgi<s n="n"/><s n="f"/></l><r>weekend<s n="n"/></r></p></e>
     <e><p><l>helgidagur<s n="n"/><s n="m"/></l><r>holiday<s n="n"/></r></p></e>
@@ -7745,8 +7745,8 @@
     <!--<e><p><l>her<s n="n"/><s n="m"/></l><r>military<s n="n"/></r></p></e>-->
     <e><p><l>herbergi<s n="n"/><s n="nt"/></l><r>room<s n="n"/></r></p></e>
     <e><p><l>herfylki<s n="n"/><s n="nt"/></l><r>battalion<s n="n"/></r></p></e>
-    <e><p><l>herklæði<s n="n"/><s n="nt"/></l><r>armor<s n="n"/></r></p></e>
-    <!--<e><p><l>herklæði<s n="n"/><s n="nt"/></l><r>armour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>herklæði<s n="n"/><s n="nt"/></l><r>armour<s n="n"/></r></p></e>
+    <!--<e><p><l>herklæði<s n="n"/><s n="nt"/></l><r>armor<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>hermaður<s n="n"/><s n="m"/></l><r>soldier<s n="n"/></r></p></e>
     <!--<e><p><l>hermikráka<s n="n"/><s n="f"/></l><r>imitator<s n="n"/></r></p></e>-->
     <e><p><l>hermikráka<s n="n"/><s n="f"/></l><r>mimic<s n="n"/></r></p></e>
@@ -8074,7 +8074,7 @@
     <!--<e><p><l>hótfyndni<s n="n"/><s n="f"/></l><r>hairsplitting<s n="n"/></r></p></e>-->
     <!--<e><p><l>hótfyndni<s n="n"/><s n="f"/></l><r>pettiness<s n="n"/></r></p></e>-->
     <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>port<s n="n"/></r></p></e>-->
-    <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <!--<e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbor<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>höfn<s n="n"/><s n="f"/></l><r>harbour<s n="n"/></r></p></e>
     <e><p><l>höfrungur<s n="n"/><s n="m"/></l><r>dolphin<s n="n"/></r></p></e>
     <e><p><l>höfundarréttur<s n="n"/><s n="m"/></l><r>copyright<s n="n"/></r></p></e>
@@ -8455,8 +8455,8 @@
     <e><p><l>kálfur<s n="n"/><s n="m"/></l><r>calf<s n="n"/></r></p></e>
     <e><p><l>kæfa<s n="n"/><s n="f"/></l><r>pâté<s n="n"/></r></p></e>
     <e><p><l>kæliskápur<s n="n"/><s n="m"/></l><r>refrigerator<s n="n"/></r></p></e>
-    <e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometer<s n="n"/></r></p></e>
-    <!--<e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometre<s n="n"/></r></p></e>
+    <!--<e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometer<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>kínverska<s n="n"/><s n="f"/></l><r>Chinese<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>kísill<s n="n"/><s n="m"/></l><r>silicon<s n="n"/></r></p></e>
     <e><p><l>kíví<s n="n"/><s n="nt"/></l><r>kiwi<s n="n"/></r></p></e> <!-- fruit -->
@@ -8587,8 +8587,8 @@
     <e><p><l>leturgerð<s n="n"/><s n="nt"/></l><r>font<s n="n"/></r></p></e>
     <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>permission<s n="n"/></r></p></e>-->
     <e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>permit<s n="n"/></r></p></e>
-    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>license<s n="n"/></r></p></e>-->
-    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>licence<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>licence<s n="n"/></r></p></e>-->
+    <!--<e><p><l>leyfi<s n="n"/><s n="nt"/></l><r>license<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>leynd<s n="n"/><s n="f"/></l><r>secrecy<s n="n"/></r></p></e>
     <e><p><l>leyndarmál<s n="n"/><s n="nt"/></l><r>secret<s n="n"/></r></p></e>
     <e><p><l>leyniskytta<s n="n"/><s n="f"/></l><r>sniper<s n="n"/></r></p></e>
@@ -8608,8 +8608,8 @@
     <e><p><l>list<s n="n"/><s n="f"/></l><r>art<s n="n"/></r></p></e>
     <e><p><l>listasafn<s n="n"/><s n="nt"/></l><r>art<b/>museum<s n="n"/></r></p></e>
     <e><p><l>litarefni<s n="n"/><s n="nt"/></l><r>dye<s n="n"/></r></p></e> <!-- (a colourant, especially one that has an affinity to the substrate to which it is applied) -->
-    <e><p><l>litur<s n="n"/><s n="m"/></l><r>color<s n="n"/></r></p></e>
-    <!--<e><p><l>litur<s n="n"/><s n="m"/></l><r>colour<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>litur<s n="n"/><s n="m"/></l><r>colour<s n="n"/></r></p></e>
+    <!--<e><p><l>litur<s n="n"/><s n="m"/></l><r>color<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>litín<s n="n"/><s n="nt"/></l><r>lithium<s n="n"/></r></p></e> <!-- (chemical element) -->
     <!--<e><p><l>lið<s n="n"/><s n="nt"/></l><r>army<s n="n"/></r></p></e>-->
     <e><p><l>lið<s n="n"/><s n="nt"/></l><r>team<s n="n"/></r></p></e>
@@ -8676,15 +8676,15 @@
     <e><p><l>lund<s n="n"/><s n="f"/></l><r>manner<s n="n"/></r></p></e>
     <!--<e><p><l>lundi<s n="n"/><s n="m"/></l><r>Atlantic<b/>puffin<s n="n"/></r></p></e>-->
     <e><p><l>lundi<s n="n"/><s n="m"/></l><r>puffin<s n="n"/></r></p></e>
-    <e><p><l>lundir<s n="n"/><s n="f"/></l><r>filet<s n="n"/></r></p></e>
-<!--    <e><p><l>lundir<s n="n"/><s n="f"/></l><r>fillet<s n="n"/></r></p></e> --> <!-- British English spelling -->
+    <e><p><l>lundir<s n="n"/><s n="f"/></l><r>fillet<s n="n"/></r></p></e>
+<!--    <e><p><l>lundir<s n="n"/><s n="f"/></l><r>filet<s n="n"/></r></p></e> --> <!-- US English spelling -->
     <e><p><l>lunga<s n="n"/><s n="nt"/></l><r>lung<s n="n"/></r></p></e>
     <e><p><l>lungnakrabbamein<s n="n"/><s n="nt"/></l><r>lung<b/>cancer<s n="n"/></r></p></e>
     <!--<e><p><l>lyfjabúð<s n="n"/><s n="f"/></l><r>apothecary<s n="n"/></r></p></e>-->
     <e><p><l>lyfjabúð<s n="n"/><s n="f"/></l><r>pharmacy<s n="n"/></r></p></e>
     <e><p><l>lyfjaverslun<s n="n"/><s n="f"/></l><r>pharmacy<s n="n"/></r></p></e>
-    <e><p><l>lyfta<s n="n"/><s n="f"/></l><r>elevator<s n="n"/></r></p></e>
-    <!--<e><p><l>lyfta<s n="n"/><s n="f"/></l><r>lift<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>lyfta<s n="n"/><s n="f"/></l><r>left<s n="n"/></r></p></e>
+    <!--<e><p><l>lyfta<s n="n"/><s n="f"/></l><r>elevator<s n="n"/></r></p></e>--> <!-- US English variant -->
     <e><p><l>lyftutónlist<s n="n"/><s n="f"/></l><r>elevator<b/>music<s n="n"/></r></p></e>
     <!--<e><p><l>lygi<s n="n"/><s n="f"/></l><r>falsehood<s n="n"/></r></p></e>-->
     <e><p><l>lygi<s n="n"/><s n="f"/></l><r>lie<s n="n"/></r></p></e>
@@ -8800,8 +8800,8 @@
     <e><p><l>mannfræði<s n="n"/><s n="f"/></l><r>anthropology<s n="n"/></r></p></e>
     <!--<e><p><l>mannorð<s n="n"/><s n="nt"/></l><r>character<s n="n"/></r></p></e>-->
     <e><p><l>mannorð<s n="n"/><s n="nt"/></l><r>reputation<s n="n"/></r></p></e>
-    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honour<s n="n"/></r></p></e>--> <!-- British English spelling -->
-    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honor<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honour<s n="n"/></r></p></e>-->
+    <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honor<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>status<s n="n"/></r></p></e>
     <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>rank<s n="n"/></r></p></e>-->
     <e><p><l>margfeldi<s n="n"/><s n="nt"/></l><r>product<s n="n"/></r></p></e>
@@ -8907,7 +8907,7 @@
     <e><p><l>miðaldir<s n="n"/><s n="f"/></l><r>Middle<b/>Ages<s n="n"/></r></p></e>
     <e><p><l>miði<s n="n"/><s n="m"/></l><r>ticket<s n="n"/></r></p></e>
     <e><p><l>miðja<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e>
-    <!--<e><p><l>miðja<s n="n"/><s n="f"/></l><r>centre<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <!--<e><p><l>miðja<s n="n"/><s n="f"/></l><r>center<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>miðnætti<s n="n"/><s n="nt"/></l><r>midnight<s n="n"/></r></p></e>
     <e><p><l>mjólk<s n="n"/><s n="f"/></l><r>milk<s n="n"/></r></p></e>
     <e><p><l>mjónefur<s n="n"/><s n="m"/></l><r>echidna<s n="n"/></r></p></e>
@@ -9085,9 +9085,9 @@
     <e><p><l>nitur<s n="n"/><s n="nt"/></l><r>nitrogen<s n="n"/></r></p></e>
     <!--<e><p><l>niður<s n="n"/><s n="m"/></l><r>buzz<s n="n"/></r></p></e>-->
     <e><p><l>niður<s n="n"/><s n="m"/></l><r>drone<s n="n"/></r></p></e>
-    <e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhea<s n="n"/></r></p></e>
     <e><p><l>niðurstaða<s n="n"/><s n="f"/></l><r>result<s n="n"/></r></p></e>
-    <!--<e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhoea<s n="n"/></r></p></e>--> <!-- British English spelling -->
+    <e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhoea<s n="n"/></r></p></e>
+    <!--<e><p><l>niðurgangur<s n="n"/><s n="m"/></l><r>diarrhea<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>norska<s n="n"/><s n="f"/></l><r>Norwegian<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>norðaustur<s n="n"/><s n="nt"/></l><r>northeast<s n="n"/></r></p></e>
     <e><p><l>norður<s n="n"/><s n="nt"/></l><r>north<s n="n"/></r></p></e>
@@ -10711,8 +10711,8 @@
     <e><p><l>ákavíti<s n="n"/><s n="nt"/></l><r>aquavit<s n="n"/></r></p></e>
     <e><p><l>ákvörðun<s n="n"/><s n="f"/></l><r>decision<s n="n"/></r></p></e>
     <!--<e><p><l>ákvörðun<s n="n"/><s n="f"/></l><r>resolution<s n="n"/></r></p></e>-->
-    <!--<e><p><l>ál<s n="n"/><s n="nt"/></l><r>aluminium<s n="n"/></r></p></e>--> <!-- British English spelling -->
-    <e><p><l>ál<s n="n"/><s n="nt"/></l><r>aluminum<s n="n"/></r></p></e>
+    <!--<e><p><l>ál<s n="n"/><s n="nt"/></l><r>aluminium<s n="n"/></r></p></e>--> <!-- US English spelling -->
+    <e><p><l>ál<s n="n"/><s n="nt"/></l><r>aluminium<s n="n"/></r></p></e>
     <e><p><l>álfadrottning<s n="n"/><s n="f"/></l><r>elven<b/>queen<s n="n"/></r></p></e>
     <e><p><l>álfkona<s n="n"/><s n="f"/></l><r>female<b/>elf<s n="n"/></r></p></e>
     <e><p><l>álft<s n="n"/><s n="f"/></l><r>swan<s n="n"/></r></p></e> <!-- (swan) -->
@@ -11334,7 +11334,7 @@
 
 
     <!-- TODO:  Fran insert additions here, Martha lightly proofread :) -->
-    <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( ... Why the frown?  'Breti' is 'British person', we could change it to that if it makes you happier ;) -->
+    <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( ... Why the frown?  'Breti' is 'British person', we could change it to that if it makes you happier ;) ~~ I don't believe in 'British' as a people / nationality! -->
     <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>municipal<b/>manager<s n="n"/></r></p></e>  <!-- ? can the title be 'mayor' if it is a small rural town? -->
 
 <!--    <e><p><l>kínverji<s n="n"/><s n="m"/></l><r>Chinese<b/>person<s n="n"/></r></p></e> -->

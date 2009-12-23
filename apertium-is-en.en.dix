@@ -22327,7 +22327,7 @@
     <e lm="agenda"><i>agenda</i><par n="house__n"/></e>
     <e lm="house"><i>house</i><par n="house__n"/></e>
     <e lm="use"><i>use</i><par n="house__n"/></e>
-    <e lm="frost"><i>frost</i><par n="hofrost__n"/></e>
+    <e lm="frost"><i>frost</i><par n="house__n"/></e>
     <e lm="household"><i>household</i><par n="house__n"/></e>
     <e lm="housing"><i>housing</i><par n="house__n"/></e>
     <e lm="human"><i>human</i><par n="house__n"/></e>
