@@ -2865,7 +2865,7 @@
 <!--<p><l>fyrrum<s n="adv"/></l><r>earlier<s n="adv"/></r></p></e>-->
     <e><p><l>fyrrum<s n="adv"/></l><r>former<s n="adv"/></r></p></e>
 <!--<p><l>fyrrum<s n="adv"/></l><r>sometime<s n="adv"/></r></p></e>-->
-    <e><p><l>fyrst<b/>og<b/>fremst<s n="adv"/></l><r>primarily<s n="adv"/></r></p></e>
+    <e><p><l>fyrst<b/>og<b/>fremst<s n="adv"/></l><r>primarily<s n="adv"/></r></p></e> <!-- first and foremost!-->
     <e><p><l>fyrst<b/>í<b/>stað<s n="adv"/></l><r>to<b/>begin<b/>with<s n="adv"/></r></p></e>
     <e><p><l>félagslega<s n="adv"/></l><r>socially<s n="adv"/></r></p></e>
 <!--<p><l>gersamlega<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>-->
@@ -11694,6 +11694,7 @@
     <e><p><l>úthverfi<s n="n"/><s n="nt"/></l><r>suburb<s n="n"/></r></p></e>    
     <e><p><l>útþensla<s n="n"/><s n="f"/></l><r>expansion<s n="n"/></r></p></e>    
     <e><p><l>valdataka<s n="n"/><s n="f"/></l><r>coup<s n="n"/></r></p></e>    
+    <e><p><l>hótun<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>    
     <e><p><l>varðveisla<s n="n"/><s n="f"/></l><r>storage<s n="n"/></r></p></e>    
     <e><p><l>velgengni<s n="n"/><s n="f"/></l><r>success<s n="n"/></r></p></e>    
     <e><p><l>vellíðan<s n="n"/><s n="f"/></l><r>well-being<s n="n"/></r></p></e>    
@@ -11708,6 +11709,8 @@
     <e><p><l>þykkt<s n="n"/><s n="f"/></l><r>thickness<s n="n"/></r></p></e>    
 
 
+    <e><p><l>lögreglustjóri<s n="n"/><s n="m"/></l><r>chief<g><b/>of<b/>police</g><s n="n"/></r></p></e>
+    <e><p><l>ríkislögreglustjóri<s n="n"/><s n="m"/></l><r>national<b/>chief<g><b/>of<b/>police</g><s n="n"/></r></p></e>
     <e><p><l>martröð<s n="n"/><s n="f"/></l><r>nightmare<s n="n"/></r></p></e> 
     <e><p><l>yfirstjórn<s n="n"/><s n="f"/></l><r>management<s n="n"/></r></p></e> 
     <e><p><l>þurrka<s n="n"/><s n="f"/></l><r>drought<s n="n"/></r></p></e> 
@@ -11715,6 +11718,14 @@
     <e><p><l>þingva<s n="n"/><s n="f"/></l><r>clamp<s n="n"/></r></p></e> 
     <e><p><l>þolinmæði<s n="n"/><s n="f"/></l><r>patience<s n="n"/></r></p></e> 
     <e><p><l>frelsun<s n="n"/><s n="f"/></l><r>liberation<s n="n"/></r></p></e> 
+    <e><p><l>kannabisplanta<s n="n"/><s n="f"/></l><r>cannabis<b/>plant<s n="n"/></r></p></e>
+
+    <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="sg"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="pl"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>sérsveit<s n="n"/><s n="f"/><s n="GD"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
+
+    <e><p><l>fíkniefni<s n="n"/><s n="nt"/></l><r>drug<s n="n"/></r></p></e>
+    <e><p><l>hald<s n="n"/><s n="nt"/></l><r>handle<s n="n"/></r></p></e>
     <e><p><l>austurströnd<s n="n"/><s n="f"/></l><r>east<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>vesturströnd<s n="n"/><s n="f"/></l><r>west<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>norðurströnd<s n="n"/><s n="f"/></l><r>north<b/>coast<s n="n"/></r></p></e> 
@@ -11733,6 +11744,7 @@
     <e><p><l>karldýr<s n="n"/><s n="m"/></l><r>male<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>kvendýr<s n="n"/><s n="f"/></l><r>female<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
+    <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
     <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
     <e><p><l>mannréttindi<s n="n"/><s n="nt"/></l><r>human<b/>right<s n="n"/></r></p></e>

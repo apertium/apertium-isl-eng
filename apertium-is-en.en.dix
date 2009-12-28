@@ -340,6 +340,10 @@
       <e r="LR"><i>P</i></e>
       <e r="RL"><p><l>P</l><r>p</r></p></e>
     </pardef>
+    <pardef n="Rr">
+      <e r="LR"><i>R</i></e>
+      <e r="RL"><p><l>R</l><r>r</r></p></e>
+    </pardef>
     <pardef n="Ss">
       <e r="LR"><i>S</i></e>
       <e r="RL"><p><l>S</l><r>s</r></p></e>
@@ -20305,6 +20309,7 @@
     <e lm="ark"><i>ark</i><par n="house__n"/></e>
     <e lm="army"><i>arm</i><par n="bab/y__n"/></e>
     <e lm="arm"><i>arm</i><par n="house__n"/></e>
+    <e lm="firearm"><i>firearm</i><par n="house__n"/></e>
     <e lm="armament"><i>armament</i><par n="house__n"/></e>
     <e lm="armchair"><i>armchair</i><par n="house__n"/></e>
     <e lm="armpit"><i>armpit</i><par n="house__n"/></e>
@@ -20831,6 +20836,8 @@
     <e lm="chewing gum"><i>chewing<b/>gum</i><par n="house__n"/></e>
     <e lm="chicken"><i>chicken</i><par n="house__n"/></e>
     <e lm="chief"><i>chief</i><par n="house__n"/></e>
+    <e lm="chief of police"><i>chief</i><par n="house__n"/><p><l><b/>of<b/>police</l><r><g><b/>of<b/>police</g></r></p></e>
+    <e lm="national chief of police"><i>national<b/>chief</i><par n="house__n"/><p><l><b/>of<b/>police</l><r><g><b/>of<b/>police</g></r></p></e>
     <e lm="child"><i>child</i><par n="child__n"/></e>
     <e lm="childhood"><i>childhood</i><par n="house__n"/></e>
     <e lm="chimaera"><i>chimaera</i><par n="house__n"/></e>
@@ -22004,6 +22011,7 @@
     <e lm="footprint"><i>footprint</i><par n="house__n"/></e>
     <e lm="footwear"><i>footwear</i><par n="house__n"/></e>
     <e lm="force"><i>force</i><par n="house__n"/></e>
+    <e lm="special forces"><i>special<b/>forces</i><par n="personnel__n"/></e>
     <e lm="forcing"><i>forcing</i><par n="house__n"/></e>
     <e lm="forearm"><i>forearm</i><par n="house__n"/></e>
     <e lm="forecast"><i>forecast</i><par n="house__n"/></e>
@@ -23553,6 +23561,7 @@
     <e lm="plankton"><i>plankton</i><par n="house__n"/></e>
     <e lm="planning"><i>planning</i><par n="house__n"/></e>
     <e lm="plant"><i>plant</i><par n="house__n"/></e>
+    <e lm="cannabis plant"><i>cannabis<b/>plant</i><par n="house__n"/></e>
     <e lm="plantation"><i>plantation</i><par n="house__n"/></e>
     <e lm="plaster"><i>plaster</i><par n="house__n"/></e>
     <e lm="plastic"><i>plastic</i><par n="house__n"/></e>
@@ -24650,6 +24659,7 @@
     <e lm="syringe"><i>syringe</i><par n="house__n"/></e>
     <e lm="syrup"><i>syrup</i><par n="house__n"/></e>
     <e lm="system"><i>system</i><par n="house__n"/></e>
+    <e lm="tax system"><i>tax<b/>system</i><par n="house__n"/></e>
     <e lm="tooth"><i>t</i><par n="t/ooth__n"/></e>
     <e lm="table"><i>table</i><par n="house__n"/></e>
     <e lm="tablet"><i>tablet</i><par n="house__n"/></e>
@@ -39442,17 +39452,16 @@
     <e lm="Nicaraguan"><par n="Nn"/><i>icaraguan</i><par n="expensive__adj"/></e>
     <e lm="Nigerian"><par n="Nn"/><i>igerian</i><par n="expensive__adj"/></e>
     <e lm="Norwegian"><par n="Nn"/><i>orwegian</i><par n="expensive__adj"/></e>
-    <e lm="Orthodox"><i>Orthodox</i><par n="expensive__adj"/></e>
-    <e lm="Palestinian"><i>Palestinian</i><par n="expensive__adj"/></e>
-    <e lm="Panamanian"><i>Panamanian</i><par n="expensive__adj"/></e>
-    <e lm="Paraguayan"><i>Paraguayan</i><par n="expensive__adj"/></e>
-    <e lm="Persian"><i>Persian</i><par n="expensive__adj"/></e>
-    <e lm="Peruvian"><i>Peruvian</i><par n="expensive__adj"/></e>
-    <e lm="Polish"><i>Polish</i><par n="expensive__adj"/></e>
-    <e lm="Portuguese"><i>Portuguese</i><par n="expensive__adj"/></e>
-    <e lm="Protestant"><i>Protestant</i><par n="expensive__adj"/></e>
-    <e lm="Russian"><i>Russian</i><par n="expensive__adj"/></e>
-    <e lm="Russian"><i>Russian</i><par n="expensive__adj"/></e>
+    <e lm="Orthodox"><par n="Oo"/><i>rthodox</i><par n="expensive__adj"/></e>
+    <e lm="Palestinian"><par n="Pp"/><i>alestinian</i><par n="expensive__adj"/></e>
+    <e lm="Panamanian"><par n="Pp"/><i>anamanian</i><par n="expensive__adj"/></e>
+    <e lm="Paraguayan"><par n="Pp"/><i>araguayan</i><par n="expensive__adj"/></e>
+    <e lm="Persian"><par n="Pp"/><i>ersian</i><par n="expensive__adj"/></e>
+    <e lm="Peruvian"><par n="Pp"/><i>eruvian</i><par n="expensive__adj"/></e>
+    <e lm="Polish"><par n="Pp"/><i>olish</i><par n="expensive__adj"/></e>
+    <e lm="Portuguese"><par n="Pp"/><i>ortuguese</i><par n="expensive__adj"/></e>
+    <e lm="Protestant"><par n="Pp"/><i>rotestant</i><par n="expensive__adj"/></e>
+    <e lm="Russian"><par n="Rr"/><i>ussian</i><par n="expensive__adj"/></e>
     <e lm="Scandinavian"><par n="Ss"/><i>candinavian</i><par n="expensive__adj"/></e>
     <e lm="Scottish"><par n="Ss"/><i>cottish</i><par n="expensive__adj"/></e>
     <e lm="Somali"><par n="Ss"/><i>omali</i><par n="expensive__adj"/></e>
@@ -43592,6 +43601,7 @@
     <e lm="out of sorts"><i>out<b/>of<b/>sorts</i><par n="maybe__adv"/></e>
     <e lm="out of turn"><i>out<b/>of<b/>turn</i><par n="maybe__adv"/></e>
     <e lm="out there"><i>out<b/>there</i><par n="maybe__adv"/></e>
+    <e lm="out front"><i>out<b/>front</i><par n="maybe__adv"/></e>
     <e lm="outright"><i>outright</i><par n="maybe__adv"/></e>
     <e lm="outside"><i>outside</i><par n="maybe__adv"/></e>
     <e lm="over"><i>over</i><par n="maybe__adv"/></e>

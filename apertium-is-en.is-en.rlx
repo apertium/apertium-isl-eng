@@ -273,14 +273,17 @@ REMOVE:d_ufc_f  Det + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LI
 REMOVE:d_ufc_m  Det + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
 REMOVE:d_ufc_nt Det + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
 
+SELECT:r30 $$GENDER IF (-1C Num + $$GENDER)(0 N);
 SELECT:r28 $$GENDER IF (-1C Adj + $$GENDER)(0 N);
 SELECT:r28b $$GENDER IF (-1C Det + $$GENDER)(0 N);
 SELECT:r28c $$GENDER IF (-1C IndefPron + $$GENDER)(0 N);
 
+SELECT:r30 $$NAGD IF (-1C Num + $$NAGD)(0 N);
 SELECT:r29 $$NAGD IF (-1C Adj + $$NAGD)(0 N);
 SELECT:r29b $$NAGD IF (-1C Det + $$NAGD)(0 N);
 SELECT:r29c $$NAGD IF (-1C IndefPron + $$NAGD)(0 N);
 
+SELECT:r30 $$NUMBER IF (-1C Num + $$NUMBER)(0 N);
 SELECT:r30 $$NUMBER IF (-1C Adj + $$NUMBER)(0 N);
 SELECT:r30b $$NUMBER IF (-1C Det + $$NUMBER)(0 N);
 SELECT:r30c $$NUMBER IF (-1C IndefPron + $$NUMBER)(0 N);
