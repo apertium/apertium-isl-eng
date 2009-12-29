@@ -3475,6 +3475,7 @@
 
     <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>en<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+    <e><p><l>hvorki<s n="cnjcoo"/></l><r>neither<s n="cnjcoo"/></r></p></e>
     <e><p><l>né<s n="cnjcoo"/></l><r>nor<s n="cnjcoo"/></r></p></e>
     <e><p><l>og<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>svona<s n="cnjcoo"/></l><r>so<s n="cnjcoo"/></r></p></e>
@@ -3502,7 +3503,6 @@
 <!--<p><l>fyrst<s n="cnjsub"/></l><r>now<s n="cnjsub"/></r></p></e>-->
     <e><p><l>fyrst<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>heldur<b/>en<s n="cnjcoo"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
-    <e><p><l>hvorki<s n="cnjsub"/></l><r>neither<s n="cnjsub"/></r></p></e>
     <e><p><l>hvort<b/>sem<s n="cnjsub"/></l><r>whether<b/>or<b/>not<s n="cnjsub"/></r></p></e>
 <!--<p><l>hvort<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>-->
     <e><p><l>hvort<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
@@ -6490,10 +6490,12 @@
 <!--    <e><p><l>benda<s n="v"/><s n="f"/></l><r>beckon<s n="v"/></r></p></e> --> <!-- NB more often used as a verb -->
 <!--    <e><p><l>benda<s n="v"/><s n="f"/></l><r>point<s n="v"/></r></p></e> --> <!-- NB more often used as a verb -->
 <!--    <e><p><l>benda<s n="v"/><s n="f"/></l><r>show<s n="v"/></r></p></e> --> <!-- NB more often used as a verb -->
-    <e><p><l>bensín<s n="n"/><s n="nt"/></l><r>gasoline<s n="n"/></r></p></e>
-<!--    <e><p><l>bensín<s n="n"/><s n="nt"/></l><r>petrol<s n="n"/></r></p></e> -->
-    <e><p><l>bensínsala<s n="n"/><s n="f"/></l><r>gas<b/>sales<s n="n"/></r></p></e>
-    <e><p><l>bensínstöð<s n="n"/><s n="f"/></l><r>gas<b/>station<s n="n"/></r></p></e>
+    <e><p><l>bensín<s n="n"/><s n="nt"/></l><r>petrol<s n="n"/></r></p></e>
+<!--    <e><p><l>bensín<s n="n"/><s n="nt"/></l><r>gasoline<s n="n"/></r></p></e> -->
+    <!--<e><p><l>bensínsala<s n="n"/><s n="f"/></l><r>gas<b/>sales<s n="n"/></r></p></e>-->
+    <!--<e><p><l>bensínstöð<s n="n"/><s n="f"/></l><r>gas<b/>station<s n="n"/></r></p></e>-->
+    <e><p><l>bensínsala<s n="n"/><s n="f"/></l><r>petrol<b/>sales<s n="n"/></r></p></e>
+    <e><p><l>bensínstöð<s n="n"/><s n="f"/></l><r>petrol<b/>station<s n="n"/></r></p></e>
     <e><p><l>berkelín<s n="n"/><s n="nt"/></l><r>berkelium<s n="n"/></r></p></e> <!-- (transuranic chemical element) -->
     <e><p><l>berklar<s n="n"/><s n="m"/></l><r>tuberculosis<s n="n"/></r></p></e>
     <e><p><l>beryllín<s n="n"/><s n="nt"/></l><r>beryllium<s n="n"/></r></p></e> <!-- (chemical element) -->
@@ -11752,8 +11754,10 @@
     <e><p><l>kvendýr<s n="n"/><s n="f"/></l><r>female<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
-    <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, -->
-    <e><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
+
+    <e r="RL"><p><l>útland<s n="n"/><s n="nt"/><s n="GD"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
+    <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
+    <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="pl"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, actually.... is used in SG as slang -->
     <e><p><l>mannréttindi<s n="n"/><s n="nt"/></l><r>human<b/>right<s n="n"/></r></p></e>
     <e><p><l>foreldrar<s n="n"/><s n="m"/><s n="pl"/></l><r>parent<s n="n"/><s n="pl"/></r></p></e> <!-- is. pl. only -->
     <e><p><l>vinnubrögð<s n="n"/><s n="nt"/><s n="pl"/></l><r>method<s n="n"/><s n="pl"/></r></p></e> <!-- is. pl. only -->

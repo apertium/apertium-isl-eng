@@ -21199,6 +21199,7 @@
     <e lm="counterweight"><i>counterweight</i><par n="house__n"/></e>
     <e lm="country"><i>countr</i><par n="bab/y__n"/></e>
     <e lm="member country"><i>member<b/>countr</i><par n="bab/y__n"/></e>
+    <e lm="foreign country"><i>foreign<b/>countr</i><par n="bab/y__n"/></e>
     <e lm="countryside"><i>countryside</i><par n="house__n"/></e>
     <e lm="couple"><i>couple</i><par n="house__n"/></e>
     <e lm="coupon"><i>coupon</i><par n="house__n"/></e>
@@ -22358,6 +22359,8 @@
     <e lm="husband"><i>husband</i><par n="house__n"/></e>
     <e lm="husband and wife"><p><l>husband<b/>and<b/>wife</l><r>husband<b/>and<b/>wife<s n="n"/><s n="sg"/></r></p></e>
     <e lm="husband and wife"><p><l>husbands<b/>and<b/>wives</l><r>husband<b/>and<b/>wife<s n="n"/><s n="pl"/></r></p></e>
+    <e lm="father and son"><p><l>father<b/>and<b/>son</l><r>father<b/>and<b/>son<s n="n"/><s n="sg"/></r></p></e>
+    <e lm="father and son"><p><l>fathers<b/>and<b/>sons</l><r>father<b/>and<b/>son<s n="n"/><s n="pl"/></r></p></e>
     <e lm="hybrid"><i>hybrid</i><par n="house__n"/></e>
     <e lm="hybridisation"><i>hybridisation</i><par n="house__n"/></e>
     <e lm="hydrate"><i>hydrate</i><par n="house__n"/></e>
@@ -24504,6 +24507,7 @@
     <e lm="statement"><i>statement</i><par n="house__n"/></e>
     <e lm="statesman"><i>statesm</i><par n="m/an__n"/></e>
     <e lm="station"><i>station</i><par n="house__n"/></e>
+    <e lm="petrol station"><i>petrol<b/>station</i><par n="house__n"/></e>
     <e lm="statue"><i>statue</i><par n="house__n"/></e>
     <e lm="status"><i>status</i><par n="access__n"/></e>
     <e lm="statute"><i>statute</i><par n="house__n"/></e>
