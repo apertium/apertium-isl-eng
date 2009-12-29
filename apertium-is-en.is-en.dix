@@ -4097,7 +4097,8 @@
     <e><p><l>bergmála<s n="vblex"/></l><r>echo<s n="vblex"/></r></p></e>
 <!--<p><l>bergmála<s n="vblex"/></l><r>resound<s n="vblex"/></r></p></e>-->
 <!--<p><l>bergmála<s n="vblex"/></l><r>reverberate<s n="vblex"/></r></p></e>-->
-    <e><p><l>berja<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
+    <e><p><l>berja<s n="vblex"/><s n="actv"/></l><r>beat<s n="vblex"/></r></p></e>
+    <e><p><l>berja<s n="vblex"/><s n="midv"/></l><r>fight<s n="vblex"/></r></p></e>
 <!--<p><l>berja<s n="vblex"/></l><r>fight<s n="vblex"/></r></p></e>-->
 <!--<p><l>berja<s n="vblex"/></l><r>strike<s n="vblex"/></r></p></e>-->
     <e><p><l>beygja<s n="vblex"/></l><r>bend<s n="vblex"/></r></p></e>
@@ -11739,6 +11740,7 @@
     <e><p><l>norðurströnd<s n="n"/><s n="f"/></l><r>north<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>suðurströnd<s n="n"/><s n="f"/></l><r>south<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>víkingur<s n="n"/><s n="m"/></l><r>viking<s n="n"/></r></p></e> 
+    <e><p><l>ungmenni<s n="n"/><s n="nt"/></l><r>young<b/>man<s n="n"/></r></p></e> 
     <e><p><l>umsókn<s n="n"/><s n="f"/></l><r>application<s n="n"/></r></p></e> 
     <e><p><l>tilstilli<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
     <e><p><l>kvíða<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e> 
@@ -11824,6 +11826,7 @@
 
     <e><p><l>Berlín<s n="np"/><s n="top"/><s n="f"/></l><r>Berlin<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Barcelona<s n="np"/><s n="top"/><s n="nt"/></l><r>Barcelona<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Líma<s n="np"/><s n="top"/><s n="nt"/></l><r>Lima<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Flórída<s n="np"/><s n="top"/><s n="nt"/></l><r>Florida<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Grindavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Grindavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Njarðvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Njarðvík<s n="np"/><s n="top"/></r></p></e>
