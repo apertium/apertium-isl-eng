@@ -21302,6 +21302,7 @@
     <e lm="dating"><i>dating</i><par n="house__n"/></e>
     <e lm="daughter"><i>daughter</i><par n="house__n"/></e>
     <e lm="day"><i>day</i><par n="house__n"/></e>
+    <e lm="Christmas day"><par n="Cc"/><i>hristmas<b/>day</i><par n="house__n"/></e>
     <e lm="workday"><i>workday</i><par n="house__n"/></e>
     <e lm="de-rating"><i>de-rating</i><par n="house__n"/></e>
     <e lm="deactivation"><i>deactivation</i><par n="house__n"/></e>
@@ -22301,6 +22302,7 @@
     <e lm="holding"><i>holding</i><par n="house__n"/></e>
     <e lm="hole"><i>hole</i><par n="house__n"/></e>
     <e lm="holiday"><i>holiday</i><par n="house__n"/></e>
+    <e lm="Christmas holiday"><par n="Cc"/><i>hristmas<b/>holiday</i><par n="house__n"/></e>
     <e lm="homage"><i>homage</i><par n="house__n"/></e>
     <e lm="home"><i>home</i><par n="house__n"/></e>
     <e lm="homeland"><i>homeland</i><par n="house__n"/></e>

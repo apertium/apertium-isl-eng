@@ -11715,10 +11715,16 @@
     <e><p><l>yfirstjórn<s n="n"/><s n="f"/></l><r>management<s n="n"/></r></p></e> 
     <e><p><l>þurrka<s n="n"/><s n="f"/></l><r>drought<s n="n"/></r></p></e> 
     <e><p><l>forveri<s n="n"/><s n="m"/></l><r>predecessor<s n="n"/></r></p></e> 
+    <e><p><l>jóladagur<s n="n"/><s n="m"/></l><r>Christmas<b/>day<s n="n"/></r></p></e>
     <e><p><l>þingva<s n="n"/><s n="f"/></l><r>clamp<s n="n"/></r></p></e> 
     <e><p><l>þolinmæði<s n="n"/><s n="f"/></l><r>patience<s n="n"/></r></p></e> 
     <e><p><l>frelsun<s n="n"/><s n="f"/></l><r>liberation<s n="n"/></r></p></e> 
     <e><p><l>kannabisplanta<s n="n"/><s n="f"/></l><r>cannabis<b/>plant<s n="n"/></r></p></e>
+
+    <e r="LR"><p><l>jólaleyfi<s n="n"/><s n="nt"/><s n="sg"/></l><r>Christmas<b/>holiday<s n="n"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>jólaleyfi<s n="n"/><s n="nt"/><s n="pl"/></l><r>Christmas<b/>holiday<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>jólaleyfi<s n="n"/><s n="nt"/><s n="GD"/></l><r>Christmas<b/>holiday<s n="n"/><s n="pl"/></r></p></e>
+
 
     <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="sg"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="pl"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
@@ -11736,6 +11742,7 @@
     <e><p><l>kvíða<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e> 
     <e><p><l>löggjöf<s n="n"/><s n="f"/></l><r>legislation<s n="n"/></r></p></e> 
     <e><p><l>arfleifð<s n="n"/><s n="f"/></l><r>legacy<s n="n"/></r></p></e> 
+    <e><p><l>uppnám<s n="n"/><s n="nt"/></l><r>chaos<s n="n"/></r></p></e>
     <e><p><l>gát<s n="n"/><s n="f"/></l><r>carefulness<s n="n"/></r></p></e> 
     <e><p><l>myndun<s n="n"/><s n="f"/></l><r>development<s n="n"/></r></p></e> 
     <!--<e><p><l>myndun<s n="n"/><s n="f"/></l><r>formation<s n="n"/></r></p></e> -->
