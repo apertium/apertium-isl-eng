@@ -42975,6 +42975,7 @@
     <e lm="wear"><i>w</i><par n="sw/ear__vblex"/></e>
     <e lm="win"><i>w</i><par n="w/in__vblex"/></e>
     <e lm="wait"><i>wait</i><par n="accept__vblex"/></e>
+    <e lm="wait for"><i>wait</i><par n="accept__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e>
     <e lm="wake"><i>wak</i><par n="liv/e__vblex"/></e>
     <e lm="wake up"><i>wak</i><par n="liv/e__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="walk"><i>walk</i><par n="accept__vblex"/></e>
