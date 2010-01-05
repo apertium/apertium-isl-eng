@@ -93,6 +93,12 @@ SUBSTITUTE (vblex) (vblex :0) ("greiða"ri);
 SUBSTITUTE (vblex) (vblex :0) ("leggja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("leggja"ri) (1C Dat);
 
+# "þýða" : 
+#       0:"mean"
+#       1:"translate"
+SUBSTITUTE (vblex) (vblex :0) ("þýða"ri);
+
+
 
 
 ## 

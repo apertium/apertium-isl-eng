@@ -6189,8 +6189,12 @@
 <!--<p><l>þétta<s n="vblex"/></l><r>thicken<s n="vblex"/></r></p></e>-->
 <!--<p><l>þétta<s n="vblex"/></l><r>tighten<s n="vblex"/></r></p></e>-->
 <!--<p><l>þýða<s n="vblex"/></l><r>compile<s n="vblex"/></r></p></e>-->
-<!--<p><l>þýða<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>-->
-    <e><p><l>þýða<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
+
+    <e r="RL"><p><l>þýða<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>þýða<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>þýða<s n="vblex"/><s n=":0"/></l><r>mean<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>þýða<s n="vblex"/><s n=":1"/></l><r>translate<s n="vblex"/></r></p></e>
+
     <!-- END Verbs -->
 
 
