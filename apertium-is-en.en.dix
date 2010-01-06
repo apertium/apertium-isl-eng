@@ -22202,6 +22202,7 @@
     <e lm="groin"><i>groin</i><par n="house__n"/></e>
     <e lm="ground"><i>ground</i><par n="house__n"/></e>
     <e lm="group"><i>group</i><par n="house__n"/></e>
+    <e lm="parliamentary group"><i>parliamentary<b/>group</i><par n="house__n"/></e>
     <e lm="grouping"><i>grouping</i><par n="house__n"/></e>
     <e lm="growth"><i>growth</i><par n="house__n"/></e>
     <e lm="guarantee"><i>guarantee</i><par n="house__n"/></e>
