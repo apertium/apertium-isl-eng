@@ -19625,11 +19625,11 @@
     <e lm="Estonia"><i>Estonia</i><par n="Barcelona__np"/></e>
     <e lm="Ethiopia"><i>Ethiopia</i><par n="Barcelona__np"/></e>
     <e lm="Europe"><i>Europe</i><par n="Barcelona__np"/></e>
-    <e lm="Eastern Europe"><i>Eastern<b/>Europe</i><par n="Barcelona__np"/></e>
-    <e lm="Southern Europe"><i>Southern<b/>Europe</i><par n="Barcelona__np"/></e>
-    <e lm="Northern Europe"><i>Northern<b/>Europe</i><par n="Barcelona__np"/></e>
-    <e lm="Western Europe"><i>Western<b/>Europe</i><par n="Barcelona__np"/></e>
-    <e lm="Central Europe"><i>Central<b/>Europe</i><par n="Barcelona__np"/></e>
+    <e lm="Eastern Europe"><par n="Ee"/><i>astern<b/>Europe</i><par n="Barcelona__np"/></e>
+    <e lm="Southern Europe"><par n="Ss"/><i>outhern<b/>Europe</i><par n="Barcelona__np"/></e>
+    <e lm="Northern Europe"><par n="Nn"/><i>orthern<b/>Europe</i><par n="Barcelona__np"/></e>
+    <e lm="Western Europe"><par n="Ww"/><i>estern<b/>Europe</i><par n="Barcelona__np"/></e>
+    <e lm="Central Europe"><par n="Cc"/><i>entral<b/>Europe</i><par n="Barcelona__np"/></e>
     <e lm="Eva"><i>Eva</i><par n="Mary__np"/></e>
     <e lm="Extremadura"><i>Extremadura</i><par n="Barcelona__np"/></e>
     <e lm="Fernando"><i>Fernando</i><par n="Mark__np"/></e>
@@ -22980,6 +22980,7 @@
     <e lm="method"><i>method</i><par n="house__n"/></e>
     <e lm="methodology"><i>methodolog</i><par n="bab/y__n"/></e>
     <e lm="metre"><i>metre</i><par n="house__n"/></e>
+    <e lm="square metre"><i>square<b/>metre</i><par n="house__n"/></e>
     <e lm="metropolis"><i>metropol</i><par n="analys/is__n"/></e>
     <e lm="microbe"><i>microbe</i><par n="house__n"/></e>
     <e lm="microorganism"><i>microorganism</i><par n="house__n"/></e>
