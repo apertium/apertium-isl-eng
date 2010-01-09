@@ -300,6 +300,7 @@ SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C N) (1C $$NAGD);
 
 REMOVE (imp) (NOT -1 CLB); 
 
+SELECT Inf IF (-1 ("að"ri)) (-2 ("við"ri));
 
 # Ég sé hesta
 

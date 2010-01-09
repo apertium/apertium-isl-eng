@@ -164,6 +164,7 @@
       <e>       <re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
       <e>       <re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l></l><r><s n="num"/></r></p></e>
       <e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
+      <e>       <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
 
     <e>
       <re>[0-9]+([.,][0-9]+)?</re>
@@ -1938,19 +1939,19 @@
     </pardef>
 
     <pardef n="Dutch__n">
-
+<!--
     <e>
       <p>
         <l></l>
         <r><s n="n"/><s n="sg"/></r>
       </p>
     </e>
-
+-->
 
 
     <e>
       <p>
-        <l>ies</l>
+        <l></l>
         <r><s n="n"/><s n="pl"/></r>
       </p>
     </e>
@@ -19729,6 +19730,8 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/></e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/></e>
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
+    <e lm="Wikipedia"><i>Wikipedia</i><par n="Linux__np"/></e>
+    <e lm="Icesave"><i>Icesave</i><par n="Linux__np"/></e>
     <e lm="Christ"><i>Christ</i><par n="Linux__np"/></e>
     <e lm="Linux"><i>Linux</i><par n="Linux__np"/></e>
     <e lm="Lisbon"><i>Lisbon</i><par n="Barcelona__np"/></e>
@@ -20620,6 +20623,8 @@
     <e lm="brilliant"><i>brilliant</i><par n="house__n"/></e>
     <e lm="brink"><i>brink</i><par n="house__n"/></e>
     <e lm="broadcast"><i>broadcast</i><par n="house__n"/></e>
+    <e lm="broadcaster"><i>broadcaster</i><par n="house__n"/></e>
+    <e lm="national broadcaster"><i>national<b/>broadcaster</i><par n="house__n"/></e>
     <e lm="bronze"><i>bronze</i><par n="house__n"/></e>
     <e lm="brooch"><i>brooch</i><par n="access__n"/></e>
     <e lm="brook"><i>brook</i><par n="house__n"/></e>
@@ -20757,6 +20762,7 @@
     <e lm="category"><i>categor</i><par n="bab/y__n"/></e>
     <e lm="catenary"><i>catenar</i><par n="bab/y__n"/></e>
     <e lm="catering"><i>catering</i><par n="house__n"/></e>
+    <e lm="gearing"><i>gearing</i><par n="house__n"/></e>
     <e lm="cathedral"><i>cathedral</i><par n="house__n"/></e>
     <e lm="catheter"><i>catheter</i><par n="house__n"/></e>
     <e lm="cattle"><i>cattle</i><par n="house__n"/></e>
@@ -22853,6 +22859,7 @@
     <e lm="fisherman"><i>fisherm</i><par n="m/an__n"/></e>
     <e lm="machination"><i>machination</i><par n="house__n"/></e>
     <e lm="machine"><i>machine</i><par n="house__n"/></e>
+    <e lm="washing machine"><i>washing machine</i><par n="house__n"/></e>
     <e lm="machinery"><i>machiner</i><par n="bab/y__n"/></e>
     <e lm="maduration"><i>maduration</i><par n="house__n"/></e>
     <e lm="mafia"><i>mafia</i><par n="house__n"/></e>
@@ -24669,6 +24676,7 @@
     <e lm="syrup"><i>syrup</i><par n="house__n"/></e>
     <e lm="system"><i>system</i><par n="house__n"/></e>
     <e lm="tax system"><i>tax<b/>system</i><par n="house__n"/></e>
+    <e lm="banking system"><i>banking<b/>system</i><par n="house__n"/></e>
     <e lm="tooth"><i>t</i><par n="t/ooth__n"/></e>
     <e lm="table"><i>table</i><par n="house__n"/></e>
     <e lm="tablet"><i>tablet</i><par n="house__n"/></e>

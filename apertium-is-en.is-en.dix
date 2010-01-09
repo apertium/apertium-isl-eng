@@ -127,7 +127,8 @@
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    <e><re>[0-9]+([0-9]+)?</re><p><l>˚C<s n="num"/></l><r>˚C<s n="num"/></r></p></e>
+    <e><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
+    <e><i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
 
 
@@ -3491,7 +3492,6 @@
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
 <!--<p><l>einsog<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>-->
-    <e><p><l>einsog<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>ekki<b/>fyrr<b/>en<s n="cnjsub"/></l><r>not<b/>until<s n="cnjsub"/></r></p></e>
     <e><p><l>ellegar<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>
     <e><p><l>enda<b/>þótt<s n="cnjsub"/></l><r>even<b/>though<s n="cnjsub"/></r></p></e>
@@ -3522,7 +3522,6 @@
     <e><p><l>síðan<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>til<b/>að<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e> <!-- Check this -->
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
-    <e><p><l>tilað<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e>
     <e><p><l>um<b/>leið<b/>og<s n="cnjsub"/></l><r>as<b/>soon<b/>as<s n="cnjsub"/></r></p></e>
     <e><p><l>uns<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
     <e><p><l>vegna<b/>þess<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
@@ -4313,7 +4312,7 @@
 <!--<p><l>fatta<s n="vblex"/></l><r>discover<s n="vblex"/></r></p></e>-->
 <!--<p><l>fatta<s n="vblex"/></l><r>figure<s n="vblex"/></r></p></e>-->
 <!--<p><l>fatta<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>-->
-    <e><p><l>fatta<s n="vblex"/></l><r>realize<s n="vblex"/></r></p></e>
+    <e><p><l>fatta<s n="vblex"/></l><r>realise<s n="vblex"/></r></p></e>
 <!--<p><l>fatta<s n="vblex"/></l><r>understand<s n="vblex"/></r></p></e>-->
 <!--<p><l>faðma<s n="vblex"/></l><r>cuddle<s n="vblex"/></r></p></e>-->
 <!--<p><l>faðma<s n="vblex"/></l><r>embrace<s n="vblex"/></r></p></e>-->
@@ -4328,7 +4327,7 @@
     <e><p><l>fella<s n="vblex"/></l><r>trip<s n="vblex"/></r></p></e>
 <!--<p><l>ferma<s n="vblex"/></l><r>confirm<s n="vblex"/></r></p></e>--> <!-- religious term -->
     <e><p><l>ferma<s n="vblex"/></l><r>load<s n="vblex"/></r></p></e>
-    <e><p><l>ferðast<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *ferða  -->
+    <e><p><l>ferða<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *ferða  -->
 <!--<p><l>feta<s n="vblex"/></l><r>follow<s n="vblex"/></r></p></e>-->
 <!--<p><l>feta<s n="vblex"/></l><r>foot<s n="vblex"/></r></p></e>-->
 <!--<p><l>feta<s n="vblex"/></l><r>step<s n="vblex"/></r></p></e>-->
@@ -4586,7 +4585,7 @@
 <!--<p><l>grípa<s n="vblex"/></l><r>sieze<s n="vblex"/></r></p></e>-->
 <!--<p><l>grípa<s n="vblex"/></l><r>snatch<s n="vblex"/></r></p></e>-->
     <e><p><l>gá<s n="vblex"/></l><r>check<s n="vblex"/></r></p></e>
-    <e><p><l>gægjast<s n="vblex"/></l><r>peek<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *gægja  -->
+    <e><p><l>gægja<s n="vblex"/></l><r>peek<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *gægja  -->
 <!--<p><l>gægjast<s n="vblex"/></l><r>peep<s n="vblex"/></r></p></e>-->
     <e><p><l>gæta<s n="vblex"/></l><r>guard<s n="vblex"/></r></p></e>
 <!--<p><l>gæta<s n="vblex"/></l><r>mind<s n="vblex"/></r></p></e>-->
@@ -4660,7 +4659,7 @@
     <e><p><l>henta<s n="vblex"/></l><r>suit<s n="vblex"/></r></p></e>
 <!--<p><l>heppnast<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>-->
 <!--<p><l>heppnast<s n="vblex"/></l><r>pull<g><b/>off</g><s n="vblex"/></r></p></e>-->
-    <e><p><l>heppnast<s n="vblex"/></l><r>succeed<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *heppna  -->
+    <e><p><l>heppna<s n="vblex"/></l><r>succeed<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *heppna  -->
 <!--<p><l>heppnast<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>-->
     <e><p><l>herja<s n="vblex"/></l><r>campaign<s n="vblex"/></r></p></e>
     <e><p><l>herma<s n="vblex"/></l><r>imitate<s n="vblex"/></r></p></e>
@@ -4799,7 +4798,7 @@
 <!--<p><l>huga<s n="vblex"/></l><r>look<g><b/>at</g><s n="vblex"/></r></p></e>-->
 <!--<p><l>huga<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e>-->
 <!--<p><l>hugkvæmast<s n="vblex"/></l><r>discover<s n="vblex"/></r></p></e>-->
-    <e><p><l>hugkvæmast<s n="vblex"/></l><r>realize<s n="vblex"/></r></p></e>
+    <e><p><l>hugkvæmast<s n="vblex"/></l><r>realise<s n="vblex"/></r></p></e>
 <!--<p><l>hugkvæmast<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>-->
 <!--<p><l>hugleiða<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>-->
     <e><p><l>hugleiða<s n="vblex"/></l><r>contemplate<s n="vblex"/></r></p></e>
@@ -4849,7 +4848,7 @@
 <!--<p><l>hífa<s n="vblex"/></l><r>lift<s n="vblex"/></r></p></e>-->
 <!--<p><l>hífa<s n="vblex"/></l><r>pull<s n="vblex"/></r></p></e>-->
     <e><p><l>hósta<s n="vblex"/></l><r>cough<s n="vblex"/></r></p></e>
-    <e><p><l>höggva<b/>í<b/>spað<s n="vblex"/></l><r>cut<g><b/>to<b/>pieces</g><s n="vblex"/></r></p></e>
+    <e><p><l>höggva<g><b/>í<b/>spað</g><s n="vblex"/></l><r>cut<g><b/>to<b/>pieces</g><s n="vblex"/></r></p></e>
 <!--<p><l>hörfa<s n="vblex"/></l><r>fall<g><b/>back</g><s n="vblex"/></r></p></e>-->
     <e><p><l>hörfa<s n="vblex"/></l><r>retreat<s n="vblex"/></r></p></e>
     <e><p><l>hýsa<s n="vblex"/></l><r>host<s n="vblex"/></r></p></e>
@@ -5411,7 +5410,7 @@
     <e><p><l>segja<g><b/>upp</g><s n="vblex"/></l><r>lay<g><b/>off</g><s n="vblex"/></r></p></e>
     <e><p><l>segja<s n="vblex"/></l><r>say<s n="vblex"/></r></p></e>
 <!--<p><l>seilast<s n="vblex"/></l><r>grasp<g><b/>at</g><s n="vblex"/></r></p></e>--> <!-- NB this verb does not exist as lemma? i.e. *seila  -->
-    <e><p><l>seilast<s n="vblex"/></l><r>reach<g><b/>for</g><s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *seila  -->
+    <e><p><l>seila<s n="vblex"/></l><r>reach<g><b/>for</g><s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *seila  -->
     <e><p><l>sekta<s n="vblex"/></l><r>fine<s n="vblex"/></r></p></e>
     <e><p><l>selja<s n="vblex"/></l><r>sell<s n="vblex"/></r></p></e>
     <e><p><l>semja<s n="vblex"/></l><r>compose<s n="vblex"/></r></p></e>
@@ -5625,6 +5624,7 @@
 <!--<p><l>staulast<s n="vblex"/></l><r>lurch<s n="vblex"/></r></p></e>-->
     <e><p><l>staulast<s n="vblex"/></l><r>scuffle<s n="vblex"/></r></p></e>
 <!--<p><l>staulast<s n="vblex"/></l><r>shamble<s n="vblex"/></r></p></e>-->
+<!--<p><l>staulast<s n="vblex"/></l><r>totter<s n="vblex"/></r></p></e>-->
 <!--<p><l>staulast<s n="vblex"/></l><r>teeter<s n="vblex"/></r></p></e>-->
 <!--<p><l>staulast<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>-->
     <e><p><l>staðnæmast<s n="vblex"/></l><r>halt<s n="vblex"/></r></p></e>
@@ -7883,7 +7883,9 @@
     <e><p><l>hor<s n="n"/><s n="m"/></l><r>booger<s n="n"/></r></p></e>
     <!--<e><p><l>hor<s n="n"/><s n="m"/></l><r>snot<s n="n"/></r></p></e>-->
     <!--<e><p><l>hor<s n="n"/><s n="m"/></l><r>emaciation<s n="n"/></r></p></e>-->
-    <e><p><l>horfur<s n="n"/><s n="f"/></l><r>prognosis<s n="n"/></r></p></e>
+    <e r="LR"><p><l>horfur<s n="n"/><s n="f"/><s n="pl"/></l><r>prognosis<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>horfur<s n="n"/><s n="f"/><s n="pl"/></l><r>prognosis<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>horfur<s n="n"/><s n="f"/><s n="pl"/></l><r>prognosis<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>hormón<s n="n"/><s n="nt"/></l><r>hormone<s n="n"/></r></p></e>
     <!--<e><p><l>horn<s n="n"/><s n="nt"/></l><r>angle<s n="n"/></r></p></e>-->
     <e><p><l>horn<s n="n"/><s n="nt"/></l><r>corner<s n="n"/></r></p></e>
@@ -11344,17 +11346,18 @@
     <!-- TODO:  Fran insert additions here, Martha lightly proofread :) -->
     <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( ... Why the frown?  'Breti' is 'British person', we could change it to that if it makes you happier ;) ~~ I don't believe in 'British' as a people / nationality! -->
     <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>municipal<b/>manager<s n="n"/></r></p></e>  <!-- ? can the title be 'mayor' if it is a small rural town? -->
+    <e><p><l>Hollendingur<s n="n"/><s n="m"/></l><r>Dutch<s n="n"/></r></p></e> 
 
 <!--    <e><p><l>kínverji<s n="n"/><s n="m"/></l><r>Chinese<b/>person<s n="n"/></r></p></e> -->
     <e><p><l>kínverji<s n="n"/><s n="m"/></l><r>Chinese<s n="n"/></r></p></e>
 
-    <e><p><l>Norðurland<s n="n"/><s n="nt"/></l><r>Northern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Suðurland<s n="n"/><s n="nt"/></l><r>Southern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Austurland<s n="n"/><s n="nt"/></l><r>Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Vesturland<s n="n"/><s n="nt"/></l><r>Western<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Norðausturland<s n="n"/><s n="nt"/></l><r>North-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Suðausturland<s n="n"/><s n="nt"/></l><r>South-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
-    <e><p><l>Suðvesturland<s n="n"/><s n="nt"/></l><r>South-Western<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>norðurland<s n="n"/><s n="nt"/></l><r>Northern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>suðurland<s n="n"/><s n="nt"/></l><r>Southern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>austurland<s n="n"/><s n="nt"/></l><r>Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>vesturland<s n="n"/><s n="nt"/></l><r>Western<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>norðausturland<s n="n"/><s n="nt"/></l><r>North-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>suðausturland<s n="n"/><s n="nt"/></l><r>South-Eastern<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
+    <e><p><l>suðvesturland<s n="n"/><s n="nt"/></l><r>South-Western<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
     <e><p><l>Þjóðleikhús<s n="n"/><s n="nt"/></l><r>The<b/>National<b/>Theatre<s n="n"/></r></p></e> <!-- np ? -->
     <e><p><l>Ríkisútvarp<s n="n"/><s n="nt"/></l><r>The<b/>State<b/>Radio<s n="n"/></r></p></e>  <!-- np ? -->
     <e><p><l>framsóknarflokkur<s n="n"/><s n="m"/></l><r>progressive<b/>party<s n="n"/></r></p></e>
@@ -11714,6 +11717,7 @@
     <e><p><l>þingkosning<s n="n"/><s n="f"/></l><r>parliamentary<b/>election<s n="n"/></r></p></e>    
     <e><p><l>þjóðflokkur<s n="n"/><s n="m"/></l><r>tribe<s n="n"/></r></p></e>    
     <e><p><l>þykkt<s n="n"/><s n="f"/></l><r>thickness<s n="n"/></r></p></e>    
+    <e><p><l>skuldsetning<s n="n"/><s n="f"/></l><r>gearing<s n="n"/></r></p></e> <!-- eco. term -->
 
 
     <e><p><l>lögreglustjóri<s n="n"/><s n="m"/></l><r>chief<g><b/>of<b/>police</g><s n="n"/></r></p></e>
@@ -11761,6 +11765,7 @@
     <e><p><l>kvendýr<s n="n"/><s n="f"/></l><r>female<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
+    <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
 
     <e r="RL"><p><l>útland<s n="n"/><s n="nt"/><s n="GD"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
@@ -11840,6 +11845,7 @@
     <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
 
+    <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
 
 
 <!-- END TODO -->
