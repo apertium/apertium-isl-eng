@@ -11750,6 +11750,7 @@
     <e><p><l>víkingur<s n="n"/><s n="m"/></l><r>viking<s n="n"/></r></p></e> 
     <e><p><l>ungmenni<s n="n"/><s n="nt"/></l><r>young<b/>man<s n="n"/></r></p></e> 
     <e><p><l>umsókn<s n="n"/><s n="f"/></l><r>application<s n="n"/></r></p></e> 
+    <e><p><l>vakt<s n="n"/><s n="f"/></l><r>watch<s n="n"/></r></p></e>  
     <e><p><l>tilstilli<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
     <e><p><l>kvíða<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e> 
     <e><p><l>þingflokkur<s n="n"/><s n="m"/></l><r>parliamentary<b/>group<s n="n"/></r></p></e>
@@ -11760,12 +11761,16 @@
     <e><p><l>myndun<s n="n"/><s n="f"/></l><r>development<s n="n"/></r></p></e> 
     <!--<e><p><l>myndun<s n="n"/><s n="f"/></l><r>formation<s n="n"/></r></p></e> -->
     <e><p><l>spá<s n="n"/><s n="f"/></l><r>forecast<s n="n"/></r></p></e>
+    <e><p><l>ábending<s n="n"/><s n="f"/></l><r>comment<s n="n"/></r></p></e>
     <e><p><l>meðlimur<s n="n"/><s n="m"/></l><r>member<s n="n"/></r></p></e>
+    <e><p><l>bankamaður<s n="n"/><s n="m"/></l><r>banker<s n="n"/></r></p></e>
     <e><p><l>karldýr<s n="n"/><s n="m"/></l><r>male<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>kvendýr<s n="n"/><s n="f"/></l><r>female<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
+    <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
+    <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
 
     <e r="RL"><p><l>útland<s n="n"/><s n="nt"/><s n="GD"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
     <e r="LR"><p><l>útland<s n="n"/><s n="nt"/><s n="sg"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
@@ -11794,6 +11799,7 @@
 <!--    <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>set<g><b/>off</g><s n="vblex"/></r></p></e>-->
     <e><p><l>hefja<g><b/>viðræður</g><s n="vblex"/></l><r>start<g><b/>talks</g><s n="vblex"/></r></p></e>
     <e><p><l>bíða<g><b/>eftir</g><s n="vblex"/></l><r>wait<g><b/>for</g><s n="vblex"/></r></p></e>
+    <e><p><l>vinna<g><b/>a<b/>vöktum</g><s n="vblex"/></l><r>work<g><b/>shifts</g><s n="vblex"/></r></p></e>
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
@@ -11844,6 +11850,7 @@
     <e><p><l>Húsavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Húsavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
 
