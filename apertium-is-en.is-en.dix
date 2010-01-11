@@ -11451,6 +11451,7 @@
     <e><p><l>fjörlegur<s n="adj"/></l><r>energetic<s n="adj"/></r></p></e>
     <e><p><l>frjálslegur<s n="adj"/></l><r>outgoing<s n="adj"/></r></p></e>
     <e><p><l>kunnuglegur<s n="adj"/></l><r>familiar<s n="adj"/></r></p></e>
+    <e><p><l>ísraelskur<s n="adj"/></l><r>Israeli<s n="adj"/></r></p></e>
     <e><p><l>forvitnilegur<s n="adj"/></l><r>interesting<s n="adj"/></r></p></e>
     <e><p><l>rómanskur<s n="adj"/><s n=":0"/></l><r>Romance<s n="adj"/></r></p></e>
     <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
@@ -11806,7 +11807,6 @@
     <e><p><l>já<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
     <e><p><l>takk<b/>samt<s n="ij"/></l><r>thanks<b/>anyway<s n="ij"/></r></p></e>
 
-    <e><p><l>samfylking<s n="n"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="n"/></r></p></e> <!-- NP.AL? -->
     <e><p><l>seðlabanki<s n="n"/><s n="m"/></l><r>central<b/>bank<s n="n"/></r></p></e> <!-- NP.AL? -->
 
     <e><p><l>Sovétríki<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></l><r>Soviet<b/>Union<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -11853,6 +11853,8 @@
     <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e> 
+    <e><p><l>Alþýðuflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Social<b/>Democratic<b/>Party<s n="np"/><s n="org"/></r></p></e>
 
 
 <!-- END TODO -->

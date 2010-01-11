@@ -19733,6 +19733,8 @@
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
     <e lm="Wikipedia"><i>Wikipedia</i><par n="Linux__np"/></e>
     <e lm="Icesave"><par n="Ii"/><i>cesave</i><par n="Linux__np"/></e>
+    <e lm="Social Democratic Alliance"><par n="Ss"/><i>ocial<b/>Democratic<b/>Alliance</i><par n="Wikimedia__np"/></e>
+    <e lm="Social Democratic Party"><par n="Ss"/><i>ocial<b/>Democratic<b/>Party</i><par n="Wikimedia__np"/></e>
     <e lm="Christ"><i>Christ</i><par n="Linux__np"/></e>
     <e lm="Linux"><i>Linux</i><par n="Linux__np"/></e>
     <e lm="Lisbon"><i>Lisbon</i><par n="Barcelona__np"/></e>
@@ -20003,9 +20005,9 @@
 
     <e lm="German"><i>German</i><par n="house__n"/></e>
     <e lm="Greek"><i>Greek</i><par n="house__n"/></e>
-    <e lm="Irish"><i>Irish</i><par n="politics__n"/></e>
-    <e lm="Israeli"><i>Israeli</i><par n="house__n"/></e>
-    <e lm="Italian"><i>Italian</i><par n="house__n"/></e>
+    <e lm="Irish"><par n="Ii"/><i>rish</i><par n="politics__n"/></e>
+    <e lm="Israeli"><par n="Ii"/><i>sraeli</i><par n="house__n"/></e>
+    <e lm="Italian"><par n="Ii"/><i>talian</i><par n="house__n"/></e>
     <e lm="Japanese"><i>Japanese</i><par n="politics__n"/></e>
     <e lm="Korean"><i>Korean</i><par n="house__n"/></e>
     <e lm="Latin"><i>Latin</i><par n="house__n"/></e>
@@ -23477,6 +23479,7 @@
     <e lm="penis"><i>pen</i><par n="analys/is__n"/></e>
     <e lm="pen"><i>pen</i><par n="house__n"/></e>
     <e lm="penalty"><i>penalt</i><par n="bab/y__n"/></e>
+    <e lm="casualty"><i>casualt</i><par n="bab/y__n"/></e>
     <e lm="penance"><i>penance</i><par n="house__n"/></e>
     <e lm="pencil"><i>pencil</i><par n="house__n"/></e>
     <e lm="pendant"><i>pendant</i><par n="house__n"/></e>
@@ -24567,6 +24570,7 @@
     <e lm="strengthening"><i>strengthening</i><par n="house__n"/></e>
     <e lm="stress"><i>stress</i><par n="access__n"/></e>
     <e lm="strike"><i>strike</i><par n="house__n"/></e>
+    <e lm="airstrike"><i>airstrike</i><par n="house__n"/></e>
     <e lm="string"><i>string</i><par n="house__n"/></e>
     <e lm="strip"><i>strip</i><par n="house__n"/></e>
     <e lm="stripe"><i>stripe</i><par n="house__n"/></e>
@@ -24712,6 +24716,7 @@
     <e lm="teacher"><i>teacher</i><par n="house__n"/></e>
     <e lm="teaching"><i>teaching</i><par n="house__n"/></e>
     <e lm="team"><i>team</i><par n="house__n"/></e>
+    <e lm="national team"><i>national<b/>team</i><par n="house__n"/></e>
     <e lm="tear"><i>tear</i><par n="house__n"/></e>
     <e lm="technician"><i>technician</i><par n="house__n"/></e>
     <e lm="technology"><i>technolog</i><par n="bab/y__n"/></e>
@@ -25232,8 +25237,8 @@
     <e lm="homosexual"><i>homosexual</i><par n="house__n"/></e>
     <e lm="Honduran"><i>Honduran</i><par n="house__n"/></e>
     <e lm="impressionist"><i>impressionist</i><par n="house__n"/></e>
-    <e lm="Indian"><i>Indian</i><par n="house__n"/></e>
-    <e lm="Icelandic"><i>Icelandic</i><par n="house__n"/></e>
+    <e lm="Indian"><par n="Ii"/><i>ndian</i><par n="house__n"/></e>
+    <e lm="Icelandic"><par n="Ii"/><i>celandic</i><par n="house__n"/></e>
     <e lm="Jamaican"><i>Jamaican</i><par n="house__n"/></e>
     <e lm="Kenyan"><i>Kenyan</i><par n="house__n"/></e>
     <e lm="Latvian"><i>Latvian</i><par n="house__n"/></e>
@@ -31427,13 +31432,6 @@
     <e lm="I/O"><i>I/O</i><par n="BBC__n"/></e>
     <e lm="I/O/S"><i>I/O/S</i><par n="BBC__n"/></e>
     <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IA"><i>IA</i><par n="BBC__n"/></e>
-    <e lm="IAA"><i>IAA</i><par n="BBC__n"/></e>
     <e lm="IAA"><i>IAA</i><par n="BBC__n"/></e>
     <e lm="IAAC"><i>IAAC</i><par n="BBC__n"/></e>
     <e lm="IAB"><i>IAB</i><par n="BBC__n"/></e>
@@ -31472,23 +31470,10 @@
     <e lm="IBT"><i>IBT</i><par n="BBC__n"/></e>
     <e lm="IBW"><i>IBW</i><par n="BBC__n"/></e>
     <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
-    <e lm="IC"><i>IC</i><par n="BBC__n"/></e>
     <e lm="IC FORM"><i>IC FORM</i><par n="BBC__n"/></e>
     <e lm="IC-OPC"><i>IC-OPC</i><par n="BBC__n"/></e>
     <e lm="IC/FC"><i>IC/FC</i><par n="BBC__n"/></e>
     <e lm="IC/ICP"><i>IC/ICP</i><par n="BBC__n"/></e>
-    <e lm="ICA"><i>ICA</i><par n="BBC__n"/></e>
-    <e lm="ICA"><i>ICA</i><par n="BBC__n"/></e>
-    <e lm="ICA"><i>ICA</i><par n="BBC__n"/></e>
-    <e lm="ICA"><i>ICA</i><par n="BBC__n"/></e>
     <e lm="ICA"><i>ICA</i><par n="BBC__n"/></e>
     <e lm="ICAIR"><i>ICAIR</i><par n="BBC__n"/></e>
     <e lm="ICAO"><i>ICAO</i><par n="BBC__n"/></e>
