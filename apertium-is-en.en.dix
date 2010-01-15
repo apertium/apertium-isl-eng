@@ -19742,6 +19742,7 @@
     <e lm="Lleida"><i>Lleida</i><par n="Barcelona__np"/></e>
     <e lm="Lluís"><i>Lluís</i><par n="Mark__np"/></e>
     <e lm="London"><i>London</i><par n="Barcelona__np"/></e>
+    <e lm="Port-au-Prince"><i>Port-au-Prince</i><par n="Barcelona__np"/></e>
     <e lm="Álftanes"><i>Álftanes</i><par n="Barcelona__np"/></e>
     <e lm="Copenhagen"><i>Copenhagen</i><par n="Barcelona__np"/></e>
     <e lm="Lorena"><i>Lorena</i><par n="Mary__np"/></e>
@@ -24037,6 +24038,7 @@
     <e lm="requirement"><i>requirement</i><par n="house__n"/></e>
     <e lm="rescission"><i>rescission</i><par n="house__n"/></e>
     <e lm="rescue"><i>rescue</i><par n="house__n"/></e>
+    <e lm="rescuer"><i>rescuer</i><par n="house__n"/></e>
     <e lm="research"><i>research</i><par n="access__n"/></e>
     <e lm="researcher"><i>researcher</i><par n="house__n"/></e>
     <e lm="resentment"><i>resentment</i><par n="house__n"/></e>
@@ -24524,6 +24526,7 @@
     <e lm="statesman"><i>statesm</i><par n="m/an__n"/></e>
     <e lm="station"><i>station</i><par n="house__n"/></e>
     <e lm="petrol station"><i>petrol<b/>station</i><par n="house__n"/></e>
+    <e lm="police station"><i>police<b/>station</i><par n="house__n"/></e>
     <e lm="statue"><i>statue</i><par n="house__n"/></e>
     <e lm="status"><i>status</i><par n="access__n"/></e>
     <e lm="statute"><i>statute</i><par n="house__n"/></e>

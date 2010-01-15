@@ -3950,6 +3950,7 @@
     <e><p><l>Lettland<s n="np"/><s n="top"/><s n="nt"/></l><r>Latvia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Litháen<s n="np"/><s n="top"/><s n="nt"/></l><r>Lithuania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Álftanes<s n="np"/><s n="top"/><s n="nt"/></l><r>Álftanes<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbería<s n="np"/><s n="top"/><s n="nt"/></l><r>Liberia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbýa<s n="np"/><s n="top"/><s n="nt"/></l><r>Libya<s n="np"/><s n="top"/></r></p></e>
@@ -4810,7 +4811,7 @@
 <!--<p><l>hunsa<s n="vblex"/></l><r>neglect<s n="vblex"/></r></p></e>-->
     <e><p><l>hvarfla<s n="vblex"/></l><r>occur<s n="vblex"/></r></p></e>
     <e><p><l>hverfa<s n="vblex"/></l><r>disappear<s n="vblex"/></r></p></e>
-    <e><p><l>hverfagæsla<s n="vblex"/></l><r>neighborhood<g><b/>watch</g><s n="vblex"/></r></p></e>
+    <e><p><l>hverfagæsla<s n="vblex"/></l><r>neighbourhood<b/>watch<s n="vblex"/></r></p></e>
     <e><p><l>hvessa<s n="vblex"/></l><r>get<g><b/>windy</g><s n="vblex"/></r></p></e>
 <!--<p><l>hvessa<s n="vblex"/></l><r>sharpen<s n="vblex"/></r></p></e>-->
     <e><p><l>hvetja<s n="vblex"/></l><r>encourage<s n="vblex"/></r></p></e>
@@ -7988,7 +7989,7 @@
     <e><p><l>hvellur<s n="n"/><s n="m"/></l><r>bang<s n="n"/></r></p></e>
     <!--<e><p><l>hverfa<s n="v"/><s n="f"/></l><r>disappear<s n="v"/></r></p></e>--> <!-- verb -->
     <!--<e><p><l>hverfi<s n="n"/><s n="nt"/></l><r>district<s n="n"/></r></p></e>-->
-    <e><p><l>hverfi<s n="n"/><s n="nt"/></l><r>neighborhood<s n="n"/></r></p></e>
+    <e><p><l>hverfi<s n="n"/><s n="nt"/></l><r>neighbourhood<s n="n"/></r></p></e>
     <e><p><l>hvirfilbylur<s n="n"/><s n="m"/></l><r>tornado<s n="n"/></r></p></e>
     <!--<e><p><l>hvirfilbylur<s n="n"/><s n="m"/></l><r>whirlwind<s n="n"/></r></p></e>-->
     <e><p><l>hvolpur<s n="n"/><s n="m"/></l><r>puppy<s n="n"/></r></p></e> <!-- (young dog) -->
@@ -11654,6 +11655,7 @@
     <e><p><l>ofsókn<s n="n"/><s n="f"/></l><r>persecution<s n="n"/></r></p></e>    
     <e><p><l>óþarfi<s n="n"/><s n="m"/></l><r>luxury<s n="n"/></r></p></e>    
     <e><p><l>Persi<s n="n"/><s n="m"/></l><r>Persian<s n="n"/></r></p></e>    
+    <e><p><l>líðan<s n="n"/><s n="f"/></l><r>health<s n="n"/></r></p></e>    
     <e><p><l>pláss<s n="n"/><s n="nt"/></l><r>space<s n="n"/></r></p></e>    
     <e><p><l>Portúgali<s n="n"/><s n="m"/></l><r>Portuguese<s n="n"/></r></p></e>    
     <e><p><l>prent<s n="n"/><s n="nt"/></l><r>print<s n="n"/></r></p></e>    
@@ -11757,6 +11759,7 @@
     <e><p><l>þingflokkur<s n="n"/><s n="m"/></l><r>parliamentary<b/>group<s n="n"/></r></p></e>
     <e><p><l>löggjöf<s n="n"/><s n="f"/></l><r>legislation<s n="n"/></r></p></e> 
     <e><p><l>arfleifð<s n="n"/><s n="f"/></l><r>legacy<s n="n"/></r></p></e> 
+    <e><p><l>björgunarfólk<s n="n"/><s n="nt"/><s n="sg"/></l><r>rescuer<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>uppnám<s n="n"/><s n="nt"/></l><r>chaos<s n="n"/></r></p></e>
     <e><p><l>gát<s n="n"/><s n="f"/></l><r>carefulness<s n="n"/></r></p></e> 
     <e><p><l>myndun<s n="n"/><s n="f"/></l><r>development<s n="n"/></r></p></e> 
