@@ -32,7 +32,7 @@ LIST Participle = (pp) (supn);
 LIST Inf = (inf) ;
 LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
-LIST VerbAux = (vaux) (vbhaver) (vbser);
+LIST VerbAux = (vaux) (vbhaver) (vbser) ("verða"ri vblex); ## check verða = aux ?
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) (vbser) (vbhaver) (vaux);
@@ -331,7 +331,9 @@ REMOVE VerbFin + (p2) IF (NOT -1* (prn p2) BARRIER CLB) (NOT 1* (prn p2) BARRIER
 SELECT ("hafa"ri) + VerbFin IF (1C* Participle BARRIER PRE-N);
 
 #100 breskir hermenn hafa fallið í Afganistan
+#Við vorum að vakna og nú tekur við fundur þar sem farið verður yfir verkefni dagsins
 SELECT Participle IF (-1C VerbAux);
+SELECT Participle IF (1C VerbAux);
 
 #Himinninn er blár
 REMOVE Rel IF (0 ("<er>"ri)) (NOT -1* VerbFin BARRIER CLB) (NOT 1* VerbFin BARRIER CLB);
