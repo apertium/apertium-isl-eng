@@ -10819,11 +10819,11 @@
     <!--<e><p><l>ílát<s n="n"/><s n="nt"/></l><r>vessel<s n="n"/></r></p></e>-->
     <e><p><l>ímynd<s n="n"/><s n="f"/></l><r>image<s n="n"/></r></p></e>
     <e><p><l>ímyndunarveiki<s n="n"/><s n="f"/></l><r>hypochondria<s n="n"/></r></p></e>
-    <e><p><l>ís<s n="n"/><s n="m"/></l><r>ice<b/>cream<s n="n"/></r></p></e>
-    <!--<e><p><l>ís<s n="n"/><s n="m"/></l><r>ice<s n="n"/></r></p></e>-->
+    <e><p><l>ís<s n="n"/><s n="m"/></l><r>ice<s n="n"/></r></p></e>
+    <!--<e><p><l>ís<s n="n"/><s n="m"/></l><r>ice<b/>cream<s n="n"/></r></p></e>-->
     <e><p><l>ísbjörn<s n="n"/><s n="m"/></l><r>polar<b/>bear<s n="n"/></r></p></e>
     <e><p><l>íslenska<s n="n"/><s n="f"/></l><r>Icelandic<s n="n"/></r></p></e> <!-- (language) -->
-    <e><p><l>ísmoli<s n="n"/><s n="m"/></l><r>ice<b/>cube<s n="n"/></r></p></e>
+    <e><p><l>ísmoli<s n="n"/><s n="m"/></l><r>ice<b/>cube<s n="n"/></r></p></e> <!-- (frozen water) -->
     <e><p><l>ísskápur<s n="n"/><s n="m"/></l><r>fridge<s n="n"/></r></p></e> <!-- (refrigerator) -->
     <e><p><l>ístað<s n="n"/><s n="nt"/></l><r>stirrup<s n="n"/></r></p></e> <!-- (riding) -->
     <e><p><l>ítalska<s n="n"/><s n="f"/></l><r>Italian<s n="n"/></r></p></e> <!-- (language) -->
