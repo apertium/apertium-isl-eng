@@ -357,6 +357,10 @@
       <e r="LR"><i>U</i></e>
       <e r="RL"><p><l>U</l><r>u</r></p></e>
     </pardef>
+    <pardef n="Vv">
+      <e r="LR"><i>V</i></e>
+      <e r="RL"><p><l>V</l><r>v</r></p></e>
+    </pardef>
     <pardef n="Ww">
       <e r="LR"><i>W</i></e>
       <e r="RL"><p><l>W</l><r>w</r></p></e>
@@ -20026,10 +20030,10 @@
     <e lm="Sumerian"><par n="Ss"/><i>umerian</i><par n="house__n"/></e>
     <e lm="Swede"><par n="Ss"/><i>wede</i><par n="house__n"/></e>
     <e lm="Swiss"><par n="Ss"/><i>wiss</i><par n="politics__n"/></e>
-    <e lm="Dane"><i>Dane</i><par n="house__n"/></e>
-    <e lm="Briton"><i>Briton</i><par n="house__n"/></e>
-    <e lm="Englishman"><i>Englishm</i><par n="m/an__n"/></e>
-    <e lm="Valencian"><i>Valencian</i><par n="house__n"/></e>
+    <e lm="Dane"><par n="Dd"/><i>ane</i><par n="house__n"/></e>
+    <e lm="Briton"><par n="Bb"/><i>riton</i><par n="house__n"/></e>
+    <e lm="Englishman"><par n="Ee"/><i>nglishm</i><par n="m/an__n"/></e>
+    <e lm="Valencian"><par n="Vv"/><i>alencian</i><par n="house__n"/></e>
 
 
     <e lm="Turkish"><i>Turkish</i><par n="politics__n"/></e>
