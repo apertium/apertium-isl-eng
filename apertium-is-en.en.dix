@@ -1885,9 +1885,6 @@
         <r><s n="rel"/><s n="adv"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
     <pardef n="'s__gen">
@@ -1898,9 +1895,6 @@
         <r><s n="gen"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
     <pardef n="hello__ij">
@@ -1911,9 +1905,6 @@
         <r><s n="ij"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
     <pardef n="east__n">
@@ -1924,9 +1915,6 @@
         <r><s n="n"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
     <pardef n="personnel__n">
@@ -20037,6 +20025,10 @@
 
 
     <e lm="Turkish"><i>Turkish</i><par n="politics__n"/></e>
+
+    <!-- TODO: Letters, check this -->
+    <e lm="b"><i>b</i><par n="house__n"/></e>
+    <e lm="c"><i>c</i><par n="house__n"/></e> 
 
     <e lm="abandonment"><i>abandonment</i><par n="house__n"/></e>
     <e lm="abbot"><i>abbot</i><par n="house__n"/></e>
