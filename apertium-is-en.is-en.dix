@@ -6,6 +6,7 @@
     <sdef n="np" /> 
     <sdef n="ij" /> 
     <sdef n="num" /> 
+    <sdef n="acr" /> 
     <sdef n="adv" /> 
     <sdef n="cnj" /> 
     <sdef n="cnjcoo" /> 
@@ -11857,6 +11858,8 @@
     <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e> 
     <e><p><l>Alþýðuflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Social<b/>Democratic<b/>Party<s n="np"/><s n="org"/></r></p></e>
+
+    <e><p><l>RÚV<s n="n"/><s n="acr"/><s n="nt"/></l><r>RÚV<s n="n"/><s n="acr"/></r></p></e>
 
 
 <!-- END TODO -->

@@ -3116,16 +3116,12 @@
     </pardef>
 
     <pardef n="BBC__n">
-
     <e>
       <p>
         <l></l>
         <r><s n="n"/><s n="acr"/><s n="sg"/></r>
       </p>
     </e>
-
-
-
     </pardef>
 
     <pardef n="United_Nations__np">
@@ -25580,6 +25576,7 @@
 
 
 	
+    <e lm="RÚV"><i>RÚV</i><par n="BBC__n"/></e>
     <e lm="BBC"><i>BBC</i><par n="BBC__n"/></e>
     <e lm="CD"><i>CD</i><par n="BBC__n"/></e>
     <e lm="CDC"><i>CDC</i><par n="BBC__n"/></e>
