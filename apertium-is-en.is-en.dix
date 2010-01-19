@@ -11120,7 +11120,7 @@
     <e><p><l>nasisti<s n="n"/><s n="m"/></l><r>Nazi<s n="n"/></r></p></e>
     <e><p><l>suðurhluti<s n="n"/><s n="m"/></l><r>south<s n="n"/></r></p></e> <!-- south part -->
     <e><p><l>austurhluti<s n="n"/><s n="m"/></l><r>east<s n="n"/></r></p></e> <!-- east part -->
-    <e><p><l>bæjarfulltrúi<s n="n"/><s n="m"/></l><r>councilman<s n="n"/></r></p></e> 
+    <e><p><l>bæjarfulltrúi<s n="n"/><s n="m"/></l><r>councillor<s n="n"/></r></p></e> 
     <e><p><l>stíll<s n="n"/><s n="m"/></l><r>style<s n="n"/></r></p></e>
     <e><p><l>klár<s n="n"/><s n="m"/></l><r>workhorse<s n="n"/></r></p></e>
     <e><p><l>dollari<s n="n"/><s n="m"/></l><r>dollar<s n="n"/></r></p></e>
@@ -11199,7 +11199,7 @@
     <!--<e><p><l>átak<s n="n"/><s n="nt"/></l><r>force<s n="n"/></r></p></e>-->
     <e><p><l>bakgrunnur<s n="n"/><s n="m"/></l><r>background<s n="n"/></r></p></e>
     <!--<e><p><l>borgarfulltrúi<s n="n"/><s n="m"/></l><r>town<b/>representative<s n="n"/></r></p></e>-->
-    <e><p><l>borgarfulltrúi<s n="n"/><s n="m"/></l><r>councilman<s n="n"/></r></p></e>
+    <e><p><l>borgarfulltrúi<s n="n"/><s n="m"/></l><r>councillor<s n="n"/></r></p></e>
     <e><p><l>borgarstjórn<s n="n"/><s n="f"/></l><r>city<b/>council<s n="n"/></r></p></e>
     <e><p><l>býsn<s n="n"/><s n="f"/></l><r>wonder<s n="n"/></r></p></e>
     <!--<e><p><l>býsn<s n="n"/><s n="f"/></l><r>load<s n="n"/></r></p></e>-->
