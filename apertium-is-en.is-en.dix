@@ -4462,9 +4462,9 @@
 <!--<p><l>fölna<s n="vblex"/></l><r>faint<s n="vblex"/></r></p></e>-->
 <!--<p><l>fölna<s n="vblex"/></l><r>pale<s n="vblex"/></r></p></e>-->
 <!--<p><l>fölna<s n="vblex"/></l><r>whiten<s n="vblex"/></r></p></e>-->
-    <e><p><l>gagnrýna<s n="vblex"/></l><r>criticize<s n="vblex"/></r></p></e>
+    <e><p><l>gagnrýna<s n="vblex"/></l><r>criticise<s n="vblex"/></r></p></e>
 <!--<p><l>gala<s n="vblex"/></l><r>cackle<s n="vblex"/></r></p></e>-->
-    <e><p><l>gala<s n="vblex"/></l><r>crow,<s n="vblex"/></r></p></e>
+    <e><p><l>gala<s n="vblex"/></l><r>crow<s n="vblex"/></r></p></e>
 <!--<p><l>gala<s n="vblex"/></l><r>cry<s n="vblex"/></r></p></e>-->
     <e><p><l>ganga<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
 <!--<p><l>ganga<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>-->
@@ -4609,7 +4609,7 @@
 <!--<p><l>hagga<s n="vblex"/></l><r>shift<s n="vblex"/></r></p></e>-->
 <!--<p><l>hagræða<s n="vblex"/></l><r>adjust<s n="vblex"/></r></p></e>-->
 <!--<p><l>hagræða<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>-->
-    <e><p><l>hagræða<s n="vblex"/></l><r>optimize<s n="vblex"/></r></p></e>
+    <e><p><l>hagræða<s n="vblex"/></l><r>optimise<s n="vblex"/></r></p></e>
 <!--<p><l>hagræða<s n="vblex"/></l><r>streamline<s n="vblex"/></r></p></e>-->
     <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
     <e><p><l>halda<s n="vblex"/><s n=":1"/></l><r>think<s n="vblex"/></r></p></e>
@@ -4620,7 +4620,7 @@
 <!--<p><l>hamast<s n="vblex"/></l><r>gyrate<s n="vblex"/></r></p></e>-->
 <!--<p><l>hamast<s n="vblex"/></l><r>palpitate<s n="vblex"/></r></p></e>-->
 <!--<p><l>hamast<s n="vblex"/></l><r>pump<s n="vblex"/></r></p></e>-->
-    <e><p><l>hamast<s n="vblex"/></l><r>work<b/>hard<b/>at<s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *hama  -->
+    <e><p><l>hamast<s n="vblex"/></l><r>work<g><b/>hard<b/>at</g><s n="vblex"/></r></p></e> <!-- NB this verb does not exist as lemma? i.e. *hama  -->
     <e><p><l>handtaka<s n="vblex"/></l><r>arrest<s n="vblex"/></r></p></e>
     <e><p><l>hanga<s n="vblex"/></l><r>hang<s n="vblex"/></r></p></e>
     <e><p><l>harma<s n="vblex"/></l><r>grieve<s n="vblex"/></r></p></e>
@@ -5212,7 +5212,7 @@
 <!--<p><l>notfæra<s n="vblex"/></l><r>exploit<s n="vblex"/></r></p></e>-->
 <!--<p><l>notfæra<s n="vblex"/></l><r>harness<s n="vblex"/></r></p></e>-->
 <!--<p><l>notfæra<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>-->
-    <e><p><l>notfæra<s n="vblex"/></l><r>utilize<s n="vblex"/></r></p></e>
+    <e><p><l>notfæra<s n="vblex"/></l><r>utilise<s n="vblex"/></r></p></e>
     <e><p><l>nudda<s n="vblex"/></l><r>massage<s n="vblex"/></r></p></e>
 <!--<p><l>nudda<s n="vblex"/></l><r>rub<s n="vblex"/></r></p></e>-->
 <!--<p><l>ná<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>-->
