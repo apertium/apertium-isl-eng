@@ -3951,7 +3951,6 @@
     <e><p><l>Lettland<s n="np"/><s n="top"/><s n="nt"/></l><r>Latvia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Litháen<s n="np"/><s n="top"/><s n="nt"/></l><r>Lithuania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Álftanes<s n="np"/><s n="top"/><s n="nt"/></l><r>Álftanes<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbería<s n="np"/><s n="top"/><s n="nt"/></l><r>Liberia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbýa<s n="np"/><s n="top"/><s n="nt"/></l><r>Libya<s n="np"/><s n="top"/></r></p></e>
@@ -10544,8 +10543,8 @@
     <!--<e><p><l>vinna<s n="n"/><s n="f"/></l><r>labour<s n="n"/></r></p></e>-->
     <e><p><l>vinstri<s n="n"/><s n="nt"/></l><r>left<s n="n"/></r></p></e>
     <e><p><l>vinsældir<s n="n"/><s n="f"/></l><r>popularity<s n="n"/></r></p></e>
-    <e><p><l>vinur<s n="n"/><s n="m"/></l><r>male<b/>friend<s n="n"/></r></p></e>
-    <e><p><l>vinkona<s n="n"/><s n="f"/></l><r>female<b/>friend<s n="n"/></r></p></e>
+    <e><p><l>vinur<s n="n"/><s n="m"/></l><r>friend<s n="n"/></r></p></e>
+    <e r="LR"><p><l>vinkona<s n="n"/><s n="f"/></l><r>friend<s n="n"/></r></p></e>
     <!--<e><p><l>vinátta<s n="n"/><s n="f"/></l><r>comradeship<s n="n"/></r></p></e>-->
     <!--<e><p><l>vinátta<s n="n"/><s n="f"/></l><r>fellowship<s n="n"/></r></p></e>-->
     <e><p><l>vinátta<s n="n"/><s n="f"/></l><r>friendship<s n="n"/></r></p></e>
@@ -11855,6 +11854,9 @@
     <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
+
+    <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Mexíkó<s n="np"/><s n="top"/><s n="nt"/></l><r>Mexico<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e> 
