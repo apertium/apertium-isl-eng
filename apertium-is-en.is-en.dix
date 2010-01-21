@@ -11134,7 +11134,8 @@
     <e><p><l>eyjamaður<s n="n"/><s n="m"/></l><r>islander<s n="n"/></r></p></e>
     <e><p><l>stjórnmálamaður<s n="n"/><s n="m"/></l><r>politician<s n="n"/></r></p></e>
     <e><p><l>veiðimaður<s n="n"/><s n="m"/></l><r>hunter<s n="n"/></r></p></e>
-    <e><p><l>leikmaður<s n="n"/><s n="m"/></l><r>layman<s n="n"/></r></p></e>
+    <e><p><l>leikmaður<s n="n"/><s n="m"/></l><r>player<s n="n"/></r></p></e>
+    <!--<e><p><l>leikmaður<s n="n"/><s n="m"/></l><r>layman<s n="n"/></r></p></e>-->
     <e><p><l>liðsmaður<s n="n"/><s n="m"/></l><r>team<b/>member<s n="n"/></r></p></e>
     <e><p><l>landsmaður<s n="n"/><s n="m"/></l><r>countryman<s n="n"/></r></p></e>
     <e><p><l>félagsmaður<s n="n"/><s n="m"/></l><r>member<s n="n"/></r></p></e> <!-- of a society or club -->
@@ -11744,6 +11745,7 @@
 
     <e><p><l>fíkniefni<s n="n"/><s n="nt"/></l><r>drug<s n="n"/></r></p></e>
     <e><p><l>hald<s n="n"/><s n="nt"/></l><r>handle<s n="n"/></r></p></e>
+    <e><p><l>vopnamarkaður<s n="n"/><s n="m"/></l><r>weapons<b/>market<s n="n"/></r></p></e>
     <e><p><l>austurströnd<s n="n"/><s n="f"/></l><r>east<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>vesturströnd<s n="n"/><s n="f"/></l><r>west<b/>coast<s n="n"/></r></p></e> 
     <e><p><l>norðurströnd<s n="n"/><s n="f"/></l><r>north<b/>coast<s n="n"/></r></p></e> 
