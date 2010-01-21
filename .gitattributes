@@ -38,6 +38,7 @@ dev/results.txt.adj.xml -text
 dev/results.txt.leftovers -text
 dev/results.txt.nouns.xml -text
 dev/results.txt.verbs.xml -text
+/en-is.prob -text svneol=unset#unset
 /icetaggerApertium.sh -text
 /icetaggerClientApertium.sh -text
 /is-en.prob -text
