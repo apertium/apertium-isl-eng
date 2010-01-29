@@ -18,6 +18,8 @@
 /demo.sh -text
 /detailedDemo.sh -text
 dev/NOTES -text
+dev/adj3.OUT.sorted -text
+dev/adv3.OUT.sorted -text
 dev/apertium-is-en.is-en.dix.sorted -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
@@ -34,10 +36,12 @@ dev/newResults.txt.interj.xml -text
 dev/newResults.txt.leftovers -text
 dev/newResults.txt.num.xml -text
 dev/newResults.txt.preps.xml -text
+dev/nouns3.OUT.sorted -text
 dev/results.txt.adj.xml -text
 dev/results.txt.leftovers -text
 dev/results.txt.nouns.xml -text
 dev/results.txt.verbs.xml -text
+dev/verbs3.OUT.sorted -text
 /en-is.prob -text svneol=unset#unset
 /icetaggerApertium.sh -text
 /icetaggerClientApertium.sh -text
