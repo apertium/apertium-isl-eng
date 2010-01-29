@@ -19969,7 +19969,7 @@
     <e lm="amnesia"><i>amnesia</i><par n="east__n"/></e>
     <e lm="cocoa"><i>cocoa</i><par n="east__n"/></e>
     <e lm="algebra"><i>algebra</i><par n="house__n"/></e>
-    <e lm="gaelic"><i>gaelic</i><par n="house__n"/></e>
+    <e lm="Gaelic"><i>Gaelic</i><par n="house__n"/></e>
     <e lm="agnostic"><i>agnostic</i><par n="house__n"/></e>
     <e lm="compact disc"><i>compact<b/>disc</i><par n="house__n"/></e>
     <e lm="bead"><i>bead</i><par n="house__n"/></e>
@@ -20055,7 +20055,7 @@
     <e lm="nominalism "><i>nominalism<b/></i><par n="house__n"/></e>
     <e lm="premium"><i>premium</i><par n="house__n"/></e>
     <e lm="acronym"><i>acronym</i><par n="house__n"/></e>
-    <e lm="african"><par n="Aa"/><i>frican</i><par n="house__n"/></e>
+    <e lm="African"><par n="Aa"/><i>frican</i><par n="house__n"/></e>
     <e lm="cardigan"><i>cardigan</i><par n="house__n"/></e>
     <e lm="Romanian"><par n="Rr"/><i>omanian</i><par n="house__n"/></e>
     <e lm="Hungarian"><par n="Hh"/><i>ungarian</i><par n="house__n"/></e>
@@ -39596,6 +39596,7 @@
     <e lm="Catalan"><par n="Cc"/><i>atalan</i><par n="expensive__adj"/></e>
     <e lm="Catholic"><par n="Cc"/><i>atholic</i><par n="expensive__adj"/></e>
     <e lm="Chilean"><par n="Cc"/><i>hilean</i><par n="expensive__adj"/></e>
+    <e lm="Celtic"><par n="Cc"/><i>eltic</i><par n="expensive__adj"/></e>
     <e lm="Chinese"><par n="Cc"/><i>hinese</i><par n="expensive__adj"/></e>
     <e lm="Christian"><par n="Cc"/><i>hristian</i><par n="expensive__adj"/></e>
     <e lm="Colombian"><par n="Cc"/><i>olombian</i><par n="expensive__adj"/></e>
@@ -39615,6 +39616,7 @@
     <e lm="Gibraltarian"><par n="Gg"/><i>ibraltarian</i><par n="expensive__adj"/></e>
     <e lm="Gothic"><par n="Gg"/><i>othic</i><par n="expensive__adj"/></e>
     <e lm="Greek"><par n="Gg"/><i>reek</i><par n="expensive__adj"/></e>
+    <e lm="Gaelic"><par n="Gg"/><i>aelic</i><par n="expensive__adj"/></e>
     <e lm="Guatemalan"><par n="Gg"/><i>uatemalan</i><par n="expensive__adj"/></e>
     <e lm="Honduran"><par n="Hh"/><i>onduran</i><par n="expensive__adj"/></e>
     <e lm="Hungarian"><par n="Hh"/><i>ungarian</i><par n="expensive__adj"/></e>
