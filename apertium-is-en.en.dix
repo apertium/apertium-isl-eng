@@ -157,6 +157,29 @@
 
     </pardef>
 
+    <pardef n="months">
+      <e><p><l>January</l><r>January</r></p></e>
+      <e><p><l>February</l><r>February</r></p></e>
+      <e><p><l>March</l><r>March</r></p></e>
+      <e><p><l>April</l><r>April</r></p></e>
+      <e><p><l>May</l><r>May</r></p></e>
+      <e><p><l>June</l><r>June</r></p></e>
+      <e><p><l>July</l><r>July</r></p></e>
+      <e><p><l>August</l><r>August</r></p></e>
+      <e><p><l>September</l><r>September</r></p></e>
+      <e><p><l>October</l><r>October</r></p></e>
+      <e><p><l>November</l><r>November</r></p></e>
+      <e><p><l>December</l><r>December</r></p></e>
+    </pardef>
+
+    <pardef n="dates">
+      <e>      <re>[2-3]?[0,4-9]</re><p><l>th<b/></l><r>th<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
+      <e>      <re>1[0-9]</re><p><l>th<b/></l><r>th<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
+      <e>      <re>[2-9]*</re><p><l>1st<b/></l><r>1st<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
+      <e>      <re>[2-9]*</re><p><l>2nd<b/></l><r>2nd<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
+      <e>      <re>[2-9]*</re><p><l>3rd<b/></l><r>3rd<b/></r></p><par n="months"/><p><l/><r><s n="num"/></r></p></e>
+    </pardef>
+
     <pardef n="numeros">
 
 
@@ -165,6 +188,7 @@
       <e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
       <e>       <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
 
+    
     <e>
       <re>[0-9]+([.,][0-9]+)?</re>
       <p>
@@ -24871,6 +24895,7 @@
     <e lm="syringe"><i>syringe</i><par n="house__n"/></e>
     <e lm="syrup"><i>syrup</i><par n="house__n"/></e>
     <e lm="system"><i>system</i><par n="house__n"/></e>
+    <e lm="economic system"><i>economic<b/>system</i><par n="house__n"/></e>
     <e lm="tax system"><i>tax<b/>system</i><par n="house__n"/></e>
     <e lm="banking system"><i>banking<b/>system</i><par n="house__n"/></e>
     <e lm="tooth"><i>t</i><par n="t/ooth__n"/></e>
@@ -44829,6 +44854,7 @@
     <e><par n="organisations"/></e>
     <e><par n="separ"/></e>
     <e><par n="guionet"/></e>
+    <e><par n="dates"/></e>
     <e><par n="emails"/></e>
     <e><par n="urls"/></e>
   </section>

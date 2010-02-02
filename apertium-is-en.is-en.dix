@@ -70,6 +70,20 @@
   </sdefs>
 
   <pardefs>
+    <pardef n="mánuðir__months__num">
+      <e><p><l>janúar<s n="num"/></l><r>January<s n="num"/></r></p></e>
+      <e><p><l>febrúar<s n="num"/></l><r>February<s n="num"/></r></p></e>
+      <e><p><l>mars<s n="num"/></l><r>March<s n="num"/></r></p></e>
+      <e><p><l>apríl<s n="num"/></l><r>April<s n="num"/></r></p></e>
+      <e><p><l>maí<s n="num"/></l><r>May<s n="num"/></r></p></e>
+      <e><p><l>júní<s n="num"/></l><r>June<s n="num"/></r></p></e>
+      <e><p><l>júlí<s n="num"/></l><r>July<s n="num"/></r></p></e>
+      <e><p><l>ágúst<s n="num"/></l><r>August<s n="num"/></r></p></e>
+      <e><p><l>september<s n="num"/></l><r>September<s n="num"/></r></p></e>
+      <e><p><l>október<s n="num"/></l><r>October<s n="num"/></r></p></e>
+      <e><p><l>nóvember<s n="num"/></l><r>November<s n="num"/></r></p></e>
+      <e><p><l>desember<s n="num"/></l><r>December<s n="num"/></r></p></e>
+    </pardef>
     <pardef n="allur_all__prn">
       <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
@@ -124,6 +138,12 @@
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+s</re><p><l>en<s n="np"/><s n="ant"/><s n="m"/></l><r>en<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
     <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
+
+    <e><re>[2-3]?[0,4-9]</re><p><l>.<b/></l><r>th<b/></r></p><par n="mánuðir__months__num"/></e>
+    <e><re>1[0-9]</re><p><l>.<b/></l><r>th<b/></r></p><par n="mánuðir__months__num"/></e>
+    <e><re>[2-9]*</re><p><l>1.<b/></l><r>1st<b/></r></p><par n="mánuðir__months__num"/></e>
+    <e><re>[2-9]*</re><p><l>2.<b/></l><r>2nd<b/></r></p><par n="mánuðir__months__num"/></e>
+    <e><re>[2-9]*</re><p><l>3.<b/></l><r>3rd<b/></r></p><par n="mánuðir__months__num"/></e>
 
     <e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
