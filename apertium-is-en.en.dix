@@ -23889,6 +23889,7 @@
     <e lm="presence"><i>presence</i><par n="house__n"/></e>
     <e lm="clue"><i>clue</i><par n="house__n"/></e>
     <e lm="present"><i>present</i><par n="house__n"/></e>
+    <e lm="birthday present"><i>birthday<b/>present</i><par n="house__n"/></e>
     <e lm="Christmas present"><par n="Cc"/><i>hristmas<b/>present</i><par n="house__n"/></e>
     <e lm="presentation"><i>presentation</i><par n="house__n"/></e>
     <e lm="presenter"><i>presenter</i><par n="house__n"/></e>
