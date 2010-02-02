@@ -11781,6 +11781,7 @@
     <e><p><l>vakt<s n="n"/><s n="f"/></l><r>watch<s n="n"/></r></p></e>  
     <e><p><l>tilstilli<s n="n"/><s n="f"/></l><r>aid<s n="n"/></r></p></e> 
     <e><p><l>kvíða<s n="n"/><s n="f"/></l><r>anxiety<s n="n"/></r></p></e> 
+    <e><p><l>úranstöð<s n="n"/><s n="f"/></l><r>uranium<b/>plant<s n="n"/></r></p></e> 
     <e><p><l>þingflokkur<s n="n"/><s n="m"/></l><r>parliamentary<b/>group<s n="n"/></r></p></e>
     <e><p><l>löggjöf<s n="n"/><s n="f"/></l><r>legislation<s n="n"/></r></p></e> 
     <e><p><l>arfleifð<s n="n"/><s n="f"/></l><r>legacy<s n="n"/></r></p></e> 
@@ -11996,7 +11997,7 @@
 <e><p><l>svo<s n="adv"/><s n=":2"/></l><r>thus<s n="adv"/></r></p></e>
 <e><p><l>svo<s n="adv"/><s n=":3"/></l><r>so<s n="adv"/></r></p></e>
 <e><p><l>svoleiðis<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
-<e><p><l>svona<s n="adv"/><s n=":0"/></l><r>like that<s n="adv"/></r></p></e>
+<e><p><l>svona<s n="adv"/><s n=":0"/></l><r>like<b/>that<s n="adv"/></r></p></e>
 <e><p><l>svona<s n="adv"/><s n=":1"/></l><r>about<s n="adv"/></r></p></e>
 <e><p><l>síst<s n="adv"/></l><r>least<s n="adv"/></r></p></e>
 <e><p><l>síðan<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
