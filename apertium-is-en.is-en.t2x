@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interchunk> <!-- This file should probably be t3x // For re-ordering -->
   <section-def-cats>
+    <def-cat n="FMAINV">
+      <cat-item tags="SV.@+FMAINV.*"/>
+    </def-cat>
     <def-cat n="FAUXV">
       <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
     </def-cat>
@@ -31,6 +34,12 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -43,6 +52,40 @@
     <def-var n="nombre"/>
     <def-var n="genere"/>
   </section-def-vars>
+
+  <section-def-macros>
+    <def-macro n="concord_subj_verb2" npar="2">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" part="pers"/>
+              <lit-tag v="PD"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="2" part="pers"/>
+            <clip pos="1" part="pers"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" part="nbr"/>
+              <lit-tag v="ND"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="2" part="nbr"/>
+            <clip pos="1" part="nbr"/>
+          </let>
+        </when>
+
+      </choose>
+    </def-macro>
+  </section-def-macros>
 
   <section-rules>
 
@@ -60,6 +103,34 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN_SUBJ_L FMAINV → SN_SUBJ_L FMAINV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+      </pattern>
+      <action c="Ég ætla að gera → I am going to make"> 
+        <call-macro n="concord_subj_verb2">
+          <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: SN_SUBJ SV SADV → SN_SUBJ SADV SV">
       <pattern>

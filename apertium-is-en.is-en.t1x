@@ -67,6 +67,7 @@
 
   <def-cat n="inf">
      <cat-item tags="vblex.inf"/>
+     <cat-item tags="vbser.inf"/>
      <cat-item tags="vblex.*.inf"/>
   </def-cat>
 
@@ -148,6 +149,10 @@
   </def-cat>
 
   <!-- Lexicalised categories -->
+
+  <def-cat n="ætla">
+     <cat-item lemma="ætla" tags="vblex.*"/>
+  </def-cat>
 
   <def-cat n="geta">
      <cat-item lemma="geta" tags="vblex.*"/>
@@ -286,6 +291,7 @@
   </def-attr>
 
   <def-attr n="syntax">
+     <attr-item tags="@X"/>
      <attr-item tags="@SUBJ→"/>
      <attr-item tags="@←SUBJ"/>
      <attr-item tags="@OBJ→"/>
@@ -538,7 +544,7 @@
                   </test> 
                   <let> <!-- Set the tense to 'pres' -->
                     <clip pos="1" side="tl" part="temps"/>
-                    <lit-tag v="pri"/>
+                    <lit-tag v="pres"/>
                   </let>
                   <let>
                     <var n="cur_verb_fin"/>
@@ -623,7 +629,7 @@
               </test>
               <let>
                 <clip pos="1" side="tl" part="temps"/>
-                <lit-tag v="pri"/>
+                <lit-tag v="pres"/>
               </let>
               <let>
                 <var n="cur_verb_fin"/>
@@ -2790,6 +2796,54 @@
         </choose>
      </action>
   </rule>
+
+  <rule comment="REGLA: ÆTLA AÐ INF → BE GOING TO INF | ætla að gera → be going to do">
+     <pattern>
+       <pattern-item n="ætla"/>
+       <pattern-item n="að"/>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="be_going_to_inf" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><lit-tag v="ND"/></tag>
+            </tags>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.3.4.5"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="go"/>
+              <lit-tag v="vblex.ger"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <lit v="to"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
 
   <rule comment="REGLA: GETA PP → CAN INF | get komið → can come">
      <pattern>

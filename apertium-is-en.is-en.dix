@@ -6026,7 +6026,7 @@
 <!--<p><l>æsa<s n="vblex"/></l><r>fume<s n="vblex"/></r></p></e>-->
 <!--<p><l>æsa<s n="vblex"/></l><r>inflame<s n="vblex"/></r></p></e>-->
 <!--<p><l>æsa<s n="vblex"/></l><r>infuriate<s n="vblex"/></r></p></e>-->
-    <e><p><l>ætla<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e>
+    <e><p><l>ætla<s n="vblex"/></l><r>intend<s n="vblex"/></r></p></e>
 <!--<p><l>æða<s n="vblex"/></l><r>ramp<s n="vblex"/></r></p></e>-->
 <!--<p><l>æða<s n="vblex"/></l><r>rampage<s n="vblex"/></r></p></e>-->
     <e><p><l>æða<s n="vblex"/></l><r>rush<s n="vblex"/></r></p></e>
@@ -11888,7 +11888,7 @@
 <e><p><l>brúttó<s n="adv"/></l><r>gross<s n="adv"/></r></p></e>
 <e><p><l>bölvanlega<s n="adv"/></l><r>miserably<s n="adv"/></r></p></e>
 <e><p><l>efalaust<s n="adv"/></l><r>without a doubt<s n="adv"/></r></p></e>
-<e><p><l>eftir<s n="adv"/></l><r>ofl<s n="adv"/></r></p></e>
+<e><p><l>eftir<s n="adv"/></l><r>after<s n="adv"/></r></p></e>
 <e><p><l>eins<s n="adv"/></l><r>alike<s n="adv"/></r></p></e>
 <e><p><l>eldsnemma<s n="adv"/></l><r>bright and early<s n="adv"/></r></p></e>
 <e><p><l>endur<s n="adv"/></l><r>earlier<s n="adv"/></r></p></e>
@@ -11935,7 +11935,7 @@
 <e><p><l>með<s n="adv"/><s n=":0"/></l><r>with<s n="adv"/></r></p></e>
 <e><p><l>með<s n="adv"/><s n=":1"/></l><r>ofl<s n="adv"/></r></p></e>
 <e><p><l>meðfram<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
-<e><p><l>milli<s n="adv"/></l><r>ofl<s n="adv"/></r></p></e>
+<e><p><l>milli<s n="adv"/></l><r>between<s n="adv"/></r></p></e>
 <e><p><l>miðsvæðis<s n="adv"/></l><r>central<s n="adv"/></r></p></e>
 <e><p><l>mætavel<s n="adv"/></l><r>very well<s n="adv"/></r></p></e>
 <e><p><l>móti<s n="adv"/></l><r>in return<s n="adv"/></r></p></e>
@@ -11980,14 +11980,14 @@
 <e><p><l>síst<s n="adv"/></l><r>least<s n="adv"/></r></p></e>
 <e><p><l>síðan<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
 <e><p><l>tafarlaust<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
-<e><p><l>til<s n="adv"/></l><r>ofl<s n="adv"/></r></p></e>
+<e><p><l>til<s n="adv"/></l><r>to<s n="adv"/></r></p></e>
 <e><p><l>trauðla<s n="adv"/></l><r>barely<s n="adv"/></r></p></e>
 <e><p><l>tvívegis<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
 <e><p><l>títt<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
 <e><p><l>tíðum<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
 <e><p><l>umyrðalaust<s n="adv"/></l><r>without objection<s n="adv"/></r></p></e>
-<e><p><l>undan<s n="adv"/></l><r>ofl<s n="adv"/></r></p></e>
-<e><p><l>undir<s n="adv"/></l><r>ofl<s n="adv"/></r></p></e>
+<e><p><l>undan<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
+<e><p><l>undir<s n="adv"/></l><r>under<s n="adv"/></r></p></e>
 <e><p><l>undirniðri<s n="adv"/></l><r>deep down<s n="adv"/></r></p></e>
 <e><p><l>unnvörpum<s n="adv"/></l><r>in large numbers<s n="adv"/></r></p></e>
 <e><p><l>urrandi<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
@@ -12002,7 +12002,7 @@
 <e><p><l>yfirmáta<s n="adv"/></l><r>excessively<s n="adv"/></r></p></e>
 <e><p><l>ámóta<s n="adv"/></l><r>about as<s n="adv"/></r></p></e>
 <e><p><l>árdegis<s n="adv"/></l><r>in the morning<s n="adv"/></r></p></e>
-<e><p><l>í<s n="adv"/></l><r>ofl<s n="adv"/></r></p></e>
+<e><p><l>í<s n="adv"/></l><r>in<s n="adv"/></r></p></e>
 <e><p><l>ívið<s n="adv"/></l><r>a bit<s n="adv"/></r></p></e>
 <e><p><l>ógjarnan<s n="adv"/></l><r>unwillingly<s n="adv"/></r></p></e>
 <e><p><l>ógn<s n="adv"/></l><r>how very<s n="adv"/></r></p></e>

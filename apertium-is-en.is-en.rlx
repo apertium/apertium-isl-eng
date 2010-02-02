@@ -261,6 +261,9 @@ SELECT Prep IF (0 ("að"ri)) (1 VerbInf);
 #sem leggja fram kæru á hendur ríkinu.
 SELECT Prep IF (0 ("[Áá]"ri)) (1C N OR ProperNom) (NOT 1C Gen);
 
+#Þeir eru undir rúminu
+SELECT Prep IF (0 Prep) (0 Adv) (1C PRE-N);
+
 #################################################################################
 # NPs  
 #################################################################################
@@ -357,6 +360,7 @@ SELECT ("stig"ri) IF (0 ("<stiga>"ri)) (1 ("frost"ri) OR ("hiti"ri));
 
 SECTION
 
+LIST @X = @X;
 LIST @←SUBJ = @←SUBJ;
 LIST @SUBJ→ = @SUBJ→;
 LIST @-FMAINV = @-FMAINV;
@@ -371,6 +375,9 @@ LIST @CVP = @CVP; # SV co-ordinator
 MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron); 
 MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
+MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (-1C* @SUBJ→ + $$PERSON + $$NUMBER BARRIER CLB);
+MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (1C* @←SUBJ + $$PERSON + $$NUMBER BARRIER CLB);
+
 MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
                                         (NOT -1C* VerbAux + TempsFin BARRIER CLB) 
                                         (0C VerbAux + TempsFin) (1C* Participle OR Inf BARRIER CLB + PRE-N);
@@ -380,3 +387,6 @@ MAP (@-FMAINV) TARGET Participle (-1C* @+FAUXV BARRIER CLB);
 MAP (@N→) TARGET (num) (0C (num)) (1C N);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
 
+AFTER-SECTIONS
+
+MAP (@X) TARGET VerbFin;
