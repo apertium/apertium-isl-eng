@@ -380,10 +380,9 @@ MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (1C* @←SUBJ + $$PERSON + $
 
 MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
                                         (NOT -1C* VerbAux + TempsFin BARRIER CLB) 
-                                        (0C VerbAux + TempsFin) (1C* Participle OR Inf BARRIER CLB + PRE-N);
+                                        (0C VerbAux + TempsFin) (1C* Participle OR Inf OR VerbSupine BARRIER CLB + PRE-N);
 
-MAP (@-FMAINV) TARGET Participle (-1C* @+FAUXV BARRIER CLB);
-MAP (@-FMAINV) TARGET VerbSupine (-1C* @+FAUXV BARRIER CLB);
+MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
 
 MAP (@N→) TARGET (num) (0C (num)) (1C N);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
