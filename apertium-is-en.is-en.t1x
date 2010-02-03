@@ -114,10 +114,13 @@
   <def-cat n="pp">
      <cat-item tags="vblex.pp"/>
      <cat-item tags="vblex.supn"/>
+     <cat-item tags="vblex.supn.*"/>
+     <cat-item tags="vblex.*.supn.*"/>
      <cat-item tags="vblex.pp.*"/>
      <cat-item tags="vblex.*.supn"/>
      <cat-item tags="vblex.*.pp"/>
      <cat-item tags="vblex.*.pp.*"/>
+     <cat-item tags="vbser.pp.*"/>
   </def-cat>
 
   <def-cat n="adj">
@@ -297,7 +300,9 @@
      <attr-item tags="@OBJ→"/>
      <attr-item tags="@←OBJ"/>
      <attr-item tags="@\+FMAINV"/>
+     <attr-item tags="@-FMAINV"/>
      <attr-item tags="@\+FAUXV"/>
+     <attr-item tags="@-FAUXV"/>
   </def-attr>
 
 </section-def-attrs>
