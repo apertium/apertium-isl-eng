@@ -30,6 +30,7 @@ dev/is-en.wiktionary.xml -text
 dev/is-tags.mapping.txt -text
 dev/is.wordlist.txt -text
 dev/is_en.txt -text
+dev/mánuðir -text
 dev/newResults.txt.adverbs.xml -text
 dev/newResults.txt.conj.xml -text
 dev/newResults.txt.interj.xml -text
