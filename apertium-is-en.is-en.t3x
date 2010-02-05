@@ -10,6 +10,7 @@
     </def-cat>
     <def-cat n="FAUXV">
       <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
+      <cat-item lemma="auxcj" tags="SV.@+FMAINV.*"/>
     </def-cat>
     <def-cat n="INF">
       <cat-item tags="SV.inf.*"/>
@@ -219,6 +220,44 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN_SUBJ_L FAUXV ADV PP_FMAINV → SN_SUBJ_L FAUXV PP_FMAINV ADV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="ADV"/>
+        <pattern-item n="PP_FMAINV"/>
+      </pattern>
+      <action c="Ráðstefnan var frá upphafi illa skipulögð → The conference was badly organised from the beginning"> 
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: FAUXV ADV PP_FMAINV → FAUXV PP_FMAINV ADV">
       <pattern>
