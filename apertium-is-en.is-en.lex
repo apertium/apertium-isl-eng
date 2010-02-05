@@ -65,6 +65,12 @@ SUBSTITUTE (n :0) (n :1) ("aðgerð"ri) (0 ("<aðgerða>"ri)) (-1 ("grípa# til"
 SUBSTITUTE (n) (n :0) ("dalur"ri);
 SUBSTITUTE (n :0) (n :1) ("dalur"ri) (-1 Num);
 
+# "himinn" :
+#        0:"sky"
+#        1:"heaven"
+SUBSTITUTE (n) (n :0) ("himinn"ri);
+SUBSTITUTE (n :0) (n :1) ("himinn"ri) (1 ("og"ri)) (2 ("jörð"ri)); # í upphafi
+
 ##
 ## VERBS
 ##

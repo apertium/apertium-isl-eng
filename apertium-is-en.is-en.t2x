@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interchunk> 
+  <section-def-cats>
+    <def-cat n="FMAINV">
+      <cat-item tags="SV.@+FMAINV.*"/>
+    </def-cat>
+    <def-cat n="FAUXV">
+      <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
+    </def-cat>
+    <def-cat n="INF">
+      <cat-item tags="SV.inf.*"/>
+      <cat-item tags="SV.inf"/>
+    </def-cat>
+    <def-cat n="SV">
+      <cat-item tags="SV"/>
+      <cat-item tags="SV.*"/>
+    </def-cat>
+    <def-cat n="SN_SUBJ_L">
+      <cat-item tags="SN.@SUBJ→.*"/>
+    </def-cat>
+    <def-cat n="SN_SUBJ_R">
+      <cat-item tags="SN.@←SUBJ.*"/>
+    </def-cat>
+    <def-cat n="PREP">
+      <cat-item tags="PREP"/>
+    </def-cat>
+    <def-cat n="SADV"> <!-- Sentence adverbial -->
+      <cat-item tags="SADV"/>
+    </def-cat>
+    <def-cat n="SN">
+      <cat-item tags="SN"/>
+      <cat-item tags="SN.*"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+      <attr-item tags="PD"/>
+    </def-attr>
+    <def-attr n="nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
+      <attr-item tags="ND"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="nombre"/>
+    <def-var n="genere"/>
+  </section-def-vars>
+
+  <section-def-macros>
+    <def-macro n="concord_subj_verb2" npar="2">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" part="pers"/>
+              <lit-tag v="PD"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="2" part="pers"/>
+            <clip pos="1" part="pers"/>
+          </let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" part="nbr"/>
+              <lit-tag v="ND"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="2" part="nbr"/>
+            <clip pos="1" part="nbr"/>
+          </let>
+        </when>
+
+      </choose>
+    </def-macro>
+  </section-def-macros>
+
+  <section-rules>
+
+    <rule comment="REGLA: SN">
+      <pattern>
+        <pattern-item n="SN"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+  </section-rules>
+</interchunk>

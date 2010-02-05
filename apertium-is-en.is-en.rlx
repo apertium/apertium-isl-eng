@@ -196,11 +196,15 @@ REMOVE Adv IF (0 Adv) (0 Adj) (-1C VerbBe) (1C CLB);
 # Fallega rauða rósin
 REMOVE Adv IF (NOT -1C* VerbFin BARRIER CLB) (0 Adv) (0 Adj) (1 Adj);
 
+# Ég er að flytja frá Akureyri til Reykjavíkur í eitt ár.
+REMOVE Adj IF (-1 Prep) (0 Adj) (0 Num) (1 N) (1 Sg);
+
 #################################################################################
 # Advs
 #################################################################################
 
 SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
+
 
 #################################################################################
 # Personal pronouns 
@@ -324,6 +328,10 @@ SELECT MODV + TempsFin IF (1C Inf);
 # #á morgun í Kaupmannahöfn, að því er Ríkisútvarpið greindi frá. 
 SELECT:r53 $$PERSON IF (-1 PersPron + $$PERSON)(0 VerbFin) (NOT 1 ("er"ri));
 
+SELECT:r53a $$PERSON IF (1C PersPron + $$PERSON + Nom)(0 VerbFin) (NOT 1 ("er"ri));
+
+SELECT:r53b VerbFin + $$NUMBER IF (-1 N + $$NUMBER + Nom) (0 VerbFin) (NOT 1 ("er"ri));
+
 # The modals munu and skulu can never be preceded by another auxiliary. (p.10)
 REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
 
@@ -378,7 +386,12 @@ LIST @CNP = @CNP; # SN co-ordinator
 LIST @CVP = @CVP; # SV co-ordinator
 
 MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron); 
+
 MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
+
+MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
+
+MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (-1* @SUBJ→ + $$NUMBER BARRIER CLB);
 
 MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (-1C* @SUBJ→ + $$PERSON + $$NUMBER BARRIER CLB);
 MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (1C* @←SUBJ + $$PERSON + $$NUMBER BARRIER CLB);
@@ -395,3 +408,5 @@ MAP (@N→) TARGET (det) (0C (det)) (1C N);
 AFTER-SECTIONS
 
 MAP (@X) TARGET VerbFin;
+
+MAP (@X) TARGET N;

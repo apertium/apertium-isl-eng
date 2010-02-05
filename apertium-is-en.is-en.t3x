@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<interchunk> <!-- This file should probably be t3x // For re-ordering -->
+<interchunk> 
   <section-def-cats>
     <def-cat n="FMAINV">
       <cat-item tags="SV.@+FMAINV.*"/>
+    </def-cat>
+    <def-cat n="PP_FMAINV">
+      <cat-item tags="SA.@-FMAINV"/>
+      <cat-item tags="SA.@-FMAINV.*"/>
     </def-cat>
     <def-cat n="FAUXV">
       <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
@@ -26,6 +30,9 @@
     </def-cat>
     <def-cat n="SADV"> <!-- Sentence adverbial -->
       <cat-item tags="SADV"/>
+    </def-cat>
+    <def-cat n="ADV"> <!-- Adverbial -->
+      <cat-item tags="ADV"/>
     </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN"/>
@@ -139,6 +146,87 @@
         <pattern-item n="SADV"/>
       </pattern>
       <action c="Ég las aldrei → I never read"> 
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN_SUBJ_L FMAINV ADV → SN_SUBJ_L ADV FMAINV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="ADV"/>
+      </pattern>
+      <action c="Bandaríkjamenn styðja hinsvegar → Americans however support"> 
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: FMAINV SN_SUBJ_R → SN_SUBJ_R FMAINV">
+      <pattern>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+      </pattern>
+      <action c="í gær skapaði ég → yesterday I created"> 
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: FAUXV ADV PP_FMAINV → FAUXV PP_FMAINV ADV">
+      <pattern>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="ADV"/>
+        <pattern-item n="PP_FMAINV"/>
+      </pattern>
+      <action c="var frá upphafi illa skipulögð → was badly organised from the beginning"> 
         <out>
           <chunk>
             <clip pos="1" part="lem"/>

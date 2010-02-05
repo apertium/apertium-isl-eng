@@ -232,6 +232,13 @@
     <e><p><l>til<b/>samans<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
     <e><p><l>í<b/>hittið<b/>fyrra<s n="adv"/></l><r>the<b/>year<b/>last<s n="adv"/></r></p></e>
 
+    <e><p><l>í<b/>upphafi<s n="adv"/></l><r>in<b/>the<b/>beginning<s n="adv"/></r></p></e>
+    <e><p><l>frá<b/>upphafi<s n="adv"/></l><r>from<b/>the<b/>beginning<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>framtíðinni<s n="adv"/></l><r>in<b/>the<b/>future<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>bili<s n="adv"/></l><r>for<b/>the<b/>moment<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>fyrstu<s n="adv"/></l><r>at<b/>first<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>vikunni<s n="adv"/></l><r>this<b/>week<s n="adv"/></r></p></e>
+
     <e><p><l>í<b/>vor<s n="adv"/></l><r>this<b/>spring<s n="adv"/></r></p></e>
     <e><p><l>í<b/>sumar<s n="adv"/></l><r>this<b/>summer<s n="adv"/></r></p></e>
     <e><p><l>í<b/>haust<s n="adv"/></l><r>this<b/>fall<s n="adv"/></r></p></e>
@@ -6246,7 +6253,8 @@
     <e><p><l>vinna<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
     <e><p><l>vist<s n="n"/><s n="f"/></l><r>stay<s n="n"/></r></p></e>
     <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
-    <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
+    <e><p><l>himinn<s n="n"/><s n=":0"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
+    <e><p><l>himinn<s n="n"/><s n=":1"/><s n="m"/></l><r>heaven<s n="n"/></r></p></e>
     <e><p><l>skip<s n="n"/><s n="nt"/></l><r>ship<s n="n"/></r></p></e>
     
     <e><p><l>milljón<s n="n"/><s n="f"/></l><r>million<s n="n"/></r></p></e>
@@ -7805,8 +7813,6 @@
     <e><p><l>hetta<s n="n"/><s n="f"/></l><r>hood<s n="n"/></r></p></e>
     <e><p><l>hey<s n="n"/><s n="nt"/></l><r>hay<s n="n"/></r></p></e>
     <e><p><l>hilling<s n="n"/><s n="f"/></l><r>mirage<s n="n"/></r></p></e>
-    <!--<e><p><l>himinn<s n="n"/><s n="m"/></l><r>heaven<s n="n"/></r></p></e>-->
-    <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>hindber<s n="n"/><s n="nt"/></l><r>raspberry<s n="n"/></r></p></e>
     <e><p><l>hindí<s n="n"/><s n="nt"/></l><r>Hindi<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>hirsla<s n="n"/><s n="f"/></l><r>container<s n="n"/></r></p></e>
@@ -11955,8 +11961,7 @@
 <e><p><l>lengstum<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
 <e><p><l>ljóslega<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
 <e><p><l>mestmegnis<s n="adv"/></l><r>for the most part<s n="adv"/></r></p></e>
-<e><p><l>með<s n="adv"/><s n=":0"/></l><r>with<s n="adv"/></r></p></e>
-<e><p><l>með<s n="adv"/><s n=":1"/></l><r>ofl<s n="adv"/></r></p></e>
+<e><p><l>með<s n="adv"/></l><r>with<s n="adv"/></r></p></e>
 <e><p><l>meðfram<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
 <e><p><l>milli<s n="adv"/></l><r>between<s n="adv"/></r></p></e>
 <e><p><l>miðsvæðis<s n="adv"/></l><r>central<s n="adv"/></r></p></e>
