@@ -81,7 +81,7 @@
      <cat-item tags="prn.p3.*"/>
   </def-cat>
 
-  <def-cat n="prn_pos">
+  <def-cat n="prn_poss">
     <cat-item tags="prn.pos.*"/>
     <cat-item tags="prn.p1.*.*.gen"/>
     <cat-item tags="prn.p2.*.*.gen"/>
@@ -121,6 +121,8 @@
      <cat-item tags="vblex.*.pp"/>
      <cat-item tags="vblex.*.pp.*"/>
      <cat-item tags="vbser.pp.*"/>
+     <cat-item tags="vbhaver.pp"/>
+     <cat-item tags="vbhaver.pp.*"/>
   </def-cat>
 
   <def-cat n="adj">
@@ -1973,6 +1975,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="2"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -2000,6 +2005,7 @@
                </lu>
                <b pos="1"/>
                <lu>
+                 <var n="cur_adj_grau1"/>
                  <get-case-from pos="2">
                    <clip pos="2" side="tl" part="lem"/>
                  </get-case-from>
@@ -2119,7 +2125,7 @@
 
 
 
-  <rule comment="REGLA: NOM NOM NOMGEN"><!-- rule for noun + noun + noungen -->
+  <rule comment="REGLA: NOM NOM NOMGEN">
      <pattern>
        <pattern-item n="nom"/>
        <pattern-item n="nom"/>
@@ -2223,18 +2229,255 @@
   </rule><!-- END rule for noun + nomgen -->
 
 
-  <rule comment="REGLA: NOM PRNPOS"><!-- rule for nouns followed by possessive pronoun -->
+
+  <rule comment="REGLA: NOM NOMGEN POSS">
      <pattern>
        <pattern-item n="nom"/>
-       <pattern-item n="prn_pos"/>
+       <pattern-item n="gen_nom"/>
+       <pattern-item n="prn_poss"/>
      </pattern>
      <action>
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
-     <call-macro n="prn_pos_to_det_pos">
-       <with-param pos="2"/>
-     </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="3"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_nom_gen_det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+               </lu>
+               <b/>
+              <lu>
+                 <get-case-from pos="2">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="nom_gen_det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: ADJ NOM NOMGEN POSS">
+     <pattern>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="gen_nom"/>
+       <pattern-item n="prn_poss"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="4"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="2" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_adj_nom_gen_det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+               </lu>
+               <b/>
+               <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="2">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b/>
+               <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="4" side="tl" part="lemh"/>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="adj_nom_gen_det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="4" side="tl" part="lemh"/>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule><!-- END rule for noun + nomgen -->
+
+
+
+  <rule comment="REGLA: NOM PRNPOS"><!-- rule for nouns followed by possessive pronoun -->
+     <pattern>
+       <pattern-item n="nom"/>
+       <pattern-item n="prn_poss"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="2"/>
+       </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>

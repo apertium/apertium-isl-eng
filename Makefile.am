@@ -12,7 +12,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
+     $(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).t4x.bin \
      $(PREFIX1).lex.bin $(PREFIX1).rlx.bin $(PREFIX1).mode
 
 ##
@@ -62,8 +62,13 @@ $(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t2x $@
 
 $(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
-	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
+	apertium-validate-interchunk $(BASENAME).$(PREFIX1).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
+
+$(PREFIX1).t4x.bin: $(BASENAME).$(PREFIX1).t4x
+	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t4x
+	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t4x $@
+
 
 #
 #	MODE FILE(S)
@@ -82,7 +87,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).post-$(LANG2).dix \
            $(PREFIX1).prob  \
 	   $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
-	   $(BASENAME).$(PREFIX1).t3x\
+	   $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX1).t4x \
 	   $(BASENAME).$(LANG1).tsx \
 	   modes.xml
 
@@ -100,6 +105,7 @@ apertium_is_en_DATA=$(PREFIX1).automorf.bin \
 		    $(PREFIX1).t1x.bin \
 		    $(PREFIX1).t2x.bin \
 		    $(PREFIX1).t3x.bin \
+		    $(PREFIX1).t4x.bin \
                     $(PREFIX1).prob \
 	            $(PREFIX1).mode modes.xml
 		  
@@ -110,5 +116,6 @@ install-data-local:
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_is_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(apertium_is_endir)
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes
