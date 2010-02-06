@@ -19,6 +19,10 @@
      <cat-item tags="num"/>
      <cat-item tags="num.*"/>
   </def-cat>
+  <def-cat n="cnjsub">
+     <cat-item tags="cnjsub"/>
+     <cat-item tags="cnjsub.*"/>
+  </def-cat>
   <def-cat n="top">
      <cat-item tags="np.top.*"/>
   </def-cat>
@@ -334,6 +338,7 @@
   <def-var n="cur_sent_adv"/>
   <def-var n="cur_adv_lema"/>
   <def-var n="cur_prep_lema"/>
+  <def-var n="cur_cnj_lema"/>
   <def-var n="caseFirstWord"/>
   <def-var n="EOS" v="true"/>
 </section-def-vars>
@@ -3454,6 +3459,35 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: CNJSUB → CNJSUB | ef → if">
+     <pattern>
+       <pattern-item n="cnjsub"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_cnj_lema"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_cnj_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="CS"/></tag>
+             <tag><clip pos="1" side="sl" part="syntax"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <lit-tag v="cnjsub"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
 
 
   <!-- ///////////////////////////////////////////////////////// -->
