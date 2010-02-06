@@ -139,6 +139,11 @@
      <cat-item lemma="ekki" tags="adv"/>
   </def-cat>
 
+  <def-cat n="itg">
+     <cat-item tags="adv.itg"/>
+     <cat-item tags="adv.itg.*"/>
+  </def-cat>
+
   <def-cat n="adv">
      <cat-item tags="adv"/>
      <cat-item tags="adv.*"/>
@@ -3431,6 +3436,34 @@
   </rule>
 
 
+
+
+  <rule comment="REGLA: ITG → ITG | hvað? → what?">
+     <pattern>
+       <pattern-item n="itg"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_adv_lema"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_adv_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="ITG"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_adv"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
 
 
   <rule comment="REGLA: ADV → ADV | nánast → practically">

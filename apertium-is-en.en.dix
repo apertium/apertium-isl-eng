@@ -43980,6 +43980,8 @@
     <e lm="although"><i>although</i><par n="that__cnjsub"/></e>
     <e lm="because"><i>because</i><par n="that__cnjsub"/></e>
     <e lm="since"><i>since</i><par n="that__cnjsub"/></e>
+    <e lm="more than"><i>more<b/>than</i><par n="that__cnjsub"/></e>
+    <e lm="less than"><i>less<b/>than</i><par n="that__cnjsub"/></e>
     <e lm="since"><i>since</i><par n="maybe__adv"/></e>
     <e lm="sincerely"><i>sincerely</i><par n="maybe__adv"/></e>
     <e lm="single file"><i>single<b/>file</i><par n="maybe__adv"/></e>
