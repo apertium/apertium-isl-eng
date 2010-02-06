@@ -163,6 +163,10 @@
      <cat-item lemma="geta" tags="vblex.*"/>
   </def-cat>
 
+  <def-cat n="verið">
+     <cat-item lemma="vera" tags="vbser.pp.*"/>
+  </def-cat>
+
   <def-cat n="að">
      <cat-item lemma="að" tags="*"/>
   </def-cat>
@@ -3566,6 +3570,57 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: AUX verið að INF → AUX been GER | hef verið að lesa → have been reading">
+     <pattern>
+       <pattern-item n="auxcj"/>
+       <pattern-item n="verið"/>
+       <pattern-item n="að"/>
+       <pattern-item n="inf"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <clip pos="4" side="tl" part="temps"/>
+         <lit-tag v="ger"/>
+       </let>
+       <out>
+         <chunk name="auxcj_ger" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="pp"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="4" side="tl" part="lemh"/>
+              <clip pos="4" side="tl" part="a_verb"/>
+              <clip pos="4" side="tl" part="temps"/>
+              <clip pos="4" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
 
   <!-- ///////////////////////////////////////////////////////// -->
 
