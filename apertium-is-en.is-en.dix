@@ -1584,7 +1584,7 @@
 <!--<p><l>reiðubúinn<s n="adj"/></l><r>game<s n="adj"/></r></p></e>-->
     <e><p><l>reiðubúinn<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
 <!--<p><l>reiðubúinn<s n="adj"/></l><r>willing<s n="adj"/></r></p></e>-->
-    <e><p><l>reiður<s n="adj"/></l><r>angry<s n="adj"/></r></p></e>
+    <e><p><l>reiður<s n="adj"/></l><r>angry<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>rennisléttur<s n="adj"/></l><r>flat<s n="adj"/></r></p></e>
     <e><p><l>ringlaður<s n="adj"/></l><r>confused<s n="adj"/></r></p></e>
 <!--<p><l>risastór<s n="adj"/></l><r>enormous<s n="adj"/></r></p></e>-->
