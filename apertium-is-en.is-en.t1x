@@ -145,6 +145,11 @@
      <cat-item tags="pr.*"/>
   </def-cat>
 
+  <def-cat n="preadv_adv">
+     <cat-item tags="preadv"/>
+     <cat-item tags="adv"/>
+  </def-cat>
+
   <def-cat n="preadv">
      <cat-item tags="preadv"/>
   </def-cat>
@@ -226,6 +231,7 @@
   </def-attr>
 
   <def-attr n="a_adv">
+     <attr-item tags="preadv"/>
      <attr-item tags="adv"/>
      <attr-item tags="adv.itg"/>
   </def-attr>
@@ -2149,6 +2155,131 @@
                  <clip pos="3" side="tl" part="a_nom"/>
                  <clip pos="3" side="tl" part="nbr"/>
                  <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
+
+
+
+  <rule comment="REGLA: PREADV_ADV ADJ NOM NOMGEN">
+     <pattern>
+       <pattern-item n="preadv_adv"/>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="gen_nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="2"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="4" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="adv_adj_nom_gen_det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_adv"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+              <b pos="1"/>
+              <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+              <lu>
+                 <get-case-from pos="3">
+                   <clip pos="3" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b pos="3"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <get-case-from pos="4">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="4" side="tl" part="lemh"/>
+                 <clip pos="4" side="tl" part="a_nom"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="adv_adj_nom_gen_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_adv"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+              <b pos="1"/>
+              <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+              <lu>
+                 <get-case-from pos="3">
+                   <clip pos="3" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b pos="3"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="4" side="tl" part="lemh"/>
+                 <clip pos="4" side="tl" part="a_nom"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
