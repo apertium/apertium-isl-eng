@@ -2299,7 +2299,7 @@
   </rule>
 
 
-  <rule comment="REGLA: Det Adj Nom"><!-- rule for det + 1 adjective + noun -->
+  <rule comment="REGLA: DET ADJ NOM">
      <pattern>
        <pattern-item n="det"/>
        <pattern-item n="adj"/>
@@ -2329,6 +2329,7 @@
                  <var n="cur_adj_grau1"/>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="grau"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
@@ -2341,7 +2342,7 @@
              </chunk>
            </out>
      </action>
-  </rule><!-- END rule for det +  1 adjective + noun -->
+  </rule>
 
 
 

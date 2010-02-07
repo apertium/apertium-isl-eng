@@ -4081,6 +4081,7 @@
     <e><p><l>afsaka<s n="vblex"/></l><r>forgive<s n="vblex"/></r></p></e>
 <!--<p><l>afsaka<s n="vblex"/></l><r>pardon<s n="vblex"/></r></p></e>-->
     <e><p><l>afskrifa<s n="vblex"/></l><r>copy<s n="vblex"/></r></p></e>
+<!--    <e><p><l>afskrifa<s n="vblex"/></l><r>write<g><b/>off</g><s n="vblex"/></r></p></e> -->
     <e><p><l>aka<s n="vblex"/></l><r>drive<s n="vblex"/></r></p></e>
 <!--<p><l>ala<s n="vblex"/></l><r>breed<s n="vblex"/></r></p></e>-->
 <!--<p><l>ala<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>-->
@@ -11803,6 +11804,7 @@
     <e><p><l>spá<s n="n"/><s n="f"/></l><r>forecast<s n="n"/></r></p></e>
     <e><p><l>ábending<s n="n"/><s n="f"/></l><r>comment<s n="n"/></r></p></e>
     <e><p><l>meðlimur<s n="n"/><s n="m"/></l><r>member<s n="n"/></r></p></e>
+    <e><p><l>lánadrottinn<s n="n"/><s n="m"/></l><r>lender<s n="n"/></r></p></e>
     <e><p><l>bankamaður<s n="n"/><s n="m"/></l><r>banker<s n="n"/></r></p></e>
     <e><p><l>karldýr<s n="n"/><s n="m"/></l><r>male<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
     <e><p><l>kvendýr<s n="n"/><s n="f"/></l><r>female<b/>animal<s n="n"/></r></p></e> <!-- better tr? -->
@@ -11895,6 +11897,7 @@
 
     <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Mexíkó<s n="np"/><s n="top"/><s n="nt"/></l><r>Mexico<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Haítí<s n="np"/><s n="top"/><s n="nt"/></l><r>Haiti<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e> 
@@ -12004,7 +12007,6 @@
 <e><p><l>svo<s n="adv"/><s n=":0"/></l><r>so<s n="adv"/></r></p></e>
 <e><p><l>svo<s n="adv"/><s n=":1"/></l><r>then<s n="adv"/></r></p></e>
 <e><p><l>svo<s n="adv"/><s n=":2"/></l><r>thus<s n="adv"/></r></p></e>
-<e><p><l>svo<s n="adv"/><s n=":3"/></l><r>so<s n="adv"/></r></p></e>
 <e><p><l>svoleiðis<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
 <e><p><l>svona<s n="adv"/><s n=":0"/></l><r>like<b/>that<s n="adv"/></r></p></e>
 <e><p><l>svona<s n="adv"/><s n=":1"/></l><r>about<s n="adv"/></r></p></e>

@@ -296,7 +296,7 @@ SELECT:r30b $$NUMBER IF (-1C Det + $$NUMBER)(0 N);
 SELECT:r30c $$NUMBER IF (-1C IndefPron + $$NUMBER)(0 N);
 
 # enga bók
-SELECT:r31 Det IF (1C N) (0 Det) (0 IndefPron);
+SELECT:r31 Det IF (1C PRE-N) (0 Det) (0 IndefPron);
 
 #Nánast allir Íslendingar nota nú netið með ADSL.
 SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C N) (1C $$NAGD);
