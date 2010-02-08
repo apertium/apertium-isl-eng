@@ -11490,6 +11490,7 @@
     <e><p><l>rómanskur<s n="adj"/><s n=":0"/></l><r>Romance<s n="adj"/></r></p></e>
     <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
     <e><p><l>dóminískur<s n="adj"/></l><r>Dominican<s n="adj"/></r></p></e>
+    <e><p><l>rökréttur<s n="adj"/></l><r>logical<s n="adj"/></r></p></e>
 
     <e><p><l>í<b/>smáatriðum<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
@@ -12058,6 +12059,7 @@
 <e><p><l>þversum<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
 <e><p><l>þá<s n="adv"/></l><r>at that time<s n="adv"/></r></p></e>
 <e><p><l>þó<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+<e><p><l>rökrétt<s n="adv"/></l><r>logically<s n="adv"/></r></p></e>
 
 <!-- END TODO -->
 
