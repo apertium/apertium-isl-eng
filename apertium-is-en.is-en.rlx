@@ -304,6 +304,9 @@ SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C N) (1C $$NAGD);
 #Hundur systur minnar
 SELECT Gen IF (-1C Nom) (0 NAGD) (1C PossPron)
 
+#á mati lögreglu
+SELECT Gen IF (-1C Nom OR Acc OR Dat);
+
 #################################################################################
 # Verbs
 #################################################################################
