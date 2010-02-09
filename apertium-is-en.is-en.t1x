@@ -84,6 +84,16 @@
      <cat-item tags="prn.p2.*"/>
      <cat-item tags="prn.p3.*"/>
   </def-cat>
+ 
+  <def-cat n="prnpers_gen">
+     <cat-item tags="prn.p1.*.*.gen.*"/>
+     <cat-item tags="prn.p2.*.*.gen.*"/>
+     <cat-item tags="prn.p3.*.*.gen.*"/>
+     <cat-item tags="prn.p1.*.*.gen"/>
+     <cat-item tags="prn.p2.*.*.gen"/>
+     <cat-item tags="prn.p3.*.*.gen"/>
+  </def-cat>
+
 
   <def-cat n="prn_poss">
     <cat-item tags="prn.pos.*"/>
@@ -941,7 +951,7 @@
     <choose>
          <when>
            <test>
-             <equal>
+             <equal caseless="yes">
                <clip pos="1" side="sl" part="lem"/>
                <lit v="minn"/>
              </equal>
@@ -965,7 +975,7 @@
          </when>
          <when>
            <test>
-             <equal>
+             <equal caseless="yes">
                <clip pos="1" side="sl" part="lem"/>
                <lit v="hann"/>
              </equal>
@@ -977,7 +987,7 @@
          </when>
          <when>
            <test>
-             <equal>
+             <equal caseless="yes">
                <clip pos="1" side="sl" part="lem"/>
                <lit v="hún"/>
              </equal>
@@ -990,7 +1000,7 @@
          <when>
            <test>
              <and>
-               <equal>
+               <equal caseless="yes">
                  <clip pos="1" side="sl" part="lem"/>
                  <lit v="það"/>
                </equal>
@@ -1008,7 +1018,7 @@
          <when>
            <test>
              <and>
-               <equal>
+               <equal caseless="yes">
                  <clip pos="1" side="sl" part="lem"/>
                  <lit v="ég"/>
                </equal>
@@ -1026,7 +1036,7 @@
          <when>
            <test>
              <or>
-               <equal>
+               <equal caseless="yes">
                  <clip pos="1" side="sl" part="lem"/>
                  <lit v="þér"/>
                </equal>
@@ -1044,7 +1054,7 @@
          <when>
            <test>
              <and>
-               <equal>
+               <equal caseless="yes"> 
                  <clip pos="1" side="sl" part="lem"/>
                  <lit v="það"/>
                </equal>
@@ -1061,7 +1071,7 @@
          </when>
          <when>
            <test>
-             <equal>
+             <equal caseless="yes">
                <clip pos="1" side="sl" part="lem"/>
                <lit v="sinn"/>
              </equal>
@@ -2894,7 +2904,48 @@
 
 
 
-  <rule comment="REGLA: NOM PRNPOS"><!-- rule for nouns followed by possessive pronoun -->
+  <rule comment="REGLA: PRNPERSGEN NOM">
+     <pattern>
+       <pattern-item n="prnpers_gen"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="1"/>
+       </call-macro>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule><!-- END rule for nouns -->
+
+
+  <rule comment="REGLA: NOM PRNPOS">
      <pattern>
        <pattern-item n="nom"/>
        <pattern-item n="prn_poss"/>
