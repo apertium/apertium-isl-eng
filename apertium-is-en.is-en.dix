@@ -10163,6 +10163,7 @@
     <e><p><l>strákur<s n="n"/><s n="m"/></l><r>boy<s n="n"/></r></p></e>
     <e><p><l>stræti<s n="n"/><s n="nt"/></l><r>street<s n="n"/></r></p></e>
     <e><p><l>stríð<s n="n"/><s n="nt"/></l><r>war<s n="n"/></r></p></e>
+    <e><p><l>vetrarstríð<s n="n"/><s n="nt"/></l><r>winter<b/>war<s n="n"/></r></p></e>
     <e><p><l>stríðsfangi<s n="n"/><s n="m"/></l><r>prisoner<g><b/>of<b/>war</g><s n="n"/></r></p></e>
     <e><p><l>strönd<s n="n"/><s n="f"/></l><r>beach<s n="n"/></r></p></e>
     <!--<e><p><l>strönd<s n="n"/><s n="f"/></l><r>coast<s n="n"/></r></p></e>-->
@@ -12003,6 +12004,7 @@
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
+    <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
 
     <e r="RL"><p><l>útland<s n="n"/><s n="nt"/><s n="GD"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->

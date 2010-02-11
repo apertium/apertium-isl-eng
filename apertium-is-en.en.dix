@@ -20521,6 +20521,7 @@
     <e lm="aristocrat"><i>aristocrat</i><par n="house__n"/></e>
     <e lm="ark"><i>ark</i><par n="house__n"/></e>
     <e lm="army"><i>arm</i><par n="bab/y__n"/></e>
+    <e lm="Soviet army"><par n="Ss"/><i>oviet<b/>arm</i><par n="bab/y__n"/></e>
     <e lm="arm"><i>arm</i><par n="house__n"/></e>
     <e lm="firearm"><i>firearm</i><par n="house__n"/></e>
     <e lm="armament"><i>armament</i><par n="house__n"/></e>
@@ -25329,6 +25330,7 @@
     <e lm="walnut"><i>walnut</i><par n="house__n"/></e>
     <e lm="wand"><i>wand</i><par n="house__n"/></e>
     <e lm="war"><i>war</i><par n="house__n"/></e>
+    <e lm="winter war"><i>winter<b/>war</i><par n="house__n"/></e>
     <e lm="wardrobe"><i>wardrobe</i><par n="house__n"/></e>
     <e lm="warehouse"><i>warehouse</i><par n="house__n"/></e>
     <e lm="warming"><i>warming</i><par n="house__n"/></e>

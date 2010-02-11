@@ -411,6 +411,8 @@ MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NO
 MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
+MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C VerbFin + $$NUMBER + (p3)) (0 N + Nom + $$NUMBER);
+
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
 
@@ -425,7 +427,7 @@ MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB)
 
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
 
-MAP (@N→) TARGET (num) (0C (num)) (1C* N BARRIER CLB);
+MAP (@N→) TARGET (num) (0C (num)) (1C* N BARRIER CLB | VerbFin);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
 
 MAP (@CS→) TARGET (cnjsub) (0C (cnjsub));
