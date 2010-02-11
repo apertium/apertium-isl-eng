@@ -221,6 +221,8 @@ REMOVE ("<þá>"ri) + PersPron IF (1 Verb OR Conj OR  Adv OR  N);
 REMOVE ("<þá>"ri) + PersPron IF (-1 VerbBe OR Conj OR  Adv OR  N);
 REMOVE ("<þá>"ri) + PersPron IF ((-1C Refl) OR (-1 VerbBe OR PersPron)); # væri þá and réði sig þá
 
+REMOVE PersPron + Nom IF (-1C* PersPron + Nom BARRIER VerbFin);
+
 #################################################################################
 # Indefinite pronouns 
 #################################################################################
@@ -305,7 +307,7 @@ SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C N) (1C $$NAGD);
 SELECT Gen IF (-1C Nom) (0 NAGD) (1C PossPron)
 
 #á mati lögreglu
-SELECT Gen IF (-1C Nom OR Acc OR Dat);
+SELECT Gen IF (-1C N) (-1C Nom OR Acc OR Dat) (NOT 0 VerbFin);
 
 #################################################################################
 # Verbs
