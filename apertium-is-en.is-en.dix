@@ -54,6 +54,7 @@
     <sdef n="midv" /> 
     <sdef n="sent" /> 
     <sdef n="cm" /> 
+    <sdef n="guio" /> 
     <sdef n="adj" /> 
     <sdef n="sint" /> 
     <sdef n="sup" /> 
@@ -146,6 +147,7 @@
     <e><re>[2-9]*</re><p><l>3.<b/></l><r>3rd<b/></r></p><par n="mánuðir__months__num"/></e>
 
     <e><re>[,]</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+    <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
@@ -11996,6 +11998,7 @@
     <e><p><l>betrumbæta<s n="vblex"/></l><r>improve<s n="vblex"/></r></p></e>
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
     <e><p><l>apa<s n="vblex"/></l><r>imitate<s n="vblex"/></r></p></e> <!-- ape ? -->
+    <e><p><l>aðskilja<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e> 
     <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>
     <e><p><l>sitja<g><b/>hjá</g><s n="vblex"/></l><r>abstain<s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>mark<g><b/>up</g><s n="vblex"/></r></p></e>

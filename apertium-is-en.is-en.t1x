@@ -32,7 +32,6 @@
   <def-cat n="ant">
      <cat-item tags="np.ant.*"/>
   </def-cat>
-
   <def-cat n="auxcj">
      <cat-item tags="vbser.pri.*"/>
      <cat-item tags="vbser.prs.*"/>
@@ -172,6 +171,9 @@
      <cat-item tags="preadv"/>
   </def-cat>
 
+  <def-cat n="guio">
+     <cat-item tags="guio"/>
+  </def-cat>
   <def-cat n="sent">
      <cat-item tags="sent"/>
   </def-cat>
@@ -2070,9 +2072,10 @@
 
 
 
-  <rule comment="REGLA: Nom Nom"><!-- rule for noun + noun (compounds) -->
+  <rule comment="REGLA: NOM GUIO NOM → NOM GUIO NOM">
      <pattern>
        <pattern-item n="nom"/>
+       <pattern-item n="guio"/>
        <pattern-item n="nom"/>
      </pattern>
      <action>
@@ -2083,26 +2086,26 @@
          <when>
            <test>
              <equal>
-               <clip pos="2" side="sl" part="a_art"/>
+               <clip pos="3" side="sl" part="a_art"/>
                <lit-tag v="def"/>
              </equal>
            </test>
            <out>
-             <chunk name="det_nom_nom" case="caseFirstWord">
+             <chunk name="det_nom-nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
                  <get-case-from pos="1">
                    <lit v="the"/>
                  </get-case-from>
                  <lit-tag v="det.def"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
                </lu>
                <b/>
               <lu>
-                 <get-case-from pos="2">
+                 <get-case-from pos="3">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_nom"/>
@@ -2111,20 +2114,24 @@
                </lu>
                <b pos="1"/>
                <lu>
-                 <clip pos="2" side="tl" part="lemh"/>
-                 <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
-                 <clip pos="2" side="tl" part="lemq"/>
+                 <clip pos="2" side="tl" part="whole"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
          </when>
          <otherwise>
            <out>
-             <chunk name="nom_nom" case="caseFirstWord">
+             <chunk name="nom-nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
                  <get-case-from pos="1">
@@ -2136,10 +2143,14 @@
                </lu>
                <b pos="1"/>
                <lu>
-                 <clip pos="2" side="tl" part="lemh"/>
-                 <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
-                 <clip pos="2" side="tl" part="lemq"/>
+                 <clip pos="2" side="tl" part="whole"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>

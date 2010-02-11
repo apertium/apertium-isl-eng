@@ -29,6 +29,7 @@ LIST PossPron = (prn pos) ;
 LIST Pron = (prn);
 LIST Prep = (pr) ;
 LIST Participle = (pp) (supn);
+LIST PP = (actv pp) ;
 LIST Inf = (inf) ;
 LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
@@ -280,6 +281,10 @@ SELECT Prep IF (0 Prep) (0 Adv) (1C PRE-N);
 # NPs  
 #################################################################################
 
+REMOVE:ufc_f  PP + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
+REMOVE:ufc_m  PP + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
+REMOVE:ufc_nt PP + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
+
 REMOVE:ufc_f  Adj + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
 REMOVE:ufc_m  Adj + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
 REMOVE:ufc_nt Adj + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
@@ -292,16 +297,19 @@ SELECT:r30 $$GENDER IF (-1C Num + $$GENDER)(0 N);
 SELECT:r28 $$GENDER IF (-1C Adj + $$GENDER)(0 N);
 SELECT:r28b $$GENDER IF (-1C Det + $$GENDER)(0 N);
 SELECT:r28c $$GENDER IF (-1C IndefPron + $$GENDER)(0 N);
+SELECT:r28d $$GENDER IF (-1C PP + $$GENDER)(0 N);
 
 SELECT:r30 $$NAGD IF (-1C Num + $$NAGD)(0 N);
 SELECT:r29 $$NAGD IF (-1C Adj + $$NAGD)(0 N);
 SELECT:r29b $$NAGD IF (-1C Det + $$NAGD)(0 N);
 SELECT:r29c $$NAGD IF (-1C IndefPron + $$NAGD)(0 N);
+SELECT:r29d $$NAGD IF (-1C PP + $$NAGD)(0 N);
 
 SELECT:r30 $$NUMBER IF (-1C Num + $$NUMBER)(0 N);
 SELECT:r30 $$NUMBER IF (-1C Adj + $$NUMBER)(0 N);
 SELECT:r30b $$NUMBER IF (-1C Det + $$NUMBER)(0 N);
 SELECT:r30c $$NUMBER IF (-1C IndefPron + $$NUMBER)(0 N);
+SELECT:r30d $$NUMBER IF (-1C PP + $$NUMBER)(0 N);
 
 # enga bók
 SELECT:r31 Det IF (1C PRE-N) (0 Det) (0 IndefPron);
@@ -341,7 +349,7 @@ SELECT:r53 $$PERSON IF (-1 PersPron + $$PERSON)(0 VerbFin) (NOT 1 ("er"ri));
 
 SELECT:r53a $$PERSON IF (1C PersPron + $$PERSON + Nom)(0 VerbFin) (NOT 1 ("er"ri));
 
-SELECT:r53b VerbFin + $$NUMBER IF (-1 N + $$NUMBER + Nom) (0 VerbFin) (NOT 1 ("er"ri));
+SELECT:r53b VerbFin + $$NUMBER IF (-1 N + $$NUMBER + Nom) (0 VerbFin) (NOT 1 ("er"ri)) (NOT 0 ("sem"ri));
 
 # The modals munu and skulu can never be preceded by another auxiliary. (p.10)
 REMOVE:r54 VerbAux IF (1C ("munu") OR ("skulu")); 
@@ -417,7 +425,7 @@ MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB)
 
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
 
-MAP (@N→) TARGET (num) (0C (num)) (1C N);
+MAP (@N→) TARGET (num) (0C (num)) (1C* N BARRIER CLB);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
 
 MAP (@CS→) TARGET (cnjsub) (0C (cnjsub));
