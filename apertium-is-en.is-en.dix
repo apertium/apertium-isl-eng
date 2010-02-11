@@ -7051,7 +7051,7 @@
     <!--<e><p><l>dís<s n="n"/><s n="f"/></l><r>fairy<s n="n"/></r></p></e>-->
     <e><p><l>dís<s n="n"/><s n="f"/></l><r>goddess<s n="n"/></r></p></e>
     <e><p><l>dómari<s n="n"/><s n="m"/></l><r>judge<s n="n"/></r></p></e>
-    <e><p><l>dómsmálaráðherra<s n="n"/><s n="m"/></l><r>minister<g><b/>of<b/>justice</g><s n="n"/></r></p></e>
+    <e><p><l>dómsmálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Justice</g><s n="n"/></r></p></e>
     <!--<e><p><l>dómur<s n="n"/><s n="m"/></l><r>judgement<s n="n"/></r></p></e>-->
     <e><p><l>dómur<s n="n"/><s n="m"/></l><r>verdict<s n="n"/></r></p></e>
     <e><p><l>dósent<s n="n"/><s n="m"/></l><r>dosent<s n="n"/></r></p></e>
@@ -7315,7 +7315,7 @@
     <e><p><l>fjaðurpenni<s n="n"/><s n="m"/></l><r>quill<s n="n"/></r></p></e> <!-- (pen made from a feather) -->
     <e><p><l>fjárfesting<s n="n"/><s n="f"/></l><r>investment<s n="n"/></r></p></e>
     <e><p><l>fjárhundur<s n="n"/><s n="m"/></l><r>sheepdog<s n="n"/></r></p></e>
-    <e><p><l>fjármálaráðherra<s n="n"/><s n="m"/></l><r>minister<g><b/>of<b/>finance</g><s n="n"/></r></p></e>
+    <e><p><l>fjármálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Finance</g><s n="n"/></r></p></e>
     <e><p><l>fjórðungur<s n="n"/><s n="m"/></l><r>quarter<s n="n"/></r></p></e> <!-- (one of four equal parts) -->
     <!--<e><p><l>fjós<s n="n"/><s n="nt"/></l><r>cattle<b/>shed<s n="n"/></r></p></e>-->
     <e><p><l>fjós<s n="n"/><s n="nt"/></l><r>cowshed<s n="n"/></r></p></e>
@@ -7424,7 +7424,7 @@
     <!--<e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>-->
     <e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>CEO<s n="n"/></r></p></e>
     <e><p><l>forsæla<s n="n"/><s n="f"/></l><r>shade<s n="n"/></r></p></e>
-    <e><p><l>forsætisráðherra<s n="n"/><s n="m"/></l><r>prime<b/>minister<s n="n"/></r></p></e>
+    <e><p><l>forsætisráðherra<s n="n"/><s n="m"/></l><r>Prime<b/>Minister<s n="n"/></r></p></e>
     <!--<e><p><l>forsíða<s n="n"/><s n="f"/></l><r>main<b/>page<s n="n"/></r></p></e>-->
     <e><p><l>forsíða<s n="n"/><s n="f"/></l><r>front<b/>page<s n="n"/></r></p></e>
     <e><p><l>fortíð<s n="n"/><s n="f"/></l><r>past<s n="n"/></r></p></e>
@@ -11528,6 +11528,35 @@
     <e><p><l>miðjumaður<s n="n"/><s n="m"/></l><r>midfielder<s n="n"/></r></p></e> 
     <e><p><l>framfæri<s n="n"/><s n="nt"/></l><r>furtherance<s n="n"/></r></p></e>
     <!--<e><p><l>framfæri<s n="n"/><s n="nt"/></l><r>support<s n="n"/></r></p></e>-->
+
+    <!-- Ministries of the Icelandic Government: -->
+    <e><p><l>forsætisráðuneyti<s n="n"/><s n="nt"/></l><r>Prime<b/>Minister's<b/>Office<s n="n"/></r></p></e>
+    <e><p><l>efnahags-<b/>og<b/>viðskiptaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Economic<b/>Affairs</g><s n="n"/></r></p></e>
+    <e><p><l>dómsmála-<b/>og<b/>mannréttindaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Justice<b/>and<b/>Human<b/>Rights</g><s n="n"/></r></p></e>
+    <e><p><l>félagsmála-<b/>og<b/>tryggingamálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Social<b/>Affairs<b/>and<b/>Social<b/>Security</g><s n="n"/></r></p></e>
+    <e><p><l>fjármálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Finance</g><s n="n"/></r></p></e>
+    <e><p><l>heilbrigðisráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Health</g><s n="n"/></r></p></e>
+    <e><p><l>iðnaðarráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Industry,<b/>Energy<b/>and<b/>Tourism</g><s n="n"/></r></p></e>
+    <e><p><l>mennta-<b/>og<b/>menningarmálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Education,<b/>Science<b/>and<b/>Culture</g><s n="n"/></r></p></e>
+    <e><p><l>samgöngu-<b/>og<b/>sveitarstjórnarráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Transport,<b/>Communications<b/>and<b/>Local<b/>Government</g><s n="n"/></r></p></e>
+    <e><p><l>sjávarútvegs-<b/>og<b/>landbúnaðarráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Fisheries<b/>and<b/>Agriculture</g><s n="n"/></r></p></e>
+    <e><p><l>umhverfisráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>for<b/>the<b/>Environment</g><s n="n"/></r></p></e>
+    <e><p><l>utanríkisráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>for<b/>Foreign<b/>Affairs</g><s n="n"/></r></p></e>
+
+    <!-- The following ministries are not normally referred to on their own, but it can happen: -->
+    <e><p><l>efnahagsráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Economic<b/>Affairs</g><s n="n"/></r></p></e>
+    <e><p><l>viðskiptaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Business<b/>Affairs</g><s n="n"/></r></p></e>
+    <e><p><l>dómsmálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Justice</g><s n="n"/></r></p></e>
+    <e><p><l>mannréttindaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Human<b/>Rights</g><s n="n"/></r></p></e>
+    <e><p><l>félagsmálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Social<b/>Affairs</g><s n="n"/></r></p></e>
+    <e><p><l>tryggingamálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Social<b/>Security</g><s n="n"/></r></p></e>
+    <e><p><l>menntamálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Education<b/>and<b/>Science</g><s n="n"/></r></p></e>
+    <e><p><l>menningarmálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Culture</g><s n="n"/></r></p></e>
+    <e><p><l>samgöngumálaráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Transport</g><s n="n"/></r></p></e>
+    <e><p><l>sveitarstjórnarráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Local<b/>Government</g><s n="n"/></r></p></e>
+    <e><p><l>sjávarútvegsráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Fisheries</g><s n="n"/></r></p></e>
+    <e><p><l>landbúnaðarráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Agriculture</g><s n="n"/></r></p></e>
+
     <!-- END Nouns -->
 <!-- END Do sort alphabetically -->
 
