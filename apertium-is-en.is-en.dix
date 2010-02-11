@@ -11334,8 +11334,8 @@
     <e><p><l>úrskurður<s n="n"/><s n="m"/></l><r>decision<s n="n"/></r></p></e>
     <e><p><l>sálfræðingur<s n="n"/><s n="m"/></l><r>psychologist<s n="n"/></r></p></e>
     <e><p><l>stuðningur<s n="n"/><s n="m"/></l><r>support<s n="n"/></r></p></e>
-    <e><p><l>peningur<s n="n"/><s n="m"/><s n="sg"/></l><r>coin<s n="n"/></r></p></e>
-    <e><p><l>peningur<s n="n"/><s n="m"/><s n="pl"/></l><r>money<s n="n"/></r></p></e>  <!-- "he's got a lot of coin" ;) -->
+    <e><p><l>peningur<s n="n"/><s n="m"/><s n="sg"/></l><r>coin<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>peningur<s n="n"/><s n="m"/><s n="pl"/></l><r>money<s n="n"/><s n="sg"/></r></p></e>  <!-- "he's got a lot of coin" ;) -->
     <e><p><l>útreikningur<s n="n"/><s n="m"/></l><r>calculation<s n="n"/></r></p></e>
     <e><p><l>misskilningur<s n="n"/><s n="m"/></l><r>misunderstanding<s n="n"/></r></p></e>
     <e><p><l>þrýstingur<s n="n"/><s n="m"/></l><r>pressure<s n="n"/></r></p></e>
