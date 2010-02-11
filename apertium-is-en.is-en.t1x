@@ -144,6 +144,7 @@
   <def-cat n="sadv">
      <cat-item lemma="aldrei" tags="adv"/>
      <cat-item lemma="alltaf" tags="adv"/>
+     <cat-item lemma="ávallt" tags="adv"/>
      <cat-item lemma="ekki" tags="adv"/>
   </def-cat>
 
