@@ -294,6 +294,7 @@
     <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="nt"/></l><r>its<s n="prn"/><s n="pos"/><s n="nt"/></r></p></e>
     <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/></l><r>his<s n="prn"/><s n="pos"/><s n="m"/></r></p></e>
     <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/></l><r>hers<s n="prn"/><s n="pos"/><s n="f"/></r></p></e>
+    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="mf"/></l><r>his<s n="prn"/><s n="pos"/><s n="GD"/></r></p></e>
     <e><p><l>mínir<s n="prn"/><s n="pos"/></l><r>ours<s n="prn"/><s n="pos"/></r></p></e>
     <e><p><l>þínir<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p></e>
     <e><p><l>sínir<s n="prn"/><s n="pos"/></l><r>theirs<s n="prn"/><s n="pos"/></r></p></e>
@@ -5330,7 +5331,8 @@
 <!--<p><l>merkja<s n="vblex"/></l><r>label<s n="vblex"/></r></p></e>-->
 <!--<p><l>merkja<s n="vblex"/></l><r>mark<s n="vblex"/></r></p></e>-->
     <e><p><l>merkja<s n="vblex"/></l><r>tag<s n="vblex"/></r></p></e>
-    <e><p><l>minna<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
+    <e><p><l>minna<s n="vblex"/><s n="actv"/></l><r>remind<s n="vblex"/></r></p></e>
+    <e><p><l>minna<s n="vblex"/><s n="midv"/></l><r>remember<s n="vblex"/></r></p></e>
     <e><p><l>minnka<s n="vblex"/></l><r>reduce<s n="vblex"/></r></p></e>
     <e><p><l>missa<s n="vblex"/></l><r>miss<s n="vblex"/></r></p></e>
     <e><p><l>miða<g><b/>við</g><s n="vblex"/></l><r>compare<g><b/>to</g><s n="vblex"/></r></p></e>
@@ -11678,6 +11680,7 @@
     <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
     <e><p><l>dóminískur<s n="adj"/></l><r>Dominican<s n="adj"/></r></p></e>
     <e><p><l>rökréttur<s n="adj"/></l><r>logical<s n="adj"/></r></p></e>
+    <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
 
     <e><p><l>í<b/>smáatriðum<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
     <e><p><l>þarna<b/>fyrir<b/>handan<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></p></e>
@@ -12014,6 +12017,7 @@
     <e><p><l>foreldrar<s n="n"/><s n="m"/><s n="pl"/></l><r>parent<s n="n"/><s n="pl"/></r></p></e> <!-- is. pl. only -->
     <e><p><l>vinnubrögð<s n="n"/><s n="nt"/><s n="pl"/></l><r>method<s n="n"/><s n="pl"/></r></p></e> <!-- is. pl. only -->
     <e><p><l>Sovétmaður<s n="n"/><s n="m"/></l><r>Soviet<s n="n"/></r></p></e> <!-- person -->
+    <e><p><l>Kúbumaður<s n="n"/><s n="m"/></l><r>Cuban<s n="n"/></r></p></e> <!-- person -->
     <e><p><l>Brasilíumaður<s n="n"/><s n="m"/></l><r>Brazilian<s n="n"/></r></p></e> <!-- person -->
 
 

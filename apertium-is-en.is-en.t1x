@@ -2896,6 +2896,61 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: ADJ NOM POSS">
+     <pattern>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="prn_poss"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="3"/>
+       </call-macro>
+           <out>
+             <chunk name="det_adj_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <clip pos="3" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>        
+               <b pos="1"/>
+               <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="2">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b/>
+               <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
+
   <rule comment="REGLA: ADJ NOM NOMGEN POSS">
      <pattern>
        <pattern-item n="adj"/>
