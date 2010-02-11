@@ -23932,6 +23932,7 @@
     <e lm="president"><i>president</i><par n="house__n"/></e>
     <e lm="American president"><i>American<b/>president</i><par n="house__n"/></e>
     <e lm="French president"><i>French<b/>president</i><par n="house__n"/></e>
+    <e lm="Russian president"><i>Russian<b/>president</i><par n="house__n"/></e>
     <e lm="press"><i>press</i><par n="politics__n"/></e>
     <e lm="pressure"><i>pressure</i><par n="house__n"/></e>
     <e lm="prestige"><i>prestige</i><par n="house__n"/></e>
