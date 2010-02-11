@@ -12002,6 +12002,7 @@
     <e><p><l>hefja<g><b/>viðræður</g><s n="vblex"/></l><r>start<g><b/>talks</g><s n="vblex"/></r></p></e>
     <e><p><l>bíða<g><b/>eftir</g><s n="vblex"/></l><r>wait<g><b/>for</g><s n="vblex"/></r></p></e>
     <e><p><l>skilja<g><b/>jöfn</g><s n="vblex"/></l><r>draw<s n="vblex"/></r></p></e> <!-- a match -->
+    <e><p><l>ganga<g><b/>berserksgang</g><s n="vblex"/></l><r>go<g><b/>beserk</g><s n="vblex"/></r></p></e> 
     <e><p><l>vinna<g><b/>a<b/>vöktum</g><s n="vblex"/></l><r>work<g><b/>shifts</g><s n="vblex"/></r></p></e>
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
@@ -12053,6 +12054,8 @@
     <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Kanaríeyjar<s n="np"/><s n="top"/><s n="f"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/></r></p></e>
+    <e r="LR"><p><l>Kanarí<s n="np"/><s n="top"/><s n="nt"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Mexíkó<s n="np"/><s n="top"/><s n="nt"/></l><r>Mexico<s n="np"/><s n="top"/></r></p></e>
