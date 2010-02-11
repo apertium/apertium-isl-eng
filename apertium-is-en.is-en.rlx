@@ -387,6 +387,7 @@ LIST @-FAUXV = @-FAUXV;
 LIST @+FAUXV = @FAUXV; 
 LIST @←N = @←N;
 LIST @N→ = @N→;
+LIST @CS→ = @CS→;
 LIST @CNP = @CNP; # SN co-ordinator
 LIST @CVP = @CVP; # SV co-ordinator
 
@@ -395,6 +396,7 @@ MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron) (N
 MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
+MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
 
 MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (-1* @SUBJ→ + $$NUMBER BARRIER CLB);
 
@@ -409,6 +411,8 @@ MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER C
 
 MAP (@N→) TARGET (num) (0C (num)) (1C N);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
+
+MAP (@CS→) TARGET (cnjsub) (0C (cnjsub));
 
 AFTER-SECTIONS
 

@@ -33,39 +33,55 @@
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="indef" npar="1">
-      <let><var n="paraula"/><clip pos="1" part="nbr"/></let>
+    <def-macro n="lastword" npar="1">
+      <let><var n="paraula"/><clip pos="1" part="lem"/></let>
     </def-macro>
   </section-def-macros>
 
   <section-rules>
-<!--
-     <rule comment="CHUNK: eins og NOMSG → like a NOMSG">
+     <rule comment="CHUNK: ">
        <pattern>
          <pattern-item n="eins_og"/>
+       </pattern>
+       <action> 
+         <out>
+           <lu>
+             <clip pos="1" part="whole"/>
+           </lu>
+         </out> 
+         <call-macro n="lastword">
+           <with-param pos="1"/>
+         </call-macro>
+       </action>
+     </rule>
+
+     <rule comment="CHUNK: ">
+       <pattern>
          <pattern-item n="nom"/>
        </pattern>
        <action> 
         <choose>
            <when>
              <test>
-               <equal>
-                 <clip pos="2" part="nbr"/>
-                 <lit-tag v="sg"/>
-               </equal>
+               <and>
+                 <equal caseless="yes">
+                   <var n="paraula"/>
+                   <lit v="like"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" part="nbr"/>
+                   <lit-tag v="sg"/>
+                 </equal>
+               </and>
              </test>
              <out>
-               <lu>
-                 <clip pos="1" part="whole"/> 
-               </lu>
-               <b pos="1"/>
                <lu>
                  <lit v="a"/>
                  <lit-tag v="det.ind.sg"/>
                </lu>
                <b/>
                <lu>
-                 <clip pos="2" part="whole"/> 
+                 <clip pos="1" part="whole"/> 
                </lu>
              </out>
            </when>
@@ -74,27 +90,12 @@
                <lu>
                  <clip pos="1" part="whole"/>
                </lu>
-               <b pos="1"/>
-               <lu>
-                 <clip pos="2" part="whole"/> 
-               </lu>
              </out> 
            </otherwise>
          </choose> 
-       </action>
-     </rule>
-
--->
-     <rule comment="CHUNK: ">
-       <pattern>
-         <pattern-item n="nom"/>
-       </pattern>
-       <action> 
-             <out>
-               <lu>
-                 <clip pos="1" part="whole"/>
-               </lu>
-             </out> 
+         <call-macro n="lastword">
+           <with-param pos="1"/>
+         </call-macro>
        </action>
      </rule>
 
