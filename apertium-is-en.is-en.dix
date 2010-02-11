@@ -8027,8 +8027,8 @@
     <!--<e><p><l>hluti<s n="n"/><s n="m"/></l><r>piece<s n="n"/></r></p></e>-->
     <!--<e><p><l>hluti<s n="n"/><s n="m"/></l><r>portion<s n="n"/></r></p></e>-->
     <!--<e><p><l>hluti<s n="n"/><s n="m"/></l><r>share<s n="n"/></r></p></e>-->
-    <e><p><l>hlutur<s n="n"/><s n="m"/></l><r>object<s n="n"/></r></p></e>
-    <!--<e><p><l>hlutur<s n="n"/><s n="m"/></l><r>thing<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hlutur<s n="n"/><s n="m"/></l><r>object<s n="n"/></r></p></e>-->
+    <e><p><l>hlutur<s n="n"/><s n="m"/></l><r>thing<s n="n"/></r></p></e>
     <e><p><l>hlutverk<s n="n"/><s n="nt"/></l><r>role<s n="n"/></r></p></e>
     <!--<e><p><l>hlutverk<s n="n"/><s n="nt"/></l><r>task<s n="n"/></r></p></e>-->
     <!--<e><p><l>hlátur<s n="n"/><s n="m"/></l><r>laugh<s n="n"/></r></p></e>-->
