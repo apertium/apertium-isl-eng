@@ -32,6 +32,9 @@
     <def-cat n="PREP">
       <cat-item tags="PREP"/>
     </def-cat>
+    <def-cat n="NEG">
+      <cat-item lemma="ekki" tags="SADV"/>
+    </def-cat>
     <def-cat n="SADV"> <!-- Sentence adverbial -->
       <cat-item tags="SADV"/>
     </def-cat>
@@ -71,6 +74,7 @@
 
   <section-def-vars>
     <def-var n="modal"/>
+    <def-var n="chunk_do"/>
     <def-var n="nombre"/>
     <def-var n="genere"/>
   </section-def-vars>
@@ -105,6 +109,41 @@
           </let>
         </when>
 
+      </choose>
+    </def-macro>
+
+    <def-macro n="generate_do2" npar="2">
+      <choose>
+        <when>
+          <test> 
+            <equal caseless="yes">
+              <clip pos="1" part="lem"/>
+              <lit v="be"/>
+            </equal>
+          </test>
+          <let>
+            <var n="chunk_do"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test> 
+            <equal>
+              <clip pos="1" part="temps"/>
+              <lit-tag v="pres"/>
+            </equal>
+          </test>
+          <let>
+            <var n="chunk_do"/>
+            <concat>
+              <lit v="do"/>
+              <lit-tag v="SVdo.pres"/>
+              <lit v="{^do"/>
+              <lit-tag v="vbdo.pres"/>
+              <lit v="$}"/>
+            </concat>
+          </let>
+        </when>
       </choose>
     </def-macro>
 
@@ -197,6 +236,46 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN_SUBJ_L FMAINV NEG → SN_SUBJ_L do not FMAINV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="NEG"/>
+      </pattern>
+      <action c="Ég vil ekki → I do not want"> 
+        <call-macro n="generate_do2">
+          <with-param pos="2"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <var n="chunk_do"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
     <rule comment="REGLA: SN_SUBJ_L FMAINV → SN_SUBJ_L FMAINV">
       <pattern>

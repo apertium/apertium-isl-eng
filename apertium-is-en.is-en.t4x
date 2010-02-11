@@ -8,6 +8,9 @@
     <def-cat n="nom">
       <cat-item name="nom"/>
     </def-cat>
+    <def-cat n="sent">
+      <cat-item name="sent"/>
+    </def-cat>
   </section-def-cats>
   <section-def-attrs>
     <def-attr n="nbr">
@@ -39,6 +42,23 @@
   </section-def-macros>
 
   <section-rules>
+     <rule comment="CHUNK: ">
+       <pattern>
+         <pattern-item n="sent"/>
+       </pattern>
+       <action> 
+         <out>
+           <lu>
+             <clip pos="1" part="whole"/>
+           </lu>
+         </out> 
+         <call-macro n="lastword">
+           <with-param pos="1"/>
+         </call-macro>
+       </action>
+     </rule>
+
+
      <rule comment="CHUNK: ">
        <pattern>
          <pattern-item n="eins_og"/>

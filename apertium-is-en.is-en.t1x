@@ -3624,6 +3624,37 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: SADV SADV → SADV SADV | ekki alltaf → not always">
+     <pattern>
+       <pattern-item n="sadv"/>
+       <pattern-item n="sadv"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_sent_adv"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_sent_adv" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SADV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
 
 
 
