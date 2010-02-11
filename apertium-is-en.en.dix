@@ -20074,6 +20074,7 @@
     <e lm="nice smell"><i>nice<b/>smell</i><par n="house__n"/></e>
     <e lm="fool"><i>fool</i><par n="house__n"/></e>
     <e lm="primary school"><i>primary<b/>school</i><par n="house__n"/></e>
+    <e lm="technical school"><i>technical<b/>school</i><par n="house__n"/></e>
     <e lm="self control"><i>self<b/>control</i><par n="east__n"/></e>
     <e lm="nominalism "><i>nominalism<b/></i><par n="house__n"/></e>
     <e lm="premium"><i>premium</i><par n="house__n"/></e>
@@ -21783,6 +21784,7 @@
     <e lm="documentary"><i>documentar</i><par n="bab/y__n"/></e>
     <e lm="documentation"><i>documentation</i><par n="house__n"/></e>
     <e lm="dog"><i>dog</i><par n="house__n"/></e>
+    <e lm="drug dog"><i>drug<b/>dog</i><par n="house__n"/></e>
     <e lm="dogma"><i>dogma</i><par n="house__n"/></e>
     <e lm="dogmatism"><i>dogmatism</i><par n="house__n"/></e>
     <e lm="doll"><i>doll</i><par n="house__n"/></e>
@@ -24441,6 +24443,7 @@
     <e lm="sea"><i>sea</i><par n="house__n"/></e>
     <e lm="seal"><i>seal</i><par n="house__n"/></e>
     <e lm="search"><i>search</i><par n="access__n"/></e>
+    <e lm="drug search"><i>drug<b/>search</i><par n="access__n"/></e>
     <e lm="searcher"><i>searcher</i><par n="house__n"/></e>
     <e lm="seasickness"><i>seasickness</i><par n="access__n"/></e>
     <e lm="season"><i>season</i><par n="house__n"/></e>

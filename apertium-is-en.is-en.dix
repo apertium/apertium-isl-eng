@@ -743,6 +743,7 @@
 <!--<p><l>elskulegur<s n="adj"/></l><r>pleasant<s n="adj"/></r></p></e>-->
 <!--<p><l>elskulegur<s n="adj"/></l><r>sweet<s n="adj"/></r></p></e>-->
     <e><p><l>endalaus<s n="adj"/></l><r>endless<s n="adj"/></r></p></e>
+    <e><p><l>fíkniefnalaus<s n="adj"/></l><r>drug-free<s n="adj"/></r></p></e>
 <!--<p><l>endalaus<s n="adj"/></l><r>infinite<s n="adj"/></r></p></e>-->
     <e><p><l>endanlegur<s n="adj"/></l><r>final<s n="adj"/></r></p></e>
 <!--<p><l>endilangur<s n="adj"/></l><r>full<g><b/>length</g><s n="adj"/></r></p></e>-->
@@ -2184,6 +2185,7 @@
 <!--<p><l>virðulegur<s n="adj"/></l><r>reputable<s n="adj"/></r></p></e>-->
     <e><p><l>virðulegur<s n="adj"/></l><r>respectable<s n="adj"/></r></p></e>
     <e><p><l>viss<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
+    <e><p><l>óviss<s n="adj"/></l><r>uncertain<s n="adj"/></r></p></e>
     <e><p><l>vistvænn<s n="adj"/></l><r>eco-friendly<s n="adj"/></r></p></e>
     <e><p><l>vitlaus<s n="adj"/></l><r>stupid<s n="adj"/></r></p></e>
 <!--<p><l>viðburðaríkur<s n="adj"/></l><r>busy<s n="adj"/></r></p></e>-->
@@ -9947,6 +9949,7 @@
     <e><p><l>skólastjóri<s n="n"/><s n="m"/></l><r>principal<s n="n"/></r></p></e>
     <e><p><l>skólaár<s n="n"/><s n="nt"/></l><r>academic<b/>year<s n="n"/></r></p></e>
     <e><p><l>skóli<s n="n"/><s n="m"/></l><r>school<s n="n"/></r></p></e>
+    <e><p><l>tækniskóli<s n="n"/><s n="m"/></l><r>technical<b/>school<s n="n"/></r></p></e>
     <e><p><l>skömm<s n="n"/><s n="f"/></l><r>shame<s n="n"/></r></p></e>
     <e><p><l>skúr<s n="n"/><s n="f"/></l><r>rain<b/>shower<s n="n"/></r></p></e>
     <e><p><l>ský<s n="n"/><s n="nt"/></l><r>cloud<s n="n"/></r></p></e>
@@ -11929,6 +11932,8 @@
     <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="pl"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>sérsveit<s n="n"/><s n="f"/><s n="GD"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
 
+    <e><p><l>fíkniefnahundur<s n="n"/><s n="m"/></l><r>drug<b/>dog<s n="n"/></r></p></e>
+    <e><p><l>fíkniefnaleit<s n="n"/><s n="f"/></l><r>drug<b/>search<s n="n"/></r></p></e>
     <e><p><l>fíkniefni<s n="n"/><s n="nt"/></l><r>drug<s n="n"/></r></p></e>
     <e><p><l>hald<s n="n"/><s n="nt"/></l><r>handle<s n="n"/></r></p></e>
     <e><p><l>vopnamarkaður<s n="n"/><s n="m"/></l><r>weapons<b/>market<s n="n"/></r></p></e>
