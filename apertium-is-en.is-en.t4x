@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- -*- nxml -*- -->
 <postchunk>
-
   <section-def-cats>
+    <def-cat n="eins_og">
+      <cat-item name="eins og"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item name="nom"/>
     </def-cat>
-    <def-cat n="det">
-      <cat-item name="det"/>
-    </def-cat>
-    <def-cat n="adj_nom">
-      <cat-item name="adj_nom"/>
-    </def-cat>
-    <def-cat n="verbcj">
-      <cat-item name="verbcj"/>
-    </def-cat>
   </section-def-cats>
-
   <section-def-attrs>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
@@ -38,187 +30,54 @@
 
   <section-def-vars>
     <def-var n="paraula"/>
-    <def-var n="pp"/>
-    <def-var n="fullinf"/>
   </section-def-vars>
 
-
   <section-rules>
-<!--
-    <rule comment="CHUNK:">
-      <pattern>
-        <pattern-item n="nom"/>
-      </pattern>
-      <action>
-        <out>
-          <lu>
-            <clip pos="1" part="whole"/>
-          </lu>
-        </out>
-      </action>
-    </rule>
--->
 
-     <rule comment="CHUNK:">
+     <rule comment="CHUNK: eins og NOMSG → like a NOMSG">
        <pattern>
+         <pattern-item n="eins_og"/>
          <pattern-item n="nom"/>
        </pattern>
        <action>
         <choose>
            <when>
              <test>
-               <and>
-                 <equal>
-                   <var n="pp"/>
-                   <lit v="true"/>
-                 </equal>
-                 <not>
-                   <equal>
-                     <clip pos="1" part="nbr"/>
-                     <lit-tag v="pl"/>
-                   </equal>
-                 </not>
-               </and>
+               <equal>
+                 <clip pos="2" part="nbr"/>
+                 <lit-tag v="sg"/>
+               </equal>
              </test>
              <out>
+               <lu>
+                 <clip pos="1" part="whole"/> 
+               </lu>
+               <b pos="1"/>
                <lu>
                  <lit v="a"/>
                  <lit-tag v="det.ind.sg"/>
                </lu>
                <b/>
                <lu>
-                 <clip pos="1" part="whole"/>
+                 <clip pos="2" part="whole"/> 
                </lu>
              </out>
-             <let>
-               <var n="pp"/>
-               <lit v="false"/>
-             </let>
            </when>
            <otherwise>
              <out>
                <lu>
                  <clip pos="1" part="whole"/>
                </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="2" part="whole"/> 
+               </lu>
              </out>
-             <let>
-               <var n="pp"/>
-               <lit v="false"/>
-             </let>
            </otherwise>
          </choose>
        </action>
      </rule>
 
-     <rule comment="CHUNK:">
-       <pattern>
-         <pattern-item n="adj_nom"/>
-       </pattern>
-       <action>
-         <choose>
-           <when>
-             <test>
-               <and>
-                 <equal>
-                   <var n="pp"/>
-                   <lit v="true"/>
-                 </equal>
-                 <not>
-                   <equal>
-                     <clip pos="1" part="nbr"/>
-                     <lit-tag v="pl"/>
-                   </equal>
-                 </not>
-               </and>
-              </test>
-             <out>
-               <lu>
-                 <get-case-from pos="1">
-                   <lit v="a"/>
-                 </get-case-from>
-                 <lit-tag v="det.ind.sg"/>
-               </lu>
-               <b/>
-               <lu>
-                 <clip pos="1" part="whole"/>
-               </lu>
-               <b pos="1"/>
-               <lu>
-                 <clip pos="2" part="whole"/>
-               </lu>
-             </out>
-             <let>
-               <var n="pp"/>
-               <lit v="false"/>
-             </let>
-           </when>
-           <otherwise>
-             <out>
-               <lu>
-                   <clip pos="1" part="whole"/>
-               </lu>
-               <b pos="1"/>
-               <lu>
-                 <clip pos="2" part="whole"/>
-               </lu>
-             </out>
-             <let>
-               <var n="pp"/>
-               <lit v="false"/>
-             </let>
-           </otherwise>
-         </choose>
-       </action>
-     </rule>
-
-<!--
-     <rule comment="CHUNK: verbcj"> -->
-                                    <!-- this was actually the rule for prep,
-                                    but we're not handling prepositions in t1x yet,
-                                    so we're doing this temporarily to get the
-                                    indefinite article to work-->
-<!--
-      <pattern>
-         <pattern-item n="verbcj"/>
-       </pattern>
-       <action>
-         <out>
-           <lu>
-             <clip pos="1" part="whole"/>
-           </lu>
-         </out>
-         <let>
-           <var n="pp"/>
-           <lit v="true"/>
-         </let>
-         <let>
-           <var n="fullinf"/>
-           <lit v="false"/>
-         </let>
-       </action>
-     </rule>
-
-     <rule comment="CHUNK: det">
-       <pattern>
-         <pattern-item n="det"/>
-       </pattern>
-       <action>
-         <out>
-           <lu>
-             <clip pos="1" part="whole"/>
-           </lu>
-         </out>
-         <let>
-           <var n="pp"/>
-           <lit v="false"/>
-         </let>
-         <let>
-           <var n="fullinf"/>
-           <lit v="false"/>
-         </let>
-       </action>
-     </rule>
--->
 
   </section-rules>
 </postchunk>

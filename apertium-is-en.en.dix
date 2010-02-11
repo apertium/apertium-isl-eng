@@ -41945,6 +41945,7 @@
     <e lm="chain"><i>chain</i><par n="accept__vblex"/></e>
     <e lm="chair"><i>chair</i><par n="accept__vblex"/></e>
     <e lm="change"><i>chang</i><par n="liv/e__vblex"/></e>
+    <e lm="change course"><i>chang</i><par n="liv/e__vblex"/><p><l><b/>course</l><r><g><b/>course</g></r></p></e>
     <e lm="characterise"><i>characteris</i><par n="liv/e__vblex"/></e>
     <e lm="charge"><i>charg</i><par n="liv/e__vblex"/></e>
     <e lm="chase"><i>chas</i><par n="liv/e__vblex"/></e>

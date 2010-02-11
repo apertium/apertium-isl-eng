@@ -4435,7 +4435,8 @@
 <!--<p><l>eiga<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>-->
     <e><p><l>eiga<s n="vblex"/></l><r>own<s n="vblex"/></r></p></e>
 <!--<p><l>eiga<s n="vblex"/></l><r>shall<s n="vblex"/></r></p></e>-->
-    <e><p><l>eigna<s n="vblex"/></l><r>attribute<s n="vblex"/></r></p></e>
+    <e><p><l>eigna<s n="vblex"/><s n="actv"/></l><r>attribute<s n="vblex"/></r></p></e>
+    <e><p><l>eigna<s n="vblex"/><s n="midv"/></l><r>acquire<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
 <!--<p><l>einangra<s n="vblex"/></l><r>identify<s n="vblex"/></r></p></e>-->
 <!--<p><l>einangra<s n="vblex"/></l><r>insulate<s n="vblex"/></r></p></e>-->
     <e><p><l>einangra<s n="vblex"/></l><r>isolate<s n="vblex"/></r></p></e>
@@ -5104,7 +5105,8 @@
     <e><p><l>koma<g><b/>fram</g><s n="vblex"/></l><r>reveal<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="actv"/></l><r>come<s n="vblex"/></r></p></e>
-    <e><p><l>koma<s n="vblex"/><s n="midv"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>
+<!--<e><p><l>koma<s n="vblex"/><s n="midv"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>koma<s n="vblex"/><s n="midv"/></l><r>reach<s n="vblex"/></r></p></e>
     <e><p><l>kosta<s n="vblex"/></l><r>cost<s n="vblex"/></r></p></e>
 <!--<p><l>kosta<s n="vblex"/></l><r>sponsor<s n="vblex"/></r></p></e>-->
     <e><p><l>krefja<s n="vblex"/></l><r>demand<s n="vblex"/></r></p></e>
@@ -11643,6 +11645,7 @@
     <e><p><l>fjarri<s n="adv"/><s n="sup"/></l><r>furthest<s n="adv"/></r></p></e>
     <e><p><l>fyrir<b/>mitt<b/>leyti<s n="adv"/></l><r>personally<s n="adv"/></r></p></e>
     <e><p><l>að<b/>mörgu<b/>leyti<s n="adv"/></l><r>in<b/>many<b/>ways<s n="adv"/></r></p></e>
+    <e><p><l>á<b/>seinni<b/>árum<s n="adv"/></l><r>in<b/>recent<b/>years<s n="adv"/></r></p></e>
     <e><p><l>að<b/>mjög<b/>litlu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>very<b/>small<b/>degree<s n="adv"/></r></p></e>
 
     <e><p><l>því<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
@@ -11978,6 +11981,8 @@
     <e><p><l>taka<g><b/>þátt</g><s n="vblex"/></l><r>take<g><b/>part</g><s n="vblex"/></r></p></e>
     <e><p><l>starfrækja<s n="vblex"/></l><r>manage<s n="vblex"/></r></p></e>
     <e><p><l>frjósa<s n="vblex"/></l><r>freeze<s n="vblex"/></r></p></e>
+    <e><p><l>koma<g><b/>í<b/>hús</g><s n="vblex"/></l><r>arrive<s n="vblex"/></r></p></e>
+    <e><p><l>breyta<g><b/>um<b/>stefnu</g><s n="vblex"/></l><r>change<g><b/>course</g><s n="vblex"/></r></p></e>
     <e><p><l>ferja<s n="vblex"/></l><r>ferry<s n="vblex"/></r></p></e>
     <e><p><l>betrumbæta<s n="vblex"/></l><r>improve<s n="vblex"/></r></p></e>
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
