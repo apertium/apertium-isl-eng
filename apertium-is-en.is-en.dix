@@ -4027,6 +4027,7 @@
     <e><p><l>Rúdólf<s n="np"/><s n="ant"/><s n="m"/></l><r>Rúdólf<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Sandur<s n="np"/><s n="ant"/><s n="m"/></l><r>Sandur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Sigurður<s n="np"/><s n="ant"/><s n="m"/></l><r>Sigurður<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Eiríkur<s n="np"/><s n="ant"/><s n="m"/></l><r>Eiríkur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Stefán<s n="np"/><s n="ant"/><s n="m"/></l><r>Stefán<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Svanur<s n="np"/><s n="ant"/><s n="m"/></l><r>Svanur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Árni<s n="np"/><s n="ant"/><s n="m"/></l><r>Árni<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -7100,6 +7101,7 @@
     <!--<e><p><l>eftirlit<s n="n"/><s n="nt"/></l><r>check<s n="n"/></r></p></e>-->
     <!--<e><p><l>eftirlit<s n="n"/><s n="nt"/></l><r>surveillance<s n="n"/></r></p></e>-->
     <e><p><l>eftirlíking<s n="n"/><s n="f"/></l><r>imitation<s n="n"/></r></p></e>
+    <e><p><l>eftirlíking<g><b/>af<b/>skammbyssu</g><s n="n"/><s n="f"/></l><r>replica<b/>handgun<s n="n"/></r></p></e>
     <!--<e><p><l>eftirlíking<s n="n"/><s n="f"/></l><r>replica<s n="n"/></r></p></e>-->
     <e><p><l>eftirmiðdagur<s n="n"/><s n="m"/></l><r>afternoon<s n="n"/></r></p></e>
     <e><p><l>eftirspurn<s n="n"/><s n="f"/></l><r>demand<s n="n"/></r></p></e>
@@ -12000,6 +12002,7 @@
     <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
+    <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
 
     <e r="RL"><p><l>útland<s n="n"/><s n="nt"/><s n="GD"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
@@ -12028,6 +12031,7 @@
     <e><p><l>skuldbinda<s n="vblex"/></l><r>oblige<s n="vblex"/></r></p></e>
     <e><p><l>apa<s n="vblex"/></l><r>imitate<s n="vblex"/></r></p></e> <!-- ape ? -->
     <e><p><l>aðskilja<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e> 
+    <e><p><l>hóta<s n="vblex"/></l><r>threaten<s n="vblex"/></r></p></e> 
     <e><p><l>setja<g><b/>lög</g><s n="vblex"/></l><r>pass<g><b/>a<b/>law</g><s n="vblex"/></r></p></e>
     <e><p><l>sitja<g><b/>hjá</g><s n="vblex"/></l><r>abstain<s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>á</g><s n="vblex"/></l><r>mark<g><b/>up</g><s n="vblex"/></r></p></e>

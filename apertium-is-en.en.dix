@@ -15478,6 +15478,7 @@
     <e lm="Örvarr"><i>Örvarr</i><par n="Mark__np"/></e>
     <e lm="Drengur"><i>Drengur</i><par n="Mark__np"/></e>
     <e lm="Sigurður"><i>Sigurður</i><par n="Mark__np"/></e>
+    <e lm="Eiríkur"><i>Eiríkur</i><par n="Mark__np"/></e>
     <e lm="Guðmundur"><i>Guðmundur</i><par n="Mark__np"/></e>
     <e lm="Þórður"><i>Þórður</i><par n="Mark__np"/></e>
     <e lm="Þorlákur"><i>Þorlákur</i><par n="Mark__np"/></e>
@@ -22438,6 +22439,7 @@
     <e lm="guitarist"><i>guitarist</i><par n="house__n"/></e>
     <e lm="gun"><i>gun</i><par n="house__n"/></e>
     <e lm="handgun"><i>handgun</i><par n="house__n"/></e>
+    <e lm="replica handgun"><i>replica<b/>handgun</i><par n="house__n"/></e>
     <e lm="toy gun"><i>toy<b/>gun</i><par n="house__n"/></e>
     <e lm="gunpowder"><i>gunpowder</i><par n="house__n"/></e>
     <e lm="gym"><i>gym</i><par n="house__n"/></e>
