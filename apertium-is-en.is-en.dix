@@ -3911,6 +3911,7 @@
 <!--<p><l>uppá<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
     <e><p><l>upp<b/>á<s n="pr"/></l><r>upon<s n="pr"/></r></p></e>
     <e><p><l>upp<b/>í<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>uppi<b/>í<s n="pr"/></l><r>up<b/>in<s n="pr"/></r></p></e>
 <!--<p><l>uppí<s n="pr"/></l><r>on<s n="pr"/></r></p></e>-->
 <!--<p><l>uppí<s n="pr"/></l><r>towards<s n="pr"/></r></p></e>-->
     <e><p><l>upp<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
@@ -3936,6 +3937,7 @@
     <e><p><l>útum<s n="pr"/></l><r>out<b/>through<s n="pr"/></r></p></e>
 <!--<p><l>útum<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>-->
     <e><p><l>út<b/>á<s n="pr"/></l><r>onto<s n="pr"/></r></p></e>
+    <e><p><l>úti<b/>á<s n="pr"/></l><r>out<b/>at<s n="pr"/></r></p></e>
 <!--<p><l>útá<s n="pr"/></l><r>out<b/>on<s n="pr"/></r></p></e>-->
 <!--<p><l>útí<s n="pr"/></l><r>out<b/>into<s n="pr"/></r></p></e>-->
     <e><p><l>út<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
@@ -4796,7 +4798,7 @@
 <!--<p><l>hagræða<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>-->
     <e><p><l>hagræða<s n="vblex"/></l><r>optimise<s n="vblex"/></r></p></e>
 <!--<p><l>hagræða<s n="vblex"/></l><r>streamline<s n="vblex"/></r></p></e>-->
-    <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
+    <e><p><l>halda<s n="vblex"/><s n=":0"/></l><r>hold<s n="vblex"/></r></p></e>
     <e><p><l>halda<s n="vblex"/><s n=":1"/></l><r>think<s n="vblex"/></r></p></e>
     <e><p><l>halla<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
 <!--<p><l>halla<s n="vblex"/></l><r>slant<s n="vblex"/></r></p></e>-->
@@ -6410,6 +6412,7 @@
     <e><p><l>vinna<s n="n"/><s n="f"/></l><r>work<s n="n"/></r></p></e>
     <e><p><l>vist<s n="n"/><s n="f"/></l><r>stay<s n="n"/></r></p></e>
     <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
+    <e><p><l>himinhvolf<s n="n"/><s n="nt"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>himinn<s n="n"/><s n=":0"/><s n="m"/></l><r>sky<s n="n"/></r></p></e>
     <e><p><l>himinn<s n="n"/><s n=":1"/><s n="m"/></l><r>heaven<s n="n"/></r></p></e>
     <e><p><l>skip<s n="n"/><s n="nt"/></l><r>ship<s n="n"/></r></p></e>
@@ -7814,8 +7817,8 @@
   
   
     <e><p><l>h<s n="n"/><s n="nt"/></l><r>h<s n="n"/></r></p></e>
-    <e><p><l>haf<s n="n"/><s n="nt"/></l><r>sea<s n="n"/></r></p></e>
-    <!--<e><p><l>haf<s n="n"/><s n="nt"/></l><r>ocean<s n="n"/></r></p></e>-->
+    <e><p><l>haf<s n="n"/><s n="nt"/></l><r>ocean<s n="n"/></r></p></e>
+    <!--<e><p><l>haf<s n="n"/><s n="nt"/></l><r>sea<s n="n"/></r></p></e>-->
     <e><p><l>hafnín<s n="n"/><s n="nt"/></l><r>hafnium<s n="n"/></r></p></e>
     <e><p><l>hafragrautur<s n="n"/><s n="m"/></l><r>oatmeal<b/>porridge<s n="n"/></r></p></e>
     <e><p><l>hafri<s n="n"/><s n="m"/></l><r>oat<s n="n"/></r></p></e> <!-- (Avena) -->
@@ -9823,7 +9826,8 @@
     <!--<e><p><l>sjónvarp<s n="n"/><s n="nt"/></l><r>TV<s n="n"/></r></p></e>-->
     <e><p><l>sjónvarp<s n="n"/><s n="nt"/></l><r>television<s n="n"/></r></p></e>
     <e><p><l>sjónvarpstæki<s n="n"/><s n="nt"/></l><r>television<b/>set<s n="n"/></r></p></e>
-    <e><p><l>sjór<s n="n"/><s n="m"/></l><r>ocean<s n="n"/></r></p></e>
+    <e><p><l>sjór<s n="n"/><s n="m"/></l><r>sea<s n="n"/></r></p></e>
+    <!--<e><p><l>sjór<s n="n"/><s n="m"/></l><r>ocean<s n="n"/></r></p></e>-->
     <e><p><l>sjóræningi<s n="n"/><s n="m"/></l><r>pirate<s n="n"/></r></p></e> <!-- (plunderer at sea) -->
     <e><p><l>sjóveiki<s n="n"/><s n="f"/></l><r>seasickness<s n="n"/></r></p></e> <!-- (a feeling of nausea caused by the motion of a ship) -->
     <e><p><l>sjúkdómur<s n="n"/><s n="m"/></l><r>disease<s n="n"/></r></p></e>

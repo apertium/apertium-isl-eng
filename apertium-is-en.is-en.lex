@@ -114,6 +114,13 @@ SUBSTITUTE (vblex) (vblex :0) ("þýða"ri);
 SUBSTITUTE (vblex) (vblex :0) ("batna"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("batna"ri) ((-1C* @SUBJ→ + Dat) OR (1C* @←SUBJ + Dat));
 
+# "halda" : 
+#        0:"hold"
+#        1:"think"
+SUBSTITUTE (vblex) (vblex :0) ("halda"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("halda"ri) (1 ("að"));
+
+
 
 
 ## 
