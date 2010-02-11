@@ -94,7 +94,6 @@
      <cat-item tags="prn.p3.*.*.gen"/>
   </def-cat>
 
-
   <def-cat n="prn_poss">
     <cat-item tags="prn.pos.*"/>
     <cat-item tags="prn.p1.*.*.gen"/>
@@ -346,6 +345,8 @@
 
   <def-var n="cur_adj_grau1"/>
 
+  <def-var n="cur_verb_chunk_name"/>
+  <def-var n="cur_verb_chunk_type"/>
   <def-var n="cur_verb_lem"/>
   <def-var n="cur_verb_fin"/>
   <def-var n="cur_subj_prn"/>
@@ -358,19 +359,72 @@
   <def-var n="EOS" v="true"/>
 </section-def-vars>
 
+<section-def-lists>
+    <!--
+        Verbs that take the subjunctive in subordinate clauses where
+        the subjunctive in Icelandic should be translated either as 
+        prs -> will + inf, pss -> would + inf or prs,pss -> be + ger.
+      -->
+    <def-list n="reportingverb">
+      <list-item v="segja"/>
+<!--
+      <list-item v="admit"/>
+      <list-item v="agree"/>
+      <list-item v="decide"/>
+      <list-item v="deny"/>
+      <list-item v="explain"/>
+      <list-item v="insist"/>
+      <list-item v="promise"/>
+      <list-item v="recommend"/>
+      <list-item v="suggest"/>
+      <list-item v="point"/>
+      <list-item v="think"/>
+      <list-item v="believe"/>
+      <list-item v="hope"/>
+      <list-item v="fear"/>
+      <list-item v="suppose"/>
+-->
+    </def-list>
+
+    <def-list n="opinionverb">
+      <list-item v="halda"/>
+    </def-list> 
+
+    <def-list n="realpossessors">
+      <list-item v="móðir"/>
+      <list-item v="faðir"/>
+      <list-item v="bróðir"/>
+      <list-item v="systir"/>
+      <list-item v="pabbi"/>
+      <list-item v="mamma"/>
+      <list-item v="dóttir"/>
+      <list-item v="sonur"/>
+      <list-item v="afi"/>
+      <list-item v="amma"/>
+      <list-item v="frændi"/>
+      <list-item v="kærasti"/>
+      <list-item v="kærasta"/>
+      <list-item v="læknir"/>
+    </def-list> 
+
+</section-def-lists>
+
+
 <section-def-macros>
   <def-macro n="reset_variables" npar="1">
-    <let><var n="number"/>       <lit v=""/></let>
-    <let><var n="genere"/>       <lit v=""/></let>
-    <let><var n="article"/>      <lit v=""/></let>
-    <let><var n="genitiu"/>      <lit v=""/></let>
-    <let><var n="cur_verb_lem"/> <lit v=""/></let>
-    <let><var n="cur_verb_fin"/> <lit v=""/></let>
-    <let><var n="cur_subj_prn"/> <lit v=""/></let>
-    <let><var n="cur_sent_adv"/> <lit v=""/></let>
-    <let><var n="cur_adv_lema"/> <lit v=""/></let>
-    <let><var n="cur_prep_lema"/><lit v=""/></let>
-    <let><var n="EOS"/>          <lit v="true"/></let>
+    <let><var n="number"/>             <lit v=""/></let>
+    <let><var n="genere"/>             <lit v=""/></let>
+    <let><var n="article"/>            <lit v=""/></let>
+    <let><var n="genitiu"/>            <lit v=""/></let>
+    <let><var n="cur_verb_chunk_name"/><lit v=""/></let>
+    <let><var n="cur_verb_chunk_type"/><lit v=""/></let>
+    <let><var n="cur_verb_lem"/>       <lit v=""/></let>
+    <let><var n="cur_verb_fin"/>       <lit v=""/></let>
+    <let><var n="cur_subj_prn"/>       <lit v=""/></let>
+    <let><var n="cur_sent_adv"/>       <lit v=""/></let>
+    <let><var n="cur_adv_lema"/>       <lit v=""/></let>
+    <let><var n="cur_prep_lema"/>      <lit v=""/></let>
+    <let><var n="EOS"/>                <lit v="true"/></let>
   </def-macro>
 
   <def-macro n="firstWord" npar="1">
@@ -486,10 +540,31 @@
 
   <def-macro n="conj_verb1" npar="1">
       <let>
+        <var n="cur_verb_chunk_type"/>
+        <lit-tag v="SV"/>
+      </let>
+      <let>
+        <var n="cur_verb_chunk_name"/>
+        <clip pos="1" side="tl" part="lem"/>
+      </let>
+      <let>
         <var n="cur_verb_lem"/>
         <clip pos="1" side="sl" part="lem"/>
       </let>
-
+      <choose>
+        <when>
+          <test>
+            <in caseless="yes">
+              <clip pos="1" side="sl" part="lem"/>
+              <list n="reportingverb"/>
+            </in>
+          </test>
+          <let>
+            <var n="cur_verb_chunk_type"/>
+            <lit-tag v="SVrep"/>
+          </let>
+        </when>
+      </choose>
       <choose>
         <when>
           <test>
@@ -3281,16 +3356,34 @@
      <choose>
       <when>
         <test>
-          <or>
-            <equal>
-              <clip pos="1" side="sl" part="case"/>
-              <lit-tag v="acc"/>
-            </equal>
-            <equal>
-              <clip pos="1" side="sl" part="case"/>
-              <lit-tag v="dat"/>
-            </equal>
-          </or>
+          <and>
+            <or>
+              <equal>
+                <clip pos="1" side="sl" part="case"/>
+                <lit-tag v="acc"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="case"/>
+                <lit-tag v="dat"/>
+              </equal>
+              <equal>
+                <clip pos="1" side="sl" part="case"/>
+                <lit-tag v="gen"/> <!-- til þeirra -->
+              </equal>
+            </or>
+            <not>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="syntax"/>
+                  <lit-tag v="@SUBJ→"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="syntax"/>
+                  <lit-tag v="@←SUBJ"/>
+                </equal>
+              </or>
+            </not>
+          </and>
         </test>
         <let>
            <clip pos="1" side="tl" part="a_prn"/>
@@ -3590,9 +3683,9 @@
          <with-param pos="1"/>
        </call-macro>
        <out>
-         <chunk name="verbcj" case="caseFirstWord">
+         <chunk namefrom="cur_verb_chunk_name" case="caseFirstWord">
            <tags>
-             <tag><lit-tag v="SV"/></tag>
+             <tag><var n="cur_verb_chunk_type"/></tag>
               <tag><clip pos="1" side="sl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
@@ -3619,7 +3712,7 @@
          <with-param pos="1"/>
        </call-macro>
        <out>
-         <chunk name="auxcj" case="caseFirstWord">
+         <chunk namefrom="cur_verb_chunk_name" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="1" side="sl" part="syntax"/></tag>

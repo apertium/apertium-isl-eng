@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interchunk> 
   <section-def-cats>
+    <def-cat n="REPORT_VERB">
+      <cat-item tags="SVrep.*"/>
+    </def-cat>
     <def-cat n="FMAINV">
       <cat-item tags="SV.@+FMAINV.*"/>
     </def-cat>
@@ -35,6 +38,10 @@
     <def-cat n="ADV"> <!-- Adverbial -->
       <cat-item tags="ADV"/>
     </def-cat>
+    <def-cat n="AÐ"> 
+      <cat-item lemma="að" tags="CS"/>
+      <cat-item lemma="að" tags="CS.*"/>
+    </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
@@ -54,9 +61,16 @@
       <attr-item tags="sp"/>
       <attr-item tags="ND"/>
     </def-attr>
+    <def-attr n="temps">
+      <attr-item tags="pres"/>
+      <attr-item tags="past"/>
+      <attr-item tags="ger"/>
+      <attr-item tags="inf"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
+    <def-var n="modal"/>
     <def-var n="nombre"/>
     <def-var n="genere"/>
   </section-def-vars>
@@ -93,6 +107,78 @@
 
       </choose>
     </def-macro>
+
+    <def-macro n="convert_subjunc1" npar="1">
+      <choose>
+        <when>
+          <test> 
+            <equal caseless="yes">
+              <clip pos="1" part="lem"/>
+              <lit v="be"/>
+            </equal>
+          </test>
+          <let>
+            <var n="modal"/>
+            <concat>
+              <lit v="^"/>
+              <clip pos="1" part="lem"/>
+              <lit-tag v="vblex"/>
+              <clip pos="1" part="temps"/>
+              <clip pos="1" part="pers"/>
+              <clip pos="1" part="nbr"/>
+              <lit v="$"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" part="temps"/>
+              <lit-tag v="pres"/>
+            </equal>
+          </test>
+          <let>
+            <var n="modal"/>
+            <concat>
+              <lit v="^will"/>
+              <lit-tag v="vaux.inf"/>
+              <lit v="$ ^"/>
+              <clip pos="1" part="lem"/>
+              <lit-tag v="vblex.inf"/>
+              <lit v="$"/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" part="temps"/>
+              <lit-tag v="past"/>
+            </equal>
+          </test>
+          <let>
+            <var n="modal"/>
+            <concat>
+              <lit v="^would"/>
+              <lit-tag v="vaux.inf"/>
+              <lit v="$ ^"/>
+              <clip pos="1" part="lem"/>
+              <lit-tag v="vblex.inf"/>
+              <lit v="$"/>
+            </concat>
+          </let>
+          <let>
+            <clip pos="1" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -323,6 +409,48 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: REPORT_VERB AÐ SN_SUBJ_L FMAINV → REPORT_VERB AÐ SN_SUBJ_L FMAINV">
+      <pattern>
+        <pattern-item n="REPORT_VERB"/>
+        <pattern-item n="AÐ"/>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+      </pattern>
+      <action c="segir að hann komi → says that he will come"> 
+        <call-macro n="convert_subjunc1">
+          <with-param pos="4"/>
+        </call-macro> 
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <lit v="{"/>
+            <var n="modal"/>
+            <lit v="}"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </interchunk>

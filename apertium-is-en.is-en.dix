@@ -4262,8 +4262,8 @@
 <!--<p><l>banka<s n="vblex"/></l><r>tap<s n="vblex"/></r></p></e>-->
     <e><p><l>banna<s n="vblex"/></l><r>ban<s n="vblex"/></r></p></e>
 <!--<p><l>batna<s n="vblex"/></l><r>better<s n="vblex"/></r></p></e>-->
-    <e><p><l>batna<s n="vblex"/></l><r>improve<s n="vblex"/></r></p></e>
-<!--<p><l>batna<s n="vblex"/></l><r>get<g><b/>better</g><s n="vblex"/></r></p></e>-->
+    <e><p><l>batna<s n="vblex"/><s n=":0"/></l><r>improve<s n="vblex"/></r></p></e>
+    <e><p><l>batna<s n="vblex"/><s n=":1"/></l><r>get<g><b/>better</g><s n="vblex"/></r></p></e>
 <!--<p><l>batna<s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>-->
     <e><p><l>baða<s n="vblex"/></l><r>bathe<s n="vblex"/></r></p></e>
 <!--<p><l>baða<s n="vblex"/></l><r>rinse<s n="vblex"/></r></p></e>-->
@@ -9986,6 +9986,8 @@
     <e><p><l>slökkvilið<s n="n"/><s n="nt"/></l><r>fire<b/>department<s n="n"/></r></p></e>
     <e><p><l>smiðja<s n="n"/><s n="f"/></l><r>smithy<s n="n"/></r></p></e>
     <e><p><l>smiður<s n="n"/><s n="m"/></l><r>carpenter<s n="n"/></r></p></e>
+    <e><p><l>skósmiður<s n="n"/><s n="m"/></l><r>cobbler<s n="n"/></r></p></e>
+    <!--<e><p><l>skósmiður<s n="n"/><s n="m"/></l><r>shoemaker<s n="n"/></r></p></e>-->
     <!--<e><p><l>smiður<s n="n"/><s n="m"/></l><r>smith<s n="n"/></r></p></e>-->
     <e><p><l>smjör<s n="n"/><s n="nt"/></l><r>butter<s n="n"/></r></p></e>
     <e><p><l>smjörlíki<s n="n"/><s n="nt"/></l><r>margarine<s n="n"/></r></p></e>

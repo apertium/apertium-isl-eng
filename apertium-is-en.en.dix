@@ -41685,6 +41685,7 @@
     <e lm="may"><i>may</i><par n="will/__vbmod"/></e>
     <e lm="might"><i>might</i><par n="will/__vbmod"/></e>
     <e lm="be"><par n="/be__vbser"/></e>
+    <e lm="be" r="RL"><par n="/be__vblex"/></e> <!-- for subjuncs -->
     <e lm="go out"><i></i><par n="/go__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
     <e lm="be consistent"><i></i><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>
@@ -42420,6 +42421,7 @@
     <e lm="get hold of"><i>g</i><par n="g/et__vblex"/><p><l><b/>hold<b/>of</l><r><g><b/>hold<b/>of</g></r></p></e>
     <e lm="get dark"><i>g</i><par n="g/et__vblex"/><p><l><b/>dark</l><r><g><b/>dark</g></r></p></e>
     <e lm="get there"><i>g</i><par n="g/et__vblex"/><p><l><b/>there</l><r><g><b/>there</g></r></p></e>
+    <e lm="get better"><i>g</i><par n="g/et__vblex"/><p><l><b/>better</l><r><g><b/>better</g></r></p></e>
     <e lm="get married"><i>g</i><par n="g/et__vblex"/><p><l><b/>married</l><r><g><b/>married</g></r></p></e>
     <e lm="give up"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="give back"><i>g</i><par n="g/ive__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>back</l><r><g><b/>back</g></r></p></e>

@@ -4,6 +4,7 @@ SOFT-DELIMITERS       = ("<,>") ;
 LIST BOS              = (>>>);
 LIST EOS              = (<<<);
 
+
 LIST PrnPos           = (prn pos);
 LIST PrnPersAnim      = (prn p1) (prn p2) (prn p3 m) (prn p3 f);
 LIST Ord              = (ord) ("fyrstur"ri);
@@ -17,6 +18,9 @@ LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja
 LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
 
 LIST Islands          = "England" "Ísland" "Kúba"; 
+
+LIST @SUBJ→           = @SUBJ→;
+LIST @←SUBJ           = @←SUBJ;
 
 SECTION
 
@@ -104,6 +108,11 @@ SUBSTITUTE (vblex :0) (vblex :1) ("leggja"ri) (1C Dat);
 #       1:"translate"
 SUBSTITUTE (vblex) (vblex :0) ("þýða"ri);
 
+# "batna" : 
+#        0:"improve"
+#        1:"get# better"
+SUBSTITUTE (vblex) (vblex :0) ("batna"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("batna"ri) ((-1C* @SUBJ→ + Dat) OR (1C* @←SUBJ + Dat));
 
 
 

@@ -70,8 +70,14 @@ LIST AccPrep = "fyrir ofan"ri "gegnum"ri "kringum"ri "um"ri "umfram"ri "umhverfi
 LIST DatPrep = "að"ri "af"ri "andspænis"ri "ásamt"ri "frá"ri "gagn"ri "gagnvart"ri "gegnt"ri "handa"ri 
                "hjá"ri "meðfram"ri "mót"ri "móti"ri "nálægt"ri "undan"ri "úr"ri ;
 LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri "yfir"ri ;
+
 LIST MODV = "ætla" "kunna" "láta" "skula" "vilja" "munu" "mega" "vera" ; #todo: translate fao to icelandic
-LIST SADV = "aldrei" "ekki" ; # complete
+LIST ACCSUBJVERB = "bresta" "dreyma" "fýsir" "greinir" "grípa" "gruna" "hrylla" "hungra" "kitla" "klígja" "klæja" "kreppa" "langa" "lengja" "lysta" "lægja" ""misminnir" "minnir" "muna" "órar" "raga" "ráma" "reka" "saka" "setur" "skefur" "skipta" "skorta" "stoða" "sundla" "svengja" "svima" "svíða" "syfja" "undra" "vanhagar" "vantar" "varðar" "verkjar" "þrjóta" "þverra" ;
+LIST DATSUBJVERB = "auðnast" "áskotnast" "batna" "ber" "berast" "birtast" "bjóða" "blandast" "blæða" "blöskra" "bragðast" "bregða" "brenna" "búa" "bætast" "daprast" "dáma" "dettta" "drjúpa" "duga" "dveljast" "dyljast" "elna" "endast" "fara" "feila" "festast" "fjölga" "fljúga" "fylgja" "fyrirgefa" "fæðast" "fækka" "förla" "gagnast" "ganga" "geðjast" "gefast" "gremjast" "greypast" "græðast" "haldast" "hefnast" "heilsast" "henta" "heppnast" "heyrast" "henta" "hlaupa" "hlekkjast" "hlotnast" "hlýnar" "hnignar" "hrakar" "hrjósa" "hugkvæmast" "hugnast" "hæfa" "hægja" "hættir" "kemur" "kólna" "kyngir" "lánast" "lást" "leiðast" "leyfast" "ljúka" "ljósta" "lærast" "misfarast" "misheppnast" "misheyrast" "nægja" "ofbjóða" "óa" "ratast" "reiknast" "réna" "rigna" "rísa" "sárna" "seinka" "sinnast" "sjatna" "sjást" "skána" "skeika" "skiljast" "skjátlast" "skola" "skrika" "snúast" "sortna" "stafa" "standa" "stígur" "stekkur" "súrna" "svelgjast" "svipa" "svíða" "sýnast" "sækjast" "sæma" "takast" "teljast" "mér" "vefjast" "vegna" "veita" "versna" "viðkoma" "viðvíkja" "vinnast" "vinnast" "vitnast" "volgna" "vökna" "yfirsjást" "ylna" "þoka" "þóknast" ;
+LIST WANTINGVERB = "vilja";
+LIST REPORTINGVERB = "segja";
+
+LIST SADV = "aldrei" "ekki" "alltaf" ; # complete
 
 LIST NAGD = nom acc gen dat;
 LIST GENDER = m f nt;
@@ -205,7 +211,6 @@ REMOVE Adj IF (-1 Prep) (0 Adj) (0 Num) (1 N) (1 Sg);
 
 SELECT Adv IF (-1C VerbFin) (1C Verb) (1 Participle);
 
-
 #################################################################################
 # Personal pronouns 
 #################################################################################
@@ -221,6 +226,7 @@ REMOVE ("<þá>"ri) + PersPron IF (1 Verb OR Conj OR  Adv OR  N);
 REMOVE ("<þá>"ri) + PersPron IF (-1 VerbBe OR Conj OR  Adv OR  N);
 REMOVE ("<þá>"ri) + PersPron IF ((-1C Refl) OR (-1 VerbBe OR PersPron)); # væri þá and réði sig þá
 
+REMOVE PersPron + Nom IF (-1C* PersPron + Nom BARRIER VerbFin);
 REMOVE PersPron + Nom IF (-1C* PersPron + Nom BARRIER VerbFin);
 
 #################################################################################
@@ -394,6 +400,8 @@ LIST @CVP = @CVP; # SV co-ordinator
 MAP (@←SUBJ) TARGET PersPron + Nom (-1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron); 
 
 MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
+MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
+MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
