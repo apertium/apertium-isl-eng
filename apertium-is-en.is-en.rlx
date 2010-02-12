@@ -7,8 +7,8 @@
 #
 ###############################################################################
 
-SOFT-DELIMITERS = "<,>" ;
-DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri ;
+SOFT-DELIMITERS = "<,>" sent;
+DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri sent;
 
 LIST BOS = (>>>) (<s>) (sent) ; 
 LIST EOS = (<<<) (</s>) (sent) ; 
@@ -435,7 +435,8 @@ MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB)
 
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
 
-MAP (@←N) TARGET (num) + Gen (0C (num)) (-1C N);
+MAP (@←N) TARGET (num) + Gen (0C (num)) (-1C N + Gen);
+MAP (@N→) TARGET (num) + Gen (0C (num)) (1C N + Gen);
 MAP (@N→) TARGET (num) (0C (num)) (1C* N BARRIER CLB | VerbFin);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
 

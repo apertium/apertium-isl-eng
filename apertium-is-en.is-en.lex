@@ -19,6 +19,7 @@ LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("engin
 
 LIST Islands          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar"; 
 
+LIST @N→              = @N→;
 LIST @←N              = @←N;
 LIST @SUBJ→           = @SUBJ→;
 LIST @←SUBJ           = @←SUBJ;
@@ -80,7 +81,7 @@ SUBSTITUTE (n :0) (n :1) ("himinn"ri) (1 ("og"ri)) (2 ("jörð"ri)); # í upphaf
 #        0:"land"
 #        1:"country"
 SUBSTITUTE (n) (n :0) ("land"ri);
-SUBSTITUTE (n :0) (n :1) ("land"ri) (1 @←N);
+SUBSTITUTE (n :0) (n :1) ("land"ri) ((1 @←N) OR (-1 @N→));
 
 
 ##
