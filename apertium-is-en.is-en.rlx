@@ -277,6 +277,9 @@ SELECT Prep IF (0 ("[Áá]"ri)) (1C N OR ProperNom) (NOT 1C Gen);
 #Þeir eru undir rúminu
 SELECT Prep IF (0 Prep) (0 Adv) (1C PRE-N);
 
+#Ég talaði aldrei við Súsönnu.
+REMOVE PersPron + Nom IF (-1C* PersPron BARRIER CLB);
+
 #################################################################################
 # NPs  
 #################################################################################
@@ -315,7 +318,7 @@ SELECT:r30d $$NUMBER IF (-1C PP + $$NUMBER)(0 N);
 SELECT:r31 Det IF (1C PRE-N) (0 Det) (0 IndefPron);
 
 #Nánast allir Íslendingar nota nú netið með ADSL.
-SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C N) (1C $$NAGD);
+SELECT Det IF (0 $$NAGD) (0 Det OR Pron) (1C* N) (1C* $$NAGD);
 
 #Hundur systur minnar
 SELECT Gen IF (-1C Nom) (0 NAGD) (1C PossPron)
@@ -332,7 +335,6 @@ REMOVE (imp) (NOT -1 CLB);
 SELECT Inf IF (-1 ("að"ri)) (-2 ("við"ri));
 
 # Ég sé hesta
-
 REMOVE TempsIrreal + VerbAux IF (NOT -1* CS) (NOT -1 BOS);
 
 SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
@@ -375,6 +377,9 @@ REMOVE Rel IF (0 ("<er>"ri)) (NOT -1* VerbFin BARRIER CLB) (NOT 1* VerbFin BARRI
 SELECT MODV + $$PERSON IF (1C PersPron + $$PERSON);
 
 
+# Í gær borðuðu allir stóru strákarnir góðu súpuna.
+REMOVE PP IF (NOT -1* VerbFin) (NOT 1* VerbFin) (0 VerbFin) (0 PP);
+
 
 ##
 # Specific pre-disambiguation lexical selection
@@ -393,10 +398,12 @@ SELECT ("stig"ri) IF (0 ("<stiga>"ri)) (1 ("frost"ri) OR ("hiti"ri));
 SECTION
 
 LIST @X = @X;
+LIST @←ADVL = @←ADVL;
+LIST @ADVL→ = @ADVL→;
 LIST @←SUBJ = @←SUBJ;
 LIST @SUBJ→ = @SUBJ→;
 LIST @-FMAINV = @-FMAINV;
-LIST @+FMAINV = @FMAINV; 
+LIST @+FMAINV = @+FMAINV; 
 LIST @-FAUXV = @-FAUXV;
 LIST @+FAUXV = @FAUXV; 
 LIST @←N = @←N;
@@ -411,11 +418,12 @@ MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NO
 MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
-MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C VerbFin + $$NUMBER + (p3)) (0 N + Nom + $$NUMBER);
+MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
 
+MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (1* @←SUBJ + $$NUMBER BARRIER CLB) (0 VerbFin LINK -1 Adv);
 MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (-1* @SUBJ→ + $$NUMBER BARRIER CLB);
 
 MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (-1C* @SUBJ→ + $$PERSON + $$NUMBER BARRIER CLB);
@@ -427,10 +435,15 @@ MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB)
 
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
 
+MAP (@←N) TARGET (num) + Gen (0C (num)) (-1C N);
 MAP (@N→) TARGET (num) (0C (num)) (1C* N BARRIER CLB | VerbFin);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
 
 MAP (@CS→) TARGET (cnjsub) (0C (cnjsub));
+
+MAP (@ADVL→) TARGET Adv (1* @+FMAINV BARRIER CLB) ;
+MAP (@←ADVL) TARGET Adv (-1* @+FMAINV BARRIER CLB) ;
+
 
 AFTER-SECTIONS
 

@@ -21,6 +21,12 @@
     <def-cat n="SN_SUBJ_R">
       <cat-item tags="SN.@←SUBJ.*"/>
     </def-cat>
+    <def-cat n="REL">
+      <cat-item tags="REL"/>
+    </def-cat>
+    <def-cat n="ADV">
+      <cat-item tags="ADV"/>
+    </def-cat>
     <def-cat n="PREP">
       <cat-item tags="PREP"/>
     </def-cat>
@@ -99,6 +105,36 @@
             <clip pos="1" part="lem"/>
             <clip pos="1" part="tags"/>
             <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN_SUBJ_R REL SN_SUBJ_L FMAINV ADV → SN">
+                      <!--@←SUBJ    REL @SUBJ→   @+FMAINV @←ADVL-->
+      <pattern>
+        <pattern-item n="SN_SUBJ_R"/>
+        <pattern-item n="REL"/>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="ADV"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <lit v="sn_rel_sn_v_adv"/>
+            <clip pos="1" part="tags"/>
+            <lit v="{"/>
+              <clip pos="1" part="content"/>
+              <b pos="1"/>
+              <clip pos="2" part="content"/>
+              <b pos="2"/>
+              <clip pos="3" part="content"/>
+              <b pos="3"/>
+              <clip pos="4" part="content"/>
+              <b pos="4"/>
+              <clip pos="5" part="content"/>
+            <lit v="}"/>
           </chunk>
         </out>
       </action>
