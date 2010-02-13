@@ -11,13 +11,13 @@
       <cat-item tags="SA.@-FMAINV"/>
       <cat-item tags="SA.@-FMAINV.*"/>
     </def-cat>
-    <def-cat n="FAUXV">
+    <def-cat n="FAUXV"> <!-- this should be decreased -->
+      <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
+      <cat-item lemma="auxcj" tags="SV.@+FMAINV.*"/>
       <cat-item lemma="have" tags="SV.@+FAUXV.*"/>
       <cat-item lemma="have" tags="SV.@+FMAINV.*"/>
       <cat-item lemma="be" tags="SV.@+FAUXV.*"/>
       <cat-item lemma="be" tags="SV.@+FMAINV.*"/>
-      <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
-      <cat-item lemma="auxcj" tags="SV.@+FMAINV.*"/>
     </def-cat>
     <def-cat n="INF">
       <cat-item tags="SV.inf.*"/>
@@ -82,6 +82,21 @@
     <def-var n="nombre"/>
     <def-var n="genere"/>
   </section-def-vars>
+
+  <section-def-lists>
+    <def-list n="advprepos">
+      <!-- Adverbs which are preposed to the verb in EN, but post- in IS
+             'Bandaríkjamenn styðja hinsvegar' vs.
+             'Ég fór í gær'
+        -->
+
+      <list-item v="hins vegar"/>
+      <list-item v="núna"/>
+      <list-item v="nú"/>
+
+    </def-list>
+  </section-def-lists>
+
 
   <section-def-macros>
     <def-macro n="concord_subj_verb2" npar="2">
@@ -454,25 +469,56 @@
         <pattern-item n="ADV"/>
       </pattern>
       <action c="Bandaríkjamenn styðja hinsvegar → Americans however support"> 
-        <out>
-          <chunk>
-            <clip pos="1" part="lem"/>
-            <clip pos="1" part="tags"/>
-            <clip pos="1" part="chcontent"/>
-          </chunk>
-          <b pos="1"/>
-          <chunk>
-            <clip pos="3" part="lem"/>
-            <clip pos="3" part="tags"/>
-            <clip pos="3" part="chcontent"/>
-          </chunk>
-          <b pos="2"/>
-          <chunk>
-            <clip pos="2" part="lem"/>
-            <clip pos="2" part="tags"/>
-            <clip pos="2" part="chcontent"/>
-          </chunk>
-        </out>
+        <choose>
+          <when>
+            <test>
+              <in caseless="yes">
+                <clip pos="3" part="lem"/>
+                <list n="advprepos"/>
+              </in>
+            </test>
+            <out>
+              <chunk>
+                <clip pos="1" part="lem"/>
+                <clip pos="1" part="tags"/>
+                <clip pos="1" part="chcontent"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <clip pos="3" part="lem"/>
+                <clip pos="3" part="tags"/>
+                <clip pos="3" part="chcontent"/>
+              </chunk>
+              <b pos="2"/>
+              <chunk>
+                <clip pos="2" part="lem"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk>
+                <clip pos="1" part="lem"/>
+                <clip pos="1" part="tags"/>
+                <clip pos="1" part="chcontent"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <clip pos="2" part="lem"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+              </chunk>
+              <b pos="2"/>
+              <chunk>
+                <clip pos="3" part="lem"/>
+                <clip pos="3" part="tags"/>
+                <clip pos="3" part="chcontent"/>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
       </action>
     </rule>
 

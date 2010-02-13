@@ -18,6 +18,9 @@
   <def-cat n="rel">
      <cat-item tags="rel.*"/>
   </def-cat>
+  <def-cat n="adj_mod">
+     <cat-item tags="adj.*.*.*.*.*.@←N"/>
+  </def-cat>
   <def-cat n="num_mod">
      <cat-item tags="num.*.*.*.@←N"/>
   </def-cat>
@@ -1774,7 +1777,7 @@
 
 
 
-  <rule comment="REGLA: Adj"><!-- rule for adjectives -->
+  <rule comment="REGLA: ADJ"><!-- rule for adjectives -->
      <pattern>
        <pattern-item n="adj"/>
      </pattern>
@@ -1989,7 +1992,7 @@
 
 
 
-  <rule comment="REGLA: Adj Nom"><!-- rule for 1 adjective + noun -->
+  <rule comment="REGLA: ADJ NOM">
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="nom"/>
@@ -2062,6 +2065,81 @@
        </choose>
      </action>
   </rule><!-- END rule for 1 adjective + noun -->
+
+
+  <rule comment="REGLA: NOM ADJ">
+     <pattern>
+       <pattern-item n="nom"/>
+       <pattern-item n="adj"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_adj_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+               </lu>
+               <b/>
+              <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lem"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="adj_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <get-case-from pos="1">
+                   <clip pos="2" side="tl" part="lem"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_adj"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
 
   <rule comment="REGLA: NOM NOMGEN">
      <pattern>
@@ -2151,6 +2229,128 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: NOM NUM NOMGEN">
+     <pattern>
+       <pattern-item n="nom"/>
+       <pattern-item n="num"/>
+       <pattern-item n="gen_nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="3" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="det_nom_gen_det_num_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+               </lu>
+              <b/>
+              <lu>
+                 <get-case-from pos="2">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <get-case-from pos="2">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_num"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="nom_gen_det_num_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <get-case-from pos="2">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_num"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
+
+
+
   <rule comment="REGLA: NOM NOMGEN NUMMOD">
      <pattern>
        <pattern-item n="nom"/>
@@ -2170,14 +2370,22 @@
              </equal>
            </test>
            <out>
-             <chunk name="det_nom_gen_nom" case="caseFirstWord">
+             <chunk name="det_nom_gen_det_num_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
                  <tag><clip pos="1" side="tl" part="syntax"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
-              <lu>
+               <lu>
                  <get-case-from pos="1">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+               </lu>
+              <b/>
+              <lu>
+                 <get-case-from pos="2">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_nom"/>
@@ -2216,7 +2424,7 @@
          </when>
          <otherwise>
            <out>
-             <chunk name="nom_gen_nom" case="caseFirstWord">
+             <chunk name="nom_gen_det_num_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
@@ -2235,6 +2443,21 @@
                  <lit-tag v="pr"/>
                </lu>
                <b/>
+               <lu>
+                 <get-case-from pos="2">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_num"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
                <lu>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
@@ -2337,6 +2560,133 @@
        </choose>
      </action>
   </rule>
+
+  <rule comment="REGLA: ADJ NOM NUM NOMGEN">
+     <pattern>
+       <pattern-item n="adj"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="num"/>
+       <pattern-item n="gen_nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="4" side="sl" part="a_art"/>
+               <lit-tag v="def"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="adj_nom_gen_det_num_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+              <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <get-case-from pos="3">
+                   <lit v="the"/>
+                 </get-case-from>
+                 <lit-tag v="det.def"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_num"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="4" side="tl" part="lemh"/>
+                 <clip pos="4" side="tl" part="a_nom"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <out>
+             <chunk name="adj_nom_gen_num_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <var n="cur_adj_grau1"/>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+              <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_num"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="4" side="tl" part="lemh"/>
+                 <clip pos="4" side="tl" part="a_nom"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+     </action>
+  </rule>
+
+
 
   <rule comment="REGLA: ADJ NOM NOMGEN">
      <pattern>
@@ -3311,11 +3661,11 @@
              </chunk>
            </out>
      </action>
-  </rule><!-- END rule for nouns -->
+  </rule>
 
 
 
-  <rule comment="REGLA: Adj Adj Nom"><!-- rule for 2 adjectives + noun -->
+  <rule comment="REGLA: ADJ ADJ NOM">
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="adj"/>
@@ -3399,9 +3749,9 @@
          </otherwise>
        </choose>
      </action>
-  </rule><!-- END rule for 2 adjectives + noun -->
+  </rule>
 
-  <rule comment="REGLA: Adj Adj Adj Nom"><!-- rule for 3 adjectives + noun -->
+  <rule comment="REGLA: ADJ ADJ ADJ NOM">
      <pattern>
        <pattern-item n="adj"/>
        <pattern-item n="adj"/>
@@ -3504,7 +3854,7 @@
   </rule><!-- END rule for 3 adjectives + noun -->
   
   
-  <rule comment="Preadv Adj Nom"><!-- rule for adverb + adjective + noun -->
+  <rule comment="PREADV ADJ NOM">
      <pattern>
        <pattern-item n="preadv"/>
        <pattern-item n="adj"/>

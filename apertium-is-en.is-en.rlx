@@ -19,6 +19,8 @@ LIST N = (n) ;
 LIST Num = (num) ;
 LIST ProperNom = (np) ;
 LIST Adj = (adj) ;
+LIST Weak = (vei) ;
+LIST Strong = (sta) ;
 LIST Adv = (adv) ;
 LIST PersPron = (prn p1) (prn p2) (prn p3) ;
 LIST IndefPron = (prn ind);
@@ -206,6 +208,9 @@ REMOVE Adv IF (NOT -1C* VerbFin BARRIER CLB) (0 Adv) (0 Adj) (1 Adj);
 # Ég er að flytja frá Akureyri til Reykjavíkur í eitt ár.
 REMOVE Adj IF (-1 Prep) (0 Adj) (0 Num) (1 N) (1 Sg);
 
+#Bankarnir stóru.
+REMOVE Adj + Strong IF (-1C N + Def);
+
 #################################################################################
 # Advs
 #################################################################################
@@ -255,6 +260,10 @@ REMOVE Det IF (0 Det) (0 Pron) (NOT 1 POST-DET);
 # Við gerðum það sjálf.
 REMOVE DemPron IF (-1C VerbFin) (1C Refl);
 
+# í gær sá stelpan.
+REMOVE DemPron IF (0 DemPron) (0 VerbFin) (NOT -1* VerbFin BARRIER CLB) (NOT 1 VerbFin BARRIER CLB);
+
+
 #################################################################################
 # Reflexive pronouns 
 #################################################################################
@@ -300,6 +309,10 @@ REMOVE:ufc_nt PP + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK 
 REMOVE:ufc_f  Adj + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
 REMOVE:ufc_m  Adj + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
 REMOVE:ufc_nt Adj + Neu IF (0  $$NAGD) (*1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu);
+
+REMOVE:ufc_f_p  Adj + Fem IF (0  $$NAGD) (*-1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem) (NOT 1* Nom + Fem BARRIER NPNHA);
+REMOVE:ufc_m_p  Adj + Msc IF (0  $$NAGD) (*-1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc) (NOT 1* Nom + Msc BARRIER NPNHA);
+REMOVE:ufc_nt_p Adj + Neu IF (0  $$NAGD) (*-1 NomMscFem + $$NAGD BARRIER NPNHA LINK NOT 0 Neu) (NOT 1* Nom + Neu BARRIER NPNHA);
 
 REMOVE:d_ufc_f  Det + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
 REMOVE:d_ufc_m  Det + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
@@ -428,7 +441,10 @@ MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C
 MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
 #MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
-MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
+
+MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1* VerbFin + $$NUMBER + (p3) BARRIER CLB) 
+                                       (0 N + Nom + $$NUMBER)
+                                       (NOT -1C* @←SUBJ BARRIER CLB);
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
@@ -443,7 +459,12 @@ MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (-1* @SUBJ→ + $$NUMBER BARRIER
 MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (-1C* @SUBJ→ + $$PERSON + $$NUMBER BARRIER CLB);
 MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (1C* @←SUBJ + $$PERSON + $$NUMBER BARRIER CLB);
 
+MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (NOT 1* @+FMAINV BARRIER CLB) (NOT -1* @+FMAINV BARRIER CLB);
+
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
+
+MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);
+SELECT Adj + @←N (0C Adj) (NOT 1* N + $$NAGD + $$NUMBER) (-1C N + $$NAGD + $$NUMBER); ## ugly hack.
 
 MAP (@←N) TARGET (num) + Gen (0C (num)) (-1C N + Gen);
 MAP (@N→) TARGET (num) + Gen (0C (num)) (1C N + Gen);
