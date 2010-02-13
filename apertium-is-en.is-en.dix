@@ -8078,7 +8078,11 @@
     <e><p><l>mamma<s n="n"/><s n="f"/></l><r>mum<s n="n"/></r></p></e>
     <e><p><l>systir<s n="n"/><s n="f"/></l><r>sister<s n="n"/></r></p></e>
     <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
-    <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
+
+    <e><p><l>maður<s n="n"/><s n=":0"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
+    <e><p><l>maður<s n="n"/><s n=":1"/><s n="m"/><s n="sg"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>maður<s n="n"/><s n=":1"/><s n="m"/><s n="pl"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
+
     <e><p><l>ræðumaður<s n="n"/><s n="m"/></l><r>speaker<s n="n"/></r></p></e>
     <e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
     <e><p><l>ugla<s n="n"/><s n="f"/></l><r>owl<s n="n"/></r></p></e>

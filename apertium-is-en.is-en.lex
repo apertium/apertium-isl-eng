@@ -90,6 +90,12 @@ SUBSTITUTE (n :0) (n :1) ("land"ri) ((1 @←N) OR (-1 @N→));
 SUBSTITUTE (n) (n :0) ("mynt"ri);
 SUBSTITUTE (n :0) (n :1) ("mynt"ri) (-1* ("í" pr) BARRIER CLB);
 
+# "maður" :
+#        0:"man"
+#        1:"people"
+SUBSTITUTE (n) (n :0) ("maður"ri);
+SUBSTITUTE (n :0) (n :1) ("maður"ri) (-1 @N→) (0 Gen);
+
 
 ##
 ## VERBS
