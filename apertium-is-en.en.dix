@@ -41714,6 +41714,7 @@
     <e lm="go out"><i></i><par n="/go__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="go berserk"><i></i><par n="/go__vblex"/><p><l><b/>berserk</l><r><g><b/>berserk</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
+    <e lm="be called"><i></i><par n="/be__vblex"/><p><l><b/>called</l><r><g><b/>called</g></r></p></e>
     <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="be consistent"><i></i><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>
     <e lm="be adrift"><i></i><par n="/be__vblex"/><p><l><b/>adrift</l><r><g><b/>adrift</g></r></p></e>

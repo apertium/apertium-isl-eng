@@ -3871,6 +3871,8 @@
     <e><p><l>auk<s n="pr"/></l><r>plus<s n="pr"/></r></p></e>
     <e><p><l>að<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>bak<b/>við<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
+    <e><p><l>utan<b/>við<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
+    <!--<e><p><l>utan<b/>við<s n="pr"/></l><r>except<s n="pr"/></r></p></e>-->
     <e><p><l>eftir<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
 <!--<p><l>framhjá<s n="pr"/></l><r>by<s n="pr"/></r></p></e>-->
     <e><p><l>framhjá<s n="pr"/></l><r>past<s n="pr"/></r></p></e>
@@ -4844,7 +4846,8 @@
 <!--<p><l>heimta<s n="vblex"/></l><r>require<s n="vblex"/></r></p></e>-->
 <!--<p><l>heita<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>-->
 <!--<p><l>heita<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>-->
-    <e><p><l>heita<s n="vblex"/></l><r>vow<s n="vblex"/></r></p></e>
+<!--<e><p><l>heita<s n="vblex"/></l><r>vow<s n="vblex"/></r></p></e>-->
+    <e><p><l>heita<s n="vblex"/></l><r>be<g><b/>called</g><s n="vblex"/></r></p></e>
     <e><p><l>hella<s n="vblex"/></l><r>pour<s n="vblex"/></r></p></e>
 <!--<p><l>hella<s n="vblex"/></l><r>spill<s n="vblex"/></r></p></e>-->
     <e><p><l>henda<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
