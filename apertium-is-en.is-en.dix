@@ -2295,6 +2295,7 @@
 <!--<p><l>ákafur<s n="adj"/></l><r>enthusiastic<s n="adj"/></r></p></e>-->
     <e><p><l>ákveðinn<s n="adj"/></l><r>certain<s n="adj"/></r></p></e>
     <e><p><l>ákærður<s n="adj"/></l><r>charged<s n="adj"/></r></p></e>
+    <e><p><l>ákærður<g><b/>fyrir</g><s n="adj"/></l><r>accused<b/>of<s n="adj"/></r></p></e>
     <e><p><l>áleitinn<s n="adj"/></l><r>aggressive<s n="adj"/></r></p></e>
 <!--<p><l>áleitinn<s n="adj"/></l><r>haunting<s n="adj"/></r></p></e>-->
 <!--<p><l>áleitinn<s n="adj"/></l><r>interfering<s n="adj"/></r></p></e>-->
@@ -10122,6 +10123,7 @@
     <e><p><l>kengur<s n="n"/><s n="m"/></l><r>hook<s n="n"/></r></p></e>
     <e><p><l>kengúra<s n="n"/><s n="f"/></l><r>kangaroo<s n="n"/></r></p></e>
     <e><p><l>kennari<s n="n"/><s n="m"/></l><r>teacher<s n="n"/></r></p></e>
+    <e><p><l>háskólakennari<s n="n"/><s n="m"/></l><r>university<b/>lecturer<s n="n"/></r></p></e>
     <e><p><l>kenning<s n="n"/><s n="f"/></l><r>theory<s n="n"/></r></p></e>
     <!--<e><p><l>kennsla<s n="n"/><s n="f"/></l><r>instruction<s n="n"/></r></p></e>-->
     <e><p><l>kennsla<s n="n"/><s n="f"/></l><r>teaching<s n="n"/></r></p></e>
