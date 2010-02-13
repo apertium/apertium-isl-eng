@@ -378,7 +378,7 @@ SELECT MODV + $$PERSON IF (1C PersPron + $$PERSON);
 
 
 # Í gær borðuðu allir stóru strákarnir góðu súpuna.
-REMOVE PP IF (NOT -1* VerbFin) (NOT 1* VerbFin) (0 VerbFin) (0 PP);
+REMOVE PP IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 PP);
 
 
 ##
@@ -418,7 +418,8 @@ MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NO
 MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
-MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
+#MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
+MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);

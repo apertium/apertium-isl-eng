@@ -133,17 +133,64 @@
               <lit-tag v="pres"/>
             </equal>
           </test>
+          <choose>
+            <when>
+              <test> 
+                <and>
+                  <equal>
+                    <clip pos="1" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                </and>
+              </test>
+              <let>
+                <var n="chunk_do"/>
+                <concat>
+                  <lit v="do"/>
+                  <lit-tag v="SVdo.pres.p3.sg"/>
+                  <lit v="{^do"/>
+                  <lit-tag v="vbdo.pres.p3.sg"/>
+                  <lit v="$}"/>
+                </concat>
+              </let>
+            </when>
+            <otherwise>
+              <let>
+                <var n="chunk_do"/>
+                <concat>
+                  <lit v="do"/>
+                  <lit-tag v="SVdo.pres"/>
+                  <lit v="{^do"/>
+                  <lit-tag v="vbdo.pres"/>
+                  <lit v="$}"/>
+                </concat>
+              </let>
+            </otherwise>
+          </choose>
+        </when>
+        <when>
+          <test> 
+            <equal>
+              <clip pos="1" part="temps"/>
+              <lit-tag v="past"/>
+            </equal>
+          </test>
           <let>
             <var n="chunk_do"/>
             <concat>
               <lit v="do"/>
-              <lit-tag v="SVdo.pres"/>
+              <lit-tag v="SVdo.past"/>
               <lit v="{^do"/>
-              <lit-tag v="vbdo.pres"/>
+              <lit-tag v="vbdo.past"/>
               <lit v="$}"/>
             </concat>
           </let>
         </when>
+
       </choose>
     </def-macro>
 
