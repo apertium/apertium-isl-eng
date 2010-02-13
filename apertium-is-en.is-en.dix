@@ -12106,6 +12106,7 @@
     <!--<e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>dispatch<s n="n"/></r></p></e>-->
     <!--<e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>newsflash<s n="n"/></r></p></e>-->
     <e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>announcement<s n="n"/></r></p></e>
+    <e><p><l>fréttatilkynning<s n="n"/><s n="f"/></l><r>news<b/>announcement<s n="n"/></r></p></e>
     <!--<e><p><l>tilkynning<s n="n"/><s n="f"/></l><r>notice<s n="n"/></r></p></e>-->
     <!--<e><p><l>tillit<s n="n"/><s n="nt"/></l><r>regard<s n="n"/></r></p></e>-->
     <e><p><l>tillit<s n="n"/><s n="nt"/></l><r>consideration<s n="n"/></r></p></e>

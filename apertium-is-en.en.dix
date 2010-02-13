@@ -20461,6 +20461,7 @@
     <e lm="anniversary"><i>anniversar</i><par n="bab/y__n"/></e>
     <e lm="military"><i>militar</i><par n="bab/y__n"/></e>
     <e lm="announcement"><i>announcement</i><par n="house__n"/></e>
+    <e lm="news announcement"><i>news<b/>announcement</i><par n="house__n"/></e>
     <e lm="anomaly"><i>anomal</i><par n="bab/y__n"/></e>
     <e lm="anonymity"><i>anonymit</i><par n="bab/y__n"/></e>
     <e lm="anorexia"><i>anorexia</i><par n="house__n"/></e>
