@@ -13,6 +13,7 @@
 /apertium-is-en.is-en.t3x -text
 /apertium-is-en.is-en.t4x -text
 /apertium-is-en.is.dix -text
+/apertium-is-en.is.tsx -text
 /apertium-is-en.post-en.dix -text
 /autogen.sh -text
 /configure.ac -text
