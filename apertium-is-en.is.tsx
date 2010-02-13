@@ -320,7 +320,12 @@
     <tags-item tags="vbhaver.imp.*"/>
     <tags-item tags="vaux.imp.*"/>
   </def-label>
-
+  <def-mult name="VPREP">
+    <sequence>
+      <tags-item tags="vblex.*"/>
+      <label-item label="PREP"/>
+    </sequence>
+  </def-mult>
 </tagset>
 
   <forbid>
