@@ -46,6 +46,12 @@
       <attr-item tags="p3"/>
       <attr-item tags="PD"/>
     </def-attr>
+    <def-attr n="temps">
+      <attr-item tags="past"/>
+      <attr-item tags="pres"/>
+      <attr-item tags="inf"/>
+      <attr-item tags="ger"/>
+    </def-attr>
     <def-attr n="nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
@@ -57,9 +63,57 @@
   <section-def-vars>
     <def-var n="nombre"/>
     <def-var n="genere"/>
+    <def-var n="collapsed_verb1"/>
   </section-def-vars>
 
   <section-def-macros>
+    <def-macro n="collapse_verb" npar="1">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" part="nbr"/>
+                <lit-tag v="sg"/>
+              </equal>
+              <equal>
+                <clip pos="1" part="temps"/>
+                <lit-tag v="pres"/>
+              </equal>
+              <equal>
+                <clip pos="1" part="pers"/>
+                <lit-tag v="p3"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <var n="collapsed_verb1"/>
+            <concat>
+              <lit v="^"/>
+              <clip pos="1" part="lem"/>
+              <lit-tag v="vblex"/>
+              <clip pos="1" part="temps"/>
+              <clip pos="1" part="pers"/>
+              <clip pos="1" part="nbr"/>
+              <lit v="$"/>
+            </concat>
+          </let>
+        </when>
+        <otherwise> 
+          <let>
+            <var n="collapsed_verb1"/>
+            <concat>
+              <lit v="^"/>
+              <clip pos="1" part="lem"/>
+              <lit-tag v="vblex"/>
+              <clip pos="1" part="temps"/>
+              <lit v="$"/>
+            </concat>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+
     <def-macro n="concord_subj_verb2" npar="2">
       <choose>
         <when>
@@ -88,7 +142,6 @@
             <clip pos="1" part="nbr"/>
           </let>
         </when>
-
       </choose>
     </def-macro>
   </section-def-macros>
@@ -120,6 +173,9 @@
         <pattern-item n="ADV"/>
       </pattern>
       <action>
+        <call-macro n="collapse_verb">
+          <with-param pos="4"/>
+        </call-macro>
         <out>
           <chunk>
             <lit v="sn_rel_sn_v_adv"/>
@@ -131,7 +187,7 @@
               <b pos="2"/>
               <clip pos="3" part="content"/>
               <b pos="3"/>
-              <clip pos="4" part="content"/>
+              <var n="collapsed_verb1"/>
               <b pos="4"/>
               <clip pos="5" part="content"/>
             <lit v="}"/>

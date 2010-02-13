@@ -129,13 +129,21 @@
      <cat-item tags="vblex.ger"/>
   </def-cat>
 
-  <def-cat n="pp">
-     <cat-item tags="vblex.pp"/>
+<!--
+  <def-cat n="supn">
      <cat-item tags="vblex.supn"/>
      <cat-item tags="vblex.supn.*"/>
      <cat-item tags="vblex.*.supn.*"/>
-     <cat-item tags="vblex.pp.*"/>
      <cat-item tags="vblex.*.supn"/>
+  </def-cat>
+-->
+  <def-cat n="pp">
+     <cat-item tags="vblex.supn"/>
+     <cat-item tags="vblex.supn.*"/>
+     <cat-item tags="vblex.*.supn.*"/>
+     <cat-item tags="vblex.*.supn"/>
+     <cat-item tags="vblex.pp"/>
+     <cat-item tags="vblex.pp.*"/>
      <cat-item tags="vblex.*.pp"/>
      <cat-item tags="vblex.*.pp.*"/>
      <cat-item tags="vbser.pp.*"/>
@@ -552,6 +560,34 @@
       </choose>
   </def-macro>
 
+  <def-macro n="conv_vera_to_hafa1" npar="1">
+     <choose>
+      <when>
+        <test>
+          <equal caseless="yes">
+            <clip pos="1" side="sl" part="lem"/>
+            <lit v="vera"/> 
+          </equal>
+        </test>
+        <let>
+          <clip pos="1" side="sl" part="lem"/>
+          <lit v="hafa"/> 
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="lem"/>
+          <lit v="have"/> 
+        </let>
+        <let>
+          <clip pos="1" side="sl" part="a_verb"/>
+          <lit-tag v="vbhaver"/> 
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="a_verb"/>
+          <lit-tag v="vbhaver"/> 
+        </let>
+      </when>
+    </choose>
+  </def-macro>
   <def-macro n="conj_verb1" npar="1">
       <let>
         <var n="cur_verb_chunk_type"/>
@@ -4230,9 +4266,7 @@
      </action>
   </rule>
 
-
-
-  <rule comment="REGLA: AUX PP → AUX PP | var bakað → was baked">
+  <rule comment="REGLA: AUX PP → AUX PP | var barinn → was beaten">
      <pattern>
        <pattern-item n="auxcj"/>
        <pattern-item n="pp"/>
@@ -4268,6 +4302,8 @@
         </out>
      </action>
   </rule>
+
+
 
   <rule comment="REGLA: AUX INF → AUX INF | mun koma → will come">
      <pattern>

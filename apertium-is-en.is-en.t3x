@@ -12,6 +12,10 @@
       <cat-item tags="SA.@-FMAINV.*"/>
     </def-cat>
     <def-cat n="FAUXV">
+      <cat-item lemma="have" tags="SV.@+FAUXV.*"/>
+      <cat-item lemma="have" tags="SV.@+FMAINV.*"/>
+      <cat-item lemma="be" tags="SV.@+FAUXV.*"/>
+      <cat-item lemma="be" tags="SV.@+FMAINV.*"/>
       <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
       <cat-item lemma="auxcj" tags="SV.@+FMAINV.*"/>
     </def-cat>
