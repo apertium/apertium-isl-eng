@@ -171,6 +171,18 @@
               </let>
             </otherwise>
           </choose>
+          <let>
+            <clip pos="1" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+          <let>
+            <clip pos="1" part="nbr"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" part="pers"/>
+            <lit v=""/>
+          </let>
         </when>
         <when>
           <test> 
@@ -189,8 +201,19 @@
               <lit v="$}"/>
             </concat>
           </let>
+          <let>
+            <clip pos="1" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+          <let>
+            <clip pos="1" part="nbr"/>
+            <lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" part="pers"/>
+            <lit v=""/>
+          </let>
         </when>
-
       </choose>
     </def-macro>
 
