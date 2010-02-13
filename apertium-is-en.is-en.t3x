@@ -346,6 +346,45 @@
 
 
 
+    <rule comment="REGLA: FMAINV SN_SUBJ_R NEG → SN_SUBJ_L do not FMAINV">
+      <pattern>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+        <pattern-item n="NEG"/>
+      </pattern>
+      <action c="Vil ég ekki → I do not want"> 
+        <call-macro n="generate_do2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <var n="chunk_do"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
     <rule comment="REGLA: SN_SUBJ_L FMAINV → SN_SUBJ_L FMAINV">
       <pattern>

@@ -8730,7 +8730,6 @@
     <!--<e><p><l>dís<s n="n"/><s n="f"/></l><r>fairy<s n="n"/></r></p></e>-->
     <e><p><l>dís<s n="n"/><s n="f"/></l><r>goddess<s n="n"/></r></p></e>
     <e><p><l>dómari<s n="n"/><s n="m"/></l><r>judge<s n="n"/></r></p></e>
-    <e><p><l>dómsmálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Justice</g><s n="n"/></r></p></e>
     <!--<e><p><l>dómur<s n="n"/><s n="m"/></l><r>judgement<s n="n"/></r></p></e>-->
     <e><p><l>dómur<s n="n"/><s n="m"/></l><r>verdict<s n="n"/></r></p></e>
     <e><p><l>dósent<s n="n"/><s n="m"/></l><r>dosent<s n="n"/></r></p></e>
@@ -8995,7 +8994,6 @@
     <e><p><l>fjaðurpenni<s n="n"/><s n="m"/></l><r>quill<s n="n"/></r></p></e> <!-- (pen made from a feather) -->
     <e><p><l>fjárfesting<s n="n"/><s n="f"/></l><r>investment<s n="n"/></r></p></e>
     <e><p><l>fjárhundur<s n="n"/><s n="m"/></l><r>sheepdog<s n="n"/></r></p></e>
-    <e><p><l>fjármálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Finance</g><s n="n"/></r></p></e>
     <e><p><l>fjórðungur<s n="n"/><s n="m"/></l><r>quarter<s n="n"/></r></p></e> <!-- (one of four equal parts) -->
     <!--<e><p><l>fjós<s n="n"/><s n="nt"/></l><r>cattle<b/>shed<s n="n"/></r></p></e>-->
     <e><p><l>fjós<s n="n"/><s n="nt"/></l><r>cowshed<s n="n"/></r></p></e>
@@ -9104,7 +9102,6 @@
     <!--<e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>-->
     <e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>CEO<s n="n"/></r></p></e>
     <e><p><l>forsæla<s n="n"/><s n="f"/></l><r>shade<s n="n"/></r></p></e>
-    <e><p><l>forsætisráðherra<s n="n"/><s n="m"/></l><r>Prime<b/>Minister<s n="n"/></r></p></e>
     <!--<e><p><l>forsíða<s n="n"/><s n="f"/></l><r>main<b/>page<s n="n"/></r></p></e>-->
     <e><p><l>forsíða<s n="n"/><s n="f"/></l><r>front<b/>page<s n="n"/></r></p></e>
     <e><p><l>fortíð<s n="n"/><s n="f"/></l><r>past<s n="n"/></r></p></e>
@@ -10828,7 +10825,8 @@
     <e><p><l>myndavél<s n="n"/><s n="f"/></l><r>camera<s n="n"/></r></p></e>
     <e><p><l>myndband<s n="n"/><s n="nt"/></l><r>video<s n="n"/></r></p></e>
     <e><p><l>myndlist<s n="n"/><s n="f"/></l><r>visual<b/>arts<s n="n"/></r></p></e>
-    <e><p><l>mynt<s n="n"/><s n="f"/></l><r>coin<s n="n"/></r></p></e>
+    <e><p><l>mynt<s n="n"/><s n=":0"/><s n="f"/></l><r>coin<s n="n"/></r></p></e>
+    <e><p><l>mynt<s n="n"/><s n=":1"/><s n="f"/></l><r>currency<s n="n"/></r></p></e>
     <!--<e><p><l>myrkur<s n="n"/><s n="nt"/></l><r>dark<s n="n"/></r></p></e>-->
     <e><p><l>myrkur<s n="n"/><s n="nt"/></l><r>darkness<s n="n"/></r></p></e>
     <e><p><l>myrkvi<s n="n"/><s n="m"/></l><r>eclipse<s n="n"/></r></p></e>
@@ -12297,7 +12295,6 @@
     <e><p><l>uppruni<s n="n"/><s n="m"/></l><r>source<s n="n"/></r></p></e>
     <e><p><l>upptökustjóri<s n="n"/><s n="m"/></l><r>record<b/>producer<s n="n"/></r></p></e>
     <e><p><l>uppvakningur<s n="n"/><s n="m"/></l><r>zombie<s n="n"/></r></p></e> <!-- (the undead) -->
-    <e><p><l>utanríkisráðherra<s n="n"/><s n="m"/></l><r>Foreign<b/>Minister<s n="n"/></r></p></e>
     <e><p><l>uxi<s n="n"/><s n="m"/></l><r>ox<s n="n"/></r></p></e>
     
     
@@ -13239,6 +13236,24 @@
     <e><p><l>sjávarútvegsráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Fisheries</g><s n="n"/></r></p></e>
     <e><p><l>landbúnaðarráðuneyti<s n="n"/><s n="nt"/></l><r>Ministry<g><b/>of<b/>Agriculture</g><s n="n"/></r></p></e>
 
+    <!-- Ministers -->
+
+    <e><p><l>fjármálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Finance</g><s n="n"/></r></p></e>
+    <e><p><l>forsætisráðherra<s n="n"/><s n="m"/></l><r>Prime<b/>Minister<s n="n"/></r></p></e>
+    <e><p><l>utanríkisráðherra<s n="n"/><s n="m"/></l><r>Foreign<b/>Minister<s n="n"/></r></p></e>
+    <e><p><l>dómsmálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Justice</g><s n="n"/></r></p></e>
+
+    <e><p><l>efnahags-<b/>og<b/>viðskiptaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Economic<b/>Affairs</g><s n="n"/></r></p></e>
+    <e><p><l>dómsmála-<b/>og<b/>mannréttindaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Justice<b/>and<b/>Human<b/>Rights</g><s n="n"/></r></p></e>
+    <e><p><l>félagsmála-<b/>og<b/>tryggingamálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Social<b/>Affairs<b/>and<b/>Social<b/>Security</g><s n="n"/></r></p></e>
+    <e><p><l>heilbrigðisráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Health</g><s n="n"/></r></p></e>
+    <e><p><l>iðnaðarráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Industry,<b/>Energy<b/>and<b/>Tourism</g><s n="n"/></r></p></e>
+    <e><p><l>mennta-<b/>og<b/>menningarmálaráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Education,<b/>Science<b/>and<b/>Culture</g><s n="n"/></r></p></e>
+    <e><p><l>samgöngu-<b/>og<b/>sveitarstjórnarráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Transport,<b/>Communications<b/>and<b/>Local<b/>Government</g><s n="n"/></r></p></e>
+    <e><p><l>sjávarútvegs-<b/>og<b/>landbúnaðarráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Fisheries<b/>and<b/>Agriculture</g><s n="n"/></r></p></e>
+    <e><p><l>umhverfisráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>for<b/>the<b/>Environment</g><s n="n"/></r></p></e>
+
+
     <!-- END Nouns -->
 <!-- END Do sort alphabetically -->
 
@@ -13726,6 +13741,8 @@
     <e><p><l>ganga<g><b/>berserksgang</g><s n="vblex"/></l><r>go<g><b/>beserk</g><s n="vblex"/></r></p></e> 
     <e><p><l>tengja<g><b/>saman</g><s n="vblex"/></l><r>link<s n="vblex"/></r></p></e> 
     <e><p><l>fara<g><b/>fram</g><s n="vblex"/></l><r>take<g><b/>place</g><s n="vblex"/></r></p></e> 
+    <e><p><l>ganga<g><b/>í</g><s n="vblex"/></l><r>join<s n="vblex"/></r></p></e> 
+    <e><p><l>svara<g><b/>í<b/>sömu<b/>mynt</g><s n="vblex"/></l><r>pay<g><b/>back<b/>in<b/>the<b/>same<b/>coin</g><s n="vblex"/></r></p></e> 
     <e><p><l>vinna<g><b/>a<b/>vöktum</g><s n="vblex"/></l><r>work<g><b/>shifts</g><s n="vblex"/></r></p></e>
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>

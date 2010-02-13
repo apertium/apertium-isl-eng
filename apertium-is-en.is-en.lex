@@ -4,6 +4,7 @@ SOFT-DELIMITERS       = ("<,>") ;
 LIST BOS              = (>>>);
 LIST EOS              = (<<<);
 
+LIST CLB              = (sent) (cm) (cnjsub);
 
 LIST PrnPos           = (prn pos);
 LIST PrnPersAnim      = (prn p1) (prn p2) (prn p3 m) (prn p3 f);
@@ -78,10 +79,16 @@ SUBSTITUTE (n) (n :0) ("himinn"ri);
 SUBSTITUTE (n :0) (n :1) ("himinn"ri) (1 ("og"ri)) (2 ("jörð"ri)); # í upphafi
 
 # "land" :
-#        0:"land"
-#        1:"country"
+#       0:"land"
+#       1:"country"
 SUBSTITUTE (n) (n :0) ("land"ri);
 SUBSTITUTE (n :0) (n :1) ("land"ri) ((1 @←N) OR (-1 @N→));
+
+# "mynt" :
+#       0:"coin"
+#       1:"currency"
+SUBSTITUTE (n) (n :0) ("mynt"ri);
+SUBSTITUTE (n :0) (n :1) ("mynt"ri) (-1* ("í" pr) BARRIER CLB);
 
 
 ##

@@ -23246,13 +23246,22 @@
     <e lm="minimum"><i>minim</i><par n="maxim/um__n"/></e>
     <e lm="minimisation"><i>minimisation</i><par n="house__n"/></e>
     <e lm="advisor"><i>advisor</i><par n="house__n"/></e>
-    <e lm="prime minister"><i>prime<b/>minister</i><par n="house__n"/></e>
-    <e lm="foreign minister"><i>foreign<b/>minister</i><par n="house__n"/></e>
     <e lm="minister"><i>minister</i><par n="house__n"/></e>
 
-    <e lm="minister of justice"><i>minister</i><par n="house__n"/><p><l><b/>of<b/>justice</l><r><g><b/>of<b/>justice</g></r></p></e>
+    <e lm="prime minister"><i>prime<b/>minister</i><par n="house__n"/></e>
+    <e lm="foreign minister"><i>foreign<b/>minister</i><par n="house__n"/></e>
+    <e lm="minister of health"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Health</l><r><g><b/>of<b/>health</g></r></p></e>
+    <e lm="minister of justice and human rights"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Justice<b/>and<b/>Human<b/>Rights</l><r><g><b/>of<b/>justice<b/>and<b/>human<b/>rights</g></r></p></e>
+    <e lm="minister of fisheries and agriculture"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Fisheries<b/>and<b/>Agriculture</l><r><g><b/>of<b/>fisheries<b/>and<b/>agriculture</g></r></p></e>
+    <e lm="minister of industry, energy and tourism"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Industry,<b/>Energy<b/>and<b/>Tourism</l><r><g><b/>of<b/>industry,<b/>energy<b/>and<b/>tourism</g></r></p></e>
+    <e lm="minister of education, science and culture"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Education,<b/>Science<b/>and<b/>Culture</l><r><g><b/>of<b/>education,<b/>science<b/>and<b/>culture</g></r></p></e>
+    <e lm="minister of transport, communications and local government"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Transport,<b/>Communications<b/>and<b/>Local<b/>Government</l><r><g><b/>of<b/>transport,<b/>communications<b/>and<b/>local<b/>government</g></r></p></e>
+    <e lm="minister of justice"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Justice</l><r><g><b/>of<b/>justice</g></r></p></e>
+    <e lm="minister of finance"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Finance</l><r><g><b/>of<b/>finance</g></r></p></e>
+    <e lm="minister of economic affairs"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Economic<b/>Affairs</l><r><g><b/>of<b/>economic<b/>affairs</g></r></p></e>
+    <e lm="minister of social affairs and social security"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Social<b/>Affairs<b/>and<b/>Social<b/>Security</l><r><g><b/>of<b/>social<b/>affairs<b/>and<b/>social<b/>security</g></r></p></e>
+    <e lm="minister for the environment"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>for<b/>The<b/>Environment</l><r><g><b/>for<b/>the<b/>environment</g></r></p></e>
 
-    <e lm="minister of finance"><i>minister</i><par n="house__n"/><p><l><b/>of<b/>finance</l><r><g><b/>of<b/>finance</g></r></p></e>
     <e lm="ministry"><i>ministr</i><par n="bab/y__n"/></e>
     <e lm="minor"><i>minor</i><par n="house__n"/></e>
     <e lm="minority"><i>minorit</i><par n="bab/y__n"/></e>
@@ -44800,6 +44809,7 @@
     <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/><p><l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>cash</l><r><g><b/>cash</g></r></p></e>
+    <e lm="pay back in the same coin"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>back<b/>in<b/>the<b/>same<b/>coin</l><r><g><b/>back<b/>in<b/>the<b/>same<b/>coin</g></r></p></e>
     <e lm="go Dutch"><i></i><par n="/go__vblex"/><p><l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
     <e r="RL"><i>sho</i><par n="sho/ot__vblex"/><p><l><b/>in<b/>the<b/>dark</l><r><g><b/>in<b/>the<b/>dark</g></r></p></e>
     <e lm="take for granted"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>for<b/>granted</l><r><g><b/>for<b/>granted</g></r></p></e>
