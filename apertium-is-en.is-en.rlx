@@ -183,6 +183,8 @@ SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 N LINK 1 Gen));
 # select the adjective, "hann er lasinn",
 SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersPron);
 
+#Auðvitað brá okkur við þetta
+REMOVE N IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 N);
 
 #################################################################################
 # Adjectives
@@ -439,6 +441,11 @@ MAP (@←SUBJ) TARGET PersPron + Nom + $$PERSON + $$NUMBER (-1C* VerbFin + $$PER
 MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
+
+MAP (@←SUBJ) TARGET PersPron + Dat (-1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
+MAP (@←SUBJ) TARGET PersPron + Acc (-1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
+
+
 
 #MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1C* VerbFin + $$NUMBER + (p3) BARRIER CLB) (0 N + Nom + $$NUMBER);
 
