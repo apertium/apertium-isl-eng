@@ -41750,6 +41750,7 @@
     <e lm="abuse"><i>abus</i><par n="liv/e__vblex"/></e>
     <e lm="accelerate"><i>accelerat</i><par n="liv/e__vblex"/></e>
     <e lm="accept"><i>accept</i><par n="accept__vblex"/></e>
+    <e lm="thank"><i>thank</i><par n="accept__vblex"/></e>
     <e lm="access"><i>access</i><par n="approach__vblex"/></e>
     <e lm="acclaim"><i>acclaim</i><par n="accept__vblex"/></e>
     <e lm="acclimate"><i>acclimat</i><par n="liv/e__vblex"/></e>

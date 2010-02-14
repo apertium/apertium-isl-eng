@@ -230,8 +230,8 @@ SELECT PersPron + Acc IF (-1 VerbFin) (-1C* PersPron + Nom BARRIER VerbFin | CLB
 SELECT:r53p $$PERSON IF (1C VerbFin + $$PERSON)(0 PersPron) ;
 
 #þá auðveldustu
-REMOVE ("<þá>"ri) + PersPron IF (1 Verb OR Conj OR  Adv OR  N);
-REMOVE ("<þá>"ri) + PersPron IF (-1 VerbBe OR Conj OR  Adv OR  N);
+REMOVE ("<þá>"ri) + PersPron IF (1 Verb OR Adv OR  N); # was + Conj
+REMOVE ("<þá>"ri) + PersPron IF (-1 VerbBe OR Adv OR  N); # was + Conj
 REMOVE ("<þá>"ri) + PersPron IF ((-1C Refl) OR (-1 VerbBe OR PersPron)); # væri þá and réði sig þá
 
 REMOVE PersPron + Nom IF (-1C* PersPron + Nom BARRIER VerbFin | CLB);
@@ -251,6 +251,8 @@ REMOVE PersPron + Acc IF (-1 ("sem")) (1 VerbFin) (0 PersPron + Nom) (0 PersPron
 
 # Ég sá ekki 
 # finnst þér þá
+#ég þakka þeim kærlega fyrir
+REMOVE DemPron IF (0 DemPron) (0 PersPron); ## this needs fixing
 REMOVE DemPron IF (-1C PersPron) ;
 REMOVE ("<þá>"ri) + DemPron IF (1 VerbFin) (NOT 1 Rel); # þá sem ...
 REMOVE ("<þá>"ri) + DemPron IF (1 Conj OR Adv) (-1 BOS); # Þá þegar ...
