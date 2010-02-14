@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interchunk> 
   <section-def-cats>
+    <def-cat n="DESIRE_VERB">
+      <cat-item lemma="want" tags="SV.*"/>
+    </def-cat>
     <def-cat n="REPORT_VERB">
       <cat-item tags="SVrep.*"/>
     </def-cat>
@@ -689,6 +692,50 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: SN_SUBJ_L DESIRE_VERB AÐ SN_SUBJ_L FMAINV → SN_SUBJ_L DESIRE_VERB SN_SUBJ_L FMAINV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="DESIRE_VERB"/>
+        <pattern-item n="AÐ"/>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+      </pattern>
+      <action c="vildi að verðlaunin færu til þeirra → wanted the award to go to them"> 
+        <call-macro n="convert_subjunc1">
+          <with-param pos="5"/>
+        </call-macro> 
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="5" part="lem"/>
+            <clip pos="5" part="tags"/>
+            <lit v="{"/>
+            <lit v="^to"/>
+            <lit-tag v="pr"/>
+            <lit v="$ "/>
+            <clip pos="5" part="content"/>
+            <lit v="}"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
   </section-rules>
 </interchunk>

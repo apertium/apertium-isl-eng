@@ -5,11 +5,20 @@
     <def-cat n="eins_og">
       <cat-item name="eins og"/>
     </def-cat>
-    <def-cat n="nom">
-      <cat-item name="nom"/>
+    <def-cat n="unknown">
+      <cat-item name="unknown"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item name="sent"/>
+    </def-cat>
+    <def-cat n="prep">
+      <cat-item name="í"/>
+      <cat-item name="með"/>
+      <cat-item name="við"/>
+      <cat-item name="til"/>
+    </def-cat>
+    <def-cat n="nom">
+      <cat-item name="nom"/>
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
@@ -44,7 +53,40 @@
   <section-rules>
      <rule comment="CHUNK: ">
        <pattern>
+         <pattern-item n="prep"/>
+       </pattern>
+       <action> 
+         <out>
+           <lu>
+             <clip pos="1" part="whole"/>
+           </lu>
+         </out> 
+         <call-macro n="lastword">
+           <with-param pos="1"/>
+         </call-macro>
+       </action>
+     </rule>
+
+
+     <rule comment="CHUNK: ">
+       <pattern>
          <pattern-item n="sent"/>
+       </pattern>
+       <action> 
+         <out>
+           <lu>
+             <clip pos="1" part="whole"/>
+           </lu>
+         </out> 
+         <call-macro n="lastword">
+           <with-param pos="1"/>
+         </call-macro>
+       </action>
+     </rule>
+
+     <rule comment="CHUNK: ">
+       <pattern>
+         <pattern-item n="unknown"/>
        </pattern>
        <action> 
          <out>

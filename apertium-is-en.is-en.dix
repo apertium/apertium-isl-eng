@@ -444,6 +444,7 @@
 <!--<p><l>afdrifaríkur<s n="adj"/></l><r>momentous<s n="adj"/></r></p></e>-->
 <!--<p><l>afdrifaríkur<s n="adj"/></l><r>significant<s n="adj"/></r></p></e>-->
     <e><p><l>afganskur<s n="adj"/></l><r>Afghan<s n="adj"/></r></p></e>
+    <e><p><l>argentínskur<s n="adj"/></l><r>Argentinian<s n="adj"/></r></p></e>
     <e><p><l>afgerandi<s n="adj"/></l><r>decisive<s n="adj"/></r></p></e>
     <e><p><l>afmarkaður<s n="adj"/></l><r>specific<s n="adj"/></r></p></e>
     <e><p><l>afrískur<s n="adj"/></l><r>African<s n="adj"/></r></p></e>
@@ -1024,7 +1025,7 @@
     <e><p><l>hallærislegur<s n="adj"/></l><r>uncool<s n="adj"/></r></p></e>
     <e><p><l>hamingjusamur<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>handhægur<s n="adj"/></l><r>convenient<s n="adj"/></r></p></e>
-    <e><p><l>harður<s n="adj"/></l><r>hard<s n="adj"/></r></p></e>
+    <e><p><l>harður<s n="adj"/></l><r>hard<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>harður<s n="adj"/></l><r>remorseless<s n="adj"/></r></p></e>-->
     <e><p><l>hefðbundinn<s n="adj"/></l><r>traditional<s n="adj"/></r></p></e>
     <e><p><l>heilagur<s n="adj"/></l><r>holy<s n="adj"/><s n="sint"/></r></p></e>
@@ -3271,6 +3272,7 @@
     <e><p><l>undarlega<s n="adv"/></l><r>strangely<s n="adv"/></r></p></e>
 <!--<p><l>undarlega<s n="adv"/></l><r>unusually<s n="adv"/></r></p></e>-->
     <e><p><l>undireins<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+    <e><p><l>undir<b/>lokin<s n="adv"/></l><r>towards<b/>the<b/>end<s n="adv"/></r></p></e>
 <!--<p><l>undireins<s n="adv"/></l><r>instantly<s n="adv"/></r></p></e>-->
 <!--<p><l>undireins<s n="adv"/></l><r>now<s n="adv"/></r></p></e>-->
 <!--<p><l>undireins<s n="adv"/></l><r>promptly<s n="adv"/></r></p></e>-->
@@ -3485,6 +3487,7 @@
 <!--<p><l>þrisvar<s n="adv"/></l><r>three<g><b/>times</g><s n="adv"/></r></p></e>-->
     <e><p><l>þrisvar<s n="adv"/></l><r>thrice<s n="adv"/></r></p></e>
     <e><p><l>þrátt<b/>fyrir<b/>allt<s n="adv"/></l><r>in<b/>spite<b/>of<b/>everything<s n="adv"/></r></p></e>
+    <e><p><l>þrátt<b/>fyrir<s n="adv"/></l><r>despite<s n="adv"/></r></p></e>
     <e><p><l>þrátt<s n="adv"/></l><r>despite<s n="adv"/></r></p></e>
     <e><p><l>þungt<s n="adv"/></l><r>heavy<s n="adv"/></r></p></e>
 <!--<p><l>þungt<s n="adv"/></l><r>ill<s n="adv"/></r></p></e>-->
@@ -10105,6 +10108,7 @@
     <e><p><l>kartafla<s n="n"/><s n="f"/></l><r>potato<s n="n"/></r></p></e>
     <e><p><l>karíbamál<s n="n"/><s n="nt"/></l><r>Caribbean<b/>language<s n="n"/></r></p></e>
     <e><p><l>kassi<s n="n"/><s n="m"/></l><r>box<s n="n"/></r></p></e>
+    <e><p><l>afgreiðslukassi<s n="n"/><s n="m"/></l><r>till<s n="n"/></r></p></e>
     <e><p><l>kast<s n="n"/><s n="nt"/></l><r>cast<s n="n"/></r></p></e>
     <!--<e><p><l>kast<s n="n"/><s n="nt"/></l><r>throw<s n="n"/></r></p></e>-->
     <e><p><l>kastali<s n="n"/><s n="m"/></l><r>castle<s n="n"/></r></p></e>
@@ -10212,6 +10216,8 @@
     <!--<e><p><l>klósett<s n="n"/><s n="nt"/></l><r>toilet<s n="n"/></r></p></e>-->
     <e><p><l>klósettpappír<s n="n"/><s n="m"/></l><r>toilet<b/>paper<s n="n"/></r></p></e>
     <e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>football<s n="n"/></r></p></e>
+    <e><p><l>mótspyrna<s n="n"/><s n="f"/></l><r>resistance<s n="n"/></r></p></e>
+    <!--<e><p><l>mótspyrna<s n="n"/><s n="f"/></l><r>opposition<s n="n"/></r></p></e>-->
     <!--<e><p><l>knattspyrna<s n="n"/><s n="f"/></l><r>soccer<s n="n"/></r></p></e> --> <!-- (sport) -->
     <e><p><l>kné<s n="n"/><s n="nt"/></l><r>knee<s n="n"/></r></p></e>
     <e><p><l>knéfiðla<s n="n"/><s n="f"/></l><r>cello<s n="n"/></r></p></e> <!-- (musical instrument) -->
@@ -11278,7 +11284,8 @@
     <!--<e><p><l>rit<s n="n"/><s n="nt"/></l><r>publication<s n="n"/></r></p></e>-->
     <!--<e><p><l>ritari<s n="n"/><s n="m"/></l><r>clerk<s n="n"/></r></p></e>-->
     <e><p><l>ritari<s n="n"/><s n="m"/></l><r>secretary<s n="n"/></r></p></e>
-    <e><p><l>ritgerð<s n="n"/><s n="f"/></l><r>essay<s n="n"/></r></p></e>
+    <e><p><l>ritgerð<s n="n"/><s n="f"/></l><r>paper<s n="n"/></r></p></e>
+    <!--<e><p><l>ritgerð<s n="n"/><s n="f"/></l><r>essay<s n="n"/></r></p></e>-->
     <e><p><l>rithöfundur<s n="n"/><s n="m"/></l><r>author<s n="n"/></r></p></e>
     <e><p><l>rittáknakerfi<s n="n"/><s n="nt"/></l><r>alphabet<s n="n"/></r></p></e> <!-- (an ordered set of letters used in a language) -->
     <e><p><l>rjómaís<s n="n"/><s n="m"/></l><r>ice<b/>cream<s n="n"/></r></p></e>
@@ -11734,6 +11741,7 @@
     <!--<e><p><l>sperðileitrun<s n="n"/><s n="f"/></l><r>botulism<s n="n"/></r></p></e>-->
     <e><p><l>spik<s n="n"/><s n="nt"/></l><r>fat<s n="n"/></r></p></e>
     <e><p><l>spil<s n="n"/><s n="nt"/></l><r>game<s n="n"/></r></p></e>
+    <e><p><l>samspil<s n="n"/><s n="nt"/></l><r>interplay<s n="n"/></r></p></e>
     <!--<e><p><l>spila<s n="v"/><s n="f"/></l><r>play<s n="v"/></r></p></e>--> <!-- verb -->
     <e><p><l>spilling<s n="n"/><s n="f"/></l><r>corruption<s n="n"/></r></p></e>
     <e><p><l>spjall<s n="n"/><s n="nt"/></l><r>talk<s n="n"/></r></p></e>
@@ -13272,7 +13280,11 @@
 
 
     <!-- TODO:  Fran insert additions here, Martha lightly proofread :) -->
-    <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- :( ... Why the frown?  'Breti' is 'British person', we could change it to that if it makes you happier ;) ~~ I don't believe in 'British' as a people / nationality! -->
+
+    <e><p><l>Breti<s n="n"/><s n="m"/><s n="sg"/></l><r>Briton<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>Breti<s n="n"/><s n="m"/><s n="pl"/></l><r>Briton<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>Breti<s n="n"/><s n="m"/><s n="pl"/></l><r>British<s n="n"/><s n="pl"/></r></p></e>
+
     <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>municipal<b/>manager<s n="n"/></r></p></e>  <!-- ? can the title be 'mayor' if it is a small rural town? -->
     <e><p><l>Hollendingur<s n="n"/><s n="m"/></l><r>Dutch<s n="n"/></r></p></e> 
 
@@ -13411,6 +13423,7 @@
     <e><p><l>utanhúss<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
     <e><p><l>berlega<s n="adv"/></l><r>openly<s n="adv"/></r></p></e>
     <e><p><l>aukalega<s n="adv"/></l><r>extra<s n="adv"/></r></p></e>
+    <e><p><l>til<b/>dæmis<s n="adv"/></l><r>for<b/>example<s n="adv"/></r></p></e>
     <e><p><l>nú<b/>þegar<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
  
     <e><p><l>eftir<b/>að<s n="cnjadv"/></l><r>after<s n="cnjadv"/></r></p></e>
@@ -13714,6 +13727,7 @@
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
+    <e><p><l>tölvunarfræðingur<s n="n"/><s n="m"/></l><r>computer<b/>scientist<s n="n"/></r></p></e>
     <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
 

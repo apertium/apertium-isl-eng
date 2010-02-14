@@ -19989,6 +19989,7 @@
     <!-- Nouns -->
 	
     <e lm="garda"><i>garda</i><par n="house__n"/></e>
+    <e lm="till"><i>till</i><par n="house__n"/></e>
     <e lm="aria"><i>aria</i><par n="house__n"/></e>
     <e lm="amnesia"><i>amnesia</i><par n="east__n"/></e>
     <e lm="cocoa"><i>cocoa</i><par n="east__n"/></e>
@@ -21750,6 +21751,7 @@
     <e lm="dispensary"><i>dispensar</i><par n="bab/y__n"/></e>
     <e lm="dispensation"><i>dispensation</i><par n="house__n"/></e>
     <e lm="display"><i>display</i><par n="house__n"/></e>
+    <e lm="interplay"><i>interplay</i><par n="house__n"/></e>
     <e lm="disposal"><i>disposal</i><par n="house__n"/></e>
     <e lm="disposition"><i>disposition</i><par n="house__n"/></e>
     <e lm="disproportion"><i>disproportion</i><par n="house__n"/></e>
@@ -22932,6 +22934,7 @@
     <e lm="landscape"><i>landscape</i><par n="house__n"/></e>
     <e lm="lane"><i>lane</i><par n="house__n"/></e>
     <e lm="language"><i>language</i><par n="house__n"/></e>
+    <e lm="programming language"><i>programming<b/>language</i><par n="house__n"/></e>
     <e lm="lantern"><i>lantern</i><par n="house__n"/></e>
     <e lm="lapidation"><i>lapidation</i><par n="house__n"/></e>
     <e lm="lapse"><i>lapse</i><par n="house__n"/></e>
@@ -24437,6 +24440,7 @@
     <e lm="science"><i>science</i><par n="house__n"/></e>
     <e lm="forensic science"><i>forensic<b/>science</i><par n="house__n"/></e>
     <e lm="scientist"><i>scientist</i><par n="house__n"/></e>
+    <e lm="computer scientist"><i>computer<b/>scientist</i><par n="house__n"/></e>
     <e lm="scissors"><i>scissors</i><par n="personnel__n"/></e>
     <e lm="sclerosis"><i>scleros</i><par n="analys/is__n"/></e>
     <e lm="scoliosis"><i>scolios</i><par n="analys/is__n"/></e>
@@ -41561,6 +41565,7 @@
     <e lm="opposite"><i>opposite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="maybe__adv"/></e>
     <e lm="in full"><i>in<b/>full</i><par n="maybe__adv"/></e>
+    <e lm="towards the end"><i>towards<b/>the<b/>end</i><par n="maybe__adv"/></e>
     <e lm="in detail"><i>in<b/>detail</i><par n="maybe__adv"/></e>
     <e lm="talkative"><i>talkative</i><par n="expensive__adj"/></e>
     <e lm="contemplative"><i>contemplative</i><par n="expensive__adj"/></e>
