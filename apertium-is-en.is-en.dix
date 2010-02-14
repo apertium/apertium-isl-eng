@@ -2308,7 +2308,7 @@
 <!--<p><l>ánægjulegur<s n="adj"/></l><r>pleasing<s n="adj"/></r></p></e>-->
     <e><p><l>ánægjulegur<s n="adj"/></l><r>pleasurable<s n="adj"/></r></p></e>
 <!--<p><l>ánægjulegur<s n="adj"/></l><r>satisfying<s n="adj"/></r></p></e>-->
-    <e><p><l>ánægður<s n="adj"/></l><r>happy<s n="adj"/></r></p></e>
+    <e><p><l>ánægður<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>áreiðanlegur<s n="adj"/></l><r>credible<s n="adj"/></r></p></e>-->
 <!--<p><l>áreiðanlegur<s n="adj"/></l><r>dependable<s n="adj"/></r></p></e>-->
     <e><p><l>áreiðanlegur<s n="adj"/></l><r>reliable<s n="adj"/></r></p></e>
