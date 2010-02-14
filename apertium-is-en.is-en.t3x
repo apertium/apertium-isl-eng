@@ -15,11 +15,9 @@
       <cat-item tags="SA.@-FMAINV.*"/>
     </def-cat>
     <def-cat n="FAUXV"> <!-- this should be decreased -->
-      <cat-item lemma="auxcj" tags="SV.@+FAUXV.*"/>
+      <cat-item tags="SV.@+FAUXV.*"/>
       <cat-item lemma="auxcj" tags="SV.@+FMAINV.*"/>
-      <cat-item lemma="have" tags="SV.@+FAUXV.*"/>
       <cat-item lemma="have" tags="SV.@+FMAINV.*"/>
-      <cat-item lemma="be" tags="SV.@+FAUXV.*"/>
       <cat-item lemma="be" tags="SV.@+FMAINV.*"/>
     </def-cat>
     <def-cat n="INF">
@@ -29,6 +27,9 @@
     <def-cat n="SV">
       <cat-item tags="SV"/>
       <cat-item tags="SV.*"/>
+    </def-cat>
+    <def-cat n="SN_DOBJ_L">
+      <cat-item tags="SN.@OBJ→.*"/>
     </def-cat>
     <def-cat n="SN_SUBJ_L">
       <cat-item tags="SN.@SUBJ→.*"/>
@@ -47,6 +48,10 @@
     </def-cat>
     <def-cat n="ADV"> <!-- Adverbial -->
       <cat-item tags="ADV"/>
+    </def-cat>
+    <def-cat n="ITG">
+      <cat-item tags="PRN.ITG"/>
+      <cat-item tags="ITG"/>
     </def-cat>
     <def-cat n="AÐ"> 
       <cat-item lemma="að" tags="CS"/>
@@ -84,6 +89,7 @@
     <def-var n="chunk_do"/>
     <def-var n="nombre"/>
     <def-var n="genere"/>
+    <def-var n="caseWord"/>
   </section-def-vars>
 
   <section-def-lists>
@@ -95,6 +101,7 @@
 
       <list-item v="hins vegar"/>
       <list-item v="núna"/>
+      <list-item v="oft"/>
       <list-item v="nú"/>
 
     </def-list>
@@ -366,7 +373,42 @@
       </action>
     </rule>
 
-
+    <rule comment="REGLA: SN_SUBJ_L FAUXV NEG → SN_SUBJ_L do not FAUXV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="NEG"/>
+      </pattern>
+      <action c="Ég vil ekki → I do not want"> 
+        <call-macro n="generate_do2">
+          <with-param pos="2"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <var n="chunk_do"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: FMAINV SN_SUBJ_R NEG → SN_SUBJ_L do not FMAINV">
       <pattern>
@@ -405,7 +447,85 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: FAUXV SN_SUBJ_R NEG → SN_SUBJ_L do not FAUXV to INF">
+      <pattern>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+        <pattern-item n="NEG"/>
+        <pattern-item n="INF"/>
+      </pattern>
+      <action c="Vil ég ekki ganga í → I do not want to join"> 
+        <call-macro n="generate_do2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <var n="chunk_do"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <lit v="{"/>
+            <lit v="^to"/>
+            <lit-tag v="pr"/>
+            <lit v="$ "/>
+            <clip pos="4" part="content"/>
+            <lit v="}"/>
+          </chunk>
 
+        </out>
+      </action>
+    </rule>
+
+
+
+
+
+    <rule comment="REGLA: SN_SUBJ_L FAUXV → SN_SUBJ_L FAUXV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FAUXV"/>
+      </pattern>
+      <action c="Ég ætla að gera → I am going to make"> 
+        <call-macro n="concord_subj_verb2">
+          <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: SN_SUBJ_L FMAINV → SN_SUBJ_L FMAINV">
@@ -526,6 +646,115 @@
     </rule>
 
 
+    <rule comment="REGLA: ITG DESIRE_VERB SN_SUBJ_R → ITG DESIRE_VERB SN_SUBJ_R">
+      <pattern>
+        <pattern-item n="ITG"/>
+        <pattern-item n="DESIRE_VERB"/>
+        <pattern-item n="SN_SUBJ_R"/>
+      </pattern>
+      <action c="Hvað vilt þú ? → What do you want ?"> 
+        <call-macro n="generate_do2">
+          <with-param pos="2"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <var n="chunk_do"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="REGLA: ITG FMAINV SN_SUBJ_R → ITG FMAINV SN_SUBJ_R">
+      <pattern>
+        <pattern-item n="ITG"/>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+      </pattern>
+      <action c="Hvar ert þú ? → Where are you ?"> 
+        <choose>
+          <when>
+            <test>
+              <equal caseless="yes">
+                <clip pos="2" part="lem"/>
+                <lit v="be"/>
+              </equal>
+            </test>
+            <out>
+              <chunk>
+                <clip pos="1" part="lem"/>
+                <clip pos="1" part="tags"/>
+                <clip pos="1" part="chcontent"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <clip pos="2" part="lem"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+              </chunk>
+              <b pos="2"/>
+              <chunk>
+                <clip pos="3" part="lem"/>
+                <clip pos="3" part="tags"/>
+                <clip pos="3" part="chcontent"/>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <call-macro n="generate_do2">
+              <with-param pos="2"/>
+              <with-param pos="3"/>
+            </call-macro>
+            <out>
+              <chunk>
+                <clip pos="1" part="lem"/>
+                <clip pos="1" part="tags"/>
+                <clip pos="1" part="chcontent"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <var n="chunk_do"/>
+              </chunk>
+              <b/>
+              <chunk>
+                <clip pos="3" part="lem"/>
+                <clip pos="3" part="tags"/>
+                <clip pos="3" part="chcontent"/>
+              </chunk>
+              <b pos="2"/>
+              <chunk>
+                <clip pos="2" part="lem"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: FMAINV SN_SUBJ_R → SN_SUBJ_R FMAINV">
       <pattern>
         <pattern-item n="FMAINV"/>
@@ -547,6 +776,78 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN_DOBJ_L FAUXV SN_SUBJ_R PP_FMAINV → SN_SUBJ_L FAUXV PP_FMAINV SN_DOBJ_R">
+      <pattern>
+        <pattern-item n="SN_DOBJ_L"/>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+        <pattern-item n="PP_FMAINV"/>
+      </pattern>
+      <action c="Litlu músina hafði stóra uglan étið → The big owl had eaten the small mouse"> 
+        <out>
+          <chunk>
+            <get-case-from pos="1">
+              <clip pos="3" part="lem"/>
+            </get-case-from>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <get-case-from pos="3">
+              <clip pos="1" part="lem"/>
+            </get-case-from>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="REGLA: FAUXV SN_SUBJ_R PP_FMAINV → SN_SUBJ_L FAUXV PP_FMAINV">
+      <pattern>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+        <pattern-item n="PP_FMAINV"/>
+      </pattern>
+      <action c="höfðu nokkrir stúdentar aldrei séð → some students had never seen"> 
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: SN_SUBJ_L FAUXV ADV PP_FMAINV → SN_SUBJ_L FAUXV PP_FMAINV ADV">
       <pattern>
@@ -583,8 +884,6 @@
         </out>
       </action>
     </rule>
-
-
 
     <rule comment="REGLA: FAUXV ADV PP_FMAINV → FAUXV PP_FMAINV ADV">
       <pattern>

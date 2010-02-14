@@ -18,8 +18,9 @@ LIST Dat              = (dat);
 LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja";
 LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
 
-LIST Islands          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar"; 
-LIST Languages        = "íslenska" "enska" ;
+LIST ISLANDS          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar"; 
+LIST LANGUAGES        = "íslenska" "enska" ;
+LIST BUILDINGS        = ".*skóli"ri ;
 
 LIST @N→              = @N→;
 LIST @←N              = @←N;
@@ -135,7 +136,7 @@ SUBSTITUTE (vblex) (vblex :0) ("þýða"ri);
 #        0:"improve"
 #        1:"get# better"
 SUBSTITUTE (vblex) (vblex :0) ("batna"ri);
-SUBSTITUTE (vblex :0) (vblex :1) ("batna"ri) ((-1C* @SUBJ→ + Dat) OR (1C* @←SUBJ + Dat));
+SUBSTITUTE (vblex :0) (vblex :1) ("batna"ri) ((-1C* @SUBJ→ + Dat BARRIER CLB) OR (1C* @←SUBJ + Dat BARRIER CLB));
 
 # "halda" : 
 #        0:"hold"
@@ -155,13 +156,15 @@ SUBSTITUTE (vblex :0) (vblex :1) ("halda"ri) (1 ("að"));
 #      1: "to"
 #      2: "beside"
 SUBSTITUTE (pr) (pr :0) ("við"ri);
-SUBSTITUTE (pr :0) (pr :1) ("við"ri) (-1C* CommVerb) (1C Human);
+SUBSTITUTE (pr :0) (pr :1) ("við"ri) (-1C* CommVerb BARRIER CLB) (1C Human);
 
 # "á" : 
 #    0:"on"
 #    1:"in"
+#    1:"at"
 SUBSTITUTE (pr) (pr :0) ("á"ri);
-SUBSTITUTE (pr :0) (pr :1) ("á"ri) (1C Islands OR Languages);
+SUBSTITUTE (pr :0) (pr :1) ("á"ri) (1C ISLANDS OR LANGUAGES);
+SUBSTITUTE (pr :0) (pr :2) ("á"ri) (1C BUILDINGS);
 
 ##
 ## PARTICLES

@@ -15525,6 +15525,7 @@
     <e lm="Arthúr"><i>Arthúr</i><par n="Mark__np"/></e>
     <e lm="Þorbrandur"><i>Þorbrandur</i><par n="Mark__np"/></e>
     <e lm="Benoný"><i>Benoný</i><par n="Mark__np"/></e>
+    <e lm="Jósef"><i>Jósef</i><par n="Mark__np"/></e>
     <e lm="Auðmundur"><i>Auðmundur</i><par n="Mark__np"/></e>
     <e lm="Arngeir"><i>Arngeir</i><par n="Mark__np"/></e>
     <e lm="Þorgeir"><i>Þorgeir</i><par n="Mark__np"/></e>
@@ -20559,6 +20560,7 @@
     <e lm="asset"><i>asset</i><par n="house__n"/></e>
     <e lm="assiduity"><i>assiduit</i><par n="bab/y__n"/></e>
     <e lm="assimilation"><i>assimilation</i><par n="house__n"/></e>
+    <e lm="assignment"><i>assignment</i><par n="house__n"/></e>
     <e lm="assistance"><i>assistance</i><par n="house__n"/></e>
     <e lm="assistant"><i>assistant</i><par n="house__n"/></e>
     <e lm="association"><i>association</i><par n="house__n"/></e>
@@ -20778,6 +20780,7 @@
     <e lm="blow"><i>blow</i><par n="house__n"/></e>
     <e lm="board"><i>board</i><par n="house__n"/></e>
     <e lm="seaboard"><i>seaboard</i><par n="house__n"/></e>
+    <e lm="blizzard"><i>blizzard</i><par n="house__n"/></e>
     <e lm="boat"><i>boat</i><par n="house__n"/></e>
     <e lm="body"><i>bod</i><par n="bab/y__n"/></e>
     <e lm="bodywork"><i>bodywork</i><par n="house__n"/></e>
@@ -21159,6 +21162,7 @@
     <e lm="coat"><i>coat</i><par n="house__n"/></e>
     <e lm="raincoat"><i>raincoat</i><par n="house__n"/></e>
     <e lm="cobweb"><i>cobweb</i><par n="house__n"/></e>
+    <e lm="cobbler"><i>cobbler</i><par n="house__n"/></e>
     <e lm="cocaine"><i>cocaine</i><par n="house__n"/></e>
     <e lm="cocktail"><i>cocktail</i><par n="house__n"/></e>
     <e lm="cod"><i>cod</i><par n="house__n"/></e>
@@ -43667,6 +43671,7 @@
     <e lm="home"><i>home</i><par n="maybe__adv"/></e>
     <e lm="hopelessly"><i>hopelessly</i><par n="maybe__adv"/></e>
     <e lm="how"><i>how</i><par n="where__adv"/></e>
+    <e lm="which" r="RL"><i>which</i><par n="where__adv"/></e>
     <e lm="who"><i>who</i><par n="where__adv"/></e>
     <e lm="however"><i>however</i><par n="maybe__adv"/></e>
     <e lm="hugely"><i>hugely</i><par n="maybe__adv"/></e>
@@ -44013,6 +44018,7 @@
     <e lm="simultaneously"><i>simultaneously</i><par n="maybe__adv"/></e>
     <e lm="simultaneously"><i>simultaneously</i><par n="maybe__adv"/></e>
     <e lm="as"><i>as</i><par n="that__cnjsub"/></e>
+    <e lm="whether"><i>whether</i><par n="that__cnjsub"/></e>
     <e lm="as far as"><i>as<b/>far<b/>as</i><par n="that__cnjsub"/></e>
     <e lm="unless"><i>unless</i><par n="that__cnjsub"/></e>
     <e lm="though"><i>though</i><par n="that__cnjsub"/></e>

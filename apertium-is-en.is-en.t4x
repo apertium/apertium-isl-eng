@@ -12,10 +12,67 @@
       <cat-item name="sent"/>
     </def-cat>
     <def-cat n="prep">
-      <cat-item name="í"/>
-      <cat-item name="með"/>
-      <cat-item name="við"/>
-      <cat-item name="til"/>
+     <cat-item name="á"/>
+     <cat-item name="að"/>
+     <cat-item name="áður en"/>
+     <cat-item name="af"/>
+     <cat-item name="á milli"/>
+     <cat-item name="á móti"/>
+     <cat-item name="á móts við"/>
+     <cat-item name="án"/>
+     <cat-item name="andspænis"/>
+     <cat-item name="ásamt"/>
+     <cat-item name="á tímum"/>
+     <cat-item name="auk"/>
+     <cat-item name="bak við"/>
+     <cat-item name="deila með"/>
+     <cat-item name="eftir"/>
+     <cat-item name="fjær"/>
+     <cat-item name="frá"/>
+     <cat-item name="framhjá"/>
+     <cat-item name="fyrir"/>
+     <cat-item name="gagnvart"/>
+     <cat-item name="gegn"/>
+     <cat-item name="gegnt"/>
+     <cat-item name="gegnum"/>
+     <cat-item name="handa"/>
+     <cat-item name="hjá"/>
+     <cat-item name="í"/>
+     <cat-item name="inn í"/>
+     <cat-item name="inni í"/>
+     <cat-item name="jafnframt"/>
+     <cat-item name="kringum"/>
+     <cat-item name="með"/>
+     <cat-item name="meðal"/>
+     <cat-item name="meðfram"/>
+     <cat-item name="milli"/>
+     <cat-item name="móti"/>
+     <cat-item name="ofan í"/>
+     <cat-item name="oní"/>
+     <cat-item name="samfara"/>
+     <cat-item name="samkvæmt"/>
+     <cat-item name="sinnum"/>
+     <cat-item name="til"/>
+     <cat-item name="um"/>
+     <cat-item name="umfram"/>
+     <cat-item name="undan"/>
+     <cat-item name="undir"/>
+     <cat-item name="upp á"/>
+     <cat-item name="upp í"/>
+     <cat-item name="uppi í"/>
+     <cat-item name="upp úr"/>
+     <cat-item name="úr"/>
+     <cat-item name="út á"/>
+     <cat-item name="utan við"/>
+     <cat-item name="út frá"/>
+     <cat-item name="út í"/>
+     <cat-item name="úti á"/>
+     <cat-item name="út úr"/>
+     <cat-item name="vegna"/>
+     <cat-item name="við"/>
+     <cat-item name="við hliðina á"/>
+     <cat-item name="yfir"/>
+     <cat-item name="þvert í gegnum"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item name="nom"/>
@@ -66,7 +123,6 @@
          </call-macro>
        </action>
      </rule>
-
 
      <rule comment="CHUNK: ">
        <pattern>

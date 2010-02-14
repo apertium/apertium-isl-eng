@@ -120,6 +120,11 @@
       <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="nokkur_some__det">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="ND"/></l><r><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="ýmis_various__det">
       <e r="LR"><p><l><s n="sg"/></l><r><s n="pl"/></r></p></e>
       <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
@@ -2668,7 +2673,12 @@
     <e><p><l>hver<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvernig<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hví<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>hvort<s n="adv"/><s n="itg"/></l><r>whether<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvaða<s n="adv"/><s n="itg"/></l><r>which<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvort<s n="adv"/><s n="itg"/></l><r>whether<s n="adv"/></r></p></e>
+    <e><p><l>hversu<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvert<b/>þá<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvers<b/>vegna<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvert<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
 
     <e><p><l>af<b/>hverju<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
     <e><p><l>af<b/>þeim<b/>sökum<s n="adv"/></l><r>for<b/>those<b/>reasons<s n="adv"/></r></p></e>
@@ -2973,9 +2983,6 @@
     <e><p><l>hvað<b/>eftir<b/>annað<s n="adv"/></l><r>time<b/>after<b/>time<s n="adv"/></r></p></e>
     <e><p><l>hvergi<b/>nærri<s n="adv"/></l><r>nowhere<b/>near<s n="adv"/></r></p></e>
     <e><p><l>hvergi<s n="adv"/></l><r>nowhere<s n="adv"/></r></p></e>
-    <e><p><l>hversu<s n="adv"/></l><r>how<s n="adv"/></r></p></e>
-    <e><p><l>hvert<b/>þá<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
-    <e><p><l>hvert<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
     <e><p><l>hvort<b/>eð<b/>er<s n="adv"/></l><r>anyway<s n="adv"/></r></p></e>
     <e><p><l>hvort<b/>í<b/>sínu<s n="adv"/></l><r>seperately<s n="adv"/></r></p></e>
     <e><p><l>hálf<s n="adv"/></l><r>half<s n="adv"/></r></p></e>
@@ -3541,7 +3548,6 @@
 <e><p><l>hugsunarlaust<s n="adv"/></l><r>thoughtlessly<s n="adv"/></r></p></e>
 <e><p><l>hversdags<s n="adv"/></l><r>everyday<s n="adv"/></r></p></e>
 <e><p><l>hverskonar<s n="adv"/></l><r>any<b/>sort<b/>of<s n="adv"/></r></p></e>
-<e><p><l>hvert<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
 <e><p><l>hvorummegin<s n="adv"/></l><r>on<b/>both<b/>sides<s n="adv"/></r></p></e> <!-- CHECK spelling (should only be one m?) -MDB -->
 <e><p><l>hálfpartinn<s n="adv"/></l><r>rather<s n="adv"/></r></p></e>
 <e><p><l>hálfvegis<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
@@ -3683,7 +3689,7 @@
     <e><p><l>ellegar<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>
     <e><p><l>enda<b/>þótt<s n="cnjsub"/></l><r>even<b/>though<s n="cnjsub"/></r></p></e>
     <e><p><l>engu<b/>líkara<b/>en<s n="cnjsub"/></l><r>as<b/>if<s n="cnjsub"/></r></p></e>
-    <e><p><l>er<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+    <e><p><l>er<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>eð<s n="cnjsub"/></l><r>anyway<s n="cnjsub"/></r></p></e>
     <e><p><l>frá<b/>og<b/>með<s n="cnjsub"/></l><r>as<b/>of<s n="cnjsub"/></r></p></e>
     <e><p><l>fyrr<b/>en<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
@@ -3787,6 +3793,11 @@
     <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="f"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
     <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="nt"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
     <e r="RL"><p><l>ýmis<s n="det"/><s n="ind"/><s n="GD"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
+
+    <e r="LR"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="m"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
+    <e r="LR"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="f"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
+    <e r="LR"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
+    <e r="RL"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
 
     <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="m"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="f"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
@@ -3935,6 +3946,7 @@
     <e><p><l>á<b/>tímum<s n="pr"/></l><r>at<b/>the<b/>time<b/>of<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/><s n=":0"/></l><r>on<s n="pr"/></r></p></e> <!-- Or 'in' -->
     <e><p><l>á<s n="pr"/><s n=":1"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>á<s n="pr"/><s n=":2"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>án<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e><p><l>ásamt<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
     <e><p><l>í<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -4003,6 +4015,7 @@
     <e><p><l>Ásbjörn<s n="np"/><s n="ant"/><s n="m"/></l><r>Ásbjörn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Auðmundur<s n="np"/><s n="ant"/><s n="m"/></l><r>Auðmundur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Benoný<s n="np"/><s n="ant"/><s n="m"/></l><r>Benoný<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Jósef<s n="np"/><s n="ant"/><s n="m"/></l><r>Jósef<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Bjarni<s n="np"/><s n="ant"/><s n="m"/></l><r>Bjarni<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Björn<s n="np"/><s n="ant"/><s n="m"/></l><r>Björn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Björn<s n="np"/><s n="ant"/><s n="m"/></l><r>Björn<s n="np"/><s n="ant"/><s n="nt"/></r></p></e>
@@ -9813,6 +9826,7 @@
     <!--<e><p><l>hrísgrjónavín<s n="n"/><s n="nt"/></l><r>sake<s n="n"/></r></p></e>-->
     <e><p><l>hríspappír<s n="n"/><s n="m"/></l><r>rice<b/>paper<s n="n"/></r></p></e>
     <e><p><l>hríð<s n="n"/><s n="f"/></l><r>snowstorm<s n="n"/></r></p></e>
+    <e><p><l>stórhríð<s n="n"/><s n="f"/></l><r>blizzard<s n="n"/></r></p></e>
     <e><p><l>hrókur<s n="n"/><s n="m"/></l><r>rook<s n="n"/></r></p></e>
     <e><p><l>hróp<s n="n"/><s n="nt"/></l><r>call<s n="n"/></r></p></e>
     <!--<e><p><l>hróp<s n="n"/><s n="nt"/></l><r>shout<s n="n"/></r></p></e>-->
@@ -10454,7 +10468,8 @@
     <e><p><l>leiðarstef<s n="n"/><s n="nt"/></l><r>recurring<b/>theme<s n="n"/></r></p></e>
     <e><p><l>leiðbeinandi<s n="n"/><s n="m"/></l><r>instructor<s n="n"/></r></p></e>
     <!--<e><p><l>leiðbeinandi<s n="n"/><s n="m"/></l><r>mentor<s n="n"/></r></p></e>-->
-    <e><p><l>leiðbeining<s n="n"/><s n="f"/></l><r>guidance<s n="n"/></r></p></e>
+    <e><p><l>leiðbeining<s n="n"/><s n="f"/><s n="sg"/></l><r>guidance<s n="n"/><s n="sg"/></r></p></e> <!-- TODO: check -->
+    <e><p><l>leiðbeining<s n="n"/><s n="f"/><s n="pl"/></l><r>instruction<s n="n"/><s n="pl"/></r></p></e> <!-- TODO: check -->
     <e><p><l>leiði<s n="n"/><s n="nt"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>leiðsögn<s n="n"/><s n="f"/></l><r>guidance<s n="n"/></r></p></e>
     <e><p><l>leiðsögumaður<s n="n"/><s n="m"/></l><r>tour<b/>guide<s n="n"/></r></p></e>
@@ -13059,7 +13074,8 @@
     <e><p><l>ákvæði<s n="n"/><s n="nt"/></l><r>clause<s n="n"/></r></p></e>
     <e><p><l>virði<s n="n"/><s n="nt"/></l><r>worth<s n="n"/></r></p></e>
     <e><p><l>samræmi<s n="n"/><s n="nt"/></l><r>consistency<s n="n"/></r></p></e>
-    <e><p><l>verkefni<s n="n"/><s n="nt"/></l><r>task<s n="n"/></r></p></e>
+    <e><p><l>verkefni<s n="n"/><s n="nt"/></l><r>assignment<s n="n"/></r></p></e>
+    <!--<e><p><l>verkefni<s n="n"/><s n="nt"/></l><r>task<s n="n"/></r></p></e>-->
     <e><p><l>tilefni<s n="n"/><s n="nt"/></l><r>cause<s n="n"/></r></p></e>
     <e><p><l>viðurnefni<s n="n"/><s n="nt"/></l><r>nickname<s n="n"/></r></p></e>
     <e><p><l>nágrenni<s n="n"/><s n="nt"/></l><r>neighbourhood<s n="n"/></r></p></e>
@@ -13654,6 +13670,7 @@
     <e><p><l>úthverfi<s n="n"/><s n="nt"/></l><r>suburb<s n="n"/></r></p></e>    
     <e><p><l>útþensla<s n="n"/><s n="f"/></l><r>expansion<s n="n"/></r></p></e>    
     <e><p><l>valdataka<s n="n"/><s n="f"/></l><r>coup<s n="n"/></r></p></e>    
+    <e><p><l>væntingar<s n="n"/><s n="f"/><s n="pl"/></l><r>expectation<s n="n"/><s n="pl"/></r></p></e>    
     <e><p><l>hótun<s n="n"/><s n="f"/></l><r>threat<s n="n"/></r></p></e>    
     <e><p><l>varðveisla<s n="n"/><s n="f"/></l><r>storage<s n="n"/></r></p></e>    
     <e><p><l>velgengni<s n="n"/><s n="f"/></l><r>success<s n="n"/></r></p></e>    
@@ -13771,6 +13788,7 @@
     <e><p><l>tengja<g><b/>saman</g><s n="vblex"/></l><r>link<s n="vblex"/></r></p></e> 
     <e><p><l>fara<g><b/>fram</g><s n="vblex"/></l><r>take<g><b/>place</g><s n="vblex"/></r></p></e> 
     <e><p><l>ganga<g><b/>í</g><s n="vblex"/></l><r>join<s n="vblex"/></r></p></e> 
+    <e><p><l>fara<g><b/>í<b/>gang</g><s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>  <!-- TODO: CHECK -->
     <e><p><l>svara<g><b/>í<b/>sömu<b/>mynt</g><s n="vblex"/></l><r>pay<g><b/>back<b/>in<b/>the<b/>same<b/>coin</g><s n="vblex"/></r></p></e> 
     <e><p><l>vinna<g><b/>a<b/>vöktum</g><s n="vblex"/></l><r>work<g><b/>shifts</g><s n="vblex"/></r></p></e>
 

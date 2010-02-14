@@ -78,8 +78,13 @@
   </def-cat>
 
   <def-cat n="inf">
+     <cat-item tags="vblex.inf.*"/>
+     <cat-item tags="vbser.inf.*"/>
+     <cat-item tags="vbhaver.inf.*"/>
+     <cat-item tags="vblex.*.inf.*"/>
      <cat-item tags="vblex.inf"/>
      <cat-item tags="vbser.inf"/>
+     <cat-item tags="vbhaver.inf"/>
      <cat-item tags="vblex.*.inf"/>
   </def-cat>
 
@@ -119,6 +124,10 @@
     <cat-item tags="det.dem.*"/>
     <cat-item tags="det.qnt.*"/>
     <cat-item tags="det.pos.*"/>
+  </def-cat>
+
+  <def-cat n="prn_itg">
+    <cat-item tags="prn.itg.*"/>
   </def-cat>
 
   <def-cat n="prn">
@@ -377,6 +386,7 @@
   <def-var n="cur_subj_gen" v="&lt;m&gt;"/>
   <def-var n="cur_sent_adv"/>
   <def-var n="cur_adv_lema"/>
+  <def-var n="cur_prn_lema"/>
   <def-var n="cur_rel_lema"/>
   <def-var n="cur_prep_lema"/>
   <def-var n="cur_cnj_lema"/>
@@ -448,6 +458,7 @@
     <let><var n="cur_subj_prn"/>       <lit v=""/></let>
     <let><var n="cur_sent_adv"/>       <lit v=""/></let>
     <let><var n="cur_adv_lema"/>       <lit v=""/></let>
+    <let><var n="cur_prn_lema"/>       <lit v=""/></let>
     <let><var n="cur_prep_lema"/>      <lit v=""/></let>
     <let><var n="EOS"/>                <lit v="true"/></let>
   </def-macro>
@@ -998,9 +1009,9 @@
              <var n="article"/>
              <concat>
                  <lit v="^"/>
-                 <get-case-from pos="1">
                    <lit v="the"/>
-                 </get-case-from> 
+                 <!--<get-case-from pos="1">
+                 </get-case-from> -->
                  <lit-tag v="det.def"/>
                  <clip pos="1" side="tl" part="nbr" link-to="3"/>
                  <lit v="$ "/>
@@ -1579,7 +1590,7 @@
              </chunk>
            </out>
          </when>
-         <otherwise><!-- noun without any article -->
+         <otherwise>
            <out>
              <chunk name="nom" case="caseFirstWord">
                <tags>
@@ -1598,7 +1609,7 @@
          </otherwise>
        </choose>
      </action>
-  </rule><!-- END rule for nouns -->
+  </rule>
 
   <rule comment="REGLA: NUM">
      <pattern>
@@ -1698,14 +1709,15 @@
              <chunk name="ant" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
                  <tag><clip pos="1" side="tl" part="gen"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="gen" link-to="2"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="gen" link-to="3"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="4"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -1842,6 +1854,7 @@
              <chunk name="pp" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SA"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
                </tags>
               <lu>
                  <clip pos="1" side="tl" part="lemh"/>
@@ -2001,6 +2014,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="1"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -2013,27 +2029,29 @@
              <chunk name="det_adj_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="syntax"/></tag>
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
-                 <get-case-from pos="1">
-                   <lit v="the"/>
-                 </get-case-from>
+                 <lit v="the"/>
                  <lit-tag v="det.def"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
                </lu>
                <b/>
               <lu>
+                 <var n="cur_adj_grau1"/>
                  <get-case-from pos="2">
-                   <clip pos="1" side="tl" part="lem"/>
+                   <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="grau"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -2047,9 +2065,7 @@
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
-                 <get-case-from pos="1">
-                   <clip pos="1" side="tl" part="lem"/>
-                 </get-case-from>
+                 <clip pos="1" side="tl" part="lem"/>
                  <clip pos="1" side="tl" part="a_adj"/>
                </lu>
                <b pos="1"/>
@@ -2076,6 +2092,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_cur_adj_grau1">
+         <with-param pos="2"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -2099,10 +2118,13 @@
                </lu>
                <b/>
               <lu>
+                 <var n="cur_adj_grau1"/>
                  <get-case-from pos="2">
-                   <clip pos="2" side="tl" part="lem"/>
+                   <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <clip pos="2" side="tl" part="grau"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
@@ -3043,7 +3065,10 @@
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
-                 <clip pos="1" side="tl" part="whole"/>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_num"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <lu>
@@ -3117,6 +3142,7 @@
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="syntax"/></tag>
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
@@ -3129,7 +3155,7 @@
                <lu>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -3434,6 +3460,7 @@
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <clip pos="1" side="tl" part="grau"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b/>
@@ -3657,6 +3684,49 @@
                  <clip pos="1" side="tl" part="a_nom"/>
                  <clip pos="1" side="tl" part="nbr" link-to="2"/>
                  <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
+
+  <rule comment="REGLA: PRNPOSS NOM">
+     <pattern>
+       <pattern-item n="prn_poss"/>
+       <pattern-item n="nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="1"/>
+       </call-macro>
+           <out>
+             <chunk name="det_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="syntax"/></tag>
+                 <tag><clip pos="2" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="1">
+                   <clip pos="1" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <get-case-from pos="2">
+                   <clip pos="2" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
@@ -4102,34 +4172,6 @@
 
 
 
-<rule comment="REGLA: Prn">
-   <pattern>
-     <pattern-item n="prn"/>
-   </pattern>
-   <action>
-       <call-macro n="firstWord">
-         <with-param pos="1"/>
-       </call-macro>
-     <out>
-       <chunk name="prn" case="caseFirstWord">
-         <tags>
-           <tag><lit-tag v="SN"/></tag>
-            <tag><clip pos="1" side="tl" part="pers"/></tag>
-            <tag><clip pos="1" side="tl" part="gen"/></tag>
-            <tag><clip pos="1" side="tl" part="nbr"/></tag>
-          </tags>
-          <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="a_prn"/>
-             <clip pos="1" side="tl" part="gen"/>
-             <clip pos="1" side="tl" part="nbr"/>
-             <clip pos="1" side="tl" part="lemq"/>
-          </lu>
-       </chunk>
-     </out>
-   </action>
-  </rule>
-
   <!-- ///////////////////////////////////////////////////////// -->
 
   <rule comment="REGLA: PREP → PREP | með → with">
@@ -4210,6 +4252,35 @@
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
+  <rule comment="REGLA: PRNITG → PRNITG | hvað? → what?">
+     <pattern>
+       <pattern-item n="prn_itg"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_prn_lema"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_prn_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="PRN.ITG"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <lit-tag v="mf.sp"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -4851,6 +4922,36 @@
         </call-macro>
      </action>
   </rule>
+
+
+<rule comment="REGLA: Prn">
+   <pattern>
+     <pattern-item n="prn"/>
+   </pattern>
+   <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+     <out>
+       <chunk name="prn" case="caseFirstWord">
+         <tags>
+           <tag><lit-tag v="SN"/></tag>
+            <tag><clip pos="1" side="tl" part="pers"/></tag>
+            <tag><clip pos="1" side="tl" part="gen"/></tag>
+            <tag><clip pos="1" side="tl" part="nbr"/></tag>
+          </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="a_prn"/>
+             <clip pos="1" side="tl" part="gen"/>
+             <clip pos="1" side="tl" part="nbr"/>
+             <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+       </chunk>
+     </out>
+   </action>
+  </rule>
+
 
 </section-rules>
 
