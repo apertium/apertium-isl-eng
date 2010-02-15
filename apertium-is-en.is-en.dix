@@ -4176,6 +4176,7 @@
     <e><p><l>Norður-Evrópa<s n="np"/><s n="top"/><s n="nt"/></l><r>Northern<b/>Europe<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Nígería<s n="np"/><s n="top"/><s n="nt"/></l><r>Nigeria<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Palestína<s n="np"/><s n="top"/><s n="f"/></l><r>Palestine<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Gaza-strönd<s n="np"/><s n="top"/><s n="f"/></l><r>Gaza<b/>Strip<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Portúgal<s n="np"/><s n="top"/><s n="nt"/></l><r>Portugal<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Pólland<s n="np"/><s n="top"/><s n="nt"/></l><r>Poland<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Reykjavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Reykjavík<s n="np"/><s n="top"/></r></p></e>
@@ -11245,6 +11246,7 @@
     <e><p><l>refur<s n="n"/><s n="m"/></l><r>fox<s n="n"/></r></p></e>
     <!--<e><p><l>regla<s n="n"/><s n="f"/></l><r>order<s n="n"/></r></p></e> -->
     <e><p><l>regla<s n="n"/><s n="f"/></l><r>rule<s n="n"/></r></p></e>
+    <e><p><l>öryggisregla<s n="n"/><s n="f"/></l><r>security<b/>regulation<s n="n"/></r></p></e>
     <e><p><l>regn<s n="n"/><s n="nt"/></l><r>rain<s n="n"/></r></p></e>
     <e><p><l>regnbogi<s n="n"/><s n="m"/></l><r>rainbow<s n="n"/></r></p></e>
     <e><p><l>regnhlíf<s n="n"/><s n="f"/></l><r>umbrella<s n="n"/></r></p></e>
@@ -12535,6 +12537,7 @@
     <e><p><l>vörn<s n="n"/><s n="f"/></l><r>defence<s n="n"/></r></p></e>
     <e><p><l>vörumerki<s n="n"/><s n="nt"/></l><r>trademark<s n="n"/></r></p></e>
     <e><p><l>vörður<s n="n"/><s n="m"/></l><r>guard<s n="n"/></r></p></e>
+    <e><p><l>öryggisvörður<s n="n"/><s n="m"/></l><r>security<b/>guard<s n="n"/></r></p></e>
     <e><p><l>vöxtur<s n="n"/><s n="m"/></l><r>growth<s n="n"/></r></p></e>
     <e><p><l>vöðvi<s n="n"/><s n="m"/></l><r>muscle<s n="n"/></r></p></e>
     

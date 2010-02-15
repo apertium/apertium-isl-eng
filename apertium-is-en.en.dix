@@ -19664,6 +19664,7 @@
     <e lm="Garcia"><i>Garcia</i><par n="Smith__np"/></e>
     <e lm="García"><i>García</i><par n="Smith__np"/></e>
     <e lm="Gaza"><i>Gaza</i><par n="Barcelona__np"/></e>
+    <e lm="Gaza Strip"><par n="Gg"/><i>aza<b/>Strip</i><par n="Barcelona__np"/></e>
     <e lm="Gemma"><i>Gemma</i><par n="Mary__np"/></e>
     <e lm="George"><i>George</i><par n="Mark__np"/></e>
     <e lm="Georgia"><i>Georgia</i><par n="Barcelona__np"/></e>
@@ -24486,6 +24487,8 @@
     <e lm="sect"><i>sect</i><par n="house__n"/></e>
     <e lm="section"><i>section</i><par n="house__n"/></e>
     <e lm="sector"><i>sector</i><par n="house__n"/></e>
+    <e lm="security guard"><i>security<b/>guard</i><par n="house__n"/></e>
+    <e lm="security regulation"><i>security<b/>regulation</i><par n="house__n"/></e>
     <e lm="secularisation"><i>secularisation</i><par n="house__n"/></e>
     <e lm="security"><i>securit</i><par n="bab/y__n"/></e>
     <e lm="sedation"><i>sedation</i><par n="house__n"/></e>
