@@ -1,0 +1,162 @@
+<!-- Needs checking: -->
+<e><p><l>endur<s n="adv"/></l><r>earlier<s n="adv"/></r></p></e> <!-- only part of a MW -->
+<e><p><l>og<s n="adv"/></l><r>also<s n="adv"/></r></p></e> <!-- wrong translation?? can 'og' be an adverb? -->
+
+<e><p><l>eftir<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>með<s n="ofl:prep/adv"/><s n=":0"/></l><r>with<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>með<s n="ofl:prep/adv"/><s n=":1"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>milli<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>til<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>undan<s n="adv/prep"/></l><r>ofl<s n="adv/prep"/></r></p></e>
+<e><p><l>undir<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>yfir<s n="ofl:prep/adv"/><s n=":0"/></l><r>over<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>yfir<s n="ofl:prep/adv"/><s n=":1"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>í<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<e><p><l>úr<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
+<!-- END Needs checking -->
+
+
+<!-- Has been proofread and moved to bidix: -->
+<e><p><l>afsíðis<s n="adv"/></l><r>aside<s n="adv"/></r></p></e>
+<e><p><l>aftarlega<s n="adv"/></l><r>near<b/>the<b/>back<s n="adv"/></r></p></e>
+<e><p><l>allajafna<s n="adv"/><s n=":0"/></l><r>normally<s n="adv"/></r></p></e>
+<e><p><l>allajafna<s n="adv"/><s n=":1"/></l><r>almost<b/>always<s n="adv"/></r></p></e>
+<e><p><l>allsstaðar<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
+<e><p><l>annarsstaðar<s n="adv"/></l><r>elsewhere<s n="adv"/></r></p></e>
+<e><p><l>aukreitis<s n="adv"/></l><r>extra<s n="adv"/></r></p></e>
+<e><p><l>austanmegin<s n="adv"/></l><r>on<b/>the<b/>east<b/>side<s n="adv"/></r></p></e>
+<e><p><l>austantjalds<s n="adv"/></l><r>in<b/>Eastern<b/>Europe<s n="adv"/></r></p></e>
+<e><p><l>austur<s n="adv"/></l><r>east<s n="adv"/></r></p></e>
+<e><p><l>beggjavegna<s n="adv"/><s n=":0"/></l><r>on<b/>both<b/>sides<s n="adv"/></r></p></e>
+<e><p><l>beggjavegna<s n="adv"/><s n=":1"/></l><r>on<b/>each<b/>side<s n="adv"/></r></p></e>
+<e><p><l>berbakt<s n="adv"/></l><r>bareback<s n="adv"/></r></p></e>
+<e><p><l>bráðlega<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+<e><p><l>brúttó<s n="adv"/></l><r>gross<s n="adv"/></r></p></e> <!-- weight or money -->
+<e><p><l>bölvanlega<s n="adv"/></l><r>miserably<s n="adv"/></r></p></e>
+<e><p><l>efalaust<s n="adv"/></l><r>without<b/>a<b/>doubt<s n="adv"/></r></p></e>
+<e><p><l>eins<s n="adv"/></l><r>alike<s n="adv"/></r></p></e>
+<e><p><l>eldsnemma<s n="adv"/></l><r>bright<b/>and<b/>early<s n="adv"/></r></p></e>
+<e><p><l>fastlega<s n="adv"/></l><r>firmly<s n="adv"/></r></p></e>
+<e><p><l>fjarska<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+<e><p><l>framhjá<s n="adv"/></l><r>by<s n="adv"/></r></p></e>
+<e><p><l>fríhendis<s n="adv"/></l><r>freehand<s n="adv"/></r></p></e>
+<e><p><l>fyllilega<s n="adv"/></l><r>fully<s n="adv"/></r></p></e>
+<e><p><l>fádæma<s n="adv"/></l><r>exceptionally<s n="adv"/></r></p></e>
+<e><p><l>fúslega<s n="adv"/></l><r>gladly<s n="adv"/></r></p></e>
+<e><p><l>gagngert<s n="adv"/><s n=":0"/></l><r>just<b/>to<s n="adv"/></r></p></e>
+<e><p><l>gagngert<s n="adv"/><s n=":1"/></l><r>with<b/>clear<b/>intent<s n="adv"/></r></p></e>
+<e><p><l>gefins<s n="adv"/></l><r>free<s n="adv"/></r></p></e>
+<e><p><l>gjörla<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
+<e><p><l>greiðlega<s n="adv"/></l><r>smoothly<s n="adv"/></r></p></e>
+<e><p><l>hiklaust<s n="adv"/></l><r>without<b/>hesitation<s n="adv"/></r></p></e>
+<e><p><l>hinsegin<s n="adv"/><s n=":0"/></l><r>the<b/>other<b/>way<s n="adv"/></r></p></e>
+<e><p><l>hinsegin<s n="adv"/><s n=":1"/></l><r>differently<s n="adv"/></r></p></e>
+<e><p><l>hinsvegar<s n="adv"/></l><r>on<b/>the<b/>other<b/>hand<s n="adv"/></r></p></e>
+<e><p><l>hugsunarlaust<s n="adv"/></l><r>thoughtlessly<s n="adv"/></r></p></e>
+<e><p><l>hversdags<s n="adv"/></l><r>everyday<s n="adv"/></r></p></e>
+<e><p><l>hverskonar<s n="adv"/></l><r>any<b/>sort<b/>of<s n="adv"/></r></p></e>
+<e><p><l>hvert<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
+<e><p><l>hvorummegin<s n="adv"/></l><r>on<b/>both<b/>sides<s n="adv"/></r></p></e> <!-- CHECK spelling (should only be one m?) -MDB -->
+<e><p><l>hálfpartinn<s n="adv"/></l><r>rather<s n="adv"/></r></p></e>
+<e><p><l>hálfvegis<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
+<e><p><l>hæglega<s n="adv"/></l><r>easily<s n="adv"/></r></p></e>
+<e><p><l>innanhúss<s n="adv"/></l><r>inside<s n="adv"/></r></p></e>
+<e><p><l>innanstokks<s n="adv"/></l><r>inside<b/>the<b/>house<s n="adv"/></r></p></e>
+<e><p><l>innarlega<s n="adv"/></l><r>further<b/>in<s n="adv"/></r></p></e>
+<e><p><l>innilega<s n="adv"/></l><r>deeply<s n="adv"/></r></p></e>
+<e><p><l>innvortis<s n="adv"/></l><r>internally<s n="adv"/></r></p></e>
+<e><p><l>jafnhliða<s n="adv"/></l><r>simultaneously<s n="adv"/></r></p></e>
+<e><p><l>jú<s n="adv"/></l><r>yes<s n="adv"/></r></p></e>
+<e><p><l>klakklaust<s n="adv"/></l><r>safe<b/>and<b/>sound<s n="adv"/></r></p></e>
+<e><p><l>klárlega<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
+<e><p><l>kærlega<s n="adv"/></l><r>cordially<s n="adv"/></r></p></e>
+<e><p><l>langalengi<s n="adv"/></l><r>for<b/>a<b/>very<b/>long<b/>time<s n="adv"/></r></p></e>
+<e><p><l>langsum<s n="adv"/></l><r>lengthwise<s n="adv"/></r></p></e>
+<e><p><l>langtum<s n="adv"/></l><r>by<b/>far<s n="adv"/></r></p></e>
+<e><p><l>lengstum<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
+<e><p><l>ljóslega<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
+<e><p><l>mestmegnis<s n="adv"/></l><r>for<b/>the<b/>most<b/>part<s n="adv"/></r></p></e>
+<e><p><l>meðfram<s n="adv"/><s n=":0"/></l><r>alongside<s n="adv"/></r></p></e>
+<e><p><l>meðfram<s n="adv"/><s n=":1"/></l><r>partly<s n="adv"/></r></p></e>
+<e><p><l>miðsvæðis<s n="adv"/></l><r>central<s n="adv"/></r></p></e>
+<e><p><l>mætavel<s n="adv"/></l><r>very<b/>well<s n="adv"/></r></p></e>
+<e><p><l>móti<s n="adv"/></l><r>in<b/>return<s n="adv"/></r></p></e>
+<e><p><l>naumlega<s n="adv"/><s n=":0"/></l><r>hardly<s n="adv"/></r></p></e>
+<e><p><l>naumlega<s n="adv"/><s n=":1"/></l><r>meagerly<s n="adv"/></r></p></e>
+<e><p><l>nettó<s n="adv"/></l><r>net<s n="adv"/></r></p></e> <!-- weight or money -->
+<e><p><l>neðansjávar<s n="adv"/></l><r>undersea<s n="adv"/></r></p></e>
+<e><p><l>neðarlega<s n="adv"/></l><r>in<b/>the<b/>bottom<b/>half<s n="adv"/></r></p></e>
+<e><p><l>norður<s n="adv"/></l><r>north<s n="adv"/></r></p></e>
+<e><p><l>nálægt<s n="adv"/><s n=":0"/></l><r>close<b/>by<s n="adv"/></r></p></e>
+<e><p><l>nálægt<s n="adv"/><s n=":1"/></l><r>about<s n="adv"/></r></p></e>
+<e><p><l>núorðið<s n="adv"/></l><r>these<b/>days<s n="adv"/></r></p></e>
+<e><p><l>ofanjarðar<s n="adv"/></l><r>above<b/>ground<s n="adv"/></r></p></e>
+<e><p><l>ofarlega<s n="adv"/></l><r>high<b/>up<s n="adv"/></r></p></e>
+<e><p><l>rakleitt<s n="adv"/></l><r>straight<s n="adv"/></r></p></e>
+<e><p><l>rakleiðis<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
+<e><p><l>rangsælis<s n="adv"/></l><r>anti-clockwise<s n="adv"/></r></p></e>
+<e><p><l>réttsælis<s n="adv"/><s n=":0"/></l><r>clockwise<s n="adv"/></r></p></e>
+<e><p><l>réttsælis<s n="adv"/><s n=":1"/></l><r>with<b/>the<b/>sun<s n="adv"/></r></p></e>
+<e><p><l>samdægurs<s n="adv"/></l><r>on<b/>the<b/>same<b/>day<s n="adv"/></r></p></e>
+<e><p><l>sjálfkrafa<s n="adv"/></l><r>automatically<s n="adv"/></r></p></e>
+<e><p><l>sjóleiðis<s n="adv"/></l><r>by<b/>sea<s n="adv"/></r></p></e>
+<e><p><l>skrambi<s n="adv"/></l><r>quite<s n="adv"/></r></p></e>
+<e><p><l>smámsaman<s n="adv"/></l><r>by<b/>and<b/>by<s n="adv"/></r></p></e>
+<e><p><l>smávegis<s n="adv"/></l><r>slightly<s n="adv"/></r></p></e>
+<e><p><l>snarlega<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
+<e><p><l>snemmt<s n="adv"/></l><r>early<s n="adv"/></r></p></e>
+<e><p><l>snöggtum<s n="adv"/></l><r>considerably<s n="adv"/></r></p></e>
+<e><p><l>spari<s n="adv"/></l><r>on<b/>special<b/>occasions<s n="adv"/></r></p></e>
+<e><p><l>stranglega<s n="adv"/></l><r>severely<s n="adv"/></r></p></e>
+<e><p><l>stundvíslega<s n="adv"/></l><r>punctually<s n="adv"/></r></p></e>
+<e><p><l>stuttlega<s n="adv"/></l><r>briefly<s n="adv"/></r></p></e>
+<e><p><l>sumsstaðar<s n="adv"/></l><r>here<b/>and<b/>there<s n="adv"/></r></p></e>
+<e><p><l>suður<s n="adv"/></l><r>south<s n="adv"/></r></p></e>
+<e><p><l>svo<s n="adv"/><s n=":0"/></l><r>so<s n="adv"/></r></p></e>
+<e><p><l>svo<s n="adv"/><s n=":1"/></l><r>then<s n="adv"/></r></p></e>
+<e><p><l>svo<s n="adv"/><s n=":2"/></l><r>thus<s n="adv"/></r></p></e>
+<e><p><l>svoleiðis<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+<e><p><l>svona<s n="adv"/><s n=":0"/></l><r>like<b/>that<s n="adv"/></r></p></e>
+<e><p><l>svona<s n="adv"/><s n=":1"/></l><r>about<s n="adv"/></r></p></e>
+<e><p><l>síst<s n="adv"/></l><r>least<s n="adv"/></r></p></e>
+<e><p><l>síðan<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+<e><p><l>tafarlaust<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+<e><p><l>trauðla<s n="adv"/></l><r>barely<s n="adv"/></r></p></e>
+<e><p><l>tvívegis<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
+<e><p><l>títt<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
+<e><p><l>tíðum<s n="adv"/></l><r>often<s n="adv"/></r></p></e>
+<e><p><l>umyrðalaust<s n="adv"/></l><r>without<b/>objection<s n="adv"/></r></p></e>
+<e><p><l>undirniðri<s n="adv"/></l><r>deep<b/>down<s n="adv"/></r></p></e>
+<e><p><l>unnvörpum<s n="adv"/></l><r>in<b/>large<b/>numbers<s n="adv"/></r></p></e>
+<e><p><l>urrandi<s n="adv"/></l><r>extremely<s n="adv"/></r></p></e>
+<e><p><l>utanlands<s n="adv"/></l><r>abroad<s n="adv"/></r></p></e>
+<e><p><l>vestanhafs<s n="adv"/></l><r>in<b/>North<b/>America<s n="adv"/></r></p></e>
+<e><p><l>vestur<s n="adv"/></l><r>west<s n="adv"/></r></p></e>
+<e><p><l>voða<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+<e><p><l>vísvitandi<s n="adv"/></l><r>deliberately<s n="adv"/></r></p></e>
+<e><p><l>yfirhöfuð<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
+<e><p><l>yfirmáta<s n="adv"/></l><r>excessively<s n="adv"/></r></p></e>
+<e><p><l>ámóta<s n="adv"/></l><r>about<b/>as<s n="adv"/></r></p></e>
+<e><p><l>árdegis<s n="adv"/></l><r>in<b/>the<b/>morning<s n="adv"/></r></p></e>
+<e><p><l>ívið<s n="adv"/></l><r>a<b/>bit<s n="adv"/></r></p></e>
+<e><p><l>ógjarnan<s n="adv"/></l><r>unwillingly<s n="adv"/></r></p></e>
+<e><p><l>ógn<s n="adv"/></l><r>how<b/>very<s n="adv"/></r></p></e>
+<e><p><l>óhikað<s n="adv"/></l><r>unhesitatingly<s n="adv"/></r></p></e>
+<e><p><l>ókeypis<s n="adv"/></l><r>free<b/>of<b/>charge<s n="adv"/></r></p></e>
+<e><p><l>ósköp<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+<e><p><l>óðfluga<s n="adv"/></l><r>rapidly<s n="adv"/></r></p></e>
+<e><p><l>óðum<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+<e><p><l>öldungis<s n="adv"/></l><r>fully<s n="adv"/></r></p></e>
+<e><p><l>örsjaldan<s n="adv"/></l><r>very<b/>rarely<s n="adv"/></r></p></e>
+<e><p><l>öðruvísi<s n="adv"/></l><r>differently<s n="adv"/></r></p></e>
+<e><p><l>útbyrðis<s n="adv"/></l><r>overboard<s n="adv"/></r></p></e>
+<e><p><l>útvortis<s n="adv"/></l><r>external<s n="adv"/></r></p></e> <!-- (on the body) -->
+<e><p><l>þannig<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+<e><p><l>þarafleiðandi<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
+<e><p><l>þaraðauki<s n="adv"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
+<e><p><l>þráfaldlega<s n="adv"/></l><r>repeatedly<s n="adv"/></r></p></e>
+<e><p><l>þrívegis<s n="adv"/><s n=":0"/></l><r>three<b/>times<s n="adv"/></r></p></e>
+<e><p><l>þrívegis<s n="adv"/><s n=":1"/></l><r>thrice<s n="adv"/></r></p></e>
+<e><p><l>þversum<s n="adv"/></l><r>across<s n="adv"/></r></p></e>
+<e><p><l>þá<s n="adv"/></l><r>at<b/>that<b/>time<s n="adv"/></r></p></e>
+<e><p><l>þó<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
