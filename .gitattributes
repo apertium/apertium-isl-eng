@@ -21,8 +21,6 @@
 /detailedDemo.sh -text
 dev/NOTES -text
 dev/apertium-is-en.is-en.dix.sorted -text
-dev/data/adj3.OUT.sorted -text
-dev/data/adv3.OUT.sorted -text
 dev/data/apertium-is-en.is-en.dix.sorted -text
 dev/data/is-en.freelang.xml -text
 dev/data/is-en.interwiki.xml -text
@@ -36,12 +34,16 @@ dev/data/newResults.txt.interj.xml -text
 dev/data/newResults.txt.leftovers -text
 dev/data/newResults.txt.num.xml -text
 dev/data/newResults.txt.preps.xml -text
-dev/data/nouns3.OUT.sorted -text
 dev/data/results.txt.adj.xml -text
 dev/data/results.txt.leftovers -text
 dev/data/results.txt.nouns.xml -text
 dev/data/results.txt.verbs.xml -text
-dev/data/verbs3.OUT.sorted -text
+dev/data/snara.british.nouns -text
+dev/data/snara.invalid.txt -text
+dev/data/snara.isen.wordlist.txt -text
+dev/data/snara.uk.open.xml -text
+dev/data/snara.untranslated.nouns -text
+dev/data/snara.us.open.xml -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
 dev/inconsistency.sh -text
