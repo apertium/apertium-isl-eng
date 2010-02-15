@@ -20,8 +20,6 @@
 /demo.sh -text
 /detailedDemo.sh -text
 dev/NOTES -text
-dev/adj3.OUT.sorted -text
-dev/adv3.OUT.sorted -text
 dev/apertium-is-en.is-en.dix.sorted -text
 dev/data/adj3.OUT.sorted -text
 dev/data/adv3.OUT.sorted -text
@@ -47,24 +45,7 @@ dev/data/verbs3.OUT.sorted -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
 dev/inconsistency.sh -text
-dev/is-en.freelang.xml -text
-dev/is-en.interwiki.xml -text
-dev/is-en.wiktionary.xml -text
 dev/is-tags.mapping.txt -text
-dev/is.wordlist.txt -text
-dev/is_en.txt -text
-dev/mánuðir -text
-dev/newResults.txt.adverbs.xml -text
-dev/newResults.txt.conj.xml -text
-dev/newResults.txt.interj.xml -text
-dev/newResults.txt.leftovers -text
-dev/newResults.txt.num.xml -text
-dev/newResults.txt.preps.xml -text
-dev/nouns3.OUT.sorted -text
-dev/results.txt.adj.xml -text
-dev/results.txt.leftovers -text
-dev/results.txt.nouns.xml -text
-dev/results.txt.verbs.xml -text
 dev/sorting/bidixSort.sh -text
 dev/sorting/howto_run_bidixSort_recursively.txt -text
 dev/sorting/temp_sorting/abbrev.xml -text
@@ -103,7 +84,6 @@ dev/sorting/temp_sorting/vblex.xml -text
 dev/sorting/temp_sorting/vblex.xml.pseudo -text
 dev/sorting/temp_sorting/vblex.xml.restored -text
 dev/sorting/temp_sorting/vblex.xml.sorted -text
-dev/verbs3.OUT.sorted -text
 /en-is.prob -text svneol=unset#unset
 /icetaggerApertium.sh -text
 /icetaggerClientApertium.sh -text
