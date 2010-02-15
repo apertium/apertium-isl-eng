@@ -1,0 +1,1 @@
+for i in temp_sorting/*; do bidixSort.sh $i; done
