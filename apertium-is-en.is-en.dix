@@ -2762,7 +2762,7 @@
     <e><p><l>að<b/>raun<b/>um<s n="adv"/></l><r>discover<s n="adv"/></r></p></e>
     <e><p><l>að<b/>sumu<b/>leyti<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
     <e><p><l>að<b/>svo<b/>miklu<b/>leyti<b/>sem<s n="adv"/></l><r>in<b/>so<b/>much<b/>as<s n="adv"/></r></p></e>
-    <e><p><l>að<b/>sögn<s n="adv"/></l><r>reportedly<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>sögn<s n="adv"/></l><r>according<b/>to<s n="adv"/></r></p></e> <!-- TODO: Check -->
     <e><p><l>að<b/>tvennu<b/>leyti<s n="adv"/></l><r>for<b/>two<b/>reasons<s n="adv"/></r></p></e>
     <e><p><l>að<b/>utan<s n="adv"/></l><r>from<b/>outside<s n="adv"/></r></p></e>
     <e><p><l>fyrir<b/>utan<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
@@ -6971,6 +6971,7 @@
 <e><p><l>iða<s n="vblex"/><s n=":0"/></l><r>squirm<s n="vblex"/></r></p></e>
 <e><p><l>iða<s n="vblex"/><s n=":1"/></l><r>move<b/>about<b/>restlessly<s n="vblex"/></r></p></e>
 <e><p><l>iðnvæða<s n="vblex"/></l><r>industrialize<s n="vblex"/></r></p></e>
+<e><p><l>jafna<g><b/>sig</g><s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>
 <e><p><l>jafna<s n="vblex"/><s n=":0"/></l><r>level<s n="vblex"/></r></p></e>
 <e><p><l>jafna<s n="vblex"/><s n=":1"/></l><r>equalize<s n="vblex"/></r></p></e>
 <e><p><l>jafna<s n="vblex"/><s n=":2"/></l><r>compare<s n="vblex"/></r></p></e>
@@ -13852,6 +13853,7 @@
     <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kanaríeyjar<s n="np"/><s n="top"/><s n="f"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Makedónía<s n="np"/><s n="top"/><s n="f"/></l><r>Macedonia<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Kanarí<s n="np"/><s n="top"/><s n="nt"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
