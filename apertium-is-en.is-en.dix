@@ -5400,6 +5400,7 @@
 <!--<p><l>má<s n="vblex"/></l><r>wear<s n="vblex"/></r></p></e>--> <!-- as in wear and tear, get used up -->
     <e><p><l>mála<s n="vblex"/></l><r>paint<s n="vblex"/></r></p></e>
 <!--<p><l>mæla<s n="vblex"/></l><r>measure<s n="vblex"/></r></p></e>-->
+    <e><p><l>mæla<s n="vblex"/><s n="midv"/></l><r>measure<s n="vblex"/></r></p></e>
     <e><p><l>mæla<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>mæta<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
     <e><p><l>mæta<s n="vblex"/></l><r>show<g><b/>up</g><s n="vblex"/></r></p></e>
@@ -13423,6 +13424,7 @@
     <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
     <e><p><l>dóminískur<s n="adj"/></l><r>Dominican<s n="adj"/></r></p></e>
     <e><p><l>rökréttur<s n="adj"/></l><r>logical<s n="adj"/></r></p></e>
+    <e><p><l>heimilslaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
     <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
 
     <e><p><l>í<b/>smáatriðum<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
@@ -13754,6 +13756,7 @@
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
+    <e><p><l>skjálfti<s n="n"/><s n="m"/></l><r>tremor<s n="n"/></r></p></e>
     <e><p><l>tölvunarfræðingur<s n="n"/><s n="m"/></l><r>computer<b/>scientist<s n="n"/></r></p></e>
     <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
@@ -13800,6 +13803,8 @@
     <e><p><l>skýla<s n="vblex"/></l><r>shelter<s n="vblex"/></r></p></e> 
     <!--<e><p><l>skýla<s n="vblex"/></l><r>shield<s n="vblex"/></r></p></e> -->
     <e><p><l>útskrifa<s n="vblex"/></l><r>discharge<s n="vblex"/></r></p></e> 
+    <e><p><l>láta<g><b/>lífið</g><s n="vblex"/></l><r>die<s n="vblex"/></r></p></e> 
+    <!--<e><p><l>láta<g><b/>lífið</g><s n="vblex"/></l><r>lost<g><b/>their<b/>lives</g><s n="vblex"/></r></p></e> -->
     <!--<e><p><l>útskrifa<s n="vblex"/></l><r>graduate<s n="vblex"/></r></p></e> -->
     <e><p><l>fara<g><b/>í<b/>gang</g><s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>  <!-- TODO: CHECK -->
     <e><p><l>svara<g><b/>í<b/>sömu<b/>mynt</g><s n="vblex"/></l><r>pay<g><b/>back<b/>in<b/>the<b/>same<b/>coin</g><s n="vblex"/></r></p></e> 

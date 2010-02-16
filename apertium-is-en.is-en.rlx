@@ -17,7 +17,7 @@ LIST CLB = (sent) (cnjsub) (cm) (rel);
 
 LIST Coma = (cm);
 LIST N = (n) ;
-LIST Num = (num) ("þúsund" n);
+LIST Num = (num) ("þúsund" n) ("milljón" n);
 LIST ProperNom = (np) ;
 LIST Adj = (adj) ;
 LIST Weak = (vei) ;
