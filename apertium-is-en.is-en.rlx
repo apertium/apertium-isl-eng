@@ -514,6 +514,7 @@ MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER C
 MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);
 SELECT Adj + @←N (0C Adj) (NOT 1* N + $$NAGD + $$NUMBER) (-1C N + $$NAGD + $$NUMBER); ## ugly hack.
 
+MAP (@←N) TARGET Num + Gen (0C Num + $$NUMBER) (-1C N + $$NUMBER);
 MAP (@←N) TARGET Num + Gen (0C Num) (-1C N + Gen);
 MAP (@N→) TARGET Num + Gen (0C Num) (1C N + Gen);
 MAP (@N→) TARGET Num (0C Num) (1C* N BARRIER CLB | VerbFin);

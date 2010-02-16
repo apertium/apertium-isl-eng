@@ -144,6 +144,13 @@ SUBSTITUTE (vblex :0) (vblex :1) ("batna"ri) ((-1C* @SUBJ→ + Dat BARRIER CLB) 
 SUBSTITUTE (vblex) (vblex :0) ("halda"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("halda"ri) (1 ("að"));
 
+# "telja" : 
+#        0:"count"
+#        1:"reckon"
+SUBSTITUTE (vblex) (vblex :0) ("telja"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("telja"ri) (1 ("að"));
+
+
 
 
 

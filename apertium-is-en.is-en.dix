@@ -4050,6 +4050,7 @@
     <e><p><l>Ljótur<s n="np"/><s n="ant"/><s n="m"/></l><r>Ljótur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Lúðvík<s n="np"/><s n="ant"/><s n="m"/></l><r>Lúðvík<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Magnús<s n="np"/><s n="ant"/><s n="m"/></l><r>Magnús<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Össur<s n="np"/><s n="ant"/><s n="m"/></l><r>Össur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Njáll<s n="np"/><s n="ant"/><s n="m"/></l><r>Njáll<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Paul<s n="np"/><s n="ant"/><s n="m"/></l><r>Paul<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Peter<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5992,7 +5993,8 @@
     <e><p><l>tefla<s n="vblex"/></l><r>play<g><b/>chess</g><s n="vblex"/></r></p></e>
 <!--<p><l>teikna<s n="vblex"/></l><r>design<s n="vblex"/></r></p></e>-->
     <e><p><l>teikna<s n="vblex"/></l><r>draw<s n="vblex"/></r></p></e>
-    <e><p><l>telja<s n="vblex"/></l><r>count<s n="vblex"/></r></p></e>
+    <e><p><l>telja<s n="vblex"/><s n=":0"/></l><r>count<s n="vblex"/></r></p></e>
+    <e><p><l>telja<s n="vblex"/><s n=":1"/></l><r>reckon<s n="vblex"/></r></p></e>
 <!--<p><l>temja<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>domesticize<s n="vblex"/></r></p></e>-->
