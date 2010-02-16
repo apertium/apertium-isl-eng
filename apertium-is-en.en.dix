@@ -19499,6 +19499,7 @@
 
 
     <e lm="Akureyri"><i>Akureyri</i><par n="Barcelona__np"/></e>
+    <e lm="Landspítali"><i>Landspítali</i><par n="Barcelona__np"/></e>
     <e lm="Akranesi"><i>Akranesi</i><par n="Barcelona__np"/></e>
     <e lm="Reykjavík"><i>Reykjavík</i><par n="Barcelona__np"/></e>
     <e lm="Afghanistan"><i>Afghanistan</i><par n="Barcelona__np"/></e>
@@ -21789,6 +21790,7 @@
     <e lm="dock"><i>dock</i><par n="house__n"/></e>
     <e lm="dockyard"><i>dockyard</i><par n="house__n"/></e>
     <e lm="doctor"><i>doctor</i><par n="house__n"/></e>
+    <e lm="duty doctor"><i>duty<b/>doctor</i><par n="house__n"/></e>
     <e lm="doctorate"><i>doctorate</i><par n="house__n"/></e>
     <e lm="doctrine"><i>doctrine</i><par n="house__n"/></e>
     <e lm="document"><i>document</i><par n="house__n"/></e>

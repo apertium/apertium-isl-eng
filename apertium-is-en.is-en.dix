@@ -762,6 +762,7 @@
     <e><p><l>endilangur<s n="adj"/></l><r>longwise<s n="adj"/></r></p></e>
 <!--<p><l>endilangur<s n="adj"/></l><r>prone<s n="adj"/></r></p></e>-->
     <e><p><l>enskur<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
+    <e><p><l>skoskur<s n="adj"/></l><r>Scottish<s n="adj"/></r></p></e>
 <!--<p><l>ergilegur<s n="adj"/></l><r>bad-tempered<s n="adj"/></r></p></e>-->
 <!--<p><l>ergilegur<s n="adj"/></l><r>fretful<s n="adj"/></r></p></e>-->
 <!--<p><l>ergilegur<s n="adj"/></l><r>grumpy<s n="adj"/></r></p></e>-->
@@ -886,7 +887,8 @@
 <!--<p><l>fullkunnugur<s n="adj"/></l><r>known<s n="adj"/></r></p></e>-->
     <e><p><l>fullorðinn<s n="adj"/></l><r>adult<s n="adj"/></r></p></e>
     <e><p><l>fullreistur<s n="adj"/></l><r>fully<b/>erect<s n="adj"/></r></p></e>
-    <e><p><l>fullur<s n="adj"/></l><r>drunk<s n="adj"/></r></p></e>
+    <e><p><l>fullur<s n="adj"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+    <!--<e><p><l>fullur<s n="adj"/></l><r>drunk<s n="adj"/></r></p></e>-->
     <e><p><l>furðulegur<s n="adj"/></l><r>odd<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>fyndinn<s n="adj"/></l><r>amusing<s n="adj"/></r></p></e>-->
     <e><p><l>fyndinn<s n="adj"/></l><r>funny<s n="adj"/><s n="sint"/></r></p></e>
@@ -4102,6 +4104,7 @@
     <e><p><l>Afríka<s n="np"/><s n="top"/><s n="nt"/></l><r>Africa<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Suður-Afríka<s n="np"/><s n="top"/><s n="nt"/></l><r>South<b/>Africa<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Akureyri<s n="np"/><s n="top"/><s n="nt"/></l><r>Akureyri<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Landspítali<s n="np"/><s n="top"/><s n="nt"/></l><r>Landspítali<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Albanía<s n="np"/><s n="top"/><s n="nt"/></l><r>Albania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Alsír<s n="np"/><s n="top"/><s n="nt"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ameríka<s n="np"/><s n="top"/><s n="nt"/></l><r>Americas<s n="np"/><s n="top"/></r></p></e>
@@ -5432,6 +5435,7 @@
 <!--<p><l>nudda<s n="vblex"/></l><r>rub<s n="vblex"/></r></p></e>-->
 <!--<p><l>ná<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>-->
     <e><p><l>ná<s n="vblex"/></l><r>obtain<s n="vblex"/></r></p></e>
+    <e><p><l>ná<g><b/>sér</g><s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>
     <e><p><l>nálgast<s n="vblex"/></l><r>approach<s n="vblex"/></r></p></e>
 <!--<p><l>nálgast<s n="vblex"/></l><r>near<s n="vblex"/></r></p></e>-->
 <!--<p><l>nægja<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>-->
@@ -8003,7 +8007,6 @@
 <e><p><l>útnefna<s n="vblex"/></l><r>appoint<s n="vblex"/></r></p></e>
 <e><p><l>útrétta<s n="vblex"/></l><r>run<b/>errands<s n="vblex"/></r></p></e>
 <e><p><l>útsetja<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e> <!-- music -->
-<e><p><l>útskrifa<s n="vblex"/></l><r>graduate<s n="vblex"/></r></p></e>
 <e><p><l>útskúfa<s n="vblex"/></l><r>cast<b/>out<s n="vblex"/></r></p></e>
 <e><p><l>útvarpa<s n="vblex"/></l><r>broadcast<s n="vblex"/></r></p></e>
 <e><p><l>útvatna<s n="vblex"/></l><r>soak<s n="vblex"/></r></p></e> <!-- (to get rid of salt, usually from fish) -->
@@ -8694,6 +8697,7 @@
     <!--<e><p><l>deila<s n="v"/><s n="f"/></l><r>divide<s n="v"/></r></p></e>--> <!-- verb -->
     <!--<e><p><l>deila<s n="n"/><s n="f"/></l><r>argument<s n="n"/></r></p></e>-->
     <e><p><l>deild<s n="n"/><s n="f"/></l><r>department<s n="n"/></r></p></e>
+    <e><p><l>slysadeild<s n="n"/><s n="f"/></l><r>casualty<s n="n"/></r></p></e> <!-- casualty ward -->
     <!--<e><p><l>deild<s n="n"/><s n="f"/></l><r>faculty<s n="n"/></r></p></e>-->
     <!--<e><p><l>deild<s n="n"/><s n="f"/></l><r>division<s n="n"/></r></p></e>-->
     <e><p><l>dekk<s n="n"/><s n="nt"/></l><r>tire<s n="n"/></r></p></e>
@@ -10609,6 +10613,7 @@
     <!--<e><p><l>látbragðsleikur<s n="n"/><s n="m"/></l><r>mime<s n="n"/></r></p></e>-->
     <e><p><l>látbragðsleikur<s n="n"/><s n="m"/></l><r>pantomime<s n="n"/></r></p></e>
     <e><p><l>læknir<s n="n"/><s n="m"/></l><r>doctor<s n="n"/></r></p></e>
+    <e><p><l>vakthafandi<b/>læknir<s n="n"/><s n="m"/></l><r>duty<b/>doctor<s n="n"/></r></p></e>
     <e><p><l>læknisfræði<s n="n"/><s n="f"/></l><r>medicine<s n="n"/></r></p></e> <!-- (field of study) -->
     <e><p><l>lækur<s n="n"/><s n="m"/></l><r>brook<s n="n"/></r></p></e>
     <!--<e><p><l>lækur<s n="n"/><s n="m"/></l><r>stream<s n="n"/></r></p></e>-->
@@ -13791,6 +13796,8 @@
     <e><p><l>tengja<g><b/>saman</g><s n="vblex"/></l><r>link<s n="vblex"/></r></p></e> 
     <e><p><l>fara<g><b/>fram</g><s n="vblex"/></l><r>take<g><b/>place</g><s n="vblex"/></r></p></e> 
     <e><p><l>ganga<g><b/>í</g><s n="vblex"/></l><r>join<s n="vblex"/></r></p></e> 
+    <e><p><l>útskrifa<s n="vblex"/></l><r>discharge<s n="vblex"/></r></p></e> 
+    <!--<e><p><l>útskrifa<s n="vblex"/></l><r>graduate<s n="vblex"/></r></p></e> -->
     <e><p><l>fara<g><b/>í<b/>gang</g><s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>  <!-- TODO: CHECK -->
     <e><p><l>svara<g><b/>í<b/>sömu<b/>mynt</g><s n="vblex"/></l><r>pay<g><b/>back<b/>in<b/>the<b/>same<b/>coin</g><s n="vblex"/></r></p></e> 
     <e><p><l>vinna<g><b/>a<b/>vöktum</g><s n="vblex"/></l><r>work<g><b/>shifts</g><s n="vblex"/></r></p></e>
