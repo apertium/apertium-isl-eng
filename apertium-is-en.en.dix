@@ -41745,6 +41745,7 @@
     <e lm="go through"><i></i><par n="/go__vblex"/><p><l><b/>through</l><r><g><b/>through</g></r></p></e>
     <e lm="go up"><i></i><par n="/go__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="abandon"><i>abandon</i><par n="accept__vblex"/></e>
+    <e lm="shelter"><i>shelter</i><par n="accept__vblex"/></e>
     <e lm="compliment"><i>compliment</i><par n="accept__vblex"/></e>
     <e lm="lift"><i>lift</i><par n="accept__vblex"/></e>
     <e lm="abbreviate"><i>abbreviat</i><par n="liv/e__vblex"/></e>
