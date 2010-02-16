@@ -427,6 +427,10 @@ REMOVE PP IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbF
 # Þetta er besti árangur minn.
 REMOVE ("er"ri) + Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 Conj);
 
+
+# Haítí, Port-au-Prince, er rústir einar.
+REMOVE ("er"ri) + Conj IF (-1C Coma LINK -1 N | ProperNom LINK -1C Coma);
+
 ##
 # Specific pre-disambiguation lexical selection
 # 
