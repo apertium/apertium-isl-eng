@@ -163,7 +163,6 @@
     <e><i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
 
-
     <!-- END Punctuation and guessers -->
 
 
@@ -3992,6 +3991,7 @@
     <e><p><l>Jörgína<s n="np"/><s n="ant"/><s n="f"/></l><r>Jörgína<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Linda<s n="np"/><s n="ant"/><s n="f"/></l><r>Linda<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Pála<s n="np"/><s n="ant"/><s n="f"/></l><r>Pála<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Julía<s n="np"/><s n="ant"/><s n="f"/></l><r>Julía<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Sophia<s n="np"/><s n="ant"/><s n="f"/></l><r>Sophia<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Ýr<s n="np"/><s n="ant"/><s n="f"/></l><r>Ýr<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -12334,6 +12334,10 @@
     <!--<e><p><l>upphæð<s n="n"/><s n="f"/></l><r>amount<s n="n"/></r></p></e>-->
     <e><p><l>uppistöðuefni<s n="n"/><s n="nt"/></l><r>matrix<s n="n"/></r></p></e> <!-- (medium in which bacteria are cultured) -->
 
+    <e r="LR"><p><l>persónuupplýsing<s n="n"/><s n="f"/><s n="sg"/></l><r>personal<b/>information<s n="n"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>persónuupplýsing<s n="n"/><s n="f"/><s n="pl"/></l><r>personal<b/>information<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>persónuupplýsing<s n="n"/><s n="f"/><s n="ND"/></l><r>personal<b/>information<s n="n"/><s n="sg"/></r></p></e>
+
     <e r="LR"><p><l>upplýsing<s n="n"/><s n="f"/><s n="sg"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>upplýsing<s n="n"/><s n="f"/><s n="pl"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>upplýsing<s n="n"/><s n="f"/><s n="ND"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
@@ -13428,6 +13432,7 @@
     <e><p><l>dóminískur<s n="adj"/></l><r>Dominican<s n="adj"/></r></p></e>
     <e><p><l>rökréttur<s n="adj"/></l><r>logical<s n="adj"/></r></p></e>
     <e><p><l>heimilslaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
+    <e><p><l>palestínskur<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
     <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
 
     <e><p><l>í<b/>smáatriðum<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
@@ -13758,6 +13763,7 @@
     <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
+    <e><p><l>fréttamannafundur<s n="n"/><s n="m"/></l><r>press<b/>conference<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
     <e><p><l>skjálfti<s n="n"/><s n="m"/></l><r>tremor<s n="n"/></r></p></e>
     <e><p><l>tjón<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>

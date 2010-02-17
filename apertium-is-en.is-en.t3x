@@ -336,6 +336,52 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: SN_SUBJ_L FMAINV ADV NEG → SN_SUBJ_L ADV do not FMAINV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+        <pattern-item n="ADV"/>
+        <pattern-item n="NEG"/>
+      </pattern>
+      <action c="Ég vil ekki → I do not want"> 
+        <call-macro n="generate_do2">
+          <with-param pos="2"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <var n="chunk_do"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: SN_SUBJ_L FMAINV NEG → SN_SUBJ_L do not FMAINV">
       <pattern>
         <pattern-item n="SN_SUBJ_L"/>
@@ -753,6 +799,27 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: REPORT_VERB SN_SUBJ_R → SN_SUBJ_R REPORT_VERB">
+      <pattern>
+        <pattern-item n="REPORT_VERB"/>
+        <pattern-item n="SN_SUBJ_R"/>
+      </pattern>
+      <action c="í gær skapaði ég → yesterday I created"> 
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: FMAINV SN_SUBJ_R → SN_SUBJ_R FMAINV">

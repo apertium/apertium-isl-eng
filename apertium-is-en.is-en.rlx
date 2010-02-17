@@ -10,8 +10,8 @@
 SOFT-DELIMITERS = "<,>" sent;
 DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri sent;
 
-LIST BOS = (>>>) (<s>) (sent) ; 
-LIST EOS = (<<<) (</s>) (sent) ; 
+LIST BOS = (>>>) (<s>) (sent) sent ; 
+LIST EOS = (<<<) (</s>) (sent) sent ; 
 
 LIST CLB = (sent) (cnjsub) (cm) (rel); 
 
@@ -470,6 +470,7 @@ MAP (@SUBJ→) TARGET PersPron + Nom (1C* VerbFin BARRIER CLB) (0C PersPron) (NO
 MAP (@SUBJ→) TARGET PersPron + Dat (1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@SUBJ→) TARGET PersPron + Acc (1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
+MAP (@←SUBJ) TARGET PersPron + Nom + $$PERSON (-1C* VerbFin BARRIER CLB) (-1* VerbFin + $$PERSON BARRIER CLB) (0 PersPron + Nom) (NOT 0 PossPron) (NOT -1C* PersPron + Nom) (1 EOS);
 MAP (@←SUBJ) TARGET PersPron + Dat (-1C* VerbFin + DATSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 MAP (@←SUBJ) TARGET PersPron + Acc (-1C* VerbFin + ACCSUBJVERB BARRIER CLB) (0C PersPron) (NOT 0 PossPron);
 
