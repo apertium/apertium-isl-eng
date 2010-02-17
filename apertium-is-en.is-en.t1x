@@ -227,6 +227,11 @@
      <cat-item lemma="að" tags="*"/>
   </def-cat>
 
+  <def-cat n="árið">
+     <cat-item lemma="ár" tags="n.nt.sg.*.def"/>
+     <cat-item lemma="ár" tags="n.nt.sg.*.def.*"/>
+  </def-cat>
+
 </section-def-cats>
 
 <section-def-attrs>
@@ -4427,6 +4432,7 @@
 
   <!-- ///////////////////////////////////////////////////////// -->
 
+
   <rule comment="REGLA: PREP → PREP | með → with">
      <pattern>
        <pattern-item n="prep"/>
@@ -4480,6 +4486,78 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: PREP árið NUM → PREP NUM | fyrir árið 2010 → before 2010">
+     <pattern>
+       <pattern-item n="prep"/>
+       <pattern-item n="árið"/>
+       <pattern-item n="num"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_adv_lema"/>
+         <concat>
+           <clip pos="1" side="tl" part="lem"/>
+           <lit v="_"/>
+           <clip pos="3" side="tl" part="lem"/>
+         </concat>
+       </let>
+       <out>
+         <chunk namefrom="cur_adv_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="ADV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
+
+  <rule comment="REGLA: árið NUM → in NUM | árið 2010 → in 2010">
+     <pattern>
+       <pattern-item n="árið"/>
+       <pattern-item n="num"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_adv_lema"/>
+         <concat>
+           <lit v="in_"/>
+           <clip pos="2" side="tl" part="lem"/>
+         </concat>
+       </let>
+       <out>
+         <chunk namefrom="cur_adv_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="ADV"/></tag>
+            </tags>
+            <lu>
+              <lit v="in"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
 
   <rule comment="REGLA: SADV SADV → SADV SADV | ekki alltaf → not always">
      <pattern>
