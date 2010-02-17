@@ -602,6 +602,182 @@
       </when>
     </choose>
   </def-macro>
+  <def-macro n="conv_ætla_to_be1" npar="1">
+        <let>
+          <clip pos="1" side="sl" part="lem"/>
+          <lit v="vera"/> 
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="lem"/>
+          <lit v="be"/> 
+        </let>
+        <let>
+          <clip pos="1" side="sl" part="a_verb"/>
+          <lit-tag v="vbser"/> 
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="a_verb"/>
+          <lit-tag v="vbser"/> 
+        </let>
+          <choose> <!-- Verb is 'vera' (to be) -->
+            <when>
+              <test>
+                <or> <!-- Person is 'p2.sg', 'p2.pl', 'p1.pl' or 'p3.pl' -->
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p2"/>
+                  </equal>
+                  <and>
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="pers"/>
+                        <lit-tag v="p1"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="pers"/>
+                        <lit-tag v="p3"/>
+                      </equal>
+                    </or> 
+                    <equal>
+                      <clip pos="1" side="sl" part="nbr"/>
+                      <lit-tag v="pl"/>
+                    </equal>
+                  </and> 
+                </or>
+              </test>           
+              <choose>
+                <when>
+                  <test> <!-- If the tense is 'pri' or 'prs' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pri"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="prs"/>
+                      </equal>
+                    </or>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="pres"/>
+                  </let>
+                </when>
+
+                <when>
+                  <test> <!-- If the tense is 'pss' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="past"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pss"/>
+                      </equal>
+                    </or>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="past"/>
+                  </let>
+                </when>
+             </choose>
+             <let>
+               <var n="cur_verb_fin"/>
+               <concat>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_verb"/>
+                 <clip pos="1" side="tl" part="temps"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </concat>
+             </let>         
+            </when>
+
+            <when>
+              <test> <!-- Verb 'vera' in p3.sg or p1.sg -->
+                <and>
+                  <or>
+                    <equal>
+                      <clip pos="1" side="sl" part="pers"/>
+                      <lit-tag v="p3"/>
+                    </equal>
+                    <equal>
+                      <clip pos="1" side="sl" part="pers"/>
+                      <lit-tag v="p1"/>
+                    </equal>
+                  </or>
+                  <equal>
+                    <clip pos="1" side="sl" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                </and>
+              </test>           
+              <choose>
+                <when>
+                  <test> <!-- If the tense is 'pri' or 'prs' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pri"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="prs"/>
+                      </equal>
+                    </or>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="pres"/>
+                  </let>
+                  <let>
+                    <var n="cur_verb_fin"/>
+                    <concat>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="temps"/>
+                      <clip pos="1" side="tl" part="pers"/>
+                      <clip pos="1" side="tl" part="nbr"/>
+                      <clip pos="1" side="tl" part="lemq"/>
+                    </concat>
+                  </let>     
+                </when>
+                <when>
+                  <test> <!-- If the tense is 'pss' -->
+                    <or>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="past"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" side="sl" part="temps"/>
+                        <lit-tag v="pss"/>
+                      </equal>
+                    </or>
+                  </test> 
+                  <let> <!-- Set the tense to 'pres' -->
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="past"/>
+                  </let>
+                  <let>
+                    <var n="cur_verb_fin"/>
+                    <concat>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="temps"/>
+                      <clip pos="1" side="tl" part="pers"/>
+                      <clip pos="1" side="tl" part="nbr"/>
+                      <clip pos="1" side="tl" part="lemq"/>
+                    </concat>
+                  </let>         
+                </when>
+              </choose>
+            </when>
+          </choose>
+  </def-macro>
+
   <def-macro n="conj_verb1" npar="1">
       <let>
         <var n="cur_verb_chunk_type"/>
@@ -4645,12 +4821,22 @@
                                         outputs an English conjugated verb in the variable "cur_verb_fin" -->
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="conv_ætla_to_be1">
+         <with-param pos="1"/>
+       </call-macro>
        <out>
          <chunk name="be_going_to_inf" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="1" side="sl" part="syntax"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+<!--
               <tag><lit-tag v="PD"/></tag>
               <tag><lit-tag v="ND"/></tag>
             </tags>
@@ -4658,6 +4844,7 @@
               <lit v="be"/>
               <lit-tag v="vbser.3.4.5"/>
             </lu>
+-->
             <b pos="1"/>
             <lu>
               <lit v="go"/>

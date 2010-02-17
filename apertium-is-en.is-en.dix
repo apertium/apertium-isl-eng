@@ -12294,7 +12294,8 @@
     <e><p><l>u<s n="n"/><s n="nt"/></l><r>u<s n="n"/></r></p></e>
     <e><p><l>uggi<s n="n"/><s n="m"/></l><r>fin<s n="n"/></r></p></e>
     <e><p><l>ull<s n="n"/><s n="f"/></l><r>wool<s n="n"/></r></p></e>
-    <e><p><l>umboðsmaður<s n="n"/><s n="m"/></l><r>agent<s n="n"/></r></p></e>
+    <e><p><l>umboðsmaður<s n="n"/><s n="m"/></l><r>ombudsman<s n="n"/></r></p></e>
+    <!--<e><p><l>umboðsmaður<s n="n"/><s n="m"/></l><r>agent<s n="n"/></r></p></e>-->
     <!--<e><p><l>umbúðir<s n="n"/><s n="f"/></l><r>bandage<s n="n"/></r></p></e>--> <!-- short for sáraumbúðir -->
     <e><p><l>umbúðir<s n="n"/><s n="f"/></l><r>packaging<s n="n"/></r></p></e>
     <!--<e><p><l>umbúðir<s n="n"/><s n="f"/></l><r>wrapping<s n="n"/></r></p></e>-->
@@ -13803,6 +13804,7 @@
     <e><p><l>tengja<g><b/>saman</g><s n="vblex"/></l><r>link<s n="vblex"/></r></p></e> 
     <e><p><l>fara<g><b/>fram</g><s n="vblex"/></l><r>take<g><b/>place</g><s n="vblex"/></r></p></e> 
     <e><p><l>ganga<g><b/>í</g><s n="vblex"/></l><r>join<s n="vblex"/></r></p></e> 
+    <e><p><l>óska<g><b/>eftir</g><s n="vblex"/></l><r>request<s n="vblex"/></r></p></e>  <!-- 'ask after'? -->
     <e><p><l>skýla<s n="vblex"/></l><r>shelter<s n="vblex"/></r></p></e> 
     <!--<e><p><l>skýla<s n="vblex"/></l><r>shield<s n="vblex"/></r></p></e> -->
     <e><p><l>útskrifa<s n="vblex"/></l><r>discharge<s n="vblex"/></r></p></e> 
