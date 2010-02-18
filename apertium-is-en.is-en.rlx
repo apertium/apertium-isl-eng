@@ -488,15 +488,16 @@ MAP (@←SUBJ) TARGET ProperNom + Nom (-1C VerbFin) (0C ProperNom + Nom);
 MAP (@OBJ→) TARGET N + Acc (1C VerbFin) (0C N + Acc);
 MAP (@←OBJ) TARGET N + Acc (-1C VerbFin) (0C N + Acc);
 
+# Check these 'auxv' with pp/supn and 'modv' with 'inf' ?
 MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
                                         (NOT -1C* VerbAux + TempsFin BARRIER CLB) 
                                         (0C VerbAux + TempsFin) 
-                                        (1C* Participle OR Inf OR VerbSupine BARRIER CLB + PRE-N);
+                                        (1C* Participle OR Inf OR VerbSupine BARRIER CLB | PRE-N);
 
-MAP (@+FAUXV) TARGET MODV + TempsFin (NOT 1C* MODV + TempsFin BARRIER CLB) 
-                                        (NOT -1C* MODV + TempsFin BARRIER CLB) 
+MAP (@+FAUXV) TARGET MODV + TempsFin    (NOT 1C* MODV + TempsFin BARRIER CLB) 
+                                        (NOT -1C* MODV + TempsFin BARRIER CLB | Conj) 
                                         (0C MODV + TempsFin) 
-                                        (1C* Participle OR Inf OR VerbSupine BARRIER CLB + PRE-N);
+                                        (1C* Participle OR Inf OR VerbSupine BARRIER CLB | PRE-N);
 
 MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (1* @←SUBJ + $$NUMBER BARRIER CLB) (0 VerbFin LINK -1 Adv);
 MAP (@+FMAINV) TARGET VerbFin + (p3) + $$NUMBER (-1* @SUBJ→ + $$NUMBER BARRIER CLB);
@@ -509,8 +510,8 @@ MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (NOT 1* @+FMAINV BARRIER CLB
 # sem leikað var ...
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1 Rel) (1C VerbAux + TempsFin);
 
-MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB + PRE-N);
-#MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N); # ganga+í
+MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB | PRE-N);
+MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N) (NOT 0 (+í)); # ganga+í
 
 MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);
 SELECT Adj + @←N (0C Adj) (NOT 1* N + $$NAGD + $$NUMBER) (-1C N + $$NAGD + $$NUMBER); ## ugly hack.
@@ -523,8 +524,8 @@ MAP (@N→) TARGET (det) (0C (det)) (1C N);
 
 MAP (@CS→) TARGET (cnjsub) (0C (cnjsub));
 
-MAP (@ADVL→) TARGET Adv (1* @+FMAINV BARRIER CLB) ;
-MAP (@←ADVL) TARGET Adv (-1* @+FMAINV BARRIER CLB) ;
+MAP (@ADVL→) TARGET Adv (1* @+FMAINV | @-FMAINV BARRIER CLB) ;
+MAP (@←ADVL) TARGET Adv (-1* @+FMAINV | @-FMAINV BARRIER CLB) ;
 
 AFTER-SECTIONS
 

@@ -21,6 +21,8 @@
       <cat-item lemma="be" tags="SV.@+FMAINV.*"/>
     </def-cat>
     <def-cat n="INF">
+      <cat-item tags="SV.@-FMAINV.inf.*"/>
+      <cat-item tags="SV.@-FMAINV.inf"/>
       <cat-item tags="SV.inf.*"/>
       <cat-item tags="SV.inf"/>
     </def-cat>
@@ -493,7 +495,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: FAUXV SN_SUBJ_R NEG → SN_SUBJ_L do not FAUXV to INF">
+    <rule comment="REGLA: FAUXV SN_SUBJ_R NEG INF → SN_SUBJ_L do not FAUXV to INF">
       <pattern>
         <pattern-item n="FAUXV"/>
         <pattern-item n="SN_SUBJ_R"/>
