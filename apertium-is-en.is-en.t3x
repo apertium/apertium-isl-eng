@@ -822,6 +822,29 @@
     </rule>
 
 
+    <rule comment="REGLA: FAUXV SN_SUBJ_R → SN_SUBJ_R FAUXV">
+      <pattern>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+      </pattern>
+      <action c="Ennfremur sé málið → Furthermore the matter is"> 
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: FMAINV SN_SUBJ_R → SN_SUBJ_R FMAINV">
       <pattern>
         <pattern-item n="FMAINV"/>
