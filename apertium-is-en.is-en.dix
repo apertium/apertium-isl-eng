@@ -4007,6 +4007,7 @@
     <e><p><l>Alrekur<s n="np"/><s n="ant"/><s n="m"/></l><r>Alrekur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Arngeir<s n="np"/><s n="ant"/><s n="m"/></l><r>Arngeir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Arngrímur<s n="np"/><s n="ant"/><s n="m"/></l><r>Arngrímur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Steingrímur<s n="np"/><s n="ant"/><s n="m"/></l><r>Steingrímur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Arnleifur<s n="np"/><s n="ant"/><s n="m"/></l><r>Arnleifur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Arnljótur<s n="np"/><s n="ant"/><s n="m"/></l><r>Arnljótur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Arnoddur<s n="np"/><s n="ant"/><s n="m"/></l><r>Arnoddur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -4239,7 +4240,8 @@
 <!--<p><l>afgreiða<s n="vblex"/></l><r>fulfill<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>process<s n="vblex"/></r></p></e>-->
-    <e><p><l>afgreiða<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
+    <e><p><l>afgreiða<s n="vblex"/><s n=":0"/></l><r>serve<s n="vblex"/></r></p></e>
+    <e><p><l>afgreiða<s n="vblex"/><s n=":1"/></l><r>deal<g><b/>with</g><s n="vblex"/></r></p></e>
     <e><p><l>afhenda<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
 <!--<p><l>afhenda<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>-->
 <!--<p><l>afhenda<s n="vblex"/></l><r>hand<s n="vblex"/></r></p></e>-->

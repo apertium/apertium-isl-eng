@@ -150,6 +150,12 @@ SUBSTITUTE (vblex :0) (vblex :1) ("halda"ri) (1 ("að"));
 SUBSTITUTE (vblex) (vblex :0) ("telja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("telja"ri) (1 ("að"));
 
+# "afgreiða" : 
+#        0:"serve"
+#        1:"deal# with"
+SUBSTITUTE (vblex) (vblex :0) ("afgreiða"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("afgreiða"ri) (1 ("mál"));
+
 # "jafna" : 
 #        0:"level"
 #        1:"equalise"
