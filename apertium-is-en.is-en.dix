@@ -9460,6 +9460,7 @@
     <!--<e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>haircut<s n="n"/></r></p></e>-->
     <!--<e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>hairdo<s n="n"/></r></p></e>-->
     <e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>hairstyle<s n="n"/></r></p></e>
+    <e><p><l>vaxtagreiðsla<s n="n"/><s n="f"/></l><r>interest<b/>payment<s n="n"/></r></p></e>
     <!--<e><p><l>greiðsla<s n="n"/><s n="f"/></l><r>payment<s n="n"/></r></p></e>-->
     <e><p><l>grennd<s n="n"/><s n="f"/></l><r>neighbourhood<s n="n"/></r></p></e>
     <!--<e><p><l>grennd<s n="n"/><s n="f"/></l><r>neighborhood<s n="n"/></r></p></e>--> <!-- US English spelling -->

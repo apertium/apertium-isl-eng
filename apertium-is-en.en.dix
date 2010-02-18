@@ -23705,6 +23705,7 @@
     <e lm="pause"><i>pause</i><par n="house__n"/></e>
     <e lm="pay"><i>pay</i><par n="house__n"/></e>
     <e lm="payment"><i>payment</i><par n="house__n"/></e>
+    <e lm="interest payment"><i>interest<b/>payment</i><par n="house__n"/></e>
     <e lm="payroll"><i>payroll</i><par n="house__n"/></e>
     <e lm="peace"><i>peace</i><par n="house__n"/></e>
     <e lm="peak"><i>peak</i><par n="house__n"/></e>
