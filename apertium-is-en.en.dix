@@ -41815,6 +41815,7 @@
     <e lm="aggravate"><i>aggravat</i><par n="liv/e__vblex"/></e>
     <e lm="agitate"><i>agitat</i><par n="liv/e__vblex"/></e>
     <e lm="agree"><i>agree</i><par n="agree__vblex"/></e>
+    <e lm="agree to"><i>agree</i><par n="agree__vblex"/><p><l><b/>to</l><r><g><b/>to</g></r></p></e>
     <e lm="aim"><i>aim</i><par n="accept__vblex"/></e>
     <e lm="alarm"><i>alarm</i><par n="accept__vblex"/></e>
     <e lm="allege"><i>alleg</i><par n="liv/e__vblex"/></e>
@@ -41822,12 +41823,11 @@
     <e lm="alter"><i>alter</i><par n="accept__vblex"/></e>
     <e lm="alternate"><i>alternat</i><par n="liv/e__vblex"/></e>
     <e lm="amend"><i>amend</i><par n="accept__vblex"/></e>
-    <e lm="amortize"><i>amortiz</i><par n="liv/e__vblex"/></e>
+    <e lm="amortise"><i>amortis</i><par n="liv/e__vblex"/></e>
     <e lm="amplify"><i>amplif</i><par n="appl/y__vblex"/></e>
     <e lm="amuse"><i>amus</i><par n="liv/e__vblex"/></e>
-    <e lm="anaesthetize"><i>anaesthetiz</i><par n="liv/e__vblex"/></e>
+    <e lm="anaesthetise"><i>anaesthetis</i><par n="liv/e__vblex"/></e>
     <e lm="analyse"><i>analys</i><par n="liv/e__vblex"/></e>
-    <e lm="analyze"><i>analyz</i><par n="liv/e__vblex"/></e>
     <e lm="anchor"><i>anchor</i><par n="accept__vblex"/></e>
     <e lm="annex"><i>annex</i><par n="accept__vblex"/></e>
     <e lm="announce"><i>announc</i><par n="liv/e__vblex"/></e>
@@ -42389,6 +42389,7 @@
     <e lm="fight"><i>f</i><par n="f/ight__vblex"/></e>
     <e lm="find out"><i>f</i><par n="f/ind__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="fall down"><i>f</i><par n="f/all__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
+    <e lm="fall on"><i>f</i><par n="f/all__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
     <e lm="fall asleep"><i>f</i><par n="f/all__vblex"/><p><l><b/>asleep</l><r><g><b/>asleep</g></r></p></e>
     <e lm="find"><i>f</i><par n="f/ind__vblex"/></e>
     <e lm="fall"><i>f</i><par n="f/all__vblex"/></e>
