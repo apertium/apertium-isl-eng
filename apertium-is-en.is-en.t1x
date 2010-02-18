@@ -3364,6 +3364,7 @@
              <chunk name="num_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="2" side="tl" part="syntax"/></tag>
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
@@ -3376,13 +3377,80 @@
                <lu>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: NUM NOM NOMGEN → NUM NOM NOMGEN">
+     <pattern>
+       <pattern-item n="num"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="gen_nom"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <or>
+               <equal caseless="yes">
+                 <clip pos="2" side="sl" part="lem"/>
+                 <lit v="þúsund"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="2" side="sl" part="lem"/>
+                 <lit v="hundrað"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="2" side="sl" part="lem"/>
+                 <lit v="milljón"/>
+               </equal>
+             </or>
+           </test>
+           <let>
+             <clip pos="2" side="tl" part="nbr"/>
+             <lit-tag v="sg"/>
+           </let>
+         </when>
+       </choose>
+           <out>
+             <chunk name="num_nom_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="syntax"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_num"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
 
   <rule comment="REGLA: DET NOM → DET NOM">
      <pattern>
