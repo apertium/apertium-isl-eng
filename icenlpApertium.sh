@@ -6,6 +6,8 @@
 # -t only perform PoS tagging
 # -s run standard version of IceNLP instead of IceNLPServer
 
+# Make sure we are in this apertium directory
+cd `dirname $0`
 
 # Process command line arguments
 while getopts "ts" flag
