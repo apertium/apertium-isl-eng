@@ -13,7 +13,7 @@ DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri sent;
 LIST BOS = (>>>) (<s>) (sent) sent ; 
 LIST EOS = (<<<) (</s>) (sent) sent ; 
 
-LIST CLB = (sent) (cnjsub) (cm) (rel); 
+LIST CLB = (sent) (cnjsub) (cm) (rel) (cnjcoo); 
 
 LIST Coma = (cm);
 LIST N = (n) ;
@@ -510,7 +510,7 @@ MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (NOT 1* @+FMAINV BARRIER CLB
 # sem leikað var ...
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1 Rel) (1C VerbAux + TempsFin);
 
-MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB | PRE-N);
+MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB);
 MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N) (NOT 0 (+í)); # ganga+í
 
 MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);

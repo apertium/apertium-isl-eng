@@ -3415,6 +3415,10 @@
              <or>
                <equal caseless="yes">
                  <clip pos="2" side="sl" part="lem"/>
+                 <lit v="milljarður"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="2" side="sl" part="lem"/>
                  <lit v="þúsund"/>
                </equal>
                <equal caseless="yes">

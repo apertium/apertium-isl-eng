@@ -801,6 +801,75 @@
       </action>
     </rule>
 
+
+    <rule comment="REGLA: ITG FAUXV SN_SUBJ_R → ITG FAUXV SN_SUBJ_R">
+      <pattern>
+        <pattern-item n="ITG"/>
+        <pattern-item n="FAUXV"/>
+        <pattern-item n="SN_SUBJ_R"/>
+      </pattern>
+      <action c="Hvar ert þú ? → Where are you ?"> 
+        <choose>
+          <when>
+            <test>
+              <equal caseless="yes">
+                <clip pos="2" part="lem"/>
+                <lit v="be"/>
+              </equal>
+            </test>
+            <out>
+              <chunk>
+                <clip pos="1" part="lem"/>
+                <clip pos="1" part="tags"/>
+                <clip pos="1" part="chcontent"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <clip pos="2" part="lem"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+              </chunk>
+              <b pos="2"/>
+              <chunk>
+                <clip pos="3" part="lem"/>
+                <clip pos="3" part="tags"/>
+                <clip pos="3" part="chcontent"/>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <call-macro n="generate_do2">
+              <with-param pos="2"/>
+              <with-param pos="3"/>
+            </call-macro>
+            <out>
+              <chunk>
+                <clip pos="1" part="lem"/>
+                <clip pos="1" part="tags"/>
+                <clip pos="1" part="chcontent"/>
+              </chunk>
+              <b pos="1"/>
+              <chunk>
+                <var n="chunk_do"/>
+              </chunk>
+              <b/>
+              <chunk>
+                <clip pos="3" part="lem"/>
+                <clip pos="3" part="tags"/>
+                <clip pos="3" part="chcontent"/>
+              </chunk>
+              <b pos="2"/>
+              <chunk>
+                <clip pos="2" part="lem"/>
+                <clip pos="2" part="tags"/>
+                <clip pos="2" part="chcontent"/>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+      </action>
+    </rule>
+
     <rule comment="REGLA: REPORT_VERB SN_SUBJ_R → SN_SUBJ_R REPORT_VERB">
       <pattern>
         <pattern-item n="REPORT_VERB"/>

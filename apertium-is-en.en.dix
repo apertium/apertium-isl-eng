@@ -19998,6 +19998,8 @@
     <e lm="till"><i>till</i><par n="house__n"/></e>
     <e lm="aria"><i>aria</i><par n="house__n"/></e>
     <e lm="amnesia"><i>amnesia</i><par n="east__n"/></e>
+    <e lm="counselling"><i>counselling</i><par n="east__n"/></e>
+    <e lm="frostbite"><i>frostbite</i><par n="east__n"/></e>
     <e lm="syntax"><i>syntax</i><par n="east__n"/></e>
     <e lm="cocoa"><i>cocoa</i><par n="east__n"/></e>
     <e lm="algebra"><i>algebra</i><par n="house__n"/></e>
@@ -42284,6 +42286,7 @@
     <e r="LR"><i>dream</i><par n="deal__vblex"/></e>
     <e lm="dress"><i>dress</i><par n="approach__vblex"/></e>
     <e lm="drop"><i>drop</i><par n="step__vblex"/></e>
+    <e lm="handicap"><i>handicap</i><par n="step__vblex"/></e>
     <e lm="trip"><i>trip</i><par n="step__vblex"/></e>
     <e lm="drown"><i>drown</i><par n="accept__vblex"/></e>
     <e lm="drug"><i>drug</i><par n="plug__vblex"/></e>

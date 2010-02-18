@@ -12342,6 +12342,14 @@
     <e r="LR"><p><l>persónuupplýsing<s n="n"/><s n="f"/><s n="pl"/></l><r>personal<b/>information<s n="n"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>persónuupplýsing<s n="n"/><s n="f"/><s n="ND"/></l><r>personal<b/>information<s n="n"/><s n="sg"/></r></p></e>
 
+    <e r="LR"><p><l>aðhlynning<s n="n"/><s n="f"/><s n="sg"/></l><r>care<s n="n"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>aðhlynning<s n="n"/><s n="f"/><s n="pl"/></l><r>care<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>aðhlynning<s n="n"/><s n="f"/><s n="ND"/></l><r>care<s n="n"/><s n="sg"/></r></p></e>
+
+    <e r="LR"><p><l>áfallahjálp<s n="n"/><s n="f"/><s n="sg"/></l><r>counselling<s n="n"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>áfallahjálp<s n="n"/><s n="f"/><s n="pl"/></l><r>counselling<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>áfallahjálp<s n="n"/><s n="f"/><s n="ND"/></l><r>counselling<s n="n"/><s n="sg"/></r></p></e>
+
     <e r="LR"><p><l>upplýsing<s n="n"/><s n="f"/><s n="sg"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>upplýsing<s n="n"/><s n="f"/><s n="pl"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>upplýsing<s n="n"/><s n="f"/><s n="ND"/></l><r>information<s n="n"/><s n="sg"/></r></p></e>
@@ -13436,6 +13444,7 @@
     <e><p><l>dóminískur<s n="adj"/></l><r>Dominican<s n="adj"/></r></p></e>
     <e><p><l>rökréttur<s n="adj"/></l><r>logical<s n="adj"/></r></p></e>
     <e><p><l>heimilslaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
+    <e><p><l>vægur<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>palestínskur<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
     <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
 
@@ -13773,6 +13782,9 @@
     <e><p><l>tjón<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>
     <e><p><l>tölvunarfræðingur<s n="n"/><s n="m"/></l><r>computer<b/>scientist<s n="n"/></r></p></e>
     <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
+    <e><p><l>ofsaveður<s n="n"/><s n="nt"/></l><r>gale<s n="n"/></r></p></e>
+    <e><p><l>kal<s n="n"/><s n="nt"/></l><r>frostbite<s n="n"/></r></p></e>
+    <!--<e><p><l>kal<s n="n"/><s n="nt"/></l><r>frost<b/>damage<s n="n"/></r></p></e>-->
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
 
     <e r="RL"><p><l>útland<s n="n"/><s n="nt"/><s n="GD"/></l><r>foreign<b/>country<s n="n"/><s n="sg"/></r></p></e> <!-- Only pl in Icel, -->
@@ -13829,6 +13841,7 @@
     <e><p><l>falla<g><b/>á</g><s n="vblex"/><s n="midv"/></l><r>agree<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>fjalla<g><b/>um</g><s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
     <e><p><l>boða<g><b/>á</g><s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
+    <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
