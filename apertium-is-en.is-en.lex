@@ -150,6 +150,13 @@ SUBSTITUTE (vblex :0) (vblex :1) ("halda"ri) (1 ("að"));
 SUBSTITUTE (vblex) (vblex :0) ("telja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("telja"ri) (1 ("að"));
 
+# "jafna" : 
+#        0:"level"
+#        1:"equalise"
+#        2:"compare"
+SUBSTITUTE (vblex) (vblex :0) ("jafna"ri);
+
+
 
 
 

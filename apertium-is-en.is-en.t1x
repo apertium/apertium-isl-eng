@@ -363,6 +363,8 @@
 
   <def-attr n="syntax">
      <attr-item tags="@X"/>
+     <attr-item tags="@N→"/>
+     <attr-item tags="@←N"/>
      <attr-item tags="@SUBJ→"/>
      <attr-item tags="@←SUBJ"/>
      <attr-item tags="@OBJ→"/>
