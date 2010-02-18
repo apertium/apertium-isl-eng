@@ -91,15 +91,12 @@ dev/sorting/temp_sorting/vblex.xml.pseudo -text
 dev/sorting/temp_sorting/vblex.xml.restored -text
 dev/sorting/temp_sorting/vblex.xml.sorted -text
 /en-is.prob -text svneol=unset#unset
-/icetaggerApertium.sh -text
-/icetaggerClientApertium.sh -text
+/icenlpApertium.sh -text
 /is-en.prob -text
 /modes.xml -text
 /pending-tests.sh -text
 /pipeline.txt -text
 /pipelineApertium.sh -text
-/pipelineIce.sh -text
-/pipelineIceClient.sh -text
 /regression-tests-Ice.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
