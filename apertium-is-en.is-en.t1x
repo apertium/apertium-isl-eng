@@ -447,6 +447,11 @@
       <list-item v="læknir"/>
     </def-list> 
 
+    <def-list n="definitenames">
+      <list-item v="United Kingdom"/>
+    </def-list> 
+
+
 </section-def-lists>
 
 
@@ -1203,10 +1208,16 @@
          <when><!-- proper noun with definitive article -->
            <test>
              <and>
-               <equal>
-                 <clip pos="1" side="sl" part="a_art"/>
-                 <lit-tag v="def"/>
-               </equal>
+               <or>
+                 <in caseless="yes">
+                   <clip pos="1" side="tl" part="lem"/>
+                   <list n="definitenames"/>
+                 </in>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_art"/>
+                   <lit-tag v="def"/>
+                 </equal>
+               </or>
                <or>
                  <equal>
                    <clip pos="1" side="sl" part="a_nom"/>
