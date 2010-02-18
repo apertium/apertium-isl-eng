@@ -24146,6 +24146,7 @@
     <e lm="rapist"><i>rapist</i><par n="house__n"/></e>
     <e lm="rat"><i>rat</i><par n="house__n"/></e>
     <e lm="exchange rate"><i>exchange<b/>rate</i><par n="house__n"/></e>
+    <e lm="interest rate"><i>interest<b/>rate</i><par n="house__n"/></e>
     <e lm="rate"><i>rate</i><par n="house__n"/></e>
     <e lm="rating"><i>rating</i><par n="house__n"/></e>
     <e lm="ratio"><i>ratio</i><par n="house__n"/></e>

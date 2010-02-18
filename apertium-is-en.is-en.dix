@@ -11186,6 +11186,7 @@
     <e><p><l>próf<s n="n"/><s n="nt"/></l><r>test<s n="n"/></r></p></e>
     <e><p><l>prófessor<s n="n"/><s n="m"/></l><r>professor<s n="n"/></r></p></e>
     <e><p><l>prósent<s n="n"/><s n="nt"/></l><r>percentage<s n="n"/></r></p></e>
+    <e><p><l>vaxtaprósent<s n="n"/><s n="nt"/></l><r>interest<b/>rate<s n="n"/></r></p></e>
     <e><p><l>prósenta<s n="n"/><s n="f"/></l><r>per<b/>cent<s n="n"/></r></p></e>
 <!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>dot<s n="n"/></r></p></e> --> <!-- (speck or punctuation mark) -->
 <!--    <e><p><l>punktur<s n="n"/><s n="m"/></l><r>full stop<s n="n"/></r></p></e> --> <!-- (speck or punctuation mark) -->
