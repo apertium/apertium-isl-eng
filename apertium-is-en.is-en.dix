@@ -13779,11 +13779,13 @@
     <e><p><l>fréttamannafundur<s n="n"/><s n="m"/></l><r>press<b/>conference<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
     <e><p><l>skjálfti<s n="n"/><s n="m"/></l><r>tremor<s n="n"/></r></p></e>
+    <e><p><l>fiskvinnsla<s n="n"/><s n="f"/></l><r>fish<b/>processing<s n="n"/></r></p></e>
     <e><p><l>tjón<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>
     <e><p><l>tölvunarfræðingur<s n="n"/><s n="m"/></l><r>computer<b/>scientist<s n="n"/></r></p></e>
     <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
     <e><p><l>ofsaveður<s n="n"/><s n="nt"/></l><r>gale<s n="n"/></r></p></e>
     <e><p><l>kal<s n="n"/><s n="nt"/></l><r>frostbite<s n="n"/></r></p></e>
+    <e><p><l>starfshópur<s n="n"/><s n="m"/></l><r>work<b/>team<s n="n"/></r></p></e>
     <!--<e><p><l>kal<s n="n"/><s n="nt"/></l><r>frost<b/>damage<s n="n"/></r></p></e>-->
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
 
@@ -13842,6 +13844,7 @@
     <e><p><l>fjalla<g><b/>um</g><s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
     <e><p><l>boða<g><b/>á</g><s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
     <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
