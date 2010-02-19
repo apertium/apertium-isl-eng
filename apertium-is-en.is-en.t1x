@@ -28,6 +28,10 @@
      <cat-item tags="num"/>
      <cat-item tags="num.*"/>
   </def-cat>
+  <def-cat n="cnjcoo">
+     <cat-item tags="cnjcoo"/>
+     <cat-item tags="cnjcoo.*"/>
+  </def-cat>
   <def-cat n="cnjsub">
      <cat-item tags="cnjsub"/>
      <cat-item tags="cnjsub.*"/>
@@ -213,6 +217,10 @@
 
   <def-cat n="ætla">
      <cat-item lemma="ætla" tags="vblex.*"/>
+  </def-cat>
+
+  <def-cat n="verða">
+     <cat-item lemma="verða" tags="vblex.*"/>
   </def-cat>
 
   <def-cat n="geta">
@@ -4817,6 +4825,35 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: CNJCOO → CNJCOO | og → and">
+     <pattern>
+       <pattern-item n="cnjcoo"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_cnj_lema"/>
+         <clip pos="1" side="sl" part="lem"/>
+       </let>
+       <out>
+         <chunk namefrom="cur_cnj_lema" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="CC"/></tag>
+             <tag><clip pos="1" side="sl" part="syntax"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <lit-tag v="cnjcoo"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
 
 
   <!-- ///////////////////////////////////////////////////////// -->
@@ -5033,6 +5070,51 @@
 
 
 
+  <rule comment="REGLA: VERÐA PP → WILL BE PP | verða útskrifað → will be discharged">
+     <pattern>
+       <pattern-item n="verða"/>
+       <pattern-item n="pp"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="will_be_pp" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <lit v="will"/>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
+
   <rule comment="REGLA: GETA PP → CAN INF | get komið → can come">
      <pattern>
        <pattern-item n="geta"/>
@@ -5050,7 +5132,8 @@
          <chunk name="auxcj_inf" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <!--<tag><clip pos="1" side="sl" part="syntax"/></tag>-->
+              <tag><lit-tag v="@+FMAINV"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>

@@ -79,6 +79,7 @@
       <attr-item tags="ND"/>
     </def-attr>
     <def-attr n="temps">
+      <attr-item tags="pp"/>
       <attr-item tags="pres"/>
       <attr-item tags="past"/>
       <attr-item tags="ger"/>
@@ -245,6 +246,43 @@
             <lit v=""/>
           </let>
         </when>
+      </choose>
+    </def-macro>
+
+    <def-macro n="convert_become_pp2" npar="2">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" part="lem"/>
+                <lit v="become"/>
+              </equal>
+              <equal>
+                <clip pos="2" part="lem"/>
+                <lit v="pp"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <var n="modal"/>
+            <concat>
+              <lit v="will be"/>
+              <clip pos="1" part="tags"/>
+              <lit v="{^will"/>
+              <lit-tag v="vaux.inf"/>
+              <lit v="$ ^be"/>
+              <lit-tag v="vbser.inf"/>
+              <lit v="$}"/>
+            </concat>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="modal"/>
+            <clip pos="1" part="whole"/>
+          </let>
+        </otherwise>
       </choose>
     </def-macro>
 
@@ -987,6 +1025,10 @@
         <pattern-item n="PP_FMAINV"/>
       </pattern>
       <action c="höfðu nokkrir stúdentar aldrei séð → some students had never seen"> 
+        <call-macro n="convert_become_pp2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
         <out>
           <chunk>
             <clip pos="2" part="lem"/>
@@ -995,9 +1037,12 @@
           </chunk>
           <b pos="1"/>
           <chunk>
+            <var n="modal"/>
+<!--
             <clip pos="1" part="lem"/>
             <clip pos="1" part="tags"/>
             <clip pos="1" part="chcontent"/>
+-->
           </chunk>
           <b pos="2"/>
           <chunk>

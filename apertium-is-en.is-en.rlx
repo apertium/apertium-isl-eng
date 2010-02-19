@@ -78,7 +78,7 @@ LIST AccDatPrep = "á"ri "eftir"ri "fyrir"ri "í"ri "með"ri "undir"ri "við"ri 
 LIST MODV = "ætla" "kunna" "láta" "skula" "vilja" "munu" "mega" "vera" ; #todo: translate fao to icelandic
 
 LIST ACCSUBJVERB = "bresta" "dreyma" "fýsir" "greinir" "grípa" "gruna" "hrylla" "hungra" "kitla" "klígja" "klæja" "kreppa" "langa" "lengja" "lysta" "lægja" ""misminnir" "minnir" "muna" "órar" "raga" "ráma" "reka" "saka" "setur" "skefur" "skipta" "skorta" "stoða" "sundla" "svengja" "svima" "svíða" "syfja" "undra" "vanhagar" "vanta" "varðar" "verkjar" "þrjóta" "þverra" ;
-LIST DATSUBJVERB = "auðnast" "áskotnast" "batna" "ber" "berast" "birtast" "bjóða" "blandast" "blæða" "blöskra" "bragðast" "bregða" "brenna" "búa" "bætast" "daprast" "dáma" "dettta" "drjúpa" "duga" "dveljast" "dyljast" "elna" "endast" "fara" "feila" "festast" "fjölga" "fljúga" "fylgja" "fyrirgefa" "fæðast" "fækka" "förla" "gagnast" "ganga" "geðjast" "gefast" "gremjast" "greypast" "græðast" "haldast" "hefnast" "heilsast" "henta" "heppnast" "heyrast" "henta" "hlaupa" "hlekkjast" "hlotnast" "hlýnar" "hnignar" "hrakar" "hrjósa" "hugkvæmast" "hugnast" "hæfa" "hægja" "hættir" "kemur" "kólna" "kyngir" "lánast" "lást" "leiðast" "leyfast" "ljúka" "ljósta" "lærast" "misfarast" "misheppnast" "misheyrast" "nægja" "ofbjóða" "óa" "ratast" "reiknast" "réna" "rigna" "rísa" "sárna" "seinka" "sinnast" "sjatna" "sjást" "skána" "skeika" "skiljast" "skjátlast" "skola" "skrika" "snúast" "sortna" "stafa" "standa" "stígur" "stekkur" "súrna" "svelgjast" "svipa" "svíða" "sýnast" "sækjast" "sæma" "takast" "teljast" "mér" "vefjast" "vegna" "veita" "versna" "viðkoma" "viðvíkja" "vinnast" "vinnast" "vitnast" "volgna" "vökna" "yfirsjást" "ylna" "þoka" "þóknast" "líða" "<finnst>"; ## TODO: CHECK 'líða' and 'finnst'
+LIST DATSUBJVERB = "auðnast" "áskotnast" "batna" "ber" "berast" "birtast" "bjóða" "blandast" "blæða" "blöskra" "bragðast" "bregða" "brenna" "búa" "bætast" "daprast" "dáma" "dettta" "drjúpa" "duga" "dveljast" "dyljast" "elna" "endast" "fara" "feila" "festast" "fjölga" "fljúga" "fylgja" "fyrirgefa" "fæðast" "fækka" "förla" "gagnast" "ganga" "geðjast" "gefast" "gremjast" "greypast" "græðast" "haldast" "hefnast" "heilsast" "henta" "heppnast" "heyrast" "henta" "hlaupa" "hlekkjast" "hlotnast" "hlýnar" "hnignar" "hrakar" "hrjósa" "hugkvæmast" "hugnast" "hæfa" "hægja" "hættir" "kemur" "kólna" "kyngir" "lánast" "lást" "leiðast" "leyfast" "ljúka" "ljósta" "lærast" "misfarast" "misheppnast" "misheyrast" "nægja" "ofbjóða" "óa" "ratast" "reiknast" "réna" "rigna" "rísa" "sárna" "seinka" "sinnast" "sjatna" "sjást" "skána" "skeika" "skiljast" "skjátlast" "skola" "skrika" "snúast" "sortna" "stafa" "standa" "stígur" "stekkur" "súrna" "svelgjast" "svipa" "svíða" "sýnast" "sækjast" "sæma" "takast" "teljast" "mér" "vefjast" "vegna" "veita" "versna" "viðkoma" "viðvíkja" "vinnast" "vinnast" "vitnast" "volgna" "vökna" "yfirsjást" "ylna" "þoka" "þóknast" "líða" ("finna" midv); ## TODO: CHECK 'líða' and 'finnst'
 LIST WANTINGVERB = "vilja";
 LIST REPORTINGVERB = "segja";
 
@@ -528,6 +528,9 @@ MAP (@ADVL→) TARGET Adv (1* @+FMAINV | @-FMAINV BARRIER CLB) ;
 MAP (@←ADVL) TARGET Adv (-1* @+FMAINV | @-FMAINV BARRIER CLB) ;
 
 AFTER-SECTIONS
+
+#Okkur fannst hún grunsamleg er hún kom hingað fyrst og keypti sprautur og nálar.
+SELECT @SUBJ→ IF (1C @+FMAINV);
 
 MAP (@X) TARGET VerbFin;
 
