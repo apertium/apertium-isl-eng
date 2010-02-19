@@ -4043,6 +4043,62 @@
   </rule>
 
 
+  <rule comment="REGLA: NUM NOM NOM PRNPOS -> DET NUM NOM NOM | 11 ára syni sínum → her 11 year old son">
+     <pattern>
+       <pattern-item n="num"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="nom"/>
+       <pattern-item n="prn_poss"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="prn_pos_to_det_pos">
+         <with-param pos="4"/>
+       </call-macro>
+           <out>
+             <chunk name="det_num_nom_nom" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="syntax"/></tag>
+                 <tag><clip pos="3" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <get-case-from pos="2">
+                   <clip pos="4" side="tl" part="lemh"/>
+                 </get-case-from>
+                 <lit-tag v="det.pos"/>
+                 <clip pos="4" side="tl" part="nbr"/>
+                 <clip pos="4" side="tl" part="lemq"/>
+               </lu>
+               <b/>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_num"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <clip pos="2" side="tl" part="lemh"/>
+                 <clip pos="2" side="tl" part="a_nom"/>
+                 <clip pos="2" side="tl" part="nbr"/>
+                 <clip pos="2" side="tl" part="lemq"/>
+               </lu>
+               <b pos="2"/>
+               <lu>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="3" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
 
   <rule comment="REGLA: PRNPOSS NOM">
      <pattern>

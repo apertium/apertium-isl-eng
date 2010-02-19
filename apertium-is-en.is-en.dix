@@ -249,6 +249,7 @@
     <e><p><l>í<b/>bili<s n="adv"/></l><r>for<b/>the<b/>moment<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrstu<s n="adv"/></l><r>at<b/>first<s n="adv"/></r></p></e>
     <e><p><l>í<b/>vikunni<s n="adv"/></l><r>this<b/>week<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>rúmar<s n="adv"/></l><r>for<b/>more<b/>than<s n="adv"/></r></p></e>
 
     <e><p><l>í<b/>vor<s n="adv"/></l><r>this<b/>spring<s n="adv"/></r></p></e>
     <e><p><l>í<b/>sumar<s n="adv"/></l><r>this<b/>summer<s n="adv"/></r></p></e>
@@ -888,6 +889,7 @@
     <e><p><l>fullorðinn<s n="adj"/></l><r>adult<s n="adj"/></r></p></e>
     <e><p><l>fullreistur<s n="adj"/></l><r>fully<b/>erect<s n="adj"/></r></p></e>
     <e><p><l>fullur<s n="adj"/></l><r>full<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>að<b/>fullur<s n="adj"/></l><r>in<b/>full<s n="adj"/></r></p></e>
     <!--<e><p><l>fullur<s n="adj"/></l><r>drunk<s n="adj"/></r></p></e>-->
     <e><p><l>furðulegur<s n="adj"/></l><r>odd<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>fyndinn<s n="adj"/></l><r>amusing<s n="adj"/></r></p></e>-->
@@ -2762,7 +2764,6 @@
     <e><p><l>að<b/>raun<b/>um<s n="adv"/></l><r>discover<s n="adv"/></r></p></e>
     <e><p><l>að<b/>sumu<b/>leyti<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
     <e><p><l>að<b/>svo<b/>miklu<b/>leyti<b/>sem<s n="adv"/></l><r>in<b/>so<b/>much<b/>as<s n="adv"/></r></p></e>
-    <e><p><l>að<b/>sögn<s n="adv"/></l><r>according<b/>to<s n="adv"/></r></p></e> <!-- TODO: Check -->
     <e><p><l>að<b/>tvennu<b/>leyti<s n="adv"/></l><r>for<b/>two<b/>reasons<s n="adv"/></r></p></e>
     <e><p><l>að<b/>utan<s n="adv"/></l><r>from<b/>outside<s n="adv"/></r></p></e>
     <e><p><l>fyrir<b/>utan<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
@@ -3922,6 +3923,7 @@
 <!--<p><l>samfara<s n="pr"/></l><r>concomitant<s n="pr"/></r></p></e>-->
 <!--<p><l>samfara<s n="pr"/></l><r>incident<s n="pr"/></r></p></e>-->
     <e><p><l>samkvæmt<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>að<b/>sögn<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e> <!-- TODO: Check -->
 <!--<p><l>sökum<s n="pr"/></l><r>because<s n="pr"/></r></p></e>-->
     <e><p><l>sökum<s n="pr"/></l><r>due<s n="pr"/></r></p></e>
 <!--<p><l>sökum<s n="pr"/></l><r>owing<s n="pr"/></r></p></e>-->
@@ -3951,7 +3953,7 @@
     <e><p><l>á<s n="pr"/><s n=":1"/></l><r>in<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/><s n=":2"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>án<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
-    <e><p><l>ásamt<s n="pr"/></l><r>along<s n="pr"/></r></p></e>
+    <e><p><l>ásamt<s n="pr"/></l><r>along<b/>with<s n="pr"/></r></p></e>
     <e><p><l>í<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e><p><l>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
     <e><p><l>út<b/>úr<s n="pr"/></l><r>out<b/>of<s n="pr"/></r></p></e>
@@ -5144,7 +5146,7 @@
 <!--<p><l>knýja<s n="vblex"/></l><r>drive<s n="vblex"/></r></p></e>-->
     <e><p><l>knýja<s n="vblex"/></l><r>enforce<s n="vblex"/></r></p></e>
 <!--<p><l>knýja<s n="vblex"/></l><r>propel<s n="vblex"/></r></p></e>-->
-    <e><p><l>koma<g><b/>fram</g><s n="vblex"/></l><r>reveal<s n="vblex"/></r></p></e>
+    <e><p><l>koma<g><b/>fram</g><s n="vblex"/></l><r>appear<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>koma<s n="vblex"/><s n="actv"/></l><r>come<s n="vblex"/></r></p></e>
 <!--<e><p><l>koma<s n="vblex"/><s n="midv"/></l><r>get<g><b/>there</g><s n="vblex"/></r></p></e>-->
@@ -5518,7 +5520,8 @@
     <e><p><l>rekja<s n="vblex"/></l><r>trace<s n="vblex"/></r></p></e>
 <!--<p><l>rekja<s n="vblex"/></l><r>track<s n="vblex"/></r></p></e>-->
     <e><p><l>reykja<s n="vblex"/></l><r>smoke<s n="vblex"/></r></p></e>
-    <e><p><l>reyna<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
+    <e><p><l>reyna<s n="vblex"/><s n="actv"/></l><r>try<s n="vblex"/></r></p></e>
+    <e><p><l>reyna<s n="vblex"/><s n="midv"/></l><r>turn<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>rifja<s n="vblex"/></l><r>recollect<s n="vblex"/></r></p></e>
     <e><p><l>rigna<s n="vblex"/></l><r>rain<s n="vblex"/></r></p></e>
     <e><p><l>rita<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
@@ -11425,6 +11428,8 @@
     <e><p><l>safírblár<s n="n"/><s n="nt"/></l><r>sapphire<b/>blue<s n="n"/></r></p></e>
     <e><p><l>sag<s n="n"/><s n="nt"/></l><r>sawdust<s n="n"/></r></p></e>
     <e><p><l>saga<s n="n"/><s n="f"/></l><r>history<s n="n"/></r></p></e>
+    <e><p><l>nútímasaga<s n="n"/><s n="f"/></l><r>modern<b/>history<s n="n"/></r></p></e>
+    <!--<e><p><l>nútímasaga<s n="n"/><s n="f"/></l><r>contemporary<b/>novel<s n="n"/></r></p></e>-->
     <!--<e><p><l>saga<s n="n"/><s n="f"/></l><r>story<s n="n"/></r></p></e>-->
     <e><p><l>sagnbeyging<s n="n"/><s n="f"/></l><r>grammatical<b/>conjugation<s n="n"/></r></p></e>
     <e><p><l>sagnorð<s n="n"/><s n="nt"/></l><r>verb<s n="n"/></r></p></e>
@@ -13445,7 +13450,7 @@
     <e><p><l>rómanskur<s n="adj"/><s n=":1"/></l><r>Latin<s n="adj"/></r></p></e>
     <e><p><l>dóminískur<s n="adj"/></l><r>Dominican<s n="adj"/></r></p></e>
     <e><p><l>rökréttur<s n="adj"/></l><r>logical<s n="adj"/></r></p></e>
-    <e><p><l>heimilslaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
+    <e><p><l>heimilislaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
     <e><p><l>vægur<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>palestínskur<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
     <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
@@ -13780,12 +13785,14 @@
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
     <e><p><l>fréttamannafundur<s n="n"/><s n="m"/></l><r>press<b/>conference<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
+    <e><p><l>kólnun<s n="n"/><s n="f"/></l><r>hypothermia<s n="n"/></r></p></e>
     <e><p><l>skjálfti<s n="n"/><s n="m"/></l><r>tremor<s n="n"/></r></p></e>
+    <e><p><l>björgunarsveit<s n="n"/><s n="f"/></l><r>rescue<b/>team<s n="n"/></r></p></e>
     <e><p><l>fiskvinnsla<s n="n"/><s n="f"/></l><r>fish<b/>processing<s n="n"/></r></p></e>
     <e><p><l>tjón<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>
     <e><p><l>tölvunarfræðingur<s n="n"/><s n="m"/></l><r>computer<b/>scientist<s n="n"/></r></p></e>
     <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
-    <e><p><l>ofsaveður<s n="n"/><s n="nt"/></l><r>gale<s n="n"/></r></p></e>
+    <e><p><l>ofsaveður<s n="n"/><s n="nt"/></l><r>storm<s n="n"/></r></p></e>
     <e><p><l>kal<s n="n"/><s n="nt"/></l><r>frostbite<s n="n"/></r></p></e>
     <e><p><l>starfshópur<s n="n"/><s n="m"/></l><r>work<b/>team<s n="n"/></r></p></e>
     <!--<e><p><l>kal<s n="n"/><s n="nt"/></l><r>frost<b/>damage<s n="n"/></r></p></e>-->
@@ -13847,6 +13854,7 @@
     <e><p><l>boða<g><b/>á</g><s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
     <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>sitja<g><b/>föst</g><s n="vblex"/></l><r>be<g><b/>stuck</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
@@ -13903,6 +13911,7 @@
 
     <e><p><l>Port-au-Prince<s n="np"/><s n="top"/><s n="nt"/></l><r>Port-au-Prince<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Mexíkó<s n="np"/><s n="top"/><s n="nt"/></l><r>Mexico<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Marokkó<s n="np"/><s n="top"/><s n="nt"/></l><r>Morocco<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Haítí<s n="np"/><s n="top"/><s n="nt"/></l><r>Haiti<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>Icesave<s n="np"/><s n="al"/><s n="m"/></l><r>Icesave<s n="np"/><s n="al"/></r></p></e>
