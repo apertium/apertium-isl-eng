@@ -44152,6 +44152,13 @@
     <e lm="today"><i>today</i><par n="maybe__adv"/></e>
     <e lm="this morning"><i>this<b/>morning</i><par n="maybe__adv"/></e>
     <e lm="this evening"><i>this<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Sunday evening"><i>on<b/>Sunday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Monday evening"><i>on<b/>Monday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Tuesday evening"><i>on<b/>Tuesday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Wednesday evening"><i>on<b/>Wednesday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Thursday evening"><i>on<b/>Thursday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Friday evening"><i>on<b/>Friday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="on Saturday evening"><i>on<b/>Saturday<b/>evening</i><par n="maybe__adv"/></e>
     <e lm="tomorrow"><i>tomorrow</i><par n="maybe__adv"/></e>
     <e lm="tonight"><i>tonight</i><par n="maybe__adv"/></e>
     <e lm="too"><i>too</i><par n="maybe__adv"/></e>
