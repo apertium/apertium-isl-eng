@@ -3998,6 +3998,7 @@
     <e><p><l>Julía<s n="np"/><s n="ant"/><s n="f"/></l><r>Julía<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Sophia<s n="np"/><s n="ant"/><s n="f"/></l><r>Sophia<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Emilíana<s n="np"/><s n="ant"/><s n="f"/></l><r>Emilíana<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Ýr<s n="np"/><s n="ant"/><s n="f"/></l><r>Ýr<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Þóra<s n="np"/><s n="ant"/><s n="f"/></l><r>Þóra<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>María<s n="np"/><s n="ant"/><s n="f"/></l><r>María<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -13378,6 +13379,9 @@
     <e><p><l>afskipti<s n="n"/><s n="nt"/></l><r>dealings<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>rök<s n="n"/><s n="nt"/></l><r>reasoning<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>verðlaun<s n="n"/><s n="nt"/></l><r>award<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
+    <e><p><l>bronsverðlaun<s n="n"/><s n="nt"/></l><r>bronze<b/>medal<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
+    <e><p><l>gullverðlaun<s n="n"/><s n="nt"/></l><r>gold<b/>medal<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
+    <e><p><l>silfurverðlaun<s n="n"/><s n="nt"/></l><r>silver<b/>medal<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>árslok<s n="n"/><s n="nt"/></l><r>end<g><b/>of<b/>the<b/>year</g><s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>flugeldar<s n="n"/><s n="m"/></l><r>fireworks<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
     <e><p><l>herðar<s n="n"/><s n="f"/></l><r>shoulders<s n="n"/></r></p></e> <!-- PL??? - only pl in Icel -->
@@ -13787,6 +13791,7 @@
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
     <e><p><l>kólnun<s n="n"/><s n="f"/></l><r>hypothermia<s n="n"/></r></p></e>
     <e><p><l>skjálfti<s n="n"/><s n="m"/></l><r>tremor<s n="n"/></r></p></e>
+    <e><p><l>flugmaður<s n="n"/><s n="m"/></l><r>pilot<s n="n"/></r></p></e>
     <e><p><l>björgunarsveit<s n="n"/><s n="f"/></l><r>rescue<b/>team<s n="n"/></r></p></e>
     <e><p><l>fiskvinnsla<s n="n"/><s n="f"/></l><r>fish<b/>processing<s n="n"/></r></p></e>
     <e><p><l>tjón<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>

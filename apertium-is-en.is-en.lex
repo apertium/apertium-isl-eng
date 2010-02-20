@@ -18,7 +18,7 @@ LIST Dat              = (dat);
 LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja";
 LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
 
-LIST ISLANDS          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar"; 
+LIST ISLANDS          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar" "Jótland"; 
 LIST LANGUAGES        = "íslenska" "enska" ;
 LIST BUILDINGS        = ".*skóli"ri ".*hús"ri;
 
