@@ -197,6 +197,9 @@ REMOVE N IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFi
 #Hin íslenska Wikipedia fór í gang 5. desember 2003 og inniheldur núna 27.671 greinar.
 REMOVE ("núa") + PP IF (0 ("núna") + Adv) (NOT -1C* VerbAux BARRIER CLB) (NOT 1C* VerbAux BARRIER CLB);
 
+#Rouston Benoit, 10 ára, var á gangi með ömmu sinni þegar skjálftinn reið yfir.
+REMOVE ("þegar") + Adv IF (-1* VerbFin BARRIER BOS) (1* VerbFin BARRIER EOS);
+
 #################################################################################
 # Adjectives
 #################################################################################

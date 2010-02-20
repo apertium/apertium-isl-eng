@@ -2286,10 +2286,11 @@
   </rule><!-- END rule for 1 adjective + noun -->
 
 
-  <rule comment="REGLA: NOM ADJ">
+  <rule comment="REGLA: NOM ADJ NOMGEN">
      <pattern>
        <pattern-item n="nom"/>
        <pattern-item n="adj"/>
+       <pattern-item n="gen_nom"/>
      </pattern>
      <action>
        <call-macro n="firstWord">
@@ -2302,22 +2303,35 @@
          <when>
            <test>
              <equal>
-               <clip pos="1" side="sl" part="a_art"/>
+               <clip pos="3" side="sl" part="a_art"/>
                <lit-tag v="def"/>
              </equal>
            </test>
-           <out>
-             <chunk name="det_adj_nom" case="caseFirstWord">
+           <out> <!-- 'Red Cross employees' or 'Employees of the Red Cross' -->
+             <chunk name="nom_of_det_adj_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
-                 <get-case-from pos="1">
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>   
+               <b/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>
+               <b pos="1"/>
+               <lu>
+                 <get-case-from pos="3">
                    <lit v="the"/>
                  </get-case-from>
                  <lit-tag v="det.def"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr"/>
                </lu>
                <b/>
               <lu>
@@ -2329,35 +2343,48 @@
                  <clip pos="2" side="tl" part="grau"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
-               <b pos="1"/>
+               <b pos="2"/>
                <lu>
-                 <clip pos="1" side="tl" part="lemh"/>
-                 <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
-                 <clip pos="1" side="tl" part="lemq"/>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
          </when>
          <otherwise>
            <out>
-             <chunk name="adj_nom" case="caseFirstWord">
+             <chunk name="nom_of_adj_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
-              <lu>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_nom"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>   
+               <b pos="1"/>
+               <lu>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+               </lu>              
+               <b/>
+               <lu>
                  <get-case-from pos="1">
                    <clip pos="2" side="tl" part="lem"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
                </lu>
-               <b pos="1"/>
+               <b pos="2"/>
                <lu>
-                 <clip pos="1" side="tl" part="lemh"/>
-                 <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
-                 <clip pos="1" side="tl" part="lemq"/>
+                 <clip pos="3" side="tl" part="lemh"/>
+                 <clip pos="3" side="tl" part="a_nom"/>
+                 <clip pos="3" side="tl" part="nbr"/>
+                 <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>

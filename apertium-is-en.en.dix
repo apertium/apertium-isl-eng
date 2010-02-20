@@ -20528,6 +20528,7 @@
     <e lm="ardour"><i>ardour</i><par n="house__n"/></e>
     <e lm="capital area"><i>capital<b/>area</i><par n="house__n"/></e>
     <e lm="area"><i>area</i><par n="house__n"/></e>
+    <e lm="poor area"><i>poor<b/>area</i><par n="house__n"/></e>
     <e lm="argument"><i>argument</i><par n="house__n"/></e>
     <e lm="argumentation"><i>argumentation</i><par n="house__n"/></e>
     <e lm="aristocracy"><i>aristocrac</i><par n="bab/y__n"/></e>
@@ -39646,6 +39647,10 @@
     <e lm="heavy"><i>heav</i><par n="happ/y__adj"/></e>
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
+    <e lm="separated"><i>separated</i><par n="expensive__adj"/></e>
+    <e lm="separated from"><i>separated<b/>from</i><par n="expensive__adj"/></e>
+    <e lm="time consuming"><i>time<b/>consuming</i><par n="expensive__adj"/></e>
+    <e lm="for more than"><i>for<b/>more<b/>than</i><par n="expensive__adj"/></e>
     <e lm="accused of"><i>accused<b/>of</i><par n="expensive__adj"/></e>
     <e lm="accused"><i>accused</i><par n="expensive__adj"/></e>
     <e lm="complicated"><i>complicated</i><par n="expensive__adj"/></e>
@@ -44272,7 +44277,6 @@
     <e lm="together"><i>together</i><par n="maybe__adv"/></e>
     <e lm="on one count"><i>on<b/>one<b/>count</i><par n="maybe__adv"/></e>
     <e lm="for two reasons"><i>for<b/>two<b/>reasons</i><par n="maybe__adv"/></e>
-    <e lm="for more than"><i>for<b/>more<b/>than</i><par n="maybe__adv"/></e>
     <e lm="insofar"><i>insofar</i><par n="maybe__adv"/></e>
     <e lm="otherwise"><i>otherwise</i><par n="maybe__adv"/></e>
     <e lm="in every respect"><i>in<b/>every<b/>respect</i><par n="maybe__adv"/></e>

@@ -250,7 +250,6 @@
     <e><p><l>í<b/>bili<s n="adv"/></l><r>for<b/>the<b/>moment<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrstu<s n="adv"/></l><r>at<b/>first<s n="adv"/></r></p></e>
     <e><p><l>í<b/>vikunni<s n="adv"/></l><r>this<b/>week<s n="adv"/></r></p></e>
-    <e><p><l>í<b/>rúmar<s n="adv"/></l><r>for<b/>more<b/>than<s n="adv"/></r></p></e>
 
     <e><p><l>í<b/>vor<s n="adv"/></l><r>this<b/>spring<s n="adv"/></r></p></e>
     <e><p><l>í<b/>sumar<s n="adv"/></l><r>this<b/>summer<s n="adv"/></r></p></e>
@@ -850,6 +849,7 @@
     <e><p><l>framangreindur<s n="adj"/></l><r>above-mentioned<s n="adj"/></r></p></e>
     <e><p><l>franskur<s n="adj"/></l><r>french<s n="adj"/></r></p></e>
     <e><p><l>frekur<s n="adj"/></l><r>demanding<s n="adj"/></r></p></e>
+    <e><p><l>tímafrekur<s n="adj"/></l><r>time<b/>consuming<s n="adj"/></r></p></e>
 <!--<p><l>fremri<s n="adj"/></l><r>better<s n="adj"/></r></p></e>-->
     <e><p><l>fremri<s n="adj"/></l><r>superior<s n="adj"/></r></p></e>
     <e><p><l>friðsamlegur<s n="adj"/></l><r>peaceful<s n="adj"/></r></p></e>
@@ -1666,8 +1666,9 @@
     <e><p><l>rúmgóður<s n="adj"/></l><r>spacious<s n="adj"/></r></p></e>
 <!--<p><l>rúmur<s n="adj"/></l><r>big<s n="adj"/></r></p></e>-->
 <!--<p><l>rúmur<s n="adj"/></l><r>large<s n="adj"/></r></p></e>-->
-    <e><p><l>rúmur<s n="adj"/></l><r>roomy<s n="adj"/></r></p></e>
+<!--    <e><p><l>rúmur<s n="adj"/></l><r>roomy<s n="adj"/></r></p></e>-->
     <e><p><l>rúmur<s n="adj"/></l><r>spacious<s n="adj"/></r></p></e>
+    <e><p><l>í<b/>rúmur<s n="adj"/></l><r>for<b/>more<b/>than<s n="adj"/></r></p></e>
     <e><p><l>rússneskur<s n="adj"/></l><r>Russian<s n="adj"/></r></p></e>
 <!--<p><l>saklaus<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>-->
 <!--<p><l>saklaus<s n="adj"/></l><r>guiltless<s n="adj"/></r></p></e>-->
@@ -5618,7 +5619,8 @@
 <!--<p><l>samanstanda<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>-->
 <!--<p><l>samanstanda<s n="vblex"/></l><r>include<s n="vblex"/></r></p></e>-->
 <!--<p><l>samanstanda<s n="vblex"/></l><r>involve<s n="vblex"/></r></p></e>-->
-    <e><p><l>sameina<s n="vblex"/></l><r>combine<s n="vblex"/></r></p></e>
+    <e><p><l>sameina<s n="vblex"/><s n="actv"/></l><r>combine<s n="vblex"/></r></p></e>
+    <e><p><l>sameina<s n="vblex"/><s n="midv"/></l><r>unite<s n="vblex"/></r></p></e>
 <!--<p><l>sameina<s n="vblex"/></l><r>join<s n="vblex"/></r></p></e>-->
 <!--<p><l>sameina<s n="vblex"/></l><r>unite<s n="vblex"/></r></p></e>-->
 <!--<p><l>samferða<s n="vblex"/></l><r><g>travel<b/>together</g><s n="vblex"/></r></p></e>-->
@@ -13458,6 +13460,8 @@
     <e><p><l>heimilislaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
     <e><p><l>vægur<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>palestínskur<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
+    <e><p><l>viðskila<s n="adj"/></l><r>separated<s n="adj"/></r></p></e>
+    <e><p><l>viðskila<g><b/>við</g><s n="adj"/></l><r>separated<b/>from<s n="adj"/></r></p></e>
     <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
 
     <e><p><l>í<b/>smáatriðum<s n="adv"/></l><r>in<b/>detail<s n="adv"/></r></p></e>
@@ -13787,6 +13791,7 @@
     <e><p><l>útsvar<s n="n"/><s n="nt"/></l><r>council<b/>tax<s n="n"/></r></p></e>
     <e><p><l>skattkerfi<s n="n"/><s n="nt"/></l><r>tax<b/>system<s n="n"/></r></p></e>
     <e><p><l>bankakerfi<s n="n"/><s n="nt"/></l><r>banking<b/>system<s n="n"/></r></p></e>
+    <e><p><l>fátæktarhverfi<s n="n"/><s n="nt"/></l><r>poor<b/>area<s n="n"/></r></p></e>
     <e><p><l>samúð<s n="n"/><s n="f"/></l><r>sympathy<s n="n"/></r></p></e>
     <e><p><l>fréttamannafundur<s n="n"/><s n="m"/></l><r>press<b/>conference<s n="n"/></r></p></e>
     <e><p><l>setningafræði<s n="n"/><s n="f"/></l><r>syntax<s n="n"/></r></p></e>
@@ -13863,6 +13868,7 @@
     <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>sitja<g><b/>föst</g><s n="vblex"/></l><r>be<g><b/>stuck</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>leita<g><b/>að</g><s n="vblex"/></l><r>search<g><b/>for</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
