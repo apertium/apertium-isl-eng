@@ -41549,6 +41549,7 @@
     <e lm="unauthorised"><i>unauthorised</i><par n="expensive__adj"/></e>
     <e lm="afraid"><i>afraid</i><par n="expensive__adj"/></e>
     <e lm="sold"><i>sold</i><par n="expensive__adj"/></e>
+    <e lm="sold out"><i>sold<b/>out</i><par n="expensive__adj"/></e>
     <e lm="understood"><i>understood</i><par n="expensive__adj"/></e>
     <e lm="loud"><i>loud</i><par n="expensive__adj"/></e>
     <e lm="made"><i>made</i><par n="expensive__adj"/></e>
