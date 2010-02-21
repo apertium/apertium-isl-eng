@@ -13462,6 +13462,7 @@
     <e><p><l>heimilislaus<s n="adj"/></l><r>homeless<s n="adj"/></r></p></e>
     <e><p><l>vægur<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>palestínskur<s n="adj"/></l><r>Palestinian<s n="adj"/></r></p></e>
+    <e><p><l>karabískur<s n="adj"/></l><r>Caribbean<s n="adj"/></r></p></e>
     <e><p><l>viðskila<s n="adj"/></l><r>separated<s n="adj"/></r></p></e>
     <e><p><l>viðskila<g><b/>við</g><s n="adj"/></l><r>separated<b/>from<s n="adj"/></r></p></e>
     <e><p><l>bróðurlegur<s n="adj"/></l><r>brotherly<s n="adj"/></r></p></e> <!-- ?? -->
@@ -13803,6 +13804,7 @@
     <e><p><l>björgunarsveit<s n="n"/><s n="f"/></l><r>rescue<b/>team<s n="n"/></r></p></e>
     <e><p><l>fiskvinnsla<s n="n"/><s n="f"/></l><r>fish<b/>processing<s n="n"/></r></p></e>
     <e><p><l>tjón<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>
+    <e><p><l>sólarströnd<s n="n"/><s n="f"/></l><r>beach<s n="n"/></r></p></e> <!-- check ? -->
     <e><p><l>tónleikaferð<g><b/>um<b/>heiminn</g><s n="n"/><s n="f"/></l><r>world<b/>tour<s n="n"/></r></p></e>
     <e><p><l>tónleikaferð<s n="n"/><s n="f"/></l><r>tour<s n="n"/></r></p></e> <!-- music tour ?? -->
     <e><p><l>fréttastofa<s n="n"/><s n="f"/></l><r>news<b/>agency<s n="n"/></r></p></e> 

@@ -19602,8 +19602,8 @@
     <e lm="Carlota"><i>Carlota</i><par n="Mary__np"/></e>
     <e lm="Carme"><i>Carme</i><par n="Mary__np"/></e>
     <e lm="Carolina"><i>Carolina</i><par n="Mary__np"/></e>
-    <e lm="Carribean"><i>Carribean</i><par n="Barcelona__np"/></e>
-    <e lm="Castile and Leon"><i>Castile<b/>and<b/>Leon</i><par n="Barcelona__np"/></e>
+    <e lm="Carribean"><par n="Cc"/><i>arribean</i><par n="Barcelona__np"/></e>
+    <e lm="Castile and Leon"><par n="Cc"/><i>astile<b/>and<b/>Leon</i><par n="Barcelona__np"/></e>
     <e lm="Catalina"><i>Catalina</i><par n="Mary__np"/></e>
     <e lm="Catalonia"><i>Catalonia</i><par n="Barcelona__np"/></e>
     <e lm="Cecilia"><i>Cecilia</i><par n="Mary__np"/></e>
@@ -39685,6 +39685,7 @@
     <e lm="Byelorussian"><par n="Bb"/><i>yelorussian</i><par n="expensive__adj"/></e>
     <e lm="Byzantine"><par n="Bb"/><i>yzantine</i><par n="expensive__adj"/></e>
     <e lm="Cameroonian"><par n="Cc"/><i>ameroonian</i><par n="expensive__adj"/></e>
+    <e lm="Caribbean"><par n="Cc"/><i>aribbean</i><par n="expensive__adj"/></e>
     <e lm="Canadian"><par n="Cc"/><i>anadian</i><par n="expensive__adj"/></e>
     <e lm="Canarian"><par n="Cc"/><i>anarian</i><par n="expensive__adj"/></e>
     <e lm="Catalan"><par n="Cc"/><i>atalan</i><par n="expensive__adj"/></e>

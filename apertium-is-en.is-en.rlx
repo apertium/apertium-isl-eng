@@ -434,6 +434,9 @@ REMOVE ("er"ri) + Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER 
 # Haítí, Port-au-Prince, er rústir einar.
 REMOVE ("er"ri) + Conj IF (-1C Coma LINK -1 N | ProperNom LINK -1C Coma);
 
+# en fjölskylda hans tilkynnti ekki um hvarfið fyrr en í nóvember þar sem hún hélt að hann væri á sólarströnd við Karabíska hafið.
+REMOVE Verb IF (-1C Adj) (0 N) (0 Verb) (1 EOS);
+
 ##
 # Specific pre-disambiguation lexical selection
 # 
