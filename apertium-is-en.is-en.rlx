@@ -522,11 +522,11 @@ MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N) (NOT 0 (+í
 MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);
 SELECT Adj + @←N (0C Adj) (NOT 1* N + $$NAGD + $$NUMBER) (-1C N + $$NAGD + $$NUMBER); ## ugly hack.
 
-MAP (@←N) TARGET Num + Gen (0C Num + $$NUMBER) (-1C N + $$NUMBER);
-MAP (@←N) TARGET Num + Gen (0C Num) (-1C N + Gen);
 MAP (@N→) TARGET Num + Gen (0C Num) (1C N + Gen);
 MAP (@N→) TARGET Num (0C Num) (1C* N BARRIER CLB | VerbFin);
 MAP (@N→) TARGET (det) (0C (det)) (1C N);
+MAP (@←N) TARGET Num + Gen (0C Num + $$NUMBER) (-1C N + $$NUMBER);
+MAP (@←N) TARGET Num + Gen (0C Num) (-1C N + Gen);
 
 MAP (@CS→) TARGET (cnjsub) (0C (cnjsub));
 
