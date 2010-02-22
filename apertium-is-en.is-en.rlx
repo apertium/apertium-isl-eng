@@ -517,7 +517,7 @@ MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (NOT 1* @+FMAINV BARRIER CLB
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1 Rel) (1C VerbAux + TempsFin);
 
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB);
-MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N) (NOT 0 (+í)); # ganga+í
+MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N); 
 
 MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);
 SELECT Adj + @←N (0C Adj) (NOT 1* N + $$NAGD + $$NUMBER) (-1C N + $$NAGD + $$NUMBER); ## ugly hack.
@@ -542,3 +542,11 @@ MAP (@X) TARGET VerbFin;
 
 MAP (@X) TARGET N;
 MAP (@X) TARGET ProperNom;
+
+# ganga# í vs. ganga+í
+SUBSTITUTE (pr @X) (pr) Verb (0 (+í));
+SUBSTITUTE (pr @+FMAINV) (pr) Verb (0 (+í));
+SUBSTITUTE (pr @-FMAINV) (pr) Verb (0 (+í));
+
+SUBSTITUTE (sg pr) (sg) Verb;
+SUBSTITUTE (+í) (+í pr) Verb (0 (+í));
