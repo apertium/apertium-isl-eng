@@ -13812,6 +13812,7 @@
     <e><p><l>sovéther<s n="n"/><s n="m"/></l><r>Soviet<b/>army<s n="n"/></r></p></e>
     <e><p><l>ofsaveður<s n="n"/><s n="nt"/></l><r>storm<s n="n"/></r></p></e>
     <e><p><l>kal<s n="n"/><s n="nt"/></l><r>frostbite<s n="n"/></r></p></e>
+    <e><p><l>flugskeytavarnarkerfi<s n="n"/><s n="nt"/></l><r>anti-aircraft<b/>system<s n="n"/></r></p></e>
     <e><p><l>starfshópur<s n="n"/><s n="m"/></l><r>work<b/>team<s n="n"/></r></p></e>
     <!--<e><p><l>kal<s n="n"/><s n="nt"/></l><r>frost<b/>damage<s n="n"/></r></p></e>-->
     <e><p><l>leikfangabyssa<s n="n"/><s n="f"/></l><r>toy<b/>gun<s n="n"/></r></p></e> <!-- 'imitation firearm' ? -->
@@ -13870,10 +13871,12 @@
     <e><p><l>falla<g><b/>á</g><s n="vblex"/><s n="midv"/></l><r>agree<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>fjalla<g><b/>um</g><s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
     <e><p><l>boða<g><b/>á</g><s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
+    <e><p><l>verða<g><b/>sér</g><g><b/>úti<b/>um</g><s n="vblex"/></l><r>get<g><b/>hold<b/>of</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>sitja<g><b/>föst</g><s n="vblex"/></l><r>be<g><b/>stuck</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>leita<g><b/>að</g><s n="vblex"/></l><r>search<g><b/>for</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+  
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
