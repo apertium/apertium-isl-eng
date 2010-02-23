@@ -39568,6 +39568,15 @@
     <e lm="hello"><i>hello</i><par n="hello__ij"/></e>
     <e lm="thanks anyway"><i>thanks<b/>anyway</i><par n="hello__ij"/></e>
     <e lm="oh"><i>oh</i><par n="hello__ij"/></e>
+    <e lm="yes"><i>yes</i><par n="hello__ij"/></e>
+    <e lm="thanks"><i>thanks</i><par n="hello__ij"/></e>
+    <e lm="thankyou"><i>thankyou</i><par n="hello__ij"/></e>
+    <e lm="wow"><i>wow</i><par n="hello__ij"/></e>
+    <e lm="hi"><i>hi</i><par n="hello__ij"/></e>
+    <e lm="huh"><i>huh</i><par n="hello__ij"/></e>
+    <e lm="phew"><i>phew</i><par n="hello__ij"/></e>
+    <e lm="pshaw"><i>pshaw</i><par n="hello__ij"/></e>
+    <e lm="shush"><i>shush</i><par n="hello__ij"/></e>
     <e lm="see you later"><i>see<b/>you<b/>later</i><par n="hello__ij"/></e>
     <e lm="it takes all sorts to make a world"><i>it<b/>takes<b/>all<b/>sorts<b/>to<b/>make<b/>a<b/>world</i><par n="hello__ij"/></e>
     <e r="RL"><i>well</i><par n="hello__ij"/></e>

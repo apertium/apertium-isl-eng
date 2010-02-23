@@ -649,6 +649,7 @@
       </when>
     </choose>
   </def-macro>
+
   <def-macro n="conv_ætla_to_be1" npar="1">
         <let>
           <clip pos="1" side="sl" part="lem"/>
@@ -838,6 +839,8 @@
         <var n="cur_verb_lem"/>
         <clip pos="1" side="sl" part="lem"/>
       </let>
+      <!-- First set the verb chunk type, e.g. reporting 
+           verbs get treated differently for subjunctives -->
       <choose>
         <when>
           <test>
@@ -852,6 +855,8 @@
           </let>
         </when>
       </choose>
+      <!-- Next we remove voice tags, English verbs are not 
+           marked for voice -->
       <choose>
         <when>
           <test>
@@ -928,7 +933,7 @@
                 </when>
 
                 <when>
-                  <test> <!-- If the tense is 'pss' -->
+                  <test> <!-- If the tense is 'pss' or 'past' -->
                     <or>
                       <equal>
                         <clip pos="1" side="sl" part="temps"/>
@@ -940,11 +945,33 @@
                       </equal>
                     </or>
                   </test> 
-                  <let> <!-- Set the tense to 'pres' -->
+                  <let> <!-- Set the tense to 'past' -->
                     <clip pos="1" side="tl" part="temps"/>
                     <lit-tag v="past"/>
                   </let>
                 </when>
+                <when> <!-- When the verb is in the imperative -->
+                  <test>
+                    <equal>
+                      <clip pos="1" side="sl" part="temps"/>
+                      <lit-tag v="imp"/>
+                    </equal>
+                  </test>
+                  <let>
+                    <clip pos="1" side="tl" part="temps"/>
+                    <lit-tag v="inf"/>
+                  </let>
+                  <let>
+                    <var n="cur_verb_fin"/>
+                    <concat>
+                      <clip pos="1" side="tl" part="lemh"/>
+                      <clip pos="1" side="tl" part="a_verb"/>
+                      <clip pos="1" side="tl" part="temps" link-to="3"/>
+                      <clip pos="1" side="tl" part="lemq"/>
+                    </concat>
+                  </let>      
+                </when>
+    
              </choose>
              <let>
                <var n="cur_verb_fin"/>
@@ -1037,28 +1064,6 @@
                 </when>
               </choose>
             </when>
-            <when> 
-              <test>
-                <equal>
-                  <clip pos="1" side="sl" part="temps"/>
-                  <lit-tag v="imp"/>
-                </equal>
-              </test>
-              <let>
-                <clip pos="1" side="tl" part="temps"/>
-                <lit-tag v="inf"/>
-              </let>
-              <let>
-                <var n="cur_verb_fin"/>
-                <concat>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_verb"/>
-                  <clip pos="1" side="tl" part="temps" link-to="3"/>
-                  <clip pos="1" side="tl" part="lemq"/>
-                </concat>
-              </let>      
-            </when>
-
           </choose>
         </when>
       </choose>
@@ -1141,16 +1146,16 @@
             </when>
             <when> 
               <test>
-                    <or>
-                      <equal>
-                        <clip pos="1" side="sl" part="temps"/>
-                        <lit-tag v="past"/>
-                      </equal>
-                      <equal>
-                        <clip pos="1" side="sl" part="temps"/>
-                        <lit-tag v="pss"/>
-                      </equal>
-                    </or>
+                <or>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="past"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="temps"/>
+                    <lit-tag v="pss"/>
+                  </equal>
+                </or>
               </test>
               <let>
                 <clip pos="1" side="tl" part="temps"/>
