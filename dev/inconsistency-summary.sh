@@ -1,6 +1,8 @@
 POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vaux vbhaver vblex vbser"
 INC=$1
 
+date
+echo -e "==============================================="
 echo -e "POS\tTotal\tClean\tWith @\tWith #\tClean %"
 for i in $POS; do
 	TOTAL=`cat $INC | grep "<$i>" | wc -l`;
@@ -15,4 +17,6 @@ for i in $POS; do
 	fi
 
 	echo -e $TOTAL";"$i";"$CLEAN";"$AT";"$HASH";"$PERCLEAN;
-done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}'
+done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}' > testvoc-summary.txt
+
+cat testvoc-summary.txt

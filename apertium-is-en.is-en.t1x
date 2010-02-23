@@ -873,7 +873,6 @@
         </when>
       </choose>
 
-
       <choose>
         <when>
           <test>
@@ -1038,6 +1037,27 @@
                 </when>
               </choose>
             </when>
+            <when> 
+              <test>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="imp"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="inf"/>
+              </let>
+              <let>
+                <var n="cur_verb_fin"/>
+                <concat>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="1" side="tl" part="temps" link-to="3"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+              </let>      
+            </when>
 
           </choose>
         </when>
@@ -1146,6 +1166,28 @@
                 </concat>
               </let>      
             </when>
+            <when> 
+              <test>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="imp"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="inf"/>
+              </let>
+              <let>
+                <var n="cur_verb_fin"/>
+                <concat>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="1" side="tl" part="temps" link-to="3"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </concat>
+              </let>      
+            </when>
+
           </choose>
         </when>
       </choose>
@@ -1877,6 +1919,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
        <call-macro n="nom_article1">
          <with-param pos="1"/>
        </call-macro>
@@ -1894,7 +1939,7 @@
              <chunk name="det_top" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="1" side="sl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <var n="article"/>
@@ -1912,7 +1957,7 @@
              <chunk name="top" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="1" side="sl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
@@ -1937,11 +1982,14 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="ant" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="1" side="tl" part="gen"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
@@ -5011,6 +5059,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
        <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
                                         outputs an English conjugated verb in the variable "cur_verb_fin" -->
          <with-param pos="1"/>
@@ -5019,7 +5070,7 @@
          <chunk namefrom="cur_verb_chunk_name" case="caseFirstWord">
            <tags>
              <tag><lit-tag v="SV"/></tag>
-              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><var n="cur_syn_tag"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>

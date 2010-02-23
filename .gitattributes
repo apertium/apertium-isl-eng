@@ -91,6 +91,7 @@ dev/sorting/temp_sorting/vblex.xml -text
 dev/sorting/temp_sorting/vblex.xml.pseudo -text
 dev/sorting/temp_sorting/vblex.xml.restored -text
 dev/sorting/temp_sorting/vblex.xml.sorted -text
+dev/testvoc-summary.txt -text
 /en-is.prob -text svneol=unset#unset
 /icenlpApertium.sh -text
 /is-en.prob -text
