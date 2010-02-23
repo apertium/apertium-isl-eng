@@ -50,6 +50,7 @@ dev/data/snara.us.open -text
 dev/data/snara.verbs.final.xml -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
+dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/is-tags.mapping.txt -text
 dev/sorting/bidixSort.sh -text
