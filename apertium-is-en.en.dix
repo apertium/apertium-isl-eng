@@ -44628,14 +44628,15 @@
     <e r="RL"><i>since</i><par n="after__cnjadv"/></e>
     <e lm="so"><i>so</i><par n="after__cnjadv"/></e>
     <e lm="then"><i>then</i><par n="after__cnjadv"/></e>
-    <e lm="so that"><i>so<b/>that</i><par n="after__cnjadv"/></e>
+    <e lm="so that"><i>so<b/>that</i><par n="that__cnjsub"/></e>
+    <e lm="as soon as"><i>as<b/>soon<b/>as</i><par n="that__cnjsub"/></e>
     <e lm="even so"><i>even<b/>so</i><par n="after__cnjadv"/></e>
     <e lm="therefore"><i>therefore</i><par n="after__cnjadv"/></e>
     <e lm="though"><i>though</i><par n="after__cnjadv"/></e>
     <e lm="thus"><i>thus</i><par n="after__cnjadv"/></e>
     <e lm="unless"><i>unless</i><par n="after__cnjadv"/></e>
-    <e lm="until"><i>until</i><par n="after__cnjadv"/></e>
     <e lm="when"><i>when</i><par n="that__cnjsub"/></e>
+    <e lm="until"><i>until</i><par n="that__cnjsub"/></e>
     <e lm="when"><i>when</i><par n="after__cnjadv"/></e>
     <e lm="whereas"><i>whereas</i><par n="after__cnjadv"/></e>
     <e lm="whether"><i>whether</i><par n="after__cnjadv"/></e>
@@ -44769,7 +44770,11 @@
     <e lm="against"><i>against</i><par n="at__pr"/></e>
     <e lm="past"><i>past</i><par n="at__pr"/></e>
     <e lm="along"><i>along</i><par n="at__pr"/></e>
+    <e lm="thereupon" r="RL"><i>thereupon</i><par n="at__pr"/></e>
+    <e lm="thereof" r="RL"><i>thereof</i><par n="at__pr"/></e>
+    <e lm="head off" r="RL"><i>head<b/>off</i><par n="at__pr"/></e> <!-- TODO: CHECK ??? -->
     <e lm="along with"><i>along<b/>with</i><par n="at__pr"/></e>
+    <e lm="in connection with"><i>in<b/>connection<b/>with</i><par n="at__pr"/></e>
     <e lm="amid"><i>amid</i><par n="at__pr"/></e>
     <e lm="among"><i>among</i><par n="at__pr"/></e>
     <e lm="amongst"><i>amongst</i><par n="at__pr"/></e>

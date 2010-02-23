@@ -3725,21 +3725,12 @@
     <e><p><l>um<b/>leið<b/>og<s n="cnjsub"/></l><r>as<b/>soon<b/>as<s n="cnjsub"/></r></p></e>
     <e><p><l>uns<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
     <e><p><l>vegna<b/>þess<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
-    <e><p><l>á<b/>bak<b/>við<s n="cnjsub"/></l><r>behind<s n="cnjsub"/></r></p></e>
-    <e><p><l>á<b/>borð<b/>við<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>á<b/>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e><p><l>á<b/>móts<b/>við<s n="cnjsub"/></l><r>near<b/>by<s n="cnjsub"/></r></p></e>
     <e><p><l>án<b/>þess<s n="cnjsub"/></l><r>without<s n="cnjsub"/></r></p></e>
     <e><p><l>áður<b/>en<s n="cnjsub"/></l><r>before<s n="cnjsub"/></r></p></e>
-    <e><p><l>í<b/>sambandi<b/>við<s n="cnjsub"/></l><r>regarding<s n="cnjsub"/></r></p></e>
-    <e><p><l>í<b/>samræmi<b/>við<s n="cnjsub"/></l><r>according<b/>to<s n="cnjsub"/></r></p></e>
-    <e><p><l>í<b/>staðinn<b/>fyrir<s n="cnjsub"/></l><r>instead<b/>of<s n="cnjsub"/></r></p></e>
-    <e><p><l>í<b/>tengslum<b/>við<s n="cnjsub"/></l><r>in<b/>connection<b/>with<s n="cnjsub"/></r></p></e>
-    <e><p><l>í<b/>veg<b/>fyrir<s n="cnjsub"/></l><r>head<b/>off<s n="cnjsub"/></r></p></e>
     <e><p><l>ýmist<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
-    <e><p><l>þangað<b/>til<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
-    <e><p><l>þar<b/>af<s n="cnjsub"/></l><r>thereof<s n="cnjsub"/></r></p></e>
-    <e><p><l>þar<b/>með<s n="cnjsub"/></l><r>thereupon<s n="cnjsub"/></r></p></e>
+
     <e><p><l>þar<b/>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
     <e><p><l>þarsem<s n="cnjsub"/></l><r>where<s n="cnjsub"/></r></p></e>
     <e><p><l>þegar<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
@@ -3973,6 +3964,18 @@
 <!--<p><l>útá<s n="pr"/></l><r>out<b/>on<s n="pr"/></r></p></e>-->
 <!--<p><l>útí<s n="pr"/></l><r>out<b/>into<s n="pr"/></r></p></e>-->
     <e><p><l>út<b/>í<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+
+    <e><p><l>á<b/>bak<b/>við<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
+    <e><p><l>á<b/>borð<b/>við<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
+    <e><p><l>í<b/>sambandi<b/>við<s n="pr"/></l><r>regarding<s n="pr"/></r></p></e>
+    <e><p><l>í<b/>samræmi<b/>við<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>í<b/>staðinn<b/>fyrir<s n="pr"/></l><r>instead<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>í<b/>tengslum<b/>við<s n="pr"/></l><r>in<b/>connection<b/>with<s n="pr"/></r></p></e>
+    <e><p><l>í<b/>veg<b/>fyrir<s n="pr"/></l><r>head<b/>off<s n="pr"/></r></p></e>
+    <e><p><l>þar<b/>af<s n="pr"/></l><r>thereof<s n="pr"/></r></p></e>
+    <e><p><l>þar<b/>með<s n="pr"/></l><r>thereupon<s n="pr"/></r></p></e>
+    <e><p><l>þangað<b/>til<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
+
 
 
     <e><p><l>útaf<s n="pr"/></l><r>because<s n="pr"/></r></p></e> <!-- CHECK ?? -->
