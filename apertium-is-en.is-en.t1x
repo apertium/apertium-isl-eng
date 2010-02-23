@@ -404,6 +404,7 @@
   <def-var n="cur_prn_lema"/>
   <def-var n="cur_rel_lema"/>
   <def-var n="cur_prep_lema"/>
+  <def-var n="cur_syn_tag" v="&lt;@X&gt;"/>
   <def-var n="cur_cnj_lema"/>
   <def-var n="caseFirstWord"/>
   <def-var n="EOS" v="true"/>
@@ -481,7 +482,32 @@
     <let><var n="cur_adv_lema"/>       <lit v=""/></let>
     <let><var n="cur_prn_lema"/>       <lit v=""/></let>
     <let><var n="cur_prep_lema"/>      <lit v=""/></let>
+    <let><var n="cur_syn_tag"/>        <lit-tag v="@X"/></let>
     <let><var n="EOS"/>                <lit v="true"/></let>
+  </def-macro>
+  
+  <def-macro n="set_curr_syntag" npar="1">
+    <choose> <!-- Because chunks of the same type should have the same tags
+                  to make sure the pointers point to the right places -->
+      <when>
+        <test>
+            <equal caseless="yes">
+              <clip pos="1" side="sl" part="syntax"/>
+              <lit v=""/>
+            </equal>
+        </test>
+        <let>
+          <var n="cur_syn_tag"/>
+          <lit-tag v="@X"/>
+        </let>
+      </when>
+      <otherwise> 
+        <let>
+          <var n="cur_syn_tag"/>
+          <clip pos="1" side="sl" part="syntax"/>
+        </let>
+      </otherwise> 
+    </choose>
   </def-macro>
 
   <def-macro n="firstWord" npar="1">
@@ -1766,6 +1792,9 @@
        <call-macro n="nom_article1">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -1780,7 +1809,7 @@
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="1" side="sl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <var n="article"/>
@@ -4459,9 +4488,12 @@
      <pattern-item n="prnpers"/>
    </pattern>
    <action>
-       <call-macro n="firstWord">
-         <with-param pos="1"/>
-       </call-macro>
+     <call-macro n="firstWord">
+       <with-param pos="1"/>
+     </call-macro>
+     <call-macro n="set_curr_syntag">
+       <with-param pos="1"/>
+     </call-macro>
      <choose>
       <when>
         <test>
@@ -4555,8 +4587,8 @@
      <out>
        <chunk name="prn" case="caseFirstWord">
          <tags>
-           <tag><lit-tag v="SN"/></tag>
-            <tag><clip pos="1" side="tl" part="syntax"/></tag>
+            <tag><lit-tag v="SN"/></tag>
+            <tag><var n="cur_syn_tag"/></tag>
             <tag><clip pos="1" side="tl" part="pers"/></tag>
             <tag><clip pos="1" side="tl" part="gen"/></tag>
             <tag><clip pos="1" side="tl" part="nbr"/></tag>
