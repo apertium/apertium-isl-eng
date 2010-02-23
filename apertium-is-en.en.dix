@@ -3185,10 +3185,9 @@
     <e>
       <p>
         <l></l>
-        <r><s n="np"/><s n="top"/><s n="sg"/></r>
+        <r><s n="np"/><s n="top"/><s n="pl"/></r>
       </p>
     </e>
-
 
 
     </pardef>
@@ -3241,6 +3240,23 @@
 
     </pardef>
 
+    <pardef n="Wikipedia__np">
+
+    <e>
+      <p>
+        <l></l>
+        <r><s n="np"/><s n="al"/><s n="sg"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>s</l>
+        <r><s n="np"/><s n="al"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    </pardef>
+
     <pardef n="Linux__np">
 
     <e>
@@ -3249,8 +3265,6 @@
         <r><s n="np"/><s n="al"/><s n="sg"/></r>
       </p>
     </e>
-
-
 
     </pardef>
 
@@ -14712,7 +14726,6 @@
     <e lm="Mabel"><i>Mabel</i><par n="Mary__np"/></e>
     <e lm="Macarena"><i>Macarena</i><par n="Mary__np"/></e>
     <e lm="Macaria"><i>Macaria</i><par n="Mary__np"/></e>
-    <e lm="Macedonia"><i>Macedonia</i><par n="Mary__np"/></e>
     <e lm="Maciela"><i>Maciela</i><par n="Mary__np"/></e>
     <e lm="Maclovia"><i>Maclovia</i><par n="Mary__np"/></e>
     <e lm="Macrina"><i>Macrina</i><par n="Mary__np"/></e>
@@ -16844,6 +16857,7 @@
     <e lm="Matius"><i>Matius</i><par n="Mark__np"/></e>
     <e lm="Mattew"><i>Mattew</i><par n="Mark__np"/></e>
     <e lm="Björn"><i>Björn</i><par n="Mark__np"/></e>
+    <e lm="Ásbjörn"><i>Ásbjörn</i><par n="Mark__np"/></e>
     <e lm="Lúðvík"><i>Lúðvík</i><par n="Mark__np"/></e>
     <e lm="Þorri"><i>Þorri</i><par n="Mark__np"/></e>
     <e lm="Matthew"><i>Matthew</i><par n="Mark__np"/></e>
@@ -19463,6 +19477,8 @@
     <e lm="Adrià"><i>Adrià</i><par n="Mark__np"/></e>
 
     <e lm="Florida"><i>Florida</i><par n="Barcelona__np"/></e>
+    <e lm="Macedonia"><i>Macedonia</i><par n="Barcelona__np"/></e>
+    <e lm="Finnmark"><i>Finnmark</i><par n="Barcelona__np"/></e>
     <e lm="Grindavík"><i>Grindavík</i><par n="Barcelona__np"/></e>
     <e lm="Njarðvík"><i>Njarðvík</i><par n="Barcelona__np"/></e>
     <e lm="Húsavík"><i>Húsavík</i><par n="Barcelona__np"/></e>
@@ -19490,9 +19506,9 @@
     <e lm="South America"><i>South<b/>America</i><par n="Barcelona__np"/></e>
     <e lm="South-Korea"><i>South<b/>Korea</i><par n="Barcelona__np"/></e>
     <e lm="North-Korea"><i>North<b/>Korea</i><par n="Barcelona__np"/></e>
-    <e lm="European Union"><i>European<b/>Union</i><par n="Barcelona__np"/></e>
+    <e lm="European Union"><par n="Ee"/><i>uropean<b/>Union</i><par n="Barcelona__np"/></e>
     <e lm="York"><i>York</i><par n="Barcelona__np"/></e>
-    <e lm="Soviet Union"><i>Soviet<b/>Union</i><par n="Barcelona__np"/></e>
+    <e lm="Soviet Union"><par n="Ss"/><i>oviet<b/>Union</i><par n="Barcelona__np"/></e>
     <e lm="Kurdistan"><i>Kurdistan</i><par n="Barcelona__np"/></e>
     <e lm="Tatarstan"><i>Tatarstan</i><par n="Barcelona__np"/></e>
     <e lm="Turkmenistan"><i>Turkmenistan</i><par n="Barcelona__np"/></e>
@@ -19593,7 +19609,7 @@
     <e lm="California"><i>California</i><par n="Barcelona__np"/></e>
     <e lm="Cameroon"><i>Cameroon</i><par n="Barcelona__np"/></e>
     <e lm="Canada"><i>Canada</i><par n="Barcelona__np"/></e>
-    <e lm="Canary Islands"><i>Canary<b/>Islands</i><par n="United_States__np"/></e>
+    <e lm="Canary Islands"><par n="Cc"/><i>anary<b/>Islands</i><par n="United_States__np"/></e>
     <e lm="Cantabria"><i>Cantabria</i><par n="Barcelona__np"/></e>
     <e lm="Caracas"><i>Caracas</i><par n="Barcelona__np"/></e>
     <e lm="Carla"><i>Carla</i><par n="Mary__np"/></e>
@@ -19751,7 +19767,7 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/></e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/></e>
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
-    <e lm="Wikipedia"><i>Wikipedia</i><par n="Linux__np"/></e>
+    <e lm="Wikipedia"><par n="Ww"/><i>ikipedia</i><par n="Wikipedia__np"/></e>
     <e lm="Icesave"><par n="Ii"/><i>cesave</i><par n="Linux__np"/></e>
     <e lm="Reuters"><par n="Rr"/><i>euters</i><par n="Linux__np"/></e>
     <e lm="Social Democratic Alliance"><par n="Ss"/><i>ocial<b/>Democratic<b/>Alliance</i><par n="Wikimedia__np"/></e>
@@ -19938,7 +19954,7 @@
     <e lm="Ukraine"><i>Ukraine</i><par n="Barcelona__np"/></e>
 
     <e lm="Greenland"><i>Greenland</i><par n="Barcelona__np"/></e>
-    <e lm="Netherlands"><i>Netherlands</i><par n="Barcelona__np"/></e>
+    <e lm="Netherlands"><par n="Nn"/><i>etherlands</i><par n="Barcelona__np"/></e>
     <e lm="Czech"><i>Czech</i><par n="Barcelona__np"/></e>
     <e lm="Antarctica"><i>Antarctica</i><par n="Barcelona__np"/></e>
     <e lm="Mongolia"><i>Mongolia</i><par n="Barcelona__np"/></e>
@@ -19972,9 +19988,8 @@
 
 
 
-    <e lm="United Kingdom"><i>United<b/>Kingdom</i><par n="Barcelona__np"/></e>
-    <e lm="United Kingdom"><i>United<b/>Kingdom</i><par n="Barcelona__np"/></e>
-    <e lm="United States"><i>United<b/>States</i><par n="United_States__np"/></e>
+    <e lm="United Kingdom"><par n="Uu"/><i>nited<b/>Kingdom</i><par n="Barcelona__np"/></e>
+    <e lm="United States"><par n="Uu"/><i>nited<b/>States</i><par n="United_States__np"/></e>
     <e lm="Unix"><i>Unix</i><par n="Linux__np"/></e>
     <e lm="Uruguay"><i>Uruguay</i><par n="Barcelona__np"/></e>
     <e lm="Utah"><i>Utah</i><par n="Barcelona__np"/></e>

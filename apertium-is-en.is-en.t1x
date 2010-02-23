@@ -1874,7 +1874,7 @@
              <chunk name="nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="1" side="sl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
