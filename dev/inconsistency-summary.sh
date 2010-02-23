@@ -13,10 +13,12 @@ for i in $POS; do
 	PERCLEAN=`calc $UNCLEAN/$TOTAL*100 |sed 's/^\W*//g' | sed 's/~//g' | head -c 5`;
 	echo $PERCLEAN | grep "Err" > /dev/null;
 	if [ $? -eq 0 ]; then
-		PERCLEAN="100";
+		TOTPERCLEAN="100";
+	else
+		TOTPERCLEAN=`calc 100-$PERCLEAN | sed 's/^\W*//g' | sed 's/~//g' | head -c 5`;
 	fi
 
-	echo -e $TOTAL";"$i";"$CLEAN";"$AT";"$HASH";"$PERCLEAN;
+	echo -e $TOTAL";"$i";"$CLEAN";"$AT";"$HASH";"$TOTPERCLEAN;
 done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}' > testvoc-summary.txt
 
 cat testvoc-summary.txt
