@@ -1,9 +1,12 @@
-POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vaux vbhaver vblex vbser"
 INC=$1
+OUT=testvoc-summary.txt
+POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vaux vbhaver vblex vbser"
 
-date
-echo -e "==============================================="
-echo -e "POS\tTotal\tClean\tWith @\tWith #\tClean %"
+echo "" > $OUT;
+
+date >> $OUT
+echo -e "===============================================" >> $OUT
+echo -e "POS\tTotal\tClean\tWith @\tWith #\tClean %" >> $OUT
 for i in $POS; do
 	TOTAL=`cat $INC | grep "<$i>" | wc -l`;
 	AT=`cat $INC | grep "<$i>" | grep '@'  | wc -l`;
@@ -19,7 +22,7 @@ for i in $POS; do
 	fi
 
 	echo -e $TOTAL";"$i";"$CLEAN";"$AT";"$HASH";"$TOTPERCLEAN;
-done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}' > testvoc-summary.txt
+done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}' >> $OUT
 
-cat testvoc-summary.txt
-echo -e "==============================================="
+echo -e "===============================================" >> $OUT
+cat $OUT;

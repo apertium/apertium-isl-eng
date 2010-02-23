@@ -26215,6 +26215,12 @@
     <e><p><l>úr<s n="ofl:prep/adv"/></l><r>ofl<s n="ofl:prep/adv"/></r></p></e>
 -->
     <!-- END Needs checking -->
- 
+
+    <!-- I've made these up -FMT -->
+    <e><p><l>á<b/>móts<b/>við<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
+    <e><p><l>við<b/>hliðina<b/>á<s n="pr"/></l><r>next<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>þvert<b/>í<b/>gegnum<s n="pr"/></l><r>straight<b/>through<s n="pr"/></r></p></e>
+    <e><p><l>út<b/>frá<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
+
   </section>
 </dictionary>
