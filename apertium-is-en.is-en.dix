@@ -13872,13 +13872,7 @@
     <e><p><l>falla<g><b/>á</g><s n="vblex"/><s n="midv"/></l><r>agree<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>fjalla<g><b/>um</g><s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
     <e><p><l>boða<g><b/>á</g><s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
-    <e><p><l>verða<g><b/>sér</g><g><b/>úti<b/>um</g><s n="vblex"/></l><r>get<g><b/>hold<b/>of</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
-    <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
-    <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
-    <e><p><l>sitja<g><b/>föst</g><s n="vblex"/></l><r>be<g><b/>stuck</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
-    <e><p><l>leita<g><b/>að</g><s n="vblex"/></l><r>search<g><b/>for</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
-    <e><p><l>kveða<g><b/>á<b/>um</g><s n="vblex"/></l><r>stipulate<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
-  
+ 
 
     <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
@@ -13949,5 +13943,16 @@
 
 <!-- END TODO -->
 
+  </section>
+
+  <section id="unchecked" type="standard">
+    <!-- Verbs -->
+    <e><p><l>verða<g><b/>sér</g><g><b/>úti<b/>um</g><s n="vblex"/></l><r>get<g><b/>hold<b/>of</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>sitja<g><b/>föst</g><s n="vblex"/></l><r>be<g><b/>stuck</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>leita<g><b/>að</g><s n="vblex"/></l><r>search<g><b/>for</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>kveða<g><b/>á<b/>um</g><s n="vblex"/></l><r>stipulate<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+ 
   </section>
 </dictionary>
