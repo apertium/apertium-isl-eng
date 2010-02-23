@@ -22,3 +22,4 @@ for i in $POS; do
 done | sort -gr | awk -F';' '{print $2"\t"$1"\t"$3"\t"$4"\t"$5"\t"$6}' > testvoc-summary.txt
 
 cat testvoc-summary.txt
+echo -e "==============================================="

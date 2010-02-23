@@ -3890,7 +3890,7 @@
     <e><p><l>andspænis<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
 <!--<p><l>auk<s n="pr"/></l><r><g>in<b/></g>addition<s n="pr"/></r></p></e>-->
 <!--<p><l>auk<s n="pr"/></l><r>besides<s n="pr"/></r></p></e>-->
-    <e><p><l>auk<s n="pr"/></l><r>plus<s n="pr"/></r></p></e>
+    <e><p><l>auk<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>að<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e><p><l>allt<b/>að<s n="pr"/></l><r>up<b/>to<s n="pr"/></r></p></e>
     <e><p><l>bak<b/>við<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
@@ -3976,7 +3976,7 @@
 
 
     <e><p><l>útaf<s n="pr"/></l><r>because<s n="pr"/></r></p></e> <!-- CHECK ?? -->
-    <e><p><l>undan<s n="pr"/></l><r>away<s n="pr"/></r></p></e> <!-- CHECK ?? 'undan-pr' from under -->
+    <e><p><l>undan<s n="pr"/></l><r>from<s n="pr"/></r></p></e> 
     <e><p><l>vestan<s n="adv"/></l><r>westwardly<s n="adv"/></r></p></e>
     <e><p><l>norðan<s n="adv"/></l><r>northwardly<s n="adv"/></r></p></e>
     <e><p><l>austan<s n="adv"/></l><r>eastwardly<s n="adv"/></r></p></e>
