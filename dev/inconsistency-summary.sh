@@ -8,9 +8,9 @@ date >> $OUT
 echo -e "===============================================" >> $OUT
 echo -e "POS\tTotal\tClean\tWith @\tWith #\tClean %" >> $OUT
 for i in $POS; do
-	TOTAL=`cat $INC | grep "<$i>" | wc -l`;
-	AT=`cat $INC | grep "<$i>" | grep '@'  | wc -l`;
-	HASH=`cat $INC | grep "<$i>" | grep '>  *#' | wc -l`;
+	TOTAL=`cat $INC | grep "<$i>" | grep -v REGEX | wc -l`; 
+	AT=`cat $INC | grep "<$i>" | grep '@'  | grep -v REGEX | wc -l`;
+	HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v REGEX |  wc -l`;
 	UNCLEAN=`calc $AT+$HASH`;
 	CLEAN=`calc $TOTAL-$UNCLEAN`;
 	PERCLEAN=`calc $UNCLEAN/$TOTAL*100 |sed 's/^\W*//g' | sed 's/~//g' | head -c 5`;

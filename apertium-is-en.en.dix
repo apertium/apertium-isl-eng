@@ -39655,6 +39655,27 @@
     <e lm="tenth"><i>tenth</i><par n="second__adj"/></e>
     <e lm="last"><i>last</i><par n="second__adj"/></e>
 
+    <e lm="eighteenth"><i>eighteenth</i><par n="second__adj"/></e>
+    <e lm="eightieth"><i>eightieth</i><par n="second__adj"/></e>
+    <e lm="eleventh"><i>eleventh</i><par n="second__adj"/></e>
+    <e lm="fifteenth"><i>fifteenth</i><par n="second__adj"/></e>
+    <e lm="fiftieth"><i>fiftieth</i><par n="second__adj"/></e>
+    <e lm="fortieth"><i>fortieth</i><par n="second__adj"/></e>
+    <e lm="fourteenth"><i>fourteenth</i><par n="second__adj"/></e>
+    <e lm="hundredth"><i>hundredth</i><par n="second__adj"/></e>
+    <e lm="nineteenth"><i>nineteenth</i><par n="second__adj"/></e>
+    <e lm="ninetieth"><i>ninetieth</i><par n="second__adj"/></e>
+    <e lm="seventeenth"><i>seventeenth</i><par n="second__adj"/></e>
+    <e lm="seventieth"><i>seventieth</i><par n="second__adj"/></e>
+    <e lm="sixteenth"><i>sixteenth</i><par n="second__adj"/></e>
+    <e lm="sixtieth"><i>sixtieth</i><par n="second__adj"/></e>
+    <e lm="thirteenth"><i>thirteenth</i><par n="second__adj"/></e>
+    <e lm="thirtieth"><i>thirtieth</i><par n="second__adj"/></e>
+    <e lm="thousandth"><i>thousandth</i><par n="second__adj"/></e>
+    <e lm="twelfth"><i>twelfth</i><par n="second__adj"/></e>
+    <e lm="twentieth"><i>twentieth</i><par n="second__adj"/></e>
+
+
 	
     <e lm="bad"><i></i><par n="/bad__adj"/></e>
     <e lm="skinny"><i>skinn</i><par n="happ/y__adj"/></e>
@@ -44629,6 +44650,7 @@
     <e lm="seven"><i>seven</i><par n="two__num"/></e>
     <e lm="six"><i>six</i><par n="two__num"/></e>
     <e lm="ten"><i>ten</i><par n="two__num"/></e>
+    <e lm="hundred" r="RL"><i>hundred</i><par n="two__num"/></e>
     <e lm="eleven"><i>eleven</i><par n="two__num"/></e>
     <e lm="twelve"><i>twelve</i><par n="two__num"/></e>
     <e lm="thirteen"><i>thirteen</i><par n="two__num"/></e>
