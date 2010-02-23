@@ -374,6 +374,9 @@ SELECT Gen IF (-1C Nom) (0 NAGD) (1C PossPron)
 #á mati lögreglu
 SELECT Gen IF (-1C N) (-1C Nom OR Acc OR Dat) (NOT 0 VerbFin);
 
+#Einungis þriðjungur Norðmanna vill að landið gangi í Evrópusambandið
+#REMOVE Nom IF (-1C VerbFin) (0 Nom) (0 Acc) (NOT -1 DATSUBJVERB | ACCSUBJVERB);
+
 #################################################################################
 # Verbs
 #################################################################################
@@ -487,6 +490,7 @@ MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1* VerbFin + $$NUMBER + (p3) BARRIER 
                                        (NOT -1* @←SUBJ OR @SUBJ→ BARRIER CLB);
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
+MAP (@SUBJ→) TARGET N + Nom (1C* VerbFin BARRIER CLB) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
 MAP (@←SUBJ) TARGET ProperNom + Nom (-1C VerbFin) (0C ProperNom + Nom);
 
@@ -544,9 +548,9 @@ MAP (@X) TARGET N;
 MAP (@X) TARGET ProperNom;
 
 # ganga# í vs. ganga+í
-SUBSTITUTE (pr @X) (pr) Verb (0 (+í));
-SUBSTITUTE (pr @+FMAINV) (pr) Verb (0 (+í));
-SUBSTITUTE (pr @-FMAINV) (pr) Verb (0 (+í));
-
-SUBSTITUTE (sg pr) (sg) Verb;
-SUBSTITUTE (+í) (+í pr) Verb (0 (+í));
+#SUBSTITUTE (pr @X) (pr) Verb (0 (+í));
+#SUBSTITUTE (pr @+FMAINV) (pr) Verb (0 (+í));
+#SUBSTITUTE (pr @-FMAINV) (pr) Verb (0 (+í));
+#
+#SUBSTITUTE (sg pr) (sg) Verb;
+#SUBSTITUTE (+í) (+í pr) Verb (0 (+í));

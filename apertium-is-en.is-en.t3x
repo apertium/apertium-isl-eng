@@ -66,6 +66,28 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="syntax">
+     <attr-item tags="@X"/>
+     <attr-item tags="@N→"/>
+     <attr-item tags="@←N"/>
+     <attr-item tags="@SUBJ→"/>
+     <attr-item tags="@←SUBJ"/>
+     <attr-item tags="@OBJ→"/>
+     <attr-item tags="@←OBJ"/>
+     <attr-item tags="@\+FMAINV"/>
+     <attr-item tags="@-FMAINV"/>
+     <attr-item tags="@\+FAUXV"/>
+     <attr-item tags="@-FAUXV"/>
+    </def-attr>
+    <def-attr n="a_chunk">
+      <attr-item tags="SV"/>
+      <attr-item tags="SN"/>
+      <attr-item tags="CS"/>
+      <attr-item tags="CC"/>
+      <attr-item tags="ADV"/>
+      <attr-item tags="SADV"/>
+      <attr-item tags="NEG"/>
+    </def-attr>
     <def-attr n="pers">
       <attr-item tags="p1"/>
       <attr-item tags="p2"/>
@@ -1230,7 +1252,9 @@
           <b pos="3"/>
           <chunk>
             <clip pos="5" part="lem"/>
-            <clip pos="5" part="tags"/>
+            <clip pos="5" part="a_chunk"/>
+            <clip pos="5" part="syntax"/>
+            <clip pos="5" part="temps"/>
             <lit v="{"/>
             <lit v="^to"/>
             <lit-tag v="pr"/>
