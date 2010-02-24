@@ -4676,7 +4676,9 @@
 <!--<p><l>furða<s n="vblex"/></l><r>amaze<s n="vblex"/></r></p></e>-->
     <e><p><l>furða<s n="vblex"/></l><r>marvel<s n="vblex"/></r></p></e>
 <!--<p><l>furða<s n="vblex"/></l><r>wonder<s n="vblex"/></r></p></e>-->
-    <e><p><l>fylgja<s n="vblex"/></l><r>accompany<s n="vblex"/></r></p></e>
+    <e><p><l>fylgja<s n="vblex"/><s n=":0"/></l><r>accompany<s n="vblex"/></r></p></e>
+    <e><p><l>fylgja<s n="vblex"/><s n=":1"/></l><r>keep<g><b/>up</g><s n="vblex"/></r></p></e>
+    <e><p><l>fylgja<s n="vblex"/><s n=":2"/></l><r>pay<g><b/>attention</g><s n="vblex"/></r></p></e>
     <e><p><l>fylkja<g><b/>liði</g><s n="vblex"/></l><r>muster<g><b/>a<b/>force</g><s n="vblex"/></r></p></e>
     <e><p><l>fylkja<s n="vblex"/></l><r>muster<s n="vblex"/></r></p></e>
     <e><p><l>fylla<s n="vblex"/></l><r>fill<s n="vblex"/></r></p></e>
@@ -26250,5 +26252,6 @@
     <e r="LR"><p><l>svona<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
 
     <e><p><l>að<b/>því<b/>er<b/>ég<b/>best<b/>veit<s n="adv"/></l><r>to<b/>the<b/>best<b/>of<b/>my<b/>knowledge<s n="adv"/></r></p></e>
+
   </section>
 </dictionary>

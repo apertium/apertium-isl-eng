@@ -42693,6 +42693,7 @@
     <e lm="jump"><i>jump</i><par n="accept__vblex"/></e>
     <e lm="justify"><i>justif</i><par n="appl/y__vblex"/></e>
     <e lm="keep on"><i>ke</i><par n="ke/ep__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
+    <e lm="keep up"><i>ke</i><par n="ke/ep__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="keep"><i>ke</i><par n="ke/ep__vblex"/></e>
     <e lm="kick"><i>kick</i><par n="accept__vblex"/></e>
     <e lm="kid"><i>kid</i><par n="bed__vblex"/></e>
@@ -44945,6 +44946,7 @@
     <e lm="breach"><i>breach</i><par n="approach__vblex"/></e>
     <e lm="drink like a fish"><i>dr</i><par n="dr/ink__vblex"/><p><l><b/>like<b/>a<b/>fish</l><r><g><b/>like<b/>a<b/>fish</g></r></p></e>
     <e lm="pay cash"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>cash</l><r><g><b/>cash</g></r></p></e>
+    <e lm="pay attention"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>attention</l><r><g><b/>attention</g></r></p></e>
     <e lm="pay back in the same coin"><i>pa</i><par n="pa/y__vblex"/><p><l><b/>back<b/>in<b/>the<b/>same<b/>coin</l><r><g><b/>back<b/>in<b/>the<b/>same<b/>coin</g></r></p></e>
     <e lm="go Dutch"><i></i><par n="/go__vblex"/><p><l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
     <e r="RL"><i>sho</i><par n="sho/ot__vblex"/><p><l><b/>in<b/>the<b/>dark</l><r><g><b/>in<b/>the<b/>dark</g></r></p></e>

@@ -162,10 +162,13 @@ SUBSTITUTE (vblex :0) (vblex :1) ("afgreiða"ri) (1 ("mál"));
 #        2:"compare"
 SUBSTITUTE (vblex) (vblex :0) ("jafna"ri);
 
-
-
-
-
+# "fylgja" : 
+#        0:"accompany"
+#        1:"keep up"
+#        2:"pay attention"
+SUBSTITUTE (vblex) (vblex :0) ("fylgja"ri);
+SUBSTITUTE (vblex :0) (vblex :1) ("fylgja"ri vblex midv) (1C* ("með") BARRIER CLB);
+SUBSTITUTE (vblex :0) (vblex :2) ("fylgja"ri vblex midv) (1C* ("með") BARRIER CLB LINK 1* (@X));
 
 ## 
 ## PREPOSITIONS 
