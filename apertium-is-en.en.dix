@@ -31983,6 +31983,7 @@
     <e lm="start proceedings"><i>start</i><par n="accept__vblex"/><p><l><b/>proceedings<b/>against</l><r><g><b/>proceedings<b/>against</g></r></p></e>
     <e lm="state"><i>stat</i><par n="liv/e__vblex"/></e>
     <e lm="stay"><i>stay</i><par n="accept__vblex"/></e>
+    <e lm="peep"><i>peep</i><par n="accept__vblex"/></e>
     <e lm="stay awake"><i>stay</i><par n="accept__vblex"/><p><l><b/>awake</l><r><g><b/>awake</g></r></p></e>
     <e lm="step"><i>step</i><par n="step__vblex"/></e>
     <e lm="step into"><i>step</i><par n="step__vblex"/><p><l><b/>into</l><r><g><b/>into</g></r></p></e>
@@ -31996,6 +31997,7 @@
     <e lm="strengthen"><i>strengthen</i><par n="accept__vblex"/></e>
     <e lm="stress"><i>stress</i><par n="approach__vblex"/></e>
     <e lm="stretch"><i>stretch</i><par n="approach__vblex"/></e>
+    <e lm="stretch out"><i>stretch</i><par n="approach__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="strike"><i>strik</i><par n="liv/e__vblex"/></e>
     <e lm="strip"><i>strip</i><par n="step__vblex"/></e>
     <e lm="stripe"><i>strip</i><par n="liv/e__vblex"/></e>

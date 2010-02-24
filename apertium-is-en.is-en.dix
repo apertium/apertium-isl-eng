@@ -7446,8 +7446,8 @@
 <e><p><l>saxa<s n="vblex"/></l><r>chop<s n="vblex"/></r></p></e>
 <e><p><l>sefa<s n="vblex"/></l><r>calm<s n="vblex"/></r></p></e>
 <e><p><l>sefja<s n="vblex"/></l><r>influence<b/>by<b/>suggestion<s n="vblex"/></r></p></e>
-<e><p><l>segulmagna<s n="vblex"/></l><r>magnetize<s n="vblex"/></r></p></e>
-<e><p><l>seilast<s n="vblex"/></l><r>stretch<b/>out<s n="vblex"/></r></p></e>
+<e><p><l>segulmagna<s n="vblex"/></l><r>magnetise<s n="vblex"/></r></p></e>
+<e><p><l>seilast<s n="vblex"/></l><r>stretch<g><b/>out</g><s n="vblex"/></r></p></e>
 <e><p><l>seinka<s n="vblex"/><s n=":0"/></l><r>delay<s n="vblex"/></r></p></e>
 <e><p><l>seinka<s n="vblex"/><s n=":1"/></l><r>slow<b/>down<s n="vblex"/></r></p></e>
 <e><p><l>seinka<s n="vblex"/><s n=":2"/></l><r>put<b/>back<s n="vblex"/></r></p></e>
@@ -8003,7 +8003,7 @@
 <e><p><l>ílendast<s n="vblex"/></l><r>settle<b/>down<s n="vblex"/></r></p></e>
 <e><p><l>ílengjast<s n="vblex"/></l><r>stay<b/>longer<s n="vblex"/></r></p></e>
 <e><p><l>ískra<s n="vblex"/></l><r>creak<s n="vblex"/></r></p></e> <!-- (of a door, etc) -->
-<e><p><l>ívilna<s n="vblex"/></l><r>give<b/>privileges<s n="vblex"/></r></p></e>
+<e><p><l>ívilna<s n="vblex"/></l><r>give<g><b/>privileges</g><s n="vblex"/></r></p></e>
 <e><p><l>íþyngja<s n="vblex"/></l><r>burden<s n="vblex"/></r></p></e>
 <e><p><l>ófrægja<s n="vblex"/></l><r>defame<s n="vblex"/></r></p></e>
 <e><p><l>ófríkka<s n="vblex"/></l><r>become<b/>less<b/>pretty<s n="vblex"/></r></p></e>
@@ -8040,7 +8040,7 @@
 <e><p><l>útheimta<s n="vblex"/></l><r>demand<s n="vblex"/></r></p></e>
 <e><p><l>úthella<s n="vblex"/></l><r>pour<b/>out<s n="vblex"/></r></p></e>
 <e><p><l>úthluta<s n="vblex"/></l><r>allocate<s n="vblex"/></r></p></e>
-<e><p><l>úthýsa<s n="vblex"/><s n=":0"/></l><r>throw<b/>out<s n="vblex"/></r></p></e> <!-- (sby) -->
+<e><p><l>úthýsa<s n="vblex"/><s n=":0"/></l><r>throw<g><b/>out</g><s n="vblex"/></r></p></e> <!-- (sby) -->
 <e><p><l>úthýsa<s n="vblex"/><s n=":1"/></l><r>refuse<b/>to<b/>give<b/>shelter<s n="vblex"/></r></p></e> <!-- (sby) -->
 <e><p><l>útkljá<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
 <e><p><l>útlista<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
@@ -14320,7 +14320,7 @@
     <e><p><l>gaspra<s n="vblex"/><s n=":0"/></l><r>gush<s n="vblex"/></r></p></e> <!-- regarding speech -->
     <e><p><l>gaspra<s n="vblex"/><s n=":2"/></l><r>babble<s n="vblex"/></r></p></e>
     <e><p><l>gaula<s n="vblex"/></l><r>howl<s n="vblex"/></r></p></e>
-    <e><p><l>gaumgæfa<s n="vblex"/></l><r>scrutinize<s n="vblex"/></r></p></e>
+    <e><p><l>gaumgæfa<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p></e>
     <e><p><l>geggjast<s n="vblex"/></l><r>go<b/>crazy<s n="vblex"/></r></p></e>
     <e><p><l>gegnumlýsa<s n="vblex"/></l><r>X-ray<s n="vblex"/></r></p></e>
     <e><p><l>geiga<s n="vblex"/></l><r>miss<b/>the<b/>mark<s n="vblex"/></r></p></e>
@@ -14336,7 +14336,7 @@
     <e><p><l>geta<s n="vblex"/><s n=":3"/></l><r>mention<s n="vblex"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n=":4"/></l><r>beget<s n="vblex"/></r></p></e>
     <e><p><l>geysast<s n="vblex"/></l><r>dash<s n="vblex"/></r></p></e>
-    <e><p><l>gifta<s n="vblex"/></l><r>give<b/>somebody<b/>in<b/>marriage<s n="vblex"/></r></p></e>
+    <e><p><l>gifta<s n="vblex"/></l><r>give<g><b/><b/>in<b/>marriage</g><s n="vblex"/></r></p></e>
     <e><p><l>giftast<s n="vblex"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
     <e><p><l>gildna<s n="vblex"/></l><r>get<b/>fatter<s n="vblex"/></r></p></e>
     <e><p><l>ginna<s n="vblex"/><s n=":1"/></l><r>allure<s n="vblex"/></r></p></e>
@@ -15603,10 +15603,10 @@
     <e><p><l>þilja<s n="vblex"/></l><r>panel<s n="vblex"/></r></p></e>
     <e><p><l>þinga<s n="vblex"/></l><r>hold<b/>a<b/>meeting<s n="vblex"/></r></p></e>
     <e><p><l>þiðna<s n="vblex"/></l><r>thaw<s n="vblex"/></r></p></e>
-    <e><p><l>þjaka<s n="vblex"/><s n=":0"/></l><r>pain<s n="vblex"/></r></p></e>
+    <e><p><l>þjaka<s n="vblex"/><s n=":0"/></l><r>torment<s n="vblex"/></r></p></e>
     <e><p><l>þjaka<s n="vblex"/><s n=":1"/></l><r>oppress<s n="vblex"/></r></p></e>
     <e><p><l>þjarka<s n="vblex"/></l><r>argue<s n="vblex"/></r></p></e>
-    <e><p><l>þjá<s n="vblex"/></l><r>pain<s n="vblex"/></r></p></e>
+    <e><p><l>þjá<s n="vblex"/></l><r>torment<s n="vblex"/></r></p></e>
     <e><p><l>þjófkenna<s n="vblex"/></l><r>accuse<b/>of<b/>theft<s n="vblex"/></r></p></e> <!-- (sby) -->
     <e><p><l>þjóra<s n="vblex"/></l><r>drink<s n="vblex"/></r></p></e> <!-- alcohol, usually beer -->
     <e><p><l>þjóðnýta<s n="vblex"/></l><r>nationalize<s n="vblex"/></r></p></e>
