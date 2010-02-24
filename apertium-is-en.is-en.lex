@@ -170,6 +170,13 @@ SUBSTITUTE (vblex) (vblex :0) ("fylgja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("fylgja"ri vblex midv) (1C* ("með") BARRIER CLB);
 SUBSTITUTE (vblex :0) (vblex :2) ("fylgja"ri vblex midv) (1C* ("með") BARRIER CLB LINK 1* (@X));
 
+# "benda" : 
+#        0:""
+#        1:""
+#        2:""
+SUBSTITUTE (vblex) (vblex :0) ("benda"ri);
+
+
 ## 
 ## PREPOSITIONS 
 ##
