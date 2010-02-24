@@ -1057,7 +1057,18 @@
       <e>      <p>        <l>oing</l>        <r>o<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>      <p>        <l>oing</l>        <r>o<s n="vblex"/><s n="subs"/></r></p></e>
     </pardef>
-    
+     
+    <pardef n="dwell__vblex">
+      <e>      <p>        <l></l>        <r><s n="vblex"/><s n="inf"/></r></p></e>
+      <e>      <p>        <l></l>        <r><s n="vblex"/><s n="pres"/></r></p></e>
+      <e>      <p>        <l>s</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l>t</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+      <e>      <p>        <l>t</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e>      <p>        <l>ing</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
+      <e>      <p>        <l>ing</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
+      <e>      <p>        <l>ing</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+    </pardef>
+
     <pardef n="accept__vblex">
       <e>      <p>        <l></l>        <r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>      <p>        <l></l>        <r><s n="vblex"/><s n="pres"/></r></p></e>
@@ -1154,8 +1165,8 @@
       <e>      <p>        <l>s</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>      <p>        <l></l>        <r><s n="vblex"/><s n="past"/></r></p></e>
       <e>      <p>        <l></l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-      <e r="LR"><p>        <l>ted</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-      <e r="LR"><p>        <l>ted</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
+      <e r="LR"><p>       <l>ted</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
+      <e r="LR"><p>       <l>ted</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
       <e>      <p>        <l>ting</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
       <e>      <p>        <l>ting</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
       <e>      <p>        <l>ting</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
@@ -30530,10 +30541,8 @@
     <e lm="whiz"><i>whiz</i><par n="whiz__vblex"/></e>
     <e lm="knot"><i>knot</i><par n="admit__vblex"/></e>
 
-<!--
-    <e lm="dwell"><i>dwell</i><par n="@"/></e>
-    <e lm="hurt"><i>hurt</i><par n="@"/></e>
--->
+    <e lm="dwell"><i>dwell</i><par n="dwell__vblex"/></e>
+    <e lm="hurt"><i>hurt</i><par n="cost__vblex"/></e>
 
     <e lm="guard"><i>guard</i><par n="accept__vblex"/></e>
     <e lm="grimace"><i>grimac</i><par n="liv/e__vblex"/></e>
@@ -30541,6 +30550,7 @@
     <e lm="rage"><i>rag</i><par n="liv/e__vblex"/></e>
     <e lm="budge"><i>budg</i><par n="liv/e__vblex"/></e>
     <e lm="poke"><i>pok</i><par n="liv/e__vblex"/></e>
+    <e lm="plague"><i>plagu</i><par n="liv/e__vblex"/></e>
     <e lm="mumble"><i>mumbl</i><par n="liv/e__vblex"/></e>
     <e lm="strangle"><i>strangl</i><par n="liv/e__vblex"/></e>
     <e lm="gape"><i>gap</i><par n="liv/e__vblex"/></e>
@@ -30549,7 +30559,7 @@
     <e lm="criticise"><i>criticis</i><par n="liv/e__vblex"/></e>
     <e lm="utilise"><i>utilis</i><par n="liv/e__vblex"/></e>
     <e lm="rinse"><i>rins</i><par n="liv/e__vblex"/></e>
-    <e lm="browse"><i>browse</i><par n="liv/e__vblex"/></e>
+    <e lm="browse"><i>brows</i><par n="liv/e__vblex"/></e>
     <e lm="concentrate"><i>concentrat</i><par n="liv/e__vblex"/></e>
     <e lm="refute"><i>refut</i><par n="liv/e__vblex"/></e>
     <e lm="behave"><i>behav</i><par n="liv/e__vblex"/></e>

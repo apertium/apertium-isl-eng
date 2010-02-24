@@ -5176,6 +5176,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
        <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
                                         outputs an English conjugated verb in the variable "cur_verb_fin" -->
          <with-param pos="1"/>
@@ -5184,7 +5187,7 @@
          <chunk namefrom="cur_verb_chunk_name" case="caseFirstWord">
            <tags>
              <tag><var n="cur_verb_chunk_type"/></tag>
-              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><var n="cur_syn_tag"/></tag>
               <tag><clip pos="1" side="tl" part="temps"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
