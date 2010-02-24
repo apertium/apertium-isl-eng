@@ -165,6 +165,11 @@
      <cat-item tags="vbser.ppres"/>
      <cat-item tags="vbser.ger"/>
 
+     <cat-item tags="vaux.*.ppres"/>
+     <cat-item tags="vaux.*.ger"/>
+     <cat-item tags="vaux.ppres"/>
+     <cat-item tags="vaux.ger"/>
+
   </def-cat>
 
 <!--
@@ -187,6 +192,8 @@
      <cat-item tags="vbser.pp.*"/>
      <cat-item tags="vbhaver.pp"/>
      <cat-item tags="vbhaver.pp.*"/>
+     <cat-item tags="vaux.supn"/>
+     <cat-item tags="vaux.supn.*"/>
   </def-cat>
 
   <def-cat n="adj">

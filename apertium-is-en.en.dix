@@ -30520,6 +30520,8 @@
     <e lm="go on strike"><i></i><par n="/go__vblex"/><p><l><b/>on<b/>strike</l><r><g><b/>on<b/>strike</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
     <e lm="be stuck"><i></i><par n="/be__vblex"/><p><l><b/>stuck</l><r><g><b/>stuck</g></r></p></e>
+    <e lm="be able to"><i></i><par n="/be__vblex"/><p><l><b/>able<b/>to</l><r><g><b/>able<b/>to</g></r></p></e>
+    <e lm="be allowed to"><i></i><par n="/be__vblex"/><p><l><b/>allowed<b/>to</l><r><g><b/>allowed<b/>to</g></r></p></e>
     <e lm="be called"><i></i><par n="/be__vblex"/><p><l><b/>called</l><r><g><b/>called</g></r></p></e>
     <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="be consistent"><i></i><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>

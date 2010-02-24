@@ -26,6 +26,10 @@
     <sdef n="sg" /> 
     <sdef n="pl" /> 
     <sdef n="vblex" /> 
+    <sdef n="pp" /> 
+    <sdef n="supn" /> 
+    <sdef n="ppres" /> 
+    <sdef n="ger" /> 
     <sdef n="top" /> 
     <sdef n="al" /> 
     <sdef n="vbser" /> 
@@ -4263,9 +4267,21 @@
     <e><p><l>hafa<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
 
     <e><p><l>geta<s n="vblex"/></l><r>can<s n="vaux"/></r></p></e> <!-- we should look at this, is 'geta' considered modal/aux in is ? -->
+
+    <e><p><l>geta<s n="vblex"/><s n="actv"/><s n="pp"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>geta<s n="vblex"/><s n="actv"/><s n="supn"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>geta<s n="vblex"/><s n="midv"/><s n="supn"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>geta<s n="vblex"/><s n="ppres"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
+
+    <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
+
+    <e><p><l>mega<s n="vaux"/><s n="pp"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>mega<s n="vaux"/><s n="supn"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>mega<s n="vaux"/><s n="ppres"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
+
+
     <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
     <e><p><l>skulu<s n="vaux"/></l><r>shall<s n="vaux"/></r></p></e>
-    <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
 
 <!--<p><l>afgreiða<s n="vblex"/></l><r>dispatch<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>fulfill<s n="vblex"/></r></p></e>-->
@@ -6798,7 +6814,7 @@
 <e><p><l>geta<s n="vblex"/><s n=":3"/></l><r>mention<s n="vblex"/></r></p></e>
 <e><p><l>geta<s n="vblex"/><s n=":4"/></l><r>beget<s n="vblex"/></r></p></e>
 <e><p><l>geysast<s n="vblex"/></l><r>dash<s n="vblex"/></r></p></e>
-<e><p><l>gifta<s n="vblex"/></l><r>give<b/>somebody<b/>in<b/>marriage<s n="vblex"/></r></p></e>
+<e><p><l>gifta<s n="vblex"/></l><r>give<g><b/>in<b/>marriage</g><s n="vblex"/></r></p></e>
 <e><p><l>giftast<s n="vblex"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
 <e><p><l>gildna<s n="vblex"/></l><r>get<b/>fatter<s n="vblex"/></r></p></e>
 <e><p><l>ginna<s n="vblex"/><s n=":1"/></l><r>allure<s n="vblex"/></r></p></e>
@@ -14336,7 +14352,7 @@
     <e><p><l>geta<s n="vblex"/><s n=":3"/></l><r>mention<s n="vblex"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n=":4"/></l><r>beget<s n="vblex"/></r></p></e>
     <e><p><l>geysast<s n="vblex"/></l><r>dash<s n="vblex"/></r></p></e>
-    <e><p><l>gifta<s n="vblex"/></l><r>give<g><b/><b/>in<b/>marriage</g><s n="vblex"/></r></p></e>
+    <e><p><l>gifta<s n="vblex"/></l><r>give<g><b/>in<b/>marriage</g><s n="vblex"/></r></p></e>
     <e><p><l>giftast<s n="vblex"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
     <e><p><l>gildna<s n="vblex"/></l><r>get<b/>fatter<s n="vblex"/></r></p></e>
     <e><p><l>ginna<s n="vblex"/><s n=":1"/></l><r>allure<s n="vblex"/></r></p></e>
@@ -14984,13 +15000,13 @@
     <e><p><l>sefa<s n="vblex"/></l><r>calm<s n="vblex"/></r></p></e>
     <e><p><l>sefja<s n="vblex"/></l><r>influence<b/>by<b/>suggestion<s n="vblex"/></r></p></e>
     <e><p><l>segulmagna<s n="vblex"/></l><r>magnetize<s n="vblex"/></r></p></e>
-    <e><p><l>seilast<s n="vblex"/></l><r>stretch<b/>out<s n="vblex"/></r></p></e>
+    <e><p><l>seilast<s n="vblex"/></l><r>stretch<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>seinka<s n="vblex"/><s n=":0"/></l><r>delay<s n="vblex"/></r></p></e>
-    <e><p><l>seinka<s n="vblex"/><s n=":1"/></l><r>slow<b/>down<s n="vblex"/></r></p></e>
-    <e><p><l>seinka<s n="vblex"/><s n=":2"/></l><r>put<b/>back<s n="vblex"/></r></p></e>
+    <e><p><l>seinka<s n="vblex"/><s n=":1"/></l><r>slow<g><b/>down</g><s n="vblex"/></r></p></e>
+    <e><p><l>seinka<s n="vblex"/><s n=":2"/></l><r>put<g><b/>back</g><s n="vblex"/></r></p></e>
     <e><p><l>seiða<s n="vblex"/><s n=":0"/></l><r>enchant<s n="vblex"/></r></p></e>
-    <e><p><l>seiða<s n="vblex"/><s n=":1"/></l><r>put<b/>a<b/>spell<b/>on<s n="vblex"/></r></p></e>
-    <e><p><l>selflytja<s n="vblex"/></l><r>transport<b/>piece<b/>by<b/>piece<s n="vblex"/></r></p></e>
+    <e><p><l>seiða<s n="vblex"/><s n=":1"/></l><r>put<g><b/>a<b/>spell<b/>on</g><s n="vblex"/></r></p></e>
+    <e><p><l>selflytja<s n="vblex"/></l><r>transport<g><b/>piece<b/>by<b/>piece</g><s n="vblex"/></r></p></e>
     <e><p><l>serða<s n="vblex"/></l><r><b/>penetrate<s n="vblex"/></r></p></e> <!-- (of males, i.e. fuck) -->
     <e><p><l>seytla<s n="vblex"/></l><r>trickle<s n="vblex"/></r></p></e>
     <e><p><l>seyða<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e> <!-- (at a low temperature) -->
