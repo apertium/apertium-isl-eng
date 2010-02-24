@@ -479,9 +479,9 @@
     </pardef>
     
     <pardef n="her__det">
-      <e r="LR"><p>        <l></l>        <r><s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
-      <e r="RL">      <p>        <l></l>        <r><s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
-      <e r="RL">      <p>        <l></l>        <r><s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
+      <e>       <p>        <l></l>        <r><s n="det"/><s n="pos"/><s n="sp"/></r></p></e>
+      <e r="RL"><p>        <l></l>        <r><s n="det"/><s n="pos"/><s n="sg"/></r></p></e>
+      <e r="RL"><p>        <l></l>        <r><s n="det"/><s n="pos"/><s n="pl"/></r></p></e>
     </pardef>
     
     <pardef n="th/is__det">
@@ -11053,6 +11053,7 @@
     <e lm="drought"><i>drought</i><par n="house__n"/></e>
     <e lm="drug"><i>drug</i><par n="house__n"/></e>
     <e lm="drugstore"><i>drugstore</i><par n="house__n"/></e>
+    <e lm="department store"><i>department<b/>store</i><par n="house__n"/></e>
     <e lm="drum"><i>drum</i><par n="house__n"/></e>
     <e lm="drum"><i>drum</i><par n="house__n"/></e>
     <e lm="drunkard"><i>drunkard</i><par n="house__n"/></e>
