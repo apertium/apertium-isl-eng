@@ -81,6 +81,17 @@
      <cat-item tags="vaux.*.inf"/>
   </def-cat>
 
+  <def-cat n="imp">
+     <cat-item tags="vblex.imp.*"/>
+     <cat-item tags="vbser.imp.*"/>
+     <cat-item tags="vbhaver.imp.*"/>
+     <cat-item tags="vblex.*.imp.*"/>
+     <cat-item tags="vblex.imp"/>
+     <cat-item tags="vbser.imp"/>
+     <cat-item tags="vbhaver.imp"/>
+     <cat-item tags="vblex.*.imp"/>
+  </def-cat>
+
   <def-cat n="inf">
      <cat-item tags="vblex.inf.*"/>
      <cat-item tags="vbser.inf.*"/>
@@ -143,6 +154,17 @@
      <cat-item tags="vblex.*.ger"/>
      <cat-item tags="vblex.ppres"/>
      <cat-item tags="vblex.ger"/>
+
+     <cat-item tags="vbhaver.*.ppres"/>
+     <cat-item tags="vbhaver.*.ger"/>
+     <cat-item tags="vbhaver.ppres"/>
+     <cat-item tags="vbhaver.ger"/>
+
+     <cat-item tags="vbser.*.ppres"/>
+     <cat-item tags="vbser.*.ger"/>
+     <cat-item tags="vbser.ppres"/>
+     <cat-item tags="vbser.ger"/>
+
   </def-cat>
 
 <!--
@@ -5682,6 +5704,36 @@
      </out>
    </action>
   </rule>
+
+  <rule comment="REGLA: IMP">
+     <pattern>
+       <pattern-item n="imp"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+           <out>
+             <chunk name="imp" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SV"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
+                 <tag><clip pos="1" side="tl" part="temps"/></tag>
+                 <tag><clip pos="1" side="tl" part="pers"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+              <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_verb"/>
+                 <lit-tag v="inf"/>  
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+     </action>
+  </rule>
+
+
 
 
 </section-rules>

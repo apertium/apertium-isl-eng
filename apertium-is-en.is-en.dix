@@ -3148,6 +3148,7 @@
     <e><p><l>rannsakandi<s n="adv"/></l><r>enquiring<s n="adv"/></r></p></e>
 <!--<p><l>rannsakandi<s n="adv"/></l><r>searching<s n="adv"/></r></p></e>-->
     <e><p><l>raun<b/>og<b/>veru<s n="adv"/></l><r>actually<s n="adv"/></r></p></e> <!-- í raun og veru = actually -->
+    <e><p><l>í<b/>raun<b/>og<b/>veru<s n="adv"/></l><r>actually<s n="adv"/></r></p></e> <!-- í raun og veru = actually -->
     <e><p><l>raunar<s n="adv"/></l><r>actually<s n="adv"/></r></p></e>
 <!--<p><l>raunverulega<s n="adv"/></l><r>actually<s n="adv"/></r></p></e>-->
 <!--<p><l>raunverulega<s n="adv"/></l><r>essentially<s n="adv"/></r></p></e>-->
@@ -26228,5 +26229,8 @@
     <e><p><l>þvert<b/>í<b/>gegnum<s n="pr"/></l><r>straight<b/>through<s n="pr"/></r></p></e>
     <e><p><l>út<b/>frá<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
 
+    <e r="LR"><p><l>svona<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+
+    <e><p><l>að<b/>því<b/>er<b/>ég<b/>best<b/>veit<s n="adv"/></l><r>to<b/>the<b/>best<b/>of<b/>my<b/>knowledge<s n="adv"/></r></p></e>
   </section>
 </dictionary>
