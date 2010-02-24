@@ -2717,7 +2717,7 @@
     <e><p><l>allt<b/>í<b/>einu<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
     <e><p><l>allt<b/>í<b/>lagi<s n="adv"/></l><r>okay<s n="adv"/></r></p></e>
     <e><p><l>alltaf<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
-    <e><p><l>alltof<s n="adv"/></l><r>far<g><b/>too</g><s n="adv"/></r></p></e>
+    <e><p><l>alltof<s n="adv"/></l><r>far<b/>too<s n="adv"/></r></p></e>
 <!--<p><l>almennilega<s n="adv"/></l><r>correctly<s n="adv"/></r></p></e>-->
 <!--<p><l>almennilega<s n="adv"/></l><r>fairly<s n="adv"/></r></p></e>-->
     <e><p><l>almennilega<s n="adv"/></l><r>properly<s n="adv"/></r></p></e>
@@ -2789,7 +2789,7 @@
 <!--<p><l>beint<s n="adv"/></l><r>direct<s n="adv"/></r></p></e>-->
     <e><p><l>beint<s n="adv"/></l><r>straight<s n="adv"/></r></p></e>
     <e><p><l>betur<s n="adv"/></l><r>better<s n="adv"/></r></p></e>
-    <e><p><l>blátt<g><b/>áfram</g><s n="adv"/></l><r>downright<s n="adv"/></r></p></e>
+    <e><p><l>blátt<b/>áfram<s n="adv"/></l><r>downright<s n="adv"/></r></p></e>
 <!--<p><l>blátt<g><b/>áfram</g><s n="adv"/></l><r>simply<s n="adv"/></r></p></e>-->
     <e><p><l>blíðlega<s n="adv"/></l><r>gently<s n="adv"/></r></p></e>
 <!--<p><l>blíðlega<s n="adv"/></l><r>softly<s n="adv"/></r></p></e>-->
@@ -2807,7 +2807,7 @@
 <!--<p><l>daglega<s n="adv"/></l><r>regularly<s n="adv"/></r></p></e>-->
 <!--<p><l>daglega<s n="adv"/></l><r>routinely<s n="adv"/></r></p></e>-->
     <e><p><l>djúpt<s n="adv"/></l><r>deeply<s n="adv"/></r></p></e>
-<!--<p><l>dálítið<s n="adv"/></l><r><g>just<b/>a<b/></g>little<s n="adv"/></r></p></e>-->
+<!--<p><l>dálítið<s n="adv"/></l><r>just<b/>a<b/>little<s n="adv"/></r></p></e>-->
     <e><p><l>dálítið<s n="adv"/></l><r>somewhat<s n="adv"/></r></p></e>
     <e><p><l>ef<b/>til<b/>vill<s n="adv"/></l><r>perhaps<s n="adv"/></r></p></e>
     <e><p><l>eflaust<s n="adv"/></l><r>undoubtedly<s n="adv"/></r></p></e>
@@ -3010,7 +3010,7 @@
     <e><p><l>innan<s n="adv"/></l><r>within<s n="adv"/></r></p></e>
 <!--<p><l>innanborðs<s n="adv"/></l><r>inboard<s n="adv"/></r></p></e>-->
     <e><p><l>innanborðs<s n="adv"/></l><r>inside<s n="adv"/></r></p></e>
-    <e><p><l>innar<s n="adv"/></l><r><g>farther<b/></g>within<s n="adv"/></r></p></e>
+    <e><p><l>innar<s n="adv"/></l><r>farther<b/>within<s n="adv"/></r></p></e>
     <e><p><l>inni<s n="adv"/></l><r>inside<s n="adv"/></r></p></e>
     <e><p><l>iðulega<s n="adv"/></l><r>frequently<s n="adv"/></r></p></e>
 <!--<p><l>iðulega<s n="adv"/></l><r>often<s n="adv"/></r></p></e>-->
@@ -3171,7 +3171,7 @@
     <e><p><l>rólega<s n="adv"/></l><r>slowly<s n="adv"/></r></p></e>
     <e><p><l>rúmlega<s n="adv"/></l><r>in<b/>excess<s n="adv"/></r></p></e>
     <e><p><l>saman<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
-<!--<p><l>samstundis<s n="adv"/></l><r><g>at</>the<b/>same<b/></g>time<s n="adv"/></r></p></e>-->
+<!--<p><l>samstundis<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>-->
 <!--<p><l>samstundis<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>-->
     <e><p><l>samstundis<s n="adv"/></l><r>instantly<s n="adv"/></r></p></e>
 <!--<p><l>samstundis<s n="adv"/></l><r>pronto<s n="adv"/></r></p></e>-->
@@ -3219,7 +3219,7 @@
     <e><p><l>soldið<s n="adv"/></l><r>lil<s n="adv"/></r></p></e> <!-- slang for "svo lítið" -->
 <!--<p><l>soldið<s n="adv"/></l><r>little<s n="adv"/></r></p></e>-->
 <!--<p><l>sosum<s n="adv"/></l><r>anyway<s n="adv"/></r></p></e>--> <!-- slang for "svo sem" -->
-    <e><p><l>sosum<s n="adv"/></l><r>such<g><b/>as</g><s n="adv"/></r></p></e> <!-- slang for "svo sem" -->
+    <e><p><l>sosum<s n="adv"/></l><r>such<b/>as<s n="adv"/></r></p></e> <!-- slang for "svo sem" -->
     <e><p><l>strax<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
     <e><p><l>stríðnislega<s n="adv"/></l><r>teasingly<s n="adv"/></r></p></e>
     <e><p><l>stundum<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
@@ -3293,7 +3293,7 @@
     <e><p><l>upp<s n="adv"/></l><r>up<s n="adv"/></r></p></e>
 <!--<p><l>upphaflega<s n="adv"/></l><r>initially<s n="adv"/></r></p></e>-->
     <e><p><l>upphaflega<s n="adv"/></l><r>originally<s n="adv"/></r></p></e>
-<!--<p><l>upphátt<s n="adv"/></l><r><g>out<b/></g>loud<s n="adv"/></r></p></e>-->
+<!--<p><l>upphátt<s n="adv"/></l><r>out<b/>loud<s n="adv"/></r></p></e>-->
     <e><p><l>upphátt<s n="adv"/></l><r>aloud<s n="adv"/></r></p></e>
     <e><p><l>uppi<s n="adv"/></l><r>above<s n="adv"/></r></p></e>
     <e><p><l>utan<b/>um<s n="adv"/></l><r>around<s n="adv"/></r></p></e>
@@ -13488,7 +13488,7 @@
     <e><p><l>á<b/>seinni<b/>árum<s n="adv"/></l><r>in<b/>recent<b/>years<s n="adv"/></r></p></e>
     <e><p><l>að<b/>mjög<b/>litlu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>very<b/>small<b/>degree<s n="adv"/></r></p></e>
 
-    <e><p><l>því<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e>
+    <e><p><l>því<s n="adv"/></l><r>why<s n="adv"/></r></p></e> <!-- was 'therefore' ??? -->
     <e><p><l>harðlega<s n="adv"/></l><r>strongly<s n="adv"/></r></p></e>
     <e><p><l>réttilega<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
     <e><p><l>ranglega<s n="adv"/></l><r>wrongly<s n="adv"/></r></p></e>
