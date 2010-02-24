@@ -2851,6 +2851,7 @@
     <e><p><l>ekki<b/>lengur<s n="adv"/></l><r>no<b/>longer<s n="adv"/></r></p></e>
     <e><p><l>ekki<b/>nógu<s n="adv"/></l><r>insufficient<s n="adv"/></r></p></e>
     <e><p><l>ekki<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
+    <e r="LR"><p><l>ei<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
 <!--<p><l>eldsnöggt<s n="adv"/></l><r>instantly<s n="adv"/></r></p></e>-->
 <!--<p><l>eldsnöggt<s n="adv"/></l><r>lightning-fast<s n="adv"/></r></p></e>-->
 <!--<p><l>eldsnöggt<s n="adv"/></l><r>rapidly<s n="adv"/></r></p></e>-->
