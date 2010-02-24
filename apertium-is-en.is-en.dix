@@ -121,14 +121,31 @@
       <e><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="nokkur_some__det">
-      <e r="LR"><p><l><s n="sg"/></l><r><s n="sp"/></r></p></e>
-      <e r="LR"><p><l><s n="pl"/></l><r><s n="sp"/></r></p></e>
-      <e r="RL"><p><l><s n="ND"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="ýmis_various__det">
-      <e r="LR"><p><l><s n="sg"/></l><r><s n="pl"/></r></p></e>
-      <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
-      <e r="RL"><p><l><s n="ND"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="pl"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="enginn_no__det">
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="mikill_much__det">
       <e r="LR"><p><l><s n="sg"/></l><r><s n="sg"/></r></p></e>
@@ -3762,15 +3779,7 @@
     <e r="LR"><p><l>báðir<s n="det"/><s n="ind"/><s n="nt"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>báðir<s n="det"/><s n="ind"/><s n="GD"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
 
-    <e r="LR"><p><l>einhver<s n="det"/><s n="ind"/><s n="m"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>einhver<s n="det"/><s n="ind"/><s n="f"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>einhver<s n="det"/><s n="ind"/><s n="nt"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
-    <e r="RL"><p><l>einhver<s n="det"/><s n="ind"/><s n="GD"/></l><r>some<s n="det"/><s n="ind"/></r></p></e>
-
-    <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="m"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="f"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
-    <e r="LR"><p><l>enginn<s n="det"/><s n="ind"/><s n="nt"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
-    <e r="RL"><p><l>enginn<s n="det"/><s n="ind"/><s n="GD"/></l><r>no<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>enginn<s n="det"/><s n="ind"/></l><r>no<s n="det"/><s n="ind"/></r></p><par n="enginn_no__det"/></e>
 
     <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="m"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>neinn<s n="det"/><s n="ind"/><s n="f"/></l><r>any<s n="det"/><s n="ind"/></r></p></e>
@@ -3787,15 +3796,10 @@
     <e r="LR"><p><l>slíkur<s n="det"/><s n="ind"/><s n="nt"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
     <e r="RL"><p><l>slíkur<s n="det"/><s n="ind"/><s n="GD"/></l><r>such<s n="det"/><s n="ind"/></r></p></e>
 
-    <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="m"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
-    <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="f"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
-    <e r="LR"><p><l>ýmis<s n="det"/><s n="ind"/><s n="nt"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
-    <e r="RL"><p><l>ýmis<s n="det"/><s n="ind"/><s n="GD"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
+    <e><p><l>ýmis<s n="det"/><s n="ind"/></l><r>various<s n="det"/><s n="ind"/></r></p><par n="ýmis_various__det"/></e>
 
-    <e r="LR"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="m"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
-    <e r="LR"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="f"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
-    <e r="LR"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
-    <e r="RL"><p><l>nokkur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
+    <e><p><l>einhver<s n="det"/><s n="ind"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
+    <e><p><l>nokkur<s n="det"/><s n="qnt"/></l><r>some<s n="det"/><s n="qnt"/></r></p><par n="nokkur_some__det"/></e>
 
     <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="m"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
     <e r="LR"><p><l>sinn<s n="det"/><s n="pos"/><s n="f"/></l><r>its<s n="det"/><s n="pos"/></r></p></e>
@@ -3808,10 +3812,7 @@
     <e r="LR"><p><l>allur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
     <e r="RL"><p><l>allur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>all<s n="det"/><s n="qnt"/></r></p></e>
 
-    <e r="LR"><p><l>margur<s n="det"/><s n="qnt"/><s n="m"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
-    <e r="LR"><p><l>margur<s n="det"/><s n="qnt"/><s n="f"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
-    <e r="LR"><p><l>margur<s n="det"/><s n="qnt"/><s n="nt"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
-    <e r="RL"><p><l>margur<s n="det"/><s n="qnt"/><s n="GD"/></l><r>many<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>margur<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></p><par n="ýmis_various__det"/></e>
 
     <e r="LR"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="mf"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
     <e r="LR"><p><l>fleiri<s n="det"/><s n="qnt"/><s n="nt"/></l><r>more<s n="det"/><s n="qnt"/></r></p></e>
@@ -8579,8 +8580,12 @@
     <e><p><l>bráð<s n="n"/><s n="f"/></l><r>wild<b/>animal<s n="n"/></r></p></e>
     <e><p><l>bræðslumark<s n="n"/><s n="nt"/></l><r>melting<b/>point<s n="n"/></r></p></e>
     <e><p><l>bréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e> <!-- (mail) -->
-    <e><p><l>brók<s n="n"/><s n="f"/></l><r>drawers<s n="n"/></r></p></e>
-    <!--<e><p><l>brók<s n="n"/><s n="f"/></l><r>pants<s n="n"/></r></p></e>-->
+
+    <e r="LR"><p><l>brók<s n="n"/><s n="f"/><s n="sg"/></l><r>pants<s n="n"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>brók<s n="n"/><s n="f"/><s n="pl"/></l><r>pants<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>brók<s n="n"/><s n="f"/><s n="GD"/></l><r>pants<s n="n"/><s n="pl"/></r></p></e>
+
+    <!--<e><p><l>brók<s n="n"/><s n="f"/></l><r>drawers<s n="n"/></r></p></e>-->
     <e><p><l>bróm<s n="n"/><s n="nt"/></l><r>bromine<s n="n"/></r></p></e>
     <e><p><l>bróðir<s n="n"/><s n="m"/></l><r>brother<s n="n"/></r></p></e>
     <e><p><l>brú<s n="n"/><s n="f"/></l><r>bridge<s n="n"/></r></p></e>
