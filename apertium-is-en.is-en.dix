@@ -88,6 +88,17 @@
       <e><p><l>nóvember<s n="num"/></l><r>November<s n="num"/></r></p></e>
       <e><p><l>desember<s n="num"/></l><r>December<s n="num"/></r></p></e>
     </pardef>
+    <pardef n="minn_mine__prn">
+      <e r="LR"><p><l><s n="mf"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="mf"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="allur_all__prn">
       <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
@@ -315,15 +326,15 @@
     <e><p><l>það<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
     <e r="LR"><p><l>vér<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
-    <e><p><l>minn<s n="prn"/><s n="pos"/></l><r>mine<s n="prn"/><s n="pos"/></r></p></e>
-    <e><p><l>þinn<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p></e>
-    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="nt"/></l><r>its<s n="prn"/><s n="pos"/><s n="nt"/></r></p></e>
-    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="m"/></l><r>his<s n="prn"/><s n="pos"/><s n="m"/></r></p></e>
-    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="f"/></l><r>hers<s n="prn"/><s n="pos"/><s n="f"/></r></p></e>
-    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/><s n="mf"/></l><r>his<s n="prn"/><s n="pos"/><s n="GD"/></r></p></e>
-    <e><p><l>mínir<s n="prn"/><s n="pos"/></l><r>ours<s n="prn"/><s n="pos"/></r></p></e>
-    <e><p><l>þínir<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p></e>
-    <e><p><l>sínir<s n="prn"/><s n="pos"/></l><r>theirs<s n="prn"/><s n="pos"/></r></p></e>
+    <e><p><l>minn<s n="prn"/><s n="pos"/><s n="p1"/></l><r>mine<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>þinn<s n="prn"/><s n="pos"/><s n="p2"/></l><r>yours<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/></l><r>its<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/></l><r>his<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/></l><r>hers<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>sinn<s n="prn"/><s n="pos"/><s n="p3"/></l><r>his<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>mínir<s n="prn"/><s n="pos"/></l><r>ours<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>þínir<s n="prn"/><s n="pos"/></l><r>yours<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
+    <e><p><l>sínir<s n="prn"/><s n="pos"/></l><r>theirs<s n="prn"/><s n="pos"/></r></p><par n="minn_mine__prn"/></e>
 
     <e r="LR"><p><l>sá<s n="prn"/><s n="dem"/><s n="m"/></l><r>the<b/>one<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
     <e r="LR"><p><l>sá<s n="prn"/><s n="dem"/><s n="f"/></l><r>the<b/>one<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
@@ -348,7 +359,9 @@
 
     <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>sumur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>hver<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
     <e><p><l>einhver<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>sérhver<s n="prn"/><s n="ind"/></l><r>everyone<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
     <e><p><l>hvor<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
 
     <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>

@@ -1640,6 +1640,30 @@
            <test>
              <equal>
                <var n="cur_subj_prn"/>
+               <lit v=""/>
+             </equal>
+           </test>
+           <let>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit v="oneself"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="pers"/>
+             <lit-tag v="p3"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="gen"/>
+             <lit-tag v="mf"/>
+           </let>
+           <let>
+             <clip pos="1" side="tl" part="nbr"/>
+             <lit-tag v="sg"/>
+           </let>
+         </when>
+         <when>
+           <test>
+             <equal>
+               <var n="cur_subj_prn"/>
                <lit-tag v="p1.mf.sg"/>
              </equal>
            </test>
@@ -1684,7 +1708,6 @@
              <lit-tag v="sg"/>
            </let>
          </when>
-
          <when>
            <test>
              <equal>
@@ -4091,9 +4114,7 @@
          </otherwise>
        </choose>
      </action>
-  </rule><!-- END rule for noun + nomgen -->
-
-
+  </rule>
 
   <rule comment="REGLA: PRNPERSGEN NOM">
      <pattern>
@@ -4133,8 +4154,104 @@
              </chunk>
            </out>
      </action>
-  </rule><!-- END rule for nouns -->
+  </rule>
 
+  <rule comment="REGLA: PRNPOS">
+     <pattern>
+       <pattern-item n="prn_poss"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="a_prn"/>
+               <lit-tag v="prn.pos"/>
+             </equal>
+           </test>
+           <out>
+             <chunk name="prn_poss" case="caseFirstWord">
+               <tags>
+                 <tag><lit-tag v="SN"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
+                 <tag><lit-tag v="pos"/></tag>
+                 <tag><clip pos="1" side="tl" part="gen"/></tag>
+                 <tag><clip pos="1" side="tl" part="nbr"/></tag>
+               </tags>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="a_prn"/>
+                 <clip pos="1" side="tl" part="gen"/>
+                 <clip pos="1" side="tl" part="nbr"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </chunk>
+           </out>
+         </when>
+         <otherwise>
+           <choose>
+            <when>
+              <test>
+                <and>
+                  <equal>
+                    <clip pos="1" side="sl" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" side="sl" part="nbr"/>
+                    <lit-tag v="pl"/>
+                  </equal>
+                </and>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="gen"/>
+                <lit-tag v="mf"/>
+              </let>
+            </when>
+            <when>
+             <test>
+              <equal>
+                  <clip pos="1" side="sl" part="pers"/>
+                <lit-tag v="p2"/>
+              </equal>
+             </test>
+             <let>
+               <clip pos="1" side="tl" part="nbr"/>
+               <lit-tag v="sp"/>
+             </let>
+            </when>
+           </choose>
+           <out>
+             <chunk name="prn" case="caseFirstWord">
+               <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><var n="cur_syn_tag"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="gen"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                   <clip pos="1" side="tl" part="lemh"/>
+                   <clip pos="1" side="tl" part="a_prn"/>
+                   <lit-tag v="obj"/>
+                   <clip pos="1" side="tl" part="pers"/>
+                   <clip pos="1" side="tl" part="gen"/>
+                   <clip pos="1" side="tl" part="nbr"/>
+                   <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+             </chunk>
+           </out>
+         </otherwise>
+       </choose>
+
+     </action>
+  </rule>
 
   <rule comment="REGLA: NOM PRNPOS">
      <pattern>
@@ -4656,7 +4773,7 @@
         </equal>
        </test>
        <let>
-           <clip pos="1" side="tl" part="nbr"/>
+         <clip pos="1" side="tl" part="nbr"/>
          <lit-tag v="sp"/>
        </let>
       </when>

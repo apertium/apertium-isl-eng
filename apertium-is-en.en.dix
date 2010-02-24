@@ -44718,11 +44718,8 @@
     <e lm="everything"><i>everything</i><par n="everyone__prn"/></e>
     <e lm="many"><i>many</i><par n="both__prn"/></e>
     <e lm="few"><i>few</i><par n="both__prn"/></e>
-    <e lm="hers"><i>hers</i><par n="mine__prn"/></e>
-    <e lm="his"><i>his</i><par n="mine__prn"/></e>
     <e lm="how many"><i>how<b/>many</i><par n="how_many__prn"/></e>
     <e lm="how much"><i>how<b/>much</i><par n="how_much__prn"/></e>
-    <e lm="mine"><i>mine</i><par n="mine__prn"/></e>
     <e lm="most"><i>most</i><par n="both__prn"/></e>
     <e lm="no one"><i>no<b/>one</i><par n="everyone__prn"/></e>
     <e lm="nobody"><i>nobody</i><par n="everyone__prn"/></e>
@@ -44730,7 +44727,6 @@
     <e lm="nothing"><i>nothing</i><par n="everyone__prn"/></e>
     <e lm="one"><i>one</i><par n="the_other__prn"/></e>
     <e lm="others"><i>others</i><par n="both__prn"/></e>
-    <e lm="ours"><i>ours</i><par n="mine__prn"/></e>
     <e lm="several"><i>several</i><par n="both__prn"/></e>
     <e lm="some"><i>some</i><par n="both__prn"/></e>
     <e lm="somebody"><i>somebody</i><par n="everyone__prn"/></e>
@@ -44738,13 +44734,20 @@
     <e lm="something"><i>something</i><par n="something__prn"/></e>
     <e lm="this"><i>th</i><par n="th/is__prn"/></e>
     <e lm="that"><i>th</i><par n="th/at__prn"/></e>
+
+    <e lm="mine"><i>mine</i><par n="mine__prn"/></e>
+    <e lm="yours"><i>yours</i><par n="mine__prn"/></e>
+    <e lm="his"><i>his</i><par n="mine__prn"/></e>
+    <e lm="hers"><i>hers</i><par n="mine__prn"/></e>
+    <e lm="its"><i>its</i><par n="mine__prn"/></e>
+    <e lm="ours"><i>ours</i><par n="mine__prn"/></e>
     <e lm="theirs"><i>theirs</i><par n="mine__prn"/></e>
+
     <e lm="what"><i>what</i><par n="what__prn"/></e>
     <e lm="whatever"><i>whatever</i><par n="everyone__prn"/></e>
     <e lm="which"><i>which</i><par n="what__prn"/></e>
     <e lm="which one"><i>which<b/>one</i><par n="which_one__prn"/></e>
     <e lm="who"><i>who</i><par n="what__prn"/></e>
-    <e lm="yours"><i>yours</i><par n="mine__prn"/></e>
     <e lm="that"><i>that</i><par n="that__rel"/></e>
     <e lm="the one who"><i>the<b/>one<b/>who</i><par n="what__rel"/></e>
     <e lm="the one which"><i>the<b/>one<b/>which</i><par n="what__rel"/></e>
