@@ -1063,15 +1063,15 @@
       <e>      <p>        <l>oing</l>        <r>o<s n="vblex"/><s n="subs"/></r></p></e>
     </pardef>
      
-    <pardef n="dwell__vblex">
-      <e>      <p>        <l></l>        <r><s n="vblex"/><s n="inf"/></r></p></e>
-      <e>      <p>        <l></l>        <r><s n="vblex"/><s n="pres"/></r></p></e>
-      <e>      <p>        <l>s</l>        <r><s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>      <p>        <l>t</l>        <r><s n="vblex"/><s n="past"/></r></p></e>
-      <e>      <p>        <l>t</l>        <r><s n="vblex"/><s n="pp"/></r></p></e>
-      <e>      <p>        <l>ing</l>        <r><s n="vblex"/><s n="ger"/></r></p></e>
-      <e>      <p>        <l>ing</l>        <r><s n="vblex"/><s n="pprs"/></r></p></e>
-      <e>      <p>        <l>ing</l>        <r><s n="vblex"/><s n="subs"/></r></p></e>
+    <pardef n="dwel/l__vblex">
+      <e>      <p>        <l>l</l>        <r>l<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>      <p>        <l>l</l>        <r>l<s n="vblex"/><s n="pres"/></r></p></e>
+      <e>      <p>        <l>ls</l>        <r>l<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l>t</l>        <r>l<s n="vblex"/><s n="past"/></r></p></e>
+      <e>      <p>        <l>t</l>        <r>l<s n="vblex"/><s n="pp"/></r></p></e>
+      <e>      <p>        <l>ling</l>        <r>l<s n="vblex"/><s n="ger"/></r></p></e>
+      <e>      <p>        <l>ling</l>        <r>l<s n="vblex"/><s n="pprs"/></r></p></e>
+      <e>      <p>        <l>ling</l>        <r>l<s n="vblex"/><s n="subs"/></r></p></e>
     </pardef>
 
     <pardef n="accept__vblex">
@@ -31916,7 +31916,7 @@
     <e lm="whiz"><i>whiz</i><par n="whiz__vblex"/></e>
     <e lm="knot"><i>knot</i><par n="admit__vblex"/></e>
 
-    <e lm="dwell"><i>dwell</i><par n="dwell__vblex"/></e>
+    <e lm="dwell"><i>dwel</i><par n="dwel/l__vblex"/></e>
     <e lm="hurt"><i>hurt</i><par n="cost__vblex"/></e>
 
     <e lm="guard"><i>guard</i><par n="accept__vblex"/></e>
