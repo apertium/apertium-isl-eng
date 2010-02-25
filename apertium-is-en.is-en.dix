@@ -12327,8 +12327,8 @@
     <e><p><l>tónskáld<s n="n"/><s n="nt"/></l><r>composer<s n="n"/></r></p></e>
     <e><p><l>töf<s n="n"/><s n="f"/></l><r>delay<s n="n"/></r></p></e>
     <!--<e><p><l>töfrar<s n="n"/><s n="nt"/></l><r>enchantment<s n="n"/></r></p></e>-->
-    <e><p><l>töfrar<s n="n"/><s n="nt"/></l><r>magic<s n="n"/></r></p></e>
     <!--<e><p><l>töfrar<s n="n"/><s n="nt"/></l><r>spell<s n="n"/></r></p></e>-->
+    <e><p><l>töfrar<s n="n"/><s n="m"/></l><r>magic<s n="n"/></r></p></e> <!-- was 'nt' @NOSGIS @ONLYSG -->
     <e><p><l>töfrasproti<s n="n"/><s n="m"/></l><r>magic<b/>wand<s n="n"/></r></p></e>
     <e><p><l>tökuþýðing<s n="n"/><s n="f"/></l><r>calque<s n="n"/></r></p></e>
     <!--<e><p><l>tökuþýðing<s n="n"/><s n="f"/></l><r>loan<b/>translation<s n="n"/></r></p></e>-->
@@ -12603,7 +12603,7 @@
     <e><p><l>vínberjalögur<s n="n"/><s n="m"/></l><r>wine<s n="n"/></r></p></e>
     <e><p><l>víndrykkur<s n="n"/><s n="m"/></l><r>wine<s n="n"/></r></p></e>
     <e><p><l>vínedik<s n="n"/><s n="nt"/></l><r>wine<b/>vinegar<s n="n"/></r></p></e>
-    <e><p><l>vínföng<s n="n"/><s n="m"/></l><r>wine<s n="n"/></r></p></e>
+    <e><p><l>vínföng<s n="n"/><s n="nt"/></l><r>wine<s n="n"/></r></p></e> <!-- @NOSGIS -->
     <e><p><l>víngarður<s n="n"/><s n="m"/></l><r>vineyard<s n="n"/></r></p></e>
     <e><p><l>vír<s n="n"/><s n="m"/></l><r>wire<s n="n"/></r></p></e>
     <!--<e><p><l>vísa<s n="n"/><s n="f"/></l><r>ditty<s n="n"/></r></p></e>-->
@@ -13197,7 +13197,7 @@
     <e><p><l>borgarfulltrúi<s n="n"/><s n="m"/></l><r>councillor<s n="n"/></r></p></e>
     <e><p><l>upplýsingafulltrúi<s n="n"/><s n="m"/></l><r>information<b/>spokesman<s n="n"/></r></p></e>
     <e><p><l>borgarstjórn<s n="n"/><s n="f"/></l><r>city<b/>council<s n="n"/></r></p></e>
-    <e><p><l>býsn<s n="n"/><s n="f"/></l><r>wonder<s n="n"/></r></p></e>
+    <e><p><l>býsn<s n="n"/><s n="nt"/></l><r>wonder<s n="n"/></r></p></e> <!-- @NOSGIS was 'f' -->
     <!--<e><p><l>býsn<s n="n"/><s n="f"/></l><r>load<s n="n"/></r></p></e>-->
     <e><p><l>dráttur<s n="n"/><s n="m"/></l><r>pull<s n="n"/></r></p></e>
     <!--<e><p><l>dráttur<s n="n"/><s n="m"/></l><r>delay<s n="n"/></r></p></e>-->
@@ -13390,9 +13390,9 @@
 
     <!-- TODO:  Fran insert additions here, Martha lightly proofread :) -->
 
-    <e><p><l>Breti<s n="n"/><s n="m"/><s n="sg"/></l><r>Briton<s n="n"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>Breti<s n="n"/><s n="m"/><s n="pl"/></l><r>Briton<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>Breti<s n="n"/><s n="m"/><s n="pl"/></l><r>British<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>breti<s n="n"/><s n="m"/><s n="sg"/></l><r>Briton<s n="n"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>breti<s n="n"/><s n="m"/><s n="pl"/></l><r>Briton<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>breti<s n="n"/><s n="m"/><s n="pl"/></l><r>British<s n="n"/><s n="pl"/></r></p></e>
 
     <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>municipal<b/>manager<s n="n"/></r></p></e>  <!-- ? can the title be 'mayor' if it is a small rural town? -->
     <e><p><l>Hollendingur<s n="n"/><s n="m"/></l><r>Dutch<s n="n"/></r></p></e> 
@@ -13633,6 +13633,8 @@
     <e><p><l>lykilríki<s n="n"/><s n="nt"/></l><r>key<b/>state<s n="n"/></r></p></e> 
     <e><p><l>eyríki<s n="n"/><s n="nt"/></l><r>island<b/>state<s n="n"/></r></p></e> 
     <e><p><l>aðalatriði<s n="n"/><s n="nt"/></l><r>main<b/>point<s n="n"/></r></p></e> 
+    <e><p><l>aðalumboð<s n="n"/><s n="nt"/></l><r>sole<b/>agency<s n="n"/></r></p></e> 
+    <e><p><l>aðalstræti<s n="n"/><s n="nt"/></l><r>main<b/>street<s n="n"/></r></p></e> 
     <e><p><l>vinnudagur<s n="n"/><s n="m"/></l><r>workday<s n="n"/></r></p></e> 
     <e><p><l>undantekning<s n="n"/><s n="f"/></l><r>exception<s n="n"/></r></p></e> 
     <e><p><l>nútími<s n="n"/><s n="m"/></l><r>present<s n="n"/></r></p></e>  <!-- in the present -->
@@ -13985,6 +13987,7 @@
     <e><p><l>Reuters<s n="np"/><s n="al"/><s n="m"/></l><r>Reuters<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e> 
     <e><p><l>Alþýðuflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Social<b/>Democratic<b/>Party<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Landsbanki<s n="np"/><s n="org"/><s n="m"/></l><r>Landsbanki<s n="np"/><s n="org"/></r></p></e>
 
     <e><p><l>RÚV<s n="n"/><s n="acr"/><s n="nt"/></l><r>RÚV<s n="n"/><s n="acr"/></r></p></e>
 
@@ -16983,7 +16986,7 @@
     <e><p><l>felustaður<s n="n"/><s n="m"/></l><r>hiding<b/>place<s n="n"/></r></p></e>
     <e><p><l>femínismi<s n="n"/><s n="m"/></l><r>feminism<s n="n"/></r></p></e>
     <e><p><l>fen<s n="n"/><s n="nt"/></l><r>marsh<s n="n"/></r></p></e>
-    <e><p><l>fengur<s n="n"/><s n=":0"/><s n="m"/></l><r>catch<s n="n"/></r></p></e>
+    <e><p><l>fengur<s n="n"/><s n="m"/></l><r>catch<s n="n"/></r></p></e>
     <e><p><l>fengur<s n="n"/><s n=":1"/><s n="m"/></l><r>gain<s n="n"/></r></p></e>
     <e><p><l>ferhyrningur<s n="n"/><s n="m"/></l><r>square<s n="n"/></r></p></e>
     <e><p><l>ferlíki<s n="n"/><s n="nt"/></l><r>monster<s n="n"/></r></p></e>
@@ -26575,6 +26578,12 @@
     <e><p><l>þvæla<s n="n"/><s n="f"/></l><r>drivel<s n="n"/></r></p></e> <!-- @ONLYSG -->
     <e><p><l>þvinga<s n="n"/><s n="f"/></l><r>clamp<s n="n"/></r></p></e>
 
+    <e><p><l>kaupstaðarréttindi<s n="n"/><s n="nt"/></l><r>consumer<b/>rights<s n="n"/></r></p></e> <!-- @NOSGIS @ONLYPL -->
+    <e><p><l>bókmenntaverðlaun<s n="n"/><s n="nt"/></l><r>literature<s n="n"/></r></p></e> <!-- @NOSGIS @ONLYSG -->
+    <e><p><l>átök<s n="n"/><s n="nt"/></l><r>fight<s n="n"/></r></p></e> <!-- @NOSGIS -->
+    <e><p><l>sannindi<s n="n"/><s n="nt"/></l><r>truth<s n="n"/></r></p></e> <!-- @NOSGIS -->
+    <e><p><l>vesturlönd<s n="n"/><s n="nt"/></l><r>West<s n="n"/></r></p></e> <!-- @NOSGIS -->
+    <e><p><l>vitsmunir<s n="n"/><s n="f"/></l><r>intellect<s n="n"/></r></p></e> <!-- @NOSGIS -->
 
 
   </section>
