@@ -8754,6 +8754,7 @@
     <e lm="awl"><i>awl</i><par n="house__n"/></e>
     <e lm="bachelor"><i>bachelor</i><par n="house__n"/></e>
     <e lm="back"><i>back</i><par n="house__n"/></e>
+    <e lm="back of the head"><i>back</i><par n="house__n"/><p><l><b/>of<b/>the<b/>head</l><r><g><b/>of<b/>the<b/>head</g></r></p></e>
     <e lm="backpack"><i>backpack</i><par n="house__n"/></e>
     <e lm="bacteria"><i>bacteria</i><par n="staff__n"/></e>
     <e lm="barbarian"><i>barbarian</i><par n="house__n"/></e>
@@ -8869,6 +8870,7 @@
     <e lm="email"><i>email</i><par n="house__n"/></e>
     <e lm="endeavour"><i>endeavour</i><par n="house__n"/></e>
     <e lm="end"><i>end</i><par n="house__n"/></e>
+    <e lm="end of the world"><i>end</i><par n="house__n"/><p><l><b/>of<b/>the<b/>world</l><r><g><b/>of<b/>the<b/>world</g></r></p></e>
     <e lm="errand"><i>errand</i><par n="house__n"/></e>
     <e lm="essential"><i>essential</i><par n="house__n"/></e>
     <e lm="eyelid"><i>eyelid</i><par n="house__n"/></e>
@@ -8927,6 +8929,7 @@
     <e lm="heroin"><i>heroin</i><par n="house__n"/></e>
     <e lm="hideout"><i>hideout</i><par n="house__n"/></e>
     <e lm="high court"><i>high<b/>court</i><par n="east__n"/></e>
+    <e lm="high court of Iceland"><i>high<b/>court</i><par n="east__n"/><p><l><b/>of<b/>Iceland</l><r><g><b/>of<b/>Iceland</g></r></p></e>
     <e lm="hillock"><i>hillock</i><par n="house__n"/></e>
     <e lm="hillside"><i>hillside</i><par n="house__n"/></e>
     <e lm="hoarding"><i>hoarding</i><par n="house__n"/></e>
@@ -9000,6 +9003,18 @@
     <e lm="ministry"><i>ministr</i><par n="bab/y__n"/></e>
     <e lm="minus"><i>minus</i><par n="access__n"/></e>
     <e lm="mistress"><i>mistress</i><par n="access__n"/></e>
+
+    <e lm="mistress of the house"><i>mistress</i><par n="access__n"/><p><l>of<b/>the<b/>house</l><r><g>of<b/>the<b/>house</g></r></p></e>
+    <e lm="blink of an eye"><i>blink</i><par n="house__n"/><p><l>of<b/>an<b/>eye</l><r><g>of<b/>an<b/>eye</g></r></p></e>
+    <e lm="time of arrival"><i>time</i><par n="house__n"/><p><l>of<b/>arrival</l><r><g>of<b/>arrival</g></r></p></e>
+    <e lm="ear of corn"><i>ear</i><par n="house__n"/><p><l>of<b/>corn</l><r><g>of<b/>corn</g></r></p></e>
+    <e lm="beginning of the year"><i>beginning</i><par n="house__n"/><p><l>of<b/>the<b/>year</l><r><g>of<b/>the<b/>year</g></r></p></e>
+    <e lm="prisoner of war"><i>prisoner</i><par n="house__n"/><p><l>of<b/>war</l><r><g>of<b/>war</g></r></p></e>
+    <e lm="division of labour"><i>division</i><par n="house__n"/><p><l>of<b/>labour</l><r><g>of<b/>labour</g></r></p></e>
+    <e lm="deck of cards"><i>deck</i><par n="house__n"/><p><l>of<b/>cards</l><r><g>of<b/>cards</g></r></p></e>
+    <e lm="coat of arms"><i>coat</i><par n="house__n"/><p><l>of<b/>arms</l><r><g>of<b/>arms</g></r></p></e>
+    <e lm="work of art"><i>work</i><par n="house__n"/><p><l>of<b/>art</l><r><g>of<b/>art</g></r></p></e>
+
     <e lm="mitten"><i>mitten</i><par n="house__n"/></e>
     <e lm="mixture"><i>mixture</i><par n="house__n"/></e>
     <e lm="mobile phone"><i>mobile<b/>phone</i><par n="house__n"/></e>
@@ -9157,6 +9172,7 @@
     <e lm="time"><i>time</i><par n="house__n"/></e>
     <e lm="tomb"><i>tomb</i><par n="house__n"/></e>
     <e lm="tone"><i>tone</i><par n="house__n"/></e>
+    <e lm="tone of voice"><i>tone</i><par n="house__n"/><p><l><b/>of<b/>voice</l><r><g><b/>of<b/>voice</g></r></p></e>
     <e lm="toothpaste"><i>toothpaste</i><par n="house__n"/></e>
     <e lm="traitor"><i>traitor</i><par n="house__n"/></e>
     <e lm="tranquility"><i>tranquilit</i><par n="bab/y__n"/></e>
@@ -12470,6 +12486,7 @@
     <e lm="min."><p><l>min.</l><r>min.</r></p><par n="east__n"/></e>
     <e lm="minaret"><i>minaret</i><par n="house__n"/></e>
     <e lm="mind"><i>mind</i><par n="house__n"/></e>
+    <e lm="clove of garlic"><i>mind</i><par n="house__n"/><p><l><b/>of<b/>garlic</l><r><g><b/>of<b/>garlic</g></r></p></e>
     <e lm="mine"><i>mine</i><par n="house__n"/></e>
     <e lm="miner"><i>miner</i><par n="house__n"/></e>
     <e lm="mineral"><i>mineral</i><par n="house__n"/></e>
@@ -14581,6 +14598,7 @@
     <e lm="waitress"><i>waitress</i><par n="access__n"/></e>
     <e lm="walk"><i>walk</i><par n="house__n"/></e>
     <e lm="wall"><i>wall</i><par n="house__n"/></e>
+    <e lm="wall of defence"><i>wall</i><par n="house__n"/><p><l><b/>of<b/>defence</l><r><g><b/>of<b/>defence</g></r></p></e>
     <e lm="walnut"><i>walnut</i><par n="house__n"/></e>
     <e lm="wand"><i>wand</i><par n="house__n"/></e>
     <e lm="war"><i>war</i><par n="house__n"/></e>
@@ -14958,6 +14976,7 @@
    <e lm="navel"><i>navel</i><par n="house__n"/>     </e>
    <e lm="nickel"><i>nickel</i><par n="house__n"/>     </e>
    <e lm="night"><i>night</i><par n="house__n"/>    </e>
+   <e lm="night before"><i>night</i><par n="house__n"/><p><l><b/>before</l><r><g><b/>before</g></r></p>    </e>
    <e lm="niobium"><i>niobium</i><par n="house__n"/>     </e>
    <e lm="nostril"><i>nostril</i><par n="house__n"/>     </e>
    <e lm="oboe"><i>oboe</i><par n="house__n"/>     </e>
@@ -30650,6 +30669,7 @@
     <e lm="cleansing"><i>cleansing</i><par n="expensive__adj"/></e>
     <e r="RL"><i>fighting</i><par n="expensive__adj"/></e>
     <e lm="master"><i>master</i><par n="expensive__adj"/></e>
+    <e lm="master of the house"><i>master</i><par n="expensive__adj"/><p><l><b/>of<b/>the<b/>house</l><r><g><b/>of<b/>the<b/>house</g></r></p></e>
     <e r="RL"><i>sailor</i><par n="expensive__adj"/></e>
     <e lm="maximalist"><i>maximalist</i><par n="expensive__adj"/></e>
     <e lm="wholesale"><i>wholesale</i><par n="expensive__adj"/></e>

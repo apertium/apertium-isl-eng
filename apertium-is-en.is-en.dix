@@ -12257,6 +12257,7 @@
     <e><p><l>trú<s n="n"/><s n="f"/></l><r>faith<s n="n"/></r></p></e>
     <e><p><l>trúarbragð<s n="n"/><s n="nt"/><s n="pl"/></l><r>religion<s n="n"/><s n="sg"/></r></p></e>
     <e><p><l>trúfrelsi<s n="n"/><s n="nt"/></l><r>freedom<g><b/>of<b/>religion</g><s n="n"/></r></p></e>
+<!--    <e><p><l>trúfrelsi<s n="n"/><s n="nt"/></l><r>religious<b/>freedom<s n="n"/></r></p></e>-->
     <e><p><l>trúleysi<s n="n"/><s n="nt"/></l><r>atheism<s n="n"/></r></p></e>
     <e><p><l>trúnaður<s n="n"/><s n="m"/></l><r>confidentiality<s n="n"/></r></p></e>
     <!--<e><p><l>trúnaður<s n="n"/><s n="m"/></l><r>faith<s n="n"/></r></p></e>-->
@@ -22530,7 +22531,6 @@
     <e><p><l>trúarsetning<s n="n"/><s n="f"/></l><r>doctrine<s n="n"/></r></p></e>
     <e><p><l>trúboð<s n="n"/><s n="nt"/></l><r>mission<s n="n"/></r></p></e>
     <e><p><l>trúboði<s n="n"/><s n="m"/></l><r>missionary<s n="n"/></r></p></e>
-    <e><p><l>trúfrelsi<s n="n"/><s n="nt"/></l><r>religious<b/>freedom<s n="n"/></r></p></e>
     <e><p><l>trúfélag<s n="n"/><s n="nt"/></l><r>religious<b/>community<s n="n"/></r></p></e>
     <e><p><l>trúleysingi<s n="n"/><s n="m"/></l><r>atheist<s n="n"/></r></p></e>
     <e><p><l>trúlofun<s n="n"/><s n="f"/></l><r>engagement<s n="n"/></r></p></e>
@@ -22692,7 +22692,7 @@
     <e><p><l>umhirða<s n="n"/><s n="f"/></l><r>care<s n="n"/></r></p></e>
     <e><p><l>umhugsun<s n="n"/><s n="f"/></l><r>consideration<s n="n"/></r></p></e>
     <e><p><l>umhverfismat<s n="n"/><s n="nt"/></l><r>environmental<b/>impact<b/>assessment<s n="n"/></r></p></e>
-    <e><p><l>umhverfisráðherra<s n="n"/><s n="m"/></l><r>minister<b/>of<b/>the<b/>environment<s n="n"/></r></p></e>
+    <e><p><l>umhverfisráðherra<s n="n"/><s n="m"/></l><r>minister<g><b/>of<b/>the<b/>environment</g><s n="n"/></r></p></e>
     <e><p><l>umhverfisvernd<s n="n"/><s n="f"/></l><r>environmental<b/>protection<s n="n"/></r></p></e>
     <e><p><l>umhyggja<s n="n"/><s n="f"/></l><r>care<s n="n"/></r></p></e>
     <e><p><l>umkvörtun<s n="n"/><s n="f"/></l><r>complaint<s n="n"/></r></p></e>
