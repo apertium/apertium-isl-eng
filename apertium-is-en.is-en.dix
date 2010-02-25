@@ -26423,6 +26423,20 @@
     <e><p><l>kvak<s n="n"/><s n="nt"/></l><r>twittering<s n="n"/></r></p></e> <!-- @NOSGIS -->
     <e><p><l>kynkvísl<s n="n"/><s n="f"/></l><r>subgroup<s n="n"/></r></p></e>
 
+    <e><p><l>læknisaðstoð<s n="n"/><s n="f"/></l><r>medical<b/>assistance<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>landmótunarfræði<s n="n"/><s n="f"/></l><r>geomorphology<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>lánþýðing<s n="n"/><s n="f"/></l><r>loan<b/>translation<s n="n"/></r></p></e>
+    <e><p><l>latínuskóli<s n="n"/><s n="m"/></l><r>latin<b/>school<s n="n"/></r></p></e>
+    <e><p><l>leikstjórn<s n="n"/><s n="f"/></l><r>director<s n="n"/></r></p></e>
+    <e><p><l>letiblóð<s n="n"/><s n="nt"/></l><r>lazybones<s n="n"/></r></p></e> 
+    <e><p><l>leyti<s n="n"/><s n="nt"/></l><r>respect<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>lindifura<s n="n"/><s n="f"/></l><r>Swiss<b/>pine<s n="n"/></r></p></e>
+    <e><p><l>lithimna<s n="n"/><s n="f"/></l><r>iris<s n="n"/></r></p></e>
+    <e><p><l>ljósbjalla<s n="n"/><s n="f"/></l><r>glow-worm<s n="n"/></r></p></e>
+    <e><p><l>lofðungur<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e>
+    <e><p><l>lofttóm<s n="n"/><s n="nt"/></l><r>vacuum<s n="n"/></r></p></e>
+    <e><p><l>lystarleysi<s n="n"/><s n="nt"/></l><r>anorexia<s n="n"/></r></p></e> <!-- @ONLYSG -->
+
 
   </section>
 </dictionary>
