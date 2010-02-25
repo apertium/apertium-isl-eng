@@ -1126,7 +1126,6 @@
 <!--<p><l>hinstur<s n="adj"/></l><r>closing<s n="adj"/></r></p></e>-->
 <!--<p><l>hinstur<s n="adj"/></l><r>concluding<s n="adj"/></r></p></e>-->
 <!--<p><l>hinstur<s n="adj"/></l><r>final<s n="adj"/></r></p></e>-->
-    <e><p><l>hinstur<s n="adj"/></l><r>last<s n="adj"/></r></p></e>
     <e><p><l>hissa<s n="adj"/></l><r>surprised<s n="adj"/></r></p></e>
     <e><p><l>hlaðinn<s n="adj"/></l><r>loaded<s n="adj"/></r></p></e>
 <!--<p><l>hljóðlátur<s n="adj"/></l><r>noiseless<s n="adj"/></r></p></e>-->
@@ -2021,9 +2020,10 @@
 <!--<p><l>sífelldur<s n="adj"/></l><r>nonstop<s n="adj"/></r></p></e>-->
 <!--<p><l>sífelldur<s n="adj"/></l><r>unceasing<s n="adj"/></r></p></e>-->
 <!--<p><l>sífelldur<s n="adj"/></l><r>unrelenting<s n="adj"/></r></p></e>-->
-    <e><p><l>síðari<s n="adj"/></l><r>later<s n="adj"/></r></p></e>
     <e><p><l>síðarnefndur<s n="adj"/></l><r>latter<s n="adj"/></r></p></e>
-    <e><p><l>síðastliðinn<s n="adj"/></l><r>last<s n="adj"/></r></p></e>
+    <e><p><l>síðari<s n="adj"/></l><r>late<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hinstur<s n="adj"/></l><r>last<s n="adj"/><s n="ord"/></r></p></e>
+    <e><p><l>síðastliðinn<s n="adj"/></l><r>last<s n="adj"/><s n="ord"/></r></p></e>
 <!--<p><l>síður<s n="adj"/></l><r>long<s n="adj"/></r></p></e>-->
     <e><p><l>síður<s n="adj"/></l><r>rather<g><b/>not</g><s n="adj"/></r></p></e>
     <e><p><l>sögulegur<s n="adj"/></l><r>historic<s n="adj"/></r></p></e>
