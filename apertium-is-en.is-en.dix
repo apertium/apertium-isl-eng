@@ -13097,8 +13097,6 @@
     <e><p><l>Indverji<s n="n"/><s n="m"/></l><r>Indian<s n="n"/></r></p></e>
     <e><p><l>Spánverji<s n="n"/><s n="m"/></l><r>Spaniard<s n="n"/></r></p></e>
     <e><p><l>möguleiki<s n="n"/><s n="m"/></l><r>possibility<s n="n"/></r></p></e>
-    <e><p><l>Seðlabanki<s n="n"/><s n="m"/></l><r>Central<b/>bank<s n="n"/></r></p></e>
-    <e><p><l>Landsbanki<s n="n"/><s n="m"/></l><r>Landsbanki<s n="n"/></r></p></e>
     <e><p><l>smali<s n="n"/><s n="m"/></l><r>shepherd<s n="n"/></r></p></e>
     <e><p><l>Ítali<s n="n"/><s n="m"/></l><r>Italian<s n="n"/></r></p></e>
     <!--<e><p><l>tónlistarskóli<s n="n"/><s n="m"/></l><r>conservatory<s n="n"/></r></p></e>-->
@@ -13410,7 +13408,6 @@
     <e><p><l>Þjóðleikhús<s n="n"/><s n="nt"/></l><r>The<b/>National<b/>Theatre<s n="n"/></r></p></e> <!-- np ? -->
     <e><p><l>Ríkisútvarp<s n="n"/><s n="nt"/></l><r>The<b/>State<b/>Radio<s n="n"/></r></p></e>  <!-- np ? -->
     <e><p><l>framsóknarflokkur<s n="n"/><s n="m"/></l><r>progressive<b/>party<s n="n"/></r></p></e>
-    <e><p><l>morgunblað<s n="n"/><s n="nt"/></l><r>morgunblað<s n="n"/></r></p></e> <!--NP?-->
     <e><p><l>ríkisútvarp<s n="n"/><s n="nt"/></l><r>national<b/>broadcaster<s n="n"/></r></p></e>
 
     <e><p><l>draga<b/>á<b/>langinn<s n="n"/><s n="m"/></l><r>prolong<s n="n"/></r></p></e> <!--??? check category -->
@@ -13930,7 +13927,6 @@
     <e><p><l>já<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
     <e><p><l>takk<b/>samt<s n="ij"/></l><r>thanks<b/>anyway<s n="ij"/></r></p></e>
 
-    <e><p><l>seðlabanki<s n="n"/><s n="m"/></l><r>central<b/>bank<s n="n"/></r></p></e> <!-- NP.AL? -->
 
     <e><p><l>Sovétríki<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/></l><r>Soviet<b/>Union<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Kúrdistan<s n="np"/><s n="top"/><s n="nt"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
@@ -13988,6 +13984,9 @@
     <e><p><l>Samfylking<s n="np"/><s n="org"/><s n="f"/></l><r>Social<b/>Democratic<b/>Alliance<s n="np"/><s n="org"/></r></p></e> 
     <e><p><l>Alþýðuflokkur<s n="np"/><s n="org"/><s n="m"/></l><r>Social<b/>Democratic<b/>Party<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>Landsbanki<s n="np"/><s n="org"/><s n="m"/></l><r>Landsbanki<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Íslandsbanki<s n="np"/><s n="org"/><s n="m"/></l><r>Íslandsbanki<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Seðlabanki<s n="np"/><s n="org"/><s n="m"/></l><r>Seðlabanki<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Morgunblað<s n="np"/><s n="al"/><s n="nt"/></l><r>Morgunblað<s n="np"/><s n="al"/></r></p></e> 
 
     <e><p><l>RÚV<s n="n"/><s n="acr"/><s n="nt"/></l><r>RÚV<s n="n"/><s n="acr"/></r></p></e>
 

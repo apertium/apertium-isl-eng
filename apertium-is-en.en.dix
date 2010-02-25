@@ -2566,6 +2566,8 @@
     <e lm="United Nations"><par n="Uu"/><i>nited<b/>Nations</i><par n="United_Nations__np"/></e>
     <e lm="Wikimedia"><i>Wikimedia</i><par n="Wikimedia__np"/></e>
     <e lm="Landsbanki"><i>Landsbanki</i><par n="Wikimedia__np"/></e>
+    <e lm="Íslandsbanki"><i>Íslandsbanki</i><par n="Wikimedia__np"/></e>
+    <e lm="Seðlabanki"><i>Seðlabanki</i><par n="Wikimedia__np"/></e>
     <e lm="Independence Party"><par n="Ii"/><i>ndependence<b/>Party</i><par n="Wikimedia__np"/></e>
 
 	
@@ -8481,6 +8483,7 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/></e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/></e>
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
+    <e lm="Morgunblað"><par n="Mm"/><i>orgunblað</i><par n="Linux__np"/></e>
     <e lm="Wikipedia"><par n="Ww"/><i>ikipedia</i><par n="Wikipedia__np"/></e>
     <e lm="Icesave"><par n="Ii"/><i>cesave</i><par n="Linux__np"/></e>
     <e lm="Reuters"><par n="Rr"/><i>euters</i><par n="Linux__np"/></e>
