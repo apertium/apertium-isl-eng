@@ -4199,7 +4199,8 @@
     <e><p><l>Kúba<s n="np"/><s n="top"/><s n="nt"/></l><r>Cuba<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Lettland<s n="np"/><s n="top"/><s n="nt"/></l><r>Latvia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Litháen<s n="np"/><s n="top"/><s n="nt"/></l><r>Lithuania<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+    <e r="LR"><p><l>London<s n="np"/><s n="top"/><s n="nt"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Lundúnir<s n="np"/><s n="top"/><s n="f"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Álftanes<s n="np"/><s n="top"/><s n="nt"/></l><r>Álftanes<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbería<s n="np"/><s n="top"/><s n="nt"/></l><r>Liberia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líbýa<s n="np"/><s n="top"/><s n="nt"/></l><r>Libya<s n="np"/><s n="top"/></r></p></e>
