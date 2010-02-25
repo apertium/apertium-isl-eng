@@ -203,7 +203,7 @@ SUBSTITUTE (pr :0) (pr :2) ("á"ri) (1C BUILDINGS);
 
 # "sem" :
 #      0:"that"
-SUBSTITUTE (rel) (rel :0) ("sem"ri);
+#SUBSTITUTE (rel) (rel :0) ("sem"ri);
 
 ##
 ## ADJECTIVES 
