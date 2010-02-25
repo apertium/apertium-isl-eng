@@ -13323,6 +13323,22 @@
 
     <e lm="prime minister"><i>prime<b/>minister</i><par n="house__n"/></e>
     <e lm="foreign minister"><i>foreign<b/>minister</i><par n="house__n"/></e>
+
+    <e lm="ministry of health"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Health</l><r><g><b/>of<b/>health</g></r></p></e>
+    <e lm="ministry of justice and human rights"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Justice<b/>and<b/>Human<b/>Rights</l><r><g><b/>of<b/>justice<b/>and<b/>human<b/>rights</g></r></p></e>
+    <e lm="ministry of fisheries and agriculture"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Fisheries<b/>and<b/>Agriculture</l><r><g><b/>of<b/>fisheries<b/>and<b/>agriculture</g></r></p></e>
+    <e lm="ministry of industry, energy and tourism"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Industry,<b/>Energy<b/>and<b/>Tourism</l><r><g><b/>of<b/>industry,<b/>energy<b/>and<b/>tourism</g></r></p></e>
+    <e lm="ministry of education, science and culture"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Education,<b/>Science<b/>and<b/>Culture</l><r><g><b/>of<b/>education,<b/>science<b/>and<b/>culture</g></r></p></e>
+    <e lm="ministry of transport, communications and local government"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Transport,<b/>Communications<b/>and<b/>Local<b/>Government</l><r><g><b/>of<b/>transport,<b/>communications<b/>and<b/>local<b/>government</g></r></p></e>
+    <e lm="ministry of justice"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Justice</l><r><g><b/>of<b/>justice</g></r></p></e>
+    <e lm="ministry of finance"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Finance</l><r><g><b/>of<b/>finance</g></r></p></e>
+    <e lm="ministry of economic affairs"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Economic<b/>Affairs</l><r><g><b/>of<b/>economic<b/>affairs</g></r></p></e>
+    <e lm="ministry of social affairs and social security"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>of<b/>Social<b/>Affairs<b/>and<b/>Social<b/>Security</l><r><g><b/>of<b/>social<b/>affairs<b/>and<b/>social<b/>security</g></r></p></e>
+    <e lm="ministry for the environment"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>for<b/>The<b/>Environment</l><r><g><b/>for<b/>the<b/>environment</g></r></p></e>
+    <e lm="ministry for foreign affairs"><par n="Mm"/><i>inistr</i><par n="bab/y__n"/><p><l><b/>for<b/>The<b/>Environment</l><r><g><b/>for<b/>foreign<b/>affairs</g></r></p></e>
+
+
+
     <e lm="minister of health"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Health</l><r><g><b/>of<b/>health</g></r></p></e>
     <e lm="minister of justice and human rights"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Justice<b/>and<b/>Human<b/>Rights</l><r><g><b/>of<b/>justice<b/>and<b/>human<b/>rights</g></r></p></e>
     <e lm="minister of fisheries and agriculture"><par n="Mm"/><i>inister</i><par n="house__n"/><p><l><b/>of<b/>Fisheries<b/>and<b/>Agriculture</l><r><g><b/>of<b/>fisheries<b/>and<b/>agriculture</g></r></p></e>
@@ -13587,6 +13603,7 @@
     <e lm="offer"><i>offer</i><par n="house__n"/></e>
     <e lm="office"><i>office</i><par n="house__n"/></e>
     <e lm="head office"><i>head<b/>office</i><par n="house__n"/></e>
+    <e lm="Primer Minister's Office"><par n="Pp"/><i>rime<b/>Minister's<b/>Office</i><par n="house__n"/></e>
     <e lm="officer"><i>officer</i><par n="house__n"/></e>
     <e lm="official"><i>official</i><par n="house__n"/></e>
     <e lm="officiality"><i>officialit</i><par n="bab/y__n"/></e>
