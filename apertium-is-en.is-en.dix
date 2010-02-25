@@ -26461,6 +26461,121 @@
     <e><p><l>norðnorðvestur<s n="n"/><s n="nt"/></l><r>north<b/>north-west<s n="n"/></r></p></e>
     <e><p><l>nýstirni<s n="n"/><s n="nt"/></l><r>nova<s n="n"/></r></p></e>
 
+    <e><p><l>óminni<s n="n"/><s n="nt"/></l><r>forgetfulness<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>öndunarkerfi<s n="n"/><s n="nt"/></l><r>respitory<b/>system<s n="n"/></r></p></e>
+    <e><p><l>öndunarstopp<s n="n"/><s n="nt"/></l><r>respitory<b/>arrest<s n="n"/></r></p></e>
+    <e><p><l>öndunarvél<s n="n"/><s n="f"/></l><r>respirator<s n="n"/></r></p></e>
+    <e><p><l>opnunartími<s n="n"/><s n="m"/></l><r>opening<b/>hours<s n="n"/></r></p></e> <!-- @ONLYPL -->
+    <e><p><l>orkufræði<s n="n"/><s n="f"/></l><r>energy<b/>science<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>ó<s n="n"/><s n="nt"/></l><r>ó<s n="n"/></r></p></e>
+    <e><p><l>persónubeyging<s n="n"/><s n="f"/></l><r>inflection<g><b/>for<b/>person</g><s n="n"/></r></p></e>
+    <e><p><l>piparmey<s n="n"/><s n="f"/></l><r>spinster<s n="n"/></r></p></e>
+    <e><p><l>plebbi<s n="n"/><s n="m"/></l><r>pleb<s n="n"/></r></p></e>
+    <e><p><l>pokabjörn<s n="n"/><s n="m"/></l><r>koala<s n="n"/></r></p></e>
+    <e><p><l>prófkjörsdagur<s n="n"/><s n="m"/></l><r>election<b/>day<s n="n"/></r></p></e>
+    <e><p><l>púkabit<s n="n"/><s n="nt"/></l><r>devil's<b/>bit<b/>scabious<s n="n"/></r></p></e>
+    <e><p><l>púma<s n="n"/><s n="f"/></l><r>puma<s n="n"/></r></p></e>
+
+    <e><p><l>ráðamaður<s n="n"/><s n="m"/></l><r>councillor<s n="n"/></r></p></e>
+    <e><p><l>rafmagnsfiðla<s n="n"/><s n="f"/></l><r>electric<b/>violin<s n="n"/></r></p></e>
+    <e><p><l>rannsóknaráætlun<s n="n"/><s n="f"/></l><r>research<b/>plan<s n="n"/></r></p></e>
+    <e><p><l>rannsóknarverkefni<s n="n"/><s n="nt"/></l><r>research<b/>assignment<s n="n"/></r></p></e>
+    <e><p><l>rás<s n="n"/><s n="nt"/></l><r>run<s n="n"/></r></p></e>
+    <e><p><l>regnbogahimna<s n="n"/><s n="f"/></l><r>iris<s n="n"/></r></p></e>
+    <e><p><l>reiðstígvél<s n="n"/><s n="f"/></l><r>riding<b/>boot<s n="n"/></r></p></e>
+    <e><p><l>ríkisdalur<s n="n"/><s n="m"/></l><r>US<b/>dollar<s n="n"/></r></p></e>
+    <e><p><l>rímnaflæði<s n="n"/><s n="f"/></l><r>rap<s n="n"/></r></p></e> <!-- @ONLYSG @NOPLIS -->
+    <e><p><l>ritverk<s n="n"/><s n="nt"/></l><r>publication<s n="n"/></r></p></e>
+    <e><p><l>rússi<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
+    <e><p><l>rútufyrirtæki<s n="n"/><s n="nt"/></l><r>bus<b/>company<s n="n"/></r></p></e>
+
+    <e><p><l>sálnaflakk<s n="n"/><s n="nt"/></l><r>transmigration<g><b/>of<b/>souls</g><s n="n"/></r></p></e>
+    <e><p><l>samvistarfall<s n="n"/><s n="nt"/></l><r>comitative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>sandlægja<s n="n"/><s n="f"/></l><r>grey<b/>whale<s n="n"/></r></p></e>
+    <e><p><l>sanngildi<s n="n"/><s n="nt"/></l><r>truth<s n="n"/></r></p></e>
+    <e><p><l>setbein<s n="n"/><s n="nt"/></l><r>hip<b/>bone<s n="n"/></r></p></e>
+    <e><p><l>silfurmáfur<s n="n"/><s n="m"/></l><r>herring<b/>gull<s n="n"/></r></p></e>
+    <e><p><l>silkitoppa<s n="n"/><s n="f"/></l><r>waxwing<s n="n"/></r></p></e>
+    <e><p><l>símakerfi<s n="n"/><s n="nt"/></l><r>telephone<b/>network<s n="n"/></r></p></e>
+    <e><p><l>sjálfsmorðsflugmaður<s n="n"/><s n="m"/></l><r>suicide<b/>pilot<s n="n"/></r></p></e>
+    <e><p><l>sjálfstæðismaður<s n="n"/><s n="m"/></l><r>conservative<s n="n"/></r></p></e> <!-- a conservative -->
+    <e><p><l>sjávarspendýr<s n="n"/><s n="nt"/></l><r>marine<b/>mammal<s n="n"/></r></p></e>
+    <e><p><l>sjóna<s n="n"/><s n="f"/></l><r>retina<s n="n"/></r></p></e>
+    <e><p><l>sjónhimna<s n="n"/><s n="f"/></l><r>retina<s n="n"/></r></p></e>
+    <e><p><l>sjónulos<s n="n"/><s n="nt"/></l><r>retinal<b/>detachment<s n="n"/></r></p></e> 
+    <e><p><l>sjónurof<s n="n"/><s n="nt"/></l><r>retinoschisis<s n="n"/></r></p></e>
+    <e><p><l>sjöstirni<s n="n"/><s n="nt"/></l><r>Seven<b/>sisters<s n="n"/></r></p></e> <!-- @ONLYPL -->
+    <e><p><l>skáldamál<s n="n"/><s n="nt"/></l><r>poetic<b/>language<s n="n"/></r></p></e>
+    <e><p><l>skáldverk<s n="n"/><s n="nt"/></l><r>work<g><b/>of<b/>fiction</g><s n="n"/></r></p></e>
+    <e><p><l>skema<s n="n"/><s n="nt"/></l><r>schema<s n="n"/></r></p></e>
+    <e><p><l>skemma<s n="n"/><s n="f"/></l><r>storehouse<s n="n"/></r></p></e>
+    <e><p><l>skerpa<s n="n"/><s n="f"/></l><r>sharpness<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>skrölt<s n="n"/><s n="nt"/></l><r>rattle<s n="n"/></r></p></e>
+    <e><p><l>skurnhimna<s n="n"/><s n="f"/></l><r>amnion<s n="n"/></r></p></e>
+    <e><p><l>skýringarrit<s n="n"/><s n="nt"/></l><r>commentary<s n="n"/></r></p></e> 
+    <e><p><l>slökkvibíll<s n="n"/><s n="m"/></l><r>fire<b/>engine<s n="n"/></r></p></e>
+    <e><p><l>smækkunarorð<s n="n"/><s n="nt"/></l><r>diminutive<s n="n"/></r></p></e>
+    <e><p><l>smáslys<s n="n"/><s n="nt"/></l><r>little<b/>accident<s n="n"/></r></p></e>
+    <e><p><l>smástirnabelti<s n="n"/><s n="nt"/></l><r>asteroid<b/>belt<s n="n"/></r></p></e>
+    <e><p><l>snara<s n="n"/><s n="f"/></l><r>snare<s n="n"/></r></p></e>
+    <e><p><l>sósublettur<s n="n"/><s n="m"/></l><r>sauce<b/>stain<s n="n"/></r></p></e>
+    <e><p><l>spilari<s n="n"/><s n="m"/></l><r>player<s n="n"/></r></p></e>
+    <e><p><l>spurnarfornafn<s n="n"/><s n="nt"/></l><r>interrogative<b/>pronoun<s n="n"/></r></p></e>
+    <e><p><l>steindafræði<s n="n"/><s n="f"/></l><r>mineralogy<s n="n"/></r></p></e>
+    <e><p><l>stjórnarflokkur<s n="n"/><s n="m"/></l><r>governing<b/>party<s n="n"/></r></p></e>
+    <e><p><l>stjórnarkreppa<s n="n"/><s n="f"/></l><r>government<b/>crisis<s n="n"/></r></p></e> 
+    <e><p><l>stjórnmálasaga<s n="n"/><s n="f"/></l><r>political<b/>history<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>stjörnuryk<s n="n"/><s n="nt"/></l><r>stardust<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>stóumaður<s n="n"/><s n="m"/></l><r>stoic<s n="n"/></r></p></e>
+    <e><p><l>suðsuðaustur<s n="n"/><s n="nt"/></l><r>south<b/>south-east<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>suðsuðvestur<s n="n"/><s n="nt"/></l><r>south<b/>south-west<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>sviftifall<s n="n"/><s n="nt"/></l><r>ablative<b/>case<s n="n"/></r></p></e>
+
+    <e><p><l>tækisfall<s n="n"/><s n="nt"/></l><r>instrumental<b/>case<s n="n"/></r></p></e>
+    <e><p><l>tangerína<s n="n"/><s n="f"/></l><r>tangerine<s n="n"/></r></p></e>
+    <e><p><l>taugahvot<s n="n"/><s n="nt"/></l><r>neuralgia<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>taugasjúkdómafræði<s n="n"/><s n="f"/></l><r>neurology<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>tilgangsfall<s n="n"/><s n="nt"/></l><r>allative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>tilkoma<s n="n"/><s n="f"/></l><r>appearance<s n="n"/></r></p></e>
+    <e><p><l>timburhús<s n="n"/><s n="nt"/></l><r>wooden<b/>house<s n="n"/></r></p></e>
+    <e><p><l>tungubein<s n="n"/><s n="nt"/></l><r>hyoid<b/>bone<s n="n"/></r></p></e>
+    <e><p><l>umritun<s n="n"/><s n="f"/></l><r>transcription<s n="n"/></r></p></e>
+    <e><p><l>undirfyrirsögn<s n="n"/><s n="f"/></l><r>subtitle<s n="n"/></r></p></e>
+    <e><p><l>undirgrein<s n="n"/><s n="f"/></l><r>subparagraph<s n="n"/></r></p></e>
+    <e><p><l>undirtegund<s n="n"/><s n="f"/></l><r>subspecies<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>unnur<s n="n"/><s n="f"/></l><r>wave<s n="n"/></r></p></e>
+    <e><p><l>únsa<s n="n"/><s n="f"/></l><r>ounce<s n="n"/></r></p></e>
+    <e><p><l>upplýsingarfræði<s n="n"/><s n="f"/></l><r>information<b/>science<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>úrferðarfall<s n="n"/><s n="nt"/></l><r>elative<b/>case<s n="n"/></r></p></e>
+    <e><p><l>útrýmingarhætta<s n="n"/><s n="f"/></l><r>risk<b/>management<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>útsetning<s n="n"/><s n="f"/></l><r>arrangement<s n="n"/></r></p></e>
+    <e><p><l>útskolun<s n="n"/><s n="f"/></l><r>eluvium<s n="n"/></r></p></e>
+    <e><p><l>útskriftarhópur<s n="n"/><s n="m"/></l><r>graduation<b/>group<s n="n"/></r></p></e>
+    <e><p><l>vaða<s n="n"/><s n="f"/></l><r>shoal<s n="n"/></r></p></e>
+    <e><p><l>valdatími<s n="n"/><s n="m"/></l><r>selected<b/>time<s n="n"/></r></p></e>
+    <e><p><l>vaxkaka<s n="n"/><s n="f"/></l><r>honeycomb<s n="n"/></r></p></e>
+    <e><p><l>veggmálverk<s n="n"/><s n="nt"/></l><r>decorating<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>verufall<s n="n"/><s n="nt"/></l><r>essive<b/>case<s n="n"/></r></p></e>
+    <e><p><l>vestnorðvestur<s n="n"/><s n="nt"/></l><r>west<b/>north-west<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>vestsuðvestur<s n="n"/><s n="nt"/></l><r>west<b/>south-west<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>vídeó<s n="n"/><s n="nt"/></l><r>video<s n="n"/></r></p></e>
+    <e><p><l>viðlaga<s n="n"/><s n="f"/></l><r>refrain<s n="n"/></r></p></e>
+    <e><p><l>viðskiptasamning<s n="n"/><s n="f"/></l><r>business<b/>deal<s n="n"/></r></p></e>
+    <e><p><l>vinsældalisti<s n="n"/><s n="m"/></l><r>popularity<b/>chart<s n="n"/></r></p></e>
+
+    <e><p><l>yfirdrepsskapur<s n="n"/><s n="m"/></l><r>hypocrisy<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>yfirumsjón<s n="n"/><s n="f"/></l><r>supervision<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>ý<s n="n"/><s n="nt"/></l><r>ý<s n="n"/></r></p></e>
+    <e><p><l>þekja<s n="n"/><s n="f"/></l><r>roof<s n="n"/></r></p></e>
+    <e><p><l>þéttleiki<s n="n"/><s n="m"/></l><r>density<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>þjóbein<s n="n"/><s n="nt"/></l><r>ischium<s n="n"/></r></p></e>
+    <e><p><l>þjóðleikhús<s n="n"/><s n="nt"/></l><r>national<b/>theatre<s n="n"/></r></p></e>
+    <e><p><l>þjóðskjalasafn<s n="n"/><s n="nt"/></l><r>national<b/>archive<s n="n"/></r></p></e>
+    <e><p><l>þróunarbanki<s n="n"/><s n="m"/></l><r>development<b/>bank<s n="n"/></r></p></e>
+    <e><p><l>þvæla<s n="n"/><s n="f"/></l><r>drivel<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>þvinga<s n="n"/><s n="f"/></l><r>clamp<s n="n"/></r></p></e>
+
+
 
   </section>
 </dictionary>
