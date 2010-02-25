@@ -32341,6 +32341,7 @@
     <e lm="contribute"><i>contribut</i><par n="liv/e__vblex"/></e>
     <e lm="contrive"><i>contrive</i><par n="accept__vblex"/></e>
     <e lm="control"><i>control</i><par n="control__vblex"/></e>
+    <e lm="level"><i>level</i><par n="control__vblex"/></e>
     <e lm="converge"><i>converg</i><par n="liv/e__vblex"/></e>
     <e lm="convert"><i>convert</i><par n="accept__vblex"/></e>
     <e lm="convey"><i>convey</i><par n="enjoy__vblex"/></e>
@@ -32351,6 +32352,7 @@
     <e lm="cooperate"><i>cooperat</i><par n="liv/e__vblex"/></e>
     <e lm="coordinate"><i>coordinat</i><par n="liv/e__vblex"/></e>
     <e lm="cope"><i>cop</i><par n="liv/e__vblex"/></e>
+    <e lm="hassle"><i>hassl</i><par n="liv/e__vblex"/></e>
     <e lm="copy"><i>cop</i><par n="appl/y__vblex"/></e>
     <e lm="cope with"><i>cop</i><par n="liv/e__vblex"/><p><l><b/>with</l><r><g><b/>with</g></r></p></e>
     <e lm="correct"><i>correct</i><par n="accept__vblex"/></e>

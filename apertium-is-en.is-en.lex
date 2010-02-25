@@ -106,67 +106,68 @@ SUBSTITUTE (n :0) (n :1) ("maður"ri) (-1 @N→) (0 Gen);
 # "skipa" : 
 #        0:"order"
 #        1:"appoint"
-SUBSTITUTE (vblex) (vblex :0) ("skipa"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("skipa"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("skipa"ri) (1C Acc);
 
 # "lýsa" : 
 #       0:"show"
 #       1:"light"
-SUBSTITUTE (vblex) (vblex :0) ("lýsa"ri);
+#       2:"describe"
+#SUBSTITUTE (vblex) (vblex :0) ("lýsa"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("lýsa"ri) (1C Acc);
 
 # "greiða" : 
 #       0:"pay"
 #       1:"comb"
-SUBSTITUTE (vblex) (vblex :0) ("greiða"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("greiða"ri);
 #SUBSTITUTE (vblex :0) (vblex :1) ("greiða"ri) (1C Dat);
 
 # "leggja" : 
 #       0:"lay"
 #       1:"park"
-SUBSTITUTE (vblex) (vblex :0) ("leggja"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("leggja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("leggja"ri) (1C Dat);
 
 # "þýða" : 
 #       0:"mean"
 #       1:"translate"
-SUBSTITUTE (vblex) (vblex :0) ("þýða"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("þýða"ri);
 
 # "batna" : 
 #        0:"improve"
 #        1:"get# better"
-SUBSTITUTE (vblex) (vblex :0) ("batna"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("batna"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("batna"ri) ((-1C* @SUBJ→ + Dat BARRIER CLB) OR (1C* @←SUBJ + Dat BARRIER CLB));
 
 # "halda" : 
 #        0:"hold"
 #        1:"think"
-SUBSTITUTE (vblex) (vblex :0) ("halda"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("halda"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("halda"ri) (1 ("að"));
 
 # "telja" : 
 #        0:"count"
 #        1:"reckon"
-SUBSTITUTE (vblex) (vblex :0) ("telja"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("telja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("telja"ri) (1 ("að"));
 
 # "afgreiða" : 
 #        0:"serve"
 #        1:"deal# with"
-SUBSTITUTE (vblex) (vblex :0) ("afgreiða"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("afgreiða"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("afgreiða"ri) (1 ("mál"));
 
 # "jafna" : 
 #        0:"level"
 #        1:"equalise"
 #        2:"compare"
-SUBSTITUTE (vblex) (vblex :0) ("jafna"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("jafna"ri);
 
 # "fylgja" : 
 #        0:"accompany"
 #        1:"keep up"
 #        2:"pay attention"
-SUBSTITUTE (vblex) (vblex :0) ("fylgja"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("fylgja"ri);
 SUBSTITUTE (vblex :0) (vblex :1) ("fylgja"ri vblex midv) (1C* ("með") BARRIER CLB);
 SUBSTITUTE (vblex :0) (vblex :2) ("fylgja"ri vblex midv) (1C* ("með") BARRIER CLB LINK 1* (@X));
 
@@ -174,7 +175,7 @@ SUBSTITUTE (vblex :0) (vblex :2) ("fylgja"ri vblex midv) (1C* ("með") BARRIER C
 #        0:""
 #        1:""
 #        2:""
-SUBSTITUTE (vblex) (vblex :0) ("benda"ri);
+#SUBSTITUTE (vblex) (vblex :0) ("benda"ri);
 
 
 ## 

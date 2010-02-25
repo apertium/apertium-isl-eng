@@ -3553,6 +3553,7 @@
     <e><p><l>þétt<s n="adv"/></l><r>tight<s n="adv"/></r></p></e>
 <e><p><l>afsíðis<s n="adv"/></l><r>aside<s n="adv"/></r></p></e>
 <e><p><l>aftarlega<s n="adv"/></l><r>near<b/>the<b/>back<s n="adv"/></r></p></e>
+<e slr="0"><p><l>allajafna<s n="adv"/><s n=":0"/></l><r>normally<s n="adv"/></r></p></e>
 <e><p><l>allajafna<s n="adv"/><s n=":0"/></l><r>normally<s n="adv"/></r></p></e>
 <e><p><l>allajafna<s n="adv"/><s n=":1"/></l><r>almost<b/>always<s n="adv"/></r></p></e>
 <e><p><l>allsstaðar<s n="adv"/></l><r>everywhere<s n="adv"/></r></p></e>
@@ -4287,7 +4288,7 @@
 <!--<p><l>afgreiða<s n="vblex"/></l><r>fulfill<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>process<s n="vblex"/></r></p></e>-->
-    <e><p><l>afgreiða<s n="vblex"/><s n=":0"/></l><r>serve<s n="vblex"/></r></p></e>
+    <e><p><l>afgreiða<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
     <e><p><l>afgreiða<s n="vblex"/><s n=":1"/></l><r>deal<g><b/>with</g><s n="vblex"/></r></p></e>
     <e><p><l>afhenda<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
 <!--<p><l>afhenda<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>-->
@@ -4348,7 +4349,7 @@
 <!--<p><l>banka<s n="vblex"/></l><r>tap<s n="vblex"/></r></p></e>-->
     <e><p><l>banna<s n="vblex"/></l><r>ban<s n="vblex"/></r></p></e>
 <!--<p><l>batna<s n="vblex"/></l><r>better<s n="vblex"/></r></p></e>-->
-    <e><p><l>batna<s n="vblex"/><s n=":0"/></l><r>improve<s n="vblex"/></r></p></e>
+    <e><p><l>batna<s n="vblex"/></l><r>improve<s n="vblex"/></r></p></e>
     <e><p><l>batna<s n="vblex"/><s n=":1"/></l><r>get<g><b/>better</g><s n="vblex"/></r></p></e>
 <!--<p><l>batna<s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>-->
     <e><p><l>baða<s n="vblex"/></l><r>bathe<s n="vblex"/></r></p></e>
@@ -4362,6 +4363,7 @@
     <e><p><l>bergmála<s n="vblex"/></l><r>echo<s n="vblex"/></r></p></e>
 <!--<p><l>bergmála<s n="vblex"/></l><r>resound<s n="vblex"/></r></p></e>-->
 <!--<p><l>bergmála<s n="vblex"/></l><r>reverberate<s n="vblex"/></r></p></e>-->
+    <e><p><l>berja<s n="vblex"/></l><r>beat<s n="vblex"/></r></p></e>
     <e><p><l>berja<s n="vblex"/><s n="actv"/></l><r>beat<s n="vblex"/></r></p></e>
     <e><p><l>berja<s n="vblex"/><s n="midv"/></l><r>fight<s n="vblex"/></r></p></e>
 <!--<p><l>berja<s n="vblex"/></l><r>fight<s n="vblex"/></r></p></e>-->
@@ -4521,6 +4523,7 @@
 <!--<p><l>eiga<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>-->
     <e><p><l>eiga<s n="vblex"/></l><r>own<s n="vblex"/></r></p></e>
 <!--<p><l>eiga<s n="vblex"/></l><r>shall<s n="vblex"/></r></p></e>-->
+    <e><p><l>eigna<s n="vblex"/></l><r>attribute<s n="vblex"/></r></p></e>
     <e><p><l>eigna<s n="vblex"/><s n="actv"/></l><r>attribute<s n="vblex"/></r></p></e>
     <e><p><l>eigna<s n="vblex"/><s n="midv"/></l><r>acquire<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
 <!--<p><l>einangra<s n="vblex"/></l><r>identify<s n="vblex"/></r></p></e>-->
@@ -4692,7 +4695,7 @@
 <!--<p><l>furða<s n="vblex"/></l><r>amaze<s n="vblex"/></r></p></e>-->
     <e><p><l>furða<s n="vblex"/></l><r>marvel<s n="vblex"/></r></p></e>
 <!--<p><l>furða<s n="vblex"/></l><r>wonder<s n="vblex"/></r></p></e>-->
-    <e><p><l>fylgja<s n="vblex"/><s n=":0"/></l><r>accompany<s n="vblex"/></r></p></e>
+    <e><p><l>fylgja<s n="vblex"/></l><r>accompany<s n="vblex"/></r></p></e>
     <e><p><l>fylgja<s n="vblex"/><s n=":1"/></l><r>keep<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>fylgja<s n="vblex"/><s n=":2"/></l><r>pay<g><b/>attention</g><s n="vblex"/></r></p></e>
     <e><p><l>fylkja<g><b/>liði</g><s n="vblex"/></l><r>muster<g><b/>a<b/>force</g><s n="vblex"/></r></p></e>
@@ -4878,7 +4881,7 @@
 <!--<p><l>hagræða<s n="vblex"/></l><r>arrange<s n="vblex"/></r></p></e>-->
     <e><p><l>hagræða<s n="vblex"/></l><r>optimise<s n="vblex"/></r></p></e>
 <!--<p><l>hagræða<s n="vblex"/></l><r>streamline<s n="vblex"/></r></p></e>-->
-    <e><p><l>halda<s n="vblex"/><s n=":0"/></l><r>hold<s n="vblex"/></r></p></e>
+    <e><p><l>halda<s n="vblex"/></l><r>hold<s n="vblex"/></r></p></e>
     <e><p><l>halda<s n="vblex"/><s n=":1"/></l><r>think<s n="vblex"/></r></p></e>
     <e><p><l>halla<s n="vblex"/></l><r>lean<s n="vblex"/></r></p></e>
 <!--<p><l>halla<s n="vblex"/></l><r>slant<s n="vblex"/></r></p></e>-->
@@ -5131,6 +5134,7 @@
     <e><p><l>innleysa<s n="vblex"/></l><r>cash<g><b/>in</g><s n="vblex"/></r></p></e>
 <!--<p><l>innleysa<s n="vblex"/></l><r>redeem<s n="vblex"/></r></p></e>-->
     <e><p><l>iðra<s n="vblex"/></l><r>regret<s n="vblex"/></r></p></e>
+    <e><p><l>iðrast<s n="vblex"/></l><r>regret<s n="vblex"/></r></p></e>
 <!--<p><l>jafngilda<s n="vblex"/></l><r>amount<g><b/>to</g><s n="vblex"/></r></p></e>-->
     <e><p><l>jafngilda<s n="vblex"/></l><r>equal<s n="vblex"/></r></p></e>
 <!--<p><l>jafngilda<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>-->
@@ -5291,7 +5295,7 @@
     <e><p><l>leggja<g><b/>upp<b/>laupana</g><s n="vblex"/></l><r>give<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>út</g><s n="vblex"/></l><r>interpret<s n="vblex"/></r></p></e>
 <!--<p><l>leggja<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>-->
-    <e><p><l>leggja<s n="vblex"/><s n=":0"/></l><r>lay<s n="vblex"/></r></p></e>
+    <e><p><l>leggja<s n="vblex"/></l><r>lay<s n="vblex"/></r></p></e>
     <e><p><l>leggja<s n="vblex"/><s n=":1"/></l><r>park<s n="vblex"/></r></p></e>
     <e><p><l>leigja<s n="vblex"/></l><r>rent<s n="vblex"/></r></p></e>
     <e><p><l>leika<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
@@ -5386,8 +5390,9 @@
     <e><p><l>líða<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
 <!--<p><l>lúta<s n="vblex"/></l><r>bend<s n="vblex"/></r></p></e>-->
     <e><p><l>lúta<s n="vblex"/></l><r>stoop<s n="vblex"/></r></p></e>
-    <e><p><l>lýsa<s n="vblex"/><s n=":0"/></l><r>show<s n="vblex"/></r></p></e>
+    <e><p><l>lýsa<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
     <e><p><l>lýsa<s n="vblex"/><s n=":1"/></l><r>light<s n="vblex"/></r></p></e>
+    <e><p><l>lýsa<s n="vblex"/><s n=":2"/></l><r>describe<s n="vblex"/></r></p></e>
     <e><p><l>magna<s n="vblex"/></l><r>amplify<s n="vblex"/></r></p></e>
 <!--<p><l>magna<s n="vblex"/></l><r>boost<s n="vblex"/></r></p></e>-->
 <!--<p><l>mala<s n="vblex"/></l><r>chatter<s n="vblex"/></r></p></e>-->
@@ -5414,6 +5419,7 @@
 <!--<p><l>merkja<s n="vblex"/></l><r>label<s n="vblex"/></r></p></e>-->
 <!--<p><l>merkja<s n="vblex"/></l><r>mark<s n="vblex"/></r></p></e>-->
     <e><p><l>merkja<s n="vblex"/></l><r>tag<s n="vblex"/></r></p></e>
+    <e><p><l>minna<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
     <e><p><l>minna<s n="vblex"/><s n="actv"/></l><r>remind<s n="vblex"/></r></p></e>
     <e><p><l>minna<s n="vblex"/><s n="midv"/></l><r>remember<s n="vblex"/></r></p></e>
     <e><p><l>minnka<s n="vblex"/></l><r>reduce<s n="vblex"/></r></p></e>
@@ -5565,6 +5571,7 @@
     <e><p><l>rekja<s n="vblex"/></l><r>trace<s n="vblex"/></r></p></e>
 <!--<p><l>rekja<s n="vblex"/></l><r>track<s n="vblex"/></r></p></e>-->
     <e><p><l>reykja<s n="vblex"/></l><r>smoke<s n="vblex"/></r></p></e>
+    <e><p><l>reyna<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
     <e><p><l>reyna<s n="vblex"/><s n="actv"/></l><r>try<s n="vblex"/></r></p></e>
     <e><p><l>reyna<s n="vblex"/><s n="midv"/></l><r>turn<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>rifja<s n="vblex"/></l><r>recollect<s n="vblex"/></r></p></e>
@@ -5657,10 +5664,12 @@
 <!--<p><l>saka<s n="vblex"/></l><r>hurt<s n="vblex"/></r></p></e>-->
     <e><p><l>sakna<s n="vblex"/></l><r>miss<s n="vblex"/></r></p></e>
     <e><p><l>samanbera<s n="vblex"/></l><r>compare<s n="vblex"/></r></p></e>
+    <e><p><l>abbast<s n="vblex"/></l><r>hassle<s n="vblex"/></r></p></e>
     <e><p><l>samanstanda<s n="vblex"/></l><r>comprise<s n="vblex"/></r></p></e>
 <!--<p><l>samanstanda<s n="vblex"/></l><r>contain<s n="vblex"/></r></p></e>-->
 <!--<p><l>samanstanda<s n="vblex"/></l><r>include<s n="vblex"/></r></p></e>-->
 <!--<p><l>samanstanda<s n="vblex"/></l><r>involve<s n="vblex"/></r></p></e>-->
+    <e><p><l>sameina<s n="vblex"/></l><r>combine<s n="vblex"/></r></p></e>
     <e><p><l>sameina<s n="vblex"/><s n="actv"/></l><r>combine<s n="vblex"/></r></p></e>
     <e><p><l>sameina<s n="vblex"/><s n="midv"/></l><r>unite<s n="vblex"/></r></p></e>
 <!--<p><l>sameina<s n="vblex"/></l><r>join<s n="vblex"/></r></p></e>-->
@@ -5748,7 +5757,7 @@
 <!--<p><l>skipa<s n="vblex"/></l><r>command<s n="vblex"/></r></p></e>-->
 <!--<p><l>skipa<s n="vblex"/></l><r>nominate<s n="vblex"/></r></p></e>-->
 <!--<p><l>skipa<s n="vblex"/></l><r>occupy<s n="vblex"/></r></p></e>-->
-    <e><p><l>skipa<s n="vblex"/><s n=":0"/></l><r>order<s n="vblex"/></r></p></e>
+    <e><p><l>skipa<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
     <e><p><l>skipa<s n="vblex"/><s n=":1"/></l><r>appoint<s n="vblex"/></r></p></e>
     <e><p><l>skipta<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
 <!--<p><l>skipta<s n="vblex"/></l><r>switch<s n="vblex"/></r></p></e>-->
@@ -5856,6 +5865,7 @@
 <!--<p><l>sparka<s n="vblex"/></l><r>dump<s n="vblex"/></r></p></e>-->
 <!--<p><l>sparka<s n="vblex"/></l><r>fire<s n="vblex"/></r></p></e>-->
     <e><p><l>sparka<s n="vblex"/></l><r>kick<s n="vblex"/></r></p></e>
+    <e><p><l>sparka<g><b/>í</g><s n="vblex"/></l><r>kick<s n="vblex"/></r></p></e>
     <e><p><l>spila<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
 <!--<p><l>spilla<s n="vblex"/></l><r>damage<s n="vblex"/></r></p></e>-->
 <!--<p><l>spilla<s n="vblex"/></l><r>ruin<s n="vblex"/></r></p></e>-->
@@ -6046,7 +6056,7 @@
     <e><p><l>tefla<s n="vblex"/></l><r>play<g><b/>chess</g><s n="vblex"/></r></p></e>
 <!--<p><l>teikna<s n="vblex"/></l><r>design<s n="vblex"/></r></p></e>-->
     <e><p><l>teikna<s n="vblex"/></l><r>draw<s n="vblex"/></r></p></e>
-    <e><p><l>telja<s n="vblex"/><s n=":0"/></l><r>count<s n="vblex"/></r></p></e>
+    <e><p><l>telja<s n="vblex"/></l><r>count<s n="vblex"/></r></p></e>
     <e><p><l>telja<s n="vblex"/><s n=":1"/></l><r>reckon<s n="vblex"/></r></p></e>
 <!--<p><l>temja<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>-->
@@ -6082,7 +6092,6 @@
     <e><p><l>troða<s n="vblex"/></l><r>cram<s n="vblex"/></r></p></e>
 <!--<p><l>troða<s n="vblex"/></l><r>jam<s n="vblex"/></r></p></e>-->
 <!--<p><l>troða<s n="vblex"/></l><r>squeeze<s n="vblex"/></r></p></e>-->
-    <e><p><l>trufla<s n="vblex"/><s n="actv"/></l><r>interrupt<s n="vblex"/></r></p></e>
 <!--<p><l>tryggja<s n="vblex"/></l><r>ensure<s n="vblex"/></r></p></e>-->
 <!--<p><l>tryggja<s n="vblex"/></l><r>insure<s n="vblex"/></r></p></e>-->
     <e><p><l>tryggja<s n="vblex"/></l><r>secure<s n="vblex"/></r></p></e>
@@ -6467,8 +6476,9 @@
 
     <e r="RL"><p><l>þýða<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>þýða<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>þýða<s n="vblex"/><s n=":0"/></l><r>mean<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>þýða<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>þýða<s n="vblex"/><s n=":1"/></l><r>translate<s n="vblex"/></r></p></e>
+
 <!-- "þýða" from the Snara data: -->
 <!--<e><p><l>þýða<s n="vblex"/><s n=":0"/></l><r>translate<s n="vblex"/></r></p></e>-->
 <!--<e><p><l>þýða<s n="vblex"/><s n=":1"/></l><r>mean<s n="vblex"/></r></p></e>-->
@@ -6546,10 +6556,8 @@
 <e><p><l>beita<s n="vblex"/><s n=":2"/></l><r>bait<s n="vblex"/></r></p></e> <!-- (a fishing line) -->
 <e><p><l>beita<s n="vblex"/><s n=":1"/></l><r>put<b/>to<b/>pasture<s n="vblex"/></r></p></e>
 <e><p><l>beita<s n="vblex"/><s n=":0"/></l><r>use<s n="vblex"/></r></p></e>
-<e><p><l>benda<s n="vblex"/><s n=":0"/></l><r>show<s n="vblex"/></r></p></e>
+<e><p><l>benda<s n="vblex"/></l><r>show<s n="vblex"/></r></p></e>
 <e><p><l>benda<s n="vblex"/><s n=":1"/></l><r>beckon<s n="vblex"/></r></p></e>
-<e><p><l>berja<s n="vblex"/><s n=":0"/></l><r>beat<s n="vblex"/></r></p></e>
-<e><p><l>berja<s n="vblex"/><s n=":1"/></l><r>fight<s n="vblex"/></r></p></e>
 <e><p><l>betla<s n="vblex"/></l><r>beg<s n="vblex"/></r></p></e>
 <e><p><l>betrumbæta<s n="vblex"/></l><r>improve<s n="vblex"/></r></p></e>
 <e><p><l>beygla<s n="vblex"/></l><r>dent<s n="vblex"/></r></p></e>
@@ -7025,10 +7033,10 @@
 <e><p><l>innrétta<s n="vblex"/></l><r>fit<b/>up<s n="vblex"/></r></p></e>
 <e><p><l>innsigla<s n="vblex"/></l><r>seal<s n="vblex"/></r></p></e>
 <e><p><l>iða<s n="vblex"/><s n=":0"/></l><r>squirm<s n="vblex"/></r></p></e>
-<e><p><l>iða<s n="vblex"/><s n=":1"/></l><r>move<b/>about<b/>restlessly<s n="vblex"/></r></p></e>
-<e><p><l>iðnvæða<s n="vblex"/></l><r>industrialize<s n="vblex"/></r></p></e>
+<e><p><l>iða<s n="vblex"/><s n=":1"/></l><r>move<g><b/>about<b/>restlessly</g><s n="vblex"/></r></p></e>
+<e><p><l>iðnvæða<s n="vblex"/></l><r>industrialise<s n="vblex"/></r></p></e>
 <e><p><l>jafna<g><b/>sig</g><s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>
-<e><p><l>jafna<s n="vblex"/><s n=":0"/></l><r>level<s n="vblex"/></r></p></e>
+<e><p><l>jafna<s n="vblex"/></l><r>level<s n="vblex"/></r></p></e>
 <e><p><l>jafna<s n="vblex"/><s n=":1"/></l><r>equalise<s n="vblex"/></r></p></e>
 <e><p><l>jafna<s n="vblex"/><s n=":2"/></l><r>compare<s n="vblex"/></r></p></e>
 <e><p><l>jafnhatta<s n="vblex"/></l><r>lift<b/>over<b/>one's<b/>head<s n="vblex"/></r></p></e>
@@ -7827,7 +7835,8 @@
 <e><p><l>trompa<s n="vblex"/></l><r>trump<s n="vblex"/></r></p></e>
 <e><p><l>trosna<s n="vblex"/></l><r>fray<s n="vblex"/></r></p></e>
 <e><p><l>troðfylla<s n="vblex"/></l><r>cram<b/>full<s n="vblex"/></r></p></e>
-<e><p><l>trufla<s n="vblex"/><s n=":0"/></l><r>disturb<s n="vblex"/></r></p></e>
+<e><p><l>trufla<s n="vblex"/><s n="actv"/></l><r>interrupt<s n="vblex"/></r></p></e>
+<e><p><l>trufla<s n="vblex"/></l><r>disturb<s n="vblex"/></r></p></e>
 <e><p><l>trufla<s n="vblex"/><s n=":1"/></l><r>confuse<s n="vblex"/></r></p></e>
 <e><p><l>trylla<s n="vblex"/></l><r>drive<b/>crazy<s n="vblex"/></r></p></e>
 <e><p><l>tréna<s n="vblex"/><s n=":0"/></l><r>become<b/>wooden<s n="vblex"/></r></p></e>
@@ -13916,6 +13925,7 @@
     <e><p><l>svara<g><b/>í<b/>sömu<b/>mynt</g><s n="vblex"/></l><r>pay<g><b/>back<b/>in<b/>the<b/>same<b/>coin</g><s n="vblex"/></r></p></e> 
     <e><p><l>vinna<g><b/>a<b/>vöktum</g><s n="vblex"/></l><r>work<g><b/>shifts</g><s n="vblex"/></r></p></e>
     <e><p><l>gefa<g><b/>í<b/>skyn</g><s n="vblex"/></l><r>suggest<s n="vblex"/></r></p></e>
+    <e><p><l>falla<g><b/>á</g><s n="vblex"/></l><r>fall<g><b/>on</g><s n="vblex"/></r></p></e>
     <e><p><l>falla<g><b/>á</g><s n="vblex"/><s n="actv"/></l><r>fall<g><b/>on</g><s n="vblex"/></r></p></e>
     <e><p><l>falla<g><b/>á</g><s n="vblex"/><s n="midv"/></l><r>agree<g><b/>to</g><s n="vblex"/></r></p></e>
     <e><p><l>fjalla<g><b/>um</g><s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
@@ -13995,7 +14005,7 @@
 <!-- END TODO -->
 
     <!-- Verbs -->
-    <e><p><l>verða<g><b/>sér</g><g><b/>úti<b/>um</g><s n="vblex"/></l><r>get<g><b/>hold<b/>of</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
+    <e><p><l>verða<g><b/>sér<b/>úti<b/>um</g><s n="vblex"/></l><r>get<g><b/>hold<b/>of</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>há<s n="vblex"/></l><r>handicap<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>endurskoða<s n="vblex"/></l><r>revise<s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
     <e><p><l>sitja<g><b/>föst</g><s n="vblex"/></l><r>be<g><b/>stuck</g><s n="vblex"/></r></p></e> <!-- TODO: CHECK -->
@@ -14010,7 +14020,7 @@
     <e><p><l>etja<b/>kappi<s n="vblex"/></l><r>compete<s n="vblex"/></r></p></e> <!--CHECK translation AND: can 'etja' stand alone? -MDB -->
     <e><p><l>firra<b/>sig<b/>ábyrgð<s n="vblex"/></l><r>avoid<b/>responsibility<s n="vblex"/></r></p></e> <!--CHECK translation -MDB -->
     <e><p><l>ber<b/>að<b/>geta<s n="vblex"/></l><r>obligated<b/>to<b/>mention<s n="vblex"/></r></p></e>
-    <e><p><l>greiða<b/>úr<s n="vblex"/><s n=":0"/></l><r>facilitate<s n="vblex"/></r></p></e>
+    <e><p><l>greiða<b/>úr<s n="vblex"/></l><r>facilitate<s n="vblex"/></r></p></e>
     <e><p><l>greiða<b/>úr<s n="vblex"/><s n=":1"/></l><r>clear<b/>up<s n="vblex"/></r></p></e>
     <e><p><l>haka<b/>við<s n="vblex"/></l><r>check<s n="vblex"/></r></p></e>
     <!-- END Needs checking -->
@@ -14089,8 +14099,6 @@
     <e><p><l>beita<s n="vblex"/><s n=":0"/></l><r>use<s n="vblex"/></r></p></e>
     <e><p><l>benda<s n="vblex"/><s n=":0"/></l><r>show<s n="vblex"/></r></p></e>
     <e><p><l>benda<s n="vblex"/><s n=":1"/></l><r>beckon<s n="vblex"/></r></p></e>
-    <e><p><l>berja<s n="vblex"/><s n=":0"/></l><r>beat<s n="vblex"/></r></p></e>
-    <e><p><l>berja<s n="vblex"/><s n=":1"/></l><r>fight<s n="vblex"/></r></p></e>
     <e><p><l>betla<s n="vblex"/></l><r>beg<s n="vblex"/></r></p></e>
     <e><p><l>betrumbæta<s n="vblex"/></l><r>improve<s n="vblex"/></r></p></e>
     <e><p><l>beygla<s n="vblex"/></l><r>dent<s n="vblex"/></r></p></e>
@@ -14394,9 +14402,9 @@
     <e><p><l>gorta<s n="vblex"/></l><r>brag<s n="vblex"/></r></p></e>
     <e><p><l>grandskoða<s n="vblex"/></l><r>scrutinize<s n="vblex"/></r></p></e>
     <e><p><l>greftra<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
-    <e><p><l>greiða<s n="vblex"/><s n=":0"/></l><r>pay<s n="vblex"/></r></p></e>
-    <e><p><l>greiða<s n="vblex"/><s n=":2"/></l><r>unravel<s n="vblex"/></r></p></e>
+    <e><p><l>greiða<s n="vblex"/></l><r>pay<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/><s n=":1"/></l><r>comb<s n="vblex"/></r></p></e>
+    <e><p><l>greiða<s n="vblex"/><s n=":2"/></l><r>unravel<s n="vblex"/></r></p></e>
     <e><p><l>gremjast<s n="vblex"/></l><r>resent<s n="vblex"/></r></p></e>
     <e><p><l>greypa<s n="vblex"/></l><r>inlay<s n="vblex"/></r></p></e>
     <e><p><l>grilla<s n="vblex"/></l><r>grill<s n="vblex"/></r></p></e>
@@ -15367,8 +15375,6 @@
     <e><p><l>trompa<s n="vblex"/></l><r>trump<s n="vblex"/></r></p></e>
     <e><p><l>trosna<s n="vblex"/></l><r>fray<s n="vblex"/></r></p></e>
     <e><p><l>troðfylla<s n="vblex"/></l><r>cram<b/>full<s n="vblex"/></r></p></e>
-    <e><p><l>trufla<s n="vblex"/><s n=":0"/></l><r>disturb<s n="vblex"/></r></p></e>
-    <e><p><l>trufla<s n="vblex"/><s n=":1"/></l><r>confuse<s n="vblex"/></r></p></e>
     <e><p><l>trylla<s n="vblex"/></l><r>drive<b/>crazy<s n="vblex"/></r></p></e>
     <e><p><l>tréna<s n="vblex"/><s n=":0"/></l><r>become<b/>wooden<s n="vblex"/></r></p></e>
     <e><p><l>tréna<s n="vblex"/><s n=":1"/></l><r>turn<b/>stringy<s n="vblex"/></r></p></e>
@@ -26286,6 +26292,7 @@
     <e><p><l>vinna<g><b/>á<b/>vöktum</g><s n="vblex"/></l><r>monitor<s n="vblex"/></r></p></e>
     <e><p><l>gera<g><b/>verkfall</g><s n="vblex"/></l><r>go<g><b/>on<b/>strike</g><s n="vblex"/></r></p></e>
     <e><p><l>ganga<g><b/>af</g><s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
+    <e><p><l>bera<g><b/>kennsl<b/>á</g><s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
 
 
     <e><p><l>aðgreinir<s n="n"/><s n="m"/></l><r>identifier<s n="n"/></r></p></e>
