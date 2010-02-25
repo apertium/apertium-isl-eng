@@ -8725,6 +8725,45 @@
 
     <!-- Nouns -->
 
+    <e lm="ball of yarn"><i>ball</i><par n="house__n"/><p><l><b/>of<b/>yarn</l><r><g><b/>of<b/>yarn</g></r></p></e>
+    <e lm="clove of garlic"><i>clove</i><par n="house__n"/><p><l><b/>of<b/>garlic</l><r><g><b/>of<b/>garlic</g></r></p></e>
+    <e lm="high court of Iceland"><i>high<b/>court</i><par n="house__n"/><p><l><b/>of<b/>Iceland</l><r><g><b/>of<b/>Iceland</g></r></p></e>
+    <e lm="beginning of the year"><i>beginning</i><par n="house__n"/><p><l><b/>of<b/>the<b/>year</l><r><g><b/>of<b/>the<b/>year</g></r></p></e>
+    <e lm="blink of an eye"><i>blink</i><par n="house__n"/><p><l><b/>of<b/>an<b/>eye</l><r><g><b/>of<b/>an<b/>eye</g></r></p></e>
+    <e lm="coat of arms"><i>coat</i><par n="house__n"/><p><l><b/>of<b/>arms</l><r><g><b/>of<b/>arms</g></r></p></e>
+    <e lm="collection of poetry"><i>collection</i><par n="house__n"/><p><l><b/>of<b/>poetry</l><r><g><b/>of<b/>poetry</g></r></p></e>
+    <e lm="date of birth"><i>date</i><par n="house__n"/><p><l><b/>of<b/>birth</l><r><g><b/>of<b/>birth</g></r></p></e>
+    <e lm="day of celebration"><i>day</i><par n="house__n"/><p><l><b/>of<b/>celebration</l><r><g><b/>of<b/>celebration</g></r></p></e>
+    <e lm="day of rest"><i>day</i><par n="house__n"/><p><l><b/>of<b/>rest</l><r><g><b/>of<b/>rest</g></r></p></e>
+    <e lm="deck of cards"><i>deck</i><par n="house__n"/><p><l><b/>of<b/>cards</l><r><g><b/>of<b/>cards</g></r></p></e>
+    <e lm="director of personnel"><i>director</i><par n="house__n"/><p><l><b/>of<b/>personnel</l><r><g><b/>of<b/>personnel</g></r></p></e>
+    <e lm="division of labour"><i>division</i><par n="house__n"/><p><l><b/>of<b/>labour</l><r><g><b/>of<b/>labour</g></r></p></e>
+    <e lm="ear of corn"><i>ear</i><par n="house__n"/><p><l><b/>of<b/>corn</l><r><g><b/>of<b/>corn</g></r></p></e>
+    <e lm="end of the year"><i>end</i><par n="house__n"/><p><l><b/>of<b/>the<b/>year</l><r><g><b/>of<b/>the<b/>year</g></r></p></e>
+    <e lm="freedom of religion"><i>freedom</i><par n="house__n"/><p><l><b/>of<b/>religion</l><r><g><b/>of<b/>religion</g></r></p></e>
+    <e lm="graduate in business administration"><i>graduate</i><par n="house__n"/><p><l><b/>in<b/>business<b/>administration</l><r><g><b/>in<b/>business<b/>administration</g></r></p></e>
+    <e lm="hail of snow"><i>hail</i><par n="house__n"/><p><l><b/>of<b/>snow</l><r><g><b/>of<b/>snow</g></r></p></e>
+    <e lm="head of department"><i>head</i><par n="house__n"/><p><l><b/>of<b/>department</l><r><g><b/>of<b/>department</g></r></p></e>
+    <e lm="high court of iceland"><i>high<b/>court</i><par n="east__n"/><p><l><b/>of<b/>iceland</l><r><g><b/>of<b/>iceland</g></r></p></e>
+    <e lm="law of gravity"><i>law</i><par n="house__n"/><p><l><b/>of<b/>gravity</l><r><g><b/>of<b/>gravity</g></r></p></e>
+    <e lm="master of the house"><i>master</i><par n="house__n"/><p><l><b/>of<b/>the<b/>house</l><r><g><b/>of<b/>the<b/>house</g></r></p></e>
+    <e lm="matter of opinion"><i>matter</i><par n="house__n"/><p><l><b/>of<b/>opinion</l><r><g><b/>of<b/>opinion</g></r></p></e>
+    <e lm="means of transportation"><i>means</i><par n="politics__n"/><p><l><b/>of<b/>transportation</l><r><g><b/>of<b/>transportation</g></r></p></e>
+    <e lm="minister of the environment"><i>minister</i><par n="house__n"/><p><l><b/>of<b/>the<b/>environment</l><r><g><b/>of<b/>the<b/>environment</g></r></p></e>
+    <e lm="mistress of the house"><i>mistress</i><par n="access__n"/><p><l><b/>of<b/>the<b/>house</l><r><g><b/>of<b/>the<b/>house</g></r></p></e>
+    <e lm="piece of wood"><i>piece</i><par n="house__n"/><p><l><b/>of<b/>wood</l><r><g><b/>of<b/>wood</g></r></p></e>
+    <e lm="prisoner of war"><i>prisoner</i><par n="house__n"/><p><l><b/>of<b/>war</l><r><g><b/>of<b/>war</g></r></p></e>
+    <e lm="proposal of marriage"><i>proposal</i><par n="house__n"/><p><l><b/>of<b/>marriage</l><r><g><b/>of<b/>marriage</g></r></p></e>
+    <e lm="slice of bread"><i>slice</i><par n="house__n"/><p><l><b/>of<b/>bread</l><r><g><b/>of<b/>bread</g></r></p></e>
+    <e lm="time of arrival"><i>time</i><par n="house__n"/><p><l><b/>of<b/>arrival</l><r><g><b/>of<b/>arrival</g></r></p></e>
+    <e lm="topic of discussion"><i>topic</i><par n="house__n"/><p><l><b/>of<b/>discussion</l><r><g><b/>of<b/>discussion</g></r></p></e>
+    <e lm="turn of the century"><i>turn</i><par n="house__n"/><p><l><b/>of<b/>the<b/>century</l><r><g><b/>of<b/>the<b/>century</g></r></p></e>
+    <e lm="unit of measurement"><i>unit</i><par n="house__n"/><p><l><b/>of<b/>measurement</l><r><g><b/>of<b/>measurement</g></r></p></e>
+    <e lm="woman in confinement"><i>wom</i><par n="m/an__n"/><p><l><b/>in<b/>confinement</l><r><g><b/>in<b/>confinement</g></r></p></e>
+    <e lm="word of thanks"><i>word</i><par n="house__n"/><p><l><b/>of<b/>thanks</l><r><g><b/>of<b/>thanks</g></r></p></e>
+    <e lm="work of art"><i>work</i><par n="house__n"/><p><l><b/>of<b/>art</l><r><g><b/>of<b/>art</g></r></p></e>
+
+
     <e lm="comb"><i>comb</i><par n="house__n"/></e>
     <e lm="breadcrumb"><i>breadcrumb</i><par n="house__n"/></e>
     <e lm="hothead"><i>hothead</i><par n="house__n"/></e>
