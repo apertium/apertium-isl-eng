@@ -1565,7 +1565,7 @@
     <e><p><l>norrænn<s n="adj"/></l><r>Nordic<s n="adj"/></r></p></e>
     <e><p><l>norskur<s n="adj"/></l><r>Norwegian<s n="adj"/></r></p></e>
     <e><p><l>norðanverður<s n="adj"/></l><r>northern<s n="adj"/></r></p></e>
-    <e><p><l>notalegur<s n="adj"/></l><r>cosy<s n="adj"/></r></p></e>
+    <e><p><l>notalegur<s n="adj"/></l><r>cosy<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>notalegur<s n="adj"/></l><r>pleasant<s n="adj"/></r></p></e>-->
 <!--<p><l>notalegur<s n="adj"/></l><r>sociable<s n="adj"/></r></p></e>-->
     <e><p><l>notaður<s n="adj"/></l><r>second-hand<s n="adj"/></r></p></e>
@@ -25814,7 +25814,7 @@
     <e><p><l>virðingarverður<s n="adj"/></l><r>worthy<b/>of<b/>respect<s n="adj"/></r></p></e>
     <e><p><l>visinn<s n="adj"/><s n=":0"/></l><r>dried<b/>out<s n="adj"/></r></p></e>
     <e><p><l>visinn<s n="adj"/><s n=":1"/></l><r>crippled<s n="adj"/></r></p></e>
-    <e><p><l>vistlegur<s n="adj"/></l><r>cosy<s n="adj"/></r></p></e>
+    <e><p><l>vistlegur<s n="adj"/></l><r>cosy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vitfirrtur<s n="adj"/></l><r>mad<s n="adj"/></r></p></e>
     <e><p><l>vitgrannur<s n="adj"/></l><r>simple-minded<s n="adj"/></r></p></e>
     <e><p><l>vitrænn<s n="adj"/></l><r>rational<s n="adj"/></r></p></e>
