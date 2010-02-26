@@ -26592,6 +26592,27 @@
     <e><p><l>vesturlönd<s n="n"/><s n="nt"/></l><r>West<s n="n"/></r></p></e> <!-- @NOSGIS -->
     <e><p><l>vitsmunir<s n="n"/><s n="f"/></l><r>intellect<s n="n"/></r></p></e> <!-- @NOSGIS -->
 
+    <e><p><l>nærliggjandi<s n="adj"/></l><r>neighbouring<s n="adj"/></r></p></e>
+    <e><p><l>óalgengur<s n="adj"/></l><r>uncommon<s n="adj"/></r></p></e>
+    <e><p><l>forngrískur<s n="adj"/></l><r>Ancient<b/>Greek<s n="adj"/></r></p></e>
+    <e><p><l>amalegur<s n="adj"/></l><r>not<b/>bad<s n="adj"/></r></p></e>
+    <e><p><l>andfélagslegur<s n="adj"/></l><r>anti-social<s n="adj"/></r></p></e>
+    <e><p><l>andkannalegur<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
+    <e><p><l>artarlegur<s n="adj"/></l><r>handsome<s n="adj"/></r></p></e>
+    <e><p><l>aumlegur<s n="adj"/></l><r>unblessed<s n="adj"/></r></p></e>
+    <e><p><l>auðvirðilegur<s n="adj"/></l><r>despicable<s n="adj"/></r></p></e>
+
+    <e><p><l>breytanlegur<s n="adj"/></l><r>mutable<s n="adj"/></r></p></e>
+    <e><p><l>brjóstumkennanlegur<s n="adj"/></l><r>pathetic<s n="adj"/></r></p></e>
+    <e><p><l>bráðmyndarlegur<s n="adj"/></l><r>very<b/>handsome<s n="adj"/></r></p></e>
+    <e><p><l>bráðskemmtilegur<s n="adj"/></l><r>very<b/>nice<s n="adj"/></r></p></e>
+    <e><p><l>brúklegur<s n="adj"/></l><r>reasonable<s n="adj"/></r></p></e>
+    <e><p><l>búskaparlegur<s n="adj"/></l><r>agricultural<s n="adj"/></r></p></e>
+
+    <e><p><l>dauflegur<s n="adj"/></l><r>dullish<s n="adj"/></r></p></e>
+    <e><p><l>draugalegur<s n="adj"/></l><r>weird<s n="adj"/></r></p></e>
+    <e><p><l>dýrðlegur<s n="adj"/></l><r>splendorous<s n="adj"/></r></p></e>
+
 
   </section>
 </dictionary>
