@@ -26595,9 +26595,9 @@
     <e><p><l>nærliggjandi<s n="adj"/></l><r>neighbouring<s n="adj"/></r></p></e>
     <e><p><l>óalgengur<s n="adj"/></l><r>uncommon<s n="adj"/></r></p></e>
     <e><p><l>forngrískur<s n="adj"/></l><r>Ancient<b/>Greek<s n="adj"/></r></p></e>
-    <e><p><l>amalegur<s n="adj"/></l><r>not<b/>bad<s n="adj"/></r></p></e>
+    <e><p><l>amalegur<s n="adj"/></l><r>not<b/>bad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>andfélagslegur<s n="adj"/></l><r>anti-social<s n="adj"/></r></p></e>
-    <e><p><l>andkannalegur<s n="adj"/></l><r>strange<s n="adj"/></r></p></e>
+    <e><p><l>andkannalegur<s n="adj"/></l><r>strange<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>artarlegur<s n="adj"/></l><r>handsome<s n="adj"/></r></p></e>
     <e><p><l>aumlegur<s n="adj"/></l><r>unblessed<s n="adj"/></r></p></e>
     <e><p><l>auðvirðilegur<s n="adj"/></l><r>despicable<s n="adj"/></r></p></e>
@@ -26610,8 +26610,56 @@
     <e><p><l>búskaparlegur<s n="adj"/></l><r>agricultural<s n="adj"/></r></p></e>
 
     <e><p><l>dauflegur<s n="adj"/></l><r>dullish<s n="adj"/></r></p></e>
-    <e><p><l>draugalegur<s n="adj"/></l><r>weird<s n="adj"/></r></p></e>
+    <e><p><l>draugalegur<s n="adj"/></l><r>weird<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>dýrðlegur<s n="adj"/></l><r>splendorous<s n="adj"/></r></p></e>
+
+    <e><p><l>efirminnilegur<s n="adj"/></l><r>memorable<s n="adj"/></r></p></e>
+    <e><p><l>einmanalegur<s n="adj"/></l><r>solitary<s n="adj"/></r></p></e>
+    <e><p><l>einstrengingslegur<s n="adj"/></l><r>pedantic<s n="adj"/></r></p></e>
+    <e><p><l>eldlegur<s n="adj"/></l><r>flaming<s n="adj"/></r></p></e>
+    <e><p><l>endurvinnanlegur<s n="adj"/></l><r>recycleable<s n="adj"/></r></p></e>
+    <e><p><l>englalegur<s n="adj"/></l><r>angelic<s n="adj"/></r></p></e>
+
+    <e><p><l>feikilegur<s n="adj"/></l><r>overwhelming<s n="adj"/></r></p></e>
+    <e><p><l>finnanlegur<s n="adj"/></l><r>findable<s n="adj"/></r></p></e>
+    <e><p><l>flytjanlegur<s n="adj"/></l><r>transportable<s n="adj"/></r></p></e>
+    <e><p><l>forgengilegur<s n="adj"/></l><r>perishable<s n="adj"/></r></p></e>
+    <e><p><l>forneskjulegur<s n="adj"/></l><r>primaeval<s n="adj"/></r></p></e>
+    <e><p><l>framandlegur<s n="adj"/></l><r>exotic<s n="adj"/></r></p></e>
+    <e><p><l>framseljanlegur<s n="adj"/></l><r>transferable<s n="adj"/></r></p></e>
+    <e><p><l>frjálsmannlegur<s n="adj"/></l><r>permissive<s n="adj"/></r></p></e>
+    <e><p><l>frækilegur<s n="adj"/></l><r>valiant<s n="adj"/></r></p></e>
+    <e><p><l>frísklegur<s n="adj"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>frýnilegur<s n="adj"/></l><r>loveable<s n="adj"/></r></p></e>
+    <e><p><l>fullkomlegur<s n="adj"/></l><r>absolute<s n="adj"/></r></p></e>
+    <e><p><l>fyrirsjáanlegur<s n="adj"/></l><r>predictable<s n="adj"/></r></p></e>
+    <e><p><l>fólskulegur<s n="adj"/></l><r>malignant<s n="adj"/></r></p></e>
+    <e><p><l>föðurlegur<s n="adj"/></l><r>fatherly<s n="adj"/></r></p></e>
+
+    <e><p><l>gervilegur<s n="adj"/></l><r>promising<s n="adj"/></r></p></e>
+    <e><p><l>geðslegur<s n="adj"/></l><r>attractive<s n="adj"/></r></p></e>
+    <e><p><l>glettnislegur<s n="adj"/></l><r>rogueish<s n="adj"/></r></p></e>
+    <e><p><l>greinanlegur<s n="adj"/></l><r>distinguishable<s n="adj"/></r></p></e>
+    <e><p><l>grimmilegur<s n="adj"/></l><r>fierce<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>grámyglulegur<s n="adj"/></l><r>ashen-faced<s n="adj"/></r></p></e>
+    <e><p><l>guðfræðilegur<s n="adj"/></l><r>theological<s n="adj"/></r></p></e>
+    <e><p><l>góðlátlegur<s n="adj"/></l><r>jovial<s n="adj"/></r></p></e>
+
+    <e><p><l>heiftarlegur<s n="adj"/></l><r>virulent<s n="adj"/></r></p></e>
+    <e><p><l>heimilislegur<s n="adj"/></l><r>homely<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hermannlegur<s n="adj"/></l><r>soldierly<s n="adj"/></r></p></e>
+    <e><p><l>hjartanlegur<s n="adj"/></l><r>hearty<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hraustlegur<s n="adj"/></l><r>wholesome<s n="adj"/></r></p></e>
+    <e><p><l>hryggilegur<s n="adj"/></l><r>sorry<s n="adj"/></r></p></e>
+    <e><p><l>hugmyndafræðilegur<s n="adj"/></l><r>ideological<s n="adj"/></r></p></e>
+    <e><p><l>hvatlegur<s n="adj"/></l><r>lively<s n="adj"/></r></p></e>
+    <e><p><l>háalvarlegur<s n="adj"/></l><r>very<b/>serious<s n="adj"/></r></p></e>
+    <e><p><l>hálfkindarlegur<s n="adj"/></l><r>half<b/>sheepish<s n="adj"/></r></p></e>
+    <e><p><l>hálfvandræðalegur<s n="adj"/></l><r>half<b/>embarrassing<s n="adj"/></r></p></e>
+    <e><p><l>hæðnislegur<s n="adj"/></l><r>sardonic<s n="adj"/></r></p></e>
+    <e><p><l>hörkuduglegur<s n="adj"/></l><r>very<b/>hard-working<s n="adj"/></r></p></e>
+
+
 
 
   </section>
