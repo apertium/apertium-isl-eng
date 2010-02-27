@@ -12098,8 +12098,8 @@
     <e><p><l>sæskrímsli<s n="n"/><s n="nt"/></l><r>sea<b/>monster<s n="n"/></r></p></e>
     <e><p><l>sæstjarna<s n="n"/><s n="f"/></l><r>starfish<s n="n"/></r></p></e>
     <e><p><l>sæti<s n="n"/><s n="nt"/></l><r>seat<s n="n"/></r></p></e>
-    <e><p><l>sæti<s n="n"/><s n=":1"/><s n="nt"/></l><r>place<s n="n"/></r></p></e>
-    <e><p><l>sæti<s n="n"/><s n=":2"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>
+    <e slr="1"><p><l>sæti<s n="n"/><s n="nt"/></l><r>place<s n="n"/></r></p></e>
+    <e slr="2"><p><l>sæti<s n="n"/><s n="nt"/></l><r>position<s n="n"/></r></p></e>
     <e><p><l>sætistala<s n="n"/><s n="f"/></l><r>atomic<b/>number<s n="n"/></r></p></e>
     <e><p><l>sætt<s n="n"/><s n="f"/></l><r>reconciliation<s n="n"/></r></p></e>
     <e><p><l>séra<s n="n"/><s n="m"/></l><r>reverend<s n="n"/></r></p></e>
