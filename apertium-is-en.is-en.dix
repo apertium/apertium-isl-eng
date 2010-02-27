@@ -2306,8 +2306,8 @@
 <!--<p><l>yfirvegaður<s n="adj"/></l><r>deliberate<s n="adj"/></r></p></e>-->
 <!--<p><l>yfirvegaður<s n="adj"/></l><r>rational<s n="adj"/></r></p></e>-->
 <!--<p><l>yfirvegaður<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>-->
-    <e slr="0"><p><l>yfirþyrmandi<s n="adj"/></l><r>overwhelming<s n="adj"/></r></p></e>
-    <e slr="1"><p><l>yfirþyrmandi<s n="adj"/><s n=":1"/></l><r>staggering<s n="adj"/></r></p></e>
+    <e><p><l>yfirþyrmandi<s n="adj"/></l><r>overwhelming<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>yfirþyrmandi<s n="adj"/></l><r>staggering<s n="adj"/></r></p></e>
 <!--<p><l>yndislegur<s n="adj"/></l><r>delicious<s n="adj"/></r></p></e>-->
 <!--<p><l>yndislegur<s n="adj"/></l><r>graceful<s n="adj"/></r></p></e>-->
 <!--<p><l>yndislegur<s n="adj"/></l><r>lovely<s n="adj"/></r></p></e>-->
