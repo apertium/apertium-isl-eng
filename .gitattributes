@@ -96,6 +96,7 @@ dev/testvoc-summary.txt -text
 /en-is.prob -text svneol=unset#unset
 /icenlpApertium.sh -text
 /is-en.prob -text
+/lexchoicebil.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
 /pipeline.txt -text

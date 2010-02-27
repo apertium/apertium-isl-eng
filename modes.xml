@@ -2,7 +2,7 @@
 <modes>
   <mode name="is-en" install="yes">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -11,7 +11,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -43,7 +43,7 @@
 
   <mode name="is-en-postchunk">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -52,7 +52,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -78,7 +78,7 @@
 
   <mode name="is-en-interchunk2">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -87,7 +87,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -109,7 +109,7 @@
 
   <mode name="is-en-interchunk1">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -118,7 +118,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -136,7 +136,7 @@
 
   <mode name="is-en-chunker">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -145,7 +145,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -159,7 +159,7 @@
 
   <mode name="is-en-lex">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -176,7 +176,7 @@
 
   <mode name="is-en-tagger">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -190,7 +190,7 @@
 
   <mode name="is-en-morph">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="is-en.automorf.bin"/>
       </program>
     </pipeline>
@@ -198,7 +198,7 @@
 
   <mode name="is-en-cmpd-lex">
     <pipeline>
-      <program name="lt-proc -e">
+      <program name="lt-proc -w -e">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="apertium-tagger -p -g $2">
@@ -207,7 +207,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -216,7 +216,7 @@
 
   <mode name="is-en-cmpd">
     <pipeline>
-      <program name="lt-proc -e">
+      <program name="lt-proc -w -e">
         <file name="is-en.automorf.bin"/>
       </program>
       <program name="cg-proc">
@@ -225,7 +225,7 @@
       <program name="apertium-tagger -p -g $2">
         <file name="is-en.prob"/>
       </program>
-      <program name="cg-proc -n">
+      <program name="cg-proc -n -w">
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
