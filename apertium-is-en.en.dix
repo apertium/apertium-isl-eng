@@ -15298,6 +15298,7 @@
     <e lm="trousseau"><i>trousseau</i><par n="tableau__n"/></e>
     <e lm="truce"><i>truce</i><par n="house__n"/></e>
     <e lm="truck"><i>truck</i><par n="house__n"/></e>
+    <e lm="pickup truck"><i>pickup<b/>truck</i><par n="house__n"/></e>
     <e lm="truncation"><i>truncation</i><par n="house__n"/></e>
     <e lm="trunk"><i>trunk</i><par n="house__n"/></e>
     <e lm="trust"><i>trust</i><par n="house__n"/></e>
