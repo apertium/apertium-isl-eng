@@ -12495,6 +12495,8 @@
     <e lm="governor"><i>governor</i><par n="house__n"/></e>
     <e lm="grace"><i>grace</i><par n="house__n"/></e>
     <e lm="grade"><i>grade</i><par n="house__n"/></e>
+    <e lm="brigade"><i>brigade</i><par n="house__n"/></e>
+    <e lm="fire brigade"><i>fire<b/>brigade</i><par n="house__n"/></e>
     <e lm="graduate"><i>graduate</i><par n="house__n"/></e>
     <e lm="grain"><i>grain</i><par n="house__n"/></e>
     <e lm="gram"><i>gram</i><par n="house__n"/></e>
@@ -13107,6 +13109,7 @@
     <e lm="library"><i>librar</i><par n="bab/y__n"/></e>
     <e lm="librarian"><i>librarian</i><par n="house__n"/></e>
     <e lm="licence"><i>licence</i><par n="house__n"/></e>
+    <e lm="off licence"><i>off<b/>licence</i><par n="house__n"/></e>
     <e lm="license"><i>license</i><par n="house__n"/></e>
     <e lm="licking"><i>licking</i><par n="house__n"/></e>
     <e lm="lid"><i>lid</i><par n="house__n"/></e>
@@ -35008,7 +35011,6 @@
     <e lm="like"><i>like</i><par n="at__pr"/></e>
     <e lm="near"><i>near</i><par n="at__pr"/></e>
     <e lm="of"><i>of</i><par n="at__pr"/></e>
-    <e lm="off"><i>off</i><par n="at__pr"/></e>
     <e lm="on"><i>on</i><par n="at__pr"/></e>
     <e lm="on top of"><i>on<b/>top<b/>of</i><par n="at__pr"/></e>
     <e lm="onto"><i>onto</i><par n="at__pr"/></e>
