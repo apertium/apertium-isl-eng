@@ -15954,7 +15954,7 @@
 
 
 	
-    <e lm="RÚV"><i>RÚV</i><par n="BBC__n"/></e>
+    <e lm="RÚV"><par n="Rr"/><i>ÚV</i><par n="BBC__n"/></e>
     <e lm="BBC"><i>BBC</i><par n="BBC__n"/></e>
     <e lm="CD"><i>CD</i><par n="BBC__n"/></e>
     <e lm="CDC"><i>CDC</i><par n="BBC__n"/></e>
