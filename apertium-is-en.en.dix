@@ -9261,6 +9261,7 @@
     <e lm="inaugural meeting"><i>inaugural<b/>meeting</i><par n="house__n"/></e>
     <e lm="annual meeting"><i>annual<b/>meeting</i><par n="house__n"/></e>
     <e lm="hot dog"><i>hot<b/>dog</i><par n="house__n"/></e>
+    <e lm="search dog"><i>search<b/>dog</i><par n="house__n"/></e>
     <e lm="scheduled coach"><i>scheduled<b/>coach</i><par n="access__n"/></e>
     <e lm="bank branch"><i>bank<b/>branch</i><par n="access__n"/></e>
     <e lm="packed lunch"><i>packed<b/>lunch</i><par n="access__n"/></e>
@@ -9408,6 +9409,7 @@
     <e lm="fire extinguisher"><i>fire<b/>extinguisher</i><par n="house__n"/></e>
     <e lm="good weather"><i>good<b/>weather</i><par n="house__n"/></e>
     <e lm="female worker"><i>female<b/>worker</i><par n="house__n"/></e>
+    <e lm="rescue worker"><i>rescue<b/>worker</i><par n="house__n"/></e>
     <e lm="meat worker"><i>meat<b/>worker</i><par n="house__n"/></e>
     <e lm="itinerant worker"><i>itinerant<b/>worker</i><par n="house__n"/></e>
     <e lm="drug dealer"><i>drug<b/>dealer</i><par n="house__n"/></e>

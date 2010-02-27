@@ -13606,6 +13606,7 @@
     <e><p><l>vinnsla<s n="n"/><s n="f"/></l><r>processing<s n="n"/></r></p></e>
     <e><p><l>samning<s n="n"/><s n="f"/></l><r>composition<s n="n"/></r></p></e>
     <e><p><l>lengja<s n="n"/><s n="f"/></l><r>strip<s n="n"/></r></p></e>
+    <e><p><l>leitarhundur<s n="n"/><s n="m"/></l><r>search<b/>dog<s n="n"/></r></p></e>
     <e><p><l>lögg<s n="n"/><s n="f"/></l><r>drop<s n="n"/></r></p></e>
     <e><p><l>uppsetning<s n="n"/><s n="f"/></l><r>arrangement<s n="n"/></r></p></e>
     <e><p><l>skúr<s n="n"/><s n="m"/></l><r>shed<s n="n"/></r></p></e>
@@ -26313,6 +26314,7 @@
     <e><p><l>berserkur<s n="n"/><s n="m"/></l><r>berserker<s n="n"/></r></p></e>
     <e><p><l>bjargbelti<s n="n"/><s n="nt"/></l><r>life<b/>belt<s n="n"/></r></p></e>
     <e><p><l>björgunarbelti<s n="n"/><s n="nt"/></l><r>life<b/>belt<s n="n"/></r></p></e>
+    <e><p><l>björgunarsveitarmaður<s n="n"/><s n="m"/></l><r>rescue<b/>worker<s n="n"/></r></p></e>
     <e><p><l>blámaskríkja<s n="n"/><s n="f"/></l><r>cerulean<b/>warbler<s n="n"/></r></p></e>
     <e><p><l>blísturhljóð<s n="n"/><s n="nt"/></l><r>sibliant<b/>consonant<s n="n"/></r></p></e>
     <e><p><l>blóðflokkur<s n="n"/><s n="m"/></l><r>blood<b/>group<s n="n"/></r></p></e>
