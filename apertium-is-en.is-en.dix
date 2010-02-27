@@ -3623,16 +3623,17 @@
 <e><p><l>neðansjávar<s n="adv"/></l><r>undersea<s n="adv"/></r></p></e>
 <e><p><l>neðarlega<s n="adv"/></l><r>in<b/>the<b/>bottom<b/>half<s n="adv"/></r></p></e>
 <e><p><l>norður<s n="adv"/></l><r>north<s n="adv"/></r></p></e>
-<e><p><l>nálægt<s n="adv"/><s n=":0"/></l><r>close<b/>by<s n="adv"/></r></p></e>
-<e><p><l>nálægt<s n="adv"/><s n=":1"/></l><r>about<s n="adv"/></r></p></e>
+<e><p><l>nálægt<s n="adv"/></l><r>near<s n="adv"/></r></p></e>
+<e slr="1"><p><l>nálægt<s n="adv"/></l><r>close<b/>by<s n="adv"/></r></p></e>
+<e slr="2"><p><l>nálægt<s n="adv"/></l><r>about<s n="adv"/></r></p></e>
 <e><p><l>núorðið<s n="adv"/></l><r>these<b/>days<s n="adv"/></r></p></e>
 <e><p><l>ofanjarðar<s n="adv"/></l><r>above<b/>ground<s n="adv"/></r></p></e>
 <e><p><l>ofarlega<s n="adv"/></l><r>high<b/>up<s n="adv"/></r></p></e>
 <e><p><l>rakleitt<s n="adv"/></l><r>straight<s n="adv"/></r></p></e>
 <e><p><l>rakleiðis<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
 <e><p><l>rangsælis<s n="adv"/></l><r>anti-clockwise<s n="adv"/></r></p></e>
-<e><p><l>réttsælis<s n="adv"/><s n=":0"/></l><r>clockwise<s n="adv"/></r></p></e>
-<e><p><l>réttsælis<s n="adv"/><s n=":1"/></l><r>with<b/>the<b/>sun<s n="adv"/></r></p></e>
+<e><p><l>réttsælis<s n="adv"/></l><r>clockwise<s n="adv"/></r></p></e>
+<e slr="1"><p><l>réttsælis<s n="adv"/></l><r>with<b/>the<b/>sun<s n="adv"/></r></p></e>
 <e><p><l>samdægurs<s n="adv"/></l><r>on<b/>the<b/>same<b/>day<s n="adv"/></r></p></e>
 <e><p><l>sjálfkrafa<s n="adv"/></l><r>automatically<s n="adv"/></r></p></e>
 <e><p><l>sjóleiðis<s n="adv"/></l><r>by<b/>sea<s n="adv"/></r></p></e>
