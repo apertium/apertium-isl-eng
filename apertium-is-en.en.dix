@@ -142,6 +142,7 @@
       <e>       <re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
       <e>       <i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C</l><r>°C<s n="num"/></r></p></e>
       <e>      <re>[0-9]+([.,][0-9]+)?</re>      <p>        <l><b/>o'clock</l>        <r><b/>o'clock<s n="num"/></r></p></e>
+      <e>      <re>[0-9]+([.,][0-9]+)?:[0-9]+([.,][0-9]+)?</re><p><l></l><r><s n="num"/></r></p></e>
     </pardef>
     
     <pardef n="separa">
@@ -29781,6 +29782,7 @@
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="separated"><i>separated</i><par n="expensive__adj"/></e>
+    <e lm="safe and sound"><i>safe<b/>and<b/>sound</i><par n="expensive__adj"/></e>
     <e lm="separated from"><i>separated<b/>from</i><par n="expensive__adj"/></e>
     <e lm="time consuming"><i>time<b/>consuming</i><par n="expensive__adj"/></e>
     <e lm="for more than"><i>for<b/>more<b/>than</i><par n="expensive__adj"/></e>

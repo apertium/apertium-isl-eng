@@ -194,6 +194,7 @@
     <e><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
+    <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?:[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
     <!-- END Punctuation and guessers -->
 
@@ -1080,6 +1081,7 @@
 <!--<p><l>heill<s n="adj"/></l><r>complete<s n="adj"/></r></p></e>-->
 <!--<p><l>heill<s n="adj"/></l><r>healthy<s n="adj"/><s n="sint"/></r></p></e>-->
     <e><p><l>heill<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
+    <e><p><l>heill<g><b/>á<b/>húfi</g><s n="adj"/></l><r>safe<b/>and<b/>sound<s n="adj"/></r></p></e>
 <!--<p><l>heillandi<s n="adj"/></l><r>alluring<s n="adj"/></r></p></e>-->
 <!--<p><l>heillandi<s n="adj"/></l><r>captivating<s n="adj"/></r></p></e>-->
     <e><p><l>heillandi<s n="adj"/></l><r>charming<s n="adj"/></r></p></e>
