@@ -5499,7 +5499,7 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_verb"/>
-              <clip pos="2" side="tl" part="temps"/>
+              <lit-tag v="pp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>

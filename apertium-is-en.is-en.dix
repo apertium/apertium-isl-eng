@@ -752,8 +752,9 @@
 <!--<p><l>eftirsóttur<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>-->
 <!--<p><l>eftirsóttur<s n="adj"/></l><r>preferred<s n="adj"/></r></p></e>-->
 <!--<p><l>eiginlegur<s n="adj"/></l><r>intrinsic<s n="adj"/></r></p></e>-->
-    <e><p><l>eiginlegur<s n="adj"/></l><r>kind<b/>of<s n="adj"/></r></p></e>
+<!--<e><p><l>eiginlegur<s n="adj"/></l><r>kind<b/>of<s n="adj"/></r></p></e>-->
 <!--<p><l>eiginlegur<s n="adj"/></l><r>virtual<s n="adj"/></r></p></e>-->
+    <e><p><l>eiginlegur<s n="adj"/></l><r>natural<s n="adj"/></r></p></e>
     <e><p><l>eiginn<s n="adj"/></l><r>own<s n="adj"/></r></p></e>
     <e><p><l>eilífur<s n="adj"/></l><r>eternal<s n="adj"/></r></p></e>
 <!--<p><l>eilífur<s n="adj"/></l><r>immortal<s n="adj"/></r></p></e>-->
@@ -2867,7 +2868,8 @@
     <e><p><l>eftir<b/>því<b/>hver<s n="adv"/></l><r>depending<b/>on<b/>who<s n="adv"/></r></p></e>
     <e><p><l>eftirá<b/>að<b/>hyggja<s n="adv"/></l><r>in<b/>hindsight<s n="adv"/></r></p></e>
     <e><p><l>eigi<s n="adv"/></l><r>not<s n="adv"/></r></p></e> <!-- this is a negative term (like "ei"), but is also a form of the verb "að eiga" -->
-    <e><p><l>eiginlega<s n="adv"/></l><r>basically<s n="adv"/></r></p></e>
+    <e><p><l>eiginlega<s n="adv"/></l><r>actually<s n="adv"/></r></p></e>
+    <!--<e><p><l>eiginlega<s n="adv"/></l><r>basically<s n="adv"/></r></p></e>-->
 <!--<p><l>eiginlega<s n="adv"/></l><r>sort<g><b/>of</g><s n="adv"/></r></p></e>-->
 <!--<p><l>einatt<s n="adv"/></l><r>always<s n="adv"/></r></p></e>-->
     <e><p><l>einatt<s n="adv"/></l><r>frequently<s n="adv"/></r></p></e>
@@ -26806,6 +26808,7 @@
     <e><p><l>eftirá<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
     <e><p><l>því<b/>síður<s n="adv"/></l><r>definitely<b/>not<s n="adv"/></r></p></e>
 
+    <e><p><l>plasmasjónvarp<s n="n"/><s n="nt"/></l><r>plasma-screen<b/>television<s n="n"/></r></p></e>
     <e><p><l>kvennafræði<s n="n"/><s n="f"/></l><r>woman<b/>studies<s n="n"/></r></p></e>
     <e><p><l>karlafræði<s n="n"/><s n="f"/></l><r>man<b/>studies<s n="n"/></r></p></e>
     <e><p><l>hinseginfræði<s n="n"/><s n="f"/></l><r>gay<b/>studies<s n="n"/></r></p></e>

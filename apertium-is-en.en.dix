@@ -15346,6 +15346,7 @@
     <e lm="telescope"><i>telescope</i><par n="house__n"/></e>
     <e lm="teletext"><i>teletext</i><par n="house__n"/></e>
     <e lm="television"><i>television</i><par n="house__n"/></e>
+    <e lm="plasma-screen television"><i>plasma-screen<b/>television</i><par n="house__n"/></e>
     <e lm="temperament"><i>temperament</i><par n="house__n"/></e>
     <e lm="temperature"><i>temperature</i><par n="house__n"/></e>
     <e lm="template"><i>template</i><par n="house__n"/></e>
