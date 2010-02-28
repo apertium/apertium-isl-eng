@@ -1970,7 +1970,7 @@
     <e><p><l>svalur<s n="adj"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svangur<s n="adj"/></l><r>hungry<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svartklæddur<s n="adj"/></l><r>dressed<b/>in<b/>black<s n="adj"/></r></p></e>
-    <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
+    <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>svipaður<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>-->
 <!--<p><l>svipaður<s n="adj"/></l><r>like<s n="adj"/></r></p></e>-->
     <e><p><l>svipaður<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
@@ -2628,7 +2628,7 @@
 <!--<p><l>þarfur<s n="adj"/></l><r>required<s n="adj"/></r></p></e>-->
     <e><p><l>þegjandi<s n="adj"/></l><r>silent<s n="adj"/></r></p></e>
     <e><p><l>þekktur<s n="adj"/></l><r>known<s n="adj"/></r></p></e>
- <e><p><l>þeldökkur<s n="adj"/></l><r>black<s n="adj"/></r></p></e> <!-- i.e. a person's skin-color / race -->
+    <e><p><l>þeldökkur<s n="adj"/></l><r>black<s n="adj"/><s n="sint"/></r></p></e> <!-- i.e. a person's skin-color / race -->
     <e><p><l>þeldökkur<s n="adj"/></l><r>dark-skinned<s n="adj"/></r></p></e>
     <e><p><l>þjálfaður<s n="adj"/></l><r>trained<s n="adj"/></r></p></e>
 <!--<p><l>þjóðlegur<s n="adj"/></l><r>ethnic<s n="adj"/></r></p></e>-->
@@ -14673,7 +14673,7 @@
     <e><p><l>kynbæta<s n="vblex"/></l><r>breed<s n="vblex"/></r></p></e>
     <e c="0"><p><l>kynda<s n="vblex"/></l><r>heat<b/>up<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>kynda<s n="vblex"/></l><r>light<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>kynna<s n="vblex"/></l><r>make<b/>known<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>kynna<s n="vblex"/></l><r>make<g><b/>known</g><s n="vblex"/></r></p></e>
     <e c="0"><p><l>kynna<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
     <e slr="2"><p><l>kynna<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
     <e><p><l>kyrkja<s n="vblex"/></l><r>strangle<s n="vblex"/></r></p></e>

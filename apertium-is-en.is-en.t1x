@@ -2158,7 +2158,7 @@
                  <var n="cur_adj_grau_preadv1"/>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_adj"/>
-                 <clip pos="1" side="tl" part="grau"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>

@@ -30087,6 +30087,7 @@
 
 	
     <e lm="bad"><i></i><par n="/bad__adj"/></e>
+    <e lm="not bad"><i>not<b/></i><par n="/bad__adj"/></e>
     <e lm="skinny"><i>skinn</i><par n="happ/y__adj"/></e>
     <e lm="heavy"><i>heav</i><par n="happ/y__adj"/></e>
     <e lm="good"><i></i><par n="/good__adj"/></e>
@@ -30346,7 +30347,7 @@
     <e lm="biological"><i>biological</i><par n="expensive__adj"/></e>
     <e lm="bitter"><i>bitter</i><par n="common/__adj"/></e>
     <e lm="bizarre"><i>bizarre</i><par n="expensive__adj"/></e>
-    <e lm="black"><i>black</i><par n="expensive__adj"/></e>
+    <e lm="black"><i>black</i><par n="long/__adj"/></e>
     <e lm="blatant"><i>blatant</i><par n="common/__adj"/></e>
     <e lm="blind"><i>blind</i><par n="long/__adj"/></e>
     <e lm="blond"><i>blond</i><par n="long/__adj"/></e>
