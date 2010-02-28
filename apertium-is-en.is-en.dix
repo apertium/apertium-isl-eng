@@ -263,6 +263,7 @@
 
     <!-- Time -->
     <e><p><l>í<b/>gær<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>gærmorgun<s n="adv"/></l><r>yesterday<b/>morning<s n="adv"/></r></p></e>
     <e><p><l>í<b/>gærkvöldi<s n="adv"/></l><r>yesterday<b/>evening<s n="adv"/></r></p></e>
     <e><p><l>í<b/>dag<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
     <e><p><l>í<b/>morgun<s n="adv"/></l><r>this<b/>morning<s n="adv"/></r></p></e>
@@ -756,7 +757,7 @@
     <e><p><l>einangraður<s n="adj"/></l><r>isolated<s n="adj"/></r></p></e>
 <!--<p><l>einangraður<s n="adj"/></l><r>separate<s n="adj"/></r></p></e>-->
 <!--<p><l>einangraður<s n="adj"/></l><r>solitary<s n="adj"/></r></p></e>-->
-    <e><p><l>einasti<s n="adj"/></l><r>every<g><b/>single<b/>one</g><s n="adj"/></r></p></e>
+    <e><p><l>einasti<s n="adj"/></l><r>every<b/>single<b/>one<s n="adj"/></r></p></e>
 <!--<p><l>einasti<s n="adj"/></l><r>one<s n="adj"/></r></p></e>-->
 <!--<p><l>einbeittur<s n="adj"/></l><r>concentrated<s n="adj"/></r></p></e>-->
 <!--<p><l>einbeittur<s n="adj"/></l><r>driven<s n="adj"/></r></p></e>-->
@@ -10432,6 +10433,7 @@
     <e><p><l>kæfa<s n="n"/><s n="f"/></l><r>pâté<s n="n"/></r></p></e>
     <e><p><l>kæliskápur<s n="n"/><s n="m"/></l><r>refrigerator<s n="n"/></r></p></e>
     <e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometre<s n="n"/></r></p></e>
+    <e><p><l>sentímetri<s n="n"/><s n="m"/></l><r>centimetre<s n="n"/></r></p></e>
     <!--<e><p><l>kílómetri<s n="n"/><s n="m"/></l><r>kilometer<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>kínverska<s n="n"/><s n="f"/></l><r>Chinese<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>kísill<s n="n"/><s n="m"/></l><r>silicon<s n="n"/></r></p></e>
@@ -26293,6 +26295,7 @@
     <e><p><l>vinna<g><b/>á<b/>vöktum</g><s n="vblex"/></l><r>monitor<s n="vblex"/></r></p></e>
     <e><p><l>gera<g><b/>verkfall</g><s n="vblex"/></l><r>go<g><b/>on<b/>strike</g><s n="vblex"/></r></p></e>
     <e><p><l>ganga<g><b/>af</g><s n="vblex"/></l><r>leave<s n="vblex"/></r></p></e>
+    <e><p><l>stuðla<g><b/>að</g><s n="vblex"/></l><r>work<g><b/>for</g><s n="vblex"/></r></p></e>
     <e><p><l>bera<g><b/>kennsl<b/>á</g><s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
 
 

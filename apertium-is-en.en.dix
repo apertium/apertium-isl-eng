@@ -33876,6 +33876,7 @@
     <e lm="smirk"><i>smirk</i><par n="accept__vblex"/></e>
     <e lm="work"><i>work</i><par n="accept__vblex"/></e>
     <e lm="work out"><i>work</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
+    <e lm="work for"><i>work</i><par n="accept__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e>
     <e lm="work hard at"><i>work</i><par n="accept__vblex"/><p><l><b/>hard<b/>at</l><r><g><b/>hard<b/>at</g></r></p></e>
     <e lm="work shifts"><i>work</i><par n="accept__vblex"/><p><l><b/>shifts</l><r><g><b/>shifts</g></r></p></e>
     <e lm="worry"><i>worr</i><par n="appl/y__vblex"/></e>
@@ -34799,6 +34800,7 @@
     <e lm="yes"><i>yes</i><par n="maybe__adv"/></e>
     <e lm="yesterday"><i>yesterday</i><par n="maybe__adv"/></e>
     <e lm="yesterday evening"><i>yesterday<b/>evening</i><par n="maybe__adv"/></e>
+    <e lm="yesterday morning"><i>yesterday<b/>morning</i><par n="maybe__adv"/></e>
     <e lm="yet"><i>yet</i><par n="maybe__adv"/></e>
     <e lm="ago"><i>ago</i><par n="maybe__adv"/></e>
     <e lm="last night"><i>last<b/>night</i><par n="maybe__adv"/></e>
