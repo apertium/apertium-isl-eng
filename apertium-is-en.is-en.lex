@@ -13,6 +13,7 @@ LIST Num              = (num) ("milljarður"ri) ("þúsund"ri);
 LIST N                = (n);
 LIST Verb             = (vblex);
 LIST Prep             = (pr);
+LIST Adv              = (adv);
 
 LIST Actv             = (actv);
 LIST Midv             = (midv);
@@ -101,7 +102,7 @@ SUBSTITUTE ("afgreiða") ("afgreiða:1") ("afgreiða") + Verb (1 ("mál"));
 
 # "fylgja" :  {0:"accompany", 1:"keep# up", 2:"pay# attention"};
 SUBSTITUTE ("fylgja") ("fylgja:1") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB);
-SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB LINK 1* @←OBJ | @X);
+SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB LINK 1* @←OBJ | @X BARRIER CLB);
 
 
 ## 
@@ -129,3 +130,9 @@ SUBSTITUTE ("á") ("á:2") ("á") + Prep (1C BUILDINGS);
 # "rómanskur" : {0: "Romance", 1: "Latin"};
 SUBSTITUTE ("rómanskur") ("rómanskur:1") ("rómanskur") + Verb (1C ("Ameríka"));
 
+## 
+## ADVERBS
+##
+
+# "ámóta"     : {0: "similar", 1: "about as"};
+SUBSTITUTE ("ámóta") ("ámóta:1") ("ámóta") + Adv (1* @←OBJ | @X BARRIER CLB);

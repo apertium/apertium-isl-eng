@@ -552,6 +552,7 @@ MAP (@X) TARGET VerbFin;
 
 MAP (@X) TARGET N;
 MAP (@X) TARGET ProperNom;
+MAP (@X) TARGET Det;
 
 # ganga# í vs. ganga+í
 #SUBSTITUTE (pr @X) (pr) Verb (0 (+í));

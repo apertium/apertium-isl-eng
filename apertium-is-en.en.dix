@@ -31885,6 +31885,7 @@
     <e lm="executive"><i>executive</i><par n="expensive__adj"/></e>
     <e lm="evangelist"><i>evangelist</i><par n="expensive__adj"/></e>
     <e lm="extra"><i>extra</i><par n="expensive__adj"/></e>
+    <e lm="extra"><i>extra</i><par n="maybe__adv"/></e>
     <e lm="pharmaceutical"><i>pharmaceutical</i><par n="expensive__adj"/></e>
     <e lm="feminist"><i>feminist</i><par n="expensive__adj"/></e>
     <e lm="fugitive"><i>fugitive</i><par n="expensive__adj"/></e>
@@ -32208,6 +32209,8 @@
     <e lm="rocky"><i>rock</i><par n="happ/y__adj"/></e>
     <e lm="unfriendly"><i>unfriendl</i><par n="happ/y__adj"/></e>
     <e lm="equally"><i>equally</i><par n="expensive__adj"/></e>
+    <e lm="externally"><i>externally</i><par n="maybe__adv"/></e>
+    <e lm="centrally"><i>centrally</i><par n="maybe__adv"/></e>
     <e lm="fully"><i>fully</i><par n="expensive__adj"/></e>
     <e lm="elderly"><i>elderly</i><par n="expensive__adj"/></e>
     <e lm="curly"><i>curl</i><par n="happ/y__adj"/></e>
@@ -34031,6 +34034,9 @@
     <e lm="actively"><i>actively</i><par n="maybe__adv"/></e>
     <e lm="actually"><i>actually</i><par n="maybe__adv"/></e>
     <e lm="acutely"><i>acutely</i><par n="maybe__adv"/></e>
+    <e lm="on the phone"><i>on<b/>the<b/>phone</i><par n="maybe__adv"/></e>
+    <e lm="in some places"><i>in<b/>some<b/>places</i><par n="maybe__adv"/></e>
+    <e lm="with great pomp and ceremony"><i>with<b/>great<b/>pomp<b/>and<b/>ceremony</i><par n="maybe__adv"/></e>
     <e lm="additionally"><i>additionally</i><par n="maybe__adv"/></e>
     <e lm="adequately"><i>adequately</i><par n="maybe__adv"/></e>
     <e lm="affectionately"><i>affectionately</i><par n="maybe__adv"/></e>
@@ -34161,7 +34167,9 @@
     <e lm="dangerously"><i>dangerously</i><par n="maybe__adv"/></e>
     <e lm="dearly"><i>dearly</i><par n="maybe__adv"/></e>
     <e lm="deeply"><i>deeply</i><par n="maybe__adv"/></e>
+    <e lm="about as"><i>about<b/>as</i><par n="maybe__adv"/></e>
     <e lm="definitely"><i>definitely</i><par n="maybe__adv"/></e>
+    <e lm="definitely not"><i>definitely<b/>not</i><par n="maybe__adv"/></e>
     <e lm="definitively"><i>definitively</i><par n="maybe__adv"/></e>
     <e lm="deliberately"><i>deliberately</i><par n="maybe__adv"/></e>
     <e lm="democratically"><i>democratically</i><par n="maybe__adv"/></e>
@@ -34811,6 +34819,9 @@
     <e lm="wholesale"><i>wholesale</i><par n="maybe__adv"/></e>
     <e lm="wholly"><i>wholly</i><par n="maybe__adv"/></e>
     <e lm="why"><i>why</i><par n="where__adv"/></e>
+    <e lm="why not"><i>why<b/>not</i><par n="where__adv"/></e>
+    <e lm="what kind of"><i>what<b/>kind<b/>of</i><par n="where__adv"/></e>
+    <e lm="any sort of"><i>any<b/>sort<b/>of</i><par n="where__adv"/></e>
     <e lm="wide open"><i>wide<b/>open</i><par n="maybe__adv"/></e>
     <e lm="widely"><i>widely</i><par n="maybe__adv"/></e>
     <e lm="willingly"><i>willingly</i><par n="maybe__adv"/></e>
@@ -34965,6 +34976,8 @@
     <e lm="lower"><i>lower</i><par n="maybe__adv"/></e>
     <e lm="nearby"><i>nearby</i><par n="maybe__adv"/></e>
     <e lm="underground"><i>underground</i><par n="maybe__adv"/></e>
+    <e lm="undersea"><i>undersea</i><par n="maybe__adv"/></e>
+    <e lm="underseas"><i>underseas</i><par n="maybe__adv"/></e>
     <e lm="farther north"><i>farther<b/>north</i><par n="maybe__adv"/></e>
     <e lm="usual"><i>usual</i><par n="maybe__adv"/></e>
     <e lm="very"><i>very</i><par n="maybe__adv"/></e>
@@ -35244,6 +35257,7 @@
     <e lm="yourselves"><p><l>yourselves</l><r>yourselves<s n="prn"/><s n="ref"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="themselves"><p><l>themselves</l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     <e lm="all"><i>all</i><par n="all__prn"/></e>
+    <e lm="much"><i>much</i><par n="all__prn"/></e>
     <e lm="another"><i>another</i><par n="everyone__prn"/></e>
     <e lm="another one"><i>another<b/>one</i><par n="everyone__prn"/></e>
     <e lm="any"><i>any</i><par n="all__prn"/></e>
@@ -35341,6 +35355,7 @@
     <e lm="opposite"><i>opposite</i><par n="at__pr"/></e>
     <e lm="facing" r="RL"><i>facing</i><par n="at__pr"/></e>
     <e lm="between"><i>between</i><par n="at__pr"/></e>
+    <e lm="half way between"><i>half<b/>way<b/>between</i><par n="at__pr"/></e>
     <e lm="but"><i>but</i><par n="at__pr"/></e>
     <e lm="by"><i>by</i><par n="at__pr"/></e>
     <e lm="by means of"><i>by<b/>means<b/>of</i><par n="at__pr"/></e>
@@ -35567,6 +35582,7 @@
     <e lm="without a doubt"><i>without<b/>a<b/>doubt</i><par n="maybe__adv"/></e>
     <e lm="bright and early"><i>bright<b/>and<b/>early</i><par n="maybe__adv"/></e>
     <e lm="smoothly"><i>smoothly</i><par n="maybe__adv"/></e>
+    <e lm="alongside"><i>alongside</i><par n="maybe__adv"/></e>
     <e lm="without hesitation"><i>without<b/>hesitation</i><par n="maybe__adv"/></e>
     <e lm="thoughtlessly"><i>thoughtlessly</i><par n="maybe__adv"/></e>
     <e lm="everyday"><i>everyday</i><par n="maybe__adv"/></e>

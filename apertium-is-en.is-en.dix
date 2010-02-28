@@ -2724,7 +2724,11 @@
     <e><p><l>hversu<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvert<b/>þá<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvers<b/>vegna<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>hvers<b/>konar<s n="adv"/><s n="itg"/></l><r>what<b/>kind<b/>of<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>ýmiss<b/>konar<s n="adv"/><s n="itg"/></l><r>any<b/>sort<b/>of<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvert<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>því<b/>ekki<b/>það<s n="adv"/><s n="itg"/></l><r>why<b/>not<s n="adv"/></r></p></e>
+
 
     <e><p><l>af<s n="adv"/></l><r>off<s n="adv"/></r></p></e>
     <e><p><l>af<b/>hverju<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
@@ -3584,7 +3588,7 @@
 <e><p><l>fyllilega<s n="adv"/></l><r>fully<s n="adv"/></r></p></e>
 <e><p><l>fádæma<s n="adv"/></l><r>exceptionally<s n="adv"/></r></p></e>
 <e><p><l>fúslega<s n="adv"/></l><r>gladly<s n="adv"/></r></p></e>
-<e c="0"><p><l>gagngert<s n="adv"/></l><r>just<b/>to<s n="adv"/></r></p></e>
+<e c="0"><p><l>gagngert<s n="adv"/></l><r>just<s n="adv"/></r></p></e> <!-- removed 'to' ~ 'gagngert til að skoða hvali' -->
 <e slr="1"><p><l>gagngert<s n="adv"/></l><r>with<b/>clear<b/>intent<s n="adv"/></r></p></e>
 <e><p><l>gefins<s n="adv"/></l><r>free<s n="adv"/></r></p></e>
 <e><p><l>gjörla<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
@@ -3595,7 +3599,6 @@
 <e><p><l>hinsvegar<s n="adv"/></l><r>on<b/>the<b/>other<b/>hand<s n="adv"/></r></p></e>
 <e><p><l>hugsunarlaust<s n="adv"/></l><r>thoughtlessly<s n="adv"/></r></p></e>
 <e><p><l>hversdags<s n="adv"/></l><r>everyday<s n="adv"/></r></p></e>
-<e><p><l>hverskonar<s n="adv"/></l><r>any<b/>sort<b/>of<s n="adv"/></r></p></e>
 <e><p><l>hvorummegin<s n="adv"/></l><r>on<b/>both<b/>sides<s n="adv"/></r></p></e> <!-- CHECK spelling (should only be one m?) -MDB -->
 <e><p><l>hálfpartinn<s n="adv"/></l><r>rather<s n="adv"/></r></p></e>
 <e><p><l>hálfvegis<s n="adv"/></l><r>more<b/>or<b/>less<s n="adv"/></r></p></e>
@@ -3618,12 +3621,12 @@
 <e><p><l>mestmegnis<s n="adv"/></l><r>for<b/>the<b/>most<b/>part<s n="adv"/></r></p></e>
 <e c="0"><p><l>meðfram<s n="adv"/></l><r>alongside<s n="adv"/></r></p></e>
 <e slr="1"><p><l>meðfram<s n="adv"/></l><r>partly<s n="adv"/></r></p></e>
-<e><p><l>miðsvæðis<s n="adv"/></l><r>central<s n="adv"/></r></p></e>
+<e><p><l>miðsvæðis<s n="adv"/></l><r>centrally<s n="adv"/></r></p></e>
 <e><p><l>mætavel<s n="adv"/></l><r>very<b/>well<s n="adv"/></r></p></e>
 <e><p><l>móti<s n="adv"/></l><r>in<b/>return<s n="adv"/></r></p></e>
 <e c="0"><p><l>naumlega<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
 <e slr="1"><p><l>naumlega<s n="adv"/></l><r>meagerly<s n="adv"/></r></p></e>
-<e><p><l>nettó<s n="adv"/></l><r>net<s n="adv"/></r></p></e> <!-- weight or money -->
+<!--<e><p><l>nettó<s n="adv"/></l><r>net<s n="adv"/></r></p></e> --><!-- weight or money -->
 <e><p><l>neðansjávar<s n="adv"/></l><r>undersea<s n="adv"/></r></p></e>
 <e><p><l>neðarlega<s n="adv"/></l><r>in<b/>the<b/>bottom<b/>half<s n="adv"/></r></p></e>
 <e><p><l>norður<s n="adv"/></l><r>north<s n="adv"/></r></p></e>
@@ -3676,7 +3679,8 @@
 <e><p><l>vísvitandi<s n="adv"/></l><r>deliberately<s n="adv"/></r></p></e>
 <e><p><l>yfirhöfuð<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
 <e><p><l>yfirmáta<s n="adv"/></l><r>excessively<s n="adv"/></r></p></e>
-<e><p><l>ámóta<s n="adv"/></l><r>about<b/>as<s n="adv"/></r></p></e>
+<e><p><l>ámóta<s n="adv"/></l><r>similar<s n="adv"/></r></p></e>
+<e slr="1"><p><l>ámóta<s n="adv"/></l><r>about<b/>as<s n="adv"/></r></p></e>
 <e><p><l>árdegis<s n="adv"/></l><r>in<b/>the<b/>morning<s n="adv"/></r></p></e>
 <e><p><l>ívið<s n="adv"/></l><r>a<b/>bit<s n="adv"/></r></p></e>
 <e><p><l>ógjarnan<s n="adv"/></l><r>unwillingly<s n="adv"/></r></p></e>
@@ -3690,7 +3694,7 @@
 <e><p><l>örsjaldan<s n="adv"/></l><r>very<b/>rarely<s n="adv"/></r></p></e>
 <e><p><l>öðruvísi<s n="adv"/></l><r>differently<s n="adv"/></r></p></e>
 <e><p><l>útbyrðis<s n="adv"/></l><r>overboard<s n="adv"/></r></p></e>
-<e><p><l>útvortis<s n="adv"/></l><r>external<s n="adv"/></r></p></e> <!-- (on the body) -->
+<e><p><l>útvortis<s n="adv"/></l><r>externally<s n="adv"/></r></p></e> <!-- (on the body) -->
 <e><p><l>þannig<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
 <e><p><l>þarafleiðandi<s n="adv"/></l><r>consequently<s n="adv"/></r></p></e>
 <e><p><l>þaraðauki<s n="adv"/></l><r>in<b/>addition<s n="adv"/></r></p></e>
@@ -3970,6 +3974,7 @@
     <e slr="2"><p><l>við<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
     <e><p><l>á<b/>milli<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>mitt<b/>á<b/>milli<s n="pr"/></l><r>half<b/>way<b/>between<s n="pr"/></r></p></e>
     <e><p><l>á<b/>móti<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
     <e><p><l>á<b/>tímum<s n="pr"/></l><r>at<b/>the<b/>time<b/>of<s n="pr"/></r></p></e>
     <e><p><l>á<s n="pr"/></l><r>on<s n="pr"/></r></p></e> 
@@ -4030,6 +4035,7 @@
     <e><p><l>Jörgína<s n="np"/><s n="ant"/><s n="f"/></l><r>Jörgína<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Linda<s n="np"/><s n="ant"/><s n="f"/></l><r>Linda<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Pála<s n="np"/><s n="ant"/><s n="f"/></l><r>Pála<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Varða<s n="np"/><s n="ant"/><s n="f"/></l><r>Varða<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Julía<s n="np"/><s n="ant"/><s n="f"/></l><r>Julía<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Sophia<s n="np"/><s n="ant"/><s n="f"/></l><r>Sophia<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -6380,6 +6386,7 @@
     <e><p><l>þakka<s n="vblex"/></l><r>thank<s n="vblex"/></r></p></e>
 <!--<p><l>þarfna<s n="vblex"/></l><r>depend<s n="vblex"/></r></p></e>-->
     <e><p><l>þarfna<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
+    <e><p><l>þarfnast<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
 <!--<p><l>þarfna<s n="vblex"/></l><r>require<s n="vblex"/></r></p></e>-->
 <!--<p><l>þefa<s n="vblex"/></l><r>nose<s n="vblex"/></r></p></e>-->
 <!--<p><l>þefa<s n="vblex"/></l><r>scent<s n="vblex"/></r></p></e>-->
@@ -26782,6 +26789,14 @@
     <e><p><l>samferða<s n="adj"/></l><r>accompanying<s n="adj"/></r></p></e>
     <e><p><l>sjálfkrafa<s n="adj"/></l><r>automatic<s n="adj"/></r></p></e>
     <e><p><l>vestari<s n="adj"/></l><r>westerly<s n="adj"/></r></p></e>
+
+    <e><p><l>í<b/>símanum<s n="adv"/></l><r>on<b/>the<b/>phone<s n="adv"/></r></p></e>
+    <e><p><l>um<b/>þær<b/>mundir<s n="adv"/></l><r>at<b/>that<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>sömu<b/>mund<s n="adv"/></l><r>at<b/>the<b/>same<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>sumstaðar<s n="adv"/></l><r>in<b/>some<b/>places<s n="adv"/></r></p></e>
+    <e><p><l>með<b/>pompi<b/>og<b/>prakt<s n="adv"/></l><r>with<b/>great<b/>pomp<b/>and<b/>ceremony<s n="adv"/></r></p></e>
+    <e><p><l>eftirá<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
+    <e><p><l>því<b/>síður<s n="adv"/></l><r>definitely<b/>not<s n="adv"/></r></p></e>
 
 
   </section>
