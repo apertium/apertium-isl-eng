@@ -184,7 +184,7 @@
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+s</re><p><l>en<s n="np"/><s n="ant"/><s n="m"/></l><r>en<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
-    <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
+    <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
 
     <e><re>[2-3]?[0,4-9]</re><p><l>.<b/></l><r>th<b/></r></p><par n="mánuðir__months__num"/></e>
     <e><re>1[0-9]</re><p><l>.<b/></l><r>th<b/></r></p><par n="mánuðir__months__num"/></e>
@@ -199,7 +199,7 @@
     <e><re>[0-9]+([.,][0-9]+)?</re><i>-</i><re>[0-9]+([.,][0-9]+)?%?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
-    <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><b/>o'clock<s n="num"/></r></p></e>
+    <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r>o'clock<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?:[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
     <!-- END Punctuation and guessers -->
@@ -7494,7 +7494,7 @@
 <e c="0"><p><l>seiða<s n="vblex"/></l><r>enchant<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>seiða<s n="vblex"/></l><r>put<b/>a<b/>spell<b/>on<s n="vblex"/></r></p></e>
 <e><p><l>selflytja<s n="vblex"/></l><r>transport<b/>piece<b/>by<b/>piece<s n="vblex"/></r></p></e>
-<e><p><l>serða<s n="vblex"/></l><r><b/>penetrate<s n="vblex"/></r></p></e> <!-- (of males, i.e. fuck) -->
+<e><p><l>serða<s n="vblex"/></l><r>penetrate<s n="vblex"/></r></p></e> <!-- (of males, i.e. fuck) -->
 <e><p><l>seytla<s n="vblex"/></l><r>trickle<s n="vblex"/></r></p></e>
 <e><p><l>seyða<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e> <!-- (at a low temperature) -->
 <e><p><l>seðja<s n="vblex"/></l><r>fill<s n="vblex"/></r></p></e>
@@ -8801,7 +8801,7 @@
     <e><p><l>diskó<s n="n"/><s n="nt"/></l><r>disco<s n="n"/></r></p></e>
     <e><p><l>diskótek<s n="n"/><s n="nt"/></l><r>discotheque<s n="n"/></r></p></e>
     <e><p><l>djöfull<s n="n"/><s n="m"/></l><r>devil<s n="n"/></r></p></e>
-    <e><p><l>djúp<s n="n"/><s n="nt"/></l><r>deep<s n="n"/></r></p></e>
+    <e><p><l>djúp<s n="n"/><s n="nt"/></l><r>depth<s n="n"/></r></p></e>
 
     <e><p><l>djús<s n="n"/><s n="nt"/></l><r>juice<s n="n"/></r></p></e> <!-- (usually denoting juice mixed from concentrate that is not a pure fruit extract) -->
     <!--<e><p><l>djús<s n="n"/><s n="nt"/></l><r>squash<s n="n"/></r></p></e>--> <!-- Commonwealth usage -->
@@ -10569,7 +10569,7 @@
     <e><p><l>leiðtogi<s n="n"/><s n="m"/></l><r>leader<s n="n"/></r></p></e>
     <e><p><l>lenda<s n="n"/><s n="f"/></l><r>flank<s n="n"/></r></p></e>
     <e><p><l>lengd<s n="n"/><s n="f"/></l><r>length<s n="n"/></r></p></e>
-    <e><p><l>lesandabréf<s n="n"/><s n="nt"/></l><r>letter<b/>to<b/>the<b/>editor<s n="n"/></r></p></e>
+    <e><p><l>lesandabréf<s n="n"/><s n="nt"/></l><r>letter<g><b/>to<b/>the<b/>editor</g><s n="n"/></r></p></e>
     <e><p><l>lesblinda<s n="n"/><s n="f"/></l><r>dyslexia<s n="n"/></r></p></e>
     <e><p><l>lesbía<s n="n"/><s n="f"/></l><r>lesbian<s n="n"/></r></p></e> <!-- (woman homosexual) -->
     <e><p><l>lesning<s n="n"/><s n="f"/></l><r>perusal<s n="n"/></r></p></e>
@@ -13432,7 +13432,6 @@
     <e><p><l>suðvesturland<s n="n"/><s n="nt"/></l><r>South-Western<b/>Iceland<s n="n"/></r></p></e> <!-- prop. ? -->
     <e><p><l>Þjóðleikhús<s n="n"/><s n="nt"/></l><r>The<b/>National<b/>Theatre<s n="n"/></r></p></e> <!-- np ? -->
     <e><p><l>Ríkisútvarp<s n="n"/><s n="nt"/></l><r>The<b/>State<b/>Radio<s n="n"/></r></p></e>  <!-- np ? -->
-    <e><p><l>framsóknarflokkur<s n="n"/><s n="m"/></l><r>progressive<b/>party<s n="n"/></r></p></e>
     <e><p><l>ríkisútvarp<s n="n"/><s n="nt"/></l><r>national<b/>broadcaster<s n="n"/></r></p></e>
 
     <e><p><l>draga<b/>á<b/>langinn<s n="n"/><s n="m"/></l><r>prolong<s n="n"/></r></p></e> <!--??? check category -->
@@ -15035,7 +15034,7 @@
     <e c="0"><p><l>seiða<s n="vblex"/></l><r>enchant<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>seiða<s n="vblex"/></l><r>put<g><b/>a<b/>spell<b/>on</g><s n="vblex"/></r></p></e>
     <e><p><l>selflytja<s n="vblex"/></l><r>transport<g><b/>piece<b/>by<b/>piece</g><s n="vblex"/></r></p></e>
-    <e><p><l>serða<s n="vblex"/></l><r><b/>penetrate<s n="vblex"/></r></p></e> <!-- (of males, i.e. fuck) -->
+    <e><p><l>serða<s n="vblex"/></l><r>penetrate<s n="vblex"/></r></p></e> <!-- (of males, i.e. fuck) -->
     <e><p><l>seytla<s n="vblex"/></l><r>trickle<s n="vblex"/></r></p></e>
     <e><p><l>seyða<s n="vblex"/></l><r>bake<s n="vblex"/></r></p></e> <!-- (at a low temperature) -->
     <e><p><l>seðja<s n="vblex"/></l><r>fill<s n="vblex"/></r></p></e>
@@ -15742,7 +15741,7 @@
     <e><p><l>Grænlenska<s n="n"/><s n="f"/></l><r>Greenlandic<s n="n"/></r></p></e>
     <e><p><l>Hjaltland<s n="n"/><s n="nt"/></l><r>Shetland<b/>Islands<s n="n"/></r></p></e>
     <e><p><l>Indlandshaf<s n="n"/><s n="nt"/></l><r>Indian<b/>Ocean<s n="n"/></r></p></e>
-    <e><p><l>Indverji<s n="n"/><s n="m"/></l><r><b/>Indian<s n="n"/></r></p></e> <!-- (East) -->
+    <e><p><l>Indverji<s n="n"/><s n="m"/></l><r>Indian<s n="n"/></r></p></e> <!-- (East) -->
     <e><p><l>Japani<s n="n"/><s n="m"/></l><r>Japanese<s n="n"/></r></p></e>
     <e><p><l>Jóti<s n="n"/><s n="m"/></l><r>Jutlander<s n="n"/></r></p></e>
     <e><p><l>Kristur<s n="n"/><s n="m"/></l><r>Christ<s n="n"/></r></p></e>
@@ -15763,7 +15762,7 @@
     <e><p><l>Spánverji<s n="n"/><s n="m"/></l><r>Spaniard<s n="n"/></r></p></e>
     <e><p><l>Sunnlendingur<s n="n"/><s n="m"/></l><r>person<b/>from<b/>the<b/>south<s n="n"/></r></p></e>
     <e><p><l>Suðurskautsland<s n="n"/><s n="nt"/></l><r>Antarctica<s n="n"/></r></p></e>
-    <e><p><l>Svartahaf<s n="n"/><s n="nt"/></l><r><b/>Black<b/>Sea<s n="n"/></r></p></e> <!-- (the) -->
+    <e><p><l>Svartahaf<s n="n"/><s n="nt"/></l><r>Black<b/>Sea<s n="n"/></r></p></e> <!-- (the) -->
     <e><p><l>Svisslendingur<s n="n"/><s n="m"/></l><r>Swiss<s n="n"/></r></p></e>
     <e><p><l>Svíi<s n="n"/><s n="m"/></l><r>Swede<s n="n"/></r></p></e>
     <e><p><l>Sýrland<s n="n"/><s n="nt"/></l><r>Syria<s n="n"/></r></p></e>
@@ -15771,7 +15770,7 @@
     <e><p><l>Tékki<s n="n"/><s n="m"/></l><r>Czech<s n="n"/></r></p></e>
     <e><p><l>Tékkland<s n="n"/><s n="nt"/></l><r>Czech<b/>Republic<s n="n"/></r></p></e>
     <e><p><l>Ungverji<s n="n"/><s n="m"/></l><r>Hungarian<s n="n"/></r></p></e>
-    <e><p><l>Vesturheimur<s n="n"/><s n="m"/></l><r><b/>America<s n="n"/></r></p></e> <!-- (North) -->
+    <e><p><l>Vesturheimur<s n="n"/><s n="m"/></l><r>America<s n="n"/></r></p></e> <!-- (North) -->
     <e><p><l>Vesturland<s n="n"/><s n="nt"/></l><r>Western<b/>Iceland<s n="n"/></r></p></e>
     <e><p><l>Vín<s n="n"/><s n="f"/></l><r>Vienna<s n="n"/></r></p></e>
     <e><p><l>Vínarborg<s n="n"/><s n="f"/></l><r>Vienna<s n="n"/></r></p></e>
@@ -15940,7 +15939,7 @@
     <e><p><l>antilópa<s n="n"/><s n="f"/></l><r>antelope<s n="n"/></r></p></e>
     <e><p><l>anórakkur<s n="n"/><s n="m"/></l><r>anorak<s n="n"/></r></p></e>
     <e><p><l>apalhraun<s n="n"/><s n="nt"/></l><r>aa<b/>lava<s n="n"/></r></p></e>
-    <e><p><l>appelsín<s n="n"/><s n="nt"/></l><r><b/>orange<b/>drink<s n="n"/></r></p></e> <!-- (trade mark) -->
+    <e><p><l>appelsín<s n="n"/><s n="nt"/></l><r>orange<b/>drink<s n="n"/></r></p></e> <!-- (trade mark) -->
     <e><p><l>appelsína<s n="n"/><s n="f"/></l><r>orange<s n="n"/></r></p></e>
     <e><p><l>apríkósa<s n="n"/><s n="f"/></l><r>apricot<s n="n"/></r></p></e>
     <e><p><l>aprílgabb<s n="n"/><s n="nt"/></l><r>fool's<b/>errand<s n="n"/></r></p></e>
@@ -16047,7 +16046,7 @@
     <e><p><l>aðflutningur<s n="n"/><s n="m"/></l><r>import<s n="n"/></r></p></e>
     <e c="0"><p><l>aðför<s n="n"/><s n="f"/></l><r>attack<s n="n"/></r></p></e>
     <e slr="1"><p><l>aðför<s n="n"/><s n="f"/></l><r>conduct<s n="n"/></r></p></e>
-    <e><p><l>aðgangseyrir<s n="n"/><s n="m"/></l><r><b/>admission<s n="n"/></r></p></e> <!-- (price of) -->
+    <e><p><l>aðgangseyrir<s n="n"/><s n="m"/></l><r>admission<s n="n"/></r></p></e> <!-- (price of) -->
     <e><p><l>aðgangskort<s n="n"/><s n="nt"/></l><r>pass<s n="n"/></r></p></e>
     <e><p><l>aðgangsorð<s n="n"/><s n="nt"/></l><r>password<s n="n"/></r></p></e>
     <e><p><l>aðgerð<s n="n"/><s n="f"/></l><r>operation<s n="n"/></r></p></e>
@@ -16149,8 +16148,8 @@
     <e><p><l>beinbrot<s n="n"/><s n="nt"/></l><r>fracture<s n="n"/></r></p></e>
     <e><p><l>beita<s n="n"/><s n="f"/></l><r>bait<s n="n"/></r></p></e>
     <e><p><l>beitilyng<s n="n"/><s n="nt"/></l><r>ling<s n="n"/></r></p></e>
-    <e><p><l>bekkjarbróðir<s n="n"/><s n="m"/></l><r><b/>classmate<b/><s n="n"/></r></p></e> <!-- (male) -->
-    <e><p><l>bekkjarsystir<s n="n"/><s n="f"/></l><r><b/>classmate<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>bekkjarbróðir<s n="n"/><s n="m"/></l><r>classmate<b/><s n="n"/></r></p></e> <!-- (male) -->
+    <e><p><l>bekkjarsystir<s n="n"/><s n="f"/></l><r>classmate<b/><s n="n"/></r></p></e> <!-- (female) -->
     <e c="0"><p><l>belgur<s n="n"/><s n="m"/></l><r>hide<s n="n"/></r></p></e>
     <e slr="1"><p><l>belgur<s n="n"/><s n="m"/></l><r>skin<s n="n"/></r></p></e>
     <e slr="2"><p><l>belgur<s n="n"/><s n="m"/></l><r>bellows<s n="n"/></r></p></e>
@@ -16225,7 +16224,7 @@
     <e><p><l>björgunarsund<s n="n"/><s n="nt"/></l><r>rescue<b/>swimming<s n="n"/></r></p></e>
     <e><p><l>björgunarsveit<s n="n"/><s n="f"/></l><r>rescue<b/>team<s n="n"/></r></p></e>
     <e><p><l>björk<s n="n"/><s n="f"/></l><r>birch<s n="n"/></r></p></e>
-    <e><p><l>bjúga<s n="n"/><s n="nt"/></l><r><b/>sausage<s n="n"/></r></p></e> <!-- (smoked) -->
+    <e><p><l>bjúga<s n="n"/><s n="nt"/></l><r>sausage<s n="n"/></r></p></e> <!-- (smoked) -->
     <e><p><l>blandari<s n="n"/><s n="m"/></l><r>mixer<s n="n"/></r></p></e>
     <e><p><l>blankalogn<s n="n"/><s n="nt"/></l><r>dead<b/>calm<s n="n"/></r></p></e>
     <e><p><l>blaðagrein<s n="n"/><s n="f"/></l><r>newspaper<b/>article<s n="n"/></r></p></e>
@@ -16301,7 +16300,7 @@
     <e slr="1"><p><l>blóðsuga<s n="n"/><s n="f"/></l><r>vampire<s n="n"/></r></p></e>
     <e slr="2"><p><l>blóðsuga<s n="n"/><s n="f"/></l><r>extortionist<s n="n"/></r></p></e>
     <e><p><l>blóðtappi<s n="n"/><s n="m"/></l><r>blood<b/>clot<s n="n"/></r></p></e>
-    <e><p><l>blóðvatn<s n="n"/><s n="nt"/></l><r><b/>serum<s n="n"/></r></p></e> <!-- (blood) -->
+    <e><p><l>blóðvatn<s n="n"/><s n="nt"/></l><r>serum<s n="n"/></r></p></e> <!-- (blood) -->
     <e><p><l>blóðþrýstingur<s n="n"/><s n="m"/></l><r>blood<b/>pressure<s n="n"/></r></p></e>
     <e><p><l>blöff<s n="n"/><s n="nt"/></l><r>bluff<s n="n"/></r></p></e>
     <e><p><l>blökkumaður<s n="n"/><s n="m"/></l><r>black<b/>man<s n="n"/></r></p></e>
@@ -16358,10 +16357,10 @@
     <e><p><l>brask<s n="n"/><s n="nt"/></l><r>profiteering<s n="n"/></r></p></e>
     <e><p><l>braskari<s n="n"/><s n="m"/></l><r>speculator<s n="n"/></r></p></e>
     <e><p><l>brautarpallur<s n="n"/><s n="m"/></l><r>platform<s n="n"/></r></p></e>
-    <e><p><l>brautarstöð<s n="n"/><s n="f"/></l><r><b/>station<s n="n"/></r></p></e> <!-- (railway) -->
+    <e><p><l>brautarstöð<s n="n"/><s n="f"/></l><r>station<s n="n"/></r></p></e> <!-- (railway) -->
     <e><p><l>brautryðjandi<s n="n"/><s n="m"/></l><r>pioneer<s n="n"/></r></p></e>
     <e><p><l>brauðsneið<s n="n"/><s n="f"/></l><r>slice<g><b/>of<b/>bread</g><s n="n"/></r></p></e>
-    <e><p><l>bredda<s n="n"/><s n="f"/></l><r><b/>knife<s n="n"/></r></p></e> <!-- (large) -->
+    <e><p><l>bredda<s n="n"/><s n="f"/></l><r>knife<s n="n"/></r></p></e> <!-- (large) -->
     <e><p><l>breiddargráða<s n="n"/><s n="f"/></l><r>degree<g><b/>of<b/>latitude</g><s n="n"/></r></p></e>
     <e><p><l>breiðþota<s n="n"/><s n="f"/></l><r>jumbo<b/>jet<s n="n"/></r></p></e>
     <e><p><l>brekka<s n="n"/><s n="f"/></l><r>slope<s n="n"/></r></p></e>
@@ -16421,7 +16420,7 @@
     <e slr="1"><p><l>brunnur<s n="n"/><s n="m"/></l><r>spring<s n="n"/></r></p></e>
     <e><p><l>bruðl<s n="n"/><s n="nt"/></l><r>extravagance<s n="n"/></r></p></e>
     <e><p><l>brydding<s n="n"/><s n="f"/></l><r>border<s n="n"/></r></p></e>
-    <e><p><l>brák<s n="n"/><s n="f"/></l><r><b/>slick<s n="n"/></r></p></e> <!-- (oil) -->
+    <e><p><l>brák<s n="n"/><s n="f"/></l><r>slick<s n="n"/></r></p></e> <!-- (oil) -->
     <e><p><l>bráðabani<s n="n"/><s n="m"/></l><r>tie-breaker<s n="n"/></r></p></e>
     <e c="0"><p><l>bræla<s n="n"/><s n="f"/></l><r>smoke<s n="n"/></r></p></e>
     <e slr="1"><p><l>bræla<s n="n"/><s n="f"/></l><r>wind<b/>and<b/>rain<s n="n"/></r></p></e> <!-- (at sea) -->
@@ -16480,7 +16479,7 @@
     <e slr="1"><p><l>bytta<s n="n"/><s n="f"/></l><r>small<b/>boat<s n="n"/></r></p></e>
     <e slr="2"><p><l>bytta<s n="n"/><s n="f"/></l><r>drunkard<s n="n"/></r></p></e>
     <e><p><l>bákn<s n="n"/><s n="nt"/></l><r>huge<b/>thing<s n="n"/></r></p></e>
-    <e><p><l>bálköstur<s n="n"/><s n="m"/></l><r><b/>pyre<s n="n"/></r></p></e> <!-- (funeral) -->
+    <e><p><l>bálköstur<s n="n"/><s n="m"/></l><r>pyre<s n="n"/></r></p></e> <!-- (funeral) -->
     <e><p><l>bára<s n="n"/><s n="f"/></l><r>wave<s n="n"/></r></p></e>
     <e><p><l>bárujárn<s n="n"/><s n="nt"/></l><r>corrugated<b/>iron<s n="n"/></r></p></e>
     <e><p><l>bás<s n="n"/><s n="m"/></l><r>stall<s n="n"/></r></p></e>
@@ -16510,7 +16509,7 @@
     <e><p><l>bókaormur<s n="n"/><s n="m"/></l><r>bookworm<s n="n"/></r></p></e>
     <e><p><l>bókari<s n="n"/><s n="m"/></l><r>accountant<s n="n"/></r></p></e>
     <e><p><l>bókaskrá<s n="n"/><s n="f"/></l><r>bibliography<s n="n"/></r></p></e>
-    <e><p><l>bókaútgefandi<s n="n"/><s n="m"/></l><r><b/>publisher<s n="n"/></r></p></e> <!-- (book) -->
+    <e><p><l>bókaútgefandi<s n="n"/><s n="m"/></l><r>publisher<s n="n"/></r></p></e> <!-- (book) -->
     <e c="0"><p><l>bókaútgáfa<s n="n"/><s n="f"/></l><r>publisher<s n="n"/></r></p></e>
     <e slr="1"><p><l>bókaútgáfa<s n="n"/><s n="f"/></l><r>publishing<s n="n"/></r></p></e>
     <e><p><l>bókbindari<s n="n"/><s n="m"/></l><r>bookbinder<s n="n"/></r></p></e>
@@ -16629,7 +16628,7 @@
     <e><p><l>doði<s n="n"/><s n="m"/></l><r>numbness<s n="n"/></r></p></e>
     <e><p><l>dramatík<s n="n"/><s n="f"/></l><r>drama<s n="n"/></r></p></e>
     <e><p><l>dramb<s n="n"/><s n="nt"/></l><r>arrogance<s n="n"/></r></p></e>
-    <e><p><l>drangi<s n="n"/><s n="m"/></l><r><b/>pillar<b/>of<b/>rock<s n="n"/></r></p></e> <!-- (free-standing) -->
+    <e><p><l>drangi<s n="n"/><s n="m"/></l><r>pillar<b/>of<b/>rock<s n="n"/></r></p></e> <!-- (free-standing) -->
     <e><p><l>draugagangur<s n="n"/><s n="m"/></l><r>haunting<s n="n"/></r></p></e>
     <e><p><l>draugasaga<s n="n"/><s n="f"/></l><r>ghost<b/>story<s n="n"/></r></p></e>
     <e><p><l>draumsóley<s n="n"/><s n="f"/></l><r>poppy<s n="n"/></r></p></e>
@@ -16685,7 +16684,7 @@
     <e><p><l>dulnefni<s n="n"/><s n="nt"/></l><r>pseudonym<s n="n"/></r></p></e>
     <e><p><l>dulvitund<s n="n"/><s n="f"/></l><r>subconscious<s n="n"/></r></p></e>
     <e><p><l>dumbungur<s n="n"/><s n="m"/></l><r>overcast<b/>weather<s n="n"/></r></p></e>
-    <e><p><l>dunkur<s n="n"/><s n="m"/></l><r><b/>can<s n="n"/></r></p></e> <!-- (big) -->
+    <e><p><l>dunkur<s n="n"/><s n="m"/></l><r>can<s n="n"/></r></p></e> <!-- (big) -->
     <e><p><l>durgur<s n="n"/><s n="m"/></l><r>boor<s n="n"/></r></p></e>
     <e><p><l>durtur<s n="n"/><s n="m"/></l><r>boor<s n="n"/></r></p></e>
     <e><p><l>duttlungur<s n="n"/><s n="m"/></l><r>whim<s n="n"/></r></p></e>
@@ -16702,10 +16701,10 @@
     <e><p><l>dyrasími<s n="n"/><s n="m"/></l><r>entrance<b/>telephone<s n="n"/></r></p></e>
     <e><p><l>dyravörður<s n="n"/><s n="m"/></l><r>doorman<s n="n"/></r></p></e>
     <e><p><l>dys<s n="n"/><s n="f"/></l><r>grave<b/>of<b/>heaped-up<b/>stones<s n="n"/></r></p></e>
-    <e><p><l>dádýr<s n="n"/><s n="nt"/></l><r><b/>deer<s n="n"/></r></p></e> <!-- (fallow) -->
-    <e c="0"><p><l>dálkur<s n="n"/><s n="m"/></l><r><b/>column<s n="n"/></r></p></e> <!-- (newspaper) -->
+    <e><p><l>dádýr<s n="n"/><s n="nt"/></l><r>deer<s n="n"/></r></p></e> <!-- (fallow) -->
+    <e c="0"><p><l>dálkur<s n="n"/><s n="m"/></l><r>column<s n="n"/></r></p></e> <!-- (newspaper) -->
     <e slr="1"><p><l>dálkur<s n="n"/><s n="m"/></l><r>spine<b/>of<b/>a<b/>fish<s n="n"/></r></p></e>
-    <e slr="2"><p><l>dálkur<s n="n"/><s n="m"/></l><r><b/>knife<s n="n"/></r></p></e> <!-- (sheath) -->
+    <e slr="2"><p><l>dálkur<s n="n"/><s n="m"/></l><r>knife<s n="n"/></r></p></e> <!-- (sheath) -->
     <e><p><l>dánarbú<s n="n"/><s n="nt"/></l><r>estate<s n="n"/></r></p></e> <!-- (at death) -->
     <e><p><l>dánarfregn<s n="n"/><s n="f"/></l><r>death<b/>announcement<s n="n"/></r></p></e>
     <e><p><l>dánarorsök<s n="n"/><s n="f"/></l><r>cause<b/>of<b/>death<s n="n"/></r></p></e>
@@ -16779,7 +16778,7 @@
     <e><p><l>eftirvænting<s n="n"/><s n="f"/></l><r>expectation<s n="n"/></r></p></e>
     <e><p><l>eggjahvíta<s n="n"/><s n="f"/></l><r>egg<b/>white<s n="n"/></r></p></e>
     <e><p><l>eggjakaka<s n="n"/><s n="f"/></l><r>omelette<s n="n"/></r></p></e>
-    <e><p><l>eggjarauða<s n="n"/><s n="f"/></l><r><b/>yolk<s n="n"/></r></p></e> <!-- (egg) -->
+    <e><p><l>eggjarauða<s n="n"/><s n="f"/></l><r>yolk<s n="n"/></r></p></e> <!-- (egg) -->
     <e><p><l>eggjastokkur<s n="n"/><s n="m"/></l><r>ovary<s n="n"/></r></p></e>
     <e><p><l>egglos<s n="n"/><s n="nt"/></l><r>ovulation<s n="n"/></r></p></e>
     <e><p><l>egó<s n="n"/><s n="nt"/></l><r>ego<s n="n"/></r></p></e>
@@ -16855,7 +16854,7 @@
     <e><p><l>eldavél<s n="n"/><s n="f"/></l><r>kitchen<b/>stove<s n="n"/></r></p></e>
     <e c="0"><p><l>eldflaug<s n="n"/><s n="f"/></l><r>rocket<s n="n"/></r></p></e>
     <e slr="1"><p><l>eldflaug<s n="n"/><s n="f"/></l><r>missile<s n="n"/></r></p></e>
-    <e><p><l>eldgígur<s n="n"/><s n="m"/></l><r><b/>crater<s n="n"/></r></p></e> <!-- (volcanic) -->
+    <e><p><l>eldgígur<s n="n"/><s n="m"/></l><r>crater<s n="n"/></r></p></e> <!-- (volcanic) -->
     <e><p><l>eldhaf<s n="n"/><s n="nt"/></l><r>blaze<s n="n"/></r></p></e>
     <e><p><l>eldhætta<s n="n"/><s n="f"/></l><r>fire<b/>risk/hazard<s n="n"/></r></p></e>
     <e><p><l>eldhúsborð<s n="n"/><s n="nt"/></l><r>kitchen<b/>table<s n="n"/></r></p></e>
@@ -16900,7 +16899,7 @@
     <e><p><l>ennisband<s n="n"/><s n="nt"/></l><r>headband<s n="n"/></r></p></e>
     <e><p><l>ensím<s n="n"/><s n="nt"/></l><r>enzyme<s n="n"/></r></p></e>
     <e><p><l>eplakaka<s n="n"/><s n="f"/></l><r>apple<b/>pie<s n="n"/></r></p></e>
-    <e><p><l>eplavín<s n="n"/><s n="nt"/></l><r><b/>cider<s n="n"/></r></p></e> <!-- (strong) -->
+    <e><p><l>eplavín<s n="n"/><s n="nt"/></l><r>cider<s n="n"/></r></p></e> <!-- (strong) -->
     <e><p><l>epík<s n="n"/><s n="f"/></l><r>epic<s n="n"/></r></p></e>
     <e><p><l>erfingi<s n="n"/><s n="m"/></l><r>heir<s n="n"/></r></p></e>
     <e><p><l>erfisdrykkja<s n="n"/><s n="f"/></l><r>funeral<b/>feast<s n="n"/></r></p></e>
@@ -16928,7 +16927,7 @@
     <e><p><l>eymd<s n="n"/><s n="f"/></l><r>wretchedness<s n="n"/></r></p></e>
     <e><p><l>eyri<s n="n"/><s n="f"/></l><r>sandbank<s n="n"/></r></p></e>
     <e><p><l>eyrir<s n="n"/><s n="m"/></l><r>Scandinavian<b/>coin<s n="n"/></r></p></e> <!-- (one-hundredth of a króna) -->
-    <e c="0"><p><l>eyrnahlíf<s n="n"/><s n="f"/></l><r><b/>hearing<b/>protectors<s n="n"/></r></p></e> <!-- (pl) -->
+    <e c="0"><p><l>eyrnahlíf<s n="n"/><s n="f"/></l><r>hearing<b/>protectors<s n="n"/></r></p></e> <!-- (pl) -->
     <e slr="1"><p><l>eyrnahlíf<s n="n"/><s n="f"/></l><r>ear<b/>muff<s n="n"/></r></p></e>
     <e><p><l>eyrnalokkur<s n="n"/><s n="m"/></l><r>earring<s n="n"/></r></p></e>
     <e><p><l>eyrnamergur<s n="n"/><s n="m"/></l><r>earwax<s n="n"/></r></p></e>
@@ -17021,7 +17020,7 @@
     <e><p><l>ferskja<s n="n"/><s n="f"/></l><r>peach<s n="n"/></r></p></e>
     <e><p><l>ferðafélag<s n="n"/><s n="nt"/></l><r>travel<b/>association<s n="n"/></r></p></e>
     <e><p><l>ferðahandbók<s n="n"/><s n="f"/></l><r>travel<b/>guide<s n="n"/></r></p></e>
-    <e><p><l>ferðakort<s n="n"/><s n="nt"/></l><r><b/>map<s n="n"/></r></p></e> <!-- (road) -->
+    <e><p><l>ferðakort<s n="n"/><s n="nt"/></l><r>map<s n="n"/></r></p></e> <!-- (road) -->
     <e><p><l>ferðalag<s n="n"/><s n="nt"/></l><r>journey<s n="n"/></r></p></e>
     <e><p><l>ferðalangur<s n="n"/><s n="m"/></l><r>traveller<s n="n"/></r></p></e>
     <e><p><l>ferðamannastaður<s n="n"/><s n="m"/></l><r>tourist<b/>destination<s n="n"/></r></p></e>
@@ -17140,7 +17139,7 @@
     <e><p><l>fleipur<s n="n"/><s n="nt"/></l><r>loose<b/>talk<s n="n"/></r></p></e>
     <e><p><l>fleiður<s n="n"/><s n="nt"/></l><r>graze<s n="n"/></r></p></e>
     <e c="0"><p><l>fleki<s n="n"/><s n="m"/></l><r>raft<s n="n"/></r></p></e>
-    <e slr="1"><p><l>fleki<s n="n"/><s n="m"/></l><r><b/>plate<s n="n"/></r></p></e> <!-- (geological) -->
+    <e slr="1"><p><l>fleki<s n="n"/><s n="m"/></l><r>plate<s n="n"/></r></p></e> <!-- (geological) -->
     <e><p><l>flekkur<s n="n"/><s n="m"/></l><r>spot<s n="n"/></r></p></e>
     <e><p><l>flenna<s n="n"/><s n="f"/></l><r>tart<s n="n"/></r></p></e>
     <e><p><l>flesk<s n="n"/><s n="nt"/></l><r>bacon<s n="n"/></r></p></e>
@@ -17157,7 +17156,7 @@
     <e><p><l>flugbjörgunarsveit<s n="n"/><s n="f"/></l><r>rescue<b/>team<s n="n"/></r></p></e>
     <e><p><l>flugfargjald<s n="n"/><s n="nt"/></l><r>airfare<s n="n"/></r></p></e>
     <e><p><l>flugferð<s n="n"/><s n="f"/></l><r>plane<b/>trip<s n="n"/></r></p></e>
-    <e><p><l>flugfreyja<s n="n"/><s n="f"/></l><r><b/>stewardess<s n="n"/></r></p></e> <!-- (air) -->
+    <e><p><l>flugfreyja<s n="n"/><s n="f"/></l><r>stewardess<s n="n"/></r></p></e> <!-- (air) -->
     <e><p><l>flugfélag<s n="n"/><s n="nt"/></l><r>airline<s n="n"/></r></p></e>
     <e><p><l>flugmaður<s n="n"/><s n="m"/></l><r>pilot<s n="n"/></r></p></e>
     <e><p><l>flugslys<s n="n"/><s n="nt"/></l><r>plane<b/>crash<s n="n"/></r></p></e>
@@ -17166,7 +17165,7 @@
     <e><p><l>flugsund<s n="n"/><s n="nt"/></l><r>butterfly<s n="n"/></r></p></e> <!-- (swimming stroke) -->
     <e><p><l>flugtak<s n="n"/><s n="nt"/></l><r>take-off<s n="n"/></r></p></e>
     <e><p><l>flugumferðarstjóri<s n="n"/><s n="m"/></l><r>air-traffic<b/>controller<s n="n"/></r></p></e>
-    <e><p><l>flugþjónn<s n="n"/><s n="m"/></l><r><b/>steward<s n="n"/></r></p></e> <!-- (air) -->
+    <e><p><l>flugþjónn<s n="n"/><s n="m"/></l><r>steward<s n="n"/></r></p></e> <!-- (air) -->
     <e><p><l>flutningskostnaður<s n="n"/><s n="m"/></l><r>freight<b/>costs<s n="n"/></r></p></e>
     <e c="0"><p><l>flygsa<s n="n"/><s n="f"/></l><r>shred<s n="n"/></r></p></e>
     <e slr="1"><p><l>flygsa<s n="n"/><s n="f"/></l><r>flake<s n="n"/></r></p></e>
@@ -17205,7 +17204,7 @@
     <e c="0"><p><l>flötur<s n="n"/><s n="m"/></l><r>surface<s n="n"/></r></p></e>
     <e slr="1"><p><l>flötur<s n="n"/><s n="m"/></l><r>background<s n="n"/></r></p></e>
     <e slr="2"><p><l>flötur<s n="n"/><s n="m"/></l><r>aspect<s n="n"/></r></p></e>
-    <e><p><l>flúr<s n="n"/><s n="nt"/></l><r><b/>decoration<s n="n"/></r></p></e> <!-- (flowery) -->
+    <e><p><l>flúr<s n="n"/><s n="nt"/></l><r>decoration<s n="n"/></r></p></e> <!-- (flowery) -->
     <e><p><l>flúðasigling<s n="n"/><s n="f"/></l><r>white-water<b/>rafting<s n="n"/></r></p></e>
     <e><p><l>fnykur<s n="n"/><s n="m"/></l><r>stench<s n="n"/></r></p></e>
     <e><p><l>folald<s n="n"/><s n="nt"/></l><r>foal<s n="n"/></r></p></e>
@@ -17233,7 +17232,7 @@
     <e c="0"><p><l>forneskja<s n="n"/><s n="f"/></l><r>ancient<b/>times<s n="n"/></r></p></e>
     <e slr="1"><p><l>forneskja<s n="n"/><s n="f"/></l><r>sorcery<s n="n"/></r></p></e>
     <e><p><l>forngripur<s n="n"/><s n="m"/></l><r>ancient<b/>relic<s n="n"/></r></p></e>
-    <e><p><l>fornsaga<s n="n"/><s n="f"/></l><r><b/>saga<s n="n"/></r></p></e> <!-- (Icelandic) -->
+    <e><p><l>fornsaga<s n="n"/><s n="f"/></l><r>saga<s n="n"/></r></p></e> <!-- (Icelandic) -->
     <e><p><l>fornsala<s n="n"/><s n="f"/></l><r>second-hand<b/>shop<s n="n"/></r></p></e>
     <e><p><l>forníslenska<s n="n"/><s n="f"/></l><r>Old<b/>Icelandic<s n="n"/></r></p></e>
     <e><p><l>forritari<s n="n"/><s n="m"/></l><r>programmer<s n="n"/></r></p></e>
@@ -17280,7 +17279,7 @@
     <e><p><l>framsæti<s n="n"/><s n="nt"/></l><r>front<b/>seat<s n="n"/></r></p></e>
     <e><p><l>framsókn<s n="n"/><s n="f"/></l><r>advance<s n="n"/></r></p></e>
     <e><p><l>framtak<s n="n"/><s n="nt"/></l><r>enterprise<s n="n"/></r></p></e>
-    <e><p><l>framtal<s n="n"/><s n="nt"/></l><r><b/>tax<b/>return<s n="n"/></r></p></e> <!-- (income) -->
+    <e><p><l>framtal<s n="n"/><s n="nt"/></l><r>tax<b/>return<s n="n"/></r></p></e> <!-- (income) -->
     <e><p><l>framvinda<s n="n"/><s n="f"/></l><r>progress<s n="n"/></r></p></e>
     <e><p><l>framþróun<s n="n"/><s n="f"/></l><r>evolution<s n="n"/></r></p></e>
     <e><p><l>franki<s n="n"/><s n="m"/></l><r>franc<s n="n"/></r></p></e>
@@ -17328,7 +17327,7 @@
     <e><p><l>frystihús<s n="n"/><s n="nt"/></l><r>freezing<b/>plant<s n="n"/></r></p></e>
     <e><p><l>frystikista<s n="n"/><s n="f"/></l><r>freezer<s n="n"/></r></p></e>
     <e><p><l>frystir<s n="n"/><s n="m"/></l><r>freezer<s n="n"/></r></p></e>
-    <e c="0"><p><l>frystiskápur<s n="n"/><s n="m"/></l><r><b/>freezer<s n="n"/></r></p></e> <!-- (upright standing) -->
+    <e c="0"><p><l>frystiskápur<s n="n"/><s n="m"/></l><r>freezer<s n="n"/></r></p></e> <!-- (upright standing) -->
     <e slr="1"><p><l>frystiskápur<s n="n"/><s n="m"/></l><r>freezer<b/>compartment<s n="n"/></r></p></e>
     <e><p><l>frádráttarmerki<s n="n"/><s n="nt"/></l><r>minus<b/>sign<s n="n"/></r></p></e>
     <e><p><l>frágangur<s n="n"/><s n="m"/></l><r>workmanship<s n="n"/></r></p></e>
@@ -17397,7 +17396,7 @@
     <e><p><l>fyrirsát<s n="n"/><s n="f"/></l><r>ambush<s n="n"/></r></p></e>
     <e><p><l>fyrirsæta<s n="n"/><s n="f"/></l><r>model<s n="n"/></r></p></e>
     <e c="0"><p><l>fyrirsögn<s n="n"/><s n="f"/></l><r>headline<s n="n"/></r></p></e>
-    <e slr="1"><p><l>fyrirsögn<s n="n"/><s n="f"/></l><r><b/>heading<s n="n"/></r></p></e> <!-- (chapter) -->
+    <e slr="1"><p><l>fyrirsögn<s n="n"/><s n="f"/></l><r>heading<s n="n"/></r></p></e> <!-- (chapter) -->
     <e slr="2"><p><l>fyrirsögn<s n="n"/><s n="f"/></l><r>instructions<s n="n"/></r></p></e>
     <e c="0"><p><l>fyrirvari<s n="n"/><s n="m"/></l><r>notice<s n="n"/></r></p></e>
     <e slr="1"><p><l>fyrirvari<s n="n"/><s n="m"/></l><r>proviso<s n="n"/></r></p></e>
@@ -17458,7 +17457,7 @@
     <e><p><l>fósturjörð<s n="n"/><s n="f"/></l><r>native<b/>soil<s n="n"/></r></p></e>
     <e><p><l>fósturlát<s n="n"/><s n="nt"/></l><r>miscarriage<s n="n"/></r></p></e>
     <e><p><l>fótaskortur<s n="n"/><s n="m"/></l><r>trip<s n="n"/></r></p></e>
-    <e><p><l>fótatak<s n="n"/><s n="nt"/></l><r><b/>footsteps<s n="n"/></r></p></e> <!-- (sound of) -->
+    <e><p><l>fótatak<s n="n"/><s n="nt"/></l><r>footsteps<s n="n"/></r></p></e> <!-- (sound of) -->
     <e><p><l>fótgangandi<s n="n"/><s n="m"/></l><r>pedestrian<s n="n"/></r></p></e>
     <e><p><l>fótleggur<s n="n"/><s n="m"/></l><r>leg<s n="n"/></r></p></e>
     <e><p><l>fótspor<s n="n"/><s n="nt"/></l><r>footprint<s n="n"/></r></p></e>
@@ -17567,7 +17566,7 @@
     <e><p><l>gerviefni<s n="n"/><s n="nt"/></l><r>synthetic<b/>material<s n="n"/></r></p></e>
     <e><p><l>gervigígur<s n="n"/><s n="m"/></l><r>pseudocrater<s n="n"/></r></p></e>
     <e><p><l>gervihnöttur<s n="n"/><s n="m"/></l><r>satellite<s n="n"/></r></p></e>
-    <e><p><l>gervitungl<s n="n"/><s n="nt"/></l><r><b/>satellite<s n="n"/></r></p></e> <!-- (artificial) -->
+    <e><p><l>gervitungl<s n="n"/><s n="nt"/></l><r>satellite<s n="n"/></r></p></e> <!-- (artificial) -->
     <e><p><l>gerðardómur<s n="n"/><s n="m"/></l><r>court<b/>of<b/>arbitration<s n="n"/></r></p></e>
     <e slr="1"><p><l>gerðardómur<s n="n"/><s n="m"/></l><r>arbitration<s n="n"/></r></p></e>
     <e><p><l>gestagangur<s n="n"/><s n="m"/></l><r>coming<b/>and<b/>going<b/>of<b/>guests<s n="n"/></r></p></e>
@@ -17718,7 +17717,7 @@
     <e><p><l>grimmd<s n="n"/><s n="f"/></l><r>cruelty<s n="n"/></r></p></e>
     <e><p><l>grindahlaup<s n="n"/><s n="nt"/></l><r>hurdles<s n="n"/></r></p></e> <!-- (race) -->
     <e><p><l>grindhvalur<s n="n"/><s n="m"/></l><r>pilot<b/>whale<s n="n"/></r></p></e>
-    <e><p><l>grindverk<s n="n"/><s n="nt"/></l><r><b/>fence<s n="n"/></r></p></e> <!-- (latticed) -->
+    <e><p><l>grindverk<s n="n"/><s n="nt"/></l><r>fence<s n="n"/></r></p></e> <!-- (latticed) -->
     <e><p><l>grip<s n="n"/><s n="nt"/></l><r>grip<s n="n"/></r></p></e>
     <e><p><l>gripahús<s n="n"/><s n="nt"/></l><r>animal<b/>shed<s n="n"/></r></p></e> <!-- (stable, etc) -->
     <e><p><l>grisja<s n="n"/><s n="f"/></l><r>gauze<s n="n"/></r></p></e>
@@ -17760,7 +17759,7 @@
     <e><p><l>grófyrði<s n="n"/><s n="nt"/></l><r>obscenity<s n="n"/></r></p></e>
     <e><p><l>gróp<s n="n"/><s n="nt"/></l><r>groove<s n="n"/></r></p></e>
     <e><p><l>gróska<s n="n"/><s n="f"/></l><r>growth<s n="n"/></r></p></e>
-    <e><p><l>gróusaga<s n="n"/><s n="f"/></l><r><b/>gossip<s n="n"/></r></p></e> <!-- (malicious) -->
+    <e><p><l>gróusaga<s n="n"/><s n="f"/></l><r>gossip<s n="n"/></r></p></e> <!-- (malicious) -->
     <e><p><l>gróði<s n="n"/><s n="m"/></l><r>profit<s n="n"/></r></p></e>
     <e><p><l>gróðrarstöð<s n="n"/><s n="f"/></l><r>nursery<s n="n"/></r></p></e>
     <e c="0"><p><l>gróður<s n="n"/><s n="m"/></l><r>vegetation<s n="n"/></r></p></e>
@@ -17794,7 +17793,7 @@
     <e><p><l>guðmóðir<s n="n"/><s n="f"/></l><r>godmother<s n="n"/></r></p></e>
     <e><p><l>guðsonur<s n="n"/><s n="m"/></l><r>godson<s n="n"/></r></p></e>
     <e><p><l>guðsótti<s n="n"/><s n="m"/></l><r>piety<s n="n"/></r></p></e>
-    <e><p><l>guðsþjónusta<s n="n"/><s n="f"/></l><r><b/>service<s n="n"/></r></p></e> <!-- (divine) -->
+    <e><p><l>guðsþjónusta<s n="n"/><s n="f"/></l><r>service<s n="n"/></r></p></e> <!-- (divine) -->
     <e><p><l>gylliboð<s n="n"/><s n="nt"/></l><r>flashy<b/>offer<s n="n"/></r></p></e> <!-- (and uncertain) -->
     <e><p><l>gylling<s n="n"/><s n="f"/></l><r>gilding<s n="n"/></r></p></e>
     <e><p><l>gylta<s n="n"/><s n="f"/></l><r>sow<s n="n"/></r></p></e>
@@ -17865,7 +17864,7 @@
     <e><p><l>hafmey<s n="n"/><s n="f"/></l><r>mermaid<s n="n"/></r></p></e>
     <e><p><l>hafnarbakki<s n="n"/><s n="m"/></l><r>quay<s n="n"/></r></p></e>
     <e><p><l>hafnbann<s n="n"/><s n="nt"/></l><r>embargo<s n="n"/></r></p></e>
-    <e><p><l>hafnsögumaður<s n="n"/><s n="m"/></l><r><b/>pilot<s n="n"/></r></p></e> <!-- (sea) -->
+    <e><p><l>hafnsögumaður<s n="n"/><s n="m"/></l><r>pilot<s n="n"/></r></p></e> <!-- (sea) -->
     <e><p><l>haframjöl<s n="n"/><s n="nt"/></l><r>rolled<b/>oats<s n="n"/></r></p></e>
     <e><p><l>hafurtask<s n="n"/><s n="nt"/></l><r>baggage<s n="n"/></r></p></e>
     <e><p><l>hafís<s n="n"/><s n="m"/></l><r>pack<b/>ice<s n="n"/></r></p></e>
@@ -17902,7 +17901,7 @@
     <e><p><l>hamborgarhryggur<s n="n"/><s n="m"/></l><r>glazed<b/>ham<s n="n"/></r></p></e>
     <e><p><l>hampur<s n="n"/><s n="m"/></l><r>hemp<s n="n"/></r></p></e>
     <e><p><l>hamrabelti<s n="n"/><s n="nt"/></l><r>wall<b/>of<b/>cliffs<s n="n"/></r></p></e>
-    <e><p><l>hamsatólg<s n="n"/><s n="f"/></l><r><b/>lamb's<b/>fat<s n="n"/></r></p></e> <!-- (melted) -->
+    <e><p><l>hamsatólg<s n="n"/><s n="f"/></l><r>lamb's<b/>fat<s n="n"/></r></p></e> <!-- (melted) -->
     <e><p><l>hamstur<s n="n"/><s n="nt"/></l><r>hoarding<s n="n"/></r></p></e>
     <e><p><l>hamur<s n="n"/><s n="m"/></l><r>skin<b/>of<b/>a<b/>bird<s n="n"/></r></p></e>
     <e><p><l>hanastél<s n="n"/><s n="nt"/></l><r>cocktail<s n="n"/></r></p></e>
@@ -17953,14 +17952,14 @@
     <e><p><l>hasar<s n="n"/><s n="m"/></l><r>turmoil<s n="n"/></r></p></e>
     <e><p><l>hass<s n="n"/><s n="nt"/></l><r>pot<s n="n"/></r></p></e>
     <e><p><l>hastur<s n="n"/><s n="m"/></l><r>haste<s n="n"/></r></p></e>
-    <e><p><l>haugarfi<s n="n"/><s n="m"/></l><r><b/>chickweed<s n="n"/></r></p></e> <!-- (common) -->
+    <e><p><l>haugarfi<s n="n"/><s n="m"/></l><r>chickweed<s n="n"/></r></p></e> <!-- (common) -->
     <e c="0"><p><l>haugur<s n="n"/><s n="m"/></l><r>pile<s n="n"/></r></p></e>
     <e slr="1"><p><l>haugur<s n="n"/><s n="m"/></l><r>dump<s n="n"/></r></p></e>
     <e slr="2"><p><l>haugur<s n="n"/><s n="m"/></l><r>grave<b/>mound<s n="n"/></r></p></e>
     <e slr="3"><p><l>haugur<s n="n"/><s n="m"/></l><r>dungheap<s n="n"/></r></p></e>
     <e><p><l>hauskúpa<s n="n"/><s n="f"/></l><r>skull<s n="n"/></r></p></e>
     <e><p><l>hausverkur<s n="n"/><s n="m"/></l><r>headache<s n="n"/></r></p></e>
-    <e><p><l>hefill<s n="n"/><s n="m"/></l><r><b/>plane<s n="n"/></r></p></e> <!-- (carpenter's) -->
+    <e><p><l>hefill<s n="n"/><s n="m"/></l><r>plane<s n="n"/></r></p></e> <!-- (carpenter's) -->
     <e><p><l>hefndarþorsti<s n="n"/><s n="m"/></l><r>vengefulness<s n="n"/></r></p></e>
     <e><p><l>heftari<s n="n"/><s n="m"/></l><r>stapler<s n="n"/></r></p></e>
     <e><p><l>heftiplástur<s n="n"/><s n="m"/></l><r>sticking<b/>plaster<s n="n"/></r></p></e>
@@ -17998,7 +17997,7 @@
     <e><p><l>heimilisiðnaður<s n="n"/><s n="m"/></l><r>cottage<b/>industry<s n="n"/></r></p></e>
     <e><p><l>heimilistæki<s n="n"/><s n="nt"/></l><r>household<b/>appliance<s n="n"/></r></p></e>
     <e><p><l>heimreið<s n="n"/><s n="f"/></l><r>driveway<s n="n"/></r></p></e>
-    <e><p><l>heimskaut<s n="n"/><s n="nt"/></l><r><b/>pole<s n="n"/></r></p></e> <!-- (geographical) -->
+    <e><p><l>heimskaut<s n="n"/><s n="nt"/></l><r>pole<s n="n"/></r></p></e> <!-- (geographical) -->
     <e><p><l>heimskautsbaugur<s n="n"/><s n="m"/></l><r>polar<b/>circle<s n="n"/></r></p></e>
     <e><p><l>heimskingi<s n="n"/><s n="m"/></l><r>blockhead<s n="n"/></r></p></e>
     <e><p><l>heimsmarkaður<s n="n"/><s n="m"/></l><r>international<b/>market<s n="n"/></r></p></e>
@@ -18050,7 +18049,7 @@
     <e><p><l>hersing<s n="n"/><s n="f"/></l><r>battalion<s n="n"/></r></p></e>
     <e><p><l>herskari<s n="n"/><s n="m"/></l><r>battalion<s n="n"/></r></p></e>
     <e><p><l>herskylda<s n="n"/><s n="f"/></l><r>conscription<s n="n"/></r></p></e>
-    <e><p><l>herstjóri<s n="n"/><s n="m"/></l><r><b/>general<s n="n"/></r></p></e> <!-- (army) -->
+    <e><p><l>herstjóri<s n="n"/><s n="m"/></l><r>general<s n="n"/></r></p></e> <!-- (army) -->
     <e><p><l>herstöð<s n="n"/><s n="f"/></l><r>military<b/>base<s n="n"/></r></p></e>
     <e><p><l>herðakistill<s n="n"/><s n="m"/></l><r>hump<s n="n"/></r></p></e> <!-- (on sby's back) -->
     <e><p><l>herðatré<s n="n"/><s n="nt"/></l><r>hanger<s n="n"/></r></p></e>
@@ -18061,7 +18060,7 @@
     <e><p><l>hestaíþrótt<s n="n"/><s n="f"/></l><r>equestrian<b/>sport<s n="n"/></r></p></e>
     <e><p><l>hestbak<s n="n"/><s n="nt"/></l><r>horseback<s n="n"/></r></p></e>
     <e><p><l>hesthús<s n="n"/><s n="nt"/></l><r>stable<s n="n"/></r></p></e>
-    <e><p><l>hestvagn<s n="n"/><s n="m"/></l><r><b/>carriage<s n="n"/></r></p></e> <!-- (horsedrawn) -->
+    <e><p><l>hestvagn<s n="n"/><s n="m"/></l><r>carriage<s n="n"/></r></p></e> <!-- (horsedrawn) -->
     <e><p><l>hetjudáð<s n="n"/><s n="f"/></l><r>heroic<b/>act<s n="n"/></r></p></e>
     <e><p><l>hetjuskapur<s n="n"/><s n="m"/></l><r>heroism<s n="n"/></r></p></e>
     <e><p><l>hettusótt<s n="n"/><s n="f"/></l><r>mumps<s n="n"/></r></p></e>
@@ -18085,7 +18084,7 @@
     <e><p><l>hirsi<s n="n"/><s n="nt"/></l><r>millet<s n="n"/></r></p></e>
     <e><p><l>hirting<s n="n"/><s n="f"/></l><r>punishment<s n="n"/></r></p></e>
     <e><p><l>hirð<s n="n"/><s n="f"/></l><r>court<s n="n"/></r></p></e>
-    <e><p><l>hirðfífl<s n="n"/><s n="nt"/></l><r><b/>jester<s n="n"/></r></p></e> <!-- (court) -->
+    <e><p><l>hirðfífl<s n="n"/><s n="nt"/></l><r>jester<s n="n"/></r></p></e> <!-- (court) -->
     <e><p><l>hirðingi<s n="n"/><s n="m"/></l><r>nomad<s n="n"/></r></p></e>
     <e><p><l>hirðuleysi<s n="n"/><s n="nt"/></l><r>negligence<s n="n"/></r></p></e>
     <e><p><l>hitabelti<s n="n"/><s n="nt"/></l><r>tropics<s n="n"/></r></p></e>
@@ -18120,7 +18119,7 @@
     <e><p><l>hjúkrunarheimili<s n="n"/><s n="nt"/></l><r>nursing<b/>home<s n="n"/></r></p></e>
     <e><p><l>hjúkrunarkona<s n="n"/><s n="f"/></l><r>nurse<s n="n"/></r></p></e>
     <e><p><l>hjúpur<s n="n"/><s n="m"/></l><r>veil<s n="n"/></r></p></e>
-    <e><p><l>hjúskaparbrot<s n="n"/><s n="nt"/></l><r><b/>adultery<s n="n"/></r></p></e> <!-- (case of) -->
+    <e><p><l>hjúskaparbrot<s n="n"/><s n="nt"/></l><r>adultery<s n="n"/></r></p></e> <!-- (case of) -->
     <e><p><l>hjúskapur<s n="n"/><s n="m"/></l><r>marriage<s n="n"/></r></p></e>
     <e><p><l>hlass<s n="n"/><s n="nt"/></l><r>load<s n="n"/></r></p></e>
     <e><p><l>hlaupabretti<s n="n"/><s n="nt"/></l><r>treadmill<s n="n"/></r></p></e>
@@ -18179,7 +18178,7 @@
     <e><p><l>hlýja<s n="n"/><s n="f"/></l><r>warmth<s n="n"/></r></p></e>
     <e><p><l>hlýri<s n="n"/><s n="m"/></l><r>shoulder<b/>strap<s n="n"/></r></p></e>
     <e><p><l>hnappagat<s n="n"/><s n="nt"/></l><r>buttonhole<s n="n"/></r></p></e>
-    <e><p><l>hnattlíkan<s n="n"/><s n="nt"/></l><r><b/>globe<s n="n"/></r></p></e> <!-- (model) -->
+    <e><p><l>hnattlíkan<s n="n"/><s n="nt"/></l><r>globe<s n="n"/></r></p></e> <!-- (model) -->
     <e><p><l>hnaus<s n="n"/><s n="m"/></l><r>clod<s n="n"/></r></p></e>
     <e c="0"><p><l>hnefi<s n="n"/><s n="m"/></l><r>fist<s n="n"/></r></p></e>
     <e slr="1"><p><l>hnefi<s n="n"/><s n="m"/></l><r>fistful<s n="n"/></r></p></e>
@@ -18258,7 +18257,7 @@
     <e slr="1"><p><l>hreimur<s n="n"/><s n="m"/></l><r>accent<s n="n"/></r></p></e>
     <e><p><l>hreingerning<s n="n"/><s n="f"/></l><r>cleaning<s n="n"/></r></p></e>
     <e c="0"><p><l>hreinsun<s n="n"/><s n="f"/></l><r>cleansing<s n="n"/></r></p></e>
-    <e slr="1"><p><l>hreinsun<s n="n"/><s n="f"/></l><r><b/>cleaning<s n="n"/></r></p></e> <!-- (dry) -->
+    <e slr="1"><p><l>hreinsun<s n="n"/><s n="f"/></l><r>cleaning<s n="n"/></r></p></e> <!-- (dry) -->
     <e slr="2"><p><l>hreinsun<s n="n"/><s n="f"/></l><r>purification<s n="n"/></r></p></e>
     <e slr="3"><p><l>hreinsun<s n="n"/><s n="f"/></l><r>purge<s n="n"/></r></p></e>
     <e><p><l>hreistur<s n="n"/><s n="nt"/></l><r>scales<s n="n"/></r></p></e>
@@ -18351,7 +18350,7 @@
     <e><p><l>hurðarhúnn<s n="n"/><s n="m"/></l><r>doorknob<s n="n"/></r></p></e>
     <e><p><l>hvalaskoðun<s n="n"/><s n="f"/></l><r>whale<b/>watching<s n="n"/></r></p></e>
     <e><p><l>hvalveiðiskip<s n="n"/><s n="nt"/></l><r>whaler<s n="n"/></r></p></e>
-    <e><p><l>hvammur<s n="n"/><s n="m"/></l><r><b/>hollow<s n="n"/></r></p></e> <!-- (grassy) -->
+    <e><p><l>hvammur<s n="n"/><s n="m"/></l><r>hollow<s n="n"/></r></p></e> <!-- (grassy) -->
     <e><p><l>hvarfbaugur<s n="n"/><s n="m"/></l><r>tropic<s n="n"/></r></p></e> <!-- (of Cancer, of Capricorn) -->
     <e><p><l>hvarmur<s n="n"/><s n="m"/></l><r>eyelid<s n="n"/></r></p></e>
     <e><p><l>hvassviðri<s n="n"/><s n="nt"/></l><r>storm<b/>wind<s n="n"/></r></p></e> <!-- (wind force 8) -->
@@ -18381,7 +18380,7 @@
     <e><p><l>hvísl<s n="n"/><s n="nt"/></l><r>whisper<s n="n"/></r></p></e>
     <e><p><l>hvíslari<s n="n"/><s n="m"/></l><r>prompter<s n="n"/></r></p></e>
     <e><p><l>hvítasunna<s n="n"/><s n="f"/></l><r>Whitsun<s n="n"/></r></p></e>
-    <e><p><l>hvítkál<s n="n"/><s n="nt"/></l><r><b/>cabbage<s n="n"/></r></p></e> <!-- (white) -->
+    <e><p><l>hvítkál<s n="n"/><s n="nt"/></l><r>cabbage<s n="n"/></r></p></e> <!-- (white) -->
     <e><p><l>hvítrússneska<s n="n"/><s n="f"/></l><r>Byelorussian<s n="n"/></r></p></e>
     <e c="0"><p><l>hvöt<s n="n"/><s n="f"/></l><r>encouragement<s n="n"/></r></p></e>
     <e slr="1"><p><l>hvöt<s n="n"/><s n="f"/></l><r>motivation<s n="n"/></r></p></e>
@@ -18390,11 +18389,11 @@
     <e><p><l>hyldýpi<s n="n"/><s n="nt"/></l><r>great<b/>depth<s n="n"/></r></p></e>
     <e><p><l>hylki<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>
     <e><p><l>hylur<s n="n"/><s n="m"/></l><r>deep<b/>place<s n="n"/></r></p></e> <!-- (in a river) -->
-    <e><p><l>hyrna<s n="n"/><s n="f"/></l><r><b/>carton<s n="n"/></r></p></e> <!-- (pyramid-shaped) -->
+    <e><p><l>hyrna<s n="n"/><s n="f"/></l><r>carton<s n="n"/></r></p></e> <!-- (pyramid-shaped) -->
     <e><p><l>hyski<s n="n"/><s n="nt"/></l><r>rabble<s n="n"/></r></p></e>
     <e><p><l>hádegismatur<s n="n"/><s n="m"/></l><r>lunch<s n="n"/></r></p></e>
     <e c="0"><p><l>háfur<s n="n"/><s n="m"/></l><r>dogfish<s n="n"/></r></p></e>
-    <e slr="1"><p><l>háfur<s n="n"/><s n="m"/></l><r><b/>net<s n="n"/></r></p></e> <!-- (pocket) -->
+    <e slr="1"><p><l>háfur<s n="n"/><s n="m"/></l><r>net<s n="n"/></r></p></e> <!-- (pocket) -->
     <e><p><l>háhitasvæði<s n="n"/><s n="nt"/></l><r>geothermal<b/>area<s n="n"/></r></p></e>
     <e><p><l>háhýsi<s n="n"/><s n="nt"/></l><r>high-rise<b/>building<s n="n"/></r></p></e>
     <e><p><l>hákarl<s n="n"/><s n="m"/></l><r>shark<s n="n"/></r></p></e>
@@ -18409,7 +18408,7 @@
     <e><p><l>hálsband<s n="n"/><s n="nt"/></l><r>collar<s n="n"/></r></p></e>
     <e><p><l>hálsbólga<s n="n"/><s n="f"/></l><r>sore<b/>throat<s n="n"/></r></p></e>
     <e><p><l>hálsfesti<s n="n"/><s n="f"/></l><r>necklace<s n="n"/></r></p></e>
-    <e c="0"><p><l>hálsklútur<s n="n"/><s n="m"/></l><r><b/>scarf<s n="n"/></r></p></e> <!-- (neck) -->
+    <e c="0"><p><l>hálsklútur<s n="n"/><s n="m"/></l><r>scarf<s n="n"/></r></p></e> <!-- (neck) -->
     <e slr="1"><p><l>hálsklútur<s n="n"/><s n="m"/></l><r>cravat<s n="n"/></r></p></e>
     <e><p><l>hálsliður<s n="n"/><s n="m"/></l><r>neck<s n="n"/></r></p></e>
     <e><p><l>hálsmen<s n="n"/><s n="nt"/></l><r>necklace<s n="n"/></r></p></e> <!-- (with a pendant) -->
@@ -18426,7 +18425,7 @@
     <e><p><l>hárþurrka<s n="n"/><s n="f"/></l><r>dryer<s n="n"/></r></p></e>
     <e><p><l>háseti<s n="n"/><s n="m"/></l><r>deckhand<s n="n"/></r></p></e>
     <e><p><l>hásin<s n="n"/><s n="f"/></l><r>Achilles<b/>tendon<s n="n"/></r></p></e>
-    <e><p><l>háskólapróf<s n="n"/><s n="nt"/></l><r><b/>degree<s n="n"/></r></p></e> <!-- (university) -->
+    <e><p><l>háskólapróf<s n="n"/><s n="nt"/></l><r>degree<s n="n"/></r></p></e> <!-- (university) -->
     <e><p><l>háslétta<s n="n"/><s n="f"/></l><r>plateau<s n="n"/></r></p></e>
     <e><p><l>háspenna<s n="n"/><s n="f"/></l><r>hgh<b/>voltage<s n="n"/></r></p></e>
     <e><p><l>hástafur<s n="n"/><s n="m"/></l><r>capital<b/>letter<s n="n"/></r></p></e>
@@ -18584,7 +18583,7 @@
     <e><p><l>innsigli<s n="n"/><s n="nt"/></l><r>seal<s n="n"/></r></p></e>
     <e><p><l>innskot<s n="n"/><s n="nt"/></l><r>insert<s n="n"/></r></p></e>
     <e c="0"><p><l>innsláttur<s n="n"/><s n="m"/></l><r>keyboarding<s n="n"/></r></p></e>
-    <e slr="1"><p><l>innsláttur<s n="n"/><s n="m"/></l><r><b/>entry<s n="n"/></r></p></e> <!-- (keyboard/data) -->
+    <e slr="1"><p><l>innsláttur<s n="n"/><s n="m"/></l><r>entry<s n="n"/></r></p></e> <!-- (keyboard/data) -->
     <e><p><l>innspýting<s n="n"/><s n="f"/></l><r>injection<s n="n"/></r></p></e>
     <e c="0"><p><l>innstunga<s n="n"/><s n="f"/></l><r>electric<b/>outlet<s n="n"/></r></p></e>
     <e slr="1"><p><l>innstunga<s n="n"/><s n="f"/></l><r>electric<b/>plug<s n="n"/></r></p></e>
@@ -18598,7 +18597,7 @@
     <e><p><l>innöndun<s n="n"/><s n="f"/></l><r>inhalation<s n="n"/></r></p></e>
     <e><p><l>insúlín<s n="n"/><s n="nt"/></l><r>insulin<s n="n"/></r></p></e>
     <e><p><l>iða<s n="n"/><s n="f"/></l><r>eddy<s n="n"/></r></p></e>
-    <e><p><l>iðgjald<s n="n"/><s n="nt"/></l><r><b/>premium<s n="n"/></r></p></e> <!-- (insurance) -->
+    <e><p><l>iðgjald<s n="n"/><s n="nt"/></l><r>premium<s n="n"/></r></p></e> <!-- (insurance) -->
     <e><p><l>iðjuhöldur<s n="n"/><s n="m"/></l><r>industrialist<s n="n"/></r></p></e>
     <e><p><l>iðjuver<s n="n"/><s n="nt"/></l><r>industrial<b/>plant<s n="n"/></r></p></e>
     <e><p><l>iðjuþjálfi<s n="n"/><s n="m"/></l><r>occupational<b/>therapist<s n="n"/></r></p></e>
@@ -18708,7 +18707,7 @@
     <e><p><l>kaktus<s n="n"/><s n="m"/></l><r>cactus<s n="n"/></r></p></e>
     <e c="0"><p><l>kakó<s n="n"/><s n="nt"/></l><r>cacao/cocoa<b/>powder<s n="n"/></r></p></e>
     <e slr="1"><p><l>kakó<s n="n"/><s n="nt"/></l><r>cocoa<s n="n"/></r></p></e>
-    <e><p><l>kaldi<s n="n"/><s n="m"/></l><r><b/>breeze<s n="n"/></r></p></e> <!-- (wind force 5) -->
+    <e><p><l>kaldi<s n="n"/><s n="m"/></l><r>breeze<s n="n"/></r></p></e> <!-- (wind force 5) -->
     <e><p><l>kaleikur<s n="n"/><s n="m"/></l><r>chalice<s n="n"/></r></p></e>
     <e><p><l>kali<s n="n"/><s n="m"/></l><r>coolness<s n="n"/></r></p></e>
     <e c="0"><p><l>kall<s n="n"/><s n="nt"/></l><r>shout<s n="n"/></r></p></e>
@@ -18717,7 +18716,7 @@
     <e><p><l>kaloría<s n="n"/><s n="f"/></l><r>calory<s n="n"/></r></p></e>
     <e><p><l>kamilla<s n="n"/><s n="f"/></l><r>camomile<s n="n"/></r></p></e>
     <e><p><l>kampavín<s n="n"/><s n="nt"/></l><r>champagne<s n="n"/></r></p></e>
-    <e><p><l>kamína<s n="n"/><s n="f"/></l><r><b/>stove<s n="n"/></r></p></e> <!-- (wood) -->
+    <e><p><l>kamína<s n="n"/><s n="f"/></l><r>stove<s n="n"/></r></p></e> <!-- (wood) -->
     <e><p><l>kanill<s n="n"/><s n="m"/></l><r>cinnamon<s n="n"/></r></p></e>
     <e c="0"><p><l>kanna<s n="n"/><s n="f"/></l><r>jug<s n="n"/></r></p></e>
     <e slr="1"><p><l>kanna<s n="n"/><s n="f"/></l><r>pot<s n="n"/></r></p></e>
@@ -18771,7 +18770,7 @@
     <e><p><l>kauphöll<s n="n"/><s n="f"/></l><r>stock<b/>exchange<s n="n"/></r></p></e>
     <e><p><l>kaupmáli<s n="n"/><s n="m"/></l><r>contract<s n="n"/></r></p></e>
     <e><p><l>kaupmáttur<s n="n"/><s n="m"/></l><r>buying<b/>power<s n="n"/></r></p></e>
-    <e><p><l>kaupstaður<s n="n"/><s n="m"/></l><r><b/>town<s n="n"/></r></p></e> <!-- (market) -->
+    <e><p><l>kaupstaður<s n="n"/><s n="m"/></l><r>town<s n="n"/></r></p></e> <!-- (market) -->
     <e><p><l>kaupsýsla<s n="n"/><s n="f"/></l><r>business<s n="n"/></r></p></e>
     <e><p><l>kauptún<s n="n"/><s n="nt"/></l><r>market<b/>town<s n="n"/></r></p></e>
     <e><p><l>kavíar<s n="n"/><s n="m"/></l><r>caviar<s n="n"/></r></p></e>
@@ -18874,7 +18873,7 @@
     <e><p><l>klaufi<s n="n"/><s n="m"/></l><r>bungler<s n="n"/></r></p></e>
     <e c="0"><p><l>klausa<s n="n"/><s n="f"/></l><r>paragraph<s n="n"/></r></p></e>
     <e slr="1"><p><l>klausa<s n="n"/><s n="f"/></l><r>short<b/>article<s n="n"/></r></p></e>
-    <e slr="2"><p><l>klausa<s n="n"/><s n="f"/></l><r><b/>clause<s n="n"/></r></p></e> <!-- (legal) -->
+    <e slr="2"><p><l>klausa<s n="n"/><s n="f"/></l><r>clause<s n="n"/></r></p></e> <!-- (legal) -->
     <e><p><l>kleina<s n="n"/><s n="f"/></l><r>cruller<s n="n"/></r></p></e>
     <e><p><l>kleinuhringur<s n="n"/><s n="m"/></l><r>doughnut<s n="n"/></r></p></e>
     <e><p><l>klementína<s n="n"/><s n="f"/></l><r>clementine<s n="n"/></r></p></e>
@@ -18919,7 +18918,7 @@
     <e><p><l>klögumál<s n="n"/><s n="nt"/></l><r>accusation<s n="n"/></r></p></e>
     <e><p><l>klöpp<s n="n"/><s n="f"/></l><r>low<s n="n"/></r></p></e>
     <e><p><l>klúbbur<s n="n"/><s n="m"/></l><r>club<s n="n"/></r></p></e>
-    <e><p><l>klúryrði<s n="n"/><s n="nt"/></l><r><b/>obscenity<s n="n"/></r></p></e> <!-- (spoken) -->
+    <e><p><l>klúryrði<s n="n"/><s n="nt"/></l><r>obscenity<s n="n"/></r></p></e> <!-- (spoken) -->
     <e c="0"><p><l>klútur<s n="n"/><s n="m"/></l><r>rag<s n="n"/></r></p></e>
     <e slr="1"><p><l>klútur<s n="n"/><s n="m"/></l><r>scarf<s n="n"/></r></p></e>
     <e slr="2"><p><l>klútur<s n="n"/><s n="m"/></l><r>handkerchief<s n="n"/></r></p></e>
@@ -19044,7 +19043,7 @@
     <e><p><l>kunnáttumaður<s n="n"/><s n="m"/></l><r>expert<s n="n"/></r></p></e>
     <e><p><l>kunta<s n="n"/><s n="f"/></l><r>cunt<s n="n"/></r></p></e>
     <e><p><l>kurr<s n="n"/><s n="m"/></l><r>grumbling<s n="n"/></r></p></e>
-    <e><p><l>kusk<s n="n"/><s n="nt"/></l><r><b/>fluff<s n="n"/></r></p></e> <!-- (piece of) -->
+    <e><p><l>kusk<s n="n"/><s n="nt"/></l><r>fluff<s n="n"/></r></p></e> <!-- (piece of) -->
     <e><p><l>kuðungur<s n="n"/><s n="m"/></l><r>conch<s n="n"/></r></p></e>
     <e><p><l>kvabb<s n="n"/><s n="nt"/></l><r>imposition<s n="n"/></r></p></e>
     <e><p><l>kvalalosti<s n="n"/><s n="m"/></l><r>sadism<s n="n"/></r></p></e>
@@ -19275,7 +19274,7 @@
     <e slr="1"><p><l>langhlaup<s n="n"/><s n="nt"/></l><r>long<b/>distance<b/>race<s n="n"/></r></p></e>
     <e><p><l>langspil<s n="n"/><s n="nt"/></l><r>Icelandic<b/>historic<b/>string<b/>instrument<s n="n"/></r></p></e>
     <e><p><l>langstökk<s n="n"/><s n="nt"/></l><r>long<b/>jump<s n="n"/></r></p></e>
-    <e><p><l>lasleiki<s n="n"/><s n="m"/></l><r><b/>illness<s n="n"/></r></p></e> <!-- (minor) -->
+    <e><p><l>lasleiki<s n="n"/><s n="m"/></l><r>illness<s n="n"/></r></p></e> <!-- (minor) -->
     <e><p><l>last<s n="n"/><s n="nt"/></l><r>blame<s n="n"/></r></p></e>
     <e><p><l>laufabrauð<s n="n"/><s n="nt"/></l><r>traditional<b/>Icelandic<b/>deep-fried<b/>patterned<b/>Christmas<b/>wafer<s n="n"/></r></p></e>
     <e><p><l>laumufarþegi<s n="n"/><s n="m"/></l><r>stowaway<s n="n"/></r></p></e>
@@ -19358,7 +19357,7 @@
     <e><p><l>lending<s n="n"/><s n="f"/></l><r>landing<s n="n"/></r></p></e>
     <e><p><l>lengdarbaugur<s n="n"/><s n="m"/></l><r>meridian<s n="n"/></r></p></e>
     <e><p><l>lenging<s n="n"/><s n="f"/></l><r>extension<s n="n"/></r></p></e>
-    <e><p><l>lenska<s n="n"/><s n="f"/></l><r><b/>custom<s n="n"/></r></p></e> <!-- (local) -->
+    <e><p><l>lenska<s n="n"/><s n="f"/></l><r>custom<s n="n"/></r></p></e> <!-- (local) -->
     <e><p><l>leppalúði<s n="n"/><s n="m"/></l><r>down-and-out<s n="n"/></r></p></e> <!-- (person dressed in rags and tatters) -->
     <e><p><l>leppríki<s n="n"/><s n="nt"/></l><r>satellite<b/>state<s n="n"/></r></p></e>
     <e c="0"><p><l>leppur<s n="n"/><s n="m"/></l><r>piece<b/>of<b/>cloth<s n="n"/></r></p></e>
@@ -19411,7 +19410,7 @@
     <e><p><l>listiðnaður<s n="n"/><s n="m"/></l><r>applied<b/>arts<s n="n"/></r></p></e>
     <e><p><l>listmálari<s n="n"/><s n="m"/></l><r>painter<s n="n"/></r></p></e>
     <e><p><l>litaspjald<s n="n"/><s n="nt"/></l><r>palette<s n="n"/></r></p></e>
-    <e><p><l>litblær<s n="n"/><s n="m"/></l><r><b/>tone<s n="n"/></r></p></e> <!-- (colour) -->
+    <e><p><l>litblær<s n="n"/><s n="m"/></l><r>tone<s n="n"/></r></p></e> <!-- (colour) -->
     <e><p><l>litlifingur<s n="n"/><s n="m"/></l><r>little<b/>finger<s n="n"/></r></p></e>
     <e><p><l>litningur<s n="n"/><s n="m"/></l><r>chromosome<s n="n"/></r></p></e>
     <e><p><l>litróf<s n="n"/><s n="nt"/></l><r>spectrum<s n="n"/></r></p></e>
@@ -19429,7 +19428,7 @@
     <e><p><l>ljósastaur<s n="n"/><s n="m"/></l><r>lamp<b/>post<s n="n"/></r></p></e>
     <e><p><l>ljósgeisli<s n="n"/><s n="m"/></l><r>ray<b/>of<b/>light<s n="n"/></r></p></e>
     <e><p><l>ljóshraði<s n="n"/><s n="m"/></l><r>speed<b/>of<b/>light<s n="n"/></r></p></e>
-    <e><p><l>ljóska<s n="n"/><s n="f"/></l><r><b/>blonde<s n="n"/></r></p></e> <!-- (dumb) -->
+    <e><p><l>ljóska<s n="n"/><s n="f"/></l><r>blonde<s n="n"/></r></p></e> <!-- (dumb) -->
     <e><p><l>ljóskastari<s n="n"/><s n="m"/></l><r>projector<s n="n"/></r></p></e>
     <e><p><l>ljósleiðari<s n="n"/><s n="m"/></l><r>fibre<b/>optic<b/>cable<s n="n"/></r></p></e>
     <e><p><l>ljósmyndari<s n="n"/><s n="m"/></l><r>photographer<s n="n"/></r></p></e>
@@ -19619,7 +19618,7 @@
     <e><p><l>löðrungur<s n="n"/><s n="m"/></l><r>slap<b/>on<b/>the<b/>face<s n="n"/></r></p></e>
     <e><p><l>löður<s n="n"/><s n="nt"/></l><r>foam<s n="n"/></r></p></e>
     <e><p><l>lúffa<s n="n"/><s n="f"/></l><r>mitten<s n="n"/></r></p></e>
-    <e><p><l>lúga<s n="n"/><s n="f"/></l><r><b/>opening<s n="n"/></r></p></e> <!-- (small) -->
+    <e><p><l>lúga<s n="n"/><s n="f"/></l><r>opening<s n="n"/></r></p></e> <!-- (small) -->
     <e c="0"><p><l>lúka<s n="n"/><s n="f"/></l><r>hand<s n="n"/></r></p></e>
     <e slr="1"><p><l>lúka<s n="n"/><s n="f"/></l><r>handful<s n="n"/></r></p></e>
     <e><p><l>lúkar<s n="n"/><s n="m"/></l><r>forecastle<s n="n"/></r></p></e>
@@ -19677,7 +19676,7 @@
     <e><p><l>mannskaði<s n="n"/><s n="m"/></l><r>loss<b/>of<b/>life<s n="n"/></r></p></e> <!-- (human) -->
     <e><p><l>mannskepna<s n="n"/><s n="f"/></l><r>man<s n="n"/></r></p></e> <!-- (as a species) -->
     <e><p><l>mannslát<s n="n"/><s n="nt"/></l><r>death<s n="n"/></r></p></e>
-    <e><p><l>mannsrödd<s n="n"/><s n="f"/></l><r><b/>voice<s n="n"/></r></p></e> <!-- (human) -->
+    <e><p><l>mannsrödd<s n="n"/><s n="f"/></l><r>voice<s n="n"/></r></p></e> <!-- (human) -->
     <e><p><l>mannsöfnuður<s n="n"/><s n="m"/></l><r>crowd<s n="n"/></r></p></e>
     <e><p><l>manntal<s n="n"/><s n="nt"/></l><r>census<s n="n"/></r></p></e>
     <e><p><l>mannvera<s n="n"/><s n="f"/></l><r>human<b/>being<s n="n"/></r></p></e>
@@ -19687,7 +19686,7 @@
     <e><p><l>mannæta<s n="n"/><s n="f"/></l><r>cannibal<s n="n"/></r></p></e>
     <e><p><l>mannúð<s n="n"/><s n="f"/></l><r>generosity<s n="n"/></r></p></e>
     <e><p><l>mannúðarmál<s n="n"/><s n="nt"/></l><r>humanitarian<b/>issue<s n="n"/></r></p></e>
-    <e><p><l>mannþekkjari<s n="n"/><s n="m"/></l><r>good<b/>judge<b/>of<b/>human<b/>nature<s n="n"/></r></p></e>
+    <e><p><l>mannþekkjari<s n="n"/><s n="m"/></l><r>good<b/>judge<g><b/>of<b/>human<b/>nature</g><s n="n"/></r></p></e>
     <e><p><l>mannþröng<s n="n"/><s n="f"/></l><r>crowd<s n="n"/></r></p></e>
     <e><p><l>mansöngur<s n="n"/><s n="m"/></l><r>love<b/>song<s n="n"/></r></p></e>
     <e><p><l>mappa<s n="n"/><s n="f"/></l><r>folder<s n="n"/></r></p></e>
@@ -19795,7 +19794,7 @@
     <e><p><l>meðaumkun<s n="n"/><s n="f"/></l><r>compassion<s n="n"/></r></p></e>
     <e><p><l>meðganga<s n="n"/><s n="f"/></l><r>pregnancy<s n="n"/></r></p></e>
     <e><p><l>meðhjálpari<s n="n"/><s n="m"/></l><r>sexton<s n="n"/></r></p></e>
-    <e><p><l>meðlag<s n="n"/><s n="nt"/></l><r><b/>maintenance<s n="n"/></r></p></e> <!-- (child) -->
+    <e><p><l>meðlag<s n="n"/><s n="nt"/></l><r>maintenance<s n="n"/></r></p></e> <!-- (child) -->
     <e><p><l>meðlæti<s n="n"/><s n="nt"/></l><r>luck<s n="n"/></r></p></e>
     <e><p><l>mikilmenni<s n="n"/><s n="nt"/></l><r>great<b/>man<s n="n"/></r></p></e>
     <e><p><l>mikilvægi<s n="n"/><s n="nt"/></l><r>importance<s n="n"/></r></p></e>
@@ -19838,7 +19837,7 @@
     <e slr="1"><p><l>misþyrming<s n="n"/><s n="f"/></l><r>beating<b/>up<s n="n"/></r></p></e>
     <e><p><l>mitti<s n="n"/><s n="nt"/></l><r>waistline<s n="n"/></r></p></e>
     <e><p><l>mittisjakki<s n="n"/><s n="m"/></l><r>waistjacket<s n="n"/></r></p></e>
-    <e><p><l>mixtúra<s n="n"/><s n="f"/></l><r><b/>mixture<s n="n"/></r></p></e> <!-- (cough) -->
+    <e><p><l>mixtúra<s n="n"/><s n="f"/></l><r>mixture<s n="n"/></r></p></e> <!-- (cough) -->
     <e><p><l>miðasala<s n="n"/><s n="f"/></l><r>box<b/>office<s n="n"/></r></p></e>
     <e><p><l>miðbaugur<s n="n"/><s n="m"/></l><r>equator<s n="n"/></r></p></e>
     <e><p><l>miðbik<s n="n"/><s n="nt"/></l><r>middle<s n="n"/></r></p></e>
@@ -19861,7 +19860,7 @@
     <e><p><l>mjólkurbú<s n="n"/><s n="nt"/></l><r>dairy<s n="n"/></r></p></e>
     <e><p><l>mjólkurbúð<s n="n"/><s n="f"/></l><r>dairy<s n="n"/></r></p></e>
     <e><p><l>mjólkursamlag<s n="n"/><s n="nt"/></l><r>dairy<b/>farmers'<b/>co-operative<s n="n"/></r></p></e>
-    <e><p><l>mjöll<s n="n"/><s n="f"/></l><r><b/>snow<s n="n"/></r></p></e> <!-- (new-fallen) -->
+    <e><p><l>mjöll<s n="n"/><s n="f"/></l><r>snow<s n="n"/></r></p></e> <!-- (new-fallen) -->
     <e><p><l>mjölvi<s n="n"/><s n="nt"/></l><r>starch<s n="n"/></r></p></e>
     <e><p><l>mjöður<s n="n"/><s n="m"/></l><r>mead<s n="n"/></r></p></e>
     <e><p><l>mokafli<s n="n"/><s n="m"/></l><r>big/significant<b/>catch<s n="n"/></r></p></e>
@@ -19934,7 +19933,7 @@
     <e><p><l>málfrelsi<s n="n"/><s n="nt"/></l><r>freedom<b/>of<b/>speech<s n="n"/></r></p></e>
     <e><p><l>málfræðingur<s n="n"/><s n="m"/></l><r>linguist<s n="n"/></r></p></e>
     <e><p><l>málgagn<s n="n"/><s n="nt"/></l><r>organ<s n="n"/></r></p></e>
-    <e><p><l>málhreinsun<s n="n"/><s n="f"/></l><r><b/>purism<s n="n"/></r></p></e> <!-- (linguistic) -->
+    <e><p><l>málhreinsun<s n="n"/><s n="f"/></l><r>purism<s n="n"/></r></p></e> <!-- (linguistic) -->
     <e c="0"><p><l>málleysingi<s n="n"/><s n="m"/></l><r>mute<s n="n"/></r></p></e>
     <e slr="1"><p><l>málleysingi<s n="n"/><s n="m"/></l><r>dumb<b/>animals<s n="n"/></r></p></e>
     <e><p><l>málmgrýti<s n="n"/><s n="nt"/></l><r>ore<s n="n"/></r></p></e>
@@ -19946,7 +19945,7 @@
     <e slr="1"><p><l>málsgrein<s n="n"/><s n="f"/></l><r>paragraph<s n="n"/></r></p></e>
     <e><p><l>málshöfðun<s n="n"/><s n="f"/></l><r>legal<b/>proceedings<s n="n"/></r></p></e>
     <e><p><l>málskrúð<s n="n"/><s n="nt"/></l><r>florid<b/>style<s n="n"/></r></p></e>
-    <e><p><l>málsnið<s n="n"/><s n="nt"/></l><r><b/>register/style<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>málsnið<s n="n"/><s n="nt"/></l><r>register/style<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>málstaður<s n="n"/><s n="m"/></l><r>cause<s n="n"/></r></p></e>
     <e><p><l>málsverður<s n="n"/><s n="m"/></l><r>meal<s n="n"/></r></p></e>
     <e><p><l>málsókn<s n="n"/><s n="f"/></l><r>legal<b/>proceedings<s n="n"/></r></p></e>
@@ -20018,7 +20017,7 @@
     <e><p><l>möl<s n="n"/><s n="f"/></l><r>gravel<s n="n"/></r></p></e>
     <e><p><l>mölfluga<s n="n"/><s n="f"/></l><r>moth<s n="n"/></r></p></e>
     <e><p><l>möndull<s n="n"/><s n="m"/></l><r>axis<s n="n"/></r></p></e>
-    <e><p><l>mör<s n="n"/><s n="m"/></l><r><b/>suet<s n="n"/></r></p></e> <!-- (lamb) -->
+    <e><p><l>mör<s n="n"/><s n="m"/></l><r>suet<s n="n"/></r></p></e> <!-- (lamb) -->
     <e><p><l>mörður<s n="n"/><s n="m"/></l><r>marten<s n="n"/></r></p></e>
     <e><p><l>möskvi<s n="n"/><s n="m"/></l><r>mesh<s n="n"/></r></p></e>
     <e><p><l>mötuneyti<s n="n"/><s n="nt"/></l><r>cafeteria<s n="n"/></r></p></e>
@@ -20187,7 +20186,7 @@
     <e slr="3"><p><l>nóta<s n="n"/><s n="f"/></l><r>comment<s n="n"/></r></p></e>
     <e><p><l>nóvember<s n="n"/><s n="m"/></l><r>November<s n="n"/></r></p></e>
     <e><p><l>nöldur<s n="n"/><s n="nt"/></l><r>grumbling<s n="n"/></r></p></e>
-    <e><p><l>nöldurseggur<s n="n"/><s n="m"/></l><r><b/>grumbler<s n="n"/></r></p></e> <!-- (inveterate) -->
+    <e><p><l>nöldurseggur<s n="n"/><s n="m"/></l><r>grumbler<s n="n"/></r></p></e> <!-- (inveterate) -->
     <e><p><l>núggat<s n="n"/><s n="nt"/></l><r>nougat<s n="n"/></r></p></e>
     <e><p><l>núningur<s n="n"/><s n="m"/></l><r>rubbing<s n="n"/></r></p></e>
     <e><p><l>núvirði<s n="n"/><s n="nt"/></l><r>present<b/>value/worth<s n="n"/></r></p></e>
@@ -20207,7 +20206,7 @@
     <e><p><l>nýár<s n="n"/><s n="nt"/></l><r>New<b/>Year<s n="n"/></r></p></e>
     <e><p><l>nýársdagur<s n="n"/><s n="m"/></l><r>New<b/>Year's<b/>Day<s n="n"/></r></p></e>
     <e><p><l>nýársnótt<s n="n"/><s n="f"/></l><r>New<b/>Year's<b/>Eve<s n="n"/></r></p></e>
-    <e><p><l>obláta<s n="n"/><s n="f"/></l><r><b/>wafer<s n="n"/></r></p></e> <!-- (communion) -->
+    <e><p><l>obláta<s n="n"/><s n="f"/></l><r>wafer<s n="n"/></r></p></e> <!-- (communion) -->
     <e><p><l>oddaflug<s n="n"/><s n="nt"/></l><r>v-shaped<b/>flight<b/>formation<s n="n"/></r></p></e>
     <e><p><l>oddatala<s n="n"/><s n="f"/></l><r>odd<b/>number<s n="n"/></r></p></e>
     <e><p><l>oddviti<s n="n"/><s n="m"/></l><r>chairman<b/>of<b/>a<b/>district<b/>council<s n="n"/></r></p></e>
@@ -20637,14 +20636,14 @@
     <e c="0"><p><l>reykháfur<s n="n"/><s n="m"/></l><r>chimney<s n="n"/></r></p></e>
     <e slr="1"><p><l>reykháfur<s n="n"/><s n="m"/></l><r>funnel<s n="n"/></r></p></e>
     <e c="0"><p><l>reyking<s n="n"/><s n="f"/></l><r>smoke-curing<s n="n"/></r></p></e>
-    <e slr="1"><p><l>reyking<s n="n"/><s n="f"/></l><r><b/>smoking<s n="n"/></r></p></e> <!-- (tobacco) -->
+    <e slr="1"><p><l>reyking<s n="n"/><s n="f"/></l><r>smoking<s n="n"/></r></p></e> <!-- (tobacco) -->
     <e><p><l>reykskynjari<s n="n"/><s n="m"/></l><r>smoke<b/>detector<s n="n"/></r></p></e>
     <e><p><l>reyr<s n="n"/><s n="m"/></l><r>cane<s n="n"/></r></p></e>
     <e><p><l>reytingur<s n="n"/><s n="m"/></l><r>small<b/>quantities<s n="n"/></r></p></e>
     <e><p><l>reður<s n="n"/><s n="m"/></l><r>penis<s n="n"/></r></p></e>
     <e><p><l>ribbaldi<s n="n"/><s n="m"/></l><r>bully<s n="n"/></r></p></e>
     <e><p><l>riddarakross<s n="n"/><s n="m"/></l><r>Knight's<b/>Cross<s n="n"/></r></p></e> <!-- (highest Icelandic honor/decoration) -->
-    <e><p><l>riddarasaga<s n="n"/><s n="f"/></l><r><b/>romance<s n="n"/></r></p></e> <!-- (chivalric) -->
+    <e><p><l>riddarasaga<s n="n"/><s n="f"/></l><r>romance<s n="n"/></r></p></e> <!-- (chivalric) -->
     <e c="0"><p><l>rifa<s n="n"/><s n="f"/></l><r>rip<s n="n"/></r></p></e>
     <e slr="1"><p><l>rifa<s n="n"/><s n="f"/></l><r>crack<s n="n"/></r></p></e>
     <e><p><l>rifbein<s n="n"/><s n="nt"/></l><r>rib<s n="n"/></r></p></e>
@@ -20685,7 +20684,7 @@
     <e><p><l>riðill<s n="n"/><s n="m"/></l><r>heat<s n="n"/></r></p></e>
     <e><p><l>rjómablíða<s n="n"/><s n="f"/></l><r>warm<b/>calm<b/>weather<s n="n"/></r></p></e>
     <e><p><l>rjóður<s n="n"/><s n="nt"/></l><r>clearing<s n="n"/></r></p></e>
-    <e><p><l>rofi<s n="n"/><s n="m"/></l><r><b/>switch<s n="n"/></r></p></e> <!-- (electric) -->
+    <e><p><l>rofi<s n="n"/><s n="m"/></l><r>switch<s n="n"/></r></p></e> <!-- (electric) -->
     <e><p><l>rokkari<s n="n"/><s n="m"/></l><r>rock<b/>musician<s n="n"/></r></p></e>
     <e><p><l>rokktónlist<s n="n"/><s n="f"/></l><r>rock<b/>music<s n="n"/></r></p></e>
     <e><p><l>rola<s n="n"/><s n="f"/></l><r>milksop<s n="n"/></r></p></e>
@@ -20724,7 +20723,7 @@
     <e><p><l>rásmark<s n="n"/><s n="nt"/></l><r>starting<b/>post/point<s n="n"/></r></p></e>
     <e><p><l>ráðabrugg<s n="n"/><s n="nt"/></l><r>scheming<s n="n"/></r></p></e>
     <e><p><l>ráðagerð<s n="n"/><s n="f"/></l><r>plan<s n="n"/></r></p></e>
-    <e><p><l>ráðahagur<s n="n"/><s n="m"/></l><r><b/>match<s n="n"/></r></p></e> <!-- (marriage) -->
+    <e><p><l>ráðahagur<s n="n"/><s n="m"/></l><r>match<s n="n"/></r></p></e> <!-- (marriage) -->
     <e><p><l>ráðaleysi<s n="n"/><s n="nt"/></l><r>perplexity<s n="n"/></r></p></e>
     <e><p><l>ráðdeild<s n="n"/><s n="f"/></l><r>thrift<s n="n"/></r></p></e>
     <e><p><l>ráðgjöf<s n="n"/><s n="f"/></l><r>consultation<s n="n"/></r></p></e>
@@ -20743,7 +20742,7 @@
     <e><p><l>ráðstöfunarfé<s n="n"/><s n="nt"/></l><r>disposable<b/>fund<s n="n"/></r></p></e> <!-- (s) -->
     <e><p><l>ráðunautur<s n="n"/><s n="m"/></l><r>advisor<s n="n"/></r></p></e>
     <e><p><l>ráðuneyti<s n="n"/><s n="nt"/></l><r>ministry<s n="n"/></r></p></e>
-    <e><p><l>ræfill<s n="n"/><s n="m"/></l><r><b/>wretch<s n="n"/></r></p></e> <!-- (poor) -->
+    <e><p><l>ræfill<s n="n"/><s n="m"/></l><r>wretch<s n="n"/></r></p></e> <!-- (poor) -->
     <e><p><l>ræfilsháttur<s n="n"/><s n="m"/></l><r>low/mean<b/>conduct<s n="n"/></r></p></e>
     <e><p><l>rækjusalat<s n="n"/><s n="nt"/></l><r>shrimp<b/>salad<s n="n"/></r></p></e>
     <e><p><l>ræma<s n="n"/><s n="f"/></l><r>ribbon<s n="n"/></r></p></e>
@@ -20912,7 +20911,7 @@
     <e><p><l>samspil<s n="n"/><s n="nt"/></l><r>interplay<s n="n"/></r></p></e>
     <e><p><l>samstarfsmaður<s n="n"/><s n="m"/></l><r>colleague<s n="n"/></r></p></e>
     <e><p><l>samstaða<s n="n"/><s n="f"/></l><r>solidarity<s n="n"/></r></p></e>
-    <e c="0"><p><l>samsteypa<s n="n"/><s n="f"/></l><r><b/>coalition<s n="n"/></r></p></e> <!-- (political) -->
+    <e c="0"><p><l>samsteypa<s n="n"/><s n="f"/></l><r>coalition<s n="n"/></r></p></e> <!-- (political) -->
     <e slr="1"><p><l>samsteypa<s n="n"/><s n="f"/></l><r>conglomerate<s n="n"/></r></p></e>
     <e><p><l>samsteypustjórn<s n="n"/><s n="f"/></l><r>coalition<b/>government<s n="n"/></r></p></e>
     <e c="0"><p><l>samstæða<s n="n"/><s n="f"/></l><r>set<s n="n"/></r></p></e>
@@ -20996,7 +20995,7 @@
     <e><p><l>sena<s n="n"/><s n="f"/></l><r>scene<s n="n"/></r></p></e>
     <e><p><l>sendandi<s n="n"/><s n="m"/></l><r>sender<s n="n"/></r></p></e>
     <e><p><l>sendiboði<s n="n"/><s n="m"/></l><r>messenger<s n="n"/></r></p></e>
-    <e><p><l>sendibíll<s n="n"/><s n="m"/></l><r><b/>van<s n="n"/></r></p></e> <!-- (delivery) -->
+    <e><p><l>sendibíll<s n="n"/><s n="m"/></l><r>van<s n="n"/></r></p></e> <!-- (delivery) -->
     <e><p><l>sendill<s n="n"/><s n="m"/></l><r>errand<b/>boy<s n="n"/></r></p></e>
     <e><p><l>sendinefnd<s n="n"/><s n="f"/></l><r>delegation<s n="n"/></r></p></e>
     <e><p><l>sendlingur<s n="n"/><s n="m"/></l><r>purple<b/>sandpiper<s n="n"/></r></p></e>
@@ -21022,7 +21021,7 @@
     <e c="0"><p><l>sigling<s n="n"/><s n="f"/></l><r>sailing<s n="n"/></r></p></e>
     <e slr="1"><p><l>sigling<s n="n"/><s n="f"/></l><r>voyage<s n="n"/></r></p></e>
     <e><p><l>siglingaleið<s n="n"/><s n="f"/></l><r>seaway<s n="n"/></r></p></e>
-    <e><p><l>siglutré<s n="n"/><s n="nt"/></l><r><b/>mast<s n="n"/></r></p></e> <!-- (ship's) -->
+    <e><p><l>siglutré<s n="n"/><s n="nt"/></l><r>mast<s n="n"/></r></p></e> <!-- (ship's) -->
     <e c="0"><p><l>sigti<s n="n"/><s n="nt"/></l><r>sieve<s n="n"/></r></p></e>
     <e slr="1"><p><l>sigti<s n="n"/><s n="nt"/></l><r>sight<s n="n"/></r></p></e> <!-- (on a gun) -->
     <e><p><l>sigurvíma<s n="n"/><s n="f"/></l><r>trumphant<b/>ecstasy<s n="n"/></r></p></e>
@@ -21154,11 +21153,11 @@
     <e><p><l>skartgripur<s n="n"/><s n="m"/></l><r>piece<b/>of<b/>jewellery/jewelry<s n="n"/></r></p></e>
     <e c="0"><p><l>skarð<s n="n"/><s n="nt"/></l><r>nick<s n="n"/></r></p></e>
     <e slr="1"><p><l>skarð<s n="n"/><s n="nt"/></l><r>gap<s n="n"/></r></p></e>
-    <e slr="2"><p><l>skarð<s n="n"/><s n="nt"/></l><r><b/>pass<s n="n"/></r></p></e> <!-- (mountain) -->
+    <e slr="2"><p><l>skarð<s n="n"/><s n="nt"/></l><r>pass<s n="n"/></r></p></e> <!-- (mountain) -->
     <e slr="3"><p><l>skarð<s n="n"/><s n="nt"/></l><r>dimple<s n="n"/></r></p></e>
     <e><p><l>skass<s n="n"/><s n="nt"/></l><r>hag<s n="n"/></r></p></e>
     <e><p><l>skata<s n="n"/><s n="f"/></l><r>skate<s n="n"/></r></p></e>
-    <e><p><l>skattframtal<s n="n"/><s n="nt"/></l><r><b/>tax<b/>return<s n="n"/></r></p></e> <!-- (income) -->
+    <e><p><l>skattframtal<s n="n"/><s n="nt"/></l><r>tax<b/>return<s n="n"/></r></p></e> <!-- (income) -->
     <e><p><l>skattgreiðandi<s n="n"/><s n="m"/></l><r>taxpayer<s n="n"/></r></p></e>
     <e><p><l>skattheimta<s n="n"/><s n="f"/></l><r>tax<b/>collection<s n="n"/></r></p></e>
     <e><p><l>skattlagning<s n="n"/><s n="f"/></l><r>taxation<s n="n"/></r></p></e>
@@ -21211,7 +21210,7 @@
     <e slr="1"><p><l>skermur<s n="n"/><s n="m"/></l><r>screen<s n="n"/></r></p></e>
     <e slr="2"><p><l>skermur<s n="n"/><s n="m"/></l><r>screen<s n="n"/></r></p></e>
     <e><p><l>skerðing<s n="n"/><s n="f"/></l><r>reduction<s n="n"/></r></p></e>
-    <e><p><l>skessa<s n="n"/><s n="f"/></l><r><b/>monster<s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>skessa<s n="n"/><s n="f"/></l><r>monster<s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>skeytingarleysi<s n="n"/><s n="nt"/></l><r>indifference<s n="n"/></r></p></e>
     <e><p><l>skiki<s n="n"/><s n="m"/></l><r>strip<s n="n"/></r></p></e> <!-- (of land) -->
     <e><p><l>skilagjald<s n="n"/><s n="nt"/></l><r>deposit<s n="n"/></r></p></e>
@@ -21230,7 +21229,7 @@
     <e><p><l>skinnbók<s n="n"/><s n="f"/></l><r>vellum<s n="n"/></r></p></e>
     <e><p><l>skipafloti<s n="n"/><s n="m"/></l><r>fleet<s n="n"/></r></p></e> <!-- (of ships) -->
     <e><p><l>skipakví<s n="n"/><s n="f"/></l><r>dry<b/>dock<s n="n"/></r></p></e>
-    <e><p><l>skipalest<s n="n"/><s n="f"/></l><r><b/>convoy<s n="n"/></r></p></e> <!-- (ships') -->
+    <e><p><l>skipalest<s n="n"/><s n="f"/></l><r>convoy<s n="n"/></r></p></e> <!-- (ships') -->
     <e><p><l>skipalægi<s n="n"/><s n="nt"/></l><r>anchorage<s n="n"/></r></p></e>
     <e><p><l>skipamiðlari<s n="n"/><s n="m"/></l><r>ship<b/>broker<s n="n"/></r></p></e>
     <e><p><l>skipaskurður<s n="n"/><s n="m"/></l><r>canal<s n="n"/></r></p></e>
@@ -21240,7 +21239,7 @@
     <e><p><l>skipherra<s n="n"/><s n="m"/></l><r>naval<b/>captain<s n="n"/></r></p></e>
     <e><p><l>skipsfarmur<s n="n"/><s n="m"/></l><r>shipload<s n="n"/></r></p></e>
     <e><p><l>skipsflak<s n="n"/><s n="nt"/></l><r>wreck<s n="n"/></r></p></e>
-    <e><p><l>skipstjóri<s n="n"/><s n="m"/></l><r><b/>captain<s n="n"/></r></p></e> <!-- (ship's) -->
+    <e><p><l>skipstjóri<s n="n"/><s n="m"/></l><r>captain<s n="n"/></r></p></e> <!-- (ship's) -->
     <e><p><l>skiptiborð<s n="n"/><s n="nt"/></l><r>switchboard<s n="n"/></r></p></e>
     <e><p><l>skiptimiði<s n="n"/><s n="m"/></l><r>transfer<b/>ticket<s n="n"/></r></p></e>
     <e><p><l>skiptimynt<s n="n"/><s n="f"/></l><r>change<s n="n"/></r></p></e>
@@ -21312,7 +21311,7 @@
     <e><p><l>skrið<s n="n"/><s n="nt"/></l><r>movement<s n="n"/></r></p></e>
     <e><p><l>skriða<s n="n"/><s n="f"/></l><r>landslide<s n="n"/></r></p></e>
     <e><p><l>skriðdreki<s n="n"/><s n="m"/></l><r>tank<s n="n"/></r></p></e>
-    <e><p><l>skriðjökull<s n="n"/><s n="m"/></l><r><b/>glacier<s n="n"/></r></p></e> <!-- (one of two or three categories of glacier) -->
+    <e><p><l>skriðjökull<s n="n"/><s n="m"/></l><r>glacier<s n="n"/></r></p></e> <!-- (one of two or three categories of glacier) -->
     <e><p><l>skriðsund<s n="n"/><s n="nt"/></l><r>crawl<s n="n"/></r></p></e>
     <e><p><l>skrjóður<s n="n"/><s n="m"/></l><r>jalopy<s n="n"/></r></p></e>
     <e><p><l>skrofa<s n="n"/><s n="f"/></l><r>manx<b/>shearwater<s n="n"/></r></p></e>
@@ -21343,7 +21342,7 @@
     <e c="0"><p><l>skrúfa<s n="n"/><s n="f"/></l><r>screw<s n="n"/></r></p></e>
     <e slr="1"><p><l>skrúfa<s n="n"/><s n="f"/></l><r>propeller<s n="n"/></r></p></e>
     <e><p><l>skrúfbolti<s n="n"/><s n="m"/></l><r>bolt<s n="n"/></r></p></e>
-    <e><p><l>skrúfgangur<s n="n"/><s n="m"/></l><r><b/>thread<s n="n"/></r></p></e> <!-- (screw-) -->
+    <e><p><l>skrúfgangur<s n="n"/><s n="m"/></l><r>thread<s n="n"/></r></p></e> <!-- (screw-) -->
     <e><p><l>skrúfjárn<s n="n"/><s n="nt"/></l><r>screwdriver<s n="n"/></r></p></e>
     <e><p><l>skrúðganga<s n="n"/><s n="f"/></l><r>procession<s n="n"/></r></p></e>
     <e><p><l>skrúðgarður<s n="n"/><s n="m"/></l><r>flower<b/>garden<s n="n"/></r></p></e>
@@ -21371,7 +21370,7 @@
     <e><p><l>skvaldur<s n="n"/><s n="nt"/></l><r>chatter<s n="n"/></r></p></e>
     <e><p><l>skvass<s n="n"/><s n="nt"/></l><r>squash<s n="n"/></r></p></e>
     <e c="0"><p><l>skvetta<s n="n"/><s n="f"/></l><r>splash<s n="n"/></r></p></e>
-    <e slr="1"><p><l>skvetta<s n="n"/><s n="f"/></l><r><b/>shower<s n="n"/></r></p></e> <!-- (rain) -->
+    <e slr="1"><p><l>skvetta<s n="n"/><s n="f"/></l><r>shower<s n="n"/></r></p></e> <!-- (rain) -->
     <e><p><l>skvísa<s n="n"/><s n="f"/></l><r>bird<s n="n"/></r></p></e>
     <e><p><l>skyggna<s n="n"/><s n="f"/></l><r>slide<s n="n"/></r></p></e>
     <e c="0"><p><l>skyggni<s n="n"/><s n="nt"/></l><r>visibility<s n="n"/></r></p></e>
@@ -21441,7 +21440,7 @@
     <e><p><l>skógarhögg<s n="n"/><s n="nt"/></l><r>tree-felling<s n="n"/></r></p></e>
     <e><p><l>skógarþröstur<s n="n"/><s n="m"/></l><r>redwing<s n="n"/></r></p></e>
     <e><p><l>skólabarn<s n="n"/><s n="nt"/></l><r>schoolchild<s n="n"/></r></p></e>
-    <e><p><l>skólabróðir<s n="n"/><s n="m"/></l><r><b/>schoolmate<s n="n"/></r></p></e> <!-- (male) -->
+    <e><p><l>skólabróðir<s n="n"/><s n="m"/></l><r>schoolmate<s n="n"/></r></p></e> <!-- (male) -->
     <e><p><l>skólabíll<s n="n"/><s n="m"/></l><r>school<b/>bus<s n="n"/></r></p></e>
     <e><p><l>skólaganga<s n="n"/><s n="f"/></l><r>school<b/>attendance<s n="n"/></r></p></e>
     <e><p><l>skólagjald<s n="n"/><s n="nt"/></l><r>school<b/>fees<s n="n"/></r></p></e>
@@ -21449,7 +21448,7 @@
     <e><p><l>skólasetning<s n="n"/><s n="f"/></l><r>school<b/>opening<s n="n"/></r></p></e> <!-- (ceremony) -->
     <e><p><l>skólaskylda<s n="n"/><s n="f"/></l><r>compulsory<b/>education<s n="n"/></r></p></e>
     <e><p><l>skólastofa<s n="n"/><s n="f"/></l><r>classroom<s n="n"/></r></p></e>
-    <e><p><l>skólasystir<s n="n"/><s n="f"/></l><r><b/>schoolmate<s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>skólasystir<s n="n"/><s n="f"/></l><r>schoolmate<s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>skólasókn<s n="n"/><s n="f"/></l><r>school<b/>attendance<s n="n"/></r></p></e>
     <e><p><l>skólataska<s n="n"/><s n="f"/></l><r>school<b/>bag<s n="n"/></r></p></e>
     <e><p><l>skór<s n="n"/><s n="m"/></l><r>shoe<s n="n"/></r></p></e>
@@ -21463,7 +21462,7 @@
     <e><p><l>skönnun<s n="n"/><s n="f"/></l><r>scanning<s n="n"/></r></p></e>
     <e><p><l>sköpun<s n="n"/><s n="f"/></l><r>creation<s n="n"/></r></p></e>
     <e><p><l>sköpunargáfa<s n="n"/><s n="f"/></l><r>creative<b/>power<s n="n"/></r></p></e>
-    <e c="0"><p><l>skörungur<s n="n"/><s n="m"/></l><r><b/>poker<s n="n"/></r></p></e> <!-- (fire) -->
+    <e c="0"><p><l>skörungur<s n="n"/><s n="m"/></l><r>poker<s n="n"/></r></p></e> <!-- (fire) -->
     <e slr="1"><p><l>skörungur<s n="n"/><s n="m"/></l><r>energetic/active<b/>person<s n="n"/></r></p></e>
     <e c="0"><p><l>skötuselur<s n="n"/><s n="m"/></l><r>monkfish<s n="n"/></r></p></e>
     <e slr="1"><p><l>skötuselur<s n="n"/><s n="m"/></l><r>anglerfish<s n="n"/></r></p></e>
@@ -21539,7 +21538,7 @@
     <e><p><l>sléttlendi<s n="n"/><s n="nt"/></l><r>plain<s n="n"/></r></p></e>
     <e><p><l>slímhimna<s n="n"/><s n="f"/></l><r>mucous<b/>membrane<s n="n"/></r></p></e>
     <e><p><l>slímhúð<s n="n"/><s n="f"/></l><r>mucous<b/>membrane<s n="n"/></r></p></e>
-    <e><p><l>slóg<s n="n"/><s n="nt"/></l><r><b/>entrails<s n="n"/></r></p></e> <!-- (of fish) -->
+    <e><p><l>slóg<s n="n"/><s n="nt"/></l><r>entrails<s n="n"/></r></p></e> <!-- (of fish) -->
     <e c="0"><p><l>slóð<s n="n"/><s n="f"/></l><r>beaten<b/>track/path<s n="n"/></r></p></e>
     <e slr="1"><p><l>slóð<s n="n"/><s n="f"/></l><r>area<s n="n"/></r></p></e>
     <e c="0"><p><l>slóði<s n="n"/><s n="m"/></l><r>path<s n="n"/></r></p></e>
@@ -21692,7 +21691,7 @@
     <e slr="1"><p><l>sorti<s n="n"/><s n="m"/></l><r>thick<b/>fog<s n="n"/></r></p></e>
     <e slr="2"><p><l>sorti<s n="n"/><s n="m"/></l><r>heavy<b/>snowstorm<s n="n"/></r></p></e>
     <e><p><l>sortulyng<s n="n"/><s n="nt"/></l><r>bearberry<b/>bush<s n="n"/></r></p></e>
-    <e><p><l>soð<s n="n"/><s n="nt"/></l><r><b/>stock<s n="n"/></r></p></e> <!-- (soup) -->
+    <e><p><l>soð<s n="n"/><s n="nt"/></l><r>stock<s n="n"/></r></p></e> <!-- (soup) -->
     <e><p><l>spagettí<s n="n"/><s n="nt"/></l><r>spaghetti<s n="n"/></r></p></e>
     <e><p><l>spangól<s n="n"/><s n="nt"/></l><r>howl<s n="n"/></r></p></e> <!-- (of dogs) -->
     <e><p><l>sparibaukur<s n="n"/><s n="m"/></l><r>piggy<b/>bank<s n="n"/></r></p></e>
@@ -21718,7 +21717,7 @@
     <e><p><l>spergilkál<s n="n"/><s n="nt"/></l><r>broccoli<s n="n"/></r></p></e>
     <e><p><l>spergill<s n="n"/><s n="m"/></l><r>asparagus<s n="n"/></r></p></e>
     <e><p><l>sperra<s n="n"/><s n="f"/></l><r>rafter<s n="n"/></r></p></e>
-    <e><p><l>sperðill<s n="n"/><s n="m"/></l><r><b/>sausage<s n="n"/></r></p></e> <!-- (large) -->
+    <e><p><l>sperðill<s n="n"/><s n="m"/></l><r>sausage<s n="n"/></r></p></e> <!-- (large) -->
     <e><p><l>spilaborg<s n="n"/><s n="f"/></l><r>card<b/>house<s n="n"/></r></p></e>
     <e><p><l>spiladós<s n="n"/><s n="f"/></l><r>music<b/>box<s n="n"/></r></p></e>
     <e><p><l>spilafíkill<s n="n"/><s n="m"/></l><r>compulsive<b/>gambler<s n="n"/></r></p></e>
@@ -21841,7 +21840,7 @@
     <e slr="2"><p><l>stef<s n="n"/><s n="nt"/></l><r>theme<s n="n"/></r></p></e>
     <e slr="3"><p><l>stef<s n="n"/><s n="nt"/></l><r>routine<s n="n"/></r></p></e>
     <e><p><l>stefnandi<s n="n"/><s n="m"/></l><r>plaintiff<s n="n"/></r></p></e>
-    <e><p><l>stefndur<s n="n"/><s n="m"/></l><r><b/>accused<s n="n"/></r></p></e> <!-- (the) -->
+    <e><p><l>stefndur<s n="n"/><s n="m"/></l><r>accused<s n="n"/></r></p></e> <!-- (the) -->
     <e><p><l>stefni<s n="n"/><s n="nt"/></l><r>prow<s n="n"/></r></p></e>
     <e><p><l>stefnubreyting<s n="n"/><s n="f"/></l><r>change<g><b/>of<b/>direction</g><s n="n"/></r></p></e>
     <e><p><l>stefnumót<s n="n"/><s n="nt"/></l><r>rendez-vous<s n="n"/></r></p></e>
@@ -21961,7 +21960,7 @@
     <e><p><l>stríðnispúki<s n="n"/><s n="m"/></l><r>teaser<s n="n"/></r></p></e>
     <e><p><l>strókur<s n="n"/><s n="m"/></l><r>column<g><b/>of<b/>smoke</g><s n="n"/></r></p></e>
     <e><p><l>strútur<s n="n"/><s n="m"/></l><r>ostrich<s n="n"/></r></p></e>
-    <e><p><l>strý<s n="n"/><s n="nt"/></l><r><b/>tufty<b/>hair<s n="n"/></r></p></e> <!-- (thin) -->
+    <e><p><l>strý<s n="n"/><s n="nt"/></l><r>tufty<b/>hair<s n="n"/></r></p></e> <!-- (thin) -->
     <e><p><l>strýta<s n="n"/><s n="f"/></l><r>mountain<b/>peak<s n="n"/></r></p></e>
     <e><p><l>stubbur<s n="n"/><s n="m"/></l><r>stub<s n="n"/></r></p></e>
     <e><p><l>stuldur<s n="n"/><s n="m"/></l><r>theft<s n="n"/></r></p></e>
@@ -21978,7 +21977,7 @@
     <e><p><l>stuttbylgja<s n="n"/><s n="f"/></l><r>shortwave<s n="n"/></r></p></e>
     <e><p><l>stuttermabolur<s n="n"/><s n="m"/></l><r>t-shirt<s n="n"/></r></p></e>
     <e c="0"><p><l>stuð<s n="n"/><s n="nt"/></l><r>bump<s n="n"/></r></p></e>
-    <e slr="1"><p><l>stuð<s n="n"/><s n="nt"/></l><r><b/>shock<s n="n"/></r></p></e> <!-- (electric) -->
+    <e slr="1"><p><l>stuð<s n="n"/><s n="nt"/></l><r>shock<s n="n"/></r></p></e> <!-- (electric) -->
     <e><p><l>stuðlaberg<s n="n"/><s n="nt"/></l><r>columnar<b/>basalt<s n="n"/></r></p></e>
     <e c="0"><p><l>stuðull<s n="n"/><s n="m"/></l><r>coefficient<s n="n"/></r></p></e>
     <e slr="1"><p><l>stuðull<s n="n"/><s n="m"/></l><r>alliterative<b/>sound<b/>in<b/>the<b/>odd<b/>lines<b/>of<b/>poetry<s n="n"/></r></p></e>
@@ -22169,7 +22168,7 @@
     <e><p><l>systurdóttir<s n="n"/><s n="f"/></l><r>niece<s n="n"/></r></p></e> <!-- (sister's daughter) -->
     <e><p><l>systursonur<s n="n"/><s n="m"/></l><r>nephew<s n="n"/></r></p></e> <!-- (sister's son) -->
     <e><p><l>sála<s n="n"/><s n="f"/></l><r>soul<s n="n"/></r></p></e>
-    <e><p><l>sálarangist<s n="n"/><s n="f"/></l><r><b/>anguish<s n="n"/></r></p></e> <!-- (existential) -->
+    <e><p><l>sálarangist<s n="n"/><s n="f"/></l><r>anguish<s n="n"/></r></p></e> <!-- (existential) -->
     <e><p><l>sálarheill<s n="n"/><s n="f"/></l><r>peace<g><b/>of<b/>mind</g><s n="n"/></r></p></e>
     <e><p><l>sálarstríð<s n="n"/><s n="nt"/></l><r>mental<b/>conflict<s n="n"/></r></p></e>
     <e><p><l>sálkönnun<s n="n"/><s n="f"/></l><r>psychoanalysis<s n="n"/></r></p></e>
@@ -22217,7 +22216,7 @@
     <e><p><l>sérrí<s n="n"/><s n="nt"/></l><r>sherry<s n="n"/></r></p></e>
     <e><p><l>sérstaða<s n="n"/><s n="f"/></l><r>special<b/>status<s n="n"/></r></p></e>
     <e><p><l>sérsvið<s n="n"/><s n="nt"/></l><r>special<b/>field<s n="n"/></r></p></e>
-    <e><p><l>sértrúarsöfnuður<s n="n"/><s n="m"/></l><r><b/>denomination<s n="n"/></r></p></e> <!-- (non-conformist) -->
+    <e><p><l>sértrúarsöfnuður<s n="n"/><s n="m"/></l><r>denomination<s n="n"/></r></p></e> <!-- (non-conformist) -->
     <e><p><l>sérverslun<s n="n"/><s n="f"/></l><r>specialised<b/>dealer<s n="n"/></r></p></e>
     <e c="0"><p><l>sérviska<s n="n"/><s n="f"/></l><r>eccentricity<s n="n"/></r></p></e>
     <e slr="1"><p><l>sérviska<s n="n"/><s n="f"/></l><r>whim<s n="n"/></r></p></e>
@@ -22241,7 +22240,7 @@
     <e><p><l>símenntun<s n="n"/><s n="f"/></l><r>continuous<b/>education<s n="n"/></r></p></e>
     <e><p><l>símskeyti<s n="n"/><s n="nt"/></l><r>telegram<s n="n"/></r></p></e>
     <e><p><l>símstöð<s n="n"/><s n="f"/></l><r>telephone<b/>exchange<s n="n"/></r></p></e>
-    <e><p><l>símsvari<s n="n"/><s n="m"/></l><r><b/>answering<b/>machine<s n="n"/></r></p></e> <!-- (telephone) -->
+    <e><p><l>símsvari<s n="n"/><s n="m"/></l><r>answering<b/>machine<s n="n"/></r></p></e> <!-- (telephone) -->
     <e><p><l>símtal<s n="n"/><s n="nt"/></l><r>telephone<b/>call<s n="n"/></r></p></e>
     <e><p><l>sírena<s n="n"/><s n="f"/></l><r>siren<s n="n"/></r></p></e>
     <e><p><l>síróp<s n="n"/><s n="nt"/></l><r>syrup<s n="n"/></r></p></e>
@@ -22294,18 +22293,18 @@
     <e><p><l>sökudólgur<s n="n"/><s n="m"/></l><r>culprit<s n="n"/></r></p></e>
     <e><p><l>söl<s n="n"/><s n="nt"/></l><r>dulse<s n="n"/></r></p></e>
     <e><p><l>söltun<s n="n"/><s n="f"/></l><r>salting<s n="n"/></r></p></e>
-    <e><p><l>söluaðili<s n="n"/><s n="m"/></l><r><b/>sales<b/>agent<s n="n"/></r></p></e> <!-- (official) -->
+    <e><p><l>söluaðili<s n="n"/><s n="m"/></l><r>sales<b/>agent<s n="n"/></r></p></e> <!-- (official) -->
     <e><p><l>sölugengi<s n="n"/><s n="nt"/></l><r>selling<b/>rate<s n="n"/></r></p></e> <!-- (of exchange) -->
     <e><p><l>söluhagnaður<s n="n"/><s n="m"/></l><r>sales<b/>profit<s n="n"/></r></p></e>
     <e><p><l>sölumaður<s n="n"/><s n="m"/></l><r>sales<b/>representative<s n="n"/></r></p></e>
     <e><p><l>sölustjóri<s n="n"/><s n="m"/></l><r>sales<b/>manager<s n="n"/></r></p></e>
     <e><p><l>söluturn<s n="n"/><s n="m"/></l><r>kiosk<s n="n"/></r></p></e>
     <e><p><l>söngbók<s n="n"/><s n="f"/></l><r>songbook<s n="n"/></r></p></e>
-    <e><p><l>söngkona<s n="n"/><s n="f"/></l><r><b/>singer<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>söngkona<s n="n"/><s n="f"/></l><r>singer<b/><s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>söngleikur<s n="n"/><s n="m"/></l><r>musical<s n="n"/></r></p></e>
     <e><p><l>sönglist<s n="n"/><s n="f"/></l><r>music<s n="n"/></r></p></e>
     <e><p><l>söngljóð<s n="n"/><s n="nt"/></l><r>song<s n="n"/></r></p></e>
-    <e><p><l>söngmaður<s n="n"/><s n="m"/></l><r><b/>singer<s n="n"/></r></p></e> <!-- (male) -->
+    <e><p><l>söngmaður<s n="n"/><s n="m"/></l><r>singer<s n="n"/></r></p></e> <!-- (male) -->
     <e><p><l>söngrödd<s n="n"/><s n="f"/></l><r>singing<b/>voice<s n="n"/></r></p></e>
     <e><p><l>söngskemmtun<s n="n"/><s n="f"/></l><r>recital<s n="n"/></r></p></e>
     <e><p><l>sönnun<s n="n"/><s n="f"/></l><r>proof<s n="n"/></r></p></e>
@@ -22359,7 +22358,7 @@
     <e><p><l>tangarhald<s n="n"/><s n="nt"/></l><r>firm<b/>grasp<s n="n"/></r></p></e>
     <e><p><l>tangi<s n="n"/><s n="m"/></l><r>spit<s n="n"/></r></p></e> <!-- (of land) -->
     <e><p><l>tankbíll<s n="n"/><s n="m"/></l><r>tanker<s n="n"/></r></p></e> <!-- (truck) -->
-    <e><p><l>tannfylling<s n="n"/><s n="f"/></l><r><b/>filling<s n="n"/></r></p></e> <!-- (tooth) -->
+    <e><p><l>tannfylling<s n="n"/><s n="f"/></l><r>filling<s n="n"/></r></p></e> <!-- (tooth) -->
     <e><p><l>tanngarður<s n="n"/><s n="m"/></l><r>row<g><b/>of<b/>teeth</g><s n="n"/></r></p></e>
     <e><p><l>tannhjól<s n="n"/><s n="nt"/></l><r>cogwheel<s n="n"/></r></p></e>
     <e><p><l>tannhljóð<s n="n"/><s n="nt"/></l><r>dental<s n="n"/></r></p></e> <!-- (phonetics) -->
@@ -22380,7 +22379,7 @@
     <e><p><l>taugaáfall<s n="n"/><s n="nt"/></l><r>shock<s n="n"/></r></p></e>
     <e><p><l>taxi<s n="n"/><s n="m"/></l><r>taxi<s n="n"/></r></p></e>
     <e><p><l>taxti<s n="n"/><s n="m"/></l><r>rate<s n="n"/></r></p></e>
-    <e><p><l>tað<s n="n"/><s n="nt"/></l><r>manure<s n="n"/></r></p></e> <!-- (from horses or sheep) -->
+    <e><p><l>tað<s n="n"/><s n="nt"/></l><r>manure<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- (from horses or sheep) -->
     <e><p><l>taða<s n="n"/><s n="f"/></l><r>hay<s n="n"/></r></p></e>
     <e><p><l>teiknari<s n="n"/><s n="m"/></l><r>illustrator<s n="n"/></r></p></e>
     <e><p><l>teiknimynd<s n="n"/><s n="f"/></l><r>cartoon<s n="n"/></r></p></e>
@@ -22501,7 +22500,7 @@
     <e slr="1"><p><l>tollur<s n="n"/><s n="m"/></l><r>customs<s n="n"/></r></p></e>
     <e slr="2"><p><l>tollur<s n="n"/><s n="m"/></l><r>duty-free<b/>liquor<s n="n"/></r></p></e>
     <e><p><l>tollvörður<s n="n"/><s n="m"/></l><r>customs<b/>officer<s n="n"/></r></p></e>
-    <e><p><l>tommustokkur<s n="n"/><s n="m"/></l><r><b/>rule<s n="n"/></r></p></e> <!-- (folding) -->
+    <e><p><l>tommustokkur<s n="n"/><s n="m"/></l><r>rule<s n="n"/></r></p></e> <!-- (folding) -->
     <e><p><l>toppgrind<s n="n"/><s n="f"/></l><r>roof<b/>rack<s n="n"/></r></p></e>
     <e><p><l>toppkál<s n="n"/><s n="nt"/></l><r>early<b/>cabbage<s n="n"/></r></p></e>
     <e><p><l>toppskarfur<s n="n"/><s n="m"/></l><r>shag<s n="n"/></r></p></e>
@@ -22626,7 +22625,7 @@
     <e c="0"><p><l>tæfa<s n="n"/><s n="f"/></l><r>vixen<s n="n"/></r></p></e>
     <e slr="1"><p><l>tæfa<s n="n"/><s n="f"/></l><r>bitch<s n="n"/></r></p></e>
     <e><p><l>tækifærissinni<s n="n"/><s n="m"/></l><r>opportunist<s n="n"/></r></p></e>
-    <e><p><l>tækjabúnaður<s n="n"/><s n="m"/></l><r><b/>equipment<s n="n"/></r></p></e> <!-- (mechanical) -->
+    <e><p><l>tækjabúnaður<s n="n"/><s n="m"/></l><r>equipment<s n="n"/></r></p></e> <!-- (mechanical) -->
     <e><p><l>tæknibylting<s n="n"/><s n="f"/></l><r>technological<b/>revolution<s n="n"/></r></p></e>
     <e><p><l>tæknifrjóvgun<s n="n"/><s n="f"/></l><r>artificial<b/>insemination<s n="n"/></r></p></e>
     <e><p><l>tæknifræðingur<s n="n"/><s n="m"/></l><r>technologist<s n="n"/></r></p></e>
@@ -22714,7 +22713,7 @@
     <e><p><l>umferðarmerki<s n="n"/><s n="nt"/></l><r>traffic<b/>sign<s n="n"/></r></p></e>
     <e><p><l>umferðarmiðstöð<s n="n"/><s n="f"/></l><r>bus<b/>terminal<s n="n"/></r></p></e>
     <e><p><l>umferðarslys<s n="n"/><s n="nt"/></l><r>traffic<b/>accident<s n="n"/></r></p></e>
-    <e><p><l>umferðaróhapp<s n="n"/><s n="nt"/></l><r><b/>accident<s n="n"/></r></p></e> <!-- (traffic) -->
+    <e><p><l>umferðaróhapp<s n="n"/><s n="nt"/></l><r>accident<s n="n"/></r></p></e> <!-- (traffic) -->
     <e><p><l>umgangur<s n="n"/><s n="m"/></l><r>moving<b/>about<s n="n"/></r></p></e>
     <e><p><l>umgerð<s n="n"/><s n="f"/></l><r>frame<s n="n"/></r></p></e>
     <e><p><l>umheimur<s n="n"/><s n="m"/></l><r>outside<b/>world<s n="n"/></r></p></e>
@@ -22776,7 +22775,7 @@
     <e><p><l>ungmennafélag<s n="n"/><s n="nt"/></l><r>youth<b/>association<s n="n"/></r></p></e>
     <e><p><l>ungverska<s n="n"/><s n="f"/></l><r>Hungarian<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>ungviði<s n="n"/><s n="nt"/></l><r>young<b/>ones<s n="n"/></r></p></e> <!-- (animals, children, young people) -->
-    <e><p><l>unnusti<s n="n"/><s n="m"/></l><r><b/>sweetheart<s n="n"/></r></p></e> <!-- (male) -->
+    <e><p><l>unnusti<s n="n"/><s n="m"/></l><r>sweetheart<s n="n"/></r></p></e> <!-- (male) -->
     <e><p><l>unun<s n="n"/><s n="f"/></l><r>pleasure<s n="n"/></r></p></e>
     <e><p><l>uppalandi<s n="n"/><s n="m"/></l><r>one<b/>who<b/>brings<b/>up<b/>children<s n="n"/></r></p></e>
     <e><p><l>uppblástur<s n="n"/><s n="m"/></l><r>wind<b/>erosion<s n="n"/></r></p></e>
@@ -22841,7 +22840,7 @@
     <e><p><l>uppstreymi<s n="n"/><s n="nt"/></l><r>rising<b/>current<g><b/>of<b/>air</g><s n="n"/></r></p></e>
     <e c="0"><p><l>uppsögn<s n="n"/><s n="f"/></l><r>dismissal<s n="n"/></r></p></e>
     <e slr="1"><p><l>uppsögn<s n="n"/><s n="f"/></l><r>resignation<s n="n"/></r></p></e>
-    <e><p><l>upptakari<s n="n"/><s n="m"/></l><r><b/>opener<s n="n"/></r></p></e> <!-- (bottle) -->
+    <e><p><l>upptakari<s n="n"/><s n="m"/></l><r>opener<s n="n"/></r></p></e> <!-- (bottle) -->
     <e><p><l>upptalning<s n="n"/><s n="f"/></l><r>enumeration<s n="n"/></r></p></e>
     <e><p><l>uppvöxtur<s n="n"/><s n="m"/></l><r>growing<b/>up<s n="n"/></r></p></e>
     <e c="0"><p><l>uppábrot<s n="n"/><s n="nt"/></l><r>cuff<s n="n"/></r></p></e>
@@ -22863,9 +22862,9 @@
     <e><p><l>urð<s n="n"/><s n="f"/></l><r>scree<s n="n"/></r></p></e>
     <e><p><l>usli<s n="n"/><s n="m"/></l><r>damage<s n="n"/></r></p></e>
     <e><p><l>utanbókarlærdómur<s n="n"/><s n="m"/></l><r>learning<b/>by<b/>rote<s n="n"/></r></p></e>
-    <e><p><l>utanför<s n="n"/><s n="f"/></l><r>journey<b/>abroad<s n="n"/></r></p></e>
+    <e><p><l>utanför<s n="n"/><s n="f"/></l><r>journey<g><b/>abroad</g><s n="n"/></r></p></e>
     <e><p><l>utangarðsmaður<s n="n"/><s n="m"/></l><r>misfit<s n="n"/></r></p></e>
-    <e><p><l>utanlandsferð<s n="n"/><s n="f"/></l><r>trip<b/>abroad<s n="n"/></r></p></e>
+    <e><p><l>utanlandsferð<s n="n"/><s n="f"/></l><r>trip<g><b/>abroad</g><s n="n"/></r></p></e>
     <e><p><l>utanríkisþjónusta<s n="n"/><s n="f"/></l><r>diplomatic<b/>service<s n="n"/></r></p></e>
     <e><p><l>utanáskrift<s n="n"/><s n="f"/></l><r>address<s n="n"/></r></p></e>
     <e><p><l>uxahalasúpa<s n="n"/><s n="f"/></l><r>oxtail<b/>soup<s n="n"/></r></p></e>
@@ -23008,7 +23007,7 @@
     <e><p><l>vegfarandi<s n="n"/><s n="m"/></l><r>traveller<s n="n"/></r></p></e>
     <e><p><l>veggfóður<s n="n"/><s n="nt"/></l><r>wallpaper<s n="n"/></r></p></e>
     <e><p><l>veggspjald<s n="n"/><s n="nt"/></l><r>poster<s n="n"/></r></p></e>
-    <e><p><l>veghefill<s n="n"/><s n="m"/></l><r><b/>grader<s n="n"/></r></p></e> <!-- (road) -->
+    <e><p><l>veghefill<s n="n"/><s n="m"/></l><r>grader<s n="n"/></r></p></e> <!-- (road) -->
     <e><p><l>vegleysa<s n="n"/><s n="f"/></l><r>rough<s n="n"/></r></p></e>
     <e><p><l>vegrið<s n="n"/><s n="nt"/></l><r>crash<b/>barrier<s n="n"/></r></p></e>
     <e><p><l>vegvísir<s n="n"/><s n="m"/></l><r>road<b/>sign<s n="n"/></r></p></e>
@@ -23152,7 +23151,7 @@
     <e><p><l>vinnuveitandi<s n="n"/><s n="m"/></l><r>employer<s n="n"/></r></p></e>
     <e><p><l>vinnuvika<s n="n"/><s n="f"/></l><r>working<b/>week<s n="n"/></r></p></e>
     <e><p><l>vinnuþegi<s n="n"/><s n="m"/></l><r>employee<s n="n"/></r></p></e>
-    <e><p><l>vinnuþjarkur<s n="n"/><s n="m"/></l><r><b/>work<b/>horse<s n="n"/></r></p></e> <!-- (of a person) -->
+    <e><p><l>vinnuþjarkur<s n="n"/><s n="m"/></l><r>work<b/>horse<s n="n"/></r></p></e> <!-- (of a person) -->
     <e><p><l>vinsemd<s n="n"/><s n="f"/></l><r>friendliness<s n="n"/></r></p></e>
     <e><p><l>virki<s n="n"/><s n="nt"/></l><r>fortification<s n="n"/></r></p></e>
     <e c="0"><p><l>virkjun<s n="n"/><s n="f"/></l><r>harnessing<s n="n"/></r></p></e> <!-- (of power) -->
@@ -23161,7 +23160,7 @@
     <e><p><l>virðisaukaskattur<s n="n"/><s n="m"/></l><r>V.A.T.<s n="n"/></r></p></e>
     <e><p><l>virðuleiki<s n="n"/><s n="m"/></l><r>dignity<s n="n"/></r></p></e>
     <e><p><l>viska<s n="n"/><s n="f"/></l><r>wisdom<s n="n"/></r></p></e>
-    <e><p><l>viskí<s n="n"/><s n="nt"/></l><r><b/>whisky<s n="n"/></r></p></e> <!-- (Scotch) -->
+    <e><p><l>viskí<s n="n"/><s n="nt"/></l><r>whisky<s n="n"/></r></p></e> <!-- (Scotch) -->
     <e><p><l>vistarvera<s n="n"/><s n="f"/></l><r>living<b/>quarters<s n="n"/></r></p></e>
     <e><p><l>vistmaður<s n="n"/><s n="m"/></l><r>inmate<s n="n"/></r></p></e> <!-- (of an institution) -->
     <e><p><l>vitavörður<s n="n"/><s n="m"/></l><r>lighthouse<b/>keeper<s n="n"/></r></p></e>
@@ -23203,7 +23202,7 @@
     <e><p><l>viðmælandi<s n="n"/><s n="m"/></l><r>person<b/>spoken<b/>to<s n="n"/></r></p></e>
     <e><p><l>viðmót<s n="n"/><s n="nt"/></l><r>manner<s n="n"/></r></p></e>
     <e c="0"><p><l>viðnám<s n="n"/><s n="nt"/></l><r>resistance<s n="n"/></r></p></e>
-    <e slr="1"><p><l>viðnám<s n="n"/><s n="nt"/></l><r><b/>resistance<s n="n"/></r></p></e> <!-- (electrical) -->
+    <e slr="1"><p><l>viðnám<s n="n"/><s n="nt"/></l><r>resistance<s n="n"/></r></p></e> <!-- (electrical) -->
     <e><p><l>viðreisn<s n="n"/><s n="f"/></l><r>reconstruction<s n="n"/></r></p></e>
     <e c="0"><p><l>viðrini<s n="n"/><s n="nt"/></l><r>hermaphrodite<s n="n"/></r></p></e>
     <e slr="1"><p><l>viðrini<s n="n"/><s n="nt"/></l><r>worm<s n="n"/></r></p></e>
@@ -23212,7 +23211,7 @@
     <e slr="2"><p><l>viðskilnaður<s n="n"/><s n="m"/></l><r>passing<b/>away<s n="n"/></r></p></e>
     <e><p><l>viðskiptabann<s n="n"/><s n="nt"/></l><r>boycott<s n="n"/></r></p></e>
     <e><p><l>viðskiptafræðingur<s n="n"/><s n="m"/></l><r>graduate<g><b/>in<b/>business<b/>administration</g><s n="n"/></r></p></e>
-    <e><p><l>viðskiptahalli<s n="n"/><s n="m"/></l><r><b/>trade<b/>deficit<s n="n"/></r></p></e> <!-- (balance of) -->
+    <e><p><l>viðskiptahalli<s n="n"/><s n="m"/></l><r>trade<b/>deficit<s n="n"/></r></p></e> <!-- (balance of) -->
     <e c="0"><p><l>viðskiptajöfnuður<s n="n"/><s n="m"/></l><r>current<b/>account<b/>balance<s n="n"/></r></p></e>
     <e slr="1"><p><l>viðskiptajöfnuður<s n="n"/><s n="m"/></l><r>balance<g><b/>of<b/>trade</g><s n="n"/></r></p></e>
     <e c="0"><p><l>viðspyrna<s n="n"/><s n="f"/></l><r>foothold<s n="n"/></r></p></e>
@@ -23339,7 +23338,7 @@
     <e><p><l>vömb<s n="n"/><s n="f"/></l><r>stomach<s n="n"/></r></p></e> <!-- (esp of ruminants) -->
     <e><p><l>vöndur<s n="n"/><s n="m"/></l><r>birch<s n="n"/></r></p></e>
     <e><p><l>vöntun<s n="n"/><s n="f"/></l><r>deficiency<s n="n"/></r></p></e>
-    <e><p><l>vörudreifing<s n="n"/><s n="f"/></l><r><b/>distribution<s n="n"/></r></p></e> <!-- (wholesale to retail) -->
+    <e><p><l>vörudreifing<s n="n"/><s n="f"/></l><r>distribution<s n="n"/></r></p></e> <!-- (wholesale to retail) -->
     <e><p><l>vöruflokkur<s n="n"/><s n="m"/></l><r>product<b/>category<s n="n"/></r></p></e>
     <e><p><l>vöruflutningabíll<s n="n"/><s n="m"/></l><r>commercial<b/>vehicle<s n="n"/></r></p></e>
     <e><p><l>vörugeymsla<s n="n"/><s n="f"/></l><r>warehouse<s n="n"/></r></p></e>
@@ -23464,7 +23463,7 @@
     <e><p><l>árfarvegur<s n="n"/><s n="m"/></l><r>river<b/>bed<s n="n"/></r></p></e>
     <e><p><l>árferði<s n="n"/><s n="nt"/></l><r>year<s n="n"/></r></p></e>
     <e c="0"><p><l>árgangur<s n="n"/><s n="m"/></l><r>volume<s n="n"/></r></p></e> <!-- (of a periodical) -->
-    <e slr="1"><p><l>árgangur<s n="n"/><s n="m"/></l><r><b/>class<s n="n"/></r></p></e> <!-- (school) -->
+    <e slr="1"><p><l>árgangur<s n="n"/><s n="m"/></l><r>class<s n="n"/></r></p></e> <!-- (school) -->
     <e slr="2"><p><l>árgangur<s n="n"/><s n="m"/></l><r>vintage<s n="n"/></r></p></e> <!-- (of wine) -->
     <e><p><l>árgerð<s n="n"/><s n="f"/></l><r>model<s n="n"/></r></p></e>
     <e><p><l>árgjald<s n="n"/><s n="nt"/></l><r>annual<b/>subscription/fee<s n="n"/></r></p></e>
@@ -23492,7 +23491,7 @@
     <e><p><l>ástaraldin<s n="n"/><s n="nt"/></l><r>passion<b/>fruit<s n="n"/></r></p></e>
     <e><p><l>ástarljóð<s n="n"/><s n="nt"/></l><r>love<b/>poem<s n="n"/></r></p></e>
     <e><p><l>ástarsaga<s n="n"/><s n="f"/></l><r>love<b/>story<s n="n"/></r></p></e>
-    <e><p><l>ástkona<s n="n"/><s n="f"/></l><r><b/>lover<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>ástkona<s n="n"/><s n="f"/></l><r>lover<b/><s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>ástríða<s n="n"/><s n="f"/></l><r>passion<s n="n"/></r></p></e>
     <e><p><l>ástundun<s n="n"/><s n="f"/></l><r>diligence<s n="n"/></r></p></e>
     <e><p><l>ástúð<s n="n"/><s n="f"/></l><r>affection<s n="n"/></r></p></e>
@@ -23510,7 +23509,7 @@
     <e><p><l>áttund<s n="n"/><s n="f"/></l><r>octave<s n="n"/></r></p></e>
     <e><p><l>átvagl<s n="n"/><s n="nt"/></l><r>glutton<s n="n"/></r></p></e>
     <e><p><l>átylla<s n="n"/><s n="f"/></l><r>pretext<s n="n"/></r></p></e>
-    <e><p><l>ávani<s n="n"/><s n="m"/></l><r><b/>habit<s n="n"/></r></p></e> <!-- (bad) -->
+    <e><p><l>ávani<s n="n"/><s n="m"/></l><r>habit<s n="n"/></r></p></e> <!-- (bad) -->
     <e><p><l>ávarp<s n="n"/><s n="nt"/></l><r>address<s n="n"/></r></p></e>
     <e><p><l>ávaxtamauk<s n="n"/><s n="nt"/></l><r>jam<s n="n"/></r></p></e>
     <e><p><l>ávaxtasafi<s n="n"/><s n="m"/></l><r>fruit<b/>juice<s n="n"/></r></p></e>
@@ -23520,7 +23519,7 @@
     <e><p><l>ávinningur<s n="n"/><s n="m"/></l><r>gain<s n="n"/></r></p></e>
     <e><p><l>ávæningur<s n="n"/><s n="m"/></l><r>hint<s n="n"/></r></p></e>
     <e><p><l>ávöxtun<s n="n"/><s n="f"/></l><r>yield<s n="n"/></r></p></e>
-    <e><p><l>áætlunarbíll<s n="n"/><s n="m"/></l><r><b/>coach<s n="n"/></r></p></e> <!-- (regular) -->
+    <e><p><l>áætlunarbíll<s n="n"/><s n="m"/></l><r>coach<s n="n"/></r></p></e> <!-- (regular) -->
     <e><p><l>áætlunarferð<s n="n"/><s n="f"/></l><r>scheduled<b/>trip<s n="n"/></r></p></e>
     <e><p><l>áætlunarflug<s n="n"/><s n="nt"/></l><r>scheduled<b/>flight<s n="n"/></r></p></e>
     <e><p><l>áætlunarleið<s n="n"/><s n="f"/></l><r>scheduled<b/>route<s n="n"/></r></p></e>
@@ -23552,7 +23551,7 @@
     <e><p><l>æðahnútur<s n="n"/><s n="m"/></l><r>varicose<b/>vein<s n="n"/></r></p></e>
     <e><p><l>æðakölkun<s n="n"/><s n="f"/></l><r>arterial<b/>hardening<s n="n"/></r></p></e>
     <e><p><l>æðardúnn<s n="n"/><s n="m"/></l><r>eiderdown<s n="n"/></r></p></e>
-    <e><p><l>æðarkolla<s n="n"/><s n="f"/></l><r><b/>eider<b/>duck<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>æðarkolla<s n="n"/><s n="f"/></l><r>eider<b/>duck<b/><s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>æðarkóngur<s n="n"/><s n="m"/></l><r>king<b/>eider<s n="n"/></r></p></e>
     <e><p><l>æðarvarp<s n="n"/><s n="nt"/></l><r>area<b/>where<b/>eider<b/>ducks<b/>nest<s n="n"/></r></p></e>
     <e><p><l>æðiskast<s n="n"/><s n="nt"/></l><r>fit<g><b/>of<b/>rage</g><s n="n"/></r></p></e>
@@ -23576,7 +23575,7 @@
     <e><p><l>ísbrjótur<s n="n"/><s n="m"/></l><r>ice-breaker<s n="n"/></r></p></e>
     <e><p><l>íshokkí<s n="n"/><s n="nt"/></l><r>ice<b/>hockey<s n="n"/></r></p></e>
     <e><p><l>ísing<s n="n"/><s n="f"/></l><r>ice<s n="n"/></r></p></e>
-    <e><p><l>ísjaki<s n="n"/><s n="m"/></l><r><b/>floe<s n="n"/></r></p></e> <!-- (ice) -->
+    <e><p><l>ísjaki<s n="n"/><s n="m"/></l><r>floe<s n="n"/></r></p></e> <!-- (ice) -->
     <e><p><l>ísrek<s n="n"/><s n="nt"/></l><r>drift<b/>ice<s n="n"/></r></p></e>
     <e><p><l>ístra<s n="n"/><s n="f"/></l><r>paunch<s n="n"/></r></p></e>
     <e><p><l>ístrubelgur<s n="n"/><s n="m"/></l><r>pot-bellied<b/>man<s n="n"/></r></p></e>
@@ -23587,7 +23586,7 @@
     <e><p><l>íðorð<s n="n"/><s n="nt"/></l><r>technical<b/>term<s n="n"/></r></p></e>
     <e><p><l>íþróttafréttamaður<s n="n"/><s n="m"/></l><r>sports<b/>journalist<s n="n"/></r></p></e>
     <e><p><l>íþróttafélag<s n="n"/><s n="nt"/></l><r>sports<b/>club<s n="n"/></r></p></e>
-    <e><p><l>íþróttagrein<s n="n"/><s n="f"/></l><r><b/>sport<s n="n"/></r></p></e> <!-- (branch of) -->
+    <e><p><l>íþróttagrein<s n="n"/><s n="f"/></l><r>sport<s n="n"/></r></p></e> <!-- (branch of) -->
     <e><p><l>íþróttamaður<s n="n"/><s n="m"/></l><r>athlete<s n="n"/></r></p></e>
     <e><p><l>íþróttamót<s n="n"/><s n="nt"/></l><r>meet<s n="n"/></r></p></e>
     <e><p><l>íþróttavöllur<s n="n"/><s n="m"/></l><r>sports<b/>ground<s n="n"/></r></p></e>
@@ -23705,7 +23704,7 @@
     <e><p><l>ökkli<s n="n"/><s n="m"/></l><r>ankle<s n="n"/></r></p></e>
     <e><p><l>ökufantur<s n="n"/><s n="m"/></l><r>careless<b/>driver<s n="n"/></r></p></e>
     <e><p><l>ökuferð<s n="n"/><s n="f"/></l><r>drive<s n="n"/></r></p></e>
-    <e><p><l>ökuhraði<s n="n"/><s n="m"/></l><r><b/>speed<s n="n"/></r></p></e> <!-- (driving) -->
+    <e><p><l>ökuhraði<s n="n"/><s n="m"/></l><r>speed<s n="n"/></r></p></e> <!-- (driving) -->
     <e><p><l>ökukennari<s n="n"/><s n="m"/></l><r>driving<b/>instructor<s n="n"/></r></p></e>
     <e><p><l>ökuljós<s n="n"/><s n="nt"/></l><r>headlight<s n="n"/></r></p></e>
     <e><p><l>ökumaður<s n="n"/><s n="m"/></l><r>motorist<s n="n"/></r></p></e>
@@ -23769,7 +23768,7 @@
     <e><p><l>úlfúð<s n="n"/><s n="f"/></l><r>hostility<s n="n"/></r></p></e>
     <e><p><l>úlnliður<s n="n"/><s n="m"/></l><r>wrist<s n="n"/></r></p></e>
     <e><p><l>úlpa<s n="n"/><s n="f"/></l><r>windbreaker<s n="n"/></r></p></e>
-    <e><p><l>úr<s n="n"/><s n="nt"/></l><r><b/>watch<s n="n"/></r></p></e> <!-- (wrist or pocket) -->
+    <e><p><l>úr<s n="n"/><s n="nt"/></l><r>watch<s n="n"/></r></p></e> <!-- (wrist or pocket) -->
     <e c="0"><p><l>úrbót<s n="n"/><s n="f"/></l><r>improvement<s n="n"/></r></p></e>
     <e slr="1"><p><l>úrbót<s n="n"/><s n="f"/></l><r>reform<s n="n"/></r></p></e>
     <e c="0"><p><l>úrdráttur<s n="n"/><s n="m"/></l><r>understatement<s n="n"/></r></p></e>
@@ -23815,7 +23814,7 @@
     <e slr="1"><p><l>úthald<s n="n"/><s n="nt"/></l><r>fishing<b/>voyage<s n="n"/></r></p></e>
     <e c="0"><p><l>úthverfa<s n="n"/><s n="f"/></l><r>reverse<s n="n"/></r></p></e>
     <e slr="1"><p><l>úthverfa<s n="n"/><s n="f"/></l><r>outer<b/>side<s n="n"/></r></p></e>
-    <e><p><l>útigalli<s n="n"/><s n="m"/></l><r><b/>overalls<s n="n"/></r></p></e> <!-- (playground) -->
+    <e><p><l>útigalli<s n="n"/><s n="m"/></l><r>overalls<s n="n"/></r></p></e> <!-- (playground) -->
     <e><p><l>útigangsmaður<s n="n"/><s n="m"/></l><r>homeless<b/>person<s n="n"/></r></p></e>
     <e><p><l>útigrill<s n="n"/><s n="nt"/></l><r>outdoor<b/>grill<s n="n"/></r></p></e>
     <e><p><l>útihátíð<s n="n"/><s n="f"/></l><r>outdoor<b/>festival<s n="n"/></r></p></e>
@@ -23843,7 +23842,7 @@
     <e><p><l>útsaumur<s n="n"/><s n="m"/></l><r>embroidery<s n="n"/></r></p></e>
     <e><p><l>útsendari<s n="n"/><s n="m"/></l><r>emissary<s n="n"/></r></p></e>
     <e><p><l>útskipun<s n="n"/><s n="f"/></l><r>loading<s n="n"/></r></p></e>
-    <e><p><l>útskurður<s n="n"/><s n="m"/></l><r><b/>carving<s n="n"/></r></p></e> <!-- (wood) -->
+    <e><p><l>útskurður<s n="n"/><s n="m"/></l><r>carving<s n="n"/></r></p></e> <!-- (wood) -->
     <e><p><l>útstilling<s n="n"/><s n="f"/></l><r>display<s n="n"/></r></p></e>
     <e><p><l>útstáelsi<s n="n"/><s n="nt"/></l><r>staying<b/>out<b/>late<s n="n"/></r></p></e>
     <e><p><l>útstöð<s n="n"/><s n="f"/></l><r>workstation<s n="n"/></r></p></e>
@@ -23927,7 +23926,7 @@
     <e><p><l>þjóðernisofstæki<s n="n"/><s n="nt"/></l><r>extreme<b/>patriotism<s n="n"/></r></p></e>
     <e><p><l>þjóðfáni<s n="n"/><s n="m"/></l><r>ensign<s n="n"/></r></p></e>
     <e><p><l>þjóðgarður<s n="n"/><s n="m"/></l><r>national<b/>park<s n="n"/></r></p></e>
-    <e><p><l>þjóðhátíð<s n="n"/><s n="f"/></l><r><b/>national<b/>celebration<s n="n"/></r></p></e> <!-- (day of) -->
+    <e><p><l>þjóðhátíð<s n="n"/><s n="f"/></l><r>national<b/>celebration<s n="n"/></r></p></e> <!-- (day of) -->
     <e><p><l>þjóðkirkja<s n="n"/><s n="f"/></l><r>established<b/>church<s n="n"/></r></p></e>
     <e><p><l>þjóðlag<s n="n"/><s n="nt"/></l><r>folk<b/>tune<s n="n"/></r></p></e>
     <e><p><l>þjóðminjasafn<s n="n"/><s n="nt"/></l><r>national<b/>museum<s n="n"/></r></p></e>
@@ -24011,7 +24010,7 @@
     <e><p><l>þursabit<s n="n"/><s n="nt"/></l><r>lumbago<s n="n"/></r></p></e>
     <e c="0"><p><l>þvaga<s n="n"/><s n="f"/></l><r>throng<s n="n"/></r></p></e>
     <e slr="1"><p><l>þvaga<s n="n"/><s n="f"/></l><r>jumble<s n="n"/></r></p></e>
-    <e><p><l>þvagblaðra<s n="n"/><s n="f"/></l><r><b/>bladder<s n="n"/></r></p></e> <!-- (urinary) -->
+    <e><p><l>þvagblaðra<s n="n"/><s n="f"/></l><r>bladder<s n="n"/></r></p></e> <!-- (urinary) -->
     <e><p><l>þvaglát<s n="n"/><s n="nt"/></l><r>urination<s n="n"/></r></p></e>
     <e><p><l>þvagprufa<s n="n"/><s n="f"/></l><r>urine<b/>sample<s n="n"/></r></p></e>
     <e c="0"><p><l>þvaður<s n="n"/><s n="nt"/></l><r>idle<b/>talk<s n="n"/></r></p></e>
@@ -24083,7 +24082,7 @@
     <e><p><l>agalegur<s n="adj"/></l><r>awful<s n="adj"/></r></p></e>
     <e><p><l>algildur<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
     <e><p><l>allsber<s n="adj"/></l><r>stark<b/>naked<s n="adj"/></r></p></e>
-    <e><p><l>allsgáður<s n="adj"/></l><r><b/>sober<s n="adj"/></r></p></e> <!-- (stone-cold) -->
+    <e><p><l>allsgáður<s n="adj"/></l><r>sober<s n="adj"/></r></p></e> <!-- (stone-cold) -->
     <e><p><l>allskonar<s n="adj"/></l><r>of<b/>all<b/>kinds<s n="adj"/></r></p></e>
     <e><p><l>allslaus<s n="adj"/></l><r>destitute<s n="adj"/></r></p></e>
     <e c="0"><p><l>almennur<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
@@ -24181,7 +24180,7 @@
     <e><p><l>bleksterkur<s n="adj"/></l><r>very<b/>strong<s n="adj"/></r></p></e> <!-- (of drinks) -->
     <e c="0"><p><l>blendinn<s n="adj"/></l><r>tricky<s n="adj"/></r></p></e>
     <e slr="1"><p><l>blendinn<s n="adj"/></l><r>unsteadfast<s n="adj"/></r></p></e>
-    <e><p><l>blesóttur<s n="adj"/></l><r><b/>with<b/>a<b/>blaze<b/>on<b/>its<b/>head<s n="adj"/></r></p></e> <!-- (of a horse) -->
+    <e><p><l>blesóttur<s n="adj"/></l><r>with<b/>a<b/>blaze<b/>on<b/>its<b/>head<s n="adj"/></r></p></e> <!-- (of a horse) -->
     <e><p><l>blettóttur<s n="adj"/></l><r>spotted<s n="adj"/></r></p></e>
     <e><p><l>blindfullur<s n="adj"/></l><r>blind<b/>drunk<s n="adj"/></r></p></e>
     <e><p><l>blygðunarlaus<s n="adj"/></l><r>shameless<s n="adj"/></r></p></e>
@@ -24779,7 +24778,7 @@
     <e><p><l>illræmdur<s n="adj"/></l><r>notorious<s n="adj"/></r></p></e>
     <e><p><l>illskeyttur<s n="adj"/></l><r>malign<s n="adj"/></r></p></e>
     <e><p><l>illviljaður<s n="adj"/></l><r>malevolent<s n="adj"/></r></p></e>
-    <e><p><l>indverskur<s n="adj"/></l><r><b/>Indian<s n="adj"/></r></p></e> <!-- (East) -->
+    <e><p><l>indverskur<s n="adj"/></l><r>Indian<s n="adj"/></r></p></e> <!-- (East) -->
     <e><p><l>infrarauður<s n="adj"/></l><r>infrared<s n="adj"/></r></p></e>
     <e><p><l>innantómur<s n="adj"/></l><r>hollow<s n="adj"/></r></p></e> <!-- (of words) -->
     <e slr="1"><p><l>innantómur<s n="adj"/></l><r>hungry<s n="adj"/><s n="sint"/></r></p></e>
@@ -25880,7 +25879,7 @@
     <e><p><l>vægðarlaus<s n="adj"/></l><r>merciless<s n="adj"/></r></p></e>
     <e c="0"><p><l>væminn<s n="adj"/></l><r>cloying<s n="adj"/></r></p></e>
     <e slr="1"><p><l>væminn<s n="adj"/></l><r>sentimental<s n="adj"/></r></p></e>
-    <e><p><l>vængbrotinn<s n="adj"/></l><r><b/>helpless<s n="adj"/></r></p></e> <!-- (with a broken wing) -->
+    <e><p><l>vængbrotinn<s n="adj"/></l><r>helpless<s n="adj"/></r></p></e> <!-- (with a broken wing) -->
     <e><p><l>vængjaður<s n="adj"/></l><r>winged<s n="adj"/></r></p></e>
     <e c="0"><p><l>vær<s n="adj"/></l><r>calm<s n="adj"/></r></p></e>
     <e slr="1"><p><l>vær<s n="adj"/></l><r>bearable<s n="adj"/></r></p></e>
@@ -26033,7 +26032,7 @@
     <e slr="1"><p><l>óklár<s n="adj"/></l><r>unprepared<s n="adj"/></r></p></e>
     <e><p><l>ókræsilegur<s n="adj"/></l><r>unappetising<s n="adj"/></r></p></e>
     <e><p><l>ókurteis<s n="adj"/></l><r>impolite<s n="adj"/></r></p></e>
-    <e><p><l>ókvæntur<s n="adj"/></l><r><b/>unmarried<s n="adj"/></r></p></e> <!-- (of a man) -->
+    <e><p><l>ókvæntur<s n="adj"/></l><r>unmarried<s n="adj"/></r></p></e> <!-- (of a man) -->
     <e><p><l>ólaginn<s n="adj"/></l><r>awkward<s n="adj"/></r></p></e>
     <e><p><l>ólmur<s n="adj"/></l><r>wild<s n="adj"/><s n="sint"/></r></p></e>
     <e c="0"><p><l>ólseigur<s n="adj"/></l><r>indefatigable<s n="adj"/></r></p></e>
@@ -26337,7 +26336,7 @@
     <e><p><l>björgunarbelti<s n="n"/><s n="nt"/></l><r>life<b/>belt<s n="n"/></r></p></e>
     <e><p><l>björgunarsveitarmaður<s n="n"/><s n="m"/></l><r>rescue<b/>worker<s n="n"/></r></p></e>
     <e><p><l>blámaskríkja<s n="n"/><s n="f"/></l><r>cerulean<b/>warbler<s n="n"/></r></p></e>
-    <e><p><l>blísturhljóð<s n="n"/><s n="nt"/></l><r>sibliant<b/>consonant<s n="n"/></r></p></e>
+    <e><p><l>blísturhljóð<s n="n"/><s n="nt"/></l><r>sibilant<b/>consonant<s n="n"/></r></p></e>
     <e><p><l>blóðflokkur<s n="n"/><s n="m"/></l><r>blood<b/>group<s n="n"/></r></p></e>
     <e><p><l>blóðfruma<s n="n"/><s n="f"/></l><r>blood<b/>cell<s n="n"/></r></p></e>
     <e><p><l>blóðfrumnamyndun<s n="n"/><s n="f"/></l><r>blood-cell<b/>formation<s n="n"/></r></p></e>
