@@ -4109,6 +4109,7 @@
     <e><p><l>Ljótur<s n="np"/><s n="ant"/><s n="m"/></l><r>Ljótur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Lúðvík<s n="np"/><s n="ant"/><s n="m"/></l><r>Lúðvík<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Magnús<s n="np"/><s n="ant"/><s n="m"/></l><r>Magnús<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Elías<s n="np"/><s n="ant"/><s n="m"/></l><r>Elías<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Össur<s n="np"/><s n="ant"/><s n="m"/></l><r>Össur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Njáll<s n="np"/><s n="ant"/><s n="m"/></l><r>Njáll<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Paul<s n="np"/><s n="ant"/><s n="m"/></l><r>Paul<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -12336,8 +12337,8 @@
     <e><p><l>títan<s n="n"/><s n="nt"/></l><r>titanium<s n="n"/></r></p></e>
     <e><p><l>tíð<s n="n"/><s n="f"/></l><r>time<s n="n"/></r></p></e>
     <e><p><l>tíðaratviksorð<s n="n"/><s n="nt"/></l><r>adverb<s n="n"/></r></p></e>
-    <!--<e><p><l>tíðindi<s n="n"/><s n="nt"/></l><r>news<s n="n"/></r></p></e>-->
-    <e><p><l>tíðindi<s n="n"/><s n="nt"/></l><r>tidings<s n="n"/></r></p></e>
+    <!--<e><p><l>tíðindi<s n="n"/><s n="nt"/></l><r>tidings<s n="n"/></r></p></e>-->
+    <e><p><l>tíðindi<s n="n"/><s n="nt"/></l><r>news<s n="n"/></r></p></e>
     <e><p><l>tíðni<s n="n"/><s n="f"/></l><r>frequency<s n="n"/></r></p></e>
     <e><p><l>tóbak<s n="n"/><s n="nt"/></l><r>tobacco<s n="n"/></r></p></e>
     <e><p><l>tófa<s n="n"/><s n="f"/></l><r>fox<s n="n"/></r></p></e> <!-- (Vulpes vulpes) -->
