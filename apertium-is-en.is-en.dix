@@ -944,7 +944,7 @@
 <!--<p><l>fyrrnefndur<s n="adj"/></l><r>said<s n="adj"/></r></p></e>-->
     <e><p><l>fyrrverandi<s n="adj"/></l><r>former<s n="adj"/></r></p></e>
     <e><p><l>fáanlegur<s n="adj"/></l><r>available<s n="adj"/></r></p></e>
-<!--<p><l>fágaður<s n="adj"/></l><r>civilized<s n="adj"/></r></p></e>-->
+<!--<p><l>fágaður<s n="adj"/></l><r>civilised<s n="adj"/></r></p></e>-->
 <!--<p><l>fágaður<s n="adj"/></l><r>elegant<s n="adj"/></r></p></e>-->
 <!--<p><l>fágaður<s n="adj"/></l><r>fashionable<s n="adj"/></r></p></e>-->
 <!--<p><l>fágaður<s n="adj"/></l><r>refined<s n="adj"/></r></p></e>-->
@@ -1376,7 +1376,7 @@
     <e><p><l>laginn<s n="adj"/></l><r>skillful<s n="adj"/></r></p></e>
     <e><p><l>laglegur<s n="adj"/></l><r>good-looking<s n="adj"/></r></p></e>
 <!--<p><l>laglegur<s n="adj"/></l><r>pretty<s n="adj"/></r></p></e>-->
-<!--<p><l>lamaður<s n="adj"/></l><r>immobilized<s n="adj"/></r></p></e>-->
+<!--<p><l>lamaður<s n="adj"/></l><r>immobilised<s n="adj"/></r></p></e>-->
 <!--<p><l>lamaður<s n="adj"/></l><r>numb<s n="adj"/></r></p></e>-->
     <e><p><l>lamaður<s n="adj"/></l><r>paralysed<s n="adj"/></r></p></e>
 <!--<p><l>lamaður<s n="adj"/></l><r>petrified<s n="adj"/></r></p></e>-->
@@ -1805,7 +1805,7 @@
     <e><p><l>skilgreindur<s n="adj"/></l><r>defined<s n="adj"/></r></p></e>
 <!--<p><l>skilinn<s n="adj"/></l><r>divorced<s n="adj"/></r></p></e>-->
 <!--<p><l>skilinn<s n="adj"/></l><r>parted<s n="adj"/></r></p></e>-->
-<!--<p><l>skilinn<s n="adj"/></l><r>realized<s n="adj"/></r></p></e>-->
+<!--<p><l>skilinn<s n="adj"/></l><r>realised<s n="adj"/></r></p></e>-->
     <e><p><l>skilinn<s n="adj"/></l><r>understood<s n="adj"/></r></p></e>
 <!--<p><l>skiljanlegur<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>-->
 <!--<p><l>skiljanlegur<s n="adj"/></l><r>coherent<s n="adj"/></r></p></e>-->
@@ -1915,7 +1915,7 @@
 <!--<p><l>staðbundinn<s n="adj"/></l><r>confined<s n="adj"/></r></p></e>-->
 <!--<p><l>staðbundinn<s n="adj"/></l><r>limited<s n="adj"/></r></p></e>-->
     <e><p><l>staðbundinn<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
-<!--<p><l>staðbundinn<s n="adj"/></l><r>localized<s n="adj"/></r></p></e>-->
+<!--<p><l>staðbundinn<s n="adj"/></l><r>localised<s n="adj"/></r></p></e>-->
 <!--<p><l>staðbundinn<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>-->
 <!--<p><l>staðráðinn<s n="adj"/></l><r>decided<s n="adj"/></r></p></e>-->
     <e><p><l>staðráðinn<s n="adj"/></l><r>determined<s n="adj"/></r></p></e>
@@ -8172,7 +8172,7 @@
 
     <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
     <e slr="1"><p><l>maður<s n="n"/><s n="m"/><s n="sg"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
-    <e slr="1"><p><l>maður<s n="n"/>><s n="m"/><s n="pl"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
+    <e slr="1"><p><l>maður<s n="n"/><s n="m"/><s n="pl"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
 
     <e><p><l>ræðumaður<s n="n"/><s n="m"/></l><r>speaker<s n="n"/></r></p></e>
     <e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
@@ -22192,7 +22192,7 @@
     <e><p><l>séní<s n="n"/><s n="nt"/></l><r>genius<s n="n"/></r></p></e>
     <e><p><l>sérgrein<s n="n"/><s n="f"/></l><r>specialty<s n="n"/></r></p></e>
     <e><p><l>sérhæfing<s n="n"/><s n="f"/></l><r>specialisation<s n="n"/></r></p></e>
-    <e><p><l>sérkennari<s n="n"/><s n="m"/></l><r>specialized<b/>teacher<s n="n"/></r></p></e>
+    <e><p><l>sérkennari<s n="n"/><s n="m"/></l><r>specialised<b/>teacher<s n="n"/></r></p></e>
     <e><p><l>sérkenni<s n="n"/><s n="nt"/></l><r>mark<s n="n"/></r></p></e>
     <e><p><l>sérleyfishafi<s n="n"/><s n="m"/></l><r>concessionaire<s n="n"/></r></p></e>
     <e><p><l>sérnafn<s n="n"/><s n="nt"/></l><r>proper<b/>name<s n="n"/></r></p></e>
@@ -22201,11 +22201,11 @@
     <e><p><l>sérstaða<s n="n"/><s n="f"/></l><r>special<b/>status<s n="n"/></r></p></e>
     <e><p><l>sérsvið<s n="n"/><s n="nt"/></l><r>special<b/>field<s n="n"/></r></p></e>
     <e><p><l>sértrúarsöfnuður<s n="n"/><s n="m"/></l><r><b/>denomination<s n="n"/></r></p></e> <!-- (non-conformist) -->
-    <e><p><l>sérverslun<s n="n"/><s n="f"/></l><r>specialized<b/>dealer<s n="n"/></r></p></e>
+    <e><p><l>sérverslun<s n="n"/><s n="f"/></l><r>specialised<b/>dealer<s n="n"/></r></p></e>
     <e c="0"><p><l>sérviska<s n="n"/><s n="f"/></l><r>eccentricity<s n="n"/></r></p></e>
     <e slr="1"><p><l>sérviska<s n="n"/><s n="f"/></l><r>whim<s n="n"/></r></p></e>
     <e><p><l>sérvitringur<s n="n"/><s n="m"/></l><r>eccentric<s n="n"/></r></p></e>
-    <e><p><l>sérþekking<s n="n"/><s n="f"/></l><r>specialized<b/>knowledge<s n="n"/></r></p></e>
+    <e><p><l>sérþekking<s n="n"/><s n="f"/></l><r>specialised<b/>knowledge<s n="n"/></r></p></e>
     <e c="0"><p><l>sía<s n="n"/><s n="f"/></l><r>sieve<s n="n"/></r></p></e>
     <e slr="1"><p><l>sía<s n="n"/><s n="f"/></l><r>filter<s n="n"/></r></p></e>
     <e><p><l>síbrotamaður<s n="n"/><s n="m"/></l><r>habitual<b/>criminal<s n="n"/></r></p></e>
@@ -25030,7 +25030,7 @@
     <e><p><l>miskunnsamur<s n="adj"/></l><r>merciful<s n="adj"/></r></p></e>
     <e><p><l>mislyndur<s n="adj"/></l><r>capricious<s n="adj"/></r></p></e>
     <e><p><l>mistækur<s n="adj"/></l><r>unreliable<s n="adj"/></r></p></e>
-    <e><p><l>miðlægur<s n="adj"/></l><r>centralized<s n="adj"/></r></p></e>
+    <e><p><l>miðlægur<s n="adj"/></l><r>centralised<s n="adj"/></r></p></e>
     <e><p><l>mjallhvítur<s n="adj"/></l><r>snow-white<s n="adj"/></r></p></e>
     <e><p><l>mjósleginn<s n="adj"/></l><r>thin<s n="adj"/></r></p></e>
     <e c="0"><p><l>mjúkhendur<s n="adj"/></l><r>gentle-handed<s n="adj"/></r></p></e>
@@ -25342,7 +25342,7 @@
     <e><p><l>skilvís<s n="adj"/></l><r>trustworthy<s n="adj"/></r></p></e>
     <e><p><l>skilyrðislaus<s n="adj"/></l><r>unconditional<s n="adj"/></r></p></e>
     <e><p><l>skipgengur<s n="adj"/></l><r>navigable<s n="adj"/></r></p></e>
-    <e><p><l>skipulagður<s n="adj"/></l><r>organized<s n="adj"/></r></p></e>
+    <e><p><l>skipulagður<s n="adj"/></l><r>organised<s n="adj"/></r></p></e>
     <e><p><l>skipulegur<s n="adj"/></l><r>systematic<s n="adj"/></r></p></e>
     <e slr="1"><p><l>skipulegur<s n="adj"/></l><r>well<b/>composed<s n="adj"/></r></p></e>
     <e><p><l>skjólgóður<s n="adj"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e> <!-- (of a piece of clothing) -->
@@ -25476,9 +25476,9 @@
     <e><p><l>stefnufastur<s n="adj"/></l><r>purposeful<s n="adj"/></r></p></e>
     <e><p><l>stefnulaus<s n="adj"/></l><r>aimless<s n="adj"/></r></p></e>
     <e><p><l>steindauður<s n="adj"/></l><r>stone-dead<s n="adj"/></r></p></e>
-    <e><p><l>steingerður<s n="adj"/></l><r>fossilized<s n="adj"/></r></p></e>
+    <e><p><l>steingerður<s n="adj"/></l><r>fossilised<s n="adj"/></r></p></e>
     <e c="0"><p><l>steinrunninn<s n="adj"/></l><r>petrified<s n="adj"/></r></p></e>
-    <e slr="1"><p><l>steinrunninn<s n="adj"/></l><r>fossilized<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>steinrunninn<s n="adj"/></l><r>fossilised<s n="adj"/></r></p></e>
     <e><p><l>sterkbyggður<s n="adj"/></l><r>sturdy<s n="adj"/></r></p></e>
     <e c="0"><p><l>stimamjúkur<s n="adj"/></l><r>helpful<s n="adj"/></r></p></e>
     <e slr="1"><p><l>stimamjúkur<s n="adj"/></l><r>extremely<b/>courteous<s n="adj"/></r></p></e>
@@ -25868,7 +25868,7 @@
     <e c="0"><p><l>vær<s n="adj"/></l><r>calm<s n="adj"/></r></p></e>
     <e slr="1"><p><l>vær<s n="adj"/></l><r>bearable<s n="adj"/></r></p></e>
     <e><p><l>værukær<s n="adj"/></l><r>lackadaisical<s n="adj"/></r></p></e>
-    <e><p><l>vélknúinn<s n="adj"/></l><r>mechanized<s n="adj"/></r></p></e>
+    <e><p><l>vélknúinn<s n="adj"/></l><r>mechanised<s n="adj"/></r></p></e>
     <e><p><l>vélrænn<s n="adj"/></l><r>mechanical<s n="adj"/></r></p></e>
     <e><p><l>vígalegur<s n="adj"/></l><r>warlike<s n="adj"/></r></p></e>
     <e><p><l>vínrauður<s n="adj"/></l><r>wine-red<s n="adj"/></r></p></e>
