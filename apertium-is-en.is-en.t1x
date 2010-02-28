@@ -284,6 +284,11 @@
      <attr-item tags="np.al"/>
   </def-attr>
 
+  <def-attr n="a_np_acr">
+    <attr-item tags="np"/>
+    <attr-item tags="acr"/>
+  </def-attr>
+
   <def-attr n="a_num">
      <attr-item tags="num"/>
      <attr-item tags="num.ord"/>
