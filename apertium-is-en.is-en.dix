@@ -167,6 +167,12 @@
       <e r="LR"><p><l><s n="pl"/></l><r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="ND"/></l><r><s n="sg"/></r></p></e>
     </pardef>
+  
+    <pardef n="jarðfræði_geology__n">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="unc"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="unc"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="ND"/></l><r><s n="sg"/></r></p></e>
+    </pardef>
 
   </pardefs>
 
@@ -3012,7 +3018,7 @@
     <e><p><l>hingað<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
 <!--<p><l>hins<b/>vegar<s n="adv"/></l><r><g>on<b/>the<b/>other<b/></g>hand<s n="adv"/></r></p></e>-->
     <e><p><l>hins<b/>vegar<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
-    <e><p><l>hins<b/>vegar<s n="adv"/></l><r>however<s n="adv"/></r></p></e>
+    <e><p><l>svona<b/>eða<b/>hinsegin<s n="adv"/></l><r>like<b/>this<b/>or<b/>like<b/>that<s n="adv"/></r></p></e>
     <e><p><l>hljóðlega<s n="adv"/></l><r>quietly<s n="adv"/></r></p></e>
 <!--<p><l>hljóðlega<s n="adv"/></l><r>silently<s n="adv"/></r></p></e>-->
     <e><p><l>hratt<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
@@ -8859,10 +8865,10 @@
     <e><p><l>dúrhljómur<s n="n"/><s n="m"/></l><r>major<b/>chord<s n="n"/></r></p></e>
     <e><p><l>dýna<s n="n"/><s n="f"/></l><r>mattress<s n="n"/></r></p></e>
     <e><p><l>dýpi<s n="n"/><s n="nt"/></l><r>depth<s n="n"/></r></p></e>
-    <e><p><l>dýrafræði<s n="n"/><s n="f"/></l><r>zoology<s n="n"/></r></p></e>
+    <e><p><l>dýrafræði<s n="n"/><s n="f"/></l><r>zoology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>dýragarður<s n="n"/><s n="m"/></l><r>zoo<s n="n"/></r></p></e>
     <e><p><l>dýraspítali<s n="n"/><s n="m"/></l><r>veterinary<b/>hospital<s n="n"/></r></p></e>
-    <e><p><l>dýratónfræði<s n="n"/><s n="f"/></l><r>zoomusicology<s n="n"/></r></p></e>
+    <e><p><l>dýratónfræði<s n="n"/><s n="f"/></l><r>zoomusicology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>dýrgripur<s n="n"/><s n="m"/></l><r>valuable<s n="n"/></r></p></e>
     <e><p><l>dýrð<s n="n"/><s n="f"/></l><r>glory<s n="n"/></r></p></e>
     
@@ -8944,7 +8950,7 @@
     <!--<e><p><l>ekra<s n="n"/><s n="f"/></l><r>acre<s n="n"/></r></p></e>-->
     <e><p><l>ekra<s n="n"/><s n="f"/></l><r>field<s n="n"/></r></p></e>
     <e><p><l>eldfjall<s n="n"/><s n="nt"/></l><r>volcano<s n="n"/></r></p></e>
-    <e><p><l>eldfjallafræði<s n="n"/><s n="f"/></l><r>volcanology<s n="n"/></r></p></e>
+    <e><p><l>eldfjallafræði<s n="n"/><s n="f"/></l><r>volcanology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>eldgos<s n="n"/><s n="nt"/></l><r>eruption<s n="n"/></r></p></e> <!-- (volcano) -->
     <e><p><l>eldhús<s n="n"/><s n="nt"/></l><r>kitchen<s n="n"/></r></p></e>
     <e><p><l>elding<s n="n"/><s n="f"/></l><r>lightning<s n="n"/></r></p></e>
@@ -9197,7 +9203,7 @@
     <e><p><l>formæling<s n="n"/><s n="f"/></l><r>curse<s n="n"/></r></p></e>
     <e><p><l>fornafn<s n="n"/><s n="nt"/></l><r>given<b/>name<s n="n"/></r></p></e>
     <!--<e><p><l>fornafn<s n="n"/><s n="nt"/></l><r>pronoun<s n="n"/></r></p></e>-->
-    <e><p><l>fornfræði<s n="n"/><s n="f"/></l><r>archaeology<s n="n"/></r></p></e>
+    <e><p><l>fornfræði<s n="n"/><s n="f"/></l><r>archaeology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>forngríska<s n="n"/><s n="f"/></l><r>Ancient<b/>Greek<s n="n"/></r></p></e> <!-- (language) -->
     <e><p><l>fornöld<s n="n"/><s n="f"/></l><r>ancient<b/>times<s n="n"/></r></p></e>
     <!--<e><p><l>fornöld<s n="n"/><s n="f"/></l><r>ancient<b/>history<s n="n"/></r></p></e>-->
@@ -9267,7 +9273,7 @@
     <e><p><l>frumspeki<s n="n"/><s n="f"/></l><r>metaphysics<s n="n"/></r></p></e>
     <e><p><l>frumstig<s n="n"/><s n="nt"/></l><r>initial<b/>stage<s n="n"/></r></p></e>
 <!--    <e><p><l>frumstig<s n="n"/><s n="nt"/></l><r>positive<s n="n"/></r></p></e> --> <!-- in linguistics -->
-    <e><p><l>frumufræði<s n="n"/><s n="f"/></l><r>cytology<s n="n"/></r></p></e>
+    <e><p><l>frumufræði<s n="n"/><s n="f"/></l><r>cytology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>frumuhimna<s n="n"/><s n="f"/></l><r>cell<b/>membrane<s n="n"/></r></p></e>
     <e><p><l>frumuveggur<s n="n"/><s n="m"/></l><r>cell<b/>wall<s n="n"/></r></p></e>
     <e><p><l>frumvarp<s n="n"/><s n="nt"/></l><r>act<g><b/>of<b/>parliament</g><s n="n"/></r></p></e>
@@ -9295,7 +9301,7 @@
     <!--<e><p><l>frú<s n="n"/><s n="f"/></l><r>madam<s n="n"/></r></p></e>-->
     <!--<e><p><l>frú<s n="n"/><s n="f"/></l><r>missus<s n="n"/></r></p></e>-->
     <e><p><l>fugl<s n="n"/><s n="m"/></l><r>bird<s n="n"/></r></p></e>
-    <e><p><l>fuglafræði<s n="n"/><s n="f"/></l><r>ornithology<s n="n"/></r></p></e>
+    <e><p><l>fuglafræði<s n="n"/><s n="f"/></l><r>ornithology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
 <!--    <e><p><l>fullorðinn<s n="n"/><s n="m"/></l><r>adult<s n="n"/></r></p></e> --> <!-- adjective -->
     <e><p><l>fulltingi<s n="n"/><s n="nt"/></l><r>help<s n="n"/></r></p></e>
     <!--<e><p><l>fulltrúi<s n="n"/><s n="m"/></l><r>delegate<s n="n"/></r></p></e>-->
@@ -9515,7 +9521,7 @@
     <e><p><l>gramm<s n="n"/><s n="nt"/></l><r>gram<s n="n"/></r></p></e>
     <e><p><l>gramm<s n="n"/><s n="nt"/></l><r>gramme<s n="n"/></r></p></e>
     <e><p><l>grammófónn<s n="n"/><s n="m"/></l><r>gramophone<s n="n"/></r></p></e>
-    <e><p><l>grannfræði<s n="n"/><s n="f"/></l><r>topology<s n="n"/></r></p></e>
+    <e><p><l>grannfræði<s n="n"/><s n="f"/></l><r>topology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>gras<s n="n"/><s n="nt"/></l><r>grass<s n="n"/></r></p></e>
     <!--<e><p><l>gras<s n="n"/><s n="nt"/></l><r>poaceae<s n="n"/></r></p></e>-->
     <e><p><l>grasafræði<s n="n"/><s n="f"/></l><r>botany<s n="n"/></r></p></e>
@@ -10088,7 +10094,7 @@
     <!--<e><p><l>húsnæði<s n="n"/><s n="nt"/></l><r>lodging<s n="n"/></r></p></e>-->
     <!--<e><p><l>húð<s n="n"/><s n="f"/></l><r>hide<s n="n"/></r></p></e>--> <!-- skin of an animal -->
     <e><p><l>húð<s n="n"/><s n="f"/></l><r>skin<s n="n"/></r></p></e>
-    <e><p><l>húðsjúkdómafræði<s n="n"/><s n="f"/></l><r>dermatology<s n="n"/></r></p></e>
+    <e><p><l>húðsjúkdómafræði<s n="n"/><s n="f"/></l><r>dermatology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>húðsjúkdómafræðingur<s n="n"/><s n="m"/></l><r>dermatologist<s n="n"/></r></p></e>
     <e><p><l>hýðishrísgrjón<s n="n"/><s n="nt"/></l><r>brown<b/>rice<s n="n"/></r></p></e>
     
@@ -10130,7 +10136,7 @@
     <e><p><l>jarl<s n="n"/><s n="m"/></l><r>earl<s n="n"/></r></p></e>
     <e><p><l>jarðarbúi<s n="n"/><s n="m"/></l><r>Earthling<s n="n"/></r></p></e>
     <e><p><l>jarðarför<s n="n"/><s n="f"/></l><r>funeral<s n="n"/></r></p></e>
-    <e><p><l>jarðfræði<s n="n"/><s n="f"/></l><r>geology<s n="n"/></r></p></e> <!-- (the study of earth and land) -->
+    <e><p><l>jarðfræði<s n="n"/><s n="f"/></l><r>geology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- study of earth and land -->
     <e><p><l>jarðhiti<s n="n"/><s n="m"/></l><r>geothermal<b/>energy<s n="n"/></r></p></e>
     <e><p><l>jarðskjálfti<s n="n"/><s n="m"/></l><r>earthquake<s n="n"/></r></p></e>
     <!--<e><p><l>jarðvegur<s n="n"/><s n="m"/></l><r>ground<s n="n"/></r></p></e>-->
@@ -10710,8 +10716,8 @@
     <e><p><l>læða<s n="n"/><s n="f"/></l><r>cat<s n="n"/></r></p></e>
     <e><p><l>líf<s n="n"/><s n="nt"/></l><r>life<s n="n"/></r></p></e>
     <e><p><l>lífdagar<s n="n"/><s n="m"/></l><r>life<b/>span<s n="n"/></r></p></e>
-    <e><p><l>lífeðlisfræði<s n="n"/><s n="f"/></l><r>physiology<s n="n"/></r></p></e>
-    <e><p><l>líffræði<s n="n"/><s n="f"/></l><r>biology<s n="n"/></r></p></e> <!-- (science of living matter) -->
+    <e><p><l>lífeðlisfræði<s n="n"/><s n="f"/></l><r>physiology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
+    <e><p><l>líffræði<s n="n"/><s n="f"/></l><r>biology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- science of living matter -->
     <e><p><l>líffræðingur<s n="n"/><s n="m"/></l><r>biologist<s n="n"/></r></p></e>
     <e><p><l>líffærafræði<s n="n"/><s n="f"/></l><r>anatomy<s n="n"/></r></p></e>
     <e><p><l>líffæri<s n="n"/><s n="nt"/></l><r>organ<s n="n"/></r></p></e>
@@ -10788,7 +10794,7 @@
     <e><p><l>manneskja<s n="n"/><s n="f"/></l><r>person<s n="n"/></r></p></e>
     <e><p><l>mannfall<s n="n"/><s n="nt"/></l><r>casualty<s n="n"/></r></p></e>
     <e><p><l>mannfjöldi<s n="n"/><s n="m"/></l><r>population<s n="n"/></r></p></e>
-    <e><p><l>mannfræði<s n="n"/><s n="f"/></l><r>anthropology<s n="n"/></r></p></e>
+    <e><p><l>mannfræði<s n="n"/><s n="f"/></l><r>anthropology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <!--<e><p><l>mannorð<s n="n"/><s n="nt"/></l><r>character<s n="n"/></r></p></e>-->
     <e><p><l>mannorð<s n="n"/><s n="nt"/></l><r>reputation<s n="n"/></r></p></e>
     <!--<e><p><l>mannvirðing<s n="n"/><s n="f"/></l><r>honour<s n="n"/></r></p></e>-->
@@ -11692,7 +11698,7 @@
     <!--<e><p><l>skollaleikur<s n="n"/><s n="m"/></l><r>blind<b/>man's<b/>buff<s n="n"/></r></p></e>--> <!-- British English spelling -->
     <e><p><l>skollaleikur<s n="n"/><s n="m"/></l><r>blind<b/>man's<b/>bluff<s n="n"/></r></p></e>
     <e><p><l>skordýr<s n="n"/><s n="nt"/></l><r>insect<s n="n"/></r></p></e>
-    <e><p><l>skordýrafræði<s n="n"/><s n="f"/></l><r>entomology<s n="n"/></r></p></e>
+    <e><p><l>skordýrafræði<s n="n"/><s n="f"/></l><r>entomology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>skorsteinn<s n="n"/><s n="m"/></l><r>chimney<s n="n"/></r></p></e>
     <!--<e><p><l>skortur<s n="n"/><s n="m"/></l><r>absence<s n="n"/></r></p></e>-->
     <e><p><l>skortur<s n="n"/><s n="m"/></l><r>shortage<s n="n"/></r></p></e>
@@ -12052,10 +12058,10 @@
     <e><p><l>svik<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
     <!--<e><p><l>svik<s n="n"/><s n="nt"/></l><r>sell-out<s n="n"/></r></p></e>-->
     <!--<e><p><l>svik<s n="n"/><s n="nt"/></l><r>treachery<s n="n"/></r></p></e>-->
-    <!--<e><p><l>svili<s n="n"/><s n="m"/></l><r>brother-in-law<b/>by<b/>marriage<s n="n"/></r></p></e>-->
-    <e><p><l>svili<s n="n"/><s n="m"/></l><r>brother-in-law<s n="n"/></r></p></e> <!-- brother of someone's sibling's spouse -->
-    <e><p><l>svilkona<s n="n"/><s n="f"/></l><r>sister-in-law<s n="n"/></r></p></e> <!-- sister of someone's sibling's spouse -->
-    <!--<e><p><l>svilkona<s n="n"/><s n="f"/></l><r>sister-in-law<b/>by<b/>marriage<s n="n"/></r></p></e>-->
+    <!--<e><p><l>svili<s n="n"/><s n="m"/></l><r>brother<g>-in-law<b/>by<b/>marriage</g><s n="n"/></r></p></e>-->
+    <e><p><l>svili<s n="n"/><s n="m"/></l><r>brother<g>-in-law</g><s n="n"/></r></p></e> <!-- brother of someone's sibling's spouse -->
+    <e><p><l>svilkona<s n="n"/><s n="f"/></l><r>sister<g>-in-law</g><s n="n"/></r></p></e> <!-- sister of someone's sibling's spouse -->
+    <!--<e><p><l>svilkona<s n="n"/><s n="f"/></l><r>sister-in-law<g><b/>by<b/>marriage</g><s n="n"/></r></p></e>-->
     <e><p><l>svipa<s n="n"/><s n="f"/></l><r>riding<b/>crop<s n="n"/></r></p></e>
     <!--<e><p><l>svipan<s n="n"/><s n="f"/></l><r>moment<s n="n"/></r></p></e>-->
     <!--<e><p><l>svipur<s n="n"/><s n="m"/></l><r>face<s n="n"/></r></p></e>-->
@@ -12086,7 +12092,7 @@
     <e><p><l>systrungur<s n="n"/><s n="m"/></l><r>cousin<s n="n"/></r></p></e> <!-- Old Icelandic... cousins through sisters? -->
     <e><p><l>sál<s n="n"/><s n="f"/></l><r>soul<s n="n"/></r></p></e>
     <e><p><l>sáld<s n="n"/><s n="nt"/></l><r>sieve<s n="n"/></r></p></e>
-    <e><p><l>sálfræði<s n="n"/><s n="f"/></l><r>psychology<s n="n"/></r></p></e>
+    <e><p><l>sálfræði<s n="n"/><s n="f"/></l><r>psychology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>sálmabók<s n="n"/><s n="f"/></l><r>hymnal<s n="n"/></r></p></e>
     <!--<e><p><l>sálmur<s n="n"/><s n="m"/></l><r>hymn<s n="n"/></r></p></e>-->
     <e><p><l>sálmur<s n="n"/><s n="m"/></l><r>psalm<s n="n"/></r></p></e>
@@ -12137,7 +12143,7 @@
     <e><p><l>sólkerfi<s n="n"/><s n="nt"/></l><r>solar<b/>system<s n="n"/></r></p></e>
     <e><p><l>sólsetur<s n="n"/><s n="nt"/></l><r>sunset<s n="n"/></r></p></e>
     <e><p><l>sólskin<s n="n"/><s n="nt"/></l><r>sunshine<s n="n"/></r></p></e>
-    <e><p><l>sólskjálftafræði<s n="n"/><s n="f"/></l><r>helioseismology<s n="n"/></r></p></e>
+    <e><p><l>sólskjálftafræði<s n="n"/><s n="f"/></l><r>helioseismology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>sólskríkja<s n="n"/><s n="f"/></l><r>snow<b/>bunting<s n="n"/></r></p></e>
     <e><p><l>sólúr<s n="n"/><s n="nt"/></l><r>sundial<s n="n"/></r></p></e>
     <e><p><l>sópur<s n="n"/><s n="m"/></l><r>broom<s n="n"/></r></p></e>
@@ -12339,7 +12345,7 @@
     <e><p><l>tómatsósa<s n="n"/><s n="f"/></l><r>ketchup<s n="n"/></r></p></e>
     <e><p><l>tómatur<s n="n"/><s n="m"/></l><r>tomato<s n="n"/></r></p></e>
     <e><p><l>tónbil<s n="n"/><s n="nt"/></l><r>musical<b/>interval<s n="n"/></r></p></e>
-    <e><p><l>tónfræði<s n="n"/><s n="f"/></l><r>musicology<s n="n"/></r></p></e>
+    <e><p><l>tónfræði<s n="n"/><s n="f"/></l><r>musicology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>tónleikar<s n="n"/><s n="m"/></l><r>concert<s n="n"/></r></p></e>
     <e><p><l>tónlist<s n="n"/><s n="f"/></l><r>music<s n="n"/></r></p></e>
     <e><p><l>tónlistarmaður<s n="n"/><s n="m"/></l><r>musician<s n="n"/></r></p></e>
@@ -12531,7 +12537,7 @@
     <e><p><l>vetur<s n="n"/><s n="m"/></l><r>winter<s n="n"/></r></p></e>
     <e><p><l>veður<s n="n"/><s n="nt"/></l><r>weather<s n="n"/></r></p></e>
     <e><p><l>veðurfar<s n="n"/><s n="nt"/></l><r>climate<s n="n"/></r></p></e>
-    <e><p><l>veðurfræði<s n="n"/><s n="f"/></l><r>meteorology<s n="n"/></r></p></e>
+    <e><p><l>veðurfræði<s n="n"/><s n="f"/></l><r>meteorology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>veðurspá<s n="n"/><s n="f"/></l><r>weather<b/>forecast<s n="n"/></r></p></e>
     <e><p><l>vik<s n="n"/><s n="nt"/></l><r>inlet<s n="n"/></r></p></e>
     <!--<e><p><l>vik<s n="n"/><s n="nt"/></l><r>recess<s n="n"/></r></p></e>-->
@@ -12948,7 +12954,7 @@
     <e><p><l>þallín<s n="n"/><s n="nt"/></l><r>thallium<s n="n"/></r></p></e>
     <e><p><l>þanki<s n="n"/><s n="m"/></l><r>thought<s n="n"/></r></p></e>
     <e><p><l>þekking<s n="n"/><s n="f"/></l><r>knowledge<s n="n"/></r></p></e>
-    <e><p><l>þekkingarfræði<s n="n"/><s n="f"/></l><r>epistemology<s n="n"/></r></p></e>
+    <e><p><l>þekkingarfræði<s n="n"/><s n="f"/></l><r>epistemology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>þerna<s n="n"/><s n="f"/></l><r>maid<s n="n"/></r></p></e>
     <e><p><l>þilfar<s n="n"/><s n="nt"/></l><r>deck<s n="n"/></r></p></e>
     <e><p><l>þind<s n="n"/><s n="f"/></l><r>diaphragm<s n="n"/></r></p></e>
@@ -18454,7 +18460,7 @@
     <e><p><l>hænsnabú<s n="n"/><s n="nt"/></l><r>chicken<b/>farm<s n="n"/></r></p></e>
     <e><p><l>hænsnakofi<s n="n"/><s n="m"/></l><r>henhouse<s n="n"/></r></p></e>
     <e><p><l>hænublundur<s n="n"/><s n="m"/></l><r>forty<b/>winks<s n="n"/></r></p></e>
-    <e><p><l>hæstaréttarlögmaður<s n="n"/><s n="m"/></l><r>advocate<b/>to<b/>the<b/>supreme<b/>court<s n="n"/></r></p></e>
+    <e><p><l>hæstaréttarlögmaður<s n="n"/><s n="m"/></l><r>advocate<g><b/>to<b/>the<b/>supreme<b/>court</g><s n="n"/></r></p></e>
     <e><p><l>hættusvæði<s n="n"/><s n="nt"/></l><r>danger<b/>area<s n="n"/></r></p></e>
     <e c="0"><p><l>hégómi<s n="n"/><s n="m"/></l><r>trifle<s n="n"/></r></p></e>
     <e slr="1"><p><l>hégómi<s n="n"/><s n="m"/></l><r>pedantry<s n="n"/></r></p></e>
@@ -22760,7 +22766,7 @@
     <e><p><l>undirtylla<s n="n"/><s n="f"/></l><r>inferior<s n="n"/></r></p></e>
     <e><p><l>undirtónn<s n="n"/><s n="m"/></l><r>undertone<s n="n"/></r></p></e>
     <e><p><l>undirvitund<s n="n"/><s n="f"/></l><r>subconscious<s n="n"/></r></p></e>
-    <e><p><l>undrabarn<s n="n"/><s n="nt"/></l><r><b/>prodigy<s n="n"/></r></p></e> <!-- (child) -->
+    <e><p><l>undrabarn<s n="n"/><s n="nt"/></l><r>prodigy<s n="n"/></r></p></e> <!-- (child) -->
     <e><p><l>undrun<s n="n"/><s n="f"/></l><r>amazement<s n="n"/></r></p></e>
     <e><p><l>undur<s n="n"/><s n="nt"/></l><r>wonder<s n="n"/></r></p></e>
     <e slr="1"><p><l>undur<s n="n"/><s n="nt"/></l><r>miracle<s n="n"/></r></p></e>
@@ -26317,7 +26323,7 @@
     <e><p><l>æviskeið<s n="n"/><s n="f"/></l><r>life<b/>span<s n="n"/></r></p></e>
     <e><p><l>afturhólf<s n="n"/><s n="nt"/></l><r>back<b/>compartment<s n="n"/></r></p></e>
     <e><p><l>ásjóna<s n="n"/><s n="f"/></l><r>face<s n="n"/></r></p></e>
-    <e><p><l>augnlæknisfræði<s n="n"/><s n="f"/></l><r>ophthalmology<s n="n"/></r></p></e>
+    <e><p><l>augnlæknisfræði<s n="n"/><s n="f"/></l><r>ophthalmology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>ausa<s n="n"/><s n="f"/></l><r>scoop<s n="n"/></r></p></e>
     <e><p><l>austnorðaustur<s n="n"/><s n="nt"/></l><r>east<b/>north-east<s n="n"/></r></p></e>
     <e><p><l>austsuðaustur<s n="n"/><s n="nt"/></l><r>east<b/>south-east<s n="n"/></r></p></e>
@@ -26449,7 +26455,7 @@
     <e><p><l>kynkvísl<s n="n"/><s n="f"/></l><r>subgroup<s n="n"/></r></p></e>
 
     <e><p><l>læknisaðstoð<s n="n"/><s n="f"/></l><r>medical<b/>assistance<s n="n"/></r></p></e> <!-- @ONLYSG -->
-    <e><p><l>landmótunarfræði<s n="n"/><s n="f"/></l><r>geomorphology<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>landmótunarfræði<s n="n"/><s n="f"/></l><r>geomorphology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>lánþýðing<s n="n"/><s n="f"/></l><r>loan<b/>translation<s n="n"/></r></p></e>
     <e><p><l>latínuskóli<s n="n"/><s n="m"/></l><r>latin<b/>school<s n="n"/></r></p></e>
     <e><p><l>leikstjórn<s n="n"/><s n="f"/></l><r>director<s n="n"/></r></p></e>
@@ -26560,7 +26566,7 @@
     <e><p><l>tækisfall<s n="n"/><s n="nt"/></l><r>instrumental<b/>case<s n="n"/></r></p></e>
     <e><p><l>tangerína<s n="n"/><s n="f"/></l><r>tangerine<s n="n"/></r></p></e>
     <e><p><l>taugahvot<s n="n"/><s n="nt"/></l><r>neuralgia<s n="n"/></r></p></e> <!-- @ONLYSG -->
-    <e><p><l>taugasjúkdómafræði<s n="n"/><s n="f"/></l><r>neurology<s n="n"/></r></p></e> <!-- @ONLYSG -->
+    <e><p><l>taugasjúkdómafræði<s n="n"/><s n="f"/></l><r>neurology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>tilgangsfall<s n="n"/><s n="nt"/></l><r>allative<b/>case<s n="n"/></r></p></e>
     <e><p><l>tilkoma<s n="n"/><s n="f"/></l><r>appearance<s n="n"/></r></p></e>
     <e><p><l>timburhús<s n="n"/><s n="nt"/></l><r>wooden<b/>house<s n="n"/></r></p></e>
