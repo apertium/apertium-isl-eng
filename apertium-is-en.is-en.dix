@@ -20020,7 +20020,7 @@
     <e><p><l>músík<s n="n"/><s n="f"/></l><r>music<s n="n"/></r></p></e>
     <e><p><l>múður<s n="n"/><s n="nt"/></l><r>protest<s n="n"/></r></p></e>
     <e><p><l>mý<s n="n"/><s n="nt"/></l><r>midge<s n="n"/></r></p></e>
-    <e><p><l>mýbit<s n="n"/><s n="nt"/></l><r>blackfly/midge<b/>bite<s n="n"/></r></p></e>
+    <e><p><l>mýbit<s n="n"/><s n="nt"/></l><r>midge<b/>bite<s n="n"/></r></p></e>
     <e c="0"><p><l>mýfluga<s n="n"/><s n="f"/></l><r>midge<s n="n"/></r></p></e>
     <e slr="1"><p><l>mýfluga<s n="n"/><s n="f"/></l><r>gnat<s n="n"/></r></p></e>
     <e><p><l>mýkingarefni<s n="n"/><s n="nt"/></l><r>softener<s n="n"/></r></p></e>
@@ -21770,7 +21770,7 @@
     <e slr="1"><p><l>spítt<s n="n"/><s n="nt"/></l><r>speed<s n="n"/></r></p></e>
     <e><p><l>spóla<s n="n"/><s n="f"/></l><r>reel<s n="n"/></r></p></e>
     <e><p><l>spónamatur<s n="n"/><s n="m"/></l><r>spoon<b/>food<s n="n"/></r></p></e>
-    <e c="0"><p><l>spónn<s n="n"/><s n="m"/></l><r><b/>shaving<s n="n"/></r></p></e> <!-- (wood) -->
+    <e c="0"><p><l>spónn<s n="n"/><s n="m"/></l><r>shaving<s n="n"/></r></p></e> <!-- (wood) -->
     <e slr="1"><p><l>spónn<s n="n"/><s n="m"/></l><r>veneer<s n="n"/></r></p></e>
     <e slr="2"><p><l>spónn<s n="n"/><s n="m"/></l><r>spinner<s n="n"/></r></p></e>
     <e slr="3"><p><l>spónn<s n="n"/><s n="m"/></l><r>spoon<s n="n"/></r></p></e>
@@ -24931,7 +24931,7 @@
     <e c="0"><p><l>lygn<s n="adj"/></l><r>still<s n="adj"/></r></p></e>
     <e slr="1"><p><l>lygn<s n="adj"/></l><r>calm<s n="adj"/></r></p></e>
     <e><p><l>lymskur<s n="adj"/></l><r>sly<s n="adj"/></r></p></e>
-    <e><p><l>lystarlaus<s n="adj"/></l><r>having<b/>no<b/>appetite<s n="adj"/></r></p></e>
+    <e><p><l>lystarlaus<s n="adj"/></l><r>appetiteless<s n="adj"/></r></p></e>
     <e c="0"><p><l>lystugur<s n="adj"/></l><r>with<b/>a<b/>hearty<b/>appetite<s n="adj"/></r></p></e>
     <e slr="1"><p><l>lystugur<s n="adj"/></l><r>appetising<s n="adj"/></r></p></e>
     <e><p><l>lágskýjað<s n="adj"/></l><r>overcast<s n="adj"/></r></p></e>
@@ -25542,7 +25542,7 @@
     <e><p><l>svarthvítur<s n="adj"/></l><r>black<b/>and<b/>white<s n="adj"/></r></p></e>
     <e><p><l>svartsýnn<s n="adj"/></l><r>pessimistic<s n="adj"/></r></p></e>
     <e><p><l>svefndrukkinn<s n="adj"/></l><r>half-asleep<s n="adj"/></r></p></e>
-    <e><p><l>svefnlaus<s n="adj"/></l><r>tired<b/>from<b/>lack<b/>of<b/>sleep<s n="adj"/></r></p></e>
+    <e><p><l>svefnlaus<s n="adj"/></l><r>tired<s n="adj"/></r></p></e> <!-- tired from lack of sleep -->
     <e><p><l>sveigjanlegur<s n="adj"/></l><r>pliable<s n="adj"/></r></p></e>
     <e><p><l>sveitalegur<s n="adj"/></l><r>rustic<s n="adj"/></r></p></e>
     <e><p><l>sveittur<s n="adj"/></l><r>sweaty<s n="adj"/></r></p></e>
