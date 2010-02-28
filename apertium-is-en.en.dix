@@ -2560,7 +2560,6 @@
     <e lm="Jóhanna"><i>Jóhanna</i><par n="Mary__np"/></e>
     <e lm="Emilíana"><i>Emilíana</i><par n="Mary__np"/></e>
     <e lm="Pála"><i>Pála</i><par n="Mary__np"/></e>
-    <e lm="Varða"><i>Varða</i><par n="Mary__np"/></e>
     <e lm="Julía"><i>Julía</i><par n="Mary__np"/></e>
     <e lm="Aþena"><i>Aþena</i><par n="Mary__np"/></e>
     <e lm="Ásta"><i>Ásta</i><par n="Mary__np"/></e>
@@ -9574,6 +9573,9 @@
     <e lm="hut"><i>hut</i><par n="house__n"/></e>
     <e lm="encouragement"><i>encouragement</i><par n="house__n"/></e>
     <e lm="computer science"><i>computer<b/>science</i><par n="house__n"/></e>
+    <e lm="woman studies"><i>woman<b/>studies</i><par n="house__n"/></e>
+    <e lm="man studies"><i>man<b/>studies</i><par n="house__n"/></e>
+    <e lm="gay studies"><i>gay<b/>studies</i><par n="house__n"/></e>
     <e lm="computing"><i>computing</i><par n="house__n"/></e>
     <e lm="stir"><i>stir</i><par n="house__n"/></e>
     <e lm="uproar"><i>uproar</i><par n="house__n"/></e>
@@ -31887,6 +31889,8 @@
     <e lm="evangelist"><i>evangelist</i><par n="expensive__adj"/></e>
     <e lm="extra"><i>extra</i><par n="expensive__adj"/></e>
     <e lm="extra"><i>extra</i><par n="maybe__adv"/></e>
+    <e lm="gross"><i>gross</i><par n="maybe__adv"/></e>
+    <e lm="net"><i>net</i><par n="maybe__adv"/></e>
     <e lm="pharmaceutical"><i>pharmaceutical</i><par n="expensive__adj"/></e>
     <e lm="feminist"><i>feminist</i><par n="expensive__adj"/></e>
     <e lm="fugitive"><i>fugitive</i><par n="expensive__adj"/></e>
@@ -34776,6 +34780,7 @@
     <e lm="tragically"><i>tragically</i><par n="maybe__adv"/></e>
     <e lm="truly"><i>truly</i><par n="maybe__adv"/></e>
     <e lm="twice"><i>twice</i><par n="maybe__adv"/></e>
+    <e lm="three times"><i>three<b/>times</i><par n="maybe__adv"/></e>
     <e lm="typically"><i>typically</i><par n="maybe__adv"/></e>
     <e lm="ultimately"><i>ultimately</i><par n="maybe__adv"/></e>
     <e lm="unanimously"><i>unanimously</i><par n="maybe__adv"/></e>

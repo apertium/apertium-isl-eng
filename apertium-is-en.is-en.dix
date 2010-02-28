@@ -2727,7 +2727,7 @@
     <e><p><l>hvers<b/>konar<s n="adv"/><s n="itg"/></l><r>what<b/>kind<b/>of<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>ýmiss<b/>konar<s n="adv"/><s n="itg"/></l><r>any<b/>sort<b/>of<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvert<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>því<b/>ekki<b/>það<s n="adv"/><s n="itg"/></l><r>why<b/>not<s n="adv"/></r></p></e>
+    <e><p><l>því<b/>ekki<b/>það<s n="adv"/><s n="itg"/></l><r>why<b/>not<s n="adv"/><s n="itg"/></r></p></e>
 
 
     <e><p><l>af<s n="adv"/></l><r>off<s n="adv"/></r></p></e>
@@ -3576,7 +3576,6 @@
 <e slr="1"><p><l>beggjavegna<s n="adv"/></l><r>on<b/>each<b/>side<s n="adv"/></r></p></e>
 <e><p><l>berbakt<s n="adv"/></l><r>bareback<s n="adv"/></r></p></e>
 <e><p><l>bráðlega<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
-<e><p><l>brúttó<s n="adv"/></l><r>gross<s n="adv"/></r></p></e> <!-- weight or money -->
 <e><p><l>bölvanlega<s n="adv"/></l><r>miserably<s n="adv"/></r></p></e>
 <e><p><l>efalaust<s n="adv"/></l><r>without<b/>a<b/>doubt<s n="adv"/></r></p></e>
 <e><p><l>eins<s n="adv"/></l><r>alike<s n="adv"/></r></p></e>
@@ -3594,8 +3593,10 @@
 <e><p><l>gjörla<s n="adv"/></l><r>completely<s n="adv"/></r></p></e>
 <e><p><l>greiðlega<s n="adv"/></l><r>smoothly<s n="adv"/></r></p></e>
 <e><p><l>hiklaust<s n="adv"/></l><r>without<b/>hesitation<s n="adv"/></r></p></e>
+<!--
 <e c="0"><p><l>hinsegin<s n="adv"/></l><r>the<b/>other<b/>way<s n="adv"/></r></p></e>
 <e slr="1"><p><l>hinsegin<s n="adv"/></l><r>differently<s n="adv"/></r></p></e>
+-->
 <e><p><l>hinsvegar<s n="adv"/></l><r>on<b/>the<b/>other<b/>hand<s n="adv"/></r></p></e>
 <e><p><l>hugsunarlaust<s n="adv"/></l><r>thoughtlessly<s n="adv"/></r></p></e>
 <e><p><l>hversdags<s n="adv"/></l><r>everyday<s n="adv"/></r></p></e>
@@ -3626,7 +3627,10 @@
 <e><p><l>móti<s n="adv"/></l><r>in<b/>return<s n="adv"/></r></p></e>
 <e c="0"><p><l>naumlega<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
 <e slr="1"><p><l>naumlega<s n="adv"/></l><r>meagerly<s n="adv"/></r></p></e>
-<!--<e><p><l>nettó<s n="adv"/></l><r>net<s n="adv"/></r></p></e> --><!-- weight or money -->
+
+<e><p><l>brúttó<s n="adv"/></l><r>gross<s n="adv"/></r></p></e> <!-- weight or money -->
+<e><p><l>nettó<s n="adv"/></l><r>net<s n="adv"/></r></p></e> <!-- weight or money -->
+
 <e><p><l>neðansjávar<s n="adv"/></l><r>undersea<s n="adv"/></r></p></e>
 <e><p><l>neðarlega<s n="adv"/></l><r>in<b/>the<b/>bottom<b/>half<s n="adv"/></r></p></e>
 <e><p><l>norður<s n="adv"/></l><r>north<s n="adv"/></r></p></e>
@@ -4035,7 +4039,6 @@
     <e><p><l>Jörgína<s n="np"/><s n="ant"/><s n="f"/></l><r>Jörgína<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Linda<s n="np"/><s n="ant"/><s n="f"/></l><r>Linda<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Pála<s n="np"/><s n="ant"/><s n="f"/></l><r>Pála<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-    <e><p><l>Varða<s n="np"/><s n="ant"/><s n="f"/></l><r>Varða<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Julía<s n="np"/><s n="ant"/><s n="f"/></l><r>Julía<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Sophia<s n="np"/><s n="ant"/><s n="f"/></l><r>Sophia<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -26798,6 +26801,9 @@
     <e><p><l>eftirá<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
     <e><p><l>því<b/>síður<s n="adv"/></l><r>definitely<b/>not<s n="adv"/></r></p></e>
 
+    <e><p><l>kvennafræði<s n="n"/><s n="f"/></l><r>woman<b/>studies<s n="n"/></r></p></e>
+    <e><p><l>karlafræði<s n="n"/><s n="f"/></l><r>man<b/>studies<s n="n"/></r></p></e>
+    <e><p><l>hinseginfræði<s n="n"/><s n="f"/></l><r>gay<b/>studies<s n="n"/></r></p></e>
 
   </section>
 </dictionary>
