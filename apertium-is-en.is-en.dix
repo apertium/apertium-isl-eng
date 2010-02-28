@@ -2708,6 +2708,8 @@
     <e><p><l>mjög<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
     <e><p><l>virkilega<s n="preadv"/></l><r>really<s n="preadv"/></r></p></e>
 
+    <e><p><l>nokkuð<s n="adv"/></l><r>quite<s n="adv"/></r></p></e>
+
     <e><p><l>hvaðan<s n="adv"/><s n="itg"/></l><r>whence<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvar<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hve<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
@@ -3656,7 +3658,6 @@
 <e><p><l>svona<s n="adv"/><s n=":0"/></l><r>like<b/>that<s n="adv"/></r></p></e>
 <e><p><l>svona<s n="adv"/><s n=":1"/></l><r>about<s n="adv"/></r></p></e>
 <e><p><l>síst<s n="adv"/></l><r>least<s n="adv"/></r></p></e>
-<e><p><l>síðan<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
 <e><p><l>tafarlaust<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
 <e><p><l>trauðla<s n="adv"/></l><r>barely<s n="adv"/></r></p></e>
 <e><p><l>tvívegis<s n="adv"/></l><r>twice<s n="adv"/></r></p></e>
@@ -3759,6 +3760,7 @@
     <e><p><l>svo<b/>að<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
     <e><p><l>svo<b/>mikið<b/>sem<s n="cnjsub"/></l><r>so<b/>much<b/>as<s n="cnjsub"/></r></p></e>
     <e><p><l>síðan<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+    <e><p><l>síðan<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
     <e><p><l>til<b/>að<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e> <!-- Check this -->
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
     <e><p><l>strax<b/>og<s n="cnjsub"/></l><r>as<b/>soon<b/>as<s n="cnjsub"/></r></p></e>
@@ -4313,7 +4315,7 @@
 <!--<p><l>afráða<s n="vblex"/></l><r>determine<s n="vblex"/></r></p></e>-->
 <!--<p><l>afráða<s n="vblex"/></l><r>resolve<s n="vblex"/></r></p></e>-->
 <!--<p><l>afráða<s n="vblex"/></l><r>settle<s n="vblex"/></r></p></e>-->
-<!--<p><l>afsaka<s n="vblex"/></l><r>apologize<s n="vblex"/></r></p></e>-->
+<!--<p><l>afsaka<s n="vblex"/></l><r>apologise<s n="vblex"/></r></p></e>-->
 <!--<p><l>afsaka<s n="vblex"/></l><r>excuse<s n="vblex"/></r></p></e>-->
     <e><p><l>afsaka<s n="vblex"/></l><r>forgive<s n="vblex"/></r></p></e>
 <!--<p><l>afsaka<s n="vblex"/></l><r>pardon<s n="vblex"/></r></p></e>-->
@@ -4544,7 +4546,7 @@
 <!--<p><l>einblína<s n="vblex"/></l><r>focus<s n="vblex"/></r></p></e>-->
 <!--<p><l>einblína<s n="vblex"/></l><r>gaze<s n="vblex"/></r></p></e>-->
     <e><p><l>einblína<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
-    <e><p><l>einkenna<s n="vblex"/></l><r>characterize<s n="vblex"/></r></p></e>
+    <e><p><l>einkenna<s n="vblex"/></l><r>characterise<s n="vblex"/></r></p></e>
 <!--<p><l>einkenna<s n="vblex"/></l><r>define<s n="vblex"/></r></p></e>-->
     <e><p><l>einskorða<s n="vblex"/></l><r>limit<s n="vblex"/></r></p></e>
 <!--<p><l>einskorða<s n="vblex"/></l><r>restrict<s n="vblex"/></r></p></e>-->
@@ -4751,7 +4753,7 @@
 <!--<p><l>ganta<s n="vblex"/></l><r>joke<s n="vblex"/></r></p></e>-->
 <!--<p><l>ganta<s n="vblex"/></l><r>josh<s n="vblex"/></r></p></e>-->
 <!--<p><l>ganta<s n="vblex"/></l><r>mock<s n="vblex"/></r></p></e>-->
-<!--<p><l>ganta<s n="vblex"/></l><r>satirize<s n="vblex"/></r></p></e>-->
+<!--<p><l>ganta<s n="vblex"/></l><r>satirise<s n="vblex"/></r></p></e>-->
     <e><p><l>gapa<s n="vblex"/></l><r>gape<s n="vblex"/></r></p></e>
 <!--<p><l>gapa<s n="vblex"/></l><r>gawk<s n="vblex"/></r></p></e>-->
 <!--<p><l>gapa<s n="vblex"/></l><r>gaze<s n="vblex"/></r></p></e>-->
@@ -4946,7 +4948,7 @@
 <!--<p><l>herma<s n="vblex"/></l><r>mimic<s n="vblex"/></r></p></e>-->
 <!--<p><l>herma<s n="vblex"/></l><r>report<s n="vblex"/></r></p></e>-->
 <!--<p><l>herma<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>-->
-<!--<p><l>herma<s n="vblex"/></l><r>virtualize<s n="vblex"/></r></p></e>-->
+<!--<p><l>herma<s n="vblex"/></l><r>virtualise<s n="vblex"/></r></p></e>-->
     <e><p><l>hernema<s n="vblex"/></l><r>occupy<s n="vblex"/></r></p></e>
 <!--<p><l>hernema<s n="vblex"/></l><r>seize<s n="vblex"/></r></p></e>-->
 <!--<p><l>hernema<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>-->
@@ -5608,7 +5610,7 @@
 <!--<p><l>ryðja<s n="vblex"/></l><r>stampede<s n="vblex"/></r></p></e>-->
 <!--<p><l>ryðja<s n="vblex"/></l><r>unload<s n="vblex"/></r></p></e>-->
     <e><p><l>ráma<s n="vblex"/></l><r>recall<s n="vblex"/></r></p></e>
-<!--<p><l>ráma<s n="vblex"/></l><r>recognize<s n="vblex"/></r></p></e>-->
+<!--<p><l>ráma<s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>-->
 <!--<p><l>ráma<s n="vblex"/></l><r>recollect<s n="vblex"/></r></p></e>-->
 <!--<p><l>ráma<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>-->
 <!--<p><l>ráða<s n="vblex"/></l><r>control<s n="vblex"/></r></p></e>-->
@@ -5650,7 +5652,7 @@
 <!--<p><l>róa<s n="vblex"/></l><r>quiet<s n="vblex"/></r></p></e>-->
 <!--<p><l>róa<s n="vblex"/></l><r>reassure<s n="vblex"/></r></p></e>-->
 <!--<p><l>róa<s n="vblex"/></l><r>row<s n="vblex"/></r></p></e>-->
-<!--<p><l>róa<s n="vblex"/></l><r>tranquilize<s n="vblex"/></r></p></e>-->
+<!--<p><l>róa<s n="vblex"/></l><r>tranquilise<s n="vblex"/></r></p></e>-->
 <!--<p><l>róta<s n="vblex"/></l><r>grub<s n="vblex"/></r></p></e>-->
 <!--<p><l>róta<s n="vblex"/></l><r>paw<s n="vblex"/></r></p></e>-->
     <e><p><l>róta<s n="vblex"/></l><r>rummage<s n="vblex"/></r></p></e>
@@ -5687,7 +5689,7 @@
 <!--<p><l>samferða<s n="vblex"/></l><r>join<s n="vblex"/></r></p></e>-->
     <e><p><l>samræma<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
 <!--<p><l>samræma<s n="vblex"/></l><r>correlate<s n="vblex"/></r></p></e>-->
-<!--<p><l>samræma<s n="vblex"/></l><r>harmonize<s n="vblex"/></r></p></e>-->
+<!--<p><l>samræma<s n="vblex"/></l><r>harmonise<s n="vblex"/></r></p></e>-->
 <!--<p><l>samræma<s n="vblex"/></l><r>unify<s n="vblex"/></r></p></e>-->
     <e><p><l>samsinna<s n="vblex"/></l><r>agree<s n="vblex"/></r></p></e>
 <!--<p><l>samþykkja<s n="vblex"/></l><r>agree<s n="vblex"/></r></p></e>-->
@@ -5808,7 +5810,7 @@
     <e><p><l>skynja<s n="vblex"/></l><r>sense<s n="vblex"/></r></p></e>
     <e><p><l>skála<s n="vblex"/></l><r>toast<s n="vblex"/></r></p></e>
     <e><p><l>skína<s n="vblex"/></l><r>shine<s n="vblex"/></r></p></e>
-<!--<p><l>skíra<s n="vblex"/></l><r>baptize<s n="vblex"/></r></p></e>-->
+<!--<p><l>skíra<s n="vblex"/></l><r>baptise<s n="vblex"/></r></p></e>-->
     <e><p><l>skíra<s n="vblex"/></l><r>christen<s n="vblex"/></r></p></e>
 <!--<p><l>skíra<s n="vblex"/></l><r>clarify<s n="vblex"/></r></p></e>-->
 <!--<p><l>skíra<s n="vblex"/></l><r>purify<s n="vblex"/></r></p></e>-->
@@ -5879,7 +5881,7 @@
 <!--<p><l>spilla<s n="vblex"/></l><r>ruin<s n="vblex"/></r></p></e>-->
     <e><p><l>spilla<s n="vblex"/></l><r>spoil<s n="vblex"/></r></p></e>
 <!--<p><l>spinna<s n="vblex"/></l><r>adlib<s n="vblex"/></r></p></e>-->
-<!--<p><l>spinna<s n="vblex"/></l><r>extemporize<s n="vblex"/></r></p></e>-->
+<!--<p><l>spinna<s n="vblex"/></l><r>extemporise<s n="vblex"/></r></p></e>-->
 <!--<p><l>spinna<s n="vblex"/></l><r>improvise<s n="vblex"/></r></p></e>-->
     <e><p><l>spinna<s n="vblex"/></l><r>spin<s n="vblex"/></r></p></e>
     <e><p><l>spjalla<s n="vblex"/></l><r>chat<s n="vblex"/></r></p></e>
@@ -5974,7 +5976,7 @@
     <e><p><l>strá<s n="vblex"/></l><r>sprinkle<s n="vblex"/></r></p></e>
 <!--<p><l>stríða<s n="vblex"/></l><r>bully<s n="vblex"/></r></p></e>-->
 <!--<p><l>stríða<s n="vblex"/></l><r>challenge<s n="vblex"/></r></p></e>-->
-<!--<p><l>stríða<s n="vblex"/></l><r>tantalize<s n="vblex"/></r></p></e>-->
+<!--<p><l>stríða<s n="vblex"/></l><r>tantalise<s n="vblex"/></r></p></e>-->
     <e><p><l>stríða<s n="vblex"/></l><r>tease<s n="vblex"/></r></p></e>
 <!--<p><l>stríða<s n="vblex"/></l><r>twit<s n="vblex"/></r></p></e>-->
     <e><p><l>stunda<s n="vblex"/></l><r>practise<s n="vblex"/></r></p></e>
@@ -6068,7 +6070,7 @@
     <e slr="1"><p><l>telja<s n="vblex"/></l><r>reckon<s n="vblex"/></r></p></e>
 <!--<p><l>temja<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>-->
-<!--<p><l>temja<s n="vblex"/></l><r>domesticize<s n="vblex"/></r></p></e>-->
+<!--<p><l>temja<s n="vblex"/></l><r>domesticise<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>master<s n="vblex"/></r></p></e>-->
     <e><p><l>temja<s n="vblex"/></l><r>tame<s n="vblex"/></r></p></e>
     <e><p><l>tengja<s n="vblex"/></l><r>connect<s n="vblex"/></r></p></e>
@@ -6117,7 +6119,7 @@
 <!--<p><l>tákna<s n="vblex"/></l><r>mean<s n="vblex"/></r></p></e>-->
 <!--<p><l>tákna<s n="vblex"/></l><r>represent<s n="vblex"/></r></p></e>-->
     <e><p><l>tákna<s n="vblex"/></l><r>signify<s n="vblex"/></r></p></e>
-<!--<p><l>tákna<s n="vblex"/></l><r>symbolize<s n="vblex"/></r></p></e>-->
+<!--<p><l>tákna<s n="vblex"/></l><r>symbolise<s n="vblex"/></r></p></e>-->
     <e><p><l>tæma<s n="vblex"/></l><r>empty<s n="vblex"/></r></p></e>
 <!--<p><l>tæma<s n="vblex"/></l><r>evacuate<s n="vblex"/></r></p></e>-->
 <!--<p><l>tæma<s n="vblex"/></l><r>vacate<s n="vblex"/></r></p></e>-->
@@ -6238,7 +6240,7 @@
     <e><p><l>vinna<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
 <!--<p><l>virkja<s n="vblex"/></l><r>generate<s n="vblex"/></r></p></e>-->
     <e><p><l>virkja<s n="vblex"/></l><r>harness<s n="vblex"/></r></p></e>
-<!--<p><l>virkja<s n="vblex"/></l><r>mobilize<s n="vblex"/></r></p></e>-->
+<!--<p><l>virkja<s n="vblex"/></l><r>mobilise<s n="vblex"/></r></p></e>-->
     <e><p><l>virða<s n="vblex"/></l><r>respect<s n="vblex"/></r></p></e>
 <!--<p><l>virða<s n="vblex"/></l><r>seem<s n="vblex"/></r></p></e>-->
 <!--<p><l>virða<s n="vblex"/></l><r>view<s n="vblex"/></r></p></e>-->
@@ -6284,7 +6286,7 @@
 <!--<p><l>yfirgnæfa<s n="vblex"/></l><r>rule<s n="vblex"/></r></p></e>-->
     <e><p><l>yppta<s n="vblex"/></l><r>shrug<s n="vblex"/></r></p></e>
 <!--<p><l>yrkja<s n="vblex"/></l><r>farm<s n="vblex"/></r></p></e>-->
-<!--<p><l>yrkja<s n="vblex"/></l><r>poeticize<s n="vblex"/></r></p></e>-->
+<!--<p><l>yrkja<s n="vblex"/></l><r>poeticise<s n="vblex"/></r></p></e>-->
     <e><p><l>yrkja<s n="vblex"/></l><r>write<g><b/>poetry</g><s n="vblex"/></r></p></e>
 <!--<p><l>yrða<s n="vblex"/></l><r>address<s n="vblex"/></r></p></e>-->
     <e><p><l>yrða<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
@@ -6385,7 +6387,7 @@
     <e><p><l>þekja<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
 <!--<p><l>þekkja<s n="vblex"/></l><r>identify<s n="vblex"/></r></p></e>-->
     <e><p><l>þekkja<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e>
-<!--<p><l>þekkja<s n="vblex"/></l><r>recognize<s n="vblex"/></r></p></e>-->
+<!--<p><l>þekkja<s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>-->
 <!--<p><l>þenja<s n="vblex"/></l><r>dilate<s n="vblex"/></r></p></e>-->
     <e><p><l>þenja<s n="vblex"/></l><r>expand<s n="vblex"/></r></p></e>
 <!--<p><l>þenja<s n="vblex"/></l><r>strain<s n="vblex"/></r></p></e>-->
@@ -6513,7 +6515,7 @@
 <e><p><l>afvegaleiða<s n="vblex"/></l><r>mislead<s n="vblex"/></r></p></e>
 <e><p><l>afþakka<s n="vblex"/></l><r>decline<s n="vblex"/></r></p></e>
 <e><p><l>aga<s n="vblex"/></l><r>discipline<s n="vblex"/></r></p></e>
-<e><p><l>alhæfa<s n="vblex"/></l><r>generalize<s n="vblex"/></r></p></e>
+<e><p><l>alhæfa<s n="vblex"/></l><r>generalise<s n="vblex"/></r></p></e>
 <e><p><l>andmæla<s n="vblex"/><s n=":0"/></l><r>contradict<s n="vblex"/></r></p></e>
 <e><p><l>andmæla<s n="vblex"/><s n=":1"/></l><r>protest<s n="vblex"/></r></p></e> <!-- (against sth) -->
 <e><p><l>anga<s n="vblex"/><s n=":0"/></l><r>fragrance<s n="vblex"/></r></p></e>
@@ -6623,7 +6625,7 @@
 <e><p><l>dafna<s n="vblex"/></l><r>thrive<s n="vblex"/></r></p></e>
 <e><p><l>dagsetja<s n="vblex"/></l><r>date<s n="vblex"/></r></p></e>
 <e><p><l>dala<s n="vblex"/></l><r>dent<s n="vblex"/></r></p></e>
-<e><p><l>dauðhreinsa<s n="vblex"/></l><r>sterilize<s n="vblex"/></r></p></e>
+<e><p><l>dauðhreinsa<s n="vblex"/></l><r>sterilise<s n="vblex"/></r></p></e>
 <e><p><l>deila<s n="vblex"/><s n=":0"/></l><r>share<s n="vblex"/></r></p></e> <!-- see MW 'deila með' -->
 <e><p><l>deila<s n="vblex"/><s n=":1"/></l><r>quarrel<s n="vblex"/></r></p></e> <!-- see MW 'deila við' -->
 <e><p><l>dekkja<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
@@ -6802,7 +6804,7 @@
 <e><p><l>gaspra<s n="vblex"/><s n=":0"/></l><r>gush<s n="vblex"/></r></p></e> <!-- regarding speech -->
 <e><p><l>gaspra<s n="vblex"/><s n=":2"/></l><r>babble<s n="vblex"/></r></p></e>
 <e><p><l>gaula<s n="vblex"/></l><r>howl<s n="vblex"/></r></p></e>
-<e><p><l>gaumgæfa<s n="vblex"/></l><r>scrutinize<s n="vblex"/></r></p></e>
+<e><p><l>gaumgæfa<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p></e>
 <e><p><l>geggjast<s n="vblex"/></l><r>go<b/>crazy<s n="vblex"/></r></p></e>
 <e><p><l>gegnumlýsa<s n="vblex"/></l><r>X-ray<s n="vblex"/></r></p></e>
 <e><p><l>geiga<s n="vblex"/></l><r>miss<b/>the<b/>mark<s n="vblex"/></r></p></e>
@@ -6810,7 +6812,7 @@
 <e><p><l>gelta<s n="vblex"/></l><r>bark<s n="vblex"/></r></p></e>
 <e><p><l>gerbreyta<s n="vblex"/></l><r>change<b/>completely<s n="vblex"/></r></p></e>
 <e><p><l>gereyða<s n="vblex"/></l><r>wipe<b/>out<s n="vblex"/></r></p></e>
-<e><p><l>gerilsneyða<s n="vblex"/></l><r>pasteurize<s n="vblex"/></r></p></e>
+<e><p><l>gerilsneyða<s n="vblex"/></l><r>pasteurise<s n="vblex"/></r></p></e>
 <e><p><l>gerjast<s n="vblex"/></l><r>ferment<s n="vblex"/></r></p></e>
 <e><p><l>geta<s n="vblex"/><s n=":0"/></l><r>be<b/>able<b/>to<s n="vblex"/></r></p></e>
 <e><p><l>geta<s n="vblex"/><s n=":1"/></l><r>achieve<s n="vblex"/></r></p></e>
@@ -6855,7 +6857,7 @@
 <e><p><l>gnísta<s n="vblex"/></l><r>gnash<s n="vblex"/></r></p></e>
 <e><p><l>gogga<s n="vblex"/></l><r>peck<s n="vblex"/></r></p></e>
 <e><p><l>gorta<s n="vblex"/></l><r>brag<s n="vblex"/></r></p></e>
-<e><p><l>grandskoða<s n="vblex"/></l><r>scrutinize<s n="vblex"/></r></p></e>
+<e><p><l>grandskoða<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p></e>
 <e><p><l>greftra<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
 <e><p><l>greiða<s n="vblex"/></l><r>pay<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>greiða<s n="vblex"/></l><r>comb<s n="vblex"/></r></p></e>
@@ -6887,7 +6889,7 @@
 <e><p><l>góla<s n="vblex"/><s n=":1"/></l><r>yell<s n="vblex"/></r></p></e>
 <e><p><l>göfga<s n="vblex"/></l><r>ennoble<s n="vblex"/></r></p></e>
 <e><p><l>gúlpa<s n="vblex"/></l><r>gulp<s n="vblex"/></r></p></e>
-<e><p><l>hagnýta<s n="vblex"/></l><r>utilize<s n="vblex"/></r></p></e>
+<e><p><l>hagnýta<s n="vblex"/></l><r>utilise<s n="vblex"/></r></p></e>
 <e><p><l>hakka<s n="vblex"/></l><r>grind<s n="vblex"/></r></p></e>
 <e><p><l>hallmæla<s n="vblex"/></l><r>denigrate<s n="vblex"/></r></p></e>
 <e><p><l>hamfletta<s n="vblex"/></l><r>skin<s n="vblex"/></r></p></e> <!-- removing the skin (of a bird) -->
@@ -6944,7 +6946,7 @@
 <e><p><l>hlýna<s n="vblex"/></l><r>get<b/>warmer<s n="vblex"/></r></p></e>
 <e><p><l>hlýðnast<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
 <e><p><l>hneppa<s n="vblex"/></l><r>button<s n="vblex"/></r></p></e>
-<e><p><l>hneyksla<s n="vblex"/></l><r>scandalize<s n="vblex"/></r></p></e>
+<e><p><l>hneyksla<s n="vblex"/></l><r>scandalise<s n="vblex"/></r></p></e>
 <e><p><l>hnigna<s n="vblex"/></l><r>decline<s n="vblex"/></r></p></e>
 <e><p><l>hnjóta<s n="vblex"/></l><r>stumble<s n="vblex"/></r></p></e>
 <e><p><l>hnoða<s n="vblex"/><s n=":0"/></l><r>knead<s n="vblex"/></r></p></e>
@@ -7185,7 +7187,7 @@
 <e><p><l>ljósmynda<s n="vblex"/></l><r>photograph<s n="vblex"/></r></p></e>
 <e><p><l>ljósrita<s n="vblex"/></l><r>photocopy<s n="vblex"/></r></p></e>
 <e><p><l>lofta<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
-<e><p><l>lofttæma<s n="vblex"/></l><r>vacuumize<s n="vblex"/></r></p></e>
+<e><p><l>lofttæma<s n="vblex"/></l><r>vacuumise<s n="vblex"/></r></p></e> <!-- is this a word? -->
 <e><p><l>logsjóða<s n="vblex"/></l><r>weld<s n="vblex"/></r></p></e>
 <e><p><l>loka<s n="vblex"/></l><r>close<s n="vblex"/></r></p></e>
 <e><p><l>lokka<s n="vblex"/></l><r>entice<s n="vblex"/></r></p></e>
@@ -7207,7 +7209,7 @@
 <e><p><l>lóga<s n="vblex"/><s n=":1"/></l><r>slaughter<s n="vblex"/></r></p></e>
 <e><p><l>lóða<s n="vblex"/><s n=":0"/></l><r>solder<s n="vblex"/></r></p></e>
 <e><p><l>lóða<s n="vblex"/><s n=":1"/></l><r>sound<s n="vblex"/></r></p></e> <!-- measure depth of water -->
-<e><p><l>löggilda<s n="vblex"/></l><r>legalize<s n="vblex"/></r></p></e>
+<e><p><l>löggilda<s n="vblex"/></l><r>legalise<s n="vblex"/></r></p></e>
 <e><p><l>lögleiða<s n="vblex"/></l><r>enact<s n="vblex"/></r></p></e> <!-- (a law, etc) -->
 <e><p><l>lögsækja<s n="vblex"/></l><r>sue<s n="vblex"/></r></p></e>
 <e><p><l>lötra<s n="vblex"/></l><r>saunter<s n="vblex"/></r></p></e>
@@ -7407,7 +7409,7 @@
 <e><p><l>ritstýra<s n="vblex"/></l><r>edit<s n="vblex"/></r></p></e>
 <e><p><l>riða<s n="vblex"/><s n=":0"/></l><r>sway<s n="vblex"/></r></p></e>
 <e><p><l>riða<s n="vblex"/><s n=":1"/></l><r>tremble<s n="vblex"/></r></p></e>
-<e><p><l>riðla<s n="vblex"/></l><r>disorganize<s n="vblex"/></r></p></e>
+<e><p><l>riðla<s n="vblex"/></l><r>disorganise<s n="vblex"/></r></p></e>
 <e><p><l>rjátla<s n="vblex"/></l><r>totter<s n="vblex"/></r></p></e>
 <e><p><l>rjóða<s n="vblex"/></l><r>redden<s n="vblex"/></r></p></e>
 <e><p><l>rofna<s n="vblex"/></l><r>be<b/>broken<s n="vblex"/></r></p></e>
@@ -7457,7 +7459,7 @@
 <e><p><l>samrýma<s n="vblex"/></l><r>reconcile<s n="vblex"/></r></p></e>
 <e><p><l>samstilla<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
 <e><p><l>samsvara<s n="vblex"/><s n=":0"/></l><r>proportion<s n="vblex"/></r></p></e>
-<e><p><l>samsvara<s n="vblex"/><s n=":1"/></l><r>harmonize<s n="vblex"/></r></p></e>
+<e><p><l>samsvara<s n="vblex"/><s n=":1"/></l><r>harmonise<s n="vblex"/></r></p></e>
 <e><p><l>samþætta<s n="vblex"/></l><r>integrate<s n="vblex"/></r></p></e>
 <e><p><l>sandblása<s n="vblex"/></l><r>sandblast<s n="vblex"/></r></p></e>
 <e><p><l>sannprófa<s n="vblex"/></l><r>verify<s n="vblex"/></r></p></e>
@@ -7676,11 +7678,11 @@
 <e><p><l>staðfesta<s n="vblex"/><s n=":0"/></l><r>confirm<s n="vblex"/></r></p></e>
 <e><p><l>staðfesta<s n="vblex"/><s n=":1"/></l><r>certify<s n="vblex"/></r></p></e>
 <e><p><l>staðfesta<s n="vblex"/><s n=":2"/></l><r>ratify<s n="vblex"/></r></p></e>
-<e><p><l>staðfæra<s n="vblex"/><s n=":0"/></l><r>localize<s n="vblex"/></r></p></e>
+<e><p><l>staðfæra<s n="vblex"/><s n=":0"/></l><r>localise<s n="vblex"/></r></p></e>
 <e><p><l>staðfæra<s n="vblex"/><s n=":1"/></l><r>adapt<b/>sth<b/>to<b/>a<b/>locality<s n="vblex"/></r></p></e>
 <e><p><l>staðgreiða<s n="vblex"/></l><r>pay<b/>cash<s n="vblex"/></r></p></e>
 <e><p><l>staðhæfa<s n="vblex"/></l><r>state<s n="vblex"/></r></p></e>
-<e><p><l>staðla<s n="vblex"/></l><r>standardize<s n="vblex"/></r></p></e>
+<e><p><l>staðla<s n="vblex"/></l><r>standardise<s n="vblex"/></r></p></e>
 <e><p><l>staðna<s n="vblex"/></l><r>stagnate<s n="vblex"/></r></p></e>
 <e><p><l>staðnæmast<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
 <e><p><l>staðsetja<s n="vblex"/><s n=":0"/></l><r>place<s n="vblex"/></r></p></e>
@@ -7748,7 +7750,7 @@
 <e><p><l>sviðsetja<s n="vblex"/></l><r>stage<s n="vblex"/></r></p></e>
 <e><p><l>svolgra<s n="vblex"/></l><r>gulp<b/>down<s n="vblex"/></r></p></e>
 <e><p><l>svæfa<s n="vblex"/><s n=":0"/></l><r>lull<b/>to<b/>sleep<s n="vblex"/></r></p></e>
-<e><p><l>svæfa<s n="vblex"/><s n=":1"/></l><r>anaesthetize<s n="vblex"/></r></p></e>
+<e><p><l>svæfa<s n="vblex"/><s n=":1"/></l><r>anaesthetise<s n="vblex"/></r></p></e>
 <e><p><l>svæfa<s n="vblex"/><s n=":2"/></l><r>hush<b/>up<s n="vblex"/></r></p></e>
 <e><p><l>svæla<s n="vblex"/><s n=":0"/></l><r>choke<b/>with<b/>smoke<s n="vblex"/></r></p></e>
 <e><p><l>svæla<s n="vblex"/><s n=":1"/></l><r>smoke<b/>out<s n="vblex"/></r></p></e>
@@ -7765,7 +7767,7 @@
 <e><p><l>sárlanga<s n="vblex"/></l><r>desire<b/>strongly<s n="vblex"/></r></p></e>
 <e><p><l>sæða<s n="vblex"/><s n=":0"/></l><r>sow<s n="vblex"/></r></p></e>
 <e><p><l>sæða<s n="vblex"/><s n=":1"/></l><r>inseminate<s n="vblex"/></r></p></e>
-<e><p><l>sérhæfa<s n="vblex"/></l><r>specialize<s n="vblex"/></r></p></e>
+<e><p><l>sérhæfa<s n="vblex"/></l><r>specialise<s n="vblex"/></r></p></e>
 <e><p><l>sía<s n="vblex"/></l><r>filter<s n="vblex"/></r></p></e>
 <e><p><l>síkka<s n="vblex"/><s n=":0"/></l><r>let<b/>out<s n="vblex"/></r></p></e>
 <e><p><l>síkka<s n="vblex"/><s n=":1"/></l><r>make<b/>longer<s n="vblex"/></r></p></e>
@@ -7869,11 +7871,11 @@
 <e><p><l>töfra<s n="vblex"/><s n=":1"/></l><r>enchant<s n="vblex"/></r></p></e>
 <e><p><l>töfra<s n="vblex"/><s n=":2"/></l><r>conjure<s n="vblex"/></r></p></e>
 <e><p><l>tölusetja<s n="vblex"/></l><r>number<s n="vblex"/></r></p></e>
-<e><p><l>tölvuvæða<s n="vblex"/></l><r>computerize<s n="vblex"/></r></p></e>
+<e><p><l>tölvuvæða<s n="vblex"/></l><r>computerise<s n="vblex"/></r></p></e>
 <e><p><l>umbera<s n="vblex"/></l><r>tolerate<s n="vblex"/></r></p></e>
 <e><p><l>umbreyta<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
 <e><p><l>umbuna<s n="vblex"/></l><r>reward<s n="vblex"/></r></p></e>
-<e><p><l>umbylta<s n="vblex"/></l><r>revolutionize<s n="vblex"/></r></p></e>
+<e><p><l>umbylta<s n="vblex"/></l><r>revolutionise<s n="vblex"/></r></p></e>
 <e><p><l>umgangast<s n="vblex"/></l><r>associate<b/>with<s n="vblex"/></r></p></e>
 <e><p><l>umkringja<s n="vblex"/></l><r>surround<s n="vblex"/></r></p></e>
 <e><p><l>ummynda<s n="vblex"/></l><r>transform<s n="vblex"/></r></p></e>
@@ -7966,7 +7968,7 @@
 <e><p><l>véfengja<s n="vblex"/><s n=":0"/></l><r>dispute<s n="vblex"/></r></p></e> <!-- (a claim, etc) -->
 <e><p><l>véfengja<s n="vblex"/><s n=":1"/></l><r>cast<b/>doubt<b/>on<s n="vblex"/></r></p></e>
 <e><p><l>vélrita<s n="vblex"/></l><r>type<s n="vblex"/></r></p></e>
-<e><p><l>vélvæða<s n="vblex"/></l><r>mechanize<s n="vblex"/></r></p></e>
+<e><p><l>vélvæða<s n="vblex"/></l><r>mechanise<s n="vblex"/></r></p></e>
 <e><p><l>vígja<s n="vblex"/></l><r>consecrate<s n="vblex"/></r></p></e>
 <e><p><l>víkka<s n="vblex"/></l><r>widen<s n="vblex"/></r></p></e>
 <e><p><l>víta<s n="vblex"/></l><r>reprimand<s n="vblex"/></r></p></e>
@@ -8092,7 +8094,7 @@
 <e><p><l>þjá<s n="vblex"/></l><r>plague<s n="vblex"/></r></p></e>
 <e><p><l>þjófkenna<s n="vblex"/></l><r>accuse<b/>of<b/>theft<s n="vblex"/></r></p></e> <!-- (sby) -->
 <e><p><l>þjóra<s n="vblex"/></l><r>drink<s n="vblex"/></r></p></e> <!-- alcohol, usually beer -->
-<e><p><l>þjóðnýta<s n="vblex"/></l><r>nationalize<s n="vblex"/></r></p></e>
+<e><p><l>þjóðnýta<s n="vblex"/></l><r>nationalise<s n="vblex"/></r></p></e>
 <e><p><l>þjösnast<s n="vblex"/></l><r>go<b/>at<s n="vblex"/></r></p></e>
 <e><p><l>þoka<s n="vblex"/></l><r>move<b/>slowly<s n="vblex"/></r></p></e>
 <e><p><l>þrasa<s n="vblex"/></l><r>squabble<s n="vblex"/></r></p></e>
@@ -14055,7 +14057,7 @@
     <e><p><l>afvegaleiða<s n="vblex"/></l><r>mislead<s n="vblex"/></r></p></e>
     <e><p><l>afþakka<s n="vblex"/></l><r>decline<s n="vblex"/></r></p></e>
     <e><p><l>aga<s n="vblex"/></l><r>discipline<s n="vblex"/></r></p></e>
-    <e><p><l>alhæfa<s n="vblex"/></l><r>generalize<s n="vblex"/></r></p></e>
+    <e><p><l>alhæfa<s n="vblex"/></l><r>generalise<s n="vblex"/></r></p></e>
     <e><p><l>andmæla<s n="vblex"/><s n=":0"/></l><r>contradict<s n="vblex"/></r></p></e>
     <e><p><l>andmæla<s n="vblex"/><s n=":1"/></l><r>protest<s n="vblex"/></r></p></e> <!-- (against sth) -->
     <e><p><l>anga<s n="vblex"/><s n=":0"/></l><r>fragrance<s n="vblex"/></r></p></e>
@@ -14199,7 +14201,7 @@
     <e><p><l>dvína<s n="vblex"/></l><r>abate<s n="vblex"/></r></p></e>
     <e><p><l>dylgja<s n="vblex"/></l><r>insinuate<s n="vblex"/></r></p></e>
     <e><p><l>dynja<s n="vblex"/></l><r>boom<s n="vblex"/></r></p></e>
-    <e><p><l>dáleiða<s n="vblex"/></l><r>hypnotize<s n="vblex"/></r></p></e>
+    <e><p><l>dáleiða<s n="vblex"/></l><r>hypnotise<s n="vblex"/></r></p></e>
     <e><p><l>dásama<s n="vblex"/></l><r>glorify<s n="vblex"/></r></p></e>
     <e><p><l>dæla<s n="vblex"/><s n=":0"/></l><r>pump<s n="vblex"/></r></p></e> <!-- (up) -->
     <e><p><l>dæla<s n="vblex"/><s n=":1"/></l><r>inject<s n="vblex"/></r></p></e>
@@ -14352,7 +14354,7 @@
     <e><p><l>gelta<s n="vblex"/></l><r>bark<s n="vblex"/></r></p></e>
     <e><p><l>gerbreyta<s n="vblex"/></l><r>change<b/>completely<s n="vblex"/></r></p></e>
     <e><p><l>gereyða<s n="vblex"/></l><r>wipe<b/>out<s n="vblex"/></r></p></e>
-    <e><p><l>gerilsneyða<s n="vblex"/></l><r>pasteurize<s n="vblex"/></r></p></e>
+    <e><p><l>gerilsneyða<s n="vblex"/></l><r>pasteurise<s n="vblex"/></r></p></e>
     <e><p><l>gerjast<s n="vblex"/></l><r>ferment<s n="vblex"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n=":0"/></l><r>be<b/>able<b/>to<s n="vblex"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n=":1"/></l><r>achieve<s n="vblex"/></r></p></e>
@@ -14397,7 +14399,7 @@
     <e><p><l>gnísta<s n="vblex"/></l><r>gnash<s n="vblex"/></r></p></e>
     <e><p><l>gogga<s n="vblex"/></l><r>peck<s n="vblex"/></r></p></e>
     <e><p><l>gorta<s n="vblex"/></l><r>brag<s n="vblex"/></r></p></e>
-    <e><p><l>grandskoða<s n="vblex"/></l><r>scrutinize<s n="vblex"/></r></p></e>
+    <e><p><l>grandskoða<s n="vblex"/></l><r>scrutinise<s n="vblex"/></r></p></e>
     <e><p><l>greftra<s n="vblex"/></l><r>bury<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/></l><r>pay<s n="vblex"/></r></p></e>
     <e><p><l>greiða<s n="vblex"/><s n=":1"/></l><r>comb<s n="vblex"/></r></p></e>
@@ -14429,7 +14431,7 @@
     <e><p><l>góla<s n="vblex"/><s n=":1"/></l><r>yell<s n="vblex"/></r></p></e>
     <e><p><l>göfga<s n="vblex"/></l><r>ennoble<s n="vblex"/></r></p></e>
     <e><p><l>gúlpa<s n="vblex"/></l><r>gulp<s n="vblex"/></r></p></e>
-    <e><p><l>hagnýta<s n="vblex"/></l><r>utilize<s n="vblex"/></r></p></e>
+    <e><p><l>hagnýta<s n="vblex"/></l><r>utilise<s n="vblex"/></r></p></e>
     <e><p><l>hakka<s n="vblex"/></l><r>grind<s n="vblex"/></r></p></e>
     <e><p><l>hallmæla<s n="vblex"/></l><r>denigrate<s n="vblex"/></r></p></e>
     <e><p><l>hamfletta<s n="vblex"/></l><r>skin<s n="vblex"/></r></p></e> <!-- removing the skin (of a bird) -->
@@ -14486,7 +14488,7 @@
     <e><p><l>hlýna<s n="vblex"/></l><r>get<b/>warmer<s n="vblex"/></r></p></e>
     <e><p><l>hlýðnast<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
     <e><p><l>hneppa<s n="vblex"/></l><r>button<s n="vblex"/></r></p></e>
-    <e><p><l>hneyksla<s n="vblex"/></l><r>scandalize<s n="vblex"/></r></p></e>
+    <e><p><l>hneyksla<s n="vblex"/></l><r>scandalise<s n="vblex"/></r></p></e>
     <e><p><l>hnigna<s n="vblex"/></l><r>decline<s n="vblex"/></r></p></e>
     <e><p><l>hnjóta<s n="vblex"/></l><r>stumble<s n="vblex"/></r></p></e>
     <e><p><l>hnoða<s n="vblex"/><s n=":0"/></l><r>knead<s n="vblex"/></r></p></e>
@@ -14572,9 +14574,9 @@
     <e><p><l>innsigla<s n="vblex"/></l><r>seal<s n="vblex"/></r></p></e>
     <e><p><l>iða<s n="vblex"/><s n=":0"/></l><r>squirm<s n="vblex"/></r></p></e>
     <e><p><l>iða<s n="vblex"/><s n=":1"/></l><r>move<b/>about<b/>restlessly<s n="vblex"/></r></p></e>
-    <e><p><l>iðnvæða<s n="vblex"/></l><r>industrialize<s n="vblex"/></r></p></e>
+    <e><p><l>iðnvæða<s n="vblex"/></l><r>industrialise<s n="vblex"/></r></p></e>
     <e><p><l>jafna<s n="vblex"/><s n=":0"/></l><r>level<s n="vblex"/></r></p></e>
-    <e><p><l>jafna<s n="vblex"/><s n=":1"/></l><r>equalize<s n="vblex"/></r></p></e>
+    <e><p><l>jafna<s n="vblex"/><s n=":1"/></l><r>equalise<s n="vblex"/></r></p></e>
     <e><p><l>jafna<s n="vblex"/><s n=":2"/></l><r>compare<s n="vblex"/></r></p></e>
     <e><p><l>jafnhatta<s n="vblex"/></l><r>lift<b/>over<b/>one's<b/>head<s n="vblex"/></r></p></e>
     <e><p><l>jarma<s n="vblex"/><s n=":0"/></l><r>bleat<s n="vblex"/></r></p></e>
@@ -14726,7 +14728,7 @@
     <e><p><l>ljósmynda<s n="vblex"/></l><r>photograph<s n="vblex"/></r></p></e>
     <e><p><l>ljósrita<s n="vblex"/></l><r>photocopy<s n="vblex"/></r></p></e>
     <e><p><l>lofta<s n="vblex"/></l><r>raise<s n="vblex"/></r></p></e>
-    <e><p><l>lofttæma<s n="vblex"/></l><r>vacuumize<s n="vblex"/></r></p></e>
+    <e><p><l>lofttæma<s n="vblex"/></l><r>vacuumise<s n="vblex"/></r></p></e>
     <e><p><l>logsjóða<s n="vblex"/></l><r>weld<s n="vblex"/></r></p></e>
     <e><p><l>loka<s n="vblex"/></l><r>close<s n="vblex"/></r></p></e>
     <e><p><l>lokka<s n="vblex"/></l><r>entice<s n="vblex"/></r></p></e>
@@ -14748,7 +14750,7 @@
     <e><p><l>lóga<s n="vblex"/><s n=":1"/></l><r>slaughter<s n="vblex"/></r></p></e>
     <e><p><l>lóða<s n="vblex"/><s n=":0"/></l><r>solder<s n="vblex"/></r></p></e>
     <e><p><l>lóða<s n="vblex"/><s n=":1"/></l><r>sound<s n="vblex"/></r></p></e> <!-- measure depth of water -->
-    <e><p><l>löggilda<s n="vblex"/></l><r>legalize<s n="vblex"/></r></p></e>
+    <e><p><l>löggilda<s n="vblex"/></l><r>legalise<s n="vblex"/></r></p></e>
     <e><p><l>lögleiða<s n="vblex"/></l><r>enact<s n="vblex"/></r></p></e> <!-- (a law, etc) -->
     <e><p><l>lögsækja<s n="vblex"/></l><r>sue<s n="vblex"/></r></p></e>
     <e><p><l>lötra<s n="vblex"/></l><r>saunter<s n="vblex"/></r></p></e>
@@ -14948,7 +14950,7 @@
     <e><p><l>ritstýra<s n="vblex"/></l><r>edit<s n="vblex"/></r></p></e>
     <e><p><l>riða<s n="vblex"/><s n=":0"/></l><r>sway<s n="vblex"/></r></p></e>
     <e><p><l>riða<s n="vblex"/><s n=":1"/></l><r>tremble<s n="vblex"/></r></p></e>
-    <e><p><l>riðla<s n="vblex"/></l><r>disorganize<s n="vblex"/></r></p></e>
+    <e><p><l>riðla<s n="vblex"/></l><r>disorganise<s n="vblex"/></r></p></e>
     <e><p><l>rjátla<s n="vblex"/></l><r>totter<s n="vblex"/></r></p></e>
     <e><p><l>rjóða<s n="vblex"/></l><r>redden<s n="vblex"/></r></p></e>
     <e><p><l>rofna<s n="vblex"/></l><r>be<b/>broken<s n="vblex"/></r></p></e>
@@ -14998,7 +15000,7 @@
     <e><p><l>samrýma<s n="vblex"/></l><r>reconcile<s n="vblex"/></r></p></e>
     <e><p><l>samstilla<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
     <e><p><l>samsvara<s n="vblex"/><s n=":0"/></l><r>proportion<s n="vblex"/></r></p></e>
-    <e><p><l>samsvara<s n="vblex"/><s n=":1"/></l><r>harmonize<s n="vblex"/></r></p></e>
+    <e><p><l>samsvara<s n="vblex"/><s n=":1"/></l><r>harmonise<s n="vblex"/></r></p></e>
     <e><p><l>samþætta<s n="vblex"/></l><r>integrate<s n="vblex"/></r></p></e>
     <e><p><l>sandblása<s n="vblex"/></l><r>sandblast<s n="vblex"/></r></p></e>
     <e><p><l>sannprófa<s n="vblex"/></l><r>verify<s n="vblex"/></r></p></e>
@@ -15007,7 +15009,7 @@
     <e><p><l>saxa<s n="vblex"/></l><r>chop<s n="vblex"/></r></p></e>
     <e><p><l>sefa<s n="vblex"/></l><r>calm<s n="vblex"/></r></p></e>
     <e><p><l>sefja<s n="vblex"/></l><r>influence<b/>by<b/>suggestion<s n="vblex"/></r></p></e>
-    <e><p><l>segulmagna<s n="vblex"/></l><r>magnetize<s n="vblex"/></r></p></e>
+    <e><p><l>segulmagna<s n="vblex"/></l><r>magnetise<s n="vblex"/></r></p></e>
     <e><p><l>seilast<s n="vblex"/></l><r>stretch<g><b/>out</g><s n="vblex"/></r></p></e>
     <e><p><l>seinka<s n="vblex"/><s n=":0"/></l><r>delay<s n="vblex"/></r></p></e>
     <e><p><l>seinka<s n="vblex"/><s n=":1"/></l><r>slow<g><b/>down</g><s n="vblex"/></r></p></e>
@@ -15217,11 +15219,10 @@
     <e><p><l>staðfesta<s n="vblex"/><s n=":0"/></l><r>confirm<s n="vblex"/></r></p></e>
     <e><p><l>staðfesta<s n="vblex"/><s n=":1"/></l><r>certify<s n="vblex"/></r></p></e>
     <e><p><l>staðfesta<s n="vblex"/><s n=":2"/></l><r>ratify<s n="vblex"/></r></p></e>
-    <e><p><l>staðfæra<s n="vblex"/><s n=":0"/></l><r>localize<s n="vblex"/></r></p></e>
-    <e><p><l>staðfæra<s n="vblex"/><s n=":1"/></l><r>adapt<b/>sth<b/>to<b/>a<b/>locality<s n="vblex"/></r></p></e>
+    <e><p><l>staðfæra<s n="vblex"/></l><r>localise<s n="vblex"/></r></p></e>
     <e><p><l>staðgreiða<s n="vblex"/></l><r>pay<b/>cash<s n="vblex"/></r></p></e>
     <e><p><l>staðhæfa<s n="vblex"/></l><r>state<s n="vblex"/></r></p></e>
-    <e><p><l>staðla<s n="vblex"/></l><r>standardize<s n="vblex"/></r></p></e>
+    <e><p><l>staðla<s n="vblex"/></l><r>standardise<s n="vblex"/></r></p></e>
     <e><p><l>staðna<s n="vblex"/></l><r>stagnate<s n="vblex"/></r></p></e>
     <e><p><l>staðnæmast<s n="vblex"/></l><r>stop<s n="vblex"/></r></p></e>
     <e><p><l>staðsetja<s n="vblex"/><s n=":0"/></l><r>place<s n="vblex"/></r></p></e>
@@ -15289,7 +15290,7 @@
     <e><p><l>sviðsetja<s n="vblex"/></l><r>stage<s n="vblex"/></r></p></e>
     <e><p><l>svolgra<s n="vblex"/></l><r>gulp<b/>down<s n="vblex"/></r></p></e>
     <e><p><l>svæfa<s n="vblex"/><s n=":0"/></l><r>lull<b/>to<b/>sleep<s n="vblex"/></r></p></e>
-    <e><p><l>svæfa<s n="vblex"/><s n=":1"/></l><r>anaesthetize<s n="vblex"/></r></p></e>
+    <e><p><l>svæfa<s n="vblex"/><s n=":1"/></l><r>anaesthetise<s n="vblex"/></r></p></e>
     <e><p><l>svæfa<s n="vblex"/><s n=":2"/></l><r>hush<b/>up<s n="vblex"/></r></p></e>
     <e><p><l>svæla<s n="vblex"/><s n=":0"/></l><r>choke<b/>with<b/>smoke<s n="vblex"/></r></p></e>
     <e><p><l>svæla<s n="vblex"/><s n=":1"/></l><r>smoke<b/>out<s n="vblex"/></r></p></e>
@@ -15306,7 +15307,7 @@
     <e><p><l>sárlanga<s n="vblex"/></l><r>desire<b/>strongly<s n="vblex"/></r></p></e>
     <e><p><l>sæða<s n="vblex"/><s n=":0"/></l><r>sow<s n="vblex"/></r></p></e>
     <e><p><l>sæða<s n="vblex"/><s n=":1"/></l><r>inseminate<s n="vblex"/></r></p></e>
-    <e><p><l>sérhæfa<s n="vblex"/></l><r>specialize<s n="vblex"/></r></p></e>
+    <e><p><l>sérhæfa<s n="vblex"/></l><r>specialise<s n="vblex"/></r></p></e>
     <e><p><l>sía<s n="vblex"/></l><r>filter<s n="vblex"/></r></p></e>
     <e><p><l>síkka<s n="vblex"/><s n=":0"/></l><r>let<b/>out<s n="vblex"/></r></p></e>
     <e><p><l>síkka<s n="vblex"/><s n=":1"/></l><r>make<b/>longer<s n="vblex"/></r></p></e>
@@ -15407,11 +15408,11 @@
     <e><p><l>töfra<s n="vblex"/><s n=":1"/></l><r>enchant<s n="vblex"/></r></p></e>
     <e><p><l>töfra<s n="vblex"/><s n=":2"/></l><r>conjure<s n="vblex"/></r></p></e>
     <e><p><l>tölusetja<s n="vblex"/></l><r>number<s n="vblex"/></r></p></e>
-    <e><p><l>tölvuvæða<s n="vblex"/></l><r>computerize<s n="vblex"/></r></p></e>
+    <e><p><l>tölvuvæða<s n="vblex"/></l><r>computerise<s n="vblex"/></r></p></e>
     <e><p><l>umbera<s n="vblex"/></l><r>tolerate<s n="vblex"/></r></p></e>
     <e><p><l>umbreyta<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>umbuna<s n="vblex"/></l><r>reward<s n="vblex"/></r></p></e>
-    <e><p><l>umbylta<s n="vblex"/></l><r>revolutionize<s n="vblex"/></r></p></e>
+    <e><p><l>umbylta<s n="vblex"/></l><r>revolutionise<s n="vblex"/></r></p></e>
     <e><p><l>umgangast<s n="vblex"/></l><r>associate<b/>with<s n="vblex"/></r></p></e>
     <e><p><l>umkringja<s n="vblex"/></l><r>surround<s n="vblex"/></r></p></e>
     <e><p><l>ummynda<s n="vblex"/></l><r>transform<s n="vblex"/></r></p></e>
@@ -15504,7 +15505,7 @@
     <e><p><l>véfengja<s n="vblex"/><s n=":0"/></l><r>dispute<s n="vblex"/></r></p></e> <!-- (a claim, etc) -->
     <e><p><l>véfengja<s n="vblex"/><s n=":1"/></l><r>cast<b/>doubt<b/>on<s n="vblex"/></r></p></e>
     <e><p><l>vélrita<s n="vblex"/></l><r>type<s n="vblex"/></r></p></e>
-    <e><p><l>vélvæða<s n="vblex"/></l><r>mechanize<s n="vblex"/></r></p></e>
+    <e><p><l>vélvæða<s n="vblex"/></l><r>mechanise<s n="vblex"/></r></p></e>
     <e><p><l>vígja<s n="vblex"/></l><r>consecrate<s n="vblex"/></r></p></e>
     <e><p><l>víkka<s n="vblex"/></l><r>widen<s n="vblex"/></r></p></e>
     <e><p><l>víta<s n="vblex"/></l><r>reprimand<s n="vblex"/></r></p></e>
@@ -15630,7 +15631,7 @@
     <e><p><l>þjá<s n="vblex"/></l><r>torment<s n="vblex"/></r></p></e>
     <e><p><l>þjófkenna<s n="vblex"/></l><r>accuse<b/>of<b/>theft<s n="vblex"/></r></p></e> <!-- (sby) -->
     <e><p><l>þjóra<s n="vblex"/></l><r>drink<s n="vblex"/></r></p></e> <!-- alcohol, usually beer -->
-    <e><p><l>þjóðnýta<s n="vblex"/></l><r>nationalize<s n="vblex"/></r></p></e>
+    <e><p><l>þjóðnýta<s n="vblex"/></l><r>nationalise<s n="vblex"/></r></p></e>
     <e><p><l>þjösnast<s n="vblex"/></l><r>go<b/>at<s n="vblex"/></r></p></e>
     <e><p><l>þoka<s n="vblex"/></l><r>move<b/>slowly<s n="vblex"/></r></p></e>
     <e><p><l>þrasa<s n="vblex"/></l><r>squabble<s n="vblex"/></r></p></e>
@@ -25641,7 +25642,7 @@
     <e><p><l>tollfrjáls<s n="adj"/></l><r>duty-free<s n="adj"/></r></p></e>
     <e><p><l>tollskyldur<s n="adj"/></l><r>dutiable<s n="adj"/></r></p></e>
     <e><p><l>torfær<s n="adj"/></l><r>difficult<b/>to<b/>negotiate<s n="adj"/></r></p></e> <!-- (of a road, path, etc) -->
-    <e><p><l>torkennilegur<s n="adj"/></l><r>difficult<b/>to<b/>recognize<s n="adj"/></r></p></e>
+    <e><p><l>torkennilegur<s n="adj"/></l><r>difficult<b/>to<b/>recognise<s n="adj"/></r></p></e>
     <e><p><l>tormeltur<s n="adj"/></l><r>difficult<b/>to<b/>digest<s n="adj"/></r></p></e>
     <e><p><l>tornæmur<s n="adj"/></l><r>dull<s n="adj"/></r></p></e>
     <e><p><l>torráðinn<s n="adj"/></l><r>difficult<b/>to<b/>work<b/>out<s n="adj"/></r></p></e>

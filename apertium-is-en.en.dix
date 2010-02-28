@@ -32057,6 +32057,9 @@
     <e lm="polite"><i>polite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="expensive__adj"/></e>
     <e lm="opposite"><i>opposite</i><par n="maybe__adv"/></e>
+    <e lm="clockwise"><i>clockwise</i><par n="maybe__adv"/></e>
+    <e lm="freehand"><i>freehand</i><par n="maybe__adv"/></e>
+    <e lm="bareback"><i>bareback</i><par n="maybe__adv"/></e>
     <e lm="in full"><i>in<b/>full</i><par n="maybe__adv"/></e>
     <e lm="towards the end"><i>towards<b/>the<b/>end</i><par n="maybe__adv"/></e>
     <e lm="in detail"><i>in<b/>detail</i><par n="maybe__adv"/></e>
@@ -34427,7 +34430,6 @@
     <e lm="no sooner"><i>no<b/>sooner</i><par n="maybe__adv"/></e>
     <e lm="non"><i>non</i><par n="maybe__adv"/></e>
     <e lm="normally"><i>normally</i><par n="maybe__adv"/></e>
-    <e lm="north"><i>north</i><par n="maybe__adv"/></e>
     <e lm="northeast"><i>northeast</i><par n="maybe__adv"/></e>
     <e lm="northwest"><i>northwest</i><par n="maybe__adv"/></e>
     <e lm="not"><i>not</i><par n="maybe__adv"/></e>
@@ -34627,7 +34629,14 @@
     <e lm="sometimes"><i>sometimes</i><par n="maybe__adv"/></e>
     <e lm="somewhat"><i>somewhat</i><par n="maybe__adv"/></e>
     <e lm="soon"><i>soon</i><par n="maybe__adv"/></e>
+    <e lm="downright"><i>downright</i><par n="maybe__adv"/></e>
+    <e lm="by"><i>by</i><par n="maybe__adv"/></e>
+    <e lm="free"><i>free</i><par n="maybe__adv"/></e>
+    <e lm="overboard"><i>overboard</i><par n="maybe__adv"/></e>
     <e lm="sooner"><i>sooner</i><par n="maybe__adv"/></e>
+    <e lm="west"><i>west</i><par n="maybe__adv"/></e>
+    <e lm="east"><i>east</i><par n="maybe__adv"/></e>
+    <e lm="north"><i>north</i><par n="maybe__adv"/></e>
     <e lm="south"><i>south</i><par n="maybe__adv"/></e>
     <e lm="southeast"><i>southeast</i><par n="maybe__adv"/></e>
     <e lm="southwest"><i>southwest</i><par n="maybe__adv"/></e>
@@ -34755,7 +34764,6 @@
     <e lm="week in week out"><i>week<b/>in<b/>week<b/>out</i><par n="maybe__adv"/></e>
     <e lm="weekly"><i>weekly</i><par n="maybe__adv"/></e>
     <e lm="well"><i>well</i><par n="maybe__adv"/></e>
-    <e lm="west"><i>west</i><par n="maybe__adv"/></e>
     <e lm="whatever happens"><i>whatever<b/>happens</i><par n="maybe__adv"/></e>
     <e lm="when"><i>when</i><par n="where__adv"/></e>
     <e lm="whence"><i>whence</i><par n="where__adv"/></e>
