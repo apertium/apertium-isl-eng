@@ -31745,6 +31745,7 @@
     <e lm="unexpected"><i>unexpected</i><par n="expensive__adj"/></e>
     <e lm="unfair"><i>unfair</i><par n="expensive__adj"/></e>
     <e lm="unfinished"><i>unfinished</i><par n="expensive__adj"/></e>
+    <e lm="finished"><i>finished</i><par n="expensive__adj"/></e>
     <e lm="unforgivable"><i>unforgivable</i><par n="expensive__adj"/></e>
     <e lm="dissatisfied"><i>dissatisfied</i><par n="expensive__adj"/></e>
     <e lm="unhappy"><i>unhapp</i><par n="happ/y__adj"/></e>

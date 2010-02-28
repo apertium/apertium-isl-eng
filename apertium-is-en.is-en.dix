@@ -1433,7 +1433,8 @@
     <e><p><l>logandi<s n="adj"/></l><r>aflame<s n="adj"/></r></p></e>
     <e><p><l>lokaður<s n="adj"/></l><r>closed<s n="adj"/></r></p></e>
 <!--<p><l>lokinn<s n="adj"/></l><r>done<s n="adj"/></r></p></e>-->
-    <e><p><l>lokinn<s n="adj"/></l><r>over<s n="adj"/></r></p></e>
+<!--<p><l>lokinn<s n="adj"/></l><r>over<s n="adj"/></r></p></e>-->
+    <e><p><l>lokinn<s n="adj"/></l><r>finished<s n="adj"/></r></p></e>
     <e><p><l>lágreistur<s n="adj"/></l><r>low-rise<s n="adj"/></r></p></e>
 <!--<p><l>lágreistur<s n="adj"/></l><r>low<s n="adj"/></r></p></e>-->
     <e><p><l>lágur<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
