@@ -19922,8 +19922,8 @@
     <e><p><l>mysa<s n="n"/><s n="f"/></l><r>whey<s n="n"/></r></p></e>
     <e><p><l>mysingur<s n="n"/><s n="m"/></l><r>soft<b/>brown<b/>cheese<s n="n"/></r></p></e>
     <e><p><l>mysuostur<s n="n"/><s n="m"/></l><r>whey<b/>cheese<s n="n"/></r></p></e>
-    <e><p><l>mágkona<s n="n"/><s n="f"/></l><r>sister-in-law<s n="n"/></r></p></e>
-    <e><p><l>mágur<s n="n"/><s n="m"/></l><r>brother-in-law<s n="n"/></r></p></e>
+    <e><p><l>mágkona<s n="n"/><s n="f"/></l><r>sister<g>-in-law</g><s n="n"/></r></p></e>
+    <e><p><l>mágur<s n="n"/><s n="m"/></l><r>brother<g>-in-law</g><s n="n"/></r></p></e>
     <e><p><l>máladeild<s n="n"/><s n="f"/></l><r>language<b/>department<s n="n"/></r></p></e> <!-- (in a secondary school) -->
     <e><p><l>málaliði<s n="n"/><s n="m"/></l><r>mercenary<s n="n"/></r></p></e>
     <e><p><l>málamiðlun<s n="n"/><s n="f"/></l><r>compromise<s n="n"/></r></p></e>
@@ -22128,7 +22128,8 @@
     <e><p><l>svigrúm<s n="n"/><s n="nt"/></l><r>room<s n="n"/></r></p></e>
     <e><p><l>svikahrappur<s n="n"/><s n="m"/></l><r>swindler<s n="n"/></r></p></e>
     <e><p><l>svikari<s n="n"/><s n="m"/></l><r>traitor<s n="n"/></r></p></e>
-    <e><p><l>svili<s n="n"/><s n="m"/></l><r>one's<b/>wife's<b/>sister's<b/>husband<s n="n"/></r></p></e>
+    <e><p><l>svili<s n="n"/><s n="m"/></l><r>brother<g>-in-law</g><s n="n"/></r></p></e>
+    <!--<e><p><l>svili<s n="n"/><s n="m"/></l><r>one's<b/>wife's<b/>sister's<b/>husband<s n="n"/></r></p></e>-->
     <e><p><l>svimi<s n="n"/><s n="m"/></l><r>dizziness<s n="n"/></r></p></e>
     <e c="0"><p><l>svindl<s n="n"/><s n="nt"/></l><r>cheating<s n="n"/></r></p></e>
     <e slr="1"><p><l>svindl<s n="n"/><s n="nt"/></l><r>fraud<s n="n"/></r></p></e>
