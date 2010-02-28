@@ -9982,7 +9982,7 @@
     <e><p><l>hvítlaukspressa<s n="n"/><s n="f"/></l><r>garlic<b/>press<s n="n"/></r></p></e>
     <e><p><l>hvítlaukur<s n="n"/><s n="m"/></l><r>garlic<s n="n"/></r></p></e>
     <e><p><l>hvítvín<s n="n"/><s n="nt"/></l><r>white<b/>wine<s n="n"/></r></p></e>
-    <e><p><l>hvönn<s n="n"/><s n="f"/></l><r>angelica<s n="n"/></r></p></e> <!-- (genus Angelica) -->
+    <e><p><l>hvönn<s n="n"/><s n="f"/></l><r>angelica<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- (genus Angelica) -->
     <e><p><l>háaloft<s n="n"/><s n="nt"/></l><r>attic<s n="n"/></r></p></e>
     <!--<e><p><l>háaloft<s n="n"/><s n="nt"/></l><r>garret<s n="n"/></r></p></e>-->
     <!--<e><p><l>háaloft<s n="n"/><s n="nt"/></l><r>loft<s n="n"/></r></p></e>-->
@@ -10004,8 +10004,8 @@
     <!--<e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>haircut<s n="n"/></r></p></e>-->
     <!--<e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>hairdo<s n="n"/></r></p></e>-->
     <e><p><l>hárgreiðsla<s n="n"/><s n="f"/></l><r>hairstyle<s n="n"/></r></p></e>
-    <e><p><l>hártogun<s n="n"/><s n="f"/></l><r>hair-splitting<s n="n"/></r></p></e>
-    <!--<e><p><l>hártogun<s n="n"/><s n="f"/></l><r>quibble<s n="n"/></r></p></e>-->
+    <!--<e><p><l>hártogun<s n="n"/><s n="f"/></l><r>hair-splitting<s n="n"/></r></p></e>-->
+    <e><p><l>hártogun<s n="n"/><s n="f"/></l><r>quibble<s n="n"/></r></p></e>
     <e><p><l>háskóli<s n="n"/><s n="m"/></l><r>university<s n="n"/></r></p></e>
     <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>appearance<s n="n"/></r></p></e>-->
     <!--<e><p><l>háttur<s n="n"/><s n="m"/></l><r>custom<s n="n"/></r></p></e>-->
@@ -12303,7 +12303,7 @@
     <e><p><l>typpi<s n="n"/><s n="nt"/></l><r>penis<s n="n"/></r></p></e>
     <e><p><l>tyrðill<s n="n"/><s n="m"/></l><r>turd<s n="n"/></r></p></e>
     <e><p><l>tá<s n="n"/><s n="f"/></l><r>toe<s n="n"/></r></p></e>
-    <e><p><l>tág<s n="n"/><s n="f"/></l><r>wicker<s n="n"/></r></p></e>
+    <!--<e><p><l>tág<s n="n"/><s n="f"/></l><r>wicker<s n="n"/></r></p></e>-->
     <!--<e><p><l>tág<s n="n"/><s n="f"/></l><r>willow<s n="n"/></r></p></e>-->
     <e><p><l>tákn<s n="n"/><s n="nt"/></l><r>symbol<s n="n"/></r></p></e>
     <e><p><l>táknmál<s n="n"/><s n="nt"/></l><r>sign<b/>language<s n="n"/></r></p></e>
@@ -13763,7 +13763,6 @@
     <e><p><l>smíð<s n="n"/><s n="f"/></l><r>construction<s n="n"/></r></p></e>    
     <e><p><l>snerting<s n="n"/><s n="f"/></l><r>touch<s n="n"/></r></p></e>    
     <e><p><l>sökk<s n="n"/><s n="nt"/></l><r>sink<s n="n"/></r></p></e>    
-    <e><p><l>sóló<s n="n"/><s n="f"/></l><r>colo<s n="n"/></r></p></e>    
     <e><p><l>spönn<s n="n"/><s n="f"/></l><r>span<s n="n"/></r></p></e>    
     <e><p><l>stopp<s n="n"/><s n="nt"/></l><r>stop<s n="n"/></r></p></e>    
     <e><p><l>suðaustur<s n="n"/><s n="nt"/></l><r>south<b/>east<s n="n"/></r></p></e>    
@@ -15752,7 +15751,6 @@
     <e><p><l>Lettland<s n="n"/><s n="nt"/></l><r>Latvia<s n="n"/></r></p></e>
     <e><p><l>Miðjarðarhaf<s n="n"/><s n="nt"/></l><r>Mediterranean<s n="n"/></r></p></e> <!-- (Sea) -->
     <e><p><l>Norðmaður<s n="n"/><s n="m"/></l><r>Norwegian<s n="n"/></r></p></e>
-    <e><p><l>Perú<s n="n"/><s n="nt"/></l><r>Peru<s n="n"/></r></p></e>
     <e><p><l>Pólverji<s n="n"/><s n="m"/></l><r>Pole<s n="n"/></r></p></e>
     <e><p><l>Rómverji<s n="n"/><s n="m"/></l><r>Roman<s n="n"/></r></p></e>
     <e><p><l>Rússi<s n="n"/><s n="m"/></l><r>Russian<s n="n"/></r></p></e>
@@ -26811,6 +26809,7 @@
     <e><p><l>karlafræði<s n="n"/><s n="f"/></l><r>man<b/>studies<s n="n"/></r></p></e>
     <e><p><l>hinseginfræði<s n="n"/><s n="f"/></l><r>gay<b/>studies<s n="n"/></r></p></e>
 
+    <e><p><l>Perú<s n="np"/><s n="top"/><s n="nt"/></l><r>Peru<s n="np"/><s n="top"/></r></p></e>
   </section>
 </dictionary>
 

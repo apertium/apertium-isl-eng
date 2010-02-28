@@ -8759,6 +8759,8 @@
     <e lm="birthplace"><i>birthplace</i><par n="house__n"/></e>
     <e lm="namespace"><i>namespace</i><par n="house__n"/></e>
     <e lm="referee"><i>referee</i><par n="house__n"/></e>
+    <e lm="chimney sweep"><i>chimney<b/>sweep</i><par n="house__n"/></e>
+    <e lm="early riser"><i>early<b/>riser</i><par n="house__n"/></e>
     <e lm="proto-language"><i>proto-language</i><par n="house__n"/></e>
     <e lm="stomachache"><i>stomachache</i><par n="house__n"/></e>
     <e lm="zombie"><i>zombie</i><par n="house__n"/></e>
@@ -8915,11 +8917,13 @@
     <e lm="passive"><i>passive</i><par n="house__n"/></e>
     <e lm="flyleaf"><i>flylea</i><par n="wol/f__n"/></e>
     <e lm="elf"><i>el</i><par n="wol/f__n"/></e>
+    <e lm="female elf"><i>female<b/>el</i><par n="wol/f__n"/></e>
     <e lm="smurf"><i>smurf</i><par n="house__n"/></e>
     <e lm="blitzkrieg"><i>blitzkrieg</i><par n="house__n"/></e>
     <e lm="spreading"><i>spreading</i><par n="east__n"/></e>
     <e lm="upbringing"><i>upbringing</i><par n="east__n"/></e>
     <e lm="shaking"><i>shaking</i><par n="east__n"/></e>
+    <e lm="angelica"><i>angelica</i><par n="east__n"/></e>
     <e lm="haymaking"><i>haymaking</i><par n="east__n"/></e>
     <e lm="viking"><i>viking</i><par n="house__n"/></e>
     <e lm="drinking"><i>drinking</i><par n="east__n"/></e>
@@ -8938,6 +8942,7 @@
     <e lm="mug"><i>mug</i><par n="house__n"/></e>
     <e lm="stench"><i>stench</i><par n="access__n"/></e>
     <e lm="chaffinch"><i>chaffinch</i><par n="access__n"/></e>
+    <e lm="varnish"><i>varnish</i><par n="access__n"/></e>
     <e lm="paunch"><i>paunch</i><par n="access__n"/></e>
     <e lm="wristwatch"><i>wristwatch</i><par n="access__n"/></e>
     <e lm="twitch"><i>twitch</i><par n="access__n"/></e>
@@ -9445,6 +9450,7 @@
     <e lm="educational film"><i>educational<b/>film</i><par n="house__n"/></e>
     <e lm="porno film"><i>porno<b/>film</i><par n="house__n"/></e>
     <e lm="class room"><i>class<b/>room</i><par n="house__n"/></e>
+    <e lm="children's room"><i>children's<b/>room</i><par n="house__n"/></e>
     <e lm="technical term"><i>technical<b/>term</i><par n="house__n"/></e>
     <e lm="extreme patriotism"><i>extreme<b/>patriotism</i><par n="house__n"/></e>
     <e lm="LP album"><i>LP<b/>album</i><par n="house__n"/></e>
@@ -9558,6 +9564,8 @@
     <e lm="puppet theater"><i>puppet<b/>theater</i><par n="house__n"/></e>
     <e lm="mineral water"><i>mineral<b/>water</i><par n="house__n"/></e>
     <e lm="cash register"><i>cash<b/>register</i><par n="house__n"/></e>
+    <e lm="canister"><i>canister</i><par n="house__n"/></e>
+    <e lm="gas canister"><i>gas<b/>canister</i><par n="house__n"/></e>
     <e lm="sea monster"><i>sea<b/>monster</i><par n="house__n"/></e>
     <e lm="prime matter"><i>prime<b/>matter</i><par n="house__n"/></e>
     <e lm="reading matter"><i>reading<b/>matter</i><par n="house__n"/></e>
@@ -10222,6 +10230,7 @@
     <e lm="nominee"><i>nominee</i><par n="house__n"/></e>
     <e lm="flake"><i>flake</i><par n="house__n"/></e>
     <e lm="pebble"><i>pebble</i><par n="house__n"/></e>
+    <e lm="quibble"><i>quibble</i><par n="house__n"/></e>
     <e lm="fiddle"><i>fiddle</i><par n="house__n"/></e>
     <e lm="rectangle"><i>rectangle</i><par n="house__n"/></e>
     <e lm="crocodile"><i>crocodile</i><par n="house__n"/></e>
@@ -12372,6 +12381,7 @@
     <e lm="faith"><i>faith</i><par n="house__n"/></e>
     <e lm="fake"><i>fake</i><par n="house__n"/></e>
     <e lm="fall"><i>fall</i><par n="house__n"/></e>
+    <e lm="heavy fall"><i>heavy<b/>fall</i><par n="house__n"/></e>
     <e lm="fallacy"><i>fallac</i><par n="bab/y__n"/></e>
     <e lm="fallow"><i>fallow</i><par n="house__n"/></e>
     <e lm="falsity"><i>falsit</i><par n="bab/y__n"/></e>
