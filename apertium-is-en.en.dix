@@ -892,6 +892,11 @@
       <e r="LR"><p>        <l></l>        <r><s n="n"/><s n="pl"/></r></p></e>
     </pardef>
     
+    <pardef n="VCR__n">
+      <e>      <p>        <l></l>        <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l>s</l>        <r><s n="n"/><s n="acr"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="BBC__n">
       <e>      <p>        <l></l>        <r><s n="n"/><s n="acr"/><s n="sg"/></r></p></e>
     </pardef>
@@ -8741,11 +8746,9 @@
     <!-- Nouns -->
 
     <e lm="panda"><i>panda</i><par n="house__n"/></e>
-    <e lm="PDA"><i>PDA</i><par n="house__n"/></e>
     <e lm="koala"><i>koala</i><par n="house__n"/></e>
     <e lm="schema"><i>schema</i><par n="house__n"/></e>
     <e lm="puma"><i>puma</i><par n="house__n"/></e>
-    <e lm="DNA"><i>DNA</i><par n="house__n"/></e>
     <e lm="aurora"><i>aurora</i><par n="house__n"/></e>
     <e lm="nova"><i>nova</i><par n="house__n"/></e>
     <e lm="pleb"><i>pleb</i><par n="house__n"/></e>
@@ -17926,10 +17929,11 @@
     <e lm="CENS"><i>CENS</i><par n="BBC__n"/></e>
     <e lm="CENTRC"><i>CENTRC</i><par n="BBC__n"/></e>
     <e lm="CENTREX"><i>CENTREX</i><par n="BBC__n"/></e>
-    <e lm="CEO"><i>CEO</i><par n="BBC__n"/></e>
-    <e lm="CEO"><i>CEO</i><par n="BBC__n"/></e>
-    <e lm="CEO"><i>CEO</i><par n="BBC__n"/></e>
-    <e lm="CEO"><i>CEO</i><par n="BBC__n"/></e>
+    <e lm="DNA"><par n="Dd"/><i>NA</i><par n="BBC__n"/></e>
+    <e lm="AIDS"><par n="Aa"/><i>IDS</i><par n="BBC__n"/></e>
+    <e lm="PDA"><par n="Pp"/><i>DA</i><par n="VCR__n"/></e>
+    <e lm="CEO"><par n="Cc"/><i>EO</i><par n="VCR__n"/></e>
+    <e lm="VCR"><par n="Vv"/><i>CR</i><par n="VCR__n"/></e>
     <e lm="CEP"><i>CEP</i><par n="BBC__n"/></e>
     <e lm="CEPAC"><i>CEPAC</i><par n="BBC__n"/></e>
     <e lm="CEPH"><i>CEPH</i><par n="BBC__n"/></e>

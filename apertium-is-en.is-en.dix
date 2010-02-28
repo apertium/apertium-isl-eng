@@ -8263,7 +8263,7 @@
     <e><p><l>alheimur<s n="n"/><s n="m"/></l><r>universe<s n="n"/></r></p></e>
     <e><p><l>aliönd<s n="n"/><s n="f"/></l><r>domestic<b/>duck<s n="n"/></r></p></e>
     <e><p><l>almenningur<s n="n"/><s n="m"/></l><r>public<s n="n"/></r></p></e>
-    <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/></r></p></e>
+    <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>alur<s n="n"/><s n="m"/></l><r>awl<s n="n"/></r></p></e>
     <e><p><l>alvara<s n="n"/><s n="f"/></l><r>serious<b/>business<s n="n"/></r></p></e>
 <!--    <e><p><l>alvara<s n="n"/><s n="f"/></l><r>seriousness<s n="n"/></r></p></e> --> 
@@ -9005,7 +9005,7 @@
     <!--<e><p><l>eyða<s n="v"/><s n="f"/></l><r>obliterate<s n="v"/></r></p></e>--> <!-- verb -->
     <!--<e><p><l>eyða<s n="v"/><s n="f"/></l><r>spend<s n="v"/></r></p></e>--> <!-- verb -->
     <e><p><l>eyðimörk<s n="n"/><s n="f"/></l><r>desert<s n="n"/></r></p></e>
-    <e><p><l>eyðni<s n="n"/><s n="f"/></l><r>AIDS<s n="n"/></r></p></e>
+    <e><p><l>eyðni<s n="n"/><s n="f"/></l><r>AIDS<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>eyðsla<s n="n"/><s n="f"/></l><r>expenditure<s n="n"/></r></p></e>
     <!--<e><p><l>eyðsla<s n="n"/><s n="f"/></l><r>waste<s n="n"/></r></p></e>-->
     <e><p><l>eðli<s n="n"/><s n="nt"/></l><r>essence<s n="n"/></r></p></e>
@@ -9218,7 +9218,7 @@
     <e><p><l>forsjá<s n="n"/><s n="f"/></l><r>foresight<s n="n"/></r></p></e>
     <!--<e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>director<s n="n"/></r></p></e>-->
     <!--<e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>manager<s n="n"/></r></p></e>-->
-    <e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>CEO<s n="n"/></r></p></e>
+    <e><p><l>forstjóri<s n="n"/><s n="m"/></l><r>CEO<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>forsæla<s n="n"/><s n="f"/></l><r>shade<s n="n"/></r></p></e>
     <!--<e><p><l>forsíða<s n="n"/><s n="f"/></l><r>main<b/>page<s n="n"/></r></p></e>-->
     <e><p><l>forsíða<s n="n"/><s n="f"/></l><r>front<b/>page<s n="n"/></r></p></e>
@@ -9773,7 +9773,7 @@
     <!--<e><p><l>hiti<s n="n"/><s n="m"/></l><r>warmth<s n="n"/></r></p></e>-->
     <e><p><l>hiti<s n="n"/><s n="m"/></l><r>heat<s n="n"/></r></p></e>
     <!--<e><p><l>hiti<s n="n"/><s n="m"/></l><r>temperature<s n="n"/></r></p></e>-->
-    <e><p><l>hjarta-lungnalífgun<s n="n"/><s n="f"/></l><r>CPR<s n="n"/></r></p></e> <!-- cardiopulmonary resuscitation -->
+    <e><p><l>hjarta-lungnalífgun<s n="n"/><s n="f"/></l><r>CPR<s n="n"/><s n="acr"/></r></p></e> <!-- cardiopulmonary resuscitation -->
     <e><p><l>hjarta<s n="n"/><s n="nt"/></l><r>heart<s n="n"/></r></p></e>
     <e><p><l>hjartardýr<s n="n"/><s n="nt"/></l><r>deer<s n="n"/></r></p></e>
     <!--<e><p><l>hjartastilling<s n="n"/><s n="f"/></l><r>defibrillation<s n="n"/></r></p></e>--> <!-- invalid Icelandic word? -->
@@ -10748,7 +10748,7 @@
     <e><p><l>lítri<s n="n"/><s n="m"/></l><r>litre<s n="n"/></r></p></e>
     <!--<e><p><l>lítri<s n="n"/><s n="m"/></l><r>liter<s n="n"/></r></p></e>--> <!-- US English spelling -->
     <e><p><l>lóa<s n="n"/><s n="f"/></l><r>plover<s n="n"/></r></p></e> <!-- (pluvialis) -->
-    <e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>PDA<s n="n"/></r></p></e>
+    <e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>PDA<s n="n"/><s n="acr"/></r></p></e>
     <!--<e><p><l>lófatölva<s n="n"/><s n="f"/></l><r>personal<b/>digital<b/>assistant<s n="n"/></r></p></e>-->
     <e><p><l>lófi<s n="n"/><s n="m"/></l><r>palm<s n="n"/></r></p></e> <!-- (of the hand) -->
     <e><p><l>lómur<s n="n"/><s n="m"/></l><r>red-throated<b/>diver<s n="n"/></r></p></e> <!-- (Gavia stellata) -->
@@ -15878,7 +15878,7 @@
     <e><p><l>almætti<s n="n"/><s n="nt"/></l><r>omnipotence<s n="n"/></r></p></e>
     <e><p><l>almúgamaður<s n="n"/><s n="m"/></l><r>ordinary<b/>person<s n="n"/></r></p></e>
     <e><p><l>almúgi<s n="n"/><s n="m"/></l><r>common<b/>people<s n="n"/></r></p></e>
-    <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/></r></p></e>
+    <e><p><l>alnæmi<s n="n"/><s n="nt"/></l><r>AIDS<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>alpahúfa<s n="n"/><s n="f"/></l><r>beret<s n="n"/></r></p></e>
     <e><p><l>alræði<s n="n"/><s n="nt"/></l><r>dictatorship<s n="n"/></r></p></e>
     <e><p><l>alskegg<s n="n"/><s n="nt"/></l><r>full<b/>beard<s n="n"/></r></p></e>
@@ -16905,7 +16905,7 @@
     <e><p><l>erfingi<s n="n"/><s n="m"/></l><r>heir<s n="n"/></r></p></e>
     <e><p><l>erfisdrykkja<s n="n"/><s n="f"/></l><r>funeral<b/>feast<s n="n"/></r></p></e>
     <e><p><l>erfð<s n="n"/><s n="f"/></l><r>inheritance<s n="n"/></r></p></e>
-    <e><p><l>erfðaefni<s n="n"/><s n="nt"/></l><r>DNA<s n="n"/></r></p></e>
+    <e><p><l>erfðaefni<s n="n"/><s n="nt"/></l><r>DNA<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>erfðagalli<s n="n"/><s n="m"/></l><r>genetic<b/>fault<s n="n"/></r></p></e>
     <e c="0"><p><l>erfðaréttur<s n="n"/><s n="m"/></l><r>inheritance<b/>law<s n="n"/></r></p></e>
     <e slr="1"><p><l>erfðaréttur<s n="n"/><s n="m"/></l><r>right<b/>to<b/>inherit<s n="n"/></r></p></e>
@@ -18647,7 +18647,7 @@
     <e><p><l>jata<s n="n"/><s n="f"/></l><r>crib<s n="n"/></r></p></e>
     <e c="0"><p><l>jaðar<s n="n"/><s n="m"/></l><r>edge<s n="n"/></r></p></e>
     <e slr="1"><p><l>jaðar<s n="n"/><s n="m"/></l><r>borderline<s n="n"/></r></p></e>
-    <e><p><l>jepplingur<s n="n"/><s n="m"/></l><r>SUV<s n="n"/></r></p></e>
+    <e><p><l>jepplingur<s n="n"/><s n="m"/></l><r>SUV<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>jurt<s n="n"/><s n="f"/></l><r>plant<s n="n"/></r></p></e>
     <e><p><l>jurtafæða<s n="n"/><s n="f"/></l><r>vegetarian<b/>food<s n="n"/></r></p></e>
     <e><p><l>jurtaríki<s n="n"/><s n="nt"/></l><r>flora<s n="n"/></r></p></e>
@@ -19908,7 +19908,7 @@
     <e><p><l>myndasaga<s n="n"/><s n="f"/></l><r>comic<b/>strip<s n="n"/></r></p></e>
     <e><p><l>myndataka<s n="n"/><s n="f"/></l><r>taking<b/>a<b/>photo<s n="n"/></r></p></e>
     <e><p><l>myndbandsspóla<s n="n"/><s n="f"/></l><r>video<b/>cassette<s n="n"/></r></p></e>
-    <e><p><l>myndbandstæki<s n="n"/><s n="nt"/></l><r>VCR<s n="n"/></r></p></e>
+    <e><p><l>myndbandstæki<s n="n"/><s n="nt"/></l><r>VCR<s n="n"/><s n="acr"/></r></p></e>
     <e><p><l>myndhöggvari<s n="n"/><s n="m"/></l><r>sculptor<s n="n"/></r></p></e>
     <e><p><l>myndlistarmaður<s n="n"/><s n="m"/></l><r>artist<s n="n"/></r></p></e>
     <e><p><l>myndlykill<s n="n"/><s n="m"/></l><r>decoder<s n="n"/></r></p></e>
@@ -20381,7 +20381,7 @@
     <e><p><l>portrett<s n="n"/><s n="nt"/></l><r>portrait<s n="n"/></r></p></e>
     <e><p><l>portvín<s n="n"/><s n="nt"/></l><r>port<s n="n"/></r></p></e>
     <e><p><l>portúgalska<s n="n"/><s n="f"/></l><r>Portuguese<s n="n"/></r></p></e> <!-- (language) -->
-    <e><p><l>posi<s n="n"/><s n="m"/></l><r>POS<s n="n"/></r></p></e> <!-- (point of sale) -->
+    <e><p><l>posi<s n="n"/><s n="m"/></l><r>POS<s n="n"/><s n="acr"/></r></p></e> <!-- (point of sale) -->
     <e><p><l>postuli<s n="n"/><s n="m"/></l><r>apostle<s n="n"/></r></p></e>
     <e><p><l>postulín<s n="n"/><s n="nt"/></l><r>porcelain<s n="n"/></r></p></e>
     <e><p><l>pottablóm<s n="n"/><s n="nt"/></l><r>potted<b/>plant<s n="n"/></r></p></e>
