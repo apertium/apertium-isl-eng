@@ -8836,7 +8836,7 @@
     <e><p><l>dymbilvika<s n="n"/><s n="f"/></l><r>Holy<b/>Week<s n="n"/></r></p></e>
     <e><p><l>dyr<s n="n"/><s n="f"/></l><r>door<s n="n"/></r></p></e>
     <!--<e><p><l>dyr<s n="n"/><s n="f"/></l><r>doorway<s n="n"/></r></p></e>-->
-    <e><p><l>dá<s n="n"/><s n="nt"/></l><r>admire<s n="n"/></r></p></e>
+    <e><p><l>dá<s n="n"/><s n="nt"/></l><r>coma<s n="n"/></r></p></e>
     <!--<e><p><l>dá<s n="n"/><s n="nt"/></l><r>coma<s n="n"/></r></p></e>-->
     <e><p><l>dáð<s n="n"/><s n="f"/></l><r>achievement<s n="n"/></r></p></e>
     <!--<e><p><l>dáð<s n="n"/><s n="f"/></l><r>deed<s n="n"/></r></p></e>-->
@@ -9947,7 +9947,8 @@
     <!--<e><p><l>hulda<s n="n"/><s n="f"/></l><r>cover<s n="n"/></r></p></e>-->
     <e><p><l>hulda<s n="n"/><s n="f"/></l><r>secrecy<s n="n"/></r></p></e>
     <e><p><l>hulduefni<s n="n"/><s n="nt"/></l><r>dark<b/>matter<s n="n"/></r></p></e>
-    <e><p><l>huldufólk<s n="n"/><s n="nt"/></l><r>elves<s n="n"/></r></p></e>
+    <e><p><l>huldufólk<s n="n"/><s n="nt"/><s n="sg"/></l><r>elf<s n="n"/><s n="pl"/></r></p></e>
+    <e><p><l>huldufólk<s n="n"/><s n="nt"/><s n="pl"/></l><r>elf<s n="n"/><s n="pl"/></r></p></e>
     <!--<e><p><l>huldufólk<s n="n"/><s n="nt"/></l><r>fairies<s n="n"/></r></p></e>-->
     <e><p><l>humar<s n="n"/><s n="m"/></l><r>lobster<s n="n"/></r></p></e>
     <e><p><l>hunangsfluga<s n="n"/><s n="f"/></l><r>bumblebee<s n="n"/></r></p></e> <!-- (species of bee) -->
@@ -16146,8 +16147,8 @@
     <e><p><l>beinbrot<s n="n"/><s n="nt"/></l><r>fracture<s n="n"/></r></p></e>
     <e><p><l>beita<s n="n"/><s n="f"/></l><r>bait<s n="n"/></r></p></e>
     <e><p><l>beitilyng<s n="n"/><s n="nt"/></l><r>ling<s n="n"/></r></p></e>
-    <e><p><l>bekkjarbróðir<s n="n"/><s n="m"/></l><r>classmate<b/><s n="n"/></r></p></e> <!-- (male) -->
-    <e><p><l>bekkjarsystir<s n="n"/><s n="f"/></l><r>classmate<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>bekkjarbróðir<s n="n"/><s n="m"/></l><r>classmate<s n="n"/></r></p></e> <!-- (male) -->
+    <e><p><l>bekkjarsystir<s n="n"/><s n="f"/></l><r>classmate<s n="n"/></r></p></e> <!-- (female) -->
     <e c="0"><p><l>belgur<s n="n"/><s n="m"/></l><r>hide<s n="n"/></r></p></e>
     <e slr="1"><p><l>belgur<s n="n"/><s n="m"/></l><r>skin<s n="n"/></r></p></e>
     <e slr="2"><p><l>belgur<s n="n"/><s n="m"/></l><r>bellows<s n="n"/></r></p></e>
@@ -17565,7 +17566,7 @@
     <e><p><l>gervigígur<s n="n"/><s n="m"/></l><r>pseudocrater<s n="n"/></r></p></e>
     <e><p><l>gervihnöttur<s n="n"/><s n="m"/></l><r>satellite<s n="n"/></r></p></e>
     <e><p><l>gervitungl<s n="n"/><s n="nt"/></l><r>satellite<s n="n"/></r></p></e> <!-- (artificial) -->
-    <e><p><l>gerðardómur<s n="n"/><s n="m"/></l><r>court<b/>of<b/>arbitration<s n="n"/></r></p></e>
+    <e><p><l>gerðardómur<s n="n"/><s n="m"/></l><r>court<g><b/>of<b/>arbitration</g><s n="n"/></r></p></e>
     <e slr="1"><p><l>gerðardómur<s n="n"/><s n="m"/></l><r>arbitration<s n="n"/></r></p></e>
     <e><p><l>gestagangur<s n="n"/><s n="m"/></l><r>coming<b/>and<b/>going<b/>of<b/>guests<s n="n"/></r></p></e>
     <e><p><l>gestamóttaka<s n="n"/><s n="f"/></l><r>reception<s n="n"/></r></p></e>
@@ -21062,7 +21063,7 @@
     <e><p><l>sjálfseignarstofnun<s n="n"/><s n="f"/></l><r>private<b/>foundation<s n="n"/></r></p></e>
     <e><p><l>sjálfselska<s n="n"/><s n="f"/></l><r>egotism<s n="n"/></r></p></e>
     <e><p><l>sjálfskipting<s n="n"/><s n="f"/></l><r>automatic<b/>transmission<s n="n"/></r></p></e>
-    <e><p><l>sjálfsmynd<s n="n"/><s n="f"/></l><r>self'-mage<s n="n"/></r></p></e>
+    <e><p><l>sjálfsmynd<s n="n"/><s n="f"/></l><r>self-image<s n="n"/></r></p></e>
     <e c="0"><p><l>sjálfsstjórn<s n="n"/><s n="f"/></l><r>self-government<s n="n"/></r></p></e>
     <e slr="1"><p><l>sjálfsstjórn<s n="n"/><s n="f"/></l><r>self-control<s n="n"/></r></p></e>
     <e><p><l>sjálfstraust<s n="n"/><s n="nt"/></l><r>self-confidence<s n="n"/></r></p></e>
@@ -22298,7 +22299,7 @@
     <e><p><l>sölustjóri<s n="n"/><s n="m"/></l><r>sales<b/>manager<s n="n"/></r></p></e>
     <e><p><l>söluturn<s n="n"/><s n="m"/></l><r>kiosk<s n="n"/></r></p></e>
     <e><p><l>söngbók<s n="n"/><s n="f"/></l><r>songbook<s n="n"/></r></p></e>
-    <e><p><l>söngkona<s n="n"/><s n="f"/></l><r>singer<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>söngkona<s n="n"/><s n="f"/></l><r>singer<s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>söngleikur<s n="n"/><s n="m"/></l><r>musical<s n="n"/></r></p></e>
     <e><p><l>sönglist<s n="n"/><s n="f"/></l><r>music<s n="n"/></r></p></e>
     <e><p><l>söngljóð<s n="n"/><s n="nt"/></l><r>song<s n="n"/></r></p></e>
@@ -23300,7 +23301,6 @@
     <e><p><l>vímuefni<s n="n"/><s n="nt"/></l><r>euphoric<b/>substance<s n="n"/></r></p></e>
     <e><p><l>vínandi<s n="n"/><s n="m"/></l><r>alcohol<s n="n"/></r></p></e>
     <e><p><l>vínarbrauð<s n="n"/><s n="nt"/></l><r>Danish<b/>pastry<s n="n"/></r></p></e>
-    <e><p><l>vínbúð<s n="n"/><s n="f"/></l><r>liquor<b/>store<s n="n"/></r></p></e>
     <e><p><l>vínekra<s n="n"/><s n="f"/></l><r>vineyard<s n="n"/></r></p></e>
     <e><p><l>vínflaska<s n="n"/><s n="f"/></l><r>bottle<g><b/>of<b/>wine</g><s n="n"/></r></p></e>
     <e><p><l>vínkjallari<s n="n"/><s n="m"/></l><r>winecellar<s n="n"/></r></p></e>
@@ -23489,7 +23489,7 @@
     <e><p><l>ástaraldin<s n="n"/><s n="nt"/></l><r>passion<b/>fruit<s n="n"/></r></p></e>
     <e><p><l>ástarljóð<s n="n"/><s n="nt"/></l><r>love<b/>poem<s n="n"/></r></p></e>
     <e><p><l>ástarsaga<s n="n"/><s n="f"/></l><r>love<b/>story<s n="n"/></r></p></e>
-    <e><p><l>ástkona<s n="n"/><s n="f"/></l><r>lover<b/><s n="n"/></r></p></e> <!-- (female) -->
+    <e><p><l>ástkona<s n="n"/><s n="f"/></l><r>lover<s n="n"/></r></p></e> <!-- (female) -->
     <e><p><l>ástríða<s n="n"/><s n="f"/></l><r>passion<s n="n"/></r></p></e>
     <e><p><l>ástundun<s n="n"/><s n="f"/></l><r>diligence<s n="n"/></r></p></e>
     <e><p><l>ástúð<s n="n"/><s n="f"/></l><r>affection<s n="n"/></r></p></e>
@@ -26503,7 +26503,7 @@
     <e><p><l>plebbi<s n="n"/><s n="m"/></l><r>pleb<s n="n"/></r></p></e>
     <e><p><l>pokabjörn<s n="n"/><s n="m"/></l><r>koala<s n="n"/></r></p></e>
     <e><p><l>prófkjörsdagur<s n="n"/><s n="m"/></l><r>election<b/>day<s n="n"/></r></p></e>
-    <e><p><l>púkabit<s n="n"/><s n="nt"/></l><r>devil's<b/>bit<b/>scabious<s n="n"/></r></p></e>
+<!--    <e><p><l>púkabit<s n="n"/><s n="nt"/></l><r>devil's<b/>bit<b/>scabious<s n="n"/></r></p></e>-->
     <e><p><l>púma<s n="n"/><s n="f"/></l><r>puma<s n="n"/></r></p></e>
 
     <e><p><l>ráðamaður<s n="n"/><s n="m"/></l><r>councillor<s n="n"/></r></p></e>
@@ -26611,7 +26611,8 @@
     <e><p><l>sannindi<s n="n"/><s n="nt"/></l><r>truth<s n="n"/></r></p></e> <!-- @NOSGIS -->
     <e><p><l>vesturlönd<s n="n"/><s n="nt"/></l><r>West<s n="n"/></r></p></e> <!-- @NOSGIS -->
     <e><p><l>vitsmunir<s n="n"/><s n="f"/></l><r>intellect<s n="n"/></r></p></e> <!-- @NOSGIS -->
-    <e><p><l>vínbuð<s n="n"/><s n="f"/></l><r>off<b/>licence<s n="n"/></r></p></e> 
+    <!--<e><p><l>vínbúð<s n="n"/><s n="f"/></l><r>liquor<b/>store<s n="n"/></r></p></e>-->
+    <e><p><l>vínbúð<s n="n"/><s n="f"/></l><r>off<b/>licence<s n="n"/></r></p></e> 
 
     <e><p><l>nærliggjandi<s n="adj"/></l><r>neighbouring<s n="adj"/></r></p></e>
     <e><p><l>óalgengur<s n="adj"/></l><r>uncommon<s n="adj"/></r></p></e>
