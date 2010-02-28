@@ -8598,7 +8598,7 @@
     <!--<e><p><l>breidd<s n="n"/><s n="f"/></l><r>breadth<s n="n"/></r></p></e>-->
     <e><p><l>breidd<s n="n"/><s n="f"/></l><r>width<s n="n"/></r></p></e>
     <e><p><l>breiðnefur<s n="n"/><s n="m"/></l><r>platypus<s n="n"/></r></p></e>
-    <e><p><l>breiðskífa<s n="n"/><s n="f"/></l><r>lp<b/>album<s n="n"/></r></p></e>
+    <e><p><l>breiðskífa<s n="n"/><s n="f"/></l><r>LP<b/>album<s n="n"/></r></p></e>
     <e><p><l>brella<s n="n"/><s n="f"/></l><r>trick<s n="n"/></r></p></e>
     <e><p><l>brenna<s n="n"/><s n="f"/></l><r>bonfire<s n="n"/></r></p></e>
     <!--<e><p><l>brennisteinn<s n="n"/><s n="m"/></l><r>brimstone<s n="n"/></r></p></e>-->
@@ -10383,7 +10383,7 @@
     <e><p><l>kross<s n="n"/><s n="m"/></l><r>cross<s n="n"/></r></p></e>
     <e><p><l>krossfesting<s n="n"/><s n="f"/></l><r>crucifixion<s n="n"/></r></p></e>
     <e><p><l>krossfiskur<s n="n"/><s n="m"/></l><r>starfish<s n="n"/></r></p></e>
-    <e><p><l>krummi<s n="n"/><s n="m"/></l><r>hrafn<s n="n"/></r></p></e>
+    <e><p><l>krummi<s n="n"/><s n="m"/></l><r>raven<s n="n"/></r></p></e>
     <e><p><l>krydd<s n="n"/><s n="nt"/></l><r>spice<s n="n"/></r></p></e>
     <e><p><l>krypton<s n="n"/><s n="nt"/></l><r>Krypton<s n="n"/></r></p></e>
     <e><p><l>krá<s n="n"/><s n="nt"/></l><r>pub<s n="n"/></r></p></e>
@@ -12081,7 +12081,7 @@
     <e><p><l>svínakjöt<s n="n"/><s n="nt"/></l><r>pork<s n="n"/></r></p></e>
     <e><p><l>hársvörður<s n="n"/><s n="m"/></l><r>scalp<s n="n"/></r></p></e>
     <e><p><l>svörður<s n="n"/><s n="m"/></l><r>scalp<s n="n"/></r></p></e>
-    <e><p><l>svörður<s n="n"/><s n="m"/></l><r>sward<s n="n"/></r></p></e>
+<!--    <e><p><l>svörður<s n="n"/><s n="m"/></l><r>sward<s n="n"/></r></p></e>-->
     <!--<e><p><l>svörður<s n="n"/><s n="m"/></l><r>turf<s n="n"/></r></p></e>-->
     <e><p><l>sykur<s n="n"/><s n="m"/></l><r>sugar<s n="n"/></r></p></e>
     <e><p><l>sykurreyr<s n="n"/><s n="m"/></l><r>sugar<b/>cane<s n="n"/></r></p></e>
