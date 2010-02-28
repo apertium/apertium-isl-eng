@@ -427,6 +427,7 @@
   <def-var n="article"/>
   <def-var n="genitiu"/>
 
+  <def-var n="cur_adj_grau_preadv1"/>
   <def-var n="cur_adj_grau1"/>
 
   <def-var n="cur_verb_chunk_name"/>
@@ -509,6 +510,8 @@
     <let><var n="genere"/>             <lit v=""/></let>
     <let><var n="article"/>            <lit v=""/></let>
     <let><var n="genitiu"/>            <lit v=""/></let>
+    <let><var n="cur_adj_grau1"/>      <lit v=""/></let>
+    <let><var n="cur_adj_grau_preadv1"/><lit v=""/></let>
     <let><var n="cur_verb_chunk_name"/><lit v=""/></let>
     <let><var n="cur_verb_chunk_type"/><lit v=""/></let>
     <let><var n="cur_verb_lem"/>       <lit v=""/></let>
@@ -595,8 +598,12 @@
 
   <def-macro n="set_cur_adj_grau1" npar="1">
       <let>
-        <var n="cur_adj_grau1"/>
+        <var n="cur_adj_grau_preadv1"/>
         <lit v=""/>
+      </let>
+      <let>
+         <var n="cur_adj_grau1"/>
+         <clip pos="1" side="tl" part="grau"/>
       </let>
       <choose>
         <when>
@@ -614,13 +621,13 @@
               </equal>
             </and>
           </test>
-          <append n="cur_adj_grau1">
+          <append n="cur_adj_grau_preadv1">
             <lit v="more"/>
             <lit-tag v="preadv"/>
             <lit v="$ ^"/>
           </append>
           <let>
-            <clip pos="1" side="tl" part="grau"/>
+            <var n="cur_adj_grau1"/>
             <lit v=""/>
           </let>
         </when>
@@ -639,18 +646,18 @@
               </equal>
             </and>
           </test>
-          <append n="cur_adj_grau1">
+          <append n="cur_adj_grau_preadv1">
             <lit v="most"/>
             <lit-tag v="preadv"/>
             <lit v="$ ^"/>
           </append>
           <let>
-            <clip pos="1" side="tl" part="grau"/>
+            <var n="cur_adj_grau1"/>
             <lit v=""/>
           </let>
         </when>
         <otherwise>
-          <append n="cur_adj_grau1">
+          <append n="cur_adj_grau_preadv1">
             <lit v=""/>
           </append>
         </otherwise>
@@ -2131,9 +2138,7 @@
      </action>
   </rule>
 
-
-
-  <rule comment="REGLA: ADJ"><!-- rule for adjectives -->
+  <rule comment="REGLA: ADJ">
      <pattern>
        <pattern-item n="adj"/>
      </pattern>
@@ -2150,7 +2155,7 @@
                  <tag><lit-tag v="SA"/></tag>
                </tags>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_adj"/>
                  <clip pos="1" side="tl" part="grau"/>
@@ -2159,10 +2164,9 @@
              </chunk>
            </out>
      </action>
-  </rule><!-- END rule for adjectives -->
+  </rule>
 
-
-  <rule comment="REGLA: Det"><!-- rule for adjectives -->
+  <rule comment="REGLA: DET">
      <pattern>
        <pattern-item n="det"/>
      </pattern>
@@ -2383,12 +2387,12 @@
                </lu>
                <b/>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
-                 <clip pos="1" side="tl" part="grau"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
@@ -2476,12 +2480,12 @@
                </lu>
                <b/>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
-                 <clip pos="2" side="tl" part="grau"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
@@ -3061,7 +3065,7 @@
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="1">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
@@ -3115,7 +3119,7 @@
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="1">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
@@ -3187,11 +3191,12 @@
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="1">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
@@ -3234,7 +3239,7 @@
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="1">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
@@ -3306,11 +3311,12 @@
                </lu>
               <b pos="1"/>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
@@ -3359,7 +3365,7 @@
                </lu>
               <b pos="1"/>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
@@ -3427,10 +3433,10 @@
               <b pos="1"/>
               <var n="article"/>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_adj"/>
-                 <clip pos="2" side="tl" part="grau"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
@@ -3490,7 +3496,7 @@
                </lu>
                <b pos="1"/>
                <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="2" side="tl" part="lem"/>
                  </get-case-from>
@@ -4033,12 +4039,12 @@
                </lu>        
                <b pos="1"/>
                <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
-                 <clip pos="1" side="tl" part="grau"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b/>
@@ -4097,11 +4103,12 @@
                </lu>
                <b/>
                <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="2">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b/>
@@ -4143,11 +4150,12 @@
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
-                 <var n="cur_adj_grau1"/>
+                 <var n="cur_adj_grau_preadv1"/>
                  <get-case-from pos="1">
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_adj"/>
+                 <var n="cur_adj_grau1"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>

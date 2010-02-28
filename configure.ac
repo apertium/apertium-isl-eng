@@ -10,6 +10,14 @@ AC_PROG_LN_S
 AC_PROG_AWK
 AC_CONFIG_HEADER([config])
 
+AC_ARG_WITH(icenlp,
+            [AC_HELP_STRING([--with-icenlp=PATH], [(optional) path to IceNLP toolkit])],
+            [with_icenlp=$withval],
+            [with_icenlp=no]
+           )
+
+AM_CONDITIONAL([ICENLP], false)
+
 AC_DEFUN([PKG_CHECK_APERTIUM], [
   APERTIUM_VER=0
   PKG_CHECK_MODULES(APERTIUM, apertium-1.0 >= 1.0.0,
@@ -45,6 +53,7 @@ PKG_CHECK_APERTIUM
 
 AC_SUBST(APERTIUM_VER)
 
+
 #
 # Check for VISL constraint grammar
 #
@@ -68,5 +77,20 @@ if test x$ac_cv_path_CGPROC = xno
 then
   AC_MSG_ERROR([You don't have cg-proc installed.])
 fi
+
+#
+# Check for xsltproc
+#
+
+AC_PATH_PROG(XSLTPROC, xsltproc, no)
+if test x$ac_cv_path_XSLTPROC = x
+then
+  AC_MSG_ERROR([You don't have xsltproc installed.])
+fi
+if test x$ac_cv_path_XSLTPROC = xno
+then
+  AC_MSG_ERROR([You don't have xsltproc installed.])
+fi
+
 
 AC_OUTPUT([Makefile])
