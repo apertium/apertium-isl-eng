@@ -2524,7 +2524,6 @@
     <e lm="both"><i>both</i><par n="several__det"/></e>
     <e lm="each"><i>each</i><par n="another__det"/></e>
     <e lm="either"><i>either</i><par n="another__det"/></e>
-    <e lm="enough"><i>enough</i><par n="enough__det"/></e>
     <e lm="every"><i>every</i><par n="another__det"/></e>
     <e lm="her"><i>her</i><par n="her__det"/></e>
     <e lm="his"><i>his</i><par n="her__det"/></e>
@@ -2551,7 +2550,14 @@
     <e lm="the same"><i>the<b/>same</i><par n="other__det"/></e>
     <e lm="their"><i>their</i><par n="her__det"/></e>
     <e lm="too much"><i>too<b/>much</i><par n="much__det"/></e>
+
+    <e lm="enough"><i>enough</i><par n="enough__det"/></e>
+    <e lm="enough" r="RL"><i>enough</i><par n="expensive__adj"/></e>
     <e lm="various"><i>various</i><par n="several__det"/></e>
+    <e lm="various" r="RL"><i>various</i><par n="expensive__adj"/></e> <!-- margbreytilegur -->
+    <e lm="many"><i>many</i><par n="many__det"/></e>
+    <e lm="many" r="RL"><i>many</i><par n="expensive__adj"/></e>
+
     <e lm="what"><i>what</i><par n="what__det"/></e>
     <e lm="whatever"><i>whatever</i><par n="another__det"/></e>
     <e lm="which"><i>which</i><par n="what__det"/></e>
@@ -2563,7 +2569,6 @@
     <e lm="a lot of"><i>a<b/>lot<b/>of</i><par n="enough__det"/></e>
     <e lm="so many"><i>so<b/>many</i><par n="many__det"/></e>
     <e lm="too many"><i>too<b/>many</i><par n="many__det"/></e>
-    <e lm="many"><i>many</i><par n="many__det"/></e>
     <e lm="a few"><i>a<b/>few</i><par n="many__det"/></e>
     <e lm="as much"><i>as much</i><par n="much__det"/></e>
     <e lm="lots of"><i>lots<b/>of</i><par n="enough__det"/></e>
@@ -8803,7 +8808,7 @@
     <e lm="dropping"><i>dropping</i><par n="house__n"/></e>
     <e lm="dealing"><i>dealing</i><par n="house__n"/></e>
     <e lm="waxwing"><i>waxwing</i><par n="house__n"/></e>
-    <e lm="finch"><i>finch</i><par n="house__n"/></e>
+    <e lm="finch"><i>finch</i><par n="access__n"/></e>
     <e lm="subparagraph"><i>subparagraph</i><par n="house__n"/></e>
     <e lm="blacksmith"><i>blacksmith</i><par n="house__n"/></e>
     <e lm="sloth"><i>sloth</i><par n="house__n"/></e>
@@ -10378,10 +10383,10 @@
     <e lm="wrong"><i>wrong</i><par n="house__n"/></e>
     <e lm="taoiseach"><i>taoiseach</i><par n="house__n"/></e>
     <e lm="Czech"><par n="Cc"/><i>zech</i><par n="house__n"/></e>
-    <e lm="sandwich"><i>sandwich</i><par n="house__n"/></e>
-    <e lm="bench"><i>bench</i><par n="house__n"/></e>
+    <e lm="sandwich"><i>sandwich</i><par n="access__n"/></e>
+    <e lm="bench"><i>bench</i><par n="access__n"/></e>
     <e lm="polish"><par n="Pp"/><i>olish</i><par n="house__n"/></e>
-    <e lm="blemish"><i>blemish</i><par n="house__n"/></e>
+    <e lm="blemish"><i>blemish</i><par n="access__n"/></e>
     <e lm="Spanish"><par n="Ss"/><i>panish</i><par n="house__n"/></e>
     <e lm="footpath"><i>footpath</i><par n="house__n"/></e>
     <e lm="bandwidth"><i>bandwidth</i><par n="east__n"/></e>
@@ -30335,7 +30340,8 @@
     <e lm="half sheepish"><i>half<b/>sheepish</i><par n="expensive__adj"/></e>
     <e lm="innocent looking"><i>innocent<b/>looking</i><par n="expensive__adj"/></e>
     <e lm="intelligent looking"><i>intelligent<b/>looking</i><par n="expensive__adj"/></e>
-    <e lm="just waxed"><i>just<b/>waxed</i><par n="expensive__adj"/></e>
+    <e lm="freshly waxed"><i>freshly<b/>waxed</i><par n="expensive__adj"/></e>
+    <e lm="newly started"><i>newly<b/>started</i><par n="expensive__adj"/></e>
     <e lm="large and imposing"><i>large<b/>and<b/>imposing</i><par n="expensive__adj"/></e>
     <e lm="old and worn-out"><i>old<b/>and<b/>worn-out</i><par n="expensive__adj"/></e>
     <e lm="out of control"><i>out<b/>of<b/>control</i><par n="expensive__adj"/></e>
@@ -30359,6 +30365,10 @@
     <e lm="youthful"><i>youthful</i><par n="expensive__adj"/></e>
     <e lm="sinful"><i>sinful</i><par n="expensive__adj"/></e>
     <e lm="colourful"><i>colourful</i><par n="expensive__adj"/></e>
+    <e lm="unsuspecting"><i>unsuspecting</i><par n="expensive__adj"/></e>
+    <e lm="happy looking"><i>happy<b/>looking</i><par n="expensive__adj"/></e>
+
+    <e lm="two" r="RL"><i>two</i><par n="expensive__adj"/></e>
 
     <e lm="outrageous"><i>outrageous</i><par n="expensive__adj"/></e>
     <e lm="piteous"><i>piteous</i><par n="expensive__adj"/></e>
@@ -30549,6 +30559,37 @@
 
 
 
+    <!-- @BEGIN IFFY@ -->
+    <e lm="waterless"><i>waterless</i><par n="expensive__adj"/></e>
+    <e lm="electricity-less"><i>electricity-less</i><par n="expensive__adj"/></e>
+    <e lm="foodless"><i>foodless</i><par n="expensive__adj"/></e>
+    <e lm="appetiteless"><i>appetiteless</i><par n="expensive__adj"/></e>
+    <e lm="exceptionless"><i>exceptionless</i><par n="expensive__adj"/></e>
+    <e lm="rainless"><i>rainless</i><par n="expensive__adj"/></e>
+    <e lm="staminaless"><i>staminaless</i><par n="expensive__adj"/></e>
+    <!-- @END IFFY@ -->
+
+    <e lm="dominating"><i>dominating</i><par n="expensive__adj"/></e>
+    <e lm="then" r="RL"><i>then</i><par n="expensive__adj"/></e> <!-- The _then_ president -->
+    <e lm="internally"><i>internally</i><par n="expensive__adj"/></e>
+    <e lm="some kind of"><i>some<b/>kind<b/>of</i><par n="expensive__adj"/></e>
+    <e lm="English-speaking"><i>English-speaking</i><par n="expensive__adj"/></e>
+    <e lm="that kind of"><i>that<b/>kind<b/>of</i><par n="expensive__adj"/></e>
+    <e lm="flying"><i>flying</i><par n="expensive__adj"/></e>
+    <e lm="dreamy"><i>dreamy</i><par n="expensive__adj"/></e>
+    <e lm="scary"><i>scary</i><par n="expensive__adj"/></e>
+    <e lm="accompanying"><i>accompanying</i><par n="expensive__adj"/></e>
+    <e lm="lonely"><i>lonely</i><par n="expensive__adj"/></e>
+    <e lm="like so"><i>like<b/>so</i><par n="expensive__adj"/></e>
+    <e lm="glossy"><i>glossy</i><par n="expensive__adj"/></e>
+    <e lm="one-sided"><i>one-sided</i><par n="expensive__adj"/></e>
+    <e lm="accompanying"><i>accompanying</i><par n="expensive__adj"/></e>
+
+
+    <e lm="serviceable"><i>serviceable</i><par n="expensive__adj"/></e>
+    <e lm="unlit"><i>unlit</i><par n="expensive__adj"/></e>
+    <e lm="tearworthy"><i>tearworthy</i><par n="expensive__adj"/></e>
+    <e lm="lovesick"><i>lovesick</i><par n="expensive__adj"/></e>
     <e lm="godless"><i>godless</i><par n="expensive__adj"/></e>
     <e lm="lifeless"><i>lifeless</i><par n="expensive__adj"/></e>
     <e lm="guileless"><i>guileless</i><par n="expensive__adj"/></e>
@@ -30568,7 +30609,11 @@
     <e lm="thoughtless"><i>thoughtless</i><par n="expensive__adj"/></e>
     <e lm="faultless"><i>faultless</i><par n="expensive__adj"/></e>
     <e lm="pennyless"><i>pennyless</i><par n="expensive__adj"/></e>
+    <e lm="perplexed"><i>perplexed</i><par n="expensive__adj"/></e>
+    <e lm="transverse"><i>transverse</i><par n="expensive__adj"/></e>
 
+    <e lm="tired looking"><i>tired<b/>looking</i><par n="expensive__adj"/></e>
+    <e lm="listenable"><i>listenable</i><par n="expensive__adj"/></e>
     <e lm="indescribable"><i>indescribable</i><par n="expensive__adj"/></e>
     <e lm="despicable"><i>despicable</i><par n="expensive__adj"/></e>
     <e lm="persuadable"><i>persuadable</i><par n="expensive__adj"/></e>
@@ -32851,10 +32896,10 @@
     <e lm="behave"><i>behav</i><par n="liv/e__vblex"/></e>
     <e lm="dive"><i>div</i><par n="liv/e__vblex"/></e>
     <e lm="hypnotise"><i>hypnotis</i><par n="liv/e__vblex"/></e>
-    <e lm="screech"><i>screech</i><par n="accept__vblex"/></e>
+    <e lm="screech"><i>screech</i><par n="approach__vblex"/></e>
     <e lm="prolong"><i>prolong</i><par n="accept__vblex"/></e>
-    <e lm="inch"><i>inch</i><par n="accept__vblex"/></e>
-    <e lm="pinch"><i>pinch</i><par n="accept__vblex"/></e>
+    <e lm="inch"><i>inch</i><par n="approach__vblex"/></e>
+    <e lm="pinch"><i>pinch</i><par n="approach__vblex"/></e>
     <e lm="cough"><i>cough</i><par n="accept__vblex"/></e>
     <e lm="peek"><i>peek</i><par n="accept__vblex"/></e>
     <e lm="blink"><i>blink</i><par n="accept__vblex"/></e>
@@ -35207,7 +35252,10 @@
     <e lm="because"><i>because</i><par n="that__cnjsub"/></e>
     <e lm="since"><i>since</i><par n="that__cnjsub"/></e>
     <e lm="more than"><i>more<b/>than</i><par n="that__cnjsub"/></e>
+
     <e lm="less than"><i>less<b/>than</i><par n="that__cnjsub"/></e>
+    <e lm="less than" r="RL"><i>less<b/>than</i><par n="expensive__adj"/></e> <!-- tæpur -->
+
     <e lm="since"><i>since</i><par n="maybe__adv"/></e>
     <e lm="sincerely"><i>sincerely</i><par n="maybe__adv"/></e>
     <e lm="single file"><i>single<b/>file</i><par n="maybe__adv"/></e>

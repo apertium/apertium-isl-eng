@@ -777,7 +777,8 @@
     <e><p><l>einangraður<s n="adj"/></l><r>isolated<s n="adj"/></r></p></e>
 <!--<p><l>einangraður<s n="adj"/></l><r>separate<s n="adj"/></r></p></e>-->
 <!--<p><l>einangraður<s n="adj"/></l><r>solitary<s n="adj"/></r></p></e>-->
-    <e><p><l>einasti<s n="adj"/></l><r>every<b/>single<b/>one<s n="adj"/></r></p></e>
+    <!--<e><p><l>einasti<s n="adj"/></l><r>every<b/>single<b/>one<s n="adj"/></r></p></e>-->
+    <e><p><l>einasti<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
 <!--<p><l>einasti<s n="adj"/></l><r>one<s n="adj"/></r></p></e>-->
 <!--<p><l>einbeittur<s n="adj"/></l><r>concentrated<s n="adj"/></r></p></e>-->
 <!--<p><l>einbeittur<s n="adj"/></l><r>driven<s n="adj"/></r></p></e>-->
@@ -854,8 +855,6 @@
     <e><p><l>felldur<s n="adj"/></l><r>collapsed<s n="adj"/></r></p></e>
 <!--<p><l>felldur<s n="adj"/></l><r>proper<s n="adj"/></r></p></e>-->
     <e><p><l>ferskur<s n="adj"/></l><r>fresh<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>fertugur<s n="adj"/></l><r>forty<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
-    <e><p><l>fimmtugur<s n="adj"/></l><r>fifty<s n="adj"/></r></p></e> <!-- why is this adj... shouldn't it be num? -->
     <e><p><l>fjandsamlegur<s n="adj"/></l><r>hostile<s n="adj"/></r></p></e>
     <e><p><l>fjarlægur<s n="adj"/></l><r>distant<s n="adj"/></r></p></e>
     <e><p><l>fjárhagslegur<s n="adj"/></l><r>financial<s n="adj"/></r></p></e>
@@ -1623,8 +1622,9 @@
 <!--<p><l>núgildandi<s n="adj"/></l><r>existing<s n="adj"/></r></p></e>-->
 <!--<p><l>núgildandi<s n="adj"/></l><r>present<s n="adj"/></r></p></e>-->
     <e><p><l>núverandi<s n="adj"/></l><r>current<s n="adj"/></r></p></e>
-    <e><p><l>nýbyrjaður<s n="adj"/></l><r>just<b/>begun<s n="adj"/></r></p></e>
-    <e><p><l>nýbónaður<s n="adj"/></l><r>just<b/>waxed<s n="adj"/></r></p></e> <!-- CHECK freshly waxed? -->
+    <e><p><l>nýbyrjaður<s n="adj"/></l><r>newly<b/>started<s n="adj"/></r></p></e>
+    <!--<e><p><l>nýbyrjaður<s n="adj"/></l><r>just<b/>begun<s n="adj"/></r></p></e>-->
+    <e><p><l>nýbónaður<s n="adj"/></l><r>freshly<b/>waxed<s n="adj"/></r></p></e> <!-- CHECK freshly waxed? -->
     <e><p><l>nýfæddur<s n="adj"/></l><r>newborn<s n="adj"/></r></p></e>
     <e><p><l>nýkominn<s n="adj"/></l><r>recently<b/>arrived<s n="adj"/></r></p></e>
     <e><p><l>nýlegur<s n="adj"/></l><r>recent<s n="adj"/></r></p></e>
@@ -1783,7 +1783,13 @@
     <e><p><l>sjálfsagður<s n="adj"/></l><r>self-evident<s n="adj"/></r></p></e>
 <!--<p><l>sjálfsagður<s n="adj"/></l><r>sure<s n="adj"/></r></p></e>-->
     <e><p><l>sjálfstæður<s n="adj"/></l><r>independent<s n="adj"/></r></p></e>
-    <e><p><l>sjötugur<s n="adj"/></l><r>seventy<b/>years<b/>old<s n="adj"/></r></p></e>
+
+<!--
+    <e><p><l>fertugur<s n="adj"/></l><r>forty<b/>year<b/>old<s n="adj"/></r></p></e> 
+    <e><p><l>fimmtugur<s n="adj"/></l><r>fifty<b/>year<b/>old<s n="adj"/></r></p></e> 
+    <e><p><l>tvítugur<s n="adj"/></l><r>twenty<b/>year<b/>old<s n="adj"/></r></p></e> 
+    <e><p><l>sjötugur<s n="adj"/></l><r>seventy<b/>year<b/>old<s n="adj"/></r></p></e>
+-->
 <!--<p><l>sjúkur<s n="adj"/></l><r>diseased<s n="adj"/></r></p></e>-->
 <!--<p><l>sjúkur<s n="adj"/></l><r>ill<s n="adj"/></r></p></e>-->
 <!--<p><l>sjúkur<s n="adj"/></l><r>morbid<s n="adj"/></r></p></e>-->
@@ -1991,13 +1997,12 @@
     <e><p><l>stöðugur<s n="adj"/></l><r>stable<s n="adj"/></r></p></e>
     <e><p><l>svalur<s n="adj"/></l><r>cool<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>svangur<s n="adj"/></l><r>hungry<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>svartklæddur<s n="adj"/></l><r>dressed<b/>in<b/>black<s n="adj"/></r></p></e>
+    <!--<e><p><l>svartklæddur<s n="adj"/></l><r>dressed<b/>in<b/>black<s n="adj"/></r></p></e>-->
     <e><p><l>svartur<s n="adj"/></l><r>black<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>svipaður<s n="adj"/></l><r>akin<s n="adj"/></r></p></e>-->
 <!--<p><l>svipaður<s n="adj"/></l><r>like<s n="adj"/></r></p></e>-->
     <e><p><l>svipaður<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
     <e><p><l>svokallaður<s n="adj"/></l><r>so-called<s n="adj"/></r></p></e>
-    <e><p><l>svoleiðis<s n="adj"/></l><r>like<b/>so<s n="adj"/></r></p></e>
 <!--<p><l>svolítill<s n="adj"/></l><r>little<s n="adj"/></r></p></e>-->
 <!--<p><l>svolítill<s n="adj"/></l><r>small<s n="adj"/></r></p></e>-->
     <e><p><l>svolítill<s n="adj"/></l><r>some<s n="adj"/></r></p></e>
@@ -2106,7 +2111,6 @@
     <e><p><l>tvenna<s n="adj"/></l><r>pair<s n="adj"/></r></p></e>
     <e><p><l>tvíhliða<s n="adj"/></l><r>two-sided<s n="adj"/></r></p></e>
 <!--<p><l>tvíhliða<s n="adj"/></l><r>two-way<s n="adj"/></r></p></e>-->
-    <e><p><l>tvítugur<s n="adj"/></l><r>twenty<b/>year<b/>old<s n="adj"/></r></p></e> <!-- mod. adj. in sg. -->
     <e><p><l>tvítyngdur<s n="adj"/></l><r>bilingual<s n="adj"/></r></p></e>
 <!--<p><l>tvöfaldur<s n="adj"/></l><r>binary<s n="adj"/></r></p></e>-->
     <e><p><l>tvöfaldur<s n="adj"/></l><r>double<s n="adj"/></r></p></e>
@@ -2385,7 +2389,9 @@
 <!--<p><l>áreiðanlegur<s n="adj"/></l><r>trustworthy<s n="adj"/></r></p></e>-->
     <e><p><l>árlegur<s n="adj"/></l><r>yearly<s n="adj"/></r></p></e>
     <e><p><l>áríðandi<s n="adj"/></l><r>urgent<s n="adj"/></r></p></e>
-    <e><p><l>ástfanginn<s n="adj"/></l><r>in<b/>love<s n="adj"/></r></p></e>
+
+    <e><p><l>ástfanginn<s n="adj"/></l><r>lovesick<s n="adj"/></r></p></e>
+<!--<e><p><l>ástfanginn<s n="adj"/></l><r>in<b/>love<s n="adj"/></r></p></e>-->
 <!--<p><l>ástæðulaus<s n="adj"/></l><r>baseless<s n="adj"/></r></p></e>-->
 <!--<p><l>ástæðulaus<s n="adj"/></l><r>groundless<s n="adj"/></r></p></e>-->
 <!--<p><l>ástæðulaus<s n="adj"/></l><r>pointless<s n="adj"/></r></p></e>-->
@@ -2407,7 +2413,6 @@
 <!--<p><l>æstur<s n="adj"/></l><r>frenetic<s n="adj"/></r></p></e>-->
 <!--<p><l>æstur<s n="adj"/></l><r>hysterical<s n="adj"/></r></p></e>-->
     <e><p><l>æstur<s n="adj"/></l><r>upset<s n="adj"/></r></p></e>
-    <e><p><l>ættaður<s n="adj"/></l><r>descended<b/>from<s n="adj"/></r></p></e>
 <!--<p><l>æðislegur<s n="adj"/></l><r>cool<s n="adj"/></r></p></e>-->
 <!--<p><l>æðislegur<s n="adj"/></l><r>excellent<s n="adj"/></r></p></e>-->
     <e><p><l>æðislegur<s n="adj"/></l><r>fantastic<s n="adj"/></r></p></e>
@@ -2505,7 +2510,7 @@
 <!--<p><l>órólegur<s n="adj"/></l><r>nervous<s n="adj"/></r></p></e>-->
 <!--<p><l>órólegur<s n="adj"/></l><r>restless<s n="adj"/></r></p></e>-->
     <e><p><l>órólegur<s n="adj"/></l><r>uneasy<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>óskemmtilegur<s n="adj"/></l><r>not<b/>fun<s n="adj"/></r></p></e>
+    <e><p><l>óskemmtilegur<s n="adj"/></l><r>boring<s n="adj"/></r></p></e>
 <!--<p><l>óskilgetinn<s n="adj"/></l><r>bastard<s n="adj"/></r></p></e>-->
     <e><p><l>óskilgetinn<s n="adj"/></l><r>illegimate<s n="adj"/></r></p></e>
 <!--<p><l>óskiljanlegur<s n="adj"/></l><r>enigma<s n="adj"/></r></p></e>-->
@@ -13476,7 +13481,7 @@
     <e><p><l>Ríkisútvarp<s n="n"/><s n="nt"/></l><r>The<b/>State<b/>Radio<s n="n"/></r></p></e>  <!-- np ? -->
     <e><p><l>ríkisútvarp<s n="n"/><s n="nt"/></l><r>national<b/>broadcaster<s n="n"/></r></p></e>
 
-    <e><p><l>þannig<s n="adj"/></l><r>that<s n="adj"/></r></p></e> <!-- CHECK -->
+    <e><p><l>þannig<s n="adj"/></l><r>that<b/>kind<b/>of<s n="adj"/></r></p></e> <!-- CHECK -->
 <!--<e><p><l>þannig<s n="adj"/></l><r>so<s n="adj"/></r></p></e>-->
 <!--<e><p><l>þannig<s n="adj"/></l><r>thus<s n="adj"/></r></p></e>-->
     <e><p><l>sjálfur<s n="adj"/></l><r>self<s n="adj"/></r></p></e> <!-- CHECK -->
@@ -24179,7 +24184,7 @@
     <e slr="1"><p><l>beiskur<s n="adj"/></l><r>embittered<s n="adj"/></r></p></e>
     <e><p><l>beittur<s n="adj"/></l><r>sharp<s n="adj"/></r></p></e>
     <e><p><l>bergnuminn<s n="adj"/></l><r>beside<b/>oneself<s n="adj"/></r></p></e>
-    <e><p><l>berhendur<s n="adj"/></l><r>without<b/>gloves<s n="adj"/></r></p></e>
+    <e><p><l>berhendur<s n="adj"/></l><r>barehanded<s n="adj"/></r></p></e>
     <e><p><l>berorður<s n="adj"/></l><r>outspoken<s n="adj"/></r></p></e>
     <e><p><l>berskjaldaður<s n="adj"/></l><r>defenceless<s n="adj"/></r></p></e>
     <e><p><l>bersýnilegur<s n="adj"/></l><r>evident<s n="adj"/></r></p></e>
@@ -24187,7 +24192,8 @@
     <e><p><l>beygður<s n="adj"/></l><r>bent<s n="adj"/></r></p></e>
     <e><p><l>birgur<s n="adj"/></l><r>well-provided<s n="adj"/></r></p></e>
     <e><p><l>bitlaus<s n="adj"/></l><r>blunt<s n="adj"/></r></p></e>
-    <e><p><l>bjargarlaus<s n="adj"/></l><r>without<b/>food<b/>supplies<s n="adj"/></r></p></e>
+    <e><p><l>bjargarlaus<s n="adj"/></l><r>foodless<s n="adj"/></r></p></e>
+    <!--<e><p><l>bjargarlaus<s n="adj"/></l><r>without<b/>food<b/>supplies<s n="adj"/></r></p></e>-->
     <e slr="1"><p><l>bjargarlaus<s n="adj"/></l><r>helpless<s n="adj"/></r></p></e>
     <e><p><l>bjánalegur<s n="adj"/></l><r>foolish<s n="adj"/></r></p></e>
     <e><p><l>blankur<s n="adj"/></l><r>broke<s n="adj"/></r></p></e>
@@ -24462,7 +24468,7 @@
     <e><p><l>færanlegur<s n="adj"/></l><r>moveable<s n="adj"/></r></p></e>
     <e><p><l>fégjarn<s n="adj"/></l><r>avaricious<s n="adj"/></r></p></e>
     <e><p><l>félagslyndur<s n="adj"/></l><r>sociable<s n="adj"/></r></p></e>
-    <e><p><l>félaus<s n="adj"/></l><r>short<b/>on<b/>cash<s n="adj"/></r></p></e>
+    <e><p><l>félaus<s n="adj"/></l><r>short<b/>on<b/>cash<s n="adj"/></r></p></e> <!-- all the way in the back of the food stamp line -->
     <e><p><l>félítill<s n="adj"/></l><r>short<b/>on<b/>funds<s n="adj"/></r></p></e>
     <e><p><l>fífldjarfur<s n="adj"/></l><r>foolhardy<s n="adj"/></r></p></e>
     <e><p><l>fíkinn<s n="adj"/></l><r>covetous<s n="adj"/></r></p></e>
@@ -24557,7 +24563,8 @@
     <e><p><l>glær<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>glóðvolgur<s n="adj"/></l><r>warm<s n="adj"/><s n="sint"/></r></p></e> <!-- (of food) -->
     <e><p><l>glúrinn<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
-    <e><p><l>grandalaus<s n="adj"/></l><r>in<b/>good<b/>faith<s n="adj"/></r></p></e>
+    <!--<e><p><l>grandalaus<s n="adj"/></l><r>in<b/>good<b/>faith<s n="adj"/></r></p></e>-->
+    <e><p><l>grandalaus<s n="adj"/></l><r>unsuspecting<s n="adj"/></r></p></e>
     <e><p><l>grandvar<s n="adj"/></l><r>scrupulous<s n="adj"/></r></p></e>
     <e><p><l>grannvaxinn<s n="adj"/></l><r>slim<s n="adj"/></r></p></e>
     <e><p><l>graður<s n="adj"/></l><r>horny<s n="adj"/></r></p></e>
@@ -24572,7 +24579,8 @@
     <e><p><l>grunlaus<s n="adj"/></l><r>unsuspecting<s n="adj"/></r></p></e>
     <e><p><l>grunnhygginn<s n="adj"/></l><r>simple<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>grásprengdur<s n="adj"/></l><r>grizzled<s n="adj"/></r></p></e>
-    <e><p><l>grátlegur<s n="adj"/></l><r>to<b/>be<b/>cried<b/>over<s n="adj"/></r></p></e>
+    <e><p><l>grátlegur<s n="adj"/></l><r>tearworthy<s n="adj"/></r></p></e>
+    <!--<e><p><l>grátlegur<s n="adj"/></l><r>to<b/>be<b/>cried<b/>over<s n="adj"/></r></p></e>-->
     <e><p><l>gráðugur<s n="adj"/></l><r>greedy<s n="adj"/></r></p></e>
     <e><p><l>grænlenskur<s n="adj"/></l><r>Greenlandic<s n="adj"/></r></p></e>
     <e><p><l>grímuklæddur<s n="adj"/></l><r>masked<s n="adj"/></r></p></e>
@@ -24744,7 +24752,7 @@
     <e><p><l>hvikull<s n="adj"/></l><r>changeable<s n="adj"/></r></p></e>
     <e><p><l>hvimleiður<s n="adj"/></l><r>loathsome<s n="adj"/></r></p></e>
     <e><p><l>hvumpinn<s n="adj"/></l><r>jumpy<s n="adj"/></r></p></e>
-    <e><p><l>hvíldarlaus<s n="adj"/></l><r>without<b/>rest<s n="adj"/></r></p></e>
+    <e><p><l>hvíldarlaus<s n="adj"/></l><r>restless<s n="adj"/></r></p></e>
     <e><p><l>hyggilegur<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>
     <e><p><l>hygginn<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>
     <e><p><l>hyrndur<s n="adj"/></l><r>horned<s n="adj"/></r></p></e>
@@ -24945,7 +24953,7 @@
     <e c="0"><p><l>liðtækur<s n="adj"/></l><r>eligible<s n="adj"/></r></p></e>
     <e slr="1"><p><l>liðtækur<s n="adj"/></l><r>capable<s n="adj"/></r></p></e>
     <e><p><l>liðugur<s n="adj"/></l><r>supple<s n="adj"/></r></p></e>
-    <e><p><l>ljóslaus<s n="adj"/></l><r>without<b/>light<s n="adj"/></r></p></e> <!-- (s) -->
+    <e><p><l>ljóslaus<s n="adj"/></l><r>unlit<s n="adj"/></r></p></e> <!-- (s) -->
     <e><p><l>ljóðrænn<s n="adj"/></l><r>lyrical<s n="adj"/></r></p></e>
     <e><p><l>ljúffengur<s n="adj"/></l><r>tasty<s n="adj"/></r></p></e>
     <e><p><l>ljúfsár<s n="adj"/></l><r>bittersweet<s n="adj"/></r></p></e>
@@ -25014,7 +25022,8 @@
     <e><p><l>mannlaus<s n="adj"/></l><r>deserted<s n="adj"/></r></p></e>
     <e><p><l>mannskæður<s n="adj"/></l><r>destructive<s n="adj"/></r></p></e>
     <e><p><l>mannýgur<s n="adj"/></l><r>liable<b/>to<b/>attack<b/>people<s n="adj"/></r></p></e>
-    <e><p><l>margbreytilegur<s n="adj"/></l><r>all<b/>sorts<b/>of<s n="adj"/></r></p></e>
+    <e><p><l>margbreytilegur<s n="adj"/></l><r>various<s n="adj"/></r></p></e>
+    <!--<e><p><l>margbreytilegur<s n="adj"/></l><r>all<b/>sorts<b/>of<s n="adj"/></r></p></e>-->
     <e><p><l>margorður<s n="adj"/></l><r>loquacious<s n="adj"/></r></p></e>
     <e><p><l>margraddaður<s n="adj"/></l><r>polyphonic<s n="adj"/></r></p></e>
     <e><p><l>margræður<s n="adj"/></l><r>ambiguous<s n="adj"/></r></p></e>
@@ -25159,7 +25168,7 @@
     <e><p><l>nýríkur<s n="adj"/></l><r>nouveau-rich<s n="adj"/></r></p></e>
     <e><p><l>nýskeð<s n="adj"/></l><r>recently<s n="adj"/></r></p></e>
     <e><p><l>nýstárlegur<s n="adj"/></l><r>unusual<s n="adj"/></r></p></e>
-    <e><p><l>nýtilegur<s n="adj"/></l><r>fit<b/>for<b/>use<s n="adj"/></r></p></e>
+    <e><p><l>nýtilegur<s n="adj"/></l><r>serviceable<s n="adj"/></r></p></e>
     <e><p><l>nýtilkominn<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
     <e><p><l>nýtinn<s n="adj"/></l><r>economical<s n="adj"/></r></p></e>
     <e><p><l>nýtískulegur<s n="adj"/></l><r>fashionable<s n="adj"/></r></p></e>
@@ -25240,7 +25249,8 @@
     <e><p><l>rytjulegur<s n="adj"/></l><r>paltry<s n="adj"/></r></p></e>
     <e><p><l>ryðfrír<s n="adj"/></l><r>stainless<s n="adj"/></r></p></e>
     <e><p><l>ráðagóður<s n="adj"/></l><r>resourceful<s n="adj"/></r></p></e>
-    <e><p><l>ráðalaus<s n="adj"/></l><r>at<b/>a<b/>loss<s n="adj"/></r></p></e>
+    <e><p><l>ráðalaus<s n="adj"/></l><r>perplexed<s n="adj"/></r></p></e>
+    <!--<e><p><l>ráðalaus<s n="adj"/></l><r>at<b/>a<b/>loss<s n="adj"/></r></p></e>-->
     <e><p><l>ráðlegur<s n="adj"/></l><r>advisable<s n="adj"/></r></p></e>
     <e><p><l>ráðríkur<s n="adj"/></l><r>domineering<s n="adj"/></r></p></e>
     <e c="0"><p><l>ráðsettur<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>
@@ -25608,7 +25618,7 @@
     <e c="0"><p><l>sáttur<s n="adj"/></l><r>reconciled<s n="adj"/></r></p></e>
     <e slr="1"><p><l>sáttur<s n="adj"/></l><r>agreed<s n="adj"/></r></p></e>
     <e><p><l>sældarlegur<s n="adj"/></l><r>plump<s n="adj"/></r></p></e>
-    <e><p><l>sællegur<s n="adj"/></l><r>looking<b/>well<s n="adj"/></r></p></e>
+    <e><p><l>sællegur<s n="adj"/></l><r>happy<b/>looking<s n="adj"/></r></p></e>
     <e><p><l>sérfróður<s n="adj"/></l><r>expert<s n="adj"/></r></p></e>
     <e c="0"><p><l>sérgóður<s n="adj"/></l><r>selfish<s n="adj"/></r></p></e>
     <e slr="1"><p><l>sérgóður<s n="adj"/></l><r>smug<s n="adj"/></r></p></e>
@@ -25735,7 +25745,7 @@
     <e><p><l>umsaminn<s n="adj"/></l><r>agreed<s n="adj"/></r></p></e> <!-- (upon) -->
     <e><p><l>unaðslegur<s n="adj"/></l><r>charming<s n="adj"/></r></p></e>
     <e><p><l>undangenginn<s n="adj"/></l><r>previous<s n="adj"/></r></p></e>
-    <e><p><l>undantekningarlaus<s n="adj"/></l><r>without<b/>exception<s n="adj"/></r></p></e>
+    <e><p><l>undantekningarlaus<s n="adj"/></l><r>exceptionless<s n="adj"/></r></p></e>
     <e><p><l>undinn<s n="adj"/></l><r>twisted<s n="adj"/></r></p></e>
     <e><p><l>undirförull<s n="adj"/></l><r>false<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>undirgefinn<s n="adj"/></l><r>submissive<s n="adj"/></r></p></e>
@@ -25935,14 +25945,13 @@
     <e><p><l>ábatasamur<s n="adj"/></l><r>profitable<s n="adj"/></r></p></e>
     <e><p><l>ábyggilegur<s n="adj"/></l><r>reliable<s n="adj"/></r></p></e>
     <e><p><l>ábyrgðarlaus<s n="adj"/></l><r>irresponsible<s n="adj"/></r></p></e>
-    <e slr="1"><p><l>ábyrgðarlaus<s n="adj"/></l><r>not<b/>responsible<s n="adj"/></r></p></e>
     <e><p><l>ábótavant<s n="adj"/></l><r>defective<s n="adj"/></r></p></e>
     <e><p><l>ábúðarfullur<s n="adj"/></l><r>looking<b/>grave<s n="adj"/></r></p></e>
     <e><p><l>áfengur<s n="adj"/></l><r>alcoholic<s n="adj"/></r></p></e>
     <e><p><l>áfjáður<s n="adj"/></l><r>eager<s n="adj"/></r></p></e>
     <e><p><l>ágengur<s n="adj"/></l><r>aggressive<s n="adj"/></r></p></e>
     <e><p><l>ágjarn<s n="adj"/></l><r>greedy<s n="adj"/></r></p></e>
-    <e><p><l>áheyrilegur<s n="adj"/></l><r>good<b/>to<b/>listen<b/>to<s n="adj"/></r></p></e>
+    <e><p><l>áheyrilegur<s n="adj"/></l><r>listenable<s n="adj"/></r></p></e>
     <e><p><l>áhrifagjarn<s n="adj"/></l><r>impressionable<s n="adj"/></r></p></e>
     <e><p><l>áhættusamur<s n="adj"/></l><r>risky<s n="adj"/></r></p></e>
     <e><p><l>ákjósanlegur<s n="adj"/></l><r>desirable<s n="adj"/></r></p></e>
@@ -26108,7 +26117,7 @@
     <e><p><l>óskoraður<s n="adj"/></l><r>unlimited<s n="adj"/></r></p></e>
     <e><p><l>óskyldur<s n="adj"/></l><r>unrelated<s n="adj"/></r></p></e>
     <e><p><l>ósléttur<s n="adj"/></l><r>rough<s n="adj"/></r></p></e>
-    <e><p><l>ósmekklegur<s n="adj"/></l><r>in<b/>poor<b/>taste<s n="adj"/></r></p></e>
+    <e><p><l>ósmekklegur<s n="adj"/></l><r>tasteless<s n="adj"/></r></p></e>
     <e><p><l>ósnortinn<s n="adj"/></l><r>untouched<s n="adj"/></r></p></e>
     <e><p><l>óstilltur<s n="adj"/></l><r>restless<s n="adj"/></r></p></e>
     <e><p><l>óstjórnlegur<s n="adj"/></l><r>unruly<s n="adj"/></r></p></e>
@@ -26170,7 +26179,8 @@
     <e><p><l>úldinn<s n="adj"/></l><r>rotten<s n="adj"/></r></p></e>
     <e><p><l>úreltur<s n="adj"/></l><r>obsolete<s n="adj"/></r></p></e>
     <e><p><l>úrillur<s n="adj"/></l><r>sullen<s n="adj"/></r></p></e>
-    <e><p><l>úrkomulaus<s n="adj"/></l><r>without<b/>precipitation<s n="adj"/></r></p></e>
+    <e><p><l>úrkomulaus<s n="adj"/></l><r>rainless<s n="adj"/></r></p></e>
+    <!--<e><p><l>úrkomulaus<s n="adj"/></l><r>without<b/>precipitation<s n="adj"/></r></p></e>-->
     <e><p><l>úrkynjaður<s n="adj"/></l><r>degenerate<s n="adj"/></r></p></e>
     <e><p><l>úrræðagóður<s n="adj"/></l><r>resourceful<s n="adj"/></r></p></e>
     <e><p><l>úrsérgenginn<s n="adj"/></l><r>hopelessly<b/>out-of-date<s n="adj"/></r></p></e>
@@ -26178,7 +26188,8 @@
     <e><p><l>útdauður<s n="adj"/></l><r>extinct<s n="adj"/></r></p></e>
     <e><p><l>útfjólublár<s n="adj"/></l><r>ultraviolet<s n="adj"/></r></p></e>
     <e><p><l>útgrátinn<s n="adj"/></l><r>with<b/>one's<b/>face<b/>swollen<b/>from<b/>crying<s n="adj"/></r></p></e>
-    <e><p><l>úthaldslaus<s n="adj"/></l><r>without<b/>endurance<s n="adj"/></r></p></e>
+    <e><p><l>úthaldslaus<s n="adj"/></l><r>staminaless<s n="adj"/></r></p></e>
+    <!--<e><p><l>úthaldslaus<s n="adj"/></l><r>without<b/>endurance<s n="adj"/></r></p></e>-->
     <e c="0"><p><l>úthverfur<s n="adj"/></l><r>turned<b/>inside<b/>out<s n="adj"/></r></p></e>
     <e slr="1"><p><l>úthverfur<s n="adj"/></l><r>extrovert<s n="adj"/></r></p></e>
     <e><p><l>útitekinn<s n="adj"/></l><r>sunburnt<s n="adj"/></r></p></e>
@@ -26226,7 +26237,8 @@
     <e><p><l>þreklaus<s n="adj"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>þreklaus<s n="adj"/></l><r>lacking<b/>in<b/>stamina/endurance<s n="adj"/></r></p></e>
     <e><p><l>þrekmikill<s n="adj"/></l><r>strong<s n="adj"/></r></p></e>
-    <e><p><l>þreytulegur<s n="adj"/></l><r>looking<b/>tired<s n="adj"/></r></p></e>
+    <e><p><l>þreytulegur<s n="adj"/></l><r>tired<b/>looking<s n="adj"/></r></p></e>
+    <!--<e><p><l>þreytulegur<s n="adj"/></l><r>looking<b/>tired<s n="adj"/></r></p></e>-->
     <e><p><l>þrifalegur<s n="adj"/></l><r>neat<s n="adj"/></r></p></e>
     <e><p><l>þrifinn<s n="adj"/></l><r>neat<s n="adj"/></r></p></e>
     <e><p><l>þriflegur<s n="adj"/></l><r>plump<s n="adj"/></r></p></e>
@@ -26259,7 +26271,7 @@
     <e><p><l>þvalur<s n="adj"/></l><r>clammy<s n="adj"/></r></p></e>
     <e><p><l>þveginn<s n="adj"/></l><r>washed<s n="adj"/></r></p></e>
     <e><p><l>þvengmjór<s n="adj"/></l><r>thin<b/>as<b/>a<b/>reed<s n="adj"/></r></p></e>
-    <e c="0"><p><l>þver<s n="adj"/></l><r>across<s n="adj"/></r></p></e>
+    <e c="0"><p><l>þver<s n="adj"/></l><r>transverse<s n="adj"/></r></p></e>
     <e slr="1"><p><l>þver<s n="adj"/></l><r>contradictory<s n="adj"/></r></p></e>
     <e slr="2"><p><l>þver<s n="adj"/></l><r>headstrong<s n="adj"/></r></p></e>
     <e><p><l>þverfaglegur<s n="adj"/></l><r>inter-disciplinary<s n="adj"/></r></p></e>
@@ -26810,8 +26822,10 @@
     <e><p><l>þunglyndislegur<s n="adj"/></l><r>moody<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>appelsínugulur<s n="adj"/></l><r>orange<s n="adj"/></r></p></e>
     <e><p><l>mjallahvítur<s n="adj"/></l><r>snow-white<s n="adj"/></r></p></e>
-    <e><p><l>vatnslaus<s n="adj"/></l><r>without<b/>water<s n="adj"/></r></p></e>
-    <e><p><l>rafmagnslaus<s n="adj"/></l><r>without<b/>electricity<s n="adj"/></r></p></e>
+    <e><p><l>vatnslaus<s n="adj"/></l><r>waterless<s n="adj"/></r></p></e>
+    <e><p><l>rafmagnslaus<s n="adj"/></l><r>electricity-less<s n="adj"/></r></p></e>
+    <!--<e><p><l>rafmagnslaus<s n="adj"/></l><r>without<b/>electricity<s n="adj"/></r></p></e>-->
+    <!--<e><p><l>vatnslaus<s n="adj"/></l><r>without<b/>water<s n="adj"/></r></p></e>-->
     <e><p><l>litlaus<s n="adj"/></l><r>colourless<s n="adj"/></r></p></e>
     <e><p><l>safírblár<s n="adj"/></l><r>sapphire<b/>blue<s n="adj"/></r></p></e>
     <e><p><l>nakinn<s n="adj"/></l><r>naked<s n="adj"/></r></p></e>
