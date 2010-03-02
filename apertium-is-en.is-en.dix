@@ -10327,7 +10327,7 @@
     <!--<e><p><l>klukka<s n="n"/><s n="f"/></l><r>bell<s n="n"/></r></p></e>-->
     <e><p><l>klukkustund<s n="n"/><s n="f"/></l><r>hour<s n="n"/></r></p></e>
     <e><p><l>klukkutími<s n="n"/><s n="m"/></l><r>hour<s n="n"/></r></p></e>
-    <e><p><l>hálftími<s n="n"/><s n="m"/></l><r>half<b/>an<b/>hour<s n="n"/></r></p></e>
+    <e><p><l>hálftími<s n="n"/><s n="m"/></l><r>half<b/>an<b/>hour<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>kortér<s n="n"/><s n="nt"/></l><r>fifteen<b/>minutes<s n="n"/></r></p></e>
     <e><p><l>klám<s n="n"/><s n="nt"/></l><r>porn<s n="n"/></r></p></e>
     <!--<e><p><l>klám<s n="n"/><s n="nt"/></l><r>pornography<s n="n"/></r></p></e>-->
