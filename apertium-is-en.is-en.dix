@@ -213,7 +213,7 @@
     <e><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><i>-</i><re>[0-9]+([0-9]+)?</re><p><l>°C<s n="num"/></l><r>°C<s n="num"/></r></p></e>
     <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r>o'clock<s n="num"/></r></p></e>
-    <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?:[0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><p><l>klukkan<b/></l><r></r></p><re>[0-9]+([0-9]+)?[:.][0-9]+([0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
     <!-- END Punctuation and guessers -->
 
