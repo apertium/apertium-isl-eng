@@ -3748,7 +3748,12 @@
      -FMT
 -->
     <e><p><l>svo<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+    <e><p><l>þar<b/>til<s n="cnjadv"/></l><r>until<s n="cnjadv"/></r></p></e>
+    <e><p><l>þangað<b/>til<b/>að<s n="cnjadv"/></l><r>until<s n="cnjadv"/></r></p></e>
+    <e><p><l>enda<b/>þótt<s n="cnjadv"/></l><r>even<b/>though<s n="cnjadv"/></r></p></e>
     <e><p><l>þannig<b/>að<s n="cnjadv"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e><p><l>undireins<b/>og<s n="cnjadv"/></l><r>as<b/>soon<b/>as<s n="cnjadv"/></r></p></e>
+    <e><p><l>svo<b/>framarlega<b/>sem<s n="cnjadv"/></l><r>as<b/>long<b/>as<s n="cnjadv"/></r></p></e>
 
     <e><p><l>eða<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>en<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
@@ -3758,7 +3763,22 @@
     <e><p><l>svona<s n="cnjcoo"/></l><r>so<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>af<b/>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
-    <e><p><l>alveg<b/>eins<b/>og<s n="cnjsub"/></l><r>just<b/>like<s n="cnjsub"/></r></p></e>
+    <e><p><l>sökum<b/>þess<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
+    <e><p><l>úr<b/>því<b/>að<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
+
+    <e><p><l>alveg<b/>eins<b/>og<s n="cnjadv"/></l><r>just<b/>like<s n="cnjadv"/></r></p></e>
+    <e><p><l>ekki<b/>fyrr<b/>en<s n="cnjadv"/></l><r>not<b/>until<s n="cnjadv"/></r></p></e>
+    <e><p><l>engu<b/>líkara<b/>en<s n="cnjadv"/></l><r>as<b/>if<s n="cnjadv"/></r></p></e>
+    <e><p><l>frá<b/>og<b/>með<s n="cnjadv"/></l><r>as<b/>of<s n="cnjadv"/></r></p></e>
+    <e><p><l>með<b/>tilliti<b/>til<s n="cnjadv"/></l><r>considering<s n="cnjadv"/></r></p></e>
+    <e><p><l>má<b/>til<b/>með<s n="cnjadv"/></l><r>have<b/>to<s n="cnjadv"/></r></p></e>
+    <e><p><l>rétt<b/>eins<b/>og<s n="cnjadv"/></l><r>just<b/>like<s n="cnjadv"/></r></p></e>
+    <e><p><l>sem<b/>og<s n="cnjadv"/></l><r>and<s n="cnjadv"/></r></p></e>
+    <e><p><l>skömmu<b/>eftir<b/>að<s n="cnjadv"/></l><r>shortly<b/>after<s n="cnjadv"/></r></p></e>
+    <e><p><l>svo<b/>mikið<b/>sem<s n="cnjadv"/></l><r>so<b/>much<b/>as<s n="cnjadv"/></r></p></e>
+    <e><p><l>án<b/>þess<s n="cnjadv"/></l><r>without<s n="cnjadv"/></r></p></e>
+    <e><p><l>því<b/>aðeins<b/>að<s n="cnjadv"/></l><r>only<b/>if<s n="cnjadv"/></r></p></e>
+
     <e><p><l>annaðhvort<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
     <e><p><l>annaðhvort<s n="cnjcoo"/></l><r>either<s n="cnjcoo"/></r></p></e> <!-- CNJCOO or CNJSUB?-->
 <!--<p><l>annaðhvort<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>-->
@@ -3768,34 +3788,23 @@
     <e><p><l>ef<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>eins<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
 <!--<p><l>einsog<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>-->
-    <e><p><l>ekki<b/>fyrr<b/>en<s n="cnjsub"/></l><r>not<b/>until<s n="cnjsub"/></r></p></e>
     <e><p><l>ellegar<s n="cnjsub"/></l><r>or<s n="cnjsub"/></r></p></e>
-    <e><p><l>enda<b/>þótt<s n="cnjsub"/></l><r>even<b/>though<s n="cnjsub"/></r></p></e>
-    <e><p><l>engu<b/>líkara<b/>en<s n="cnjsub"/></l><r>as<b/>if<s n="cnjsub"/></r></p></e>
     <e><p><l>er<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>eð<s n="cnjsub"/></l><r>anyway<s n="cnjsub"/></r></p></e>
-    <e><p><l>frá<b/>og<b/>með<s n="cnjsub"/></l><r>as<b/>of<s n="cnjsub"/></r></p></e>
     <e><p><l>fyrr<b/>en<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
 <!--<p><l>fyrst<s n="cnjsub"/></l><r>now<s n="cnjsub"/></r></p></e>-->
     <e><p><l>fyrst<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>heldur<b/>en<s n="cnjcoo"/></l><r>rather<b/>than<s n="cnjcoo"/></r></p></e>
-    <e><p><l>hvort<b/>sem<s n="cnjsub"/></l><r>whether<b/>or<b/>not<s n="cnjsub"/></r></p></e>
 <!--<p><l>hvort<s n="cnjsub"/></l><r>if<s n="cnjsub"/></r></p></e>-->
     <e><p><l>hvort<s n="cnjsub"/></l><r>whether<s n="cnjsub"/></r></p></e>
     <e><p><l>líkt<b/>og<s n="cnjsub"/></l><r>like<s n="cnjsub"/></r></p></e>
     <e><p><l>meira<b/>en<s n="cnjsub"/></l><r>more<b/>than<s n="cnjsub"/></r></p></e>
     <e><p><l>minni<b/>en<s n="cnjsub"/></l><r>less<b/>than<s n="cnjsub"/></r></p></e>
-    <e><p><l>með<b/>tilliti<b/>til<s n="cnjsub"/></l><r>considering<s n="cnjsub"/></r></p></e>
     <e><p><l>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
-    <e><p><l>má<b/>til<b/>með<s n="cnjsub"/></l><r>have<b/>to<s n="cnjsub"/></r></p></e>
     <e><p><l>nema<s n="cnjsub"/></l><r>unless<s n="cnjsub"/></r></p></e>
     <e><p><l>né<s n="cnjsub"/></l><r>nor<s n="cnjsub"/></r></p></e>
-    <e><p><l>rétt<b/>eins<b/>og<s n="cnjsub"/></l><r>just<b/>like<s n="cnjsub"/></r></p></e>
-    <e><p><l>sem<b/>og<s n="cnjsub"/></l><r>and<s n="cnjsub"/></r></p></e>
     <e><p><l>sem<s n="cnjsub"/></l><r>as<s n="cnjsub"/></r></p></e>
-    <e><p><l>skömmu<b/>eftir<b/>að<s n="cnjsub"/></l><r>shortly<b/>after<s n="cnjsub"/></r></p></e>
     <e><p><l>svo<b/>að<s n="cnjsub"/></l><r>so<b/>that<s n="cnjsub"/></r></p></e>
-    <e><p><l>svo<b/>mikið<b/>sem<s n="cnjsub"/></l><r>so<b/>much<b/>as<s n="cnjsub"/></r></p></e>
     <e><p><l>síðan<s n="cnjsub"/></l><r>since<s n="cnjsub"/></r></p></e>
     <e><p><l>síðan<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
     <e><p><l>til<b/>að<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e> <!-- Check this -->
@@ -3806,7 +3815,6 @@
     <e><p><l>vegna<b/>þess<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>á<b/>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
     <e><p><l>á<b/>móts<b/>við<s n="cnjsub"/></l><r>near<b/>by<s n="cnjsub"/></r></p></e>
-    <e><p><l>án<b/>þess<s n="cnjsub"/></l><r>without<s n="cnjsub"/></r></p></e>
     <e><p><l>áður<b/>en<s n="cnjsub"/></l><r>before<s n="cnjsub"/></r></p></e>
     <e><p><l>ýmist<s n="cnjsub"/></l><r>either<s n="cnjsub"/></r></p></e>
 
@@ -3814,7 +3822,6 @@
     <e><p><l>þarsem<s n="cnjsub"/></l><r>where<s n="cnjsub"/></r></p></e>
     <e><p><l>þegar<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>því<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
-    <e><p><l>því<b/>aðeins<b/>að<s n="cnjsub"/></l><r>only<b/>if<s n="cnjsub"/></r></p></e>
     <e><p><l>þá<b/>er<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
     <e><p><l>þó<b/>að<s n="cnjsub"/></l><r>although<s n="cnjsub"/></r></p></e>
     <e><p><l>þó<s n="cnjsub"/></l><r>though<s n="cnjsub"/></r></p></e>
@@ -3945,7 +3952,9 @@
 <!--<p><l>auk<s n="pr"/></l><r><g>in<b/></g>addition<s n="pr"/></r></p></e>-->
 <!--<p><l>auk<s n="pr"/></l><r>besides<s n="pr"/></r></p></e>-->
     <e><p><l>auk<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+    <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
     <e><p><l>að<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+    <e><p><l>þrátt<b/>fyrir<b/>það<b/>að<s n="pr"/></l><r>despite<s n="pr"/></r></p></e>
     <e><p><l>allt<b/>að<s n="pr"/></l><r>up<b/>to<s n="pr"/></r></p></e>
     <e><p><l>bak<b/>við<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
     <e><p><l>utan<b/>við<s n="pr"/></l><r>outside<s n="pr"/></r></p></e>
@@ -13984,8 +13993,6 @@
     <e><p><l>fjalla<g><b/>um</g><s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
     <e><p><l>boða<g><b/>á</g><s n="vblex"/></l><r>summon<s n="vblex"/></r></p></e>
  
-
-    <e><p><l>áður<b/>en<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
     <e><p><l>já<s n="ij"/></l><r>yes<s n="ij"/></r></p></e>
     <e><p><l>takk<b/>samt<s n="ij"/></l><r>thanks<b/>anyway<s n="ij"/></r></p></e>
@@ -26851,6 +26858,7 @@
     <e><p><l>eftirá<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
     <e><p><l>því<b/>síður<s n="adv"/></l><r>definitely<b/>not<s n="adv"/></r></p></e>
 
+    <e><p><l>símafundur<s n="n"/><s n="m"/></l><r>telephone<b/>meeting<s n="n"/></r></p></e>
     <e><p><l>plasmasjónvarp<s n="n"/><s n="nt"/></l><r>plasma-screen<b/>television<s n="n"/></r></p></e>
     <e><p><l>kvennafræði<s n="n"/><s n="f"/></l><r>woman<b/>studies<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>karlafræði<s n="n"/><s n="f"/></l><r>man<b/>studies<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>

@@ -9444,6 +9444,7 @@
     <e lm="food poisoning"><i>food<b/>poisoning</i><par n="house__n"/></e>
     <e lm="wedding ring"><i>wedding<b/>ring</i><par n="house__n"/></e>
     <e lm="board meeting"><i>board<b/>meeting</i><par n="house__n"/></e>
+    <e lm="telephone meeting"><i>telephone<b/>meeting</i><par n="house__n"/></e>
     <e lm="inaugural meeting"><i>inaugural<b/>meeting</i><par n="house__n"/></e>
     <e lm="annual meeting"><i>annual<b/>meeting</i><par n="house__n"/></e>
     <e lm="hot dog"><i>hot<b/>dog</i><par n="house__n"/></e>
@@ -35770,11 +35771,13 @@
     <e lm="rather than"><i>rather<b/>than</i><par n="and__cnjcoo"/></e>
     <e lm="than"><i>than</i><par n="and__cnjcoo"/></e>
     <e lm="after"><i>after</i><par n="after__cnjadv"/></e>
+    <e lm="even though"><i>even<b/>though</i><par n="after__cnjadv"/></e>
     <e lm="although"><i>although</i><par n="after__cnjadv"/></e>
     <e lm="as"><i>as</i><par n="after__cnjadv"/></e>
     <e lm="because"><i>because</i><par n="after__cnjadv"/></e>
-    <e lm="before"><i>before</i><par n="after__cnjadv"/></e>
+    <e lm="before"><i>before</i><par n="that__cnjsub"/></e>
     <e lm="for"><i>for</i><par n="after__cnjadv"/></e>
+    <e lm="as soon as"><i>as<b/>soon<b/>as</i><par n="after__cnjadv"/></e>
     <e lm="if"><i>if</i><par n="that__cnjsub"/></e>
     <e lm="on condition that"><i>on<b/>condition<b/>that</i><par n="after__cnjadv"/></e>
     <e lm="due to the fact that"><i>due<b/>to<b/>the<b/>fact<b/>that</i><par n="after__cnjadv"/></e>
@@ -35791,14 +35794,29 @@
     <e lm="unless"><i>unless</i><par n="after__cnjadv"/></e>
     <e lm="when"><i>when</i><par n="that__cnjsub"/></e>
     <e lm="until"><i>until</i><par n="that__cnjsub"/></e>
+    <e lm="until"><i>until</i><par n="after__cnjadv"/></e>
     <e lm="when"><i>when</i><par n="after__cnjadv"/></e>
     <e lm="whereas"><i>whereas</i><par n="after__cnjadv"/></e>
+    <e lm="as long as"><i>as<b/>long<b/>as</i><par n="after__cnjadv"/></e>
     <e lm="whether"><i>whether</i><par n="after__cnjadv"/></e>
     <e lm="while"><i>while</i><par n="that__cnjsub"/></e>
     <e lm="while"><i>while</i><par n="after__cnjadv"/></e>
     <e lm="yet"><i>yet</i><par n="after__cnjadv"/></e>
     <e lm="like"><i>like</i><par n="that__cnjsub"/></e>
     <e lm="that"><i>that</i><par n="that__cnjsub"/></e>
+
+    <e lm="just like" r="RL"><i>just<b/>like</i><par n="after__cnjadv"/></e>
+    <e lm="not until" r="RL"><i>not<b/>until</i><par n="after__cnjadv"/></e>
+    <e lm="as if" r="RL"><i>as<b/>if</i><par n="after__cnjadv"/></e>
+    <e lm="as of" r="RL"><i>as<b/>of</i><par n="after__cnjadv"/></e>
+    <e lm="considering" r="RL"><i>considering</i><par n="after__cnjadv"/></e>
+    <e lm="have to" r="RL"><i>have<b/>to</i><par n="after__cnjadv"/></e>
+    <e lm="just like" r="RL"><i>just<b/>like</i><par n="after__cnjadv"/></e>
+    <e lm="and" r="RL"><i>and</i><par n="after__cnjadv"/></e>
+    <e lm="shortly after" r="RL"><i>shortly<b/>after</i><par n="after__cnjadv"/></e>
+    <e lm="so much as" r="RL"><i>so<b/>much<b/>as</i><par n="after__cnjadv"/></e>
+    <e lm="without" r="RL"><i>without</i><par n="after__cnjadv"/></e>
+    <e lm="only if" r="RL"><i>only<b/>if</i><par n="after__cnjadv"/></e>
 
 
     <!-- Numerals -->

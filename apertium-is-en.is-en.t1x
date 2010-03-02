@@ -1311,6 +1311,10 @@
                      <clip pos="1" side="sl" part="a_nom"/>
                      <lit-tag v="np.ant"/>
                    </equal>
+                   <equal>
+                     <clip pos="1" side="sl" part="a_nom"/>
+                     <lit-tag v="np.al"/>
+                   </equal>
                  </or>
                </not>
              </and>
@@ -1358,6 +1362,10 @@
                  <equal>
                    <clip pos="1" side="sl" part="a_nom"/>
                    <lit-tag v="np.ant"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.al"/>
                  </equal>
                </or>
              </and>
@@ -2965,6 +2973,9 @@
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="nom_article1">
+         <with-param pos="3"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -2977,16 +2988,10 @@
              <chunk name="det_nom-nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="syntax"/></tag>
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
-               <lu>
-                 <get-case-from pos="1">
-                   <lit v="the"/>
-                 </get-case-from>
-                 <lit-tag v="det.def"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
-               </lu>
-               <b/>
+              <var n="article"/>
               <lu>
                  <get-case-from pos="3">
                    <clip pos="1" side="tl" part="lemh"/>
@@ -3003,7 +3008,7 @@
                <lu>
                  <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
                  <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -3014,6 +3019,7 @@
              <chunk name="nom-nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="3" side="tl" part="syntax"/></tag>
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
@@ -3032,7 +3038,7 @@
                <lu>
                  <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
                  <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
