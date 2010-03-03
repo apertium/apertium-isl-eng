@@ -1371,18 +1371,42 @@
                </or>
              </and>
            </test>
-           <let>
-             <var n="article"/>
-             <concat>
-                 <lit v="^"/>
-                   <lit v="the"/>
-                 <!--<get-case-from pos="1">
-                 </get-case-from>-->
-                 <lit-tag v="det.def"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
-                 <lit v="$ "/>
-             </concat>
-           </let> 
+           <choose>
+             <when>
+               <test>
+                 <equal> 
+                   <var n="EOS"/> 
+                   <lit v="true"/> 
+                 </equal> 
+               </test>
+               <let>
+                 <var n="article"/>
+                 <concat>
+                     <lit v="^"/>
+                     <get-case-from pos="1">
+                       <lit v="the"/>
+                     </get-case-from>
+                     <lit-tag v="det.def"/>
+                     <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                     <lit v="$ "/>
+                 </concat>
+               </let> 
+             </when>
+             <otherwise>
+               <let>
+                 <var n="article"/>
+                 <concat>
+                     <lit v="^"/>
+                       <lit v="the"/>
+                     <!--<get-case-from pos="1">
+                     </get-case-from>-->
+                     <lit-tag v="det.def"/>
+                     <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                     <lit v="$ "/>
+                 </concat>
+               </let> 
+             </otherwise>
+           </choose>
          </when>
    </choose>
   </def-macro>
@@ -1909,10 +1933,10 @@
        <pattern-item n="nom"/>
      </pattern>
      <action>
-       <call-macro n="firstWord">
+       <call-macro n="nom_article1">
          <with-param pos="1"/>
        </call-macro>
-       <call-macro n="nom_article1">
+       <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
        <call-macro n="set_curr_syntag">
