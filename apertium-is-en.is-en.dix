@@ -2787,6 +2787,7 @@
     <e><p><l>allt<b/>í<b/>einu<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
     <e><p><l>allt<b/>í<b/>lagi<s n="adv"/></l><r>okay<s n="adv"/></r></p></e>
     <e><p><l>alltaf<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+    <e><p><l>æ<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
     <e><p><l>alltof<s n="adv"/></l><r>far<b/>too<s n="adv"/></r></p></e>
 <!--<p><l>almennilega<s n="adv"/></l><r>correctly<s n="adv"/></r></p></e>-->
 <!--<p><l>almennilega<s n="adv"/></l><r>fairly<s n="adv"/></r></p></e>-->
@@ -4983,8 +4984,8 @@
 <!--<p><l>heimta<s n="vblex"/></l><r>require<s n="vblex"/></r></p></e>-->
 <!--<p><l>heita<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>-->
 <!--<p><l>heita<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>-->
-<!--<e><p><l>heita<s n="vblex"/></l><r>vow<s n="vblex"/></r></p></e>-->
     <e><p><l>heita<s n="vblex"/></l><r>be<g><b/>called</g><s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>heita<s n="vblex"/></l><r>promise<s n="vblex"/></r></p></e>
     <e><p><l>hella<s n="vblex"/></l><r>pour<s n="vblex"/></r></p></e>
 <!--<p><l>hella<s n="vblex"/></l><r>spill<s n="vblex"/></r></p></e>-->
     <e><p><l>henda<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>

@@ -18,6 +18,7 @@ LIST Adv              = (adv);
 LIST Actv             = (actv);
 LIST Midv             = (midv);
 
+LIST Nom              = (nom);
 LIST Acc              = (acc);
 LIST Gen              = (gen);
 LIST Dat              = (dat);
@@ -103,6 +104,9 @@ SUBSTITUTE ("afgreiða") ("afgreiða:1") ("afgreiða") + Verb (1 ("mál"));
 # "fylgja" :  {0:"accompany", 1:"keep# up", 2:"pay# attention"};
 SUBSTITUTE ("fylgja") ("fylgja:1") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB);
 SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB LINK 1* @←OBJ | @X BARRIER CLB);
+
+# "heita"  : {0:"be# called", 1:"promise"};
+SUBSTITUTE ("heita") ("heita:1") ("heita") + Verb (1 Dat) (-1 Nom);
 
 
 ## 

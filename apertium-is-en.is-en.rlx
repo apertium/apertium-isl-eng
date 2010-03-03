@@ -17,7 +17,7 @@ LIST CLB = (sent) (cnjsub) (cm) (rel) (cnjcoo);
 
 LIST Coma = (cm);
 LIST N = (n) ;
-LIST Num = (num) ("þúsund" n) ("milljón" n);
+LIST Num = (num) ("þúsund" n) ("milljón" n) ("milljarður" n) ("hundrað" n);
 LIST ProperNom = (np) ;
 LIST Adj = (adj) ;
 LIST Weak = (vei) ;
@@ -191,6 +191,8 @@ SELECT Adj IF (-1 VerbBe) (NOT -2 BOS) (-2 PersPron);
 
 #Auðvitað brá okkur við þetta
 REMOVE N IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 N);
+#Bandaríkin heita aðstoð
+REMOVE Adj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 Adj);
 
 #################################################################################
 # Adverbs
@@ -333,6 +335,12 @@ REMOVE PersPron + Nom IF (-1C* PersPron BARRIER CLB);
 #################################################################################
 # NPs  
 #################################################################################
+
+# 15 milljörðum dollara
+# um 1.950 milljörðum íslenskra króna. 
+#   This is a hack because we don't want to do unification with 'billion' etc. perhaps there
+#   is a better way of doing it .
+SELECT (n pl gen) IF (-1C Num + (pl)); 
 
 REMOVE:ufc_f  PP + Fem IF (0  $$NAGD) (*1 NomMscNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Fem);
 REMOVE:ufc_m  PP + Msc IF (0  $$NAGD) (*1 NomFemNeu + $$NAGD BARRIER NPNHA LINK NOT 0 Msc);
@@ -497,6 +505,9 @@ MAP (@←SUBJ) TARGET N + Nom + $$NUMBER (-1* VerbFin + $$NUMBER + (p3) BARRIER 
 
 MAP (@SUBJ→) TARGET N + Nom (1C VerbFin) (0 N + Nom);
 MAP (@SUBJ→) TARGET N + Nom (1C* VerbFin BARRIER CLB) (0 N + Nom);
+
+MAP (@SUBJ→) TARGET ProperNom + Nom (1 VerbFin) (0 ProperNom + Nom) (NOT -1* Nom BARRIER CLB) (NOT 1C* Nom BARRIER CLB);
+
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
 MAP (@←SUBJ) TARGET ProperNom + Nom (-1C VerbFin) (0C ProperNom + Nom);
 
