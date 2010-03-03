@@ -7,6 +7,9 @@
     <def-cat n="REPORT_VERB">
       <cat-item tags="SVrep.*"/>
     </def-cat>
+    <def-cat n="VCOP">
+      <cat-item lemma="be" tags="SV.@+FMAINV.*"/>
+    </def-cat>
     <def-cat n="FMAINV">
       <cat-item tags="SV.@+FMAINV.*"/>
     </def-cat>
@@ -398,6 +401,37 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: SN_SUBJ VCOP NEG → SN_SUBJ VCOP NEG">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="VCOP"/>
+        <pattern-item n="NEG"/>
+      </pattern>
+      <action c="Jarðskjálftar eru ekki → Earthquakes are not"> 
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: SN_SUBJ_L FMAINV ADV NEG → SN_SUBJ_L ADV do not FMAINV">
       <pattern>
         <pattern-item n="SN_SUBJ_L"/>
@@ -661,8 +695,6 @@
         </out>
       </action>
     </rule>
-
-
 
     <rule comment="REGLA: SN_SUBJ SV SADV → SN_SUBJ SADV SV">
       <pattern>
