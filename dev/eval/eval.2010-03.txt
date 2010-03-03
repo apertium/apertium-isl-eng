@@ -47,7 +47,7 @@
 2848	In Italy are some of the most active volcanos in Europe such as Etna, Vesúvíus and Strombólí. 
 
 2849	Jarðskjálftar eru ekki óalgengir og þó nokkur jarðhiti er á mörgum stöðum.
-2849	Earthquakes not are uncommon and still some geothermal energy is on many situations.
+2849	Earthquakes are not uncommon and still some geothermal energy is on many situations.
 2849	Earthquakes are not uncommon and there is considerable geothermal energy in many places. 
 
 4455	Ofsóknargeðklofi er algengari meðal karlmanna en kvenna og upphaf hans er oftast þegar einstaklingurinn er 15 til 34 ára.
