@@ -10597,6 +10597,7 @@
     <e lm="Palestinian"><par n="Pp"/><i>alestinian</i><par n="house__n"/></e>
     <e lm="Protestant"><par n="Pp"/><i>rotestant</i><par n="house__n"/></e>
     <e lm="Russian"><par n="Rr"/><i>ussian</i><par n="house__n"/></e>
+    <e lm="Belarusian"><par n="Bb"/><i>elarusian</i><par n="house__n"/></e>
 
 
     <e lm="Icelander"><par n="Ii"/><i>celander</i><par n="house__n"/></e>
@@ -10616,6 +10617,9 @@
     <e lm="Briton"><par n="Bb"/><i>riton</i><par n="house__n"/></e>
     <e lm="Englishman"><par n="Ee"/><i>nglishm</i><par n="m/an__n"/></e>
     <e lm="Valencian"><par n="Vv"/><i>alencian</i><par n="house__n"/></e>
+    <e lm="Afrikaans"><par n="Aa"/><i>frikaans</i><par n="east__n"/></e>
+    <e lm="Ayamara"><par n="Aa"/><i>ymara</i><par n="east__n"/></e>
+    <e lm="Frisian"><par n="Ff"/><i>risian</i><par n="house__n"/></e>
 
 
     <e lm="Turkish"><par n="Tt"/><i>urkish</i><par n="politics__n"/></e>

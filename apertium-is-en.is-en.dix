@@ -175,6 +175,11 @@
       <e r="RL"><p><l><s n="ND"/></l><r><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="rússneska_Russian__n">
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="unc"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="sg"/></l><r><s n="sg"/></r></p></e>
+    </pardef>
+
     <pardef n="jarðfræði_geology__n">
       <e r="LR"><p><l><s n="sg"/></l><r><s n="unc"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l><s n="pl"/></l><r><s n="unc"/><s n="sg"/></r></p></e>
@@ -8275,7 +8280,7 @@
     <e><p><l>afmæli<s n="n"/><s n="nt"/></l><r>birthday<s n="n"/></r></p></e>
     <e><p><l>afmælisdagur<s n="n"/><s n="m"/></l><r>birth<b/>day<s n="n"/></r></p></e>
     <e><p><l>afmælisgjöf<s n="n"/><s n="f"/></l><r>birthday<b/>present<s n="n"/></r></p></e>
-    <e><p><l>afríkanska<s n="n"/><s n="f"/></l><r>Afrikaans<s n="n"/></r></p></e>
+    <e><p><l>afríkanska<s n="n"/><s n="f"/></l><r>Afrikaans<s n="n"/></r></p><par n="rússneska_Russian__n"/></e>
     <e><p><l>afsláttur<s n="n"/><s n="m"/></l><r>discount<s n="n"/></r></p></e> <!-- (from a price) -->
     <e><p><l>afstaða<s n="n"/><s n="f"/></l><r>stand<s n="n"/></r></p></e>
     <e slr="1"><p><l>afstaða<s n="n"/><s n="f"/></l><r>attitude<s n="n"/></r></p></e>
@@ -8391,7 +8396,7 @@
     <e><p><l>austur<s n="n"/><s n="nt"/></l><r>east<s n="n"/></r></p></e>
     <e><p><l>auðna<s n="n"/><s n="f"/></l><r>good<b/>fortune<s n="n"/></r></p></e>
     <e><p><l>ax<s n="n"/><s n="nt"/></l><r>ear<g><b/>of<b/>corn</g><s n="n"/></r></p></e> <!-- (of corn) -->
-    <e><p><l>aímaríska<s n="n"/><s n="f"/></l><r>Aymara<s n="n"/></r></p></e> <!-- (language of South America) -->
+    <e><p><l>aímaríska<s n="n"/><s n="f"/></l><r>Aymara<s n="n"/></r></p><par n="rússneska_Russian__n"/></e> 
     <e><p><l>aínúmál<s n="n"/><s n="nt"/></l><r>Ainu<b/>language<s n="n"/></r></p></e>
     <e><p><l>aðalakkeri<s n="n"/><s n="nt"/></l><r>main<b/>anchor<s n="n"/></r></p></e>
     <e><p><l>aðalbygging<s n="n"/><s n="f"/></l><r>main<b/>building<s n="n"/></r></p></e>
@@ -9327,7 +9332,7 @@
     <e><p><l>frétt<s n="n"/><s n="f"/></l><r>news<s n="n"/></r></p></e>
     <e><p><l>fréttablað<s n="n"/><s n="nt"/></l><r>newspaper<s n="n"/></r></p></e>
     <e><p><l>frí<s n="n"/><s n="nt"/></l><r>holiday<s n="n"/></r></p></e>
-    <e><p><l>frísneska<s n="n"/><s n="f"/></l><r>Frisian<s n="n"/></r></p></e>
+    <e><p><l>frísneska<s n="n"/><s n="f"/></l><r>Frisian<s n="n"/></r></p><par n="rússneska_Russian__n"/></e>
     <e><p><l>fró<s n="n"/><s n="f"/></l><r>relief<s n="n"/></r></p></e>
     <!--<e><p><l>fró<s n="n"/><s n="f"/></l><r>satisfaction<s n="n"/></r></p></e>-->
     <e><p><l>frú<s n="n"/><s n="f"/></l><r>Mrs<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- +Mrs. -->
@@ -10500,7 +10505,7 @@
     <e><p><l>kóngur<s n="n"/><s n="m"/></l><r>king<s n="n"/></r></p></e> <!-- (male monarch) -->
     <e><p><l>kór<s n="n"/><s n="m"/></l><r>chorus<s n="n"/></r></p></e> <!-- (group of singers) -->
     <!--<e><p><l>kirkjukór<s n="n"/><s n="m"/></l><r>choir<s n="n"/></r></p></e> --> <!-- (part of a church) -->
-    <e><p><l>kóreska<s n="n"/><s n="f"/></l><r>Korean<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>kóreska<s n="n"/><s n="f"/></l><r>Korean<s n="n"/></r></p><par n="rússneska_Russian__n"/></e> <!-- (language) -->
     <e><p><l>kóróna<s n="n"/><s n="f"/></l><r>crown<s n="n"/></r></p></e>
     <e><p><l>köfnunarefni<s n="n"/><s n="nt"/></l><r>nitrogen<s n="n"/></r></p></e>
     <e><p><l>könguló<s n="n"/><s n="f"/></l><r>spider<s n="n"/></r></p></e> <!-- (arthropod) -->
@@ -11528,7 +11533,7 @@
     <e><p><l>rúmföt<s n="n"/><s n="nt"/></l><r>bedsheets<s n="n"/></r></p><par n="lögregla_police__n"/></e>
     <e><p><l>rúmteppi<s n="n"/><s n="nt"/></l><r>blanket<s n="n"/></r></p></e>
     <e><p><l>rún<s n="n"/><s n="f"/></l><r>rune<s n="n"/></r></p></e>
-    <e><p><l>rússneska<s n="n"/><s n="f"/></l><r>Russian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>rússneska<s n="n"/><s n="f"/></l><r>Russian<s n="n"/></r></p><par n="rússneska_Russian__n"/></e> <!-- (language) -->
     <e><p><l>rúta<s n="n"/><s n="f"/></l><r>bus<s n="n"/></r></p></e>
     <!--<e><p><l>rúta<s n="n"/><s n="f"/></l><r>coach<s n="n"/></r></p></e>-->
     <e><p><l>rúða<s n="n"/><s n="f"/></l><r>windowpane<s n="n"/></r></p></e>
@@ -12204,7 +12209,7 @@
     <e><p><l>söngvari<s n="n"/><s n="m"/></l><r>singer<s n="n"/></r></p></e>
     <e><p><l>sönnur<s n="n"/><s n="f"/></l><r>proof<s n="n"/></r></p></e>
     <e><p><l>súkkulaði<s n="n"/><s n="nt"/></l><r>chocolate<s n="n"/></r></p></e>
-    <e><p><l>súmerska<s n="n"/><s n="nt"/></l><r>Sumerian<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>súmerska<s n="n"/><s n="nt"/></l><r>Sumerian<s n="n"/></r></p><par n="rússneska_Russian__n"/></e> <!-- (language) -->
     <e><p><l>súpa<s n="n"/><s n="f"/></l><r>soup<s n="n"/></r></p></e>
     <e><p><l>súrefni<s n="n"/><s n="nt"/></l><r>oxygen<s n="n"/></r></p></e>
     <e><p><l>sút<s n="n"/><s n="f"/></l><r>sorrow<s n="n"/></r></p></e>
@@ -18420,7 +18425,7 @@
     <e><p><l>hvíslari<s n="n"/><s n="m"/></l><r>prompter<s n="n"/></r></p></e>
     <e><p><l>hvítasunna<s n="n"/><s n="f"/></l><r>Whitsun<s n="n"/></r></p></e>
     <e><p><l>hvítkál<s n="n"/><s n="nt"/></l><r>cabbage<s n="n"/></r></p></e> <!-- (white) -->
-    <e><p><l>hvítrússneska<s n="n"/><s n="f"/></l><r>Byelorussian<s n="n"/></r></p></e>
+    <e><p><l>hvítrússneska<s n="n"/><s n="f"/></l><r>Belarusian<s n="n"/></r></p><par n="rússneska_Russian__n"/></e>
     <e c="0"><p><l>hvöt<s n="n"/><s n="f"/></l><r>encouragement<s n="n"/></r></p></e>
     <e slr="1"><p><l>hvöt<s n="n"/><s n="f"/></l><r>motivation<s n="n"/></r></p></e>
     <e slr="2"><p><l>hvöt<s n="n"/><s n="f"/></l><r>instinct<s n="n"/></r></p></e>
