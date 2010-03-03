@@ -36,7 +36,7 @@
 
 2037	Það land þar sem þjóðaratkvæðagreiðslur eru hvað mest í notkun er Sviss þar sem þær eru haldnar reglulega um margs kyns málefni. 
 2037	It land as referendums are each most in use is Switzerland as they are held regularly about many gender issue. 
-2037	The land where referendums are most in use is Switzerland where they are held regularly about many kinds of issues.
+2037	The country where referendums are most in use is Switzerland where they are held regularly about many kinds of issues.
 
 2038	Varlega má áætla að ríflegur meirihluti þjóðaratkvæðagreiðslna sem átt hafa sér stað í sögunni hafi verið haldnar í Sviss.
 2038	Carefully may estimate that ample majority of referendums that owned have oneself place in the history has been held in Switzerland.
