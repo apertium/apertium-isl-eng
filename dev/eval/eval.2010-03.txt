@@ -19,7 +19,7 @@
 479	When this is compared with new English works it may be seen how quickly the English moves away from the Icelandic:
 
 670	Hliðstætt þá sýndi Albert Bandura fram á það í verki sínu að börn gætu lært með því að fylgjast með hegðun í umhverfi sínu, án breytinga á hegðun svo eitthvað innra með okkur hlyti að eiga hlut að máli.
-670	*Hliðstætt  at that time showed *Albert *Bandura forth on it in its work to children can learn with because keep up with the behaviour in its environment  without changes on the behaviour  then some more inner with us received to own thing that matter.
+670	*Hliðstætt at that time showed *Albert *Bandura forth on it in its work to children can learn with because keep up with the behaviour in its environment without changes on the behaviour then some more inner with us received to own thing that matter.
 670	At the same time Albert Bandura proved in his work that children can learn to adapt to changes in their environment without changes in the behaviour so that something inside of us must matter.
 
 1259	Í löndum eins og Írak, Ítalíu og Spáni eru opinber tungumál en í sumum héruðum þessara landa eru leyfð önnur tungumál. 
@@ -58,8 +58,7 @@
 4351	He owned in difficulties with to choose subject but the medicine became finally before the choice.
 4351	He had difficulties with chosing a subject but medicine finally became the choice.
 
-
-4596	Fjórir stærstu stjórnmálaflokkarnir halda flestum, ef ekki öllum  sætum á þinginu.
+4596	Fjórir stærstu stjórnmálaflokkarnir halda flestum, ef ekki öllum sætum á þinginu.
 4596	The Four big political parties hold most, if not all seats on the parliament.
 4596	The four big political parties hold most, if not all seats in the parliament.
 
@@ -67,6 +66,6 @@
 4659	Climate in *Porto is tender. 
 4659	The climate in Porto is mild.
 
-4660	Sumur eru heit, allt uppí 40 gráður,  en hitastigið er þó lægra en í flestum borgum í suðurhlutanum og inn til landsins þökk sé köldum vindum sem blása af Atlantshafinu.
-4660	Summers are hot, all in 40 degrees, but the temperature is still lowest but in most cities in the south and in to the land  thanks is cold winds that blow of *Atlantshafinu.
+4660	Sumur eru heit, allt uppí 40 gráður, en hitastigið er þó lægra en í flestum borgum í suðurhlutanum og inn til landsins þökk sé köldum vindum sem blása af Atlantshafinu.
+4660	Summers are hot, all in 40 degrees, but the temperature is still lowest but in most cities in the south and in to the land thanks is cold winds that blow of *Atlantshafinu.
 4660	Summers are hot, up to 40 degrees, but the temperature is still lower than in most cities in the south and inland thanks to cold winds that blow off the Atlantic Ocean.
