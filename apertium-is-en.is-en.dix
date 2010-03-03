@@ -8271,7 +8271,7 @@
     <e><p><l>afleiðing<s n="n"/><s n="f"/></l><r>result<s n="n"/></r></p></e>
     <e slr="1"><p><l>afleiðing<s n="n"/><s n="f"/></l><r>consequence<s n="n"/></r></p></e>
     <e slr="2"><p><l>afleiðing<s n="n"/><s n="f"/></l><r>effect<s n="n"/></r></p></e>
-    <e><p><l>aflfræði<s n="n"/><s n="f"/></l><r>classical<b/>mechanics<s n="n"/></r><par n="jarðfræði_geology__n"/></p></e>
+    <e><p><l>aflfræði<s n="n"/><s n="f"/></l><r>classical<b/>mechanics<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>afmæli<s n="n"/><s n="nt"/></l><r>birthday<s n="n"/></r></p></e>
     <e><p><l>afmælisdagur<s n="n"/><s n="m"/></l><r>birth<b/>day<s n="n"/></r></p></e>
     <e><p><l>afmælisgjöf<s n="n"/><s n="f"/></l><r>birthday<b/>present<s n="n"/></r></p></e>
@@ -13447,6 +13447,9 @@
     <e><p><l>sjávarútvegs-<b/>og<b/>landbúnaðarráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>of<b/>Fisheries<b/>and<b/>Agriculture</g><s n="n"/></r></p></e>
     <e><p><l>umhverfisráðherra<s n="n"/><s n="m"/></l><r>Minister<g><b/>for<b/>the<b/>Environment</g><s n="n"/></r></p></e>
 
+    <e><p><l>breti<s n="n"/><s n="m"/><s n="sg"/></l><r>Briton<s n="n"/><s n="sg"/></r></p></e>
+    <e><p><l>breti<s n="n"/><s n="m"/><s n="pl"/></l><r>British<s n="n"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>breti<s n="n"/><s n="m"/><s n="pl"/></l><r>Briton<s n="n"/><s n="pl"/></r></p></e>
 
     <!-- END Nouns -->
 <!-- END Do sort alphabetically -->
@@ -13456,10 +13459,6 @@
   <section id="unchecked" type="standard">
 
     <!-- TODO:  Fran insert additions here, Martha lightly proofread :) -->
-
-    <e><p><l>breti<s n="n"/><s n="m"/><s n="sg"/></l><r>Briton<s n="n"/><s n="sg"/></r></p></e>
-    <e r="RL"><p><l>breti<s n="n"/><s n="m"/><s n="pl"/></l><r>Briton<s n="n"/><s n="pl"/></r></p></e>
-    <e><p><l>breti<s n="n"/><s n="m"/><s n="pl"/></l><r>British<s n="n"/><s n="pl"/></r></p></e>
 
     <e><p><l>sveitarstjóri<s n="n"/><s n="m"/></l><r>municipal<b/>manager<s n="n"/></r></p></e>  <!-- ? can the title be 'mayor' if it is a small rural town? -->
     <e><p><l>Hollendingur<s n="n"/><s n="m"/></l><r>Dutch<s n="n"/></r></p></e> 
@@ -15766,7 +15765,6 @@
     <e><p><l>Björgvin<s n="n"/><s n="f"/></l><r>Bergen<s n="n"/></r></p></e> <!-- (in Norway) -->
     <e><p><l>Borgundarhólmur<s n="n"/><s n="m"/></l><r>Bornholm<s n="n"/></r></p></e>
     <e><p><l>Brasilía<s n="n"/><s n="f"/></l><r>Brazil<s n="n"/></r></p></e>
-    <e><p><l>Breti<s n="n"/><s n="m"/></l><r>Briton<s n="n"/></r></p></e> <!-- (native of Great Britain) -->
     <e><p><l>Búlgaría<s n="n"/><s n="f"/></l><r>Bulgaria<s n="n"/></r></p></e>
     <e><p><l>Dani<s n="n"/><s n="m"/></l><r>Dane<s n="n"/></r></p></e>
     <e><p><l>Eistland<s n="n"/><s n="nt"/></l><r>Estonia<s n="n"/></r></p></e>
