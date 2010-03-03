@@ -5,3 +5,68 @@
 8	Finnland og Svíþjóð eiga nærri 700 ára sameiginlega sögu. 
 8	Finland and Sweden own near 700 years joint history. 
 8	Finland and Sweden have nearly 700 years of joint history.
+
+16	Finnland fékk inngöngu í Evrópusambandið árið 1995 um leið og Svíþjóð og Austurríki og er hið eina Norðurlandanna sem hefur tekið upp evru sem gjaldmiðil.
+16	Finland got entrance in the European Union in 1995 as soon as Sweden and Austria and when the one Nordic countries that has taken up euro that currency.
+16	Finland got into the European Union in 1995 at the same time as Sweden and Austria and is the only one of the Nordic countries that has taken up the euro as currency.
+
+512	Lagið og textinn eru eftir Valgeir Guðjónsson en flytjandi var Daníel Ágúst Haraldsson.
+512	Layer and the text are after Valgeir Guðjónsson but moving was Daníel Ágúst Haraldsson.
+512	The song and the lyrics are by Valgeir Guðjónsson but the performer was Daníel Ágúst Haraldsson.
+
+479	Þegar þetta er borið saman við nýrri ensk verk má sjá hversu hratt enskan fjarlægist íslenskuna:
+479	When this is carried same with new English works may see how fast English removes the Icelandic:
+479	When this is compared with new English works it may be seen how quickly the English moves away from the Icelandic:
+
+670	Hliðstætt þá sýndi Albert Bandura fram á það í verki sínu að börn gætu lært með því að fylgjast með hegðun í umhverfi sínu, án breytinga á hegðun svo eitthvað innra með okkur hlyti að eiga hlut að máli.
+670	*Hliðstætt  at that time showed *Albert *Bandura forth on it in its work to children can learn with because keep up with the behaviour in its environment  without changes on the behaviour  then some more inner with us received to own thing that matter.
+670	At the same time Albert Bandura proved in his work that children can learn to adapt to changes in their environment without changes in the behaviour so that something inside of us must matter.
+
+1259	Í löndum eins og Írak, Ítalíu og Spáni eru opinber tungumál en í sumum héruðum þessara landa eru leyfð önnur tungumál. 
+1259	In lands like Iraq, Italy and Spain are official languages but in some districts these countries are allowed other languages. 
+1259	In countries like Iraq, Italy and Spain, there are official languages but in some regions of these countries other languages are permitted. 
+
+1260	Önnur lönd eins og Bandaríkin hafa ekkert opinbert tungumál en nokkur ríki Bandaríkjanna hafa opinbert tungumál. 
+1260	Other countries like the United States oceans no official language but some states the United States have official language. 
+1260	Other countries like the United States have no official language but some states of the United States do have an official language.
+
+1261	Að lokum má nefna lönd eins og Ástralíu, Lúxemborg og Svíþjóð sem hafa ekkert opinbert tungumál, ekki er heldur getið um opinbert tungumál í stjórnarskrá Íslands.
+1261	Finally may mention lands like Australia, *Lúxemborg and Sweden as have no official language, not which holds been able to about official language in constitution of Iceland.
+1261	Finally it is worth mentioning countries like Australia, Luxembourg and Sweden which have no official language, and neither is there mention of official language in the constitution of Iceland.
+
+2037	Það land þar sem þjóðaratkvæðagreiðslur eru hvað mest í notkun er Sviss þar sem þær eru haldnar reglulega um margs kyns málefni. 
+2037	It land as referendums are each most in use is Switzerland as they are held regularly about many gender issue. 
+2037	The land where referendums are most in use is Switzerland where they are held regularly about many kinds of issues.
+
+2038	Varlega má áætla að ríflegur meirihluti þjóðaratkvæðagreiðslna sem átt hafa sér stað í sögunni hafi verið haldnar í Sviss.
+2038	Carefully may estimate that ample majority of referendums that owned have oneself place in the history has been held in Switzerland.
+2038	It may be carefully estimated that a substantial majority of referendums that have been held in history have been held in Switzerland.
+
+2848	Á Ítalíu eru nokkur virkustu eldfjöll Evrópu eins og Etna, Vesúvíus og Strombólí. 
+2848	On Italy are some most active volcanos Europe like *Etna, *Vesúvíus and *Strombólí. 
+2848	In Italy are some of the most active volcanos in Europe such as Etna, Vesúvíus and Strombólí. 
+
+2849	Jarðskjálftar eru ekki óalgengir og þó nokkur jarðhiti er á mörgum stöðum.
+2849	Earthquakes not are uncommon and still some geothermal energy is on many situations.
+2849	Earthquakes are not uncommon and there is considerable geothermal energy in many places. 
+
+4455	Ofsóknargeðklofi er algengari meðal karlmanna en kvenna og upphaf hans er oftast þegar einstaklingurinn er 15 til 34 ára.
+4455	*Ofsóknargeðklofi when more common amongst the men but women and his beginning is often when individual is 15 to 34 years.
+4455	Paranoid schizophrenia is more common amongst men than women and its beginning is often when the individual is 15 to 34 years old.
+
+4351	Hann átti í erfiðleikum með að velja námsgrein en læknisfræðin varð að lokum fyrir valinu.
+4351	He owned in difficulties with to choose subject but the medicine became finally before the choice.
+4351	He had difficulties with chosing a subject but medicine finally became the choice.
+
+
+4596	Fjórir stærstu stjórnmálaflokkarnir halda flestum, ef ekki öllum  sætum á þinginu.
+4596	The Four big political parties hold most, if not all seats on the parliament.
+4596	The four big political parties hold most, if not all seats in the parliament.
+
+4659	Veðurfarið í Porto er milt. 
+4659	Climate in *Porto is tender. 
+4659	The climate in Porto is mild.
+
+4660	Sumur eru heit, allt uppí 40 gráður,  en hitastigið er þó lægra en í flestum borgum í suðurhlutanum og inn til landsins þökk sé köldum vindum sem blása af Atlantshafinu.
+4660	Summers are hot, all in 40 degrees, but the temperature is still lowest but in most cities in the south and in to the land  thanks is cold winds that blow of *Atlantshafinu.
+4660	Summers are hot, up to 40 degrees, but the temperature is still lower than in most cities in the south and inland thanks to cold winds that blow off the Atlantic Ocean.
