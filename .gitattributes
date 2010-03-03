@@ -55,6 +55,7 @@ dev/icetagger.ruleset -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/is-tags.mapping.txt -text
+dev/run-testvoc.sh -text
 dev/sorting/bidixSort.sh -text
 dev/sorting/howto_run_bidixSort_recursively.txt -text
 dev/sorting/temp_sorting/abbrev.xml -text
