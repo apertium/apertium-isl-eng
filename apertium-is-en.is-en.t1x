@@ -2675,7 +2675,7 @@
   <rule comment="REGLA: NOM NUM NOMGEN">
      <pattern>
        <pattern-item n="nom"/>
-       <pattern-item n="num"/>
+       <pattern-item n="num_mod"/>
        <pattern-item n="gen_nom"/>
      </pattern>
      <action>
