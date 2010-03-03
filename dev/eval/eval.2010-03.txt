@@ -44,11 +44,11 @@
 
 2848	Á Ítalíu eru nokkur virkustu eldfjöll Evrópu eins og Etna, Vesúvíus og Strombólí. 
 2848	On Italy are some most active volcanos Europe like *Etna, *Vesúvíus and *Strombólí. 
-2848	In Italy are some of the most active volcanos in Europe such as Etna, Vesúvíus and Strombólí. 
+2848	In Italy are some of the most active volcanos in Europe such as Mount Etna, Mount Vesuvius and Stromboli. 
 
 2849	Jarðskjálftar eru ekki óalgengir og þó nokkur jarðhiti er á mörgum stöðum.
 2849	Earthquakes are not uncommon and still some geothermal energy is on many situations.
-2849	Earthquakes are not uncommon and there is considerable geothermal energy in many places. 
+2849	Earthquakes are not uncommon and there is considerable geothermal heat in many places. 
 
 4455	Ofsóknargeðklofi er algengari meðal karlmanna en kvenna og upphaf hans er oftast þegar einstaklingurinn er 15 til 34 ára.
 4455	*Ofsóknargeðklofi when more common amongst the men but women and his beginning is often when individual is 15 to 34 years.
@@ -72,15 +72,15 @@
 
 2822	Þór býr í höll sem heitir Bilskirnir í ríki sínu sem kallast Þrúðvangur.
 2822	Þór lives in inclined that is called *Bilskirnir in her state that calls *Þrúðvangur.
-2822	Þór lives in a palace that is called Bilskirnir in his country that is called Þrúðvangur.
+2822	Þór lives in a palace that is called Bilskirnir in his kingdom that is called Þrúðvangur.
 
 2833	Í Bilskirni voru 540 herbergi og var stærst allra húsa sem menn kunnu skil á.
 2833	In *Bilskirni were 540 room and was biggest all houses that men knew boundaries on.
-2833	In Bilskirni there were 540 rooms and it was the biggest of all the houses that men knew of.
+2833	In Bilskirnir there were 540 rooms and it was the biggest of all the houses that men knew of.
 
 866	Um sumarið 1993 var hún sýnd í Regnboganum með enskum texta fyrir ferðamenn. 
 866	About the summer 1993 she was showed in the rainbow with English text before tourists. 
-866	In the summer of 1993 it was showed in Regnbogur with English subtitles for tourists. 
+866	In the summer of 1993 it was showed in Regnboginn with English subtitles for tourists. 
 
 867	Enska textann má finna á íslenskri DVD útgáfu myndarinnar.
 867	The English text may find on Icelandic *DVD the version of picture.
@@ -92,7 +92,7 @@
 
 3018	Þjóðsögur um Svan á Svanshóli segja að hann hafi gengið í fjallið Kaldbakshorn eftir dauða sinn og verið fagnað vel.
 3018	Folktales about Svanur on *Svanshóli say that he has joined the mountain *Kaldbakshorn after his death and be celebrated well.
-3018	Folktales about Svanur of Svanshólar say that he has walked into the mountain Haldbakshorn after his death and was welcomed well.
+3018	Folktales about Svanur of Svanshóll say that he had walked into the mountain Kaldbakshorn after his death and was welcomed well.
 
 2205	Núna er rekinn þar skóli, Háskólinn á Hólum.
 2205	Now the flotsam is there school, the university on Hillocks.
@@ -100,15 +100,15 @@
 
 172	Lofsöngurinn samanstendur af þremur erindum og er yfirleitt látið nægja að syngja það fyrsta við opinberar samkomur.
 172	*Lofsöngurinn comprises of three errands and is usually let suffice to sing it first wood official conjugations.
-172	The hymn comprises of three verses and it is usually sufficient to sing it first at official gatherings.
+172	The hymn comprises of three verses and it is usually sufficient to sing the first one at official gatherings.
 
 2461	Skemmtileg grein um atvik í stjórnmálasögu Íslands sem gerir efni sínu góð skil.
 2461	funny article about incident in political history of Iceland that does its material good boundaries.
-2461	Nice article about an incident in the political history of Iceland that makes its material well separated.
+2461	Amusing article about an incident in the political history of Iceland that does its material justice.
 
 2221	Þann 3. september lýstu Bretar og Frakkar yfir stríði á hendur Þjóðverjum. 
 2221	The one 3rd September British showed and Coats over war on hands *Þjóðverjum. 
-2221	That 3rd September the British and French declared war on the Germans.
+2221	On the 3rd of September the British and French declared war on the Germans.
 
 2222	Kanada, Ástralía og Nýja-Sjáland fylgdu svo fljótlega í kjölfarið.
 2222	Canada, Australia and New Zealand accompanied then soon in the wake.
@@ -120,19 +120,19 @@
 
 3594	Ríkisstjórnir eru valdar á ýmsan hátt, í Bandaríkjunum er forseti kjörinn sem æðsti maður ríkisstjórnar, hann velur svo hverjir skipa ríkisstjórnina. 
 3594	Governments are chosen on various manner, in the United States which president perfect as most superior man of government, he chooses then what ships the government. 
-3594	Governments are chosen in various manners, in the United States the president is elected as the highest man in government, he chooses then appoints the government. 
+3594	Governments are chosen in various manners, in the United States the president is elected as the highest man in government, he then chooses who sit in the government. 
 
 3595	Ríkisstjórn Íslands er lýðræðislega kjörin þar sem hún er þingbundin hinu lýðræðislega kjörna Alþingi Íslands þó hún sé ekki kosin beint.
 3595	Government of Iceland when democratic perfect as she is *þingbundin the democratic perfect Althing Iceland still she is not voted straight.
-3595	The government of Iceland is democratically elected as it is the congress of the democratically elected Althing of Iceland though it is not voted directly.
+3595	The government of Iceland is democratically elected as it is congressionally bound to the democratically elected Althing of Iceland even though it is not voted for directly.
 
-1079	Sveitarfélagið varð til 6. júní 1998 við sameiningu 11 sveitarfélaga í Skagafirði, Skefilsstaðahrepps, Sauðárkrókskaupstaðar, Skarðshrepps, Staðarhrepps, Seyluhrepps, Lýtingsstaðahrepps, Rípurhrepps, Viðvíkurhrepps, Hólahrepps, Hofshrepps og Fljótahrepps. 
-1079	Municipality became to 6th June 1998 with union of the 11 municipalities in *Skagafirði, *Skefilsstaðahrepps, *Sauðárkrókskaupstaðar, *Skarðshrepps, *Staðarhrepps, *Seyluhrepps, *Lýtingsstaðahrepps, *Rípurhrepps, *Viðvíkurhrepps, *Hólahrepps, *Hofshrepps and *Fljótahrepps. 
-1079	The municipality came into existance on the 6th July 1998 with the merger of the 11 municipalities of Skagafirði, Skefilsstaðahrepps, Sauðárkrókskaupstaðar, Skarðshrepps, Staðarhrepps, Seyluhrepps, Lýtingsstaðahrepps, Rípurhrepps, Viðvíkurhrepps, Hólahrepps, Hofshrepps and Fljótahrepps.
+1079	Sveitarfélagið varð til 6. júní 1998 við sameiningu 11 sveitarfélaga í Skagafirði; Skefilsstaðahrepps, Sauðárkrókskaupstaðar, Skarðshrepps, Staðarhrepps, Seyluhrepps, Lýtingsstaðahrepps, Rípurhrepps, Viðvíkurhrepps, Hólahrepps, Hofshrepps og Fljótahrepps. 
+1079	Municipality became to 6th June 1998 with union of the 11 municipalities in *Skagafirði; *Skefilsstaðahrepps, *Sauðárkrókskaupstaðar, *Skarðshrepps, *Staðarhrepps, *Seyluhrepps, *Lýtingsstaðahrepps, *Rípurhrepps, *Viðvíkurhrepps, *Hólahrepps, *Hofshrepps and *Fljótahrepps. 
+1079	The municipality came into existance on the 6th July 1998 with the merger of 11 municipalities in Skagafjörður; Skefilsstaðahreppur, Sauðárkrókskaupstaður, Skarðshreppur, Staðarhreppur, Seyluhreppur, Lýtingsstaðahreppur, Rípurhreppur, Viðvíkurhreppur, Hólahreppur, Hofshreppur and Fljótahreppur.
 
 1080	Höfðu íbúar þeirra samþykkt sameininguna í kosningum 15. nóvember árið áður.  
 1080	Had their residents approved the union in elections 15th November year before.  
-1080	Their residents had approved the merger in elections of the 15th November the year before.
+1080	Their residents had approved the merger in elections on November 15th the year before.
 
 1081	Akrahreppur var eina sveitarfélagið í firðinum sem ákvað að vera ekki með.
 1081	*Akrahreppur Was the alone municipality in the fjord that decided that be not with.
@@ -140,11 +140,11 @@
 
 3885	Hér verður lýst nokkrum aðferðum til þess að finna flatarmál þríhyrnings.
 3885	Here will be showed some methods in order to find square measure of triangle.
-3885	Here will be shown some methods to find the square of a triangle.
+3885	Here will be shown some methods to find the area of a triangle.
 
 5502	Þetta er mjög áþekkt skilgreiningu Sameinuðu þjóðanna á hugtakinu.
 5502	This is very similar definition of The United Nations on concept.
-5502	This is very similar to the definition of the United Nations in concept.
+5502	This is very similar to the definition of the United Nations of the concept.
 
 3887	Til þess að finna ummál þríhyrnings þarf að finna summu lengda allra hliðanna.
 3887	In order to find circumference of triangle needs to find sum of lengths all sides.
@@ -152,7 +152,7 @@
 
 2779	Móðir Wolfgangs, Anna María fæddist í Pertl árið 1720, einu ári á eftir manni sínum.
 2779	Mother *Wolfgangs, Manage María fed in *Pertl in 1720, alone year on after its man.
-2779	Wolfgang's mother, Anna María fled to Pertl in 1720, one year later than her husband.
+2779	Wolfgang's mother, Anna María was born in Pertl in 1720, one year later than her husband.
 
 6616	Hann tók þátt í Monmouthuppreisninni gegn hinum kaþólska Jakobi II 1685. 
 6616	He took part in *Monmouthuppreisninni against the Catholic *Jakobi *II 1685. 
@@ -160,23 +160,23 @@
 
 6617	Hann gerðist stuðningsmaður Vilhjálms af Óraníu og gekk í her hans 1688.
 6617	He did the supporter *Vilhjálms of *Óraníu and joined his army 1688.
-6617	He became a support of William of Orange and joined his army in 1688.
+6617	He became a supporter of William of Orange and joined his army in 1688.
 
-4364	Þessi bók tekur á því sem við gerum dags daglega, og hvernig það tengjast sálinni.
+4364	Þessi bók tekur á því sem við gerum dags daglega, og hvernig það tengist sálinni.
 4364	This book takes on why that we do day daily, and how it connect the soul.
-4364	This book touches on what we do daily, and how it connects with the soul.
+4364	This book touches on what we do daily, and how it relates to the soul.
 
 2781	Mozart litli var aðeins fjögurra ára þegar Leopold fannst tími til kominn að kenna stráknum á píanó. 
 2781	*Mozart small was just four years when *Leopold find time to come to teach the boy on piano. 
-2781	Little Mozart was just four years old when Leopold found time to come to teach the boy piano.
+2781	Little Mozart was just four years old when Leopold felt it was time to teach the boy piano.
 
 2782	Leopold vissi ekki að Wolfgang hafði æft sig í laumi og varð yfir sig hissa þegar hann uppgötvaði að strákurinn gat leikið heilt lag á píanóið án þess að ruglast.
 2782	*Leopold Knew not that *Wolfgang had practised oneself in sneaks and became over oneself surprised when he discovered that the boy can play whole layer on the piano without to confuse.
-2782	Leopold did not know that Wolfgang had practised in secret and was surprised when he discovered that the boy could play a whole song on the piano without being confused.
+2782	Leopold did not know that Wolfgang had practised in secret and was really surprised when he discovered that the boy could play a whole song on the piano without getting confused.
 
 2497	Samkvæmt klassískri goðafræði Japans var Japan sett á laggirnar á 7. öld fyrir Krist af Jimmu keisara, sem samkvæmt goðafræðinni á ættir sínar að rekja til guða.
 2497	According to classic mythology of Japan was Japan set on the drops on 7. Century before Christ off *Jimmu emperor, that according to the mythology on its families to trace to gods.
-2497	Accord to the classical mythology of Japan, Japan was started in the 7th Century before Christ by the emperor Jimmu, who according to the mythology has family connections to gods.
+2497	According to the classical mythology of Japan, Japan was started in the 7th Century before Christ by the emperor Jimmu, who according to the mythology can trace his family back to gods.
 
 5072	Það er því engin skilgreind miðja í kerfinu, aðeins IP net sem tengjast saman og mynda eitt stórt net.
 5072	It is why no defined centre in the system, just *IP net that link and pictures one big net.
