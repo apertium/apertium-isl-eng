@@ -498,6 +498,7 @@
 
     <def-list n="definitenames">
       <list-item v="United Kingdom"/>
+      <list-item v="United States"/>
       <list-item v="Netherlands"/>
     </def-list> 
 
@@ -2312,13 +2313,14 @@
              <chunk name="det_nom_top" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <var n="article"/>
                <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
@@ -2326,31 +2328,36 @@
                <lu>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
            </out>
          </when>
          <otherwise><!-- noun without any article -->
+           <call-macro n="nom_article1">
+             <with-param pos="2"/>
+           </call-macro>
            <out>
              <chunk name="nom_top" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><clip pos="1" side="tl" part="syntax"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
                <b pos="1"/>
                <var n="genitiu"/>
+               <var n="article"/>
                <lu>
                  <clip pos="2" side="tl" part="lemh"/>
                  <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
