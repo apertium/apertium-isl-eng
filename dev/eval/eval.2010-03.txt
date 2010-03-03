@@ -218,9 +218,9 @@
 2485	*Ísleifur let in *Skálholti the 5th July 1080 and had at that time been bishop in 24 year. 
 2485	Ísleifur died in Skálholt on the 5th of July 1080 and had at that time been bishop for 24 years.
 
-2486	Kona hans var Dalla Þorvaldsdóttir og áttu þau synina Þorvald bónda í Hraungerði.
-2486	His woman Dalla Þorvaldsdóttir was and they owned the sons Þorvaldur farmer in *Hraungerði.
-2486	His wife was Dalla Þorvaldsdóttir and they had the sons Þorvaldur farmer in Hraungerði.
+2486	Kona hans var Dalla Þorvaldsdóttir og áttu þau synina Þorvald bónda í Hraungerði, Teit og Gissur, sem varð biskup eftir föður sinn.
+2486	His woman Dalla Þorvaldsdóttir was and they owned the sons Þorvaldur farmer in *Hraungerði, *Teit and *Gissur, that became bishop after its father.
+2486	His wife was Dalla Þorvaldsdóttir and they had the sons Þorvaldur farmer in Hraungerði, Teit and Gissur, who became bishop after his father.
 
 1864	Íslendingasögurnar eru veraldlegar sögur. 
 1864	*Íslendingasögurnar are worldly histories. 
@@ -232,7 +232,7 @@
 
 4515	Kaþólsk trú leggur sérstaka áherslu á að það gangi gegn vilja guðs að skapa sér sjálfur aldur og að sjálfsmorð feli í sér mikla synd.
 4515	Catholic faith lay special emphasis on that it walks against want God to create itself itself age and that suicide hides in itself much swim.
-4515	The Catholic faith lays special emphasis on that it goes against the will of God to make oneself's age and that suicide contains much sin.
+4515	The Catholic faith lays special emphasis on that it goes against the will of God to create one's own age and that suicide contains much sin.
 
 3958	Verið er að undirbúa nýja skiptingu landsins í á bilinu 12-14 svæði. 
 3958	Been is preparing new division of the land in on the space 12-14 area. 
@@ -240,7 +240,7 @@
 
 3959	Þó getur hugsast að þessi tólf svæði haldi sér. 
 3959	Still can think that these twelve areas hold oneself. 
-3959	Still, it is possible that these twelve areas will hold.
+3959	Still it is possible that these twelve areas will hold.
 
 3960	Eftir á að opinbera tillögur þess efnis. 
 3960	After on that its official proposals material. 
@@ -248,7 +248,7 @@
 
 3961	Að því loknu verður málið rætt á þingi.
 3961	That why finished becomes the matter rooted on parliament.
-3961	Afterwards, the matter will be discussed in parliament.
+3961	Afterwards the matter will be discussed in parliament.
 
 2235	Áður en þú greiðir atkvæði um tillögu er að sjálfsögðu mikilvægt að þú lesir greinina sem er til umræðu vel yfir fyrst.	
 2235	Before you pay vote about proposal which that self-evident important that you read the article that when to discussion well over first.
