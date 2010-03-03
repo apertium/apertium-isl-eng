@@ -296,6 +296,11 @@
       <e r="LR"><i>X</i></e>
       <e r="RL"><p><l>X</l><r>x</r></p></e>
     </pardef>
+
+    <pardef n="Yy">
+      <e r="LR"><i>Y</i></e>
+      <e r="RL"><p><l>Y</l><r>y</r></p></e>
+    </pardef>
         
     <pardef n="expensive__adj">
       <e>      <p>        <l></l>        <r><s n="adj"/></r></p></e>
@@ -9569,6 +9574,7 @@
     <e lm="interrogative pronoun"><i>interrogative<b/>pronoun</i><par n="house__n"/></e>
     <e lm="market town"><i>market<b/>town</i><par n="house__n"/></e>
     <e lm="grand piano"><i>grand<b/>piano</i><par n="house__n"/></e>
+    <e lm="grandmaster"><i>grandmaster</i><par n="house__n"/></e>
     <e lm="freedom hero"><i>freedom<b/>hero</i><par n="access__n"/></e>
     <e lm="passport photo"><i>passport<b/>photo</i><par n="house__n"/></e>
     <e lm="mixer tap"><i>mixer<b/>tap</i><par n="house__n"/></e>
@@ -16189,12 +16195,13 @@
     <e lm="northerner"><i>northerner</i><par n="house__n"/></e>
     <e lm="Thai"><i>Thai</i><par n="house__n"/></e>
     <e lm="Taiwanese"><i>Taiwanese</i><par n="house__n"/></e>
-    <e lm="Ukrainian"><i>Ukrainian</i><par n="house__n"/></e>
+    <e lm="Ukrainian"><par n="Uu"/><i>krainian</i><par n="house__n"/></e>
     <e lm="Uruguayan"><i>Uruguayan</i><par n="house__n"/></e>
     <e lm="Venetian"><i>Venetian</i><par n="house__n"/></e>
     <e lm="Vietnamese"><i>Vietnamese</i><par n="house__n"/></e>
-    <e lm="Yugoslav"><i>Yugoslav</i><par n="house__n"/></e>
-    <e lm="Yugoslavian"><i>Yugoslavian</i><par n="house__n"/></e>
+    <e lm="Yugoslav"><par n="Yy"/><i>ugoslav</i><par n="house__n"/></e>
+    <e lm="Yugoslavian"><par n="Yy"/><i>ugoslavian</i><par n="house__n"/></e>
+    <e lm="Bosnian"><par n="Bb"/><i>osnian</i><par n="house__n"/></e>
 
     <e lm="January"><par n="Jj"/><i>anuar</i><par n="bab/y__n"/></e>
     <e lm="February"><par n="Ff"/><i>ebruar</i><par n="bab/y__n"/></e>
