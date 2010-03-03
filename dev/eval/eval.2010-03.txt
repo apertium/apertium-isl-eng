@@ -180,15 +180,15 @@
 
 5072	Það er því engin skilgreind miðja í kerfinu, aðeins IP net sem tengjast saman og mynda eitt stórt net.
 5072	It is why no defined centre in the system, just *IP net that link and pictures one big net.
-5072	There is no defined centre in the system, just IP network that is linked together and forms one big net.
+5072	Therefore, there is no defined centre in the system, just IP networks that are linked together and form one big net.
 
 6666	Um fjórðungur Íslendinga er talinn hafa látist úr henni, einkum yngra fólk. 
 6666	About quarter of Icelanders is counted have let out of her, mostly younger people.
-6666	About a quarter of Icelanders are reckoned to have left, mostly younger people.
+6666	About a quarter of Icelanders are believed to have died from it, mostly younger people.
 
 5513	Sum trúarbrögð, þá sérstaklega Íslam, Mormónatrú, og Nikayagrein Búddhisma, og einstaka flokkar Mótmælendatrúar banna algerlega eða tala á móti neyslu áfengis vegna ýmissa ástæða.
 5513	Some religions, at that time exceptionally *Íslam, *Mormónatrú and *Búddhisma, and unique groups *Mótmælendatrúar bans wholly or talk opposite consumption of alcohol because of various reason.
-5513	Some religions, especially Islam, Mormonism and Buddhism, and some groups of non-conformists ban totally or are against the consumption of alcohol for various reasons.
+5513	Some religions, especially Islam, Mormonism and the Nikaya branch of Buddhism, and some groups of Protestants ban totally or are against the consumption of alcohol for various reasons.
 
 2231	Þessir atburðir urðu innblástur fyrir lag Rammstein, "Mein Teil".
 2231	These events became inspiration before layer *Rammstein, "Harm *Teil".
@@ -200,15 +200,15 @@
 
 1594	Þá þarf ég bara að átta mig á því hvaða myndir eru frjálsar vegna andláts höfundar fyrir 70+ árum og hvaða ekki.  
 1594	At that time I need only that eight me on why which pictures are free because of death authors before 70+ years and which not.  
-1594	So I only need to have which pictures are free because of the death of the author 70+ years ago and which are not.
+1594	Then I only need to figure out which pictures are free because of the death of the authors 70+ years ago and which are not.
 
 2780	Þau Anna María og Leopold eignuðust sjö börn en aðeins tvö þeirra komust á legg.
 2780	Them Manage María and *Leopold acquired seven children but just two them reached on lay.
-2780	Leopold and Maria had seven children but only two of them survived childhood.
+2780	Anna Maria and Leopold had seven children but only two of them survived childhood.
 
 6339	Bænin á grísku sem hefur verið þýdd á önnur mál.
 6339	Prayer on Greek that has been translated on other matters.
-6339	A prayer in Greek that has been translated into other languages.
+6339	The prayer in Greek that has been translated into other languages.
 
 2212	Mest var barist í Evrópu og Austur-Asíu og á Kyrrahafi.
 2212	Most was fought in Europe and East-Asia and on *Kyrrahafi.
@@ -216,11 +216,11 @@
 
 2485	Ísleifur lést í Skálholti hinn 5. júlí 1080 og hafði þá verið biskup í 24 ár. 
 2485	*Ísleifur let in *Skálholti the 5th July 1080 and had at that time been bishop in 24 year. 
-2485	Ísleifur died in Skálholt on the 5th July 1080 and had at that time been bishop for 24 years.
+2485	Ísleifur died in Skálholt on the 5th of July 1080 and had at that time been bishop for 24 years.
 
 2486	Kona hans var Dalla Þorvaldsdóttir og áttu þau synina Þorvald bónda í Hraungerði.
 2486	His woman Dalla Þorvaldsdóttir was and they owned the sons Þorvaldur farmer in *Hraungerði.
-2486	His wife was Dalla Þorvaldsdóttir and they had their son Þorvaldur in a farm in Hraungarður.
+2486	His wife was Dalla Þorvaldsdóttir and they had the sons Þorvaldur farmer in Hraungerði.
 
 1864	Íslendingasögurnar eru veraldlegar sögur. 
 1864	*Íslendingasögurnar are worldly histories. 
@@ -228,28 +228,28 @@
 
 1865	Þær fjalla um Íslendinga á tímabilinu frá landnámsöld til fyrri hluta 11. aldar og gerast að mestu á Íslandi.
 1865	They discuss Icelanders on the phase from settlement of Iceland to former part 11. Century and do that most in Iceland.
-1865	They discuss about Icelanders from the settlement of Iceland to the beginning of the 11th Century and take place mostly in Iceland.
+1865	They are about Icelanders from the settlement of Iceland to the beginning of the 11th Century and take place mostly in Iceland.
 
 4515	Kaþólsk trú leggur sérstaka áherslu á að það gangi gegn vilja guðs að skapa sér sjálfur aldur og að sjálfsmorð feli í sér mikla synd.
 4515	Catholic faith lay special emphasis on that it walks against want God to create itself itself age and that suicide hides in itself much swim.
-4515	The Catholic faith lays special emphasis on that it goes against the will of God to make oneself age and that suicide hides in itself much sin.
+4515	The Catholic faith lays special emphasis on that it goes against the will of God to make oneself's age and that suicide contains much sin.
 
 3958	Verið er að undirbúa nýja skiptingu landsins í á bilinu 12-14 svæði. 
 3958	Been is preparing new division of the land in on the space 12-14 area. 
-3958	New division of the land in the 12-14 area is being prepared.
+3958	A new division of the land into 12-14 areas is being prepared.
 
 3959	Þó getur hugsast að þessi tólf svæði haldi sér. 
 3959	Still can think that these twelve areas hold oneself. 
-3959	Still it can be thought that these twelve areas stick.
+3959	Still, it is possible that these twelve areas will hold.
 
 3960	Eftir á að opinbera tillögur þess efnis. 
 3960	After on that its official proposals material. 
-3960	After these official proposals of material.
+3960	Official proposals on the matter have yet to be published.
 
 3961	Að því loknu verður málið rætt á þingi.
 3961	That why finished becomes the matter rooted on parliament.
-3961	That is why the matter will be raised in parliament.
+3961	Afterwards, the matter will be discussed in parliament.
 
 2235	Áður en þú greiðir atkvæði um tillögu er að sjálfsögðu mikilvægt að þú lesir greinina sem er til umræðu vel yfir fyrst.	
 2235	Before you pay vote about proposal which that self-evident important that you read the article that when to discussion well over first.
-2235	Before you vote on the proposal it is obviously important that you read the article that is under discussion well first.
+2235	Before you vote on a proposal it is obviously important that you read the article that is under discussion well first.
