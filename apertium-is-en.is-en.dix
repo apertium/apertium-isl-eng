@@ -13561,7 +13561,8 @@
     <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e> 	 
     <e><p><l>óheppilegur<s n="adj"/></l><r>unfortunate<s n="adj"/></r></p></e> 	 
-    <e><p><l>einn<s n="adj"/></l><r>alone<s n="adj"/></r></p></e> 	 
+    <e><p><l>einn<s n="adj"/></l><r>only<s n="adj"/></r></p></e> 	 
+    <e slr="1"><p><l>einn<s n="adj"/></l><r>alone<s n="adj"/></r></p></e> 	 
     <e><p><l>unninn<s n="adj"/></l><r>processed<s n="adj"/></r></p></e> 	 
     <e><p><l>harkalegur<s n="adj"/></l><r>severe<s n="adj"/></r></p></e> 	 
     <e><p><l>trúarlegur<s n="adj"/></l><r>religious<s n="adj"/></r></p></e> 	 
@@ -26357,6 +26358,7 @@
     <e><p><l>stuðla<g><b/>að</g><s n="vblex"/></l><r>work<g><b/>for</g><s n="vblex"/></r></p></e>
     <e><p><l>halda<g><b/>uppi</g><s n="vblex"/></l><r>uphold<s n="vblex"/></r></p></e>
     <e><p><l>bera<g><b/>kennsl<b/>á</g><s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
+    <e><p><l>fá<g><b/>inngöngu<b/>í</g><s n="vblex"/></l><r>get<g><b/>into</g><s n="vblex"/></r></p></e>
     <e><p><l>detta<g><b/>í<b/>það</g><s n="vblex"/></l><r>go<g><b/>and<b/>get<b/>drunk</g><s n="vblex"/></r></p></e>
 
 
