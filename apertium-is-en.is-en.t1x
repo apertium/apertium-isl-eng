@@ -873,6 +873,10 @@
 
   <def-macro n="conj_verb1" npar="1">
       <let>
+        <var n="cur_verb_fin"/>
+        <lit v=""/>
+      </let>
+      <let>
         <var n="cur_verb_chunk_type"/>
         <lit-tag v="SV"/>
       </let>

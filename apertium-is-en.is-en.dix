@@ -10529,7 +10529,7 @@
     
     <e><p><l>l<s n="n"/><s n="nt"/></l><r>l<s n="n"/></r></p></e>
     <e><p><l>lag<s n="n"/><s n="nt"/></l><r>layer<s n="n"/></r></p></e>
-    <!--<e><p><l>lag<s n="n"/><s n="nt"/></l><r>song<s n="n"/></r></p></e>-->
+    <e slr="1"><p><l>lag<s n="n"/><s n="nt"/></l><r>song<s n="n"/></r></p></e>
     <e><p><l>laglína<s n="n"/><s n="f"/></l><r>melody<s n="n"/></r></p></e>
     <e><p><l>lakk<s n="n"/><s n="nt"/></l><r>varnish<s n="n"/></r></p></e>
     <e><p><l>lakkrís<s n="n"/><s n="m"/></l><r>licorice<s n="n"/></r></p></e>
@@ -13377,6 +13377,7 @@
     <!--<e><p><l>uppbygging<s n="n"/><s n="f"/></l><r>rebuilding<s n="n"/></r></p></e>-->
     <!--<e><p><l>uppbygging<s n="n"/><s n="f"/></l><r>strengthening<s n="n"/></r></p></e>-->
     <e><p><l>upptaka<s n="n"/><s n="f"/></l><r>recording<s n="n"/></r></p></e>
+    <e><p><l>eignaupptaka<s n="n"/><s n="f"/></l><r>confiscation<s n="n"/></r></p></e>
     <!--<e><p><l>upptaka<s n="n"/><s n="f"/></l><r>admission<s n="n"/></r></p></e>-->
     <e><p><l>úrvinnsla<s n="n"/><s n="f"/></l><r>processing<s n="n"/></r></p></e>
     <e><p><l>útfærsla<s n="n"/><s n="f"/></l><r>execution<s n="n"/></r></p></e>
