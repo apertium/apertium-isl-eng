@@ -7298,6 +7298,7 @@
     <e lm="Anjali"><i>Anjali</i><par n="Mary__np"/></e>
     <e lm="Ann"><i>Ann</i><par n="Mary__np"/></e>
     <e lm="Anna"><i>Anna</i><par n="Mary__np"/></e>
+    <e lm="Anna María"><i>Anna<b/>María</i><par n="Mary__np"/></e>
     <e lm="Annabel"><i>Annabel</i><par n="Mary__np"/></e>
     <e lm="Annabella"><i>Annabella</i><par n="Mary__np"/></e>
     <e lm="Annabelle"><i>Annabelle</i><par n="Mary__np"/></e>
@@ -8268,7 +8269,20 @@
 
 
 
+    <e lm="Skefilsstaðahreppur"><i>Skefilsstaðahreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Sauðárkrókskaupstaður"><i>Sauðárkrókskaupstaður</i><par n="Barcelona__np"/></e>
+    <e lm="Skarðshreppur"><i>Skarðshreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Staðarhreppur"><i>Staðarhreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Seyluhreppur"><i>Seyluhreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Lýtingsstaðahreppur"><i>Lýtingsstaðahreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Rípurhreppur"><i>Rípurhreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Viðvíkurhreppur"><i>Viðvíkurhreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Hólahreppur"><i>Hólahreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Hofshreppur"><i>Hofshreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Fljótahreppur"><i>Fljótahreppur</i><par n="Barcelona__np"/></e>
+
     <e lm="Akureyri"><i>Akureyri</i><par n="Barcelona__np"/></e>
+    <e lm="Hraungerði"><i>Hraungerði</i><par n="Barcelona__np"/></e>
     <e lm="Landspítali"><i>Landspítali</i><par n="Barcelona__np"/></e>
     <e lm="Akranesi"><i>Akranesi</i><par n="Barcelona__np"/></e>
     <e lm="Reykjavík"><i>Reykjavík</i><par n="Barcelona__np"/></e>
@@ -34476,6 +34490,7 @@
     <e lm="surprise"><i>surpris</i><par n="liv/e__vblex"/></e>
     <e lm="surround"><i>surround</i><par n="accept__vblex"/></e>
     <e lm="survive"><i>surviv</i><par n="liv/e__vblex"/></e>
+    <e lm="survive childhood"><i>surviv</i><par n="liv/e__vblex"/><p><l><b/>childhood</l><r><g><b/>childhood</g></r></p></e>
     <e lm="suspect"><i>suspect</i><par n="accept__vblex"/></e>
     <e lm="suspend"><i>suspend</i><par n="accept__vblex"/></e>
     <e lm="sustain"><i>sustain</i><par n="accept__vblex"/></e>
@@ -35882,6 +35897,7 @@
     <e lm="before"><i>before</i><par n="that__cnjsub"/></e>
     <e lm="for"><i>for</i><par n="after__cnjadv"/></e>
     <e lm="as soon as"><i>as<b/>soon<b/>as</i><par n="after__cnjadv"/></e>
+    <e lm="at the same time as"><i>at<b/>the<b/>same<b/>time<b/>as</i><par n="after__cnjadv"/></e>
     <e lm="if"><i>if</i><par n="that__cnjsub"/></e>
     <e lm="on condition that"><i>on<b/>condition<b/>that</i><par n="after__cnjadv"/></e>
     <e lm="due to the fact that"><i>due<b/>to<b/>the<b/>fact<b/>that</i><par n="after__cnjadv"/></e>

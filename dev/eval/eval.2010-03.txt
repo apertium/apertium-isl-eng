@@ -132,7 +132,7 @@
 
 1080	Höfðu íbúar þeirra samþykkt sameininguna í kosningum 15. nóvember árið áður.  
 1080	Had their residents approved the union in elections 15th November year before.  
-1080	Their residents had approved the merger in elections on November 15th the year before.
+1080	Their residents had approved the merger in elections on the 15th November the year before.
 
 1081	Akrahreppur var eina sveitarfélagið í firðinum sem ákvað að vera ekki með.
 1081	*Akrahreppur Was the alone municipality in the fjord that decided that be not with.
@@ -180,14 +180,14 @@
 
 5072	Það er því engin skilgreind miðja í kerfinu, aðeins IP net sem tengjast saman og mynda eitt stórt net.
 5072	It is why no defined centre in the system, just *IP net that link and pictures one big net.
-5072	Therefore, there is no defined centre in the system, just IP networks that are linked together and form one big net.
+5072	Therefore there is no defined centre in the system, just IP networks that are linked together and form one big net.
 
 6666	Um fjórðungur Íslendinga er talinn hafa látist úr henni, einkum yngra fólk. 
 6666	About quarter of Icelanders is counted have let out of her, mostly younger people.
 6666	About a quarter of Icelanders are believed to have died from it, mostly younger people.
 
 5513	Sum trúarbrögð, þá sérstaklega Íslam, Mormónatrú, og Nikayagrein Búddhisma, og einstaka flokkar Mótmælendatrúar banna algerlega eða tala á móti neyslu áfengis vegna ýmissa ástæða.
-5513	Some religions, at that time exceptionally *Íslam, *Mormónatrú and *Búddhisma, and unique groups *Mótmælendatrúar bans wholly or talk opposite consumption of alcohol because of various reason.
+5513	Some religions, at that time exceptionally *Íslam, *Mormónatrú and *Nikayagrein *Búddhisma, and unique groups *Mótmælendatrúar bans wholly or talk opposite consumption of alcohol because of various reason.
 5513	Some religions, especially Islam, Mormonism and the Nikaya branch of Buddhism, and some groups of Protestants ban totally or are against the consumption of alcohol for various reasons.
 
 2231	Þessir atburðir urðu innblástur fyrir lag Rammstein, "Mein Teil".

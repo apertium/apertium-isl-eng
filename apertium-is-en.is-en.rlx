@@ -203,6 +203,9 @@ REMOVE Adj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 Verb
 REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 Conj);
 REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER Conj LINK 1 VerbFin) (0 VerbFin) (0 Conj);
 
+#Að því loknu verður málið rætt á þingi.
+REMOVE N + Acc IF (0 Nom) (0 Acc) (NOT -1* N + Nom BARRIER CLB) (NOT 1* N + Nom BARRIER CLB) (NOT 1* ACCSUBJVERB BARRIER CLB) (NOT -1* ACCSUBJVERB BARRIER CLB);
+
 #################################################################################
 # Adverbs
 #################################################################################
@@ -518,7 +521,7 @@ MAP (@SUBJ→) TARGET N + Nom (1C* VerbFin BARRIER CLB) (0 N + Nom);
 MAP (@SUBJ→) TARGET ProperNom + Nom (1 VerbFin) (0 ProperNom + Nom) (NOT -1* Nom BARRIER CLB) (NOT 1C* Nom BARRIER CLB);
 
 MAP (@SUBJ→) TARGET ProperNom + Nom (1C VerbFin) (0C ProperNom + Nom);
-MAP (@←SUBJ) TARGET ProperNom + Nom (-1C VerbFin) (0C ProperNom + Nom);
+MAP (@←SUBJ) TARGET ProperNom + Nom (-1C VerbFin) (0C ProperNom + Nom) (NOT -1C* @SUBJ→ BARRIER CLB);
 
 #Litlu músina hafði stóra uglan étið í gær
 MAP (@OBJ→) TARGET N + Acc (1C VerbFin) (0C N + Acc);

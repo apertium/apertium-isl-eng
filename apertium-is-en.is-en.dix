@@ -2859,6 +2859,7 @@
     <e><p><l>að<b/>þessu<b/>sinni<s n="adv"/></l><r>this<b/>time<s n="adv"/></r></p></e>
     <e><p><l>að<b/>því<b/>leyti<b/>sem<s n="adv"/></l><r>insomuch<b/>as<s n="adv"/></r></p></e>
     <e><p><l>að<b/>því<b/>leyti<s n="adv"/></l><r>insofar<s n="adv"/></r></p></e>
+    <e><p><l>að<b/>því<b/>loknu<s n="adv"/></l><r>afterwards<s n="adv"/></r></p></e>
     <e><p><l>aðallega<s n="adv"/></l><r>mainly<s n="adv"/></r></p></e>
     <e><p><l>aðeins<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
     <e><p><l>bara<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
@@ -3759,6 +3760,8 @@
     <e><p><l>þangað<b/>til<b/>að<s n="cnjadv"/></l><r>until<s n="cnjadv"/></r></p></e>
     <e><p><l>enda<b/>þótt<s n="cnjadv"/></l><r>even<b/>though<s n="cnjadv"/></r></p></e>
     <e><p><l>þannig<b/>að<s n="cnjadv"/></l><r>so<s n="cnjadv"/></r></p></e>
+    <e><p><l>um<b/>leið<b/>og<s n="cnjadv"/></l><r>as<b/>soon<b/>as<s n="cnjadv"/></r></p></e>
+    <e slr="1"><p><l>um<b/>leið<b/>og<s n="cnjadv"/></l><r>at<b/>the<b/>same<b/>time<b/>as<s n="cnjadv"/></r></p></e>
     <e><p><l>undireins<b/>og<s n="cnjadv"/></l><r>as<b/>soon<b/>as<s n="cnjadv"/></r></p></e>
     <e><p><l>svo<b/>framarlega<b/>sem<s n="cnjadv"/></l><r>as<b/>long<b/>as<s n="cnjadv"/></r></p></e>
 
@@ -3817,7 +3820,6 @@
     <e><p><l>til<b/>að<s n="cnjsub"/></l><r>to<s n="cnjsub"/></r></p></e> <!-- Check this -->
     <e><p><l>til<b/>þess<b/>að<s n="cnjsub"/></l><r>in<b/>order<b/>to<s n="cnjsub"/></r></p></e>
     <e><p><l>strax<b/>og<s n="cnjsub"/></l><r>as<b/>soon<b/>as<s n="cnjsub"/></r></p></e>
-    <e><p><l>um<b/>leið<b/>og<s n="cnjsub"/></l><r>as<b/>soon<b/>as<s n="cnjsub"/></r></p></e>
     <e><p><l>uns<s n="cnjsub"/></l><r>until<s n="cnjsub"/></r></p></e>
     <e><p><l>vegna<b/>þess<b/>að<s n="cnjsub"/></l><r>because<s n="cnjsub"/></r></p></e>
     <e><p><l>á<b/>meðan<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
@@ -4085,6 +4087,8 @@
     <e><p><l>Julía<s n="np"/><s n="ant"/><s n="f"/></l><r>Julía<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Sophia<s n="np"/><s n="ant"/><s n="f"/></l><r>Sophia<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Súsanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Súsanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Anna<s n="np"/><s n="ant"/><s n="f"/></l><r>Anna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>Anna<b/>María<s n="np"/><s n="ant"/><s n="f"/></l><r>Anna<b/>María<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Jóhanna<s n="np"/><s n="ant"/><s n="f"/></l><r>Jóhanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Emilíana<s n="np"/><s n="ant"/><s n="f"/></l><r>Emilíana<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
     <e><p><l>Ýr<s n="np"/><s n="ant"/><s n="f"/></l><r>Ýr<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
@@ -4584,8 +4588,8 @@
     <e><p><l>efla<s n="vblex"/></l><r>boost<s n="vblex"/></r></p></e>
 <!--<p><l>efla<s n="vblex"/></l><r>strengthen<s n="vblex"/></r></p></e>-->
     <e><p><l>efna<s n="vblex"/></l><r>fulfil<s n="vblex"/></r></p></e>
-<!--<p><l>eiga<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>-->
     <e><p><l>eiga<s n="vblex"/></l><r>own<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>eiga<s n="vblex"/></l><r>have<s n="vblex"/></r></p></e>
 <!--<p><l>eiga<s n="vblex"/></l><r>shall<s n="vblex"/></r></p></e>-->
     <e><p><l>eigna<s n="vblex"/></l><r>attribute<s n="vblex"/></r></p></e>
     <e><p><l>eigna<s n="vblex"/><s n="actv"/></l><r>attribute<s n="vblex"/></r></p></e>
@@ -8239,6 +8243,8 @@
     <e><p><l>vinna<s n="n"/><s n="f"/></l><r>work<s n="n"/><s n="unc"/></r></p></e>
     <e><p><l>vist<s n="n"/><s n="f"/></l><r>stay<s n="n"/></r></p></e>
     <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
+    <e slr="1"><p><l>kona<s n="n"/><s n="f"/></l><r>wife<s n="n"/></r></p></e>
+    <e slr="2"><p><l>kona<s n="n"/><s n="f"/></l><r>lady<s n="n"/></r></p></e>
     <e><p><l>himinhvolf<s n="n"/><s n="nt"/></l><r>sky<s n="n"/><s n="unc"/></r></p></e>
     <e><p><l>himinn<s n="n"/><s n="m"/></l><r>sky<s n="n"/><s n="unc"/></r></p></e>
     <e slr="1"><p><l>himinn<s n="n"/><s n="m"/></l><r>heaven<s n="n"/><s n="unc"/></r></p></e>
@@ -9609,7 +9615,7 @@
     <e><p><l>grænmeti<s n="n"/><s n="nt"/></l><r>vegetables<s n="n"/></r></p><par n="lögregla_police__n"/></e>
     <e><p><l>grænspæta<s n="n"/><s n="f"/></l><r>green<b/>woodpecker<s n="n"/></r></p></e> <!-- (bird) -->
     <e><p><l>gríma<s n="n"/><s n="f"/></l><r>mask<s n="n"/></r></p></e>
-    <e><p><l>gríska<s n="n"/><s n="f"/></l><r>Greek<s n="n"/></r></p></e> <!-- (language) -->
+    <e><p><l>gríska<s n="n"/><s n="f"/></l><r>Greek<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- (language) -->
     <e><p><l>gró<s n="n"/><s n="nt"/></l><r>spore<s n="n"/></r></p></e>
     <e><p><l>gróf<s n="n"/><s n="f"/></l><r>pit<s n="n"/></r></p></e>
     <e><p><l>gróði<s n="n"/><s n="m"/></l><r>profit<s n="n"/></r></p></e>
@@ -10386,9 +10392,6 @@
     <e><p><l>kommúnismi<s n="n"/><s n="m"/></l><r>communism<s n="n"/></r></p></e>
     <e><p><l>kommúnisti<s n="n"/><s n="f"/></l><r>communist<s n="n"/></r></p></e>
     <e><p><l>komutími<s n="n"/><s n="m"/></l><r>time<g><b/>of<b/>arrival</g><s n="n"/></r></p></e>
-    <!--<e><p><l>kona<s n="n"/><s n="f"/></l><r>lady<s n="n"/></r></p></e>-->
-    <!--<e><p><l>kona<s n="n"/><s n="f"/></l><r>wife<s n="n"/></r></p></e>-->
-    <e><p><l>kona<s n="n"/><s n="f"/></l><r>woman<s n="n"/></r></p></e>
     <!--<e><p><l>kontrabassi<s n="n"/><s n="m"/></l><r>double<b/>bass<s n="n"/></r></p></e> --><!-- (string instrument) -->
     <e><p><l>kontrabassi<s n="n"/><s n="m"/></l><r>contrabass<s n="n"/></r></p></e> <!-- (musical range or an undefined instrument in that range) -->
     <e><p><l>kontrafagott<s n="n"/><s n="nt"/></l><r>contrabassoon<s n="n"/></r></p></e>
@@ -26360,6 +26363,7 @@
     <e><p><l>bera<g><b/>kennsl<b/>á</g><s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
     <e><p><l>fá<g><b/>inngöngu<b/>í</g><s n="vblex"/></l><r>get<g><b/>into</g><s n="vblex"/></r></p></e>
     <e><p><l>detta<g><b/>í<b/>það</g><s n="vblex"/></l><r>go<g><b/>and<b/>get<b/>drunk</g><s n="vblex"/></r></p></e>
+    <e><p><l>koma<g><b/>á<b/>legg</g><s n="vblex"/></l><r>survive<g><b/>childhood</g><s n="vblex"/></r></p></e>
 
 
     <e><p><l>aðgreinir<s n="n"/><s n="m"/></l><r>identifier<s n="n"/></r></p></e>
@@ -26880,6 +26884,20 @@
     <e><p><l>Perú<s n="np"/><s n="top"/><s n="nt"/></l><r>Peru<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Síle<s n="np"/><s n="top"/><s n="nt"/></l><r>Chile<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Gabon<s n="np"/><s n="top"/><s n="nt"/></l><r>Gabon<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Hraungerði<s n="np"/><s n="top"/><s n="nt"/></l><r>Hraungerði<s n="np"/><s n="top"/></r></p></e>
+
+    <e><p><l>Skefilsstaðahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Skefilsstaðahreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Sauðárkrókskaupstaður<s n="np"/><s n="top"/><s n="m"/></l><r>Sauðárkrókskaupstaður<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Skarðshreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Skarðshreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Staðarhreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Staðarhreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Seyluhreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Seyluhreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Lýtingsstaðahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Lýtingsstaðahreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Rípurhreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Rípurhreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Viðvíkurhreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Viðvíkurhreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Hólahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Hólahreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Hofshreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Hofshreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Fljótahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Fljótahreppur<s n="np"/><s n="top"/></r></p></e>
+
   </section>
 </dictionary>
 

@@ -14,6 +14,8 @@ LIST N                = (n);
 LIST Verb             = (vblex);
 LIST Prep             = (pr);
 LIST Adv              = (adv);
+LIST Coord            = (cnjcoo);
+LIST CnjAdv           = (cnjadv);
 
 LIST Actv             = (actv);
 LIST Midv             = (midv);
@@ -25,9 +27,10 @@ LIST Dat              = (dat);
 
 LIST CommVerb         = "tala" "segja" "mæla" "yrða" "spjalla" "kveða" "segja";
 LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("enginn"ri prn ind);
+LIST Family           = "móðir" "faðir" "bróðir" "systir" "pabbi" "mamma" "dóttir" "sonur" "afi" "amma" "frændi" "kærasti" "kærasta";
 
 LIST ISLANDS          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar" "Jótland"; 
-LIST LANGUAGES        = "íslenska" "enska" ;
+LIST LANGUAGES        = "íslenska" "enska" "gríska";
 LIST BUILDINGS        = ".*skóli"ri "sjúkrahús"ri; # eldahús
 
 LIST @X               = @X;
@@ -47,6 +50,9 @@ SECTION
 
 #   "bóndi"   : {0: "farmer", 1: "husband"};
 SUBSTITUTE ("bóndi") ("bóndi:1") ("bóndi") + N (1C PrnPos OR PrnPersAnim + Gen);
+
+#   "kona"   : {0: "woman", 1: "wife", 2: "lady"};
+SUBSTITUTE ("kona") ("kona:1") ("kona") + N (1C PrnPos OR PrnPersAnim + Gen);
 
 #   "himinn"  : {0: "sky", 1: "heaven"};
 SUBSTITUTE ("himinn") ("himinn:1") ("himinn") + N (1 ("og")) (2 ("jörð")); # í upphafi
@@ -111,6 +117,9 @@ SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja") + VerbMidv (1C* ("með") BARRIER C
 # "heita"  : {0:"be# called", 1:"promise"};
 SUBSTITUTE ("heita") ("heita:1") ("heita") + Verb (1 Dat) (-1 Nom);
 
+# "eiga"   : {0:"own", 1:"have"};
+SUBSTITUTE ("eiga") ("eiga:1") ("eiga") + Verb (1* Family + @←OBJ | @X BARRIER CLB);
+
 
 ## 
 ## PREPOSITIONS 
@@ -143,3 +152,7 @@ SUBSTITUTE ("rómanskur") ("rómanskur:1") ("rómanskur") + Verb (1C ("Ameríka"
 
 # "ámóta"     : {0: "similar", 1: "about as"};
 SUBSTITUTE ("ámóta") ("ámóta:1") ("ámóta") + Adv (1* @←OBJ | @X BARRIER CLB);
+
+# "um leið og" : {0: "as soon as", 1: "at the same time as"};
+SUBSTITUTE ("um leið og") ("um leið og:1") ("um leið og") (NOT 1* Verb BARRIER CLB | (Coord LINK 1 Verb));
+
