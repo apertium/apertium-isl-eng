@@ -41,6 +41,7 @@ LIST @←SUBJ           = @←SUBJ;
 LIST @←OBJ            = @←OBJ;
 
 SET  VerbMidv         = Verb + Midv;
+SET  Animate          = Human | Family;
 
 SECTION
 
@@ -120,7 +121,8 @@ SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja") + VerbMidv (1C* ("með") BARRIER C
 SUBSTITUTE ("heita") ("heita:1") ("heita") + Verb (1 Dat) (-1 Nom);
 
 # "eiga"   : {0:"own", 1:"have"};
-SUBSTITUTE ("eiga") ("eiga:1") ("eiga") + Verb (1* Family + @←OBJ | @X BARRIER CLB);
+SUBSTITUTE ("eiga") ("eiga:1") ("eiga") + Verb (1* Family + @←OBJ | Family + @X BARRIER CLB);
+SUBSTITUTE ("eiga") ("eiga:1") ("eiga") + Verb (-1* @SUBJ→ LINK NOT 0 Animate);
 
 
 ## 
@@ -128,7 +130,7 @@ SUBSTITUTE ("eiga") ("eiga:1") ("eiga") + Verb (1* Family + @←OBJ | @X BARRIER
 ##
 
 # "við" : {0: "with", 1: "to", 2: "beside"};
-SUBSTITUTE ("við") ("við:1") ("við") (-1C* CommVerb BARRIER CLB) (1C Human);
+SUBSTITUTE ("við") ("við:1") ("við") (-1C* CommVerb BARRIER CLB) (1C Animate);
 
 # "á" : {0:"on", 1:"in", 1:"at"};
 SUBSTITUTE ("á") ("á:1") ("á") + Prep (1C ISLANDS OR LANGUAGES);

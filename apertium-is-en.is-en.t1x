@@ -1422,7 +1422,7 @@
       <lit v=""/>
     </let>
     <choose>
-         <when><!-- noun with definitive article -->
+         <when>
            <test>
              <equal>
                <clip pos="1" side="sl" part="case"/>
@@ -3749,6 +3749,19 @@
              <lit-tag v="sg"/>
            </let>
          </when>
+         <otherwise>
+           <let>
+             <var n="genitiu"/>
+             <concat>
+                 <lit v="^"/>
+                 <get-case-from pos="2">
+                   <lit v="of"/>
+                 </get-case-from>
+                 <lit-tag v="pr"/>
+                 <lit v="$ "/>
+             </concat>
+           </let> 
+         </otherwise>
        </choose>
            <out>
              <chunk name="num_nom_adj_nom" case="caseFirstWord">
@@ -3771,6 +3784,7 @@
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
                <b pos="2"/>
+               <var n="genitiu"/>
                <lu>
                  <var n="cur_adj_grau_preadv1"/>
                  <clip pos="3" side="tl" part="lemh"/>

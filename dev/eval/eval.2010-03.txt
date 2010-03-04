@@ -1,17 +1,17 @@
 1	Finnland er í Evrópusambandinu og er eina Norðurlandaþjóðin sem hefur tekið upp evruna sem gjaldmiðil.
-1	Finland when in the European Union and when alone *Norðurlandaþjóðin that has taken up the euro that currency.
+1	Finland is in the European Union and is only *Norðurlandaþjóðin that has taken up the euro as currency.
 1	Finland is in the European Union and is the only Nordic nation that has taken up the euro as currency.
 
 8	Finnland og Svíþjóð eiga nærri 700 ára sameiginlega sögu. 
-8	Finland and Sweden own near 700 years joint history. 
+8	Finland and Sweden have near 700 years of joint history. 
 8	Finland and Sweden have nearly 700 years of joint history.
 
 16	Finnland fékk inngöngu í Evrópusambandið árið 1995 um leið og Svíþjóð og Austurríki og er hið eina Norðurlandanna sem hefur tekið upp evru sem gjaldmiðil.
-16	Finland got entrance in the European Union in 1995 as soon as Sweden and Austria and when the one Nordic countries that has taken up euro that currency.
+16	Finland got into the European Union in 1995 as soon as Sweden and Austria and is the one Nordic countries that has taken up euro as currency.
 16	Finland got into the European Union in 1995 at the same time as Sweden and Austria and is the only one of the Nordic countries that has taken up the euro as currency.
 
 512	Lagið og textinn eru eftir Valgeir Guðjónsson en flytjandi var Daníel Ágúst Haraldsson.
-512	Layer and the text are after Valgeir Guðjónsson but moving was Daníel Ágúst Haraldsson.
+512	The layer and the text are after Valgeir Guðjónsson but performer was Daníel Ágúst Haraldsson.
 512	The song and the lyrics are by Valgeir Guðjónsson but the performer was Daníel Ágúst Haraldsson.
 
 479	Þegar þetta er borið saman við nýrri ensk verk má sjá hversu hratt enskan fjarlægist íslenskuna:
@@ -19,11 +19,11 @@
 479	When this is compared with newer English works it may be seen how fast English moves away from Icelandic:
 
 670	Hliðstætt þá sýndi Albert Bandura fram á það í verki sínu að börn gætu lært með því að fylgjast með hegðun í umhverfi sínu, án breytinga á hegðun svo eitthvað innra með okkur hlyti að eiga hlut að máli.
-670	*Hliðstætt at that time showed *Albert *Bandura forth on it in its work to children can learn with because keep up with the behaviour in its environment, without changes on the behaviour then some more inner with us received to own thing that matter.
+670	*Hliðstætt At that time showed *Albert *Bandura forth on it in his work to children can learn with because keep up with the behaviour in his environment, without changes on the behaviour then some more inner with us received to have thing that matter.
 670	At the same time Albert Bandura proved in his work that children could learn by observing behaviour in their environment, without changes in behaviour so something inside of us must matter.
 
 1259	Í löndum eins og Írak, Ítalíu og Spáni eru opinber tungumál en í sumum héruðum þessara landa eru leyfð önnur tungumál. 
-1259	In lands like Iraq, Italy and Spain are official languages but in some districts these countries are allowed other languages. 
+1259	In lands like Iraq, Italy and Spain official languages are but in some districts these countries are allowed other languages. 
 1259	In countries like Iraq, Italy and Spain, there are official languages but in some regions of these countries other languages are allowed. 
 
 1260	Önnur lönd eins og Bandaríkin hafa ekkert opinbert tungumál en nokkur ríki Bandaríkjanna hafa opinbert tungumál. 
@@ -39,39 +39,39 @@
 2037	The country where referendums are most in use is Switzerland where they are held regularly about many kinds of issues.
 
 2038	Varlega má áætla að ríflegur meirihluti þjóðaratkvæðagreiðslna sem átt hafa sér stað í sögunni hafi verið haldnar í Sviss.
-2038	Carefully may estimate that ample majority of referendums that owned have oneself place in the history has been held in Switzerland.
+2038	Carefully may estimate that ample majority of referendums that had have oneself place in the history has been held in Switzerland.
 2038	It may be carefully estimated that a substantial majority of referendums that have been held in history have been held in Switzerland.
 
 2848	Á Ítalíu eru nokkur virkustu eldfjöll Evrópu eins og Etna, Vesúvíus og Strombólí. 
-2848	On Italy are some most active volcanos Europe like *Etna, *Vesúvíus and *Strombólí. 
+2848	On Italy some most active volcanos are Europe like *Etna, *Vesúvíus and *Strombólí. 
 2848	In Italy are some of the most active volcanos in Europe such as Etna, Vesuvius and Stromboli. 
 
 2849	Jarðskjálftar eru ekki óalgengir og þó nokkur jarðhiti er á mörgum stöðum.
-2849	Earthquakes are not uncommon and still some geothermal energy is on many situations.
+2849	Earthquakes are not uncommon and still some geothermal heat is on many situations.
 2849	Earthquakes are not uncommon and there is considerable geothermal heat in many places. 
 
 4455	Ofsóknargeðklofi er algengari meðal karlmanna en kvenna og upphaf hans er oftast þegar einstaklingurinn er 15 til 34 ára.
-4455	*Ofsóknargeðklofi when more common amongst the men but women and his beginning is often when individual is 15 to 34 years.
+4455	*Ofsóknargeðklofi When more common amongst the men but women and his beginning often is when individual is 15 to 34 years.
 4455	Paranoid schizophrenia is more common amongst men than women and its beginning is often when the individual is 15 to 34 years old.
 
 4351	Hann átti í erfiðleikum með að velja námsgrein en læknisfræðin varð að lokum fyrir valinu.
-4351	He owned in difficulties with to choose subject but the medicine became finally before the choice.
+4351	He had in difficulties with to choose subject but the medicine became finally before the choice.
 4351	He had difficulties with chosing a subject but medicine finally became the choice.
 
 4596	Fjórir stærstu stjórnmálaflokkarnir halda flestum, ef ekki öllum sætum á þinginu.
-4596	The Four big political parties hold most, if not all seats on the parliament.
+4596	The four big political parties hold most, if not all sat on the parliament.
 4596	The four big political parties hold most, if not all seats in the parliament.
 
 4659	Veðurfarið í Porto er milt. 
-4659	Climate in *Porto is tender. 
+4659	The climate in *Porto is tender. 
 4659	The climate in Porto is mild.
 
 4660	Sumur eru heit, allt uppí 40 gráður, en hitastigið er þó lægra en í flestum borgum í suðurhlutanum og inn til landsins þökk sé köldum vindum sem blása af Atlantshafinu.
-4660	Summers are hot, all in 40 degrees, but the temperature is still lowest but in most cities in the south and in to the land thanks is cold winds that blow of *Atlantshafinu.
+4660	Summers are hot, all in 40 degrees, but the temperature is still lowest but in most cities in the south and in to the land thanks is cold winds as blow of the Atlantic Ocean.
 4660	Summers are hot, up to 40 degrees, but the temperature is still lower than in most cities in the south and inland thanks to cold winds that blow off the Atlantic Ocean.
 
 2822	Þór býr í höll sem heitir Bilskirnir í ríki sínu sem kallast Þrúðvangur.
-2822	Þór lives in inclined that is called *Bilskirnir in her state that calls *Þrúðvangur.
+2822	Þór lives in palace that is called *Bilskirnir in his state that calls *Þrúðvangur.
 2822	Þór lives in a palace that is called Bilskirnir in his kingdom that is called Þrúðvangur.
 
 2833	Í Bilskirni voru 540 herbergi og var stærst allra húsa sem menn kunnu skil á.
@@ -99,12 +99,12 @@
 2205	Now there is a school operated there, the University of Hólar.
 
 172	Lofsöngurinn samanstendur af þremur erindum og er yfirleitt látið nægja að syngja það fyrsta við opinberar samkomur.
-172	*Lofsöngurinn comprises of three errands and is usually let suffice to sing it first wood official conjugations.
-172	The hymn comprises of three verses and it is usually sufficient to sing the first one at official gatherings.
+172	The hymn comprises of three errands and is usually let suffice to sing it first wood official conjugations.
+172	The hymn comprises of three verses and it is usually sufficient to sing the first at official gatherings.
 
 2461	Skemmtileg grein um atvik í stjórnmálasögu Íslands sem gerir efni sínu góð skil.
-2461	funny article about incident in political history of Iceland that does its material good boundaries.
-2461	Amusing article about an incident in the political history of Iceland that does its material justice.
+2461	Funny article about incident in political history of Iceland that does its material good boundaries.
+2461	Funny article about an incident in the political history of Iceland that does its material justice.
 
 2221	Þann 3. september lýstu Bretar og Frakkar yfir stríði á hendur Þjóðverjum. 
 2221	The one 3rd September British showed and Coats over war on hands *Þjóðverjum. 
@@ -115,31 +115,31 @@
 2222	Canada, Australia and New Zealand followed soon afterwards.
 
 731	Í dag eru veitt verðlaun í eftirfarandi flokkum:
-731	Today are granted awards in following groups:
+731	Today awards are granted in following groups:
 731	Today awards are granted in the following groups:
 
 3594	Ríkisstjórnir eru valdar á ýmsan hátt, í Bandaríkjunum er forseti kjörinn sem æðsti maður ríkisstjórnar, hann velur svo hverjir skipa ríkisstjórnina. 
-3594	Governments are chosen on various manner, in the United States which president perfect as most superior man of government, he chooses then what ships the government. 
+3594	Governments are chosen on various manner, in the United States when president perfect as most superior man of government, he chooses then what ships the government. 
 3594	Governments are chosen in various manners, in the United States the president is elected as the highest man in government, he then chooses who sit in the government. 
 
 3595	Ríkisstjórn Íslands er lýðræðislega kjörin þar sem hún er þingbundin hinu lýðræðislega kjörna Alþingi Íslands þó hún sé ekki kosin beint.
-3595	Government of Iceland when democratic perfect as she is *þingbundin the democratic perfect Althing Iceland still she is not voted straight.
+3595	Government Of Iceland when democratic perfect as she is *þingbundin the democratic perfect Althing Iceland still she is not voted straight.
 3595	The government of Iceland is democratically elected as it is congressionally bound to the democratically elected Althing of Iceland even though it is not voted for directly.
 
 1079	Sveitarfélagið varð til 6. júní 1998 við sameiningu 11 sveitarfélaga í Skagafirði; Skefilsstaðahrepps, Sauðárkrókskaupstaðar, Skarðshrepps, Staðarhrepps, Seyluhrepps, Lýtingsstaðahrepps, Rípurhrepps, Viðvíkurhrepps, Hólahrepps, Hofshrepps og Fljótahrepps. 
-1079	Municipality became to 6th June 1998 with union of the 11 municipalities in *Skagafirði; *Skefilsstaðahrepps, *Sauðárkrókskaupstaðar, *Skarðshrepps, *Staðarhrepps, *Seyluhrepps, *Lýtingsstaðahrepps, *Rípurhrepps, *Viðvíkurhrepps, *Hólahrepps, *Hofshrepps and *Fljótahrepps. 
+1079	The municipality became to 6th June 1998 with union 11 municipalities in *Skagafirði; Skefilsstaðahreppur, *Sauðárkrókskaupstaðar, Skarðshreppur, Staðarhreppur, Seyluhreppur, Lýtingsstaðahreppur, Rípurhreppur, Viðvíkurhreppur, Hólahreppur, Hofshreppur and Fljótahreppur. 
 1079	The municipality came into existance on the 6th July 1998 with the merger of 11 municipalities in Skagafjörður; Skefilsstaðahreppur, Sauðárkrókskaupstaður, Skarðshreppur, Staðarhreppur, Seyluhreppur, Lýtingsstaðahreppur, Rípurhreppur, Viðvíkurhreppur, Hólahreppur, Hofshreppur and Fljótahreppur.
 
 1080	Höfðu íbúar þeirra samþykkt sameininguna í kosningum 15. nóvember árið áður.  
-1080	Had their residents approved the union in elections 15th November year before.  
+1080	Their residents had approved the union in elections 15th November year before.  
 1080	Their residents had approved the merger in elections on the 15th November the year before.
 
 1081	Akrahreppur var eina sveitarfélagið í firðinum sem ákvað að vera ekki með.
-1081	*Akrahreppur Was the alone municipality in the fjord that decided that be not with.
+1081	Akrahreppur was the only municipality in the fjord that decided that be not with.
 1081	Akrahreppur was the only municipality in the fjord that decided not to join.
 
 3885	Hér verður lýst nokkrum aðferðum til þess að finna flatarmál þríhyrnings.
-3885	Here will be showed some methods in order to find square measure of triangle.
+3885	Here will be shown some methods in order to find area of triangle.
 3885	Here will be shown some methods to find the area of a triangle.
 
 5502	Þetta er mjög áþekkt skilgreiningu Sameinuðu þjóðanna á hugtakinu.
@@ -151,7 +151,7 @@
 3887	In order to find the circumference of a triangle it is necessary to find the sum of the lengths of all sides.
 
 2779	Móðir Wolfgangs, Anna María fæddist í Pertl árið 1720, einu ári á eftir manni sínum.
-2779	Mother *Wolfgangs, Manage María fed in *Pertl in 1720, alone year on after its man.
+2779	Mother *Wolfgangs, Anna María fed in *Pertl in 1720, only year on after her man.
 2779	Wolfgang's mother, Anna María was born in Pertl in 1720, one year later than her husband.
 
 6616	Hann tók þátt í Monmouthuppreisninni gegn hinum kaþólska Jakobi II 1685. 
@@ -159,15 +159,15 @@
 6616	He took part in the Monmouth uprising against the Catholic Jakob II in 1685.
 
 6617	Hann gerðist stuðningsmaður Vilhjálms af Óraníu og gekk í her hans 1688.
-6617	He did the supporter *Vilhjálms of *Óraníu and joined his army 1688.
+6617	He did the supporter *Vilhjálms of *Óraníu and his army joined 1688.
 6617	He became a supporter of William of Orange and joined his army in 1688.
 
 4364	Þessi bók tekur á því sem við gerum dags daglega, og hvernig það tengist sálinni.
-4364	This book takes on why that we do day daily, and how it connect the soul.
+4364	This book takes on why that we do day daily, and how it connects the soul.
 4364	This book touches on what we do daily, and how it relates to the soul.
 
 2781	Mozart litli var aðeins fjögurra ára þegar Leopold fannst tími til kominn að kenna stráknum á píanó. 
-2781	*Mozart small was just four years when *Leopold find time to come to teach the boy on piano. 
+2781	*Mozart Small was just four years when *Leopold find time to come to teach the boy on piano. 
 2781	Little Mozart was just four years old when Leopold felt it was time to teach the boy piano.
 
 2782	Leopold vissi ekki að Wolfgang hafði æft sig í laumi og varð yfir sig hissa þegar hann uppgötvaði að strákurinn gat leikið heilt lag á píanóið án þess að ruglast.
@@ -175,7 +175,7 @@
 2782	Leopold did not know that Wolfgang had practised in secret and was really surprised when he discovered that the boy could play a whole song on the piano without getting confused.
 
 2497	Samkvæmt klassískri goðafræði Japans var Japan sett á laggirnar á 7. öld fyrir Krist af Jimmu keisara, sem samkvæmt goðafræðinni á ættir sínar að rekja til guða.
-2497	According to classic mythology of Japan was Japan set on the drops on 7. Century before Christ off *Jimmu emperor, that according to the mythology on its families to trace to gods.
+2497	According to classic mythology of Japan was Japan set on the drops on 7. Century before Christ off *Jimmu emperor, that according to the mythology on his families to trace to gods.
 2497	According to the classical mythology of Japan, Japan was started in the 7th Century before Christ by the emperor Jimmu, who according to the mythology can trace his family back to gods.
 
 5072	Það er því engin skilgreind miðja í kerfinu, aðeins IP net sem tengjast saman og mynda eitt stórt net.
@@ -183,11 +183,11 @@
 5072	Therefore there is no defined centre in the system, just IP networks that are linked together and form one big net.
 
 6666	Um fjórðungur Íslendinga er talinn hafa látist úr henni, einkum yngra fólk. 
-6666	About quarter of Icelanders is counted have let out of her, mostly younger people.
+6666	About quarter of Icelanders is counted have let out of her, mostly younger people. 
 6666	About a quarter of Icelanders are believed to have died from it, mostly younger people.
 
 5513	Sum trúarbrögð, þá sérstaklega Íslam, Mormónatrú, og Nikayagrein Búddhisma, og einstaka flokkar Mótmælendatrúar banna algerlega eða tala á móti neyslu áfengis vegna ýmissa ástæða.
-5513	Some religions, at that time exceptionally *Íslam, *Mormónatrú and *Nikayagrein *Búddhisma, and unique groups *Mótmælendatrúar bans wholly or talk opposite consumption of alcohol because of various reason.
+5513	Some religions, at that time exceptionally *Íslam, *Mormónatrú, and *Nikayagrein *Búddhisma, and unique groups *Mótmælendatrúar bans wholly or talk opposite consumption of alcohol because of various reason.
 5513	Some religions, especially Islam, Mormonism and the Nikaya branch of Buddhism, and some groups of Protestants ban totally or are against the consumption of alcohol for various reasons.
 
 2231	Þessir atburðir urðu innblástur fyrir lag Rammstein, "Mein Teil".
@@ -203,27 +203,27 @@
 1594	Then I only need to figure out which pictures are free because of the death of the authors 70+ years ago and which are not.
 
 2780	Þau Anna María og Leopold eignuðust sjö börn en aðeins tvö þeirra komust á legg.
-2780	Them Manage María and *Leopold acquired seven children but just two them reached on lay.
+2780	They Anna María and *Leopold seven children acquired but just two them survived childhood.
 2780	Anna Maria and Leopold had seven children but only two of them survived childhood.
 
 6339	Bænin á grísku sem hefur verið þýdd á önnur mál.
-6339	Prayer on Greek that has been translated on other matters.
+6339	The prayer in Greek that has been translated on other matters.
 6339	The prayer in Greek that has been translated into other languages.
 
 2212	Mest var barist í Evrópu og Austur-Asíu og á Kyrrahafi.
-2212	Most was fought in Europe and East-Asia and on *Kyrrahafi.
+2212	Most was fought in Europe and East-Asia and on Pacific Ocean.
 2212	Most was fought in Europe and East-Asia and in the Pacific.
 
 2485	Ísleifur lést í Skálholti hinn 5. júlí 1080 og hafði þá verið biskup í 24 ár. 
-2485	*Ísleifur let in *Skálholti the 5th July 1080 and had at that time been bishop in 24 year. 
+2485	*Ísleifur Let in *Skálholti the 5th July 1080 and had at that time been bishop in 24 year. 
 2485	Ísleifur died in Skálholt on the 5th of July 1080 and had at that time been bishop for 24 years.
 
 2486	Kona hans var Dalla Þorvaldsdóttir og áttu þau synina Þorvald bónda í Hraungerði, Teit og Gissur, sem varð biskup eftir föður sinn.
-2486	His woman Dalla Þorvaldsdóttir was and they owned the sons Þorvaldur farmer in *Hraungerði, *Teit and *Gissur, that became bishop after its father.
+2486	His wife was Dalla Þorvaldsdóttir and they had the sons Þorvaldur farmer in Hraungerði, *Teit and *Gissur, that bishop became after its father.
 2486	His wife was Dalla Þorvaldsdóttir and they had the sons Þorvaldur farmer in Hraungerði, Teit and Gissur, who became bishop after his father.
 
 1864	Íslendingasögurnar eru veraldlegar sögur. 
-1864	*Íslendingasögurnar are worldly histories. 
+1864	*Íslendingasögurnar worldly histories Are. 
 1864	The Icelandic sagas are worldly stories.
 
 1865	Þær fjalla um Íslendinga á tímabilinu frá landnámsöld til fyrri hluta 11. aldar og gerast að mestu á Íslandi.
@@ -231,11 +231,11 @@
 1865	They are about Icelanders from the settlement of Iceland to the beginning of the 11th Century and take place mostly in Iceland.
 
 4515	Kaþólsk trú leggur sérstaka áherslu á að það gangi gegn vilja guðs að skapa sér sjálfur aldur og að sjálfsmorð feli í sér mikla synd.
-4515	Catholic faith lay special emphasis on that it walks against want God to create itself itself age and that suicide hides in itself much swim.
+4515	Catholic faith lays special emphasis on that it walks against want God to create itself itself age and that suicide hides in itself much swim.
 4515	The Catholic faith lays special emphasis on that it goes against the will of God to create one's own age and that suicide contains much sin.
 
 3958	Verið er að undirbúa nýja skiptingu landsins í á bilinu 12-14 svæði. 
-3958	Been is preparing new division of the land in on the space 12-14 area. 
+3958	Is being prepared new division of the land in on the space 12-14 area. 
 3958	A new division of the land into 12-14 areas is being prepared.
 
 3959	Þó getur hugsast að þessi tólf svæði haldi sér. 
@@ -247,9 +247,9 @@
 3960	Official proposals on the matter have yet to be published.
 
 3961	Að því loknu verður málið rætt á þingi.
-3961	That why finished becomes the matter rooted on parliament.
+3961	Afterwards the matter will be discussed on parliament.
 3961	Afterwards the matter will be discussed in parliament.
 
-2235	Áður en þú greiðir atkvæði um tillögu er að sjálfsögðu mikilvægt að þú lesir greinina sem er til umræðu vel yfir fyrst.	
-2235	Before you pay vote about proposal which that self-evident important that you read the article that when to discussion well over first.
+2235	Áður en þú greiðir atkvæði um tillögu er að sjálfsögðu mikilvægt að þú lesir greinina sem er til umræðu vel yfir fyrst.
+2235	Before you pay vote about proposal which that self-evident important that you read the article that is to discussion well over first.	
 2235	Before you vote on a proposal it is obviously important that you read the article that is under discussion well first.
