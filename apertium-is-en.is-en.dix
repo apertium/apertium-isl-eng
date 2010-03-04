@@ -10188,7 +10188,7 @@
     <e><p><l>jarðarbúi<s n="n"/><s n="m"/></l><r>Earthling<s n="n"/></r></p></e>
     <e><p><l>jarðarför<s n="n"/><s n="f"/></l><r>funeral<s n="n"/></r></p></e>
     <e><p><l>jarðfræði<s n="n"/><s n="f"/></l><r>geology<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- study of earth and land -->
-    <e><p><l>jarðhiti<s n="n"/><s n="m"/></l><r>geothermal<b/>energy<s n="n"/></r></p></e>
+    <e><p><l>jarðhiti<s n="n"/><s n="m"/></l><r>geothermal<b/>heat<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>jarðskjálfti<s n="n"/><s n="m"/></l><r>earthquake<s n="n"/></r></p></e>
     <!--<e><p><l>jarðvegur<s n="n"/><s n="m"/></l><r>ground<s n="n"/></r></p></e>-->
     <e><p><l>jarðvegur<s n="n"/><s n="m"/></l><r>soil<s n="n"/></r></p></e>
@@ -26873,6 +26873,7 @@
     <e><p><l>því<b/>síður<s n="adv"/></l><r>definitely<b/>not<s n="adv"/></r></p></e>
 
     <e><p><l>þingræðisregla<s n="n"/><s n="f"/></l><r>parliamentary<b/>rule<s n="n"/></r></p></e>
+    <e><p><l>flytjandi<s n="n"/><s n="m"/></l><r>performer<s n="n"/></r></p></e>
     <e><p><l>stórmeistari<s n="n"/><s n="m"/></l><r>grandmaster<s n="n"/></r></p></e>
     <e><p><l>skákmaður<s n="n"/><s n="m"/></l><r>chess<b/>player<s n="n"/></r></p></e>
     <e><p><l>símafundur<s n="n"/><s n="m"/></l><r>telephone<b/>meeting<s n="n"/></r></p></e>
@@ -26897,6 +26898,7 @@
     <e><p><l>Hólahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Hólahreppur<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Hofshreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Hofshreppur<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Fljótahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Fljótahreppur<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Akrahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Akrahreppur<s n="np"/><s n="top"/></r></p></e>
 
   </section>
 </dictionary>

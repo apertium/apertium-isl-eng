@@ -3804,11 +3804,14 @@
        <call-macro n="conc_det_pos">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="2" side="tl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
               <lu>
@@ -4344,10 +4347,14 @@
        <call-macro n="prn_pos_to_det_pos">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
@@ -4364,7 +4371,7 @@
                    <clip pos="2" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_nom"/>
-                 <clip pos="2" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="2" side="tl" part="nbr" link-to="3"/>
                  <clip pos="2" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -4481,10 +4488,14 @@
        <call-macro n="prn_pos_to_det_pos">
          <with-param pos="2"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
@@ -4501,7 +4512,7 @@
                    <clip pos="1" side="tl" part="lemh"/>
                  </get-case-from>
                  <clip pos="1" side="tl" part="a_nom"/>
-                 <clip pos="1" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="1" side="tl" part="nbr" link-to="3"/>
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -4579,11 +4590,14 @@
        <call-macro n="prn_pos_to_det_pos">
          <with-param pos="1"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="1"/>
+       </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
-                 <tag><clip pos="2" side="tl" part="syntax"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
@@ -5688,6 +5702,52 @@
         </out>
      </action>
   </rule>
+
+  <rule comment="REGLA: AUXCJ SADV PPRES → AUXCJ SADV GER | er alltaf borðandi → is always eating">
+     <pattern>
+       <pattern-item n="auxcj"/>
+       <pattern-item n="sadv"/>
+       <pattern-item n="ppres"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <call-macro n="conj_verb1"> <!-- Call the macro which takes the Icelandic verb, then
+                                        outputs an English conjugated verb in the variable "cur_verb_fin" -->
+         <with-param pos="1"/>
+       </call-macro>
+       <out>
+         <chunk name="auxcj_adv_ger" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_adv"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="ger"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
 
   <rule comment="REGLA: AUXCJ SADV INF → AUXCJ SADV INF | mun ekki koma → will ekki come">
      <pattern>

@@ -275,6 +275,11 @@
     </def-macro>
 
     <def-macro n="convert_become_pp2" npar="2">
+      <!-- This macro takes the case of the first argument from the second argument.
+           'íbúar þeirra  Höfðu samþykkt'
+                          1     2
+           'The residents have approved'
+        -->
       <choose>
         <when>
           <test>
@@ -292,7 +297,9 @@
           <let>
             <var n="modal"/>
             <concat>
-              <lit v="will be"/>
+              <get-case-from pos="2">
+                <lit v="will be"/>
+              </get-case-from>
               <clip pos="1" part="tags"/>
               <lit v="{^will"/>
               <lit-tag v="vaux.inf"/>
@@ -305,7 +312,13 @@
         <otherwise>
           <let>
             <var n="modal"/>
-            <clip pos="1" part="whole"/>
+            <concat>
+              <get-case-from pos="2">
+                <clip pos="1" part="lem"/>
+              </get-case-from>
+              <clip pos="1" part="tags"/>
+              <clip pos="1" part="chcontent"/>
+            </concat>
           </let>
         </otherwise>
       </choose>
@@ -1097,7 +1110,9 @@
         </call-macro>
         <out>
           <chunk>
-            <clip pos="2" part="lem"/>
+            <get-case-from pos="1">
+              <clip pos="2" part="lem"/>
+            </get-case-from>
             <clip pos="2" part="tags"/>
             <clip pos="2" part="chcontent"/>
           </chunk>

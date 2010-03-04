@@ -44,7 +44,7 @@
 
 2848	Á Ítalíu eru nokkur virkustu eldfjöll Evrópu eins og Etna, Vesúvíus og Strombólí. 
 2848	On Italy are some most active volcanos Europe like *Etna, *Vesúvíus and *Strombólí. 
-2848	In Italy are some of the most active volcanos in Europe such as Mount Etna, Mount Vesuvius and Stromboli. 
+2848	In Italy are some of the most active volcanos in Europe such as Etna, Vesuvius and Stromboli. 
 
 2849	Jarðskjálftar eru ekki óalgengir og þó nokkur jarðhiti er á mörgum stöðum.
 2849	Earthquakes are not uncommon and still some geothermal energy is on many situations.

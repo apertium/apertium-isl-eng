@@ -122,7 +122,7 @@ REMOVE N IF (-1C N OR ProperNom) (0 ("<á>"));
 REMOVE N IF (1 PP | VerbSupine) (0 ("hafa"));
 
 #Finnland er í Evrópusambandinu og er eina Norðurlandaþjóðin sem hefur tekið upp evruna sem gjaldmiðil.
-REMOVE Rel IF (0 ("sem")) (NOT 1C* VerbFin BARRIER CLB);
+REMOVE Rel IF (0 ("sem")) (NOT 1* VerbFin BARRIER CLB);
 REMOVE Conj IF (0 ("er")) (-1 Conj); 
 
 #################################################################################

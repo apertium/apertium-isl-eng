@@ -8280,6 +8280,7 @@
     <e lm="Hólahreppur"><i>Hólahreppur</i><par n="Barcelona__np"/></e>
     <e lm="Hofshreppur"><i>Hofshreppur</i><par n="Barcelona__np"/></e>
     <e lm="Fljótahreppur"><i>Fljótahreppur</i><par n="Barcelona__np"/></e>
+    <e lm="Akrahreppur"><i>Akrahreppur</i><par n="Barcelona__np"/></e>
 
     <e lm="Akureyri"><i>Akureyri</i><par n="Barcelona__np"/></e>
     <e lm="Hraungerði"><i>Hraungerði</i><par n="Barcelona__np"/></e>
@@ -9877,6 +9878,7 @@
     <e lm="sole agency"><i>sole<b/>agenc</i><par n="bab/y__n"/></e>
     <e lm="long journey"><i>long<b/>journey</i><par n="house__n"/></e>
     <e lm="geothermal energy"><i>geothermal<b/>energ</i><par n="bab/y__n"/></e>
+    <e lm="geothermal heat"><i>geothermal<b/>heat</i><par n="east__n"/></e>
     <e lm="insurance company"><i>insurance<b/>compan</i><par n="bab/y__n"/></e>
     <e lm="telecommunications company"><i>telecommunications<b/>compan</i><par n="bab/y__n"/></e>
     <e lm="bus company"><i>bus<b/>compan</i><par n="bab/y__n"/></e>

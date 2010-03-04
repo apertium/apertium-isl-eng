@@ -9,7 +9,7 @@ LIST CLB              = (sent) (cm) (cnjsub);
 LIST PrnPos           = (prn pos);
 LIST PrnPersAnim      = (prn p1) (prn p2) (prn p3 m) (prn p3 f);
 LIST Ord              = (ord) ("fyrstur"ri);
-LIST Num              = (num) ("milljarður"ri) ("þúsund"ri);
+LIST Num              = (num) ("milljarður") ("þúsund") ("milljón");
 LIST N                = (n);
 LIST Verb             = (vblex);
 LIST Prep             = (pr);
@@ -76,7 +76,9 @@ SUBSTITUTE ("dalur") ("dalur:1") ("dalur") + N (-1 Num);
 SUBSTITUTE ("mynt") ("mynt:1") ("mynt") (-1* ("í" pr) BARRIER CLB);
 
 # "maður"     : {0: "man", 1: "people"};
+# 1) Um 1.2 milljónir manna eru heimilislausar.
 SUBSTITUTE ("maður") ("maður:1") ("maður") + N (-1 @N→) (0 Gen);
+SUBSTITUTE ("maður") ("maður:1") ("maður") + N (-1 Num) (0 Gen);
 
 # "lag"       : {0: "layer", 2: "song"};
 SUBSTITUTE ("lag") ("lag:1") ("lag") + N (-1* ("syngja") + Verb BARRIER CLB);
