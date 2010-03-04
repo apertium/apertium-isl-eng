@@ -212,7 +212,7 @@
 
 2212	Mest var barist í Evrópu og Austur-Asíu og á Kyrrahafi.
 2212	Most was fought in Europe and East-Asia and on Pacific Ocean.
-2212	Most was fought in Europe and East-Asia and in the Pacific.
+2212	Most was fought in Europe and East-Asia and in the Pacific Ocean.
 
 2485	Ísleifur lést í Skálholti hinn 5. júlí 1080 og hafði þá verið biskup í 24 ár. 
 2485	*Ísleifur Let in *Skálholti the 5th July 1080 and had at that time been bishop in 24 year. 
