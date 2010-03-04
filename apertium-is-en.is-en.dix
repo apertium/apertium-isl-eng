@@ -9190,7 +9190,7 @@
     <!--<e><p><l>flaska<s n="n"/><s n="f"/></l><r>flask<s n="n"/></r></p></e>-->
     <e><p><l>flass<s n="n"/><s n="nt"/></l><r>camera<b/>flash<s n="n"/></r></p></e>
     <!--<e><p><l>flatarmál<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e>-->
-    <e><p><l>flatarmál<s n="n"/><s n="nt"/></l><r>square<b/>measure<s n="n"/></r></p></e>
+    <e><p><l>flatarmál<s n="n"/><s n="nt"/></l><r>area<s n="n"/></r></p></e> <!-- was 'square measure' -->
     <e><p><l>flatbaka<s n="n"/><s n="f"/></l><r>pizza<s n="n"/></r></p></e>
     <e><p><l>flauta<s n="n"/><s n="f"/></l><r>flute<s n="n"/></r></p></e>
     <!--<e><p><l>flauta<s n="n"/><s n="f"/></l><r>horn<s n="n"/></r></p></e> --> <!-- (of a car) -->
@@ -26899,6 +26899,9 @@
     <e><p><l>Hofshreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Hofshreppur<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Fljótahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Fljótahreppur<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Akrahreppur<s n="np"/><s n="top"/><s n="m"/></l><r>Akrahreppur<s n="np"/><s n="top"/></r></p></e>
+
+    <e><p><l>Kyrrahaf<s n="np"/><s n="al"/><s n="nt"/></l><r>Pacific<b/>Ocean<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Atlantshaf<s n="np"/><s n="al"/><s n="nt"/></l><r>Atlantic<b/>Ocean<s n="np"/><s n="al"/></r></p></e>
 
   </section>
 </dictionary>

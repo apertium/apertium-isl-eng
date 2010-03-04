@@ -206,6 +206,9 @@ REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER Conj LINK 1
 #Að því loknu verður málið rætt á þingi.
 REMOVE N + Acc IF (0 Nom) (0 Acc) (NOT -1* N + Nom BARRIER CLB) (NOT 1* N + Nom BARRIER CLB) (NOT 1* ACCSUBJVERB BARRIER CLB) (NOT -1* ACCSUBJVERB BARRIER CLB);
 
+#Þór býr í höll sem heitir Bilskirnir
+REMOVE Adj IF (-1C Prep) (1 Conj | Rel);
+
 #################################################################################
 # Adverbs
 #################################################################################
