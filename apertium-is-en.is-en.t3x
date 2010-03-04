@@ -379,6 +379,18 @@
             <lit-tag v="inf"/>
           </let>
         </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" part="temps"/>
+              <lit-tag v="inf"/>
+            </equal>
+          </test>
+          <let>
+            <var n="modal"/>
+            <clip pos="1" part="content"/>
+          </let>
+        </when>
       </choose>
     </def-macro>
 
