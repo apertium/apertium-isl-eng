@@ -30953,16 +30953,16 @@
     <e lm="Swedish"><par n="Ss"/><i>wedish</i><par n="expensive__adj"/></e>
     <e lm="Swiss"><par n="Ss"/><i>wiss</i><par n="expensive__adj"/></e>
     <e lm="Syrian"><par n="Ss"/><i>yrian</i><par n="expensive__adj"/></e>
-    <e lm="Taiwanese"><i>Taiwanese</i><par n="expensive__adj"/></e>
-    <e lm="Thai"><i>Thai</i><par n="expensive__adj"/></e>
-    <e lm="Turkish"><i>Turkish</i><par n="expensive__adj"/></e>
-    <e lm="Ukrainian"><i>Ukrainian</i><par n="expensive__adj"/></e>
-    <e lm="Uruguayan"><i>Uruguayan</i><par n="expensive__adj"/></e>
-    <e lm="Valencian"><i>Valencian</i><par n="expensive__adj"/></e>
-    <e lm="Venetian"><i>Venetian</i><par n="expensive__adj"/></e>
-    <e lm="Victorian"><i>Victorian</i><par n="expensive__adj"/></e>
-    <e lm="Vietnamese"><i>Vietnamese</i><par n="expensive__adj"/></e>
-    <e lm="Yugoslav"><i>Yugoslav</i><par n="expensive__adj"/></e>
+    <e lm="Taiwanese"><par n="Tt"/><i>aiwanese</i><par n="expensive__adj"/></e>
+    <e lm="Thai"><par n="Tt"/><i>hai</i><par n="expensive__adj"/></e>
+    <e lm="Turkish"><par n="Tt"/><i>urkish</i><par n="expensive__adj"/></e>
+    <e lm="Ukrainian"><par n="Uu"/><i>krainian</i><par n="expensive__adj"/></e>
+    <e lm="Uruguayan"><par n="Uu"/><i>ruguayan</i><par n="expensive__adj"/></e>
+    <e lm="Valencian"><par n="Vv"/><i>alencian</i><par n="expensive__adj"/></e>
+    <e lm="Venetian"><par n="Vv"/><i>enetian</i><par n="expensive__adj"/></e>
+    <e lm="Victorian"><par n="Vv"/><i>ictorian</i><par n="expensive__adj"/></e>
+    <e lm="Vietnamese"><par n="Vv"/><i>ietnamese</i><par n="expensive__adj"/></e>
+    <e lm="Yugoslav"><par n="Yy"/><i>ugoslav</i><par n="expensive__adj"/></e>
     <e lm="abdominal"><i>abdominal</i><par n="expensive__adj"/></e>
     <e lm="able"><i>able</i><par n="nice/__adj"/></e>
     <e lm="abnormal"><i>abnormal</i><par n="expensive__adj"/></e>
