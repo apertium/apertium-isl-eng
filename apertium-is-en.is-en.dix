@@ -20516,7 +20516,8 @@
     <e><p><l>píslarsaga<s n="n"/><s n="f"/></l><r>passion<s n="n"/></r></p></e> <!-- (of Christ) -->
     <e><p><l>píslarvottur<s n="n"/><s n="m"/></l><r>martyr<s n="n"/></r></p></e>
     <e><p><l>píta<s n="n"/><s n="f"/></l><r>pita<s n="n"/></r></p></e> <!-- (bread) -->
-    <e><p><l>pólitík<s n="n"/><s n="f"/></l><r>politics<s n="n"/></r></p></e>
+    <e><p><l>pólitík<s n="n"/><s n="f"/></l><r>politics<s n="n"/></r></p><par n="lögregla_police__n"/></e>
+    <e><p><l>flokkspólitík<s n="n"/><s n="f"/></l><r>party<b/>politics<s n="n"/></r></p><par n="lögregla_police__n"/></e>
     <e c="0"><p><l>póstafgreiðsla<s n="n"/><s n="f"/></l><r>post<b/>office<s n="n"/></r></p></e>
     <e slr="1"><p><l>póstafgreiðsla<s n="n"/><s n="f"/></l><r>mail<b/>processing<s n="n"/></r></p></e>
     <e><p><l>póstburðargjald<s n="n"/><s n="nt"/></l><r>postal<b/>rates<s n="n"/></r></p></e>
