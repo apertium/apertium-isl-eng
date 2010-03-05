@@ -211,7 +211,9 @@
 
 
   <def-label name="SUPN">
+    <tags-item tags="vblex.*.supn.*"/>
     <tags-item tags="vblex.*.supn"/>
+    <tags-item tags="vblex.supn.*"/>
     <tags-item tags="vblex.supn"/>
   </def-label>
   <def-label name="PP">

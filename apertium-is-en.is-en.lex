@@ -1,5 +1,5 @@
-DELIMITERS            = (sent) (".") ;
-SOFT-DELIMITERS       = ("<,>") ;
+SOFT-DELIMITERS = "<,>" ;
+DELIMITERS = "<.>" "<:>" "<!>" "<?>" "<|>" "<$.>" "<$:>" "<$!>" "<$?>" "<$|>";
 
 LIST BOS              = (>>>);
 LIST EOS              = (<<<);

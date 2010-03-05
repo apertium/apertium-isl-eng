@@ -432,7 +432,7 @@
         <pattern-item n="VCOP"/>
         <pattern-item n="NEG"/>
       </pattern>
-      <action c="Jarðskjálftar eru ekki → Earthquakes are not"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
@@ -464,7 +464,7 @@
         <pattern-item n="ADV"/>
         <pattern-item n="NEG"/>
       </pattern>
-      <action c="Ég vil ekki → I do not want"> 
+      <action> 
         <call-macro n="generate_do2">
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -509,7 +509,7 @@
         <pattern-item n="FMAINV"/>
         <pattern-item n="NEG"/>
       </pattern>
-      <action c="Ég vil ekki → I do not want"> 
+      <action> 
         <call-macro n="generate_do2">
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -546,7 +546,7 @@
         <pattern-item n="FAUXV"/>
         <pattern-item n="NEG"/>
       </pattern>
-      <action c="Ég vil ekki → I do not want"> 
+      <action> 
         <call-macro n="generate_do2">
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -583,7 +583,7 @@
         <pattern-item n="SN_SUBJ_R"/>
         <pattern-item n="NEG"/>
       </pattern>
-      <action c="Vil ég ekki → I do not want"> 
+      <action> 
         <call-macro n="generate_do2">
           <with-param pos="1"/>
           <with-param pos="3"/>
@@ -621,7 +621,7 @@
         <pattern-item n="NEG"/>
         <pattern-item n="INF"/>
       </pattern>
-      <action c="Vil ég ekki ganga í → I do not want to join"> 
+      <action> 
         <call-macro n="generate_do2">
           <with-param pos="1"/>
           <with-param pos="3"/>
@@ -673,7 +673,7 @@
         <pattern-item n="SN_SUBJ_L"/>
         <pattern-item n="FAUXV"/>
       </pattern>
-      <action c="Ég ætla að gera → I am going to make"> 
+      <action> 
         <call-macro n="concord_subj_verb2">
           <with-param pos="1"/>
           <with-param pos="2"/>
@@ -700,7 +700,7 @@
         <pattern-item n="SN_SUBJ_L"/>
         <pattern-item n="FMAINV"/>
       </pattern>
-      <action c="Ég ætla að gera → I am going to make"> 
+      <action> 
         <call-macro n="concord_subj_verb2">
           <with-param pos="1"/>
           <with-param pos="2"/>
@@ -727,7 +727,7 @@
         <pattern-item n="SV"/>
         <pattern-item n="SADV"/>
       </pattern>
-      <action c="Ég las aldrei → I never read"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
@@ -756,7 +756,7 @@
         <pattern-item n="FMAINV"/>
         <pattern-item n="ADV"/>
       </pattern>
-      <action c="Bandaríkjamenn styðja hinsvegar → Americans however support"> 
+      <action> 
         <choose>
           <when>
             <test>
@@ -817,7 +817,7 @@
         <pattern-item n="DESIRE_VERB"/>
         <pattern-item n="SN_SUBJ_R"/>
       </pattern>
-      <action c="Hvað vilt þú ? → What do you want ?"> 
+      <action> 
         <call-macro n="generate_do2">
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -856,7 +856,7 @@
         <pattern-item n="FMAINV"/>
         <pattern-item n="SN_SUBJ_R"/>
       </pattern>
-      <action c="Hvar ert þú ? → Where are you ?"> 
+      <action> 
         <choose>
           <when>
             <test>
@@ -925,7 +925,7 @@
         <pattern-item n="FAUXV"/>
         <pattern-item n="SN_SUBJ_R"/>
       </pattern>
-      <action c="Hvar ert þú ? → Where are you ?"> 
+      <action> 
         <choose>
           <when>
             <test>
@@ -992,7 +992,7 @@
         <pattern-item n="REPORT_VERB"/>
         <pattern-item n="SN_SUBJ_R"/>
       </pattern>
-      <action c="í gær skapaði ég → yesterday I created"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="2" part="lem"/>
@@ -1015,7 +1015,7 @@
         <pattern-item n="FAUXV"/>
         <pattern-item n="SN_SUBJ_R"/>
       </pattern>
-      <action c="Ennfremur sé málið → Furthermore the matter is"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="2" part="lem"/>
@@ -1038,7 +1038,7 @@
         <pattern-item n="FMAINV"/>
         <pattern-item n="SN_SUBJ_R"/>
       </pattern>
-      <action c="í gær skapaði ég → yesterday I created"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="2" part="lem"/>
@@ -1062,7 +1062,7 @@
         <pattern-item n="SN_SUBJ_R"/>
         <pattern-item n="PP_FMAINV"/>
       </pattern>
-      <action c="Litlu músina hafði stóra uglan étið → The big owl had eaten the small mouse"> 
+      <action> 
         <out>
           <chunk>
             <get-case-from pos="1">
@@ -1103,7 +1103,7 @@
         <pattern-item n="SN_SUBJ_R"/>
         <pattern-item n="PP_FMAINV"/>
       </pattern>
-      <action c="höfðu nokkrir stúdentar aldrei séð → some students had never seen"> 
+      <action> 
         <call-macro n="convert_become_pp2">
           <with-param pos="1"/>
           <with-param pos="3"/>
@@ -1143,7 +1143,7 @@
         <pattern-item n="ADV"/>
         <pattern-item n="PP_FMAINV"/>
       </pattern>
-      <action c="Ráðstefnan var frá upphafi illa skipulögð → The conference was badly organised from the beginning"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
@@ -1178,7 +1178,7 @@
         <pattern-item n="ADV"/>
         <pattern-item n="PP_FMAINV"/>
       </pattern>
-      <action c="var frá upphafi illa skipulögð → was badly organised from the beginning"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
@@ -1208,7 +1208,7 @@
         <pattern-item n="SADV"/>
         <pattern-item n="INF"/>
       </pattern>
-      <action c="mátt þú ekki éta → you may not eat"> 
+      <action> 
         <out>
           <chunk>
             <clip pos="2" part="lem"/>
@@ -1244,7 +1244,7 @@
         <pattern-item n="SN_SUBJ_L"/>
         <pattern-item n="FMAINV"/>
       </pattern>
-      <action c="segir að hann komi → says that he will come"> 
+      <action> 
         <call-macro n="convert_subjunc1">
           <with-param pos="4"/>
         </call-macro> 
@@ -1286,7 +1286,7 @@
         <pattern-item n="SN_SUBJ_L"/>
         <pattern-item n="FMAINV"/>
       </pattern>
-      <action c="vildi að verðlaunin færu til þeirra → wanted the award to go to them"> 
+      <action> 
         <call-macro n="convert_subjunc1">
           <with-param pos="5"/>
         </call-macro> 

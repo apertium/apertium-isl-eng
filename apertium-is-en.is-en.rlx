@@ -7,8 +7,9 @@
 #
 ###############################################################################
 
-SOFT-DELIMITERS = "<,>" sent;
-DELIMITERS = "<.>"ri "<:>"ri "<!>"ri "<?>"ri sent;
+SOFT-DELIMITERS = "<,>" ;
+DELIMITERS = "<.>" "<:>" "<!>" "<?>" "<|>" "<$.>" "<$:>" "<$!>" "<$?>" "<$|>";
+
 
 LIST BOS = (>>>) (<s>) (sent) sent ; 
 LIST EOS = (<<<) (</s>) (sent) sent ; 

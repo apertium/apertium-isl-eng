@@ -2259,7 +2259,7 @@
        <pattern-item n="adv"/>
        <pattern-item n="pp"/>
      </pattern>
-     <action c="illa skipulögð">
+     <action>
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>

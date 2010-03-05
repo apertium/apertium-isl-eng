@@ -92,7 +92,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(PREFIX1).prob  \
 	   $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
 	   $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX1).t4x \
+	   $(BASENAME).$(PREFIX1).rlx $(BASENAME).$(PREFIX1).lex \
 	   $(BASENAME).$(LANG1).tsx \
+	   lexchoicebil.xsl \
+	   ACKNOWLEDGEMENTS \
 	   modes.xml
 
 #           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README 
