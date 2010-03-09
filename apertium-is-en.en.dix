@@ -9737,6 +9737,10 @@
     <e lm="exhibition manager"><i>exhibition<b/>manager</i><par n="house__n"/></e>
     <e lm="sales manager"><i>sales<b/>manager</i><par n="house__n"/></e>
     <e lm="woman teacher"><i>woman<b/>teacher</i><par n="house__n"/></e>
+    <e lm="music teacher"><i>music<b/>teacher</i><par n="house__n"/></e>
+    <e lm="German teacher"><par n="Gg"/><i>erman<b/>teacher</i><par n="house__n"/></e>
+    <e lm="sports teacher"><i>sports<b/>teacher</i><par n="house__n"/></e>
+    <e lm="secondary-school teacher"><i>secondary-school<b/>teacher</i><par n="house__n"/></e>
     <e lm="fire extinguisher"><i>fire<b/>extinguisher</i><par n="house__n"/></e>
     <e lm="good weather"><i>good<b/>weather</i><par n="house__n"/></e>
     <e lm="female worker"><i>female<b/>worker</i><par n="house__n"/></e>

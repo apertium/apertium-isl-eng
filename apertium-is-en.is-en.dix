@@ -10903,7 +10903,7 @@
     <e><p><l>menning<s n="n"/><s n="f"/></l><r>culture<s n="n"/></r></p></e>
     <!--<e><p><l>mennt<s n="n"/><s n="f"/></l><r>art<s n="n"/></r></p></e>-->
     <e><p><l>mennt<s n="n"/><s n="f"/></l><r>skill<s n="n"/></r></p></e>
-    <e><p><l>menntaskóli<s n="n"/><s n="m"/></l><r>college<s n="n"/></r></p></e>
+    <e><p><l>menntaskóli<s n="n"/><s n="m"/></l><r>secondary<b/>school<s n="n"/></r></p></e>
     <e><p><l>menntun<s n="n"/><s n="f"/></l><r>education<s n="n"/></r></p></e>
     <e><p><l>mergur<s n="n"/><s n="m"/></l><r>marrow<s n="n"/></r></p></e>
     <!--<e><p><l>mergur<s n="n"/><s n="m"/></l><r>core<s n="n"/></r></p></e>-->
@@ -26877,6 +26877,10 @@
     <e><p><l>flytjandi<s n="n"/><s n="m"/></l><r>performer<s n="n"/></r></p></e>
     <e><p><l>afnot<s n="n"/><s n="nt"/></l><r>use<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e> <!-- @ONLYPLIS -->
     <e><p><l>stórmeistari<s n="n"/><s n="m"/></l><r>grandmaster<s n="n"/></r></p></e>
+    <e><p><l>þýskukennari<s n="n"/><s n="m"/></l><r>German<b/>teacher<s n="n"/></r></p></e>
+    <e><p><l>menntaskólakennari<s n="n"/><s n="m"/></l><r>secondary-school<b/>teacher<s n="n"/></r></p></e>
+    <e><p><l>íþróttakennari<s n="n"/><s n="m"/></l><r>sports<b/>teacher<s n="n"/></r></p></e>
+    <e><p><l>tónlistarkennari<s n="n"/><s n="m"/></l><r>music<b/>teacher<s n="n"/></r></p></e>
     <e><p><l>skákmaður<s n="n"/><s n="m"/></l><r>chess<b/>player<s n="n"/></r></p></e>
     <e><p><l>mælandi<s n="n"/><s n="m"/></l><r>speaker<s n="n"/></r></p></e> <!-- language talker -->
     <e><p><l>símafundur<s n="n"/><s n="m"/></l><r>telephone<b/>meeting<s n="n"/></r></p></e>
