@@ -286,6 +286,8 @@ REMOVE Pron + Nom IF (1C* PersPron + Nom BARRIER CLB);
 
 REMOVE IndefPron + Nom IF (-1 BOS | EOS) (0 IndefPron) (0 InterrPron);
 
+REMOVE IndefPron IF (-1 BOS | EOS) (0 IndefPron) (0 InterrPron) ;
+
 #################################################################################
 # Demonstrative pronouns 
 #################################################################################
