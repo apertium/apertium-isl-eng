@@ -15460,6 +15460,25 @@
     <e lm="spangle"><i>spangle</i><par n="house__n"/></e>
     <e lm="spare"><i>spare</i><par n="house__n"/></e>
     <e lm="speaker"><i>speaker</i><par n="house__n"/></e>
+    <e lm="Arabic speaker"><par n="Aa"/><i>rabic<b/>speaker</i><par n="house__n"/></e>
+    <e lm="English speaker"><par n="Ee"/><i>nglish<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Finnish speaker"><par n="Ff"/><i>innish<b/>speaker</i><par n="house__n"/></e>
+    <e lm="French speaker"><par n="Ff"/><i>rench<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Greek speaker"><par n="Gg"/><i>reek<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Icelandic speaker"><par n="Ii"/><i>celandic<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Italian speaker"><par n="Ii"/><i>talian<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Celtic speaker"><par n="Cc"/><i>eltic<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Lao speaker"><par n="Ll"/><i>ao<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Russian speaker"><par n="Rr"/><i>ussian<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Romanian speaker"><par n="Rr"/><i>omanian<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Swedish speaker"><par n="Ss"/><i>wedish<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Sámi speaker"><par n="Ss"/><i>ámi<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Spanish speaker"><par n="Ss"/><i>panish<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Turkic speaker"><par n="Tt"/><i>urkic<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Hungarian speaker"><par n="Hh"/><i>ungarian<b/>speaker</i><par n="house__n"/></e>
+    <e lm="Finno-Urgic speaker"><par n="Ff"/><i>inno-Urgic<b/>speaker</i><par n="house__n"/></e>
+    <e lm="German speaker"><par n="Gg"/><i>erman<b/>speaker</i><par n="house__n"/></e>
+
     <e lm="specialist"><i>specialist</i><par n="house__n"/></e>
     <e lm="speciality"><i>specialit</i><par n="bab/y__n"/></e>
     <e lm="specialisation"><i>specialisation</i><par n="house__n"/></e>

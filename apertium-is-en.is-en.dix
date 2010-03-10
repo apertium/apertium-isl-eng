@@ -26896,6 +26896,26 @@
     <e><p><l>karlafræði<s n="n"/><s n="f"/></l><r>man<b/>studies<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <e><p><l>hinseginfræði<s n="n"/><s n="f"/></l><r>gay<b/>studies<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
 
+    <e><p><l>arabískumælandi<s n="n"/><s n="m"/></l><r>Arabic<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>enskumælandi<s n="n"/><s n="m"/></l><r>English<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>finnskumælandi<s n="n"/><s n="m"/></l><r>Finnish<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>frönskumælandi<s n="n"/><s n="m"/></l><r>French<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>grískumælandi<s n="n"/><s n="m"/></l><r>Greek<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>íslenskumælandi<s n="n"/><s n="m"/></l><r>Icelandic<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>ítölskumælandi<s n="n"/><s n="m"/></l><r>Italian<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>keltneskumælandi<s n="n"/><s n="m"/></l><r>Celtic<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>laómælandi<s n="n"/><s n="m"/></l><r>Lao<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>rússneskumælandi<s n="n"/><s n="m"/></l><r>Russian<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>rúmenskumælandi<s n="n"/><s n="m"/></l><r>Romanian<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>sænskumælandi<s n="n"/><s n="m"/></l><r>Swedish<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>samískumælandi<s n="n"/><s n="m"/></l><r>Sámi<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>spænskumælandi<s n="n"/><s n="m"/></l><r>Spanish<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>tyrkneskumælandi<s n="n"/><s n="m"/></l><r>Turkic<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>ungverskumælandi<s n="n"/><s n="m"/></l><r>Hungarian<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>finnsk-úrgískumælandi<s n="n"/><s n="m"/></l><r>Finno-Urgic<b/>speaker<s n="n"/></r></p></e>
+    <e><p><l>þýskumælandi<s n="n"/><s n="m"/></l><r>German<b/>speaker<s n="n"/></r></p></e>
+
+
     <e><p><l>Perú<s n="np"/><s n="top"/><s n="nt"/></l><r>Peru<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Síle<s n="np"/><s n="top"/><s n="nt"/></l><r>Chile<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Gabon<s n="np"/><s n="top"/><s n="nt"/></l><r>Gabon<s n="np"/><s n="top"/></r></p></e>
@@ -26920,4 +26940,5 @@
 
   </section>
 </dictionary>
+
 
