@@ -30724,7 +30724,26 @@
     <e lm="then" r="RL"><i>then</i><par n="expensive__adj"/></e> <!-- The _then_ president -->
     <e lm="internally"><i>internally</i><par n="expensive__adj"/></e>
     <e lm="some kind of"><i>some<b/>kind<b/>of</i><par n="expensive__adj"/></e>
-    <e lm="English-speaking"><i>English-speaking</i><par n="expensive__adj"/></e>
+    <e lm="English-speaking"><par n="Ee"/><i>nglish-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Arabic-speaking"><par n="Aa"/><i>rabic-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Finnish-speaking"><par n="Ff"/><i>innish-speaking</i><par n="expensive__adj"/></e>
+    <e lm="French-speaking"><par n="Ff"/><i>rench-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Greek-speaking"><par n="Gg"/><i>reek-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Icelandic-speaking"><par n="Ii"/><i>celandic-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Italian-speaking"><par n="Ii"/><i>talian-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Celtic-speaking"><par n="Cc"/><i>eltic-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Lao-speaking"><par n="Ll"/><i>ao-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Russian-speaking"><par n="Rr"/><i>ussian-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Romanian-speaking"><par n="Rr"/><i>omanian-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Swedish-speaking"><par n="Ss"/><i>wedish-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Sámi-speaking"><par n="Ss"/><i>ámi-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Spanish-speaking"><par n="Ss"/><i>panish-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Turkic-speaking"><par n="Tt"/><i>urkic-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Hungarian-speaking"><par n="Hh"/><i>ungarian-speaking</i><par n="expensive__adj"/></e>
+    <e lm="Finno-Urgic speaking"><par n="Ff"/><i>inno-Urgic<b/>speaking</i><par n="expensive__adj"/></e>
+    <e lm="German-speaking"><par n="Gg"/><i>erman-speaking</i><par n="expensive__adj"/></e>
+
+
     <e lm="that kind of"><i>that<b/>kind<b/>of</i><par n="expensive__adj"/></e>
     <e lm="flying"><i>flying</i><par n="expensive__adj"/></e>
     <e lm="dreamy"><i>dreamy</i><par n="expensive__adj"/></e>
