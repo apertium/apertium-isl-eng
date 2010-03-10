@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="n" /> 
     <sdef n="unc" /> 
+    <sdef n="inf" /> 
     <sdef n="np" /> 
     <sdef n="ij" /> 
     <sdef n="num" /> 
@@ -3952,6 +3953,8 @@
     <e><p><l>sem<s n="rel"/><s n="an"/></l><r>that<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
     <e slr="1"><p><l>sem<s n="rel"/><s n="an"/></l><r>which<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
     <e slr="2"><p><l>sem<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p><par n="sem_that__rel"/></e>
+
+    <e><p><l>að<s n="inf"/></l><r>to<s n="pr"/></r></p></e>
     <!-- END Particles -->
 
 
