@@ -9619,6 +9619,7 @@
     <e lm="blood cell"><i>blood<b/>cell</i><par n="house__n"/></e>
     <e lm="electric drill"><i>electric<b/>drill</i><par n="house__n"/></e>
     <e lm="music school"><i>music<b/>school</i><par n="house__n"/></e>
+    <e lm="secondary school"><i>secondary<b/>school</i><par n="house__n"/></e>
     <e lm="private school"><i>private<b/>school</i><par n="house__n"/></e>
     <e lm="steel wool"><i>steel<b/>wool</i><par n="house__n"/></e>
     <e lm="baby girl"><i>baby<b/>girl</i><par n="house__n"/></e>
@@ -30666,6 +30667,8 @@
     <e lm="disorderly"><i>disorderly</i><par n="expensive__adj"/></e>
     <e lm="fatherly"><i>fatherly</i><par n="expensive__adj"/></e>
     <e lm="soldierly"><i>soldierly</i><par n="expensive__adj"/></e>
+    <e lm="westerly"><i>westerly</i><par n="expensive__adj"/></e>
+    <e lm="northerly"><i>northerly</i><par n="expensive__adj"/></e>
     <e lm="miserly"><i>miserly</i><par n="expensive__adj"/></e>
     <e lm="masterly"><i>masterly</i><par n="expensive__adj"/></e>
     <e lm="measly"><i>measl</i><par n="happ/y__adj"/></e>
@@ -30929,13 +30932,13 @@
     <e lm="Latvian"><par n="Ll"/><i>atvian</i><par n="expensive__adj"/></e>
     <e lm="Lebanese"><par n="Ll"/><i>ebanese</i><par n="expensive__adj"/></e>
     <e lm="Lithuanian"><par n="Ll"/><i>ithuanian</i><par n="expensive__adj"/></e>
-    <e lm="Majorcan"><i>Majorcan</i><par n="expensive__adj"/></e>
-    <e lm="Maltese"><i>Maltese</i><par n="expensive__adj"/></e>
-    <e lm="Marxist"><i>Marxist</i><par n="expensive__adj"/></e>
-    <e lm="Mediterranean"><i>Mediterranean</i><par n="expensive__adj"/></e>
-    <e lm="Mexican"><i>Mexican</i><par n="expensive__adj"/></e>
-    <e lm="Moroccan"><i>Moroccan</i><par n="expensive__adj"/></e>
-    <e lm="Muslim"><i>Muslim</i><par n="expensive__adj"/></e>
+    <e lm="Majorcan"><par n="Mm"/><i>ajorcan</i><par n="expensive__adj"/></e>
+    <e lm="Maltese"><par n="Mm"/><i>altese</i><par n="expensive__adj"/></e>
+    <e lm="Marxist"><par n="Mm"/><i>arxist</i><par n="expensive__adj"/></e>
+    <e lm="Mediterranean"><par n="Mm"/><i>editerranean</i><par n="expensive__adj"/></e>
+    <e lm="Mexican"><par n="Mm"/><i>exican</i><par n="expensive__adj"/></e>
+    <e lm="Moroccan"><par n="Mm"/><i>oroccan</i><par n="expensive__adj"/></e>
+    <e lm="Muslim"><par n="Mm"/><i>uslim</i><par n="expensive__adj"/></e>
     <e lm="Nepalese"><par n="Nn"/><i>epalese</i><par n="expensive__adj"/></e>
     <e lm="Nicaraguan"><par n="Nn"/><i>icaraguan</i><par n="expensive__adj"/></e>
     <e lm="Nigerian"><par n="Nn"/><i>igerian</i><par n="expensive__adj"/></e>
@@ -32659,7 +32662,7 @@
     <e lm="low quality"><i>low<b/>quality</i><par n="expensive__adj"/></e>
     <e lm="naked"><i>naked</i><par n="expensive__adj"/></e>
 
-    <e lm="Arabic"><i>Arabic</i><par n="expensive__adj"/></e>
+    <e lm="Arabic"><par n="Aa"/><i>rabic</i><par n="expensive__adj"/></e>
     <e lm="aquaphobic"><i>aquaphobic</i><par n="expensive__adj"/></e>
     <e lm="Nordic"><par n="Nn"/><i>ordic</i><par n="expensive__adj"/></e>
     <e lm="Gothic"><par n="Gg"/><i>othic</i><par n="expensive__adj"/></e>

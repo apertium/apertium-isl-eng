@@ -104,6 +104,9 @@
       <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l><s n="GD"/><s n="ND"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
+    <pardef n="hvaða_which__prn">
+      <e r="LR"><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="allur_all__prn">
       <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
       <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
@@ -397,6 +400,7 @@
 
     <e><p><l>hver<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
     <e><p><l>hvor<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></p><par n="allur_all__prn"/></e>
+    <e><p><l>hvaða<s n="prn"/><s n="itg"/></l><r>which<s n="prn"/><s n="itg"/></r></p><par n="hvaða_which__prn"/></e>
 
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -1586,7 +1590,7 @@
 <!--<p><l>neikvæður<s n="adj"/></l><r>downbeat<s n="adj"/></r></p></e>-->
 <!--<p><l>neikvæður<s n="adj"/></l><r>minus<s n="adj"/></r></p></e>-->
     <e><p><l>neikvæður<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
-    <e><p><l>neðri<s n="adj"/></l><r>lower<s n="adj"/></r></p></e>
+    <e><p><l>neðri<s n="adj"/></l><r>low<s n="adj"/><s n="comp"/></r></p></e>
     <e><p><l>niðursokkinn<s n="adj"/></l><r>absorbed<s n="adj"/></r></p></e>
 <!--<p><l>niðursokkinn<s n="adj"/></l><r>intent<s n="adj"/></r></p></e>-->
 <!--<p><l>niðursokkinn<s n="adj"/></l><r>preoccupied<s n="adj"/></r></p></e>-->
@@ -1884,7 +1888,7 @@
     <e><p><l>skynsamlegur<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>
 <!--<p><l>skynsamlegur<s n="adj"/></l><r>sound<s n="adj"/></r></p></e>-->
 <!--<p><l>skynsamlegur<s n="adj"/></l><r>wise<s n="adj"/></r></p></e>-->
-    <e><p><l>skárri<s n="adj"/></l><r>better<s n="adj"/></r></p></e>
+    <e><p><l>skárri<s n="adj"/></l><r>good<s n="adj"/><s n="sup"/></r></p></e>
 <!--<p><l>skárri<s n="adj"/></l><r>enhanced<s n="adj"/></r></p></e>-->
 <!--<p><l>skárri<s n="adj"/></l><r>improved<s n="adj"/></r></p></e>-->
 <!--<p><l>skárri<s n="adj"/></l><r>recovering<s n="adj"/></r></p></e>-->
@@ -2750,7 +2754,6 @@
     <e><p><l>hver<s n="adv"/><s n="itg"/></l><r>who<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvernig<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hví<s n="adv"/><s n="itg"/></l><r>why<s n="adv"/><s n="itg"/></r></p></e>
-    <e><p><l>hvaða<s n="adv"/><s n="itg"/></l><r>which<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvort<s n="adv"/><s n="itg"/></l><r>whether<s n="adv"/></r></p></e>
     <e><p><l>hversu<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>hvert<b/>þá<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
