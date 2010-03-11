@@ -158,5 +158,5 @@ SUBSTITUTE ("rómanskur") ("rómanskur:1") ("rómanskur") + Verb (1C ("Ameríka"
 SUBSTITUTE ("ámóta") ("ámóta:1") ("ámóta") + Adv (1* @←OBJ | @X BARRIER CLB);
 
 # "um leið og" : {0: "as soon as", 1: "at the same time as"};
-SUBSTITUTE ("um leið og") ("um leið og:1") ("um leið og") (NOT 1* Verb BARRIER CLB | (Coord LINK 1 Verb));
-
+SUBSTITUTE ("um leið og") ("um leið og:1") ("um leið og") (NOT 1* Verb BARRIER CLB);
+SUBSTITUTE ("um leið og") ("um leið og:1") ("um leið og") (NEGATE 1* Verb LINK 0 Coord LINK 1 Verb) ; # only fire if there cannot be found a 1* Verb 
