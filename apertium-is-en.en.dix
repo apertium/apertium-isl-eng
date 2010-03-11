@@ -14388,6 +14388,7 @@
     <e lm="party"><i>part</i><par n="bab/y__n"/></e>
     <e lm="political party"><i>political<b/>part</i><par n="bab/y__n"/></e>
     <e lm="governing party"><i>governing<b/>part</i><par n="bab/y__n"/></e>
+    <e lm="communist party"><i>communist<b/>part</i><par n="bab/y__n"/></e>
 
     <e lm="part"><i>part</i><par n="house__n"/></e>
     <e lm="main part"><i>main<b/>part</i><par n="house__n"/></e>
