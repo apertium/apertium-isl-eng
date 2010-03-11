@@ -385,14 +385,15 @@
     <e r="LR"><p><l>hinn<s n="prn"/><s n="dem"/><s n="nt"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
     <e r="RL"><p><l>hinn<s n="prn"/><s n="dem"/><s n="GD"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 
+    <e><p><l>ýmis<s n="prn"/><s n="qnt"/></l><r>various<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>neinn<s n="prn"/><s n="qnt"/></l><r>any<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
     <e><p><l>allur<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/></r></p><par n="allur_all__prn"/></e>
     <e><p><l>annar<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
     <e><p><l>báðir<s n="prn"/><s n="ind"/></l><r>both<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
-    <e><p><l>enginn<s n="prn"/><s n="ind"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
+    <e><p><l>enginn<s n="prn"/><s n="qnt"/></l><r>nobody<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
 
-    <e><p><l>nokkur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
-    <e><p><l>sumur<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>nokkur<s n="prn"/><s n="qnt"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
+    <e><p><l>sumur<s n="prn"/><s n="qnt"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>hver<s n="prn"/><s n="ind"/></l><r>each<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>
     <e><p><l>einhver<s n="prn"/><s n="ind"/></l><r>some<s n="prn"/><s n="ind"/></r></p><par n="nokkur_some__prn"/></e>
     <e><p><l>sérhver<s n="prn"/><s n="ind"/></l><r>everyone<s n="prn"/><s n="ind"/></r></p><par n="annar_another__prn"/></e>

@@ -2559,6 +2559,7 @@
     <e lm="enough"><i>enough</i><par n="enough__det"/></e>
     <e lm="enough" r="RL"><i>enough</i><par n="expensive__adj"/></e>
     <e lm="various"><i>various</i><par n="several__det"/></e>
+    <e lm="various" r="RL"><i>various</i><par n="both__prn"/></e>
     <e lm="various" r="RL"><i>various</i><par n="expensive__adj"/></e> <!-- margbreytilegur -->
     <e lm="many"><i>many</i><par n="many__det"/></e>
     <e lm="many" r="RL"><i>many</i><par n="expensive__adj"/></e>
