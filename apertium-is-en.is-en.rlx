@@ -37,7 +37,7 @@ LIST PP = (actv pp) ;
 LIST Inf = (inf) ;
 LIST VerbInf = (vblex inf) ;
 LIST VerbSpecAux = (vaux) ;
-LIST VerbAux = (vaux) (vbhaver) (vbser) ("verða"ri vblex); ## check verða = aux ?
+LIST VerbAux = (vaux) (vbhaver) (vbser) ("verða" vblex) ("geta" vblex); ## check verða = aux ?
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
 LIST Verb = (vblex) (vbser) (vbhaver) (vaux);
@@ -182,7 +182,8 @@ SELECT ("á"ri) IF (-1 Adv);
 SELECT VerbInf IF ((-1 VerbSpecAux) OR (-1C Adv LINK NOT -2 BOS LINK -2 VerbSpecAux));
 
 # hafði talið, velja sagnbót
-SELECT VerbSupine IF (-1 VerbAux);
+# þetta kerfi get ekki þýtt neitt.
+SELECT VerbSupine IF ((-1 VerbAux) OR (-2 VerbAux));
 
 # select the adjective, but ok is "fyrir framan X", and ok is "bara verð markaðarins"
 SELECT Adv IF (0 Adj) (-1 BOS OR (NOT -1 Prep)) (1 EOS OR (NOT 1 N LINK 1 Gen));
