@@ -30,7 +30,7 @@ LIST Human            = (np ant) (np cog) (prn p2) (prn p3 m) (prn p3 f) ("engin
 LIST Family           = "móðir" "faðir" "bróðir" "systir" "pabbi" "mamma" "dóttir" "sonur" "afi" "amma" "frændi" "kærasti" "kærasta";
 
 LIST ISLANDS          = "England" "Ísland" "Kúba" "Haítí" "Kanarí" "Kanaríeyjar" "Jótland"; 
-LIST LANGUAGES        = "íslenska" "enska" "gríska";
+LIST LANGUAGES        = "tungumál" "íslenska" "enska" "gríska";
 LIST BUILDINGS        = ".*skóli"ri "sjúkrahús"ri; # eldahús
 
 LIST @X               = @X;

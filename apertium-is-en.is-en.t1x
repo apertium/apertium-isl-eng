@@ -189,9 +189,10 @@
      <cat-item tags="vblex.pp.*"/>
      <cat-item tags="vblex.*.pp"/>
      <cat-item tags="vblex.*.pp.*"/>
-     <cat-item tags="vbser.pp.*"/>
-     <cat-item tags="vbhaver.pp"/>
-     <cat-item tags="vbhaver.pp.*"/>
+     <cat-item tags="vbser.supn"/>
+     <cat-item tags="vbhaver.supn"/>
+     <cat-item tags="vbser.supn.*"/>
+     <cat-item tags="vbhaver.supn.*"/>
      <cat-item tags="vaux.supn"/>
      <cat-item tags="vaux.supn.*"/>
   </def-cat>
@@ -259,8 +260,8 @@
   </def-cat>
 
   <def-cat n="verið">
-     <cat-item lemma="vera" tags="vbser.pp.*"/>
-     <cat-item lemma="vera" tags="vbser.pp"/>
+     <cat-item lemma="vera" tags="vbser.supn"/>
+     <cat-item lemma="vera" tags="vbser.supn.*"/>
   </def-cat>
 
   <def-cat n="að">
