@@ -4211,7 +4211,7 @@
     <e><p><l>Afganistan<s n="np"/><s n="top"/><s n="nt"/></l><r>Afghanistan<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Afríka<s n="np"/><s n="top"/><s n="nt"/></l><r>Africa<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Suður-Afríka<s n="np"/><s n="top"/><s n="nt"/></l><r>South<b/>Africa<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Akureyri<s n="np"/><s n="top"/><s n="nt"/></l><r>Akureyri<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Akureyri<s n="np"/><s n="top"/><s n="f"/></l><r>Akureyri<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Landspítali<s n="np"/><s n="top"/><s n="nt"/></l><r>Landspítali<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Albanía<s n="np"/><s n="top"/><s n="nt"/></l><r>Albania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Alsír<s n="np"/><s n="top"/><s n="nt"/></l><r>Algeria<s n="np"/><s n="top"/></r></p></e>
@@ -4292,7 +4292,7 @@
     <e><p><l>Gaza-strönd<s n="np"/><s n="top"/><s n="f"/></l><r>Gaza<b/>Strip<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Portúgal<s n="np"/><s n="top"/><s n="nt"/></l><r>Portugal<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Pólland<s n="np"/><s n="top"/><s n="nt"/></l><r>Poland<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Reykjavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Reykjavík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Reykjavík<s n="np"/><s n="top"/><s n="f"/></l><r>Reykjavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Rúmenía<s n="np"/><s n="top"/><s n="nt"/></l><r>Romania<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Rússland<s n="np"/><s n="top"/><s n="nt"/></l><r>Russia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Sambía<s n="np"/><s n="top"/><s n="nt"/></l><r>Zambia<s n="np"/><s n="top"/></r></p></e>
@@ -14055,11 +14055,11 @@
     <e><p><l>Barcelona<s n="np"/><s n="top"/><s n="nt"/></l><r>Barcelona<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Líma<s n="np"/><s n="top"/><s n="nt"/></l><r>Lima<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Flórída<s n="np"/><s n="top"/><s n="nt"/></l><r>Florida<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Grindavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Grindavík<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Njarðvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Njarðvík<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Húsavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Húsavík<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="nt"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="nt"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Grindavík<s n="np"/><s n="top"/><s n="f"/></l><r>Grindavík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Njarðvík<s n="np"/><s n="top"/><s n="f"/></l><r>Njarðvík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Húsavík<s n="np"/><s n="top"/><s n="f"/></l><r>Húsavík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="f"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="f"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kanaríeyjar<s n="np"/><s n="top"/><s n="f"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Makedónía<s n="np"/><s n="top"/><s n="nt"/></l><r>Macedonia<s n="np"/><s n="top"/></r></p></e>

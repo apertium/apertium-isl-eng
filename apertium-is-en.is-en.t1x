@@ -477,6 +477,11 @@
 -->
     </def-list>
 
+    <def-list n="impersonalverbs">
+      <list-item v="gruna"/>
+      <list-item v="vanta"/>
+    </def-list> 
+
     <def-list n="opinionverb">
       <list-item v="halda"/>
     </def-list> 
@@ -892,6 +897,24 @@
       </let>
       <!-- First set the verb chunk type, e.g. reporting 
            verbs get treated differently for subjunctives -->
+      <choose>
+        <when>
+          <test>
+            <in caseless="yes">
+              <clip pos="1" side="sl" part="lem"/>
+              <list n="impersonalverbs"/>
+            </in>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="nbr"/>
+            <lit-tag v="ND"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="pers"/>
+            <lit-tag v="PD"/>
+          </let>
+        </when>
+      </choose>
       <choose>
         <when>
           <test>

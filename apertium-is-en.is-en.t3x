@@ -146,10 +146,26 @@
               <lit-tag v="PD"/>
             </equal>
           </test>
-          <let>
-            <clip pos="2" part="pers"/>
-            <clip pos="1" part="pers"/>
-          </let>
+          <choose>
+            <when>
+              <test> 
+                <equal>
+                  <clip pos="1" part="pers"/>
+                  <lit-tag v="p3"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="2" part="pers"/>
+                <clip pos="1" part="pers"/>
+              </let>
+            </when>
+            <otherwise>
+              <let>
+                <clip pos="2" part="pers"/>
+                <lit v=""/>
+              </let>
+            </otherwise>
+          </choose>
         </when>
       </choose>
       <choose>
@@ -160,10 +176,32 @@
               <lit-tag v="ND"/>
             </equal>
           </test>
-          <let>
-            <clip pos="2" part="nbr"/>
-            <clip pos="1" part="nbr"/>
-          </let>
+          <choose>
+            <when>
+              <test> 
+                <and>
+                  <equal>
+                    <clip pos="1" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </equal>
+                  <equal>
+                    <clip pos="1" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </equal>
+                </and>
+              </test>
+              <let>
+                <clip pos="2" part="nbr"/>
+                <clip pos="1" part="nbr"/>
+              </let>
+            </when>
+            <otherwise>
+              <let>
+                <clip pos="2" part="nbr"/>
+                <lit v=""/>
+              </let>
+            </otherwise>
+          </choose>
         </when>
 
       </choose>
@@ -457,6 +495,33 @@
 
 
 
+    <rule comment="REGLA: SN_SUBJ_L FMAINV → SN_SUBJ_L FMAINV">
+      <pattern>
+        <pattern-item n="SN_SUBJ_L"/>
+        <pattern-item n="FMAINV"/>
+      </pattern>
+      <action> 
+        <call-macro n="concord_subj_verb2">
+          <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: SN_SUBJ_L FMAINV ADV NEG → SN_SUBJ_L ADV do not FMAINV">
       <pattern>
         <pattern-item n="SN_SUBJ_L"/>
@@ -694,32 +759,6 @@
       </action>
     </rule>
 
-
-    <rule comment="REGLA: SN_SUBJ_L FMAINV → SN_SUBJ_L FMAINV">
-      <pattern>
-        <pattern-item n="SN_SUBJ_L"/>
-        <pattern-item n="FMAINV"/>
-      </pattern>
-      <action> 
-        <call-macro n="concord_subj_verb2">
-          <with-param pos="1"/>
-          <with-param pos="2"/>
-        </call-macro>
-        <out>
-          <chunk>
-            <clip pos="1" part="lem"/>
-            <clip pos="1" part="tags"/>
-            <clip pos="1" part="chcontent"/>
-          </chunk>
-          <b pos="1"/>
-          <chunk>
-            <clip pos="2" part="lem"/>
-            <clip pos="2" part="tags"/>
-            <clip pos="2" part="chcontent"/>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: SN_SUBJ SV SADV → SN_SUBJ SADV SV">
       <pattern>
