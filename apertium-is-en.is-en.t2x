@@ -172,7 +172,9 @@
       <action>
         <out>
           <chunk>
-            <lit v="sn_prep_sn"/>
+            <get-case-from pos="1">
+              <lit v="sn_prep_sn"/>
+            </get-case-from>
             <clip pos="1" part="tags"/>
             <lit v="{"/>
               <clip pos="1" part="content"/>
