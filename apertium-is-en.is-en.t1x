@@ -1251,6 +1251,65 @@
       <choose>
         <when>
           <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="geta"/>
+              </equal>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="temps"/>
+                <lit-tag v="pss"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="past"/>
+          </let>
+          <let>
+            <var n="cur_verb_fin"/>
+            <concat>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </concat>
+          </let>      
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal caseless="yes">
+                <clip pos="1" side="sl" part="lem"/>
+                <lit v="geta"/>
+              </equal>
+              <not>
+                <equal caseless="yes">
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pss"/>
+                </equal>
+              </not>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="inf"/>
+          </let>
+          <let>
+            <var n="cur_verb_fin"/>
+            <concat>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="temps"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </concat>
+          </let>      
+        </when>
+      </choose>
+
+      <choose>
+        <when>
+          <test>
             <or>
               <equal>
                 <clip pos="1" side="sl" part="temps"/>
@@ -1263,10 +1322,6 @@
               <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/>
                 <lit v="mega"/>
-              </equal>
-              <equal caseless="yes">
-                <clip pos="1" side="sl" part="lem"/>
-                <lit v="geta"/>
               </equal>
               <equal caseless="yes">
                 <clip pos="1" side="sl" part="lem"/>
@@ -1425,6 +1480,43 @@
     <choose>
          <when>
            <test>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="case"/>
+                 <lit-tag v="gen"/>
+               </equal>
+               <or>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.org"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.top"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.ant"/>
+                 </equal>
+                 <equal>
+                   <clip pos="1" side="sl" part="a_nom"/>
+                   <lit-tag v="np.al"/>
+                 </equal>
+               </or>
+             </and>
+           </test>
+           <let>
+             <var n="genitiu"/>
+             <concat>
+                 <lit v="^"/>
+                 <lit v="of"/>
+                 <lit-tag v="pr"/>
+                 <lit v="$ "/>
+             </concat>
+           </let> 
+         </when>
+         <when>
+           <test>
              <equal>
                <clip pos="1" side="sl" part="case"/>
                <lit-tag v="gen"/>
@@ -1442,6 +1534,7 @@
              </concat>
            </let> 
          </when>
+
    </choose>
   </def-macro>
 
@@ -3520,6 +3613,9 @@
        <call-macro n="set_cur_adj_grau1">
          <with-param pos="2"/>
        </call-macro>
+       <call-macro n="set_curr_syntag">
+         <with-param pos="3"/>
+       </call-macro>
        <choose>
          <when>
            <test>
@@ -3532,6 +3628,7 @@
              <chunk name="det_num_adj_nom" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
+                 <tag><var n="cur_syn_tag"/></tag>
                  <tag><clip pos="3" side="tl" part="nbr"/></tag>
                </tags>
                <lu>
@@ -3539,7 +3636,7 @@
                    <lit v="the"/>
                  </get-case-from>
                  <lit-tag v="det.def"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
                </lu>
                <b/>
                <lu>
@@ -3560,7 +3657,7 @@
                <lu>
                  <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
                  <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -3590,7 +3687,7 @@
                <lu>
                  <clip pos="3" side="tl" part="lemh"/>
                  <clip pos="3" side="tl" part="a_nom"/>
-                 <clip pos="3" side="tl" part="nbr" link-to="2"/>
+                 <clip pos="3" side="tl" part="nbr" link-to="3"/>
                  <clip pos="3" side="tl" part="lemq"/>
                </lu>
              </chunk>

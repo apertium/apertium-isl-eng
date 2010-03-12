@@ -419,7 +419,9 @@ REMOVE (imp) (NOT -1 CLB);
 SELECT Inf IF (-1 ("að"ri)) (-2 ("við"ri));
 
 # Ég sé hesta
-REMOVE TempsIrreal + VerbAux IF (NOT -1* CS) (NOT -1 BOS);
+#Ennfremur sé málið mjög viðkvæmt í Hollandi.
+#Tjónið gæti verið meira en 15 milljörðum dollara eða um 1.950 milljörðum íslenskra króna.
+REMOVE TempsIrreal + VerbAux IF (NOT -1* CS) (NOT -1 BOS) (NOT -1 Adv LINK -1 BOS) (NOT 0 VerbAux);
 
 SELECT:r51 Inf IF (*-1 MODV BARRIER Verb);
 
