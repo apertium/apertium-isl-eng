@@ -36,6 +36,7 @@ dev/data/newResults.txt.interj.xml -text
 dev/data/newResults.txt.leftovers -text
 dev/data/newResults.txt.num.xml -text
 dev/data/newResults.txt.preps.xml -text
+dev/data/oblique.txt -text
 dev/data/results.txt.adj.xml -text
 dev/data/results.txt.leftovers -text
 dev/data/results.txt.nouns.xml -text

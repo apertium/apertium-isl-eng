@@ -1,0 +1,76 @@
+Verbs that demand dative subjects 
+----------------------------------
+auðnast	-> succeed		Mér auðnast að vonandi að lifa lengi
+áskotnast -> acquire		Mér áskotnast fé.
+batna -> recover		Mér batnar
+ber -> 				Mér ber að vinna
+berast ->			Mér berast fréttir
+bjóðast -> be offered		Mér býðst gott starf
+blæðir -> bleed			Mér blæðir út
+blöskra -> be appalled		Mér blöskrar þetta
+bregða ->			Mér bregður rosalega
+dáma -> be damned		Nú dámar mér.a
+duga -> suffice, be enough	Mér dugar ein flaska
+endast -> last, endure		Mér endist ekki ævin
+farnast -> 			Mér farnast vel
+fatast ->			Mér fatast flugið
+finnast -> 			Mér finnst þetta gott
+fjölga ->			Þeim fjölgar hratt
+fækka ->			Þeim fækkar hratt
+geðjast -> like			Mér geðjast ekki að honum
+hefnast -> will be punished	Þér hefnist
+heilsast ->			Mér heilsast vel 	
+hitna -> get warm		Þeim hitnar í sólinni
+hlotnast -> get			Mér hlotnast heiður
+hlýna -> get warmer		Mér hlýnar 
+hnignar ->	  		Fyrirtækjunum hnignar
+hrakar ->			Honum hrakar dag frá degi
+hugkvæmast -> cross one's mind  Mér hugkvæmdist þetta ekki
+hugnast -> like			Mér hugnast þetta ekki
+leiðast -> be bored		Mér leiðist þetta rugl
+leyfast -> be allowed		Honum leyfist þetta ekki
+létta -> be releved		Mér létti við þessa frétt
+líka -> like			Mér líkar ekki þessi réttur
+lynda -> get along		Honum lyndar ekki við neinn
+miða -> advance			Mér miðar ekkert áfram
+mislíka -> dislike		Henni mislíkar tónlistin.
+mistakast -> go wrong		Honum mistekst alltaf.
+nægja -> suffice		Honum nægir tvær töflur.
+ofbjóða -> 			Mér ofbýður dónaskapurinn
+óa ->				Mér óar við þessu
+sárna ->			Honum sárnar mistökin
+seinka -> be delayed		Honum seinkar um 10 mínútur
+skána -> improve		Mér skánar á morgun.
+skeika -> be mistaken		Mér skeikar ekki.
+skiljast -> understand		Mér skilst að þú sért ríkur
+skjátlast -> be wrong		Þér skjátlast ekki.
+svelgjast ->			Honum svelgdist á
+svíða ->			Mér svíður í sárinu 
+sýnast -> seem			Honum sýnist þetta vera í lagi 
+takast -> succeed		Mér tekst ekki að veiða fiskinn
+vegna ->  			Honum vegnar vel
+versna -> get worse		Mér versnar stöðugt
+yfirsjást -> overlook		Henni yfirsást þetta.
+þóknast -> please, satisfy	Mér þóknast þetta alls ekki
+þykja -> find			Mér þykir ís góður
+
+
+Verbs that demand accusative subjects 
+----------------------------------
+dreyma -> dream			Mig dreymir alltaf vel 
+fýsa -> wish, desire		Mig fýsir að vita þetta 
+gruna -> suspect		Mig grunaði þetta
+klæja -> itch			Mig klæjar
+langa -> want			Hana langar 
+lengja -> 			Mig lengir eftir henni
+lysta ->			Hana lystir
+minna -> remember		Mig minnir
+ráma -> remember vaguely	Mig rámar í það
+saka -> hurt			Mig sakar ekki
+skorta -> lack			Mig skortir fé 
+sundla -> be dizzy		Mig sundlar
+syfja -> get sleepy		Mig syfjar
+undra -> be surprised		Mig undrar
+vantar -> need			Mig vantar 
+verkja -> ache			Mig verkjar í magann
+þyrsta -> get thirsty		Mig þyrstir
