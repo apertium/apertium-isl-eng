@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf8"?>
+<!-- -*- nxml -*- -->
+<transfer>
+  <section-def-cats>
+    <def-cat n="sent">
+      <cat-item tags="sent"/>
+    </def-cat>
+    <def-cat n="nom">
+      <cat-item tags="n.*"/>
+    </def-cat>
+  </section-def-cats>
+  <section-def-attrs>
+    <def-attr n="defnes">
+      <attr-item tags="def"/>
+      <attr-item tags="ind"/>
+    </def-attr>
+  </section-def-attrs>
+  <section-def-vars>
+    <def-var n="definite"/>
+  </section-def-vars>
+  <section-def-lists>
+    <def-list n="ind_is_def_en">
+      <list-item v="heimur"/>
+      <list-item v="almenningur"/>
+    </def-list>
+  </section-def-lists>
+  <section-def-macros>
+    <def-macro n="f_is_definite_tl1" npar="1">
+      <choose>
+        <when>
+          <test>
+            <in caseless="yes">
+              <clip pos="1" side="sl" part="lem"/>
+              <list n="ind_is_def_en"/>
+            </in>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="defnes"/>
+            <lit-tag v="def"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+    <def-macro n="f_bcond" npar="2">
+      <!--Per mirar si el blanc conté o no format -->
+      <choose>
+        <when>
+          <test>
+            <not>
+              <equal>
+                <b pos="1"/>
+                <lit v=" "/>
+              </equal>
+            </not>
+          </test>
+          <out>
+            <b pos="1"/>
+          </out>
+        </when>
+      </choose>
+    </def-macro>
+    <def-macro n="resetvars" npar="1">
+      <let>
+        <var n="definite"/>
+        <lit v=""/>
+      </let>
+    </def-macro>
+  </section-def-macros>
+  <section-rules>
+    <rule comment="REGLA: NOM">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="f_is_definite_tl1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: SENT // . → .">
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+        <call-macro n="resetvars">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+  </section-rules>
+</transfer>

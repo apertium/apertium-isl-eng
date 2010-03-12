@@ -15,6 +15,10 @@
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-is-en.is-en.t0x"/>
+        <file name="is-en.t0x.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-is-en.is-en.t1x"/>
         <file name="is-en.t1x.bin"/>
@@ -56,6 +60,10 @@
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-is-en.is-en.t0x"/>
+        <file name="is-en.t0x.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-is-en.is-en.t1x"/>
         <file name="is-en.t1x.bin"/>
@@ -91,6 +99,10 @@
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-is-en.is-en.t0x"/>
+        <file name="is-en.t0x.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-is-en.is-en.t1x"/>
         <file name="is-en.t1x.bin"/>
@@ -122,6 +134,10 @@
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-is-en.is-en.t0x"/>
+        <file name="is-en.t0x.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-is-en.is-en.t1x"/>
         <file name="is-en.t1x.bin"/>
@@ -149,6 +165,10 @@
         <file name="is-en.lex.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer -n">
+        <file name="apertium-is-en.is-en.t0x"/>
+        <file name="is-en.t0x.bin"/>
+      </program>
       <program name="apertium-transfer">
         <file name="apertium-is-en.is-en.t1x"/>
         <file name="is-en.t1x.bin"/>
