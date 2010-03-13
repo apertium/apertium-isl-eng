@@ -28,7 +28,7 @@ cat $SRCLIST | sed 's/\.$//g' > $SRCLIST.n; mv $SRCLIST.n $SRCLIST;
 cat $TRGLIST | sed 's/\.$//g' > $TRGLIST.n; mv $TRGLIST.n $TRGLIST;
 cat $TSTLIST | sed 's/\.$//g' > $TSTLIST.n; mv $TSTLIST.n $TSTLIST;
 
-cat $SRCLIST | ./pipelineIce.sh > $TSTLIST;
+cat $SRCLIST | ./icenlpApertium.sh > $TSTLIST;
 
 TOTAL=0
 CORRECT=0

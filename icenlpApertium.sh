@@ -22,7 +22,9 @@ done
 shift $(($OPTIND - 1))
 
 # Set commands to be used below
-apertiumPipeline="cg-proc is-en.rlx.bin | cg-proc -n is-en.lex.bin | apertium-pretransfer | apertium-transfer apertium-is-en.is-en.t1x  is-en.t1x.bin  is-en.autobil.bin  | apertium-interchunk apertium-is-en.is-en.t2x  is-en.t2x.bin | apertium-postchunk apertium-is-en.is-en.t3x is-en.t3x.bin | lt-proc -g is-en.autogen.bin | lt-proc -p is-en.autopgen.bin"
+apertiumPipeline="cg-proc is-en.rlx.bin | cg-proc -n is-en.lex.bin | apertium-pretransfer | apertium-transfer -n apertium-is-en.is-en.t0x is-en.t0x.bin | apertium-transfer apertium-is-en.is-en.t1x  is-en.t1x.bin  is-en.autobil.bin  | apertium-interchunk apertium-is-en.is-en.t2x  is-en.t2x.bin | apertium-interchunk apertium-is-en.is-en.t3x is-en.t3x.bin | apertium-postchunk apertium-is-en.is-en.t4x is-en.t4x.bin | lt-proc -g is-en.autogen.bin | lt-proc -p is-en.autopgen.bin"
+
+# apertiumPipeline="cg-proc is-en.rlx.bin"
 
 standardIceNLP="java -Xmx768M -classpath $ICENLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -tm $ICENLP/dict/icetagger/otb.apertium.dict -sf $1 $2 $3 $4 $5"
 
