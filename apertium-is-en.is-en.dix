@@ -9043,7 +9043,7 @@
 <!--    <e><p><l>etja<s n="n"/><s n="f"/></l><r>egg<b/>on<s n="n"/></r></p></e>-->
     <e><p><l>evra<s n="n"/><s n="f"/></l><r>euro<s n="n"/></r></p></e> <!-- (currency unit of the European Monetary Union) -->
     <e><p><l>exem<s n="n"/><s n="nt"/></l><r>eczema<s n="n"/></r></p></e>
-    <e><p><l>ey<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
+    <e><p><l>eyja<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
     <!--<e><p><l>eyja<s n="n"/><s n="f"/></l><r>isle<s n="n"/></r></p></e>-->
     <e><p><l>eyja<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
     <!--<e><p><l>eyra<s n="n"/><s n="nt"/></l><r>handle<s n="n"/></r></p></e>-->
@@ -16976,8 +16976,6 @@
     <e><p><l>eskimói<s n="n"/><s n="m"/></l><r>Eskimo<s n="n"/></r></p></e>
     <e><p><l>espressó<s n="n"/><s n="nt"/></l><r>expresso<s n="n"/></r></p></e> <!-- (coffee) -->
     <e><p><l>essens<s n="n"/><s n="m"/></l><r>essence<s n="n"/></r></p></e>
-    <e><p><l>ey<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
-    <e><p><l>eyja<s n="n"/><s n="f"/></l><r>island<s n="n"/></r></p></e>
     <e><p><l>eyjarskeggi<s n="n"/><s n="m"/></l><r>islander<s n="n"/></r></p></e>
     <e><p><l>eymd<s n="n"/><s n="f"/></l><r>wretchedness<s n="n"/></r></p></e>
     <e><p><l>eyri<s n="n"/><s n="f"/></l><r>sandbank<s n="n"/></r></p></e>
@@ -26939,7 +26937,7 @@
     <e><p><l>finnsk-úrgískumælandi<s n="n"/><s n="m"/></l><r>Finno-Urgic<b/>speaker<s n="n"/></r></p></e>
     <e><p><l>þýskumælandi<s n="n"/><s n="m"/></l><r>German<b/>speaker<s n="n"/></r></p></e>
     <e><p><l>kommúnistaflokkur<s n="n"/><s n="m"/></l><r>Communist<b/>party<s n="n"/></r></p></e>
-    <e><p><l>eyðiey<s n="n"/><s n="f"/></l><r>desert<b/>island<s n="n"/></r></p></e>
+    <e><p><l>eyðieyja<s n="n"/><s n="f"/></l><r>desert<b/>island<s n="n"/></r></p></e>
 
 
     <e><p><l>Perú<s n="np"/><s n="top"/><s n="nt"/></l><r>Peru<s n="np"/><s n="top"/></r></p></e>

@@ -163,6 +163,7 @@
       </action>
     </rule>
 
+<!-- 
     <rule comment="REGLA: SN PREP SN">
       <pattern>
         <pattern-item n="SN"/>
@@ -187,7 +188,7 @@
         </out>
       </action>
     </rule>
-
+-->
 
     <rule comment="REGLA: SN_SUBJ_R REL SN_SUBJ_L FMAINV ADV → SN">
                       <!--@←SUBJ    REL @SUBJ→   @+FMAINV @←ADVL-->
