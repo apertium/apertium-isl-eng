@@ -1603,10 +1603,16 @@
          </when>
          <when>
            <test>
-             <equal caseless="yes">
-               <clip pos="1" side="sl" part="lem"/>
-               <lit v="hann"/>
-             </equal>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="nbr"/>
+                 <lit-tag v="sg"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="hann"/>
+               </equal>
+             </and>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
@@ -1615,10 +1621,16 @@
          </when>
          <when>
            <test>
-             <equal caseless="yes">
-               <clip pos="1" side="sl" part="lem"/>
-               <lit v="hún"/>
-             </equal>
+             <and>
+               <equal>
+                 <clip pos="1" side="sl" part="nbr"/>
+                 <lit-tag v="sg"/>
+               </equal>
+               <equal caseless="yes">
+                 <clip pos="1" side="sl" part="lem"/>
+                 <lit v="hún"/>
+               </equal>
+             </and>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
@@ -1682,10 +1694,20 @@
          <when>
            <test>
              <and>
-               <equal caseless="yes"> 
-                 <clip pos="1" side="sl" part="lem"/>
-                 <lit v="það"/>
-               </equal>
+               <or>
+                 <equal caseless="yes"> 
+                   <clip pos="1" side="sl" part="lem"/>
+                   <lit v="hún"/>
+                 </equal>
+                 <equal caseless="yes"> 
+                   <clip pos="1" side="sl" part="lem"/>
+                   <lit v="hann"/>
+                 </equal>
+                 <equal caseless="yes"> 
+                   <clip pos="1" side="sl" part="lem"/>
+                   <lit v="það"/>
+                 </equal>
+               </or>
                <equal>
                  <clip pos="1" side="sl" part="nbr"/>
                  <lit-tag v="pl"/>
