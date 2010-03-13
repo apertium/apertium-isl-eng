@@ -29,6 +29,9 @@
       <cat-item tags="SV.inf.*"/>
       <cat-item tags="SV.inf"/>
     </def-cat>
+    <def-cat n="SENT">
+      <cat-item tags="SENT"/>
+    </def-cat>
     <def-cat n="SV">
       <cat-item tags="SV"/>
       <cat-item tags="SV.*"/>
@@ -118,6 +121,7 @@
     <def-var n="nombre"/>
     <def-var n="genere"/>
     <def-var n="caseWord"/>
+    <def-var n="EOS" />
   </section-def-vars>
 
   <section-def-lists>
@@ -137,73 +141,183 @@
 
 
   <section-def-macros>
-    <def-macro n="concord_subj_verb2" npar="2">
+  <def-macro n="reset_variables1" npar="1">
+    <let><var n="nombre"/>             <lit v=""/></let>
+    <let><var n="genere"/>             <lit v=""/></let>
+    <let><var n="caseWord"/>            <lit v=""/></let>
+    <let><var n="modal"/>            <lit v=""/></let>
+    <let><var n="chunk_do"/>            <lit v=""/></let>
+    <let><var n="EOS"/>                <lit v="true"/></let>
+  </def-macro>
+
+
+    <def-macro n="concord_subj_verb1" npar="1">  
+      <!-- This macro is a last ditch in case we have PD/ND and no subject -->
       <choose>
         <when>
           <test>
             <equal>
-              <clip pos="2" part="pers"/>
+              <clip pos="1" part="pers"/>
               <lit-tag v="PD"/>
             </equal>
           </test>
-          <choose>
-            <when>
-              <test> 
-                <equal>
-                  <clip pos="1" part="pers"/>
-                  <lit-tag v="p3"/>
-                </equal>
-              </test>
               <let>
-                <clip pos="2" part="pers"/>
                 <clip pos="1" part="pers"/>
+                <lit-tag v="p3"/>
               </let>
-            </when>
-            <otherwise>
-              <let>
-                <clip pos="2" part="pers"/>
-                <lit v=""/>
-              </let>
-            </otherwise>
-          </choose>
         </when>
       </choose>
       <choose>
         <when>
           <test>
             <equal>
-              <clip pos="2" part="nbr"/>
+              <clip pos="1" part="nbr"/>
               <lit-tag v="ND"/>
             </equal>
           </test>
+              <let>
+                <clip pos="1" part="nbr"/>
+                <lit-tag v="sg"/>
+              </let>
+        </when>
+      </choose>
+    </def-macro>
+
+
+    <def-macro n="concord_subj_verb2" npar="2">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="2" part="pers"/>
+                <lit-tag v="PD"/>
+              </equal>
+              <equal>
+                <clip pos="2" part="nbr"/>
+                <lit-tag v="ND"/>
+              </equal>
+              <or>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# adrift"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# shocked"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# bleeding to death"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# stuck"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# called"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# consistent"/></equal>
+              </or>
+            </and>
+          </test>
           <choose>
             <when>
-              <test> 
+              <test>
                 <and>
                   <equal>
                     <clip pos="1" part="nbr"/>
-                    <lit-tag v="sg"/>
+                    <lit-tag v="pl"/> 
                   </equal>
-                  <equal>
-                    <clip pos="1" part="pers"/>
-                    <lit-tag v="p3"/>
-                  </equal>
+                  <or>
+                    <equal>
+                      <clip pos="1" part="pers"/>
+                      <lit-tag v="p1"/> 
+                    </equal>
+                    <equal>
+                      <clip pos="1" part="pers"/>
+                      <lit-tag v="p3"/> 
+                    </equal>
+                  </or>
                 </and>
               </test>
               <let>
                 <clip pos="2" part="nbr"/>
-                <clip pos="1" part="nbr"/>
+                <lit v=""/>
+              </let>
+              <let>
+                <clip pos="2" part="pers"/>
+                <lit v=""/>
               </let>
             </when>
             <otherwise>
               <let>
                 <clip pos="2" part="nbr"/>
-                <lit v=""/>
+                <clip pos="1" part="nbr"/>
+              </let>
+              <let>
+                <clip pos="2" part="pers"/>
+                <clip pos="1" part="pers"/>
               </let>
             </otherwise>
           </choose>
         </when>
-
+        <otherwise>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="2" part="pers"/>
+                  <lit-tag v="PD"/>
+                </equal>
+              </test>
+              <choose>
+                <when>
+                  <test> 
+                    <equal>
+                      <clip pos="1" part="pers"/>
+                      <lit-tag v="p3"/>
+                    </equal>
+                  </test>
+                  <let>
+                    <clip pos="2" part="pers"/>
+                    <clip pos="1" part="pers"/>
+                  </let>
+                </when>
+                <otherwise>
+                  <let>
+                    <clip pos="2" part="pers"/>
+                    <lit v=""/>
+                  </let>
+                </otherwise>
+              </choose>
+            </when>
+          </choose>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="2" part="nbr"/>
+                  <lit-tag v="ND"/>
+                </equal>
+              </test>
+              <choose>
+                <when>
+                  <test> 
+                    <and>
+                      <equal>
+                        <clip pos="1" part="nbr"/>
+                        <lit-tag v="sg"/>
+                      </equal>
+                      <equal>
+                        <clip pos="1" part="pers"/>
+                        <lit-tag v="p3"/>
+                      </equal>
+                    </and>
+                  </test>
+                  <let>
+                    <clip pos="2" part="nbr"/>
+                    <clip pos="1" part="nbr"/>
+                  </let>
+                </when>
+                <otherwise>
+                  <let>
+                    <clip pos="2" part="nbr"/>
+                    <lit v=""/>
+                  </let>
+                </otherwise>
+              </choose>
+            </when>
+    
+          </choose>
+        </otherwise>
       </choose>
     </def-macro>
 
@@ -449,6 +563,24 @@
 
   <section-rules>
 
+    <rule comment="REGLA: SENT">
+      <pattern>
+        <pattern-item n="SENT"/>
+      </pattern>
+      <action>
+        <call-macro n="reset_variables1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: SN">
       <pattern>
         <pattern-item n="SN"/>
@@ -488,6 +620,25 @@
             <clip pos="3" part="lem"/>
             <clip pos="3" part="tags"/>
             <clip pos="3" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: FMAINV → FMAINV">
+      <pattern>
+        <pattern-item n="FMAINV"/>
+      </pattern>
+      <action> 
+        <call-macro n="concord_subj_verb1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
           </chunk>
         </out>
       </action>

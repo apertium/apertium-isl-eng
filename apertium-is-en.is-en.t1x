@@ -480,6 +480,9 @@
     <def-list n="impersonalverbs">
       <list-item v="gruna"/>
       <list-item v="vanta"/>
+      <list-item v="blöskra"/>
+      <list-item v="batna:1"/>
+      <list-item v="blæða# út:1"/>
     </def-list> 
 
     <def-list n="opinionverb">
@@ -902,9 +905,32 @@
           <test>
             <in caseless="yes">
               <clip pos="1" side="sl" part="lem"/>
+              <list n="reportingverb"/>
+            </in>
+          </test>
+          <let>
+            <var n="cur_verb_chunk_type"/>
+            <lit-tag v="SVrep"/>
+          </let>
+        </when>
+      </choose>
+
+      <choose> <!-- Impersonal verbs need their gender and number setting
+                    as to be determined -->
+        <when>
+          <test>
+            <in caseless="yes">
+              <clip pos="1" side="sl" part="lem"/>
               <list n="impersonalverbs"/>
             </in>
           </test>
+
+<!--
+          <let>
+            <var n="cur_verb_chunk_type"/>
+            <lit-tag v="SVimpers"/>
+          </let>
+-->
           <let>
             <clip pos="1" side="tl" part="nbr"/>
             <lit-tag v="ND"/>
@@ -915,20 +941,8 @@
           </let>
         </when>
       </choose>
-      <choose>
-        <when>
-          <test>
-            <in caseless="yes">
-              <clip pos="1" side="sl" part="lem"/>
-              <list n="reportingverb"/>
-            </in>
-          </test>
-          <let>
-            <var n="cur_verb_chunk_type"/>
-            <lit-tag v="SVrep"/>
-          </let>
-        </when>
-      </choose>
+
+
       <!-- Next we remove voice tags, English verbs are not 
            marked for voice -->
       <choose>

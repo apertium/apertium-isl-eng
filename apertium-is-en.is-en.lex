@@ -104,6 +104,9 @@ SUBSTITUTE ("leggja") ("leggja:1") ("leggja") + Verb (1C Dat);
 # "batna" : {0:"improve", 1:"get# better"};
 SUBSTITUTE ("batna") ("batna:1") ("batna") + Verb ((-1C* @SUBJ→ + Dat BARRIER CLB) OR (1C* @←SUBJ + Dat BARRIER CLB));
 
+# "blæða# út" : {0:"bleed# to death", 1:"be# bleeding to death"};
+SUBSTITUTE ("blæða# út") ("blæða# út:1") ("blæða# út") + Verb ((-1C* @SUBJ→ + Dat BARRIER CLB) OR (1C* @←SUBJ + Dat BARRIER CLB));
+
 # "halda" : {0:"hold", 1:"think"};
 SUBSTITUTE ("halda") ("halda:1") ("halda") + Verb (1 ("að"));
 

@@ -1100,6 +1100,18 @@
       <e>      <p>        <l>ling</l>        <r>l<s n="vblex"/><s n="subs"/></r></p></e>
     </pardef>
 
+    <pardef n="ble/ed__vblex">
+      <e>      <p>        <l>ed</l>        <r>ed<s n="vblex"/><s n="inf"/></r></p></e>
+      <e>      <p>        <l>ed</l>        <r>ed<s n="vblex"/><s n="pres"/></r></p></e>
+      <e>      <p>        <l>eds</l>        <r>ed<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l>d</l>        <r>ed<s n="vblex"/><s n="past"/></r></p></e>
+      <e>      <p>        <l>d</l>        <r>ed<s n="vblex"/><s n="pp"/></r></p></e>
+      <e>      <p>        <l>eding</l>        <r>ed<s n="vblex"/><s n="ger"/></r></p></e>
+      <e>      <p>        <l>eding</l>        <r>ed<s n="vblex"/><s n="pprs"/></r></p></e>
+      <e>      <p>        <l>eding</l>        <r>ed<s n="vblex"/><s n="subs"/></r></p></e>
+    </pardef>
+
+
     <pardef n="accept__vblex">
       <e>      <p>        <l></l>        <r><s n="vblex"/><s n="inf"/></r></p></e>
       <e>      <p>        <l></l>        <r><s n="vblex"/><s n="pres"/></r></p></e>
@@ -13491,6 +13503,7 @@
     <e lm="irruption"><i>irruption</i><par n="house__n"/></e>
     <e lm="island"><i>island</i><par n="house__n"/></e>
     <e lm="home island"><i>home<b/>island</i><par n="house__n"/></e>
+    <e lm="desert island"><i>desert<b/>island</i><par n="house__n"/></e>
     <e lm="isotope"><i>isotope</i><par n="house__n"/></e>
     <e lm="issue"><i>issue</i><par n="house__n"/></e>
     <e lm="main issue"><i>main<b/>issue</i><par n="house__n"/></e>
@@ -33020,9 +33033,11 @@
     <e lm="go berserk"><i></i><par n="/go__vblex"/><p><l><b/>berserk</l><r><g><b/>berserk</g></r></p></e>
     <e lm="go on strike"><i></i><par n="/go__vblex"/><p><l><b/>on<b/>strike</l><r><g><b/>on<b/>strike</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
+    <e lm="be shocked"><i></i><par n="/be__vblex"/><p><l><b/>shocked</l><r><g><b/>shocked</g></r></p></e>
     <e lm="be stuck"><i></i><par n="/be__vblex"/><p><l><b/>stuck</l><r><g><b/>stuck</g></r></p></e>
     <e lm="be able to"><i></i><par n="/be__vblex"/><p><l><b/>able<b/>to</l><r><g><b/>able<b/>to</g></r></p></e>
     <e lm="be allowed to"><i></i><par n="/be__vblex"/><p><l><b/>allowed<b/>to</l><r><g><b/>allowed<b/>to</g></r></p></e>
+    <e lm="be bleeding to death"><i></i><par n="/be__vblex"/><p><l><b/>bleeding<b/>to<b/>death</l><r><g><b/>bleeding<b/>to<b/>death</g></r></p></e>
     <e lm="be called"><i></i><par n="/be__vblex"/><p><l><b/>called</l><r><g><b/>called</g></r></p></e>
     <e lm="be hungry"><par n="/be__vblex"/><p><l><b/>hungry</l><r><g><b/>hungry</g></r></p></e>
     <e lm="be consistent"><i></i><par n="/be__vblex"/><p><l><b/>consistent</l><r><g><b/>consistent</g></r></p></e>
@@ -33075,7 +33090,6 @@
     <e lm="cough"><i>cough</i><par n="accept__vblex"/></e>
     <e lm="peek"><i>peek</i><par n="accept__vblex"/></e>
     <e lm="blink"><i>blink</i><par n="accept__vblex"/></e>
-    <e lm="sink"><i>sink</i><par n="accept__vblex"/></e>
     <e lm="kneel"><i>kneel</i><par n="accept__vblex"/></e>
     <e lm="shovel"><i>shovel</i><par n="control__vblex"/></e>
     <e lm="recoil"><i>recoil</i><par n="accept__vblex"/></e>
@@ -33637,6 +33651,7 @@
     <e lm="doubt"><i>doubt</i><par n="accept__vblex"/></e>
     <e lm="download"><i>download</i><par n="accept__vblex"/></e>
     <e lm="drink"><i>dr</i><par n="dr/ink__vblex"/></e>
+    <e lm="sink"><i>s</i><par n="dr/ink__vblex"/></e>
     <e lm="draw"><i>dr</i><par n="dr/aw__vblex"/></e>
     <e lm="drive"><i>dr</i><par n="dr/ive__vblex"/></e>
     <e lm="dry"><i>dr</i><par n="appl/y__vblex"/></e>
@@ -34472,6 +34487,8 @@
     <e lm="specify"><i>specif</i><par n="appl/y__vblex"/></e>
     <e lm="speed"><i>speed</i><par n="accept__vblex"/></e>
     <e lm="spell"><i>spel</i><par n="spel/l__vblex"/></e>
+    <e lm="bleed"><i>bleed</i><par n="ble/ed__vblex"/></e>
+    <e lm="bleed to death"><i>ble</i><par n="ble/ed__vblex"/><p><l><b/>to<b/>death</l><r><g><b/>to<b/>death</g></r></p></e>
     <e lm="spend"><i>spen</i><par n="ben/d__vblex"/></e>
     <e lm="spill"><i>spil</i><par n="spel/l__vblex"/></e>
     <e lm="split"><i>split</i><par n="cut__vblex"/></e>
@@ -34695,7 +34712,6 @@
     <e lm="zone"><i>zon</i><par n="liv/e__vblex"/></e>
 
     <e lm="grab"><i>grab</i><par n="dub__vblex"/></e>
-    <e lm="bleed"><i>bleed</i><par n="accept__vblex"/></e>
     <e lm="braid"><i>braid</i><par n="accept__vblex"/></e>
     <e lm="nod"><i>nod</i><par n="outbid__vblex"/></e>
     <e lm="coerce"><i>coerc</i><par n="liv/e__vblex"/></e>

@@ -6645,7 +6645,7 @@
 <e slr="1"><p><l>blóta<s n="vblex"/></l><r>worship<b/>pagan<b/>gods<s n="vblex"/></r></p></e>
 <e c="0"><p><l>blóta<s n="vblex"/></l><r>curse<s n="vblex"/></r></p></e>
 <e slr="2"><p><l>blóta<s n="vblex"/></l><r>sacrifice<s n="vblex"/></r></p></e>
-<e c="0"><p><l>blöskra<s n="vblex"/></l><r>be<b/>shocked<s n="vblex"/></r></p></e>
+<e c="0"><p><l>blöskra<s n="vblex"/></l><r>be<g><b/>shocked</g><s n="vblex"/></r></p></e>
 <e slr="1"><p><l>blöskra<s n="vblex"/></l><r>be<b/>horrified<s n="vblex"/></r></p></e>
 <e><p><l>boxa<s n="vblex"/></l><r>box<s n="vblex"/></r></p></e>
 <e><p><l>braggast<s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>
@@ -7321,7 +7321,6 @@
 <e><p><l>misbjóða<s n="vblex"/></l><r>offend<s n="vblex"/></r></p></e>
 <e><p><l>misheppnast<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
 <e><p><l>mislukkast<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
-<e><p><l>mislíka<s n="vblex"/></l><r>be<b/>displeased<s n="vblex"/></r></p></e>
 <e><p><l>mismuna<s n="vblex"/></l><r>discriminate<s n="vblex"/></r></p></e>
 <e><p><l>misnota<s n="vblex"/></l><r>misuse<s n="vblex"/></r></p></e>
 <e><p><l>misskilja<s n="vblex"/></l><r>misunderstand<s n="vblex"/></r></p></e>
@@ -14060,7 +14059,7 @@
     <e><p><l>Húsavík<s n="np"/><s n="top"/><s n="f"/></l><r>Húsavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Keflavík<s n="np"/><s n="top"/><s n="f"/></l><r>Keflavík<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Breiðdalsvík<s n="np"/><s n="top"/><s n="f"/></l><r>Breiðdalsvík<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="nt"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Akranesi<s n="np"/><s n="top"/><s n="f"/></l><r>Akranesi<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kanaríeyjar<s n="np"/><s n="top"/><s n="f"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Makedónía<s n="np"/><s n="top"/><s n="nt"/></l><r>Macedonia<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Kanarí<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/></l><r>Canary<b/>Islands<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
@@ -14199,8 +14198,6 @@
     <e slr="1"><p><l>blóta<s n="vblex"/></l><r>worship<b/>pagan<b/>gods<s n="vblex"/></r></p></e>
     <e c="0"><p><l>blóta<s n="vblex"/></l><r>curse<s n="vblex"/></r></p></e>
     <e slr="2"><p><l>blóta<s n="vblex"/></l><r>sacrifice<s n="vblex"/></r></p></e>
-    <e c="0"><p><l>blöskra<s n="vblex"/></l><r>be<b/>shocked<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>blöskra<s n="vblex"/></l><r>be<b/>horrified<s n="vblex"/></r></p></e>
     <e><p><l>boxa<s n="vblex"/></l><r>box<s n="vblex"/></r></p></e>
     <e><p><l>braggast<s n="vblex"/></l><r>recover<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>bralla<s n="vblex"/></l><r>play<b/>tricks<s n="vblex"/></r></p></e>
@@ -14872,7 +14869,6 @@
     <e><p><l>misbjóða<s n="vblex"/></l><r>offend<s n="vblex"/></r></p></e>
     <e><p><l>misheppnast<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
     <e><p><l>mislukkast<s n="vblex"/></l><r>fail<s n="vblex"/></r></p></e>
-    <e><p><l>mislíka<s n="vblex"/></l><r>be<b/>displeased<s n="vblex"/></r></p></e>
     <e><p><l>mismuna<s n="vblex"/></l><r>discriminate<s n="vblex"/></r></p></e>
     <e><p><l>misnota<s n="vblex"/></l><r>misuse<s n="vblex"/></r></p></e>
     <e><p><l>misskilja<s n="vblex"/></l><r>misunderstand<s n="vblex"/></r></p></e>
@@ -26361,6 +26357,7 @@
     <e><p><l>hrúga<g><b/>upp</g><s n="vblex"/></l><r>pile<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>iðja<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
     <e><p><l>skyggja<s n="vblex"/></l><r>overshadow<s n="vblex"/></r></p></e>
+    <e><p><l>líka<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
     <e><p><l>leggja<g><b/>fyrir</g><s n="vblex"/></l><r>save<g><b/>up</g><s n="vblex"/></r></p></e>
     <e><p><l>liggja<g><b/>fyrir</g><s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
     <e><p><l>vinna<g><b/>á<b/>vöktum</g><s n="vblex"/></l><r>monitor<s n="vblex"/></r></p></e>
@@ -26369,10 +26366,13 @@
     <e><p><l>stuðla<g><b/>að</g><s n="vblex"/></l><r>work<g><b/>for</g><s n="vblex"/></r></p></e>
     <e><p><l>halda<g><b/>uppi</g><s n="vblex"/></l><r>uphold<s n="vblex"/></r></p></e>
     <e><p><l>bera<g><b/>kennsl<b/>á</g><s n="vblex"/></l><r>recognise<s n="vblex"/></r></p></e>
+    <e><p><l>blæða<g><b/>út</g><s n="vblex"/></l><r>bleed<g><b/>to<b/>death</g><s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>blæða<g><b/>út</g><s n="vblex"/></l><r>be<g><b/>bleeding<b/>to<b/>death</g><s n="vblex"/></r></p></e>
     <e><p><l>fá<g><b/>inngöngu<b/>í</g><s n="vblex"/></l><r>get<g><b/>into</g><s n="vblex"/></r></p></e>
     <e><p><l>detta<g><b/>í<b/>það</g><s n="vblex"/></l><r>go<g><b/>and<b/>get<b/>drunk</g><s n="vblex"/></r></p></e>
     <e r="LR"><p><l>hrynja<g><b/>í<b/>það</g><s n="vblex"/></l><r>go<g><b/>and<b/>get<b/>drunk</g><s n="vblex"/></r></p></e>
     <e><p><l>koma<g><b/>á<b/>legg</g><s n="vblex"/></l><r>survive<g><b/>childhood</g><s n="vblex"/></r></p></e>
+    <e><p><l>mislíka<s n="vblex"/></l><r>dislike<s n="vblex"/></r></p></e>
 
 
     <e><p><l>aðgreinir<s n="n"/><s n="m"/></l><r>identifier<s n="n"/></r></p></e>
@@ -26936,6 +26936,7 @@
     <e><p><l>finnsk-úrgískumælandi<s n="n"/><s n="m"/></l><r>Finno-Urgic<b/>speaker<s n="n"/></r></p></e>
     <e><p><l>þýskumælandi<s n="n"/><s n="m"/></l><r>German<b/>speaker<s n="n"/></r></p></e>
     <e><p><l>kommúnistaflokkur<s n="n"/><s n="m"/></l><r>Communist<b/>party<s n="n"/></r></p></e>
+    <e><p><l>eyðiey<s n="n"/><s n="f"/></l><r>desert<b/>island<s n="n"/></r></p></e>
 
 
     <e><p><l>Perú<s n="np"/><s n="top"/><s n="nt"/></l><r>Peru<s n="np"/><s n="top"/></r></p></e>
