@@ -5394,7 +5394,6 @@
     <e><p><l>lemja<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
 <!--<p><l>lemja<s n="vblex"/></l><r>strike<s n="vblex"/></r></p></e>-->
 <!--<p><l>lengja<s n="vblex"/></l><r>extend<s n="vblex"/></r></p></e>-->
-    <e><p><l>lengja<s n="vblex"/></l><r>lengthen<s n="vblex"/></r></p></e>
 <!--<p><l>lengja<s n="vblex"/></l><r>prolong<s n="vblex"/></r></p></e>-->
     <e><p><l>lesa<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
     <e><p><l>leyfa<s n="vblex"/></l><r>allow<s n="vblex"/></r></p></e>
@@ -26373,6 +26372,10 @@
     <e r="LR"><p><l>hrynja<g><b/>í<b/>það</g><s n="vblex"/></l><r>go<g><b/>and<b/>get<b/>drunk</g><s n="vblex"/></r></p></e>
     <e><p><l>koma<g><b/>á<b/>legg</g><s n="vblex"/></l><r>survive<g><b/>childhood</g><s n="vblex"/></r></p></e>
     <e><p><l>mislíka<s n="vblex"/></l><r>dislike<s n="vblex"/></r></p></e>
+    <e><p><l>dáma<s n="vblex"/></l><r>be<g><b/>damned</g><s n="vblex"/></r></p></e>
+    <!--<e><p><l>lengja<s n="vblex"/></l><r>lengthen<s n="vblex"/></r></p></e>-->
+    <e><p><l>lengja<s n="vblex"/></l><r>get<g><b/>longer</g><s n="vblex"/></r></p></e>
+    <e><p><l>lengja<g><b/>eftir</g><s n="vblex"/></l><r>long<g><b/>for</g><s n="vblex"/></r></p></e>
 
 
     <e><p><l>aðgreinir<s n="n"/><s n="m"/></l><r>identifier<s n="n"/></r></p></e>

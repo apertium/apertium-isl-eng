@@ -142,12 +142,12 @@
 
   <section-def-macros>
   <def-macro n="reset_variables1" npar="1">
-    <let><var n="nombre"/>             <lit v=""/></let>
-    <let><var n="genere"/>             <lit v=""/></let>
-    <let><var n="caseWord"/>            <lit v=""/></let>
+    <let><var n="nombre"/>           <lit v=""/></let>
+    <let><var n="genere"/>           <lit v=""/></let>
+    <let><var n="caseWord"/>         <lit v=""/></let>
     <let><var n="modal"/>            <lit v=""/></let>
-    <let><var n="chunk_do"/>            <lit v=""/></let>
-    <let><var n="EOS"/>                <lit v="true"/></let>
+    <let><var n="chunk_do"/>         <lit v=""/></let>
+    <let><var n="EOS"/>              <lit v="true"/></let>
   </def-macro>
 
 
@@ -156,30 +156,66 @@
       <choose>
         <when>
           <test>
-            <equal>
-              <clip pos="1" part="pers"/>
-              <lit-tag v="PD"/>
-            </equal>
-          </test>
-              <let>
+            <and>
+              <equal>
                 <clip pos="1" part="pers"/>
-                <lit-tag v="p3"/>
-              </let>
-        </when>
-      </choose>
-      <choose>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" part="nbr"/>
-              <lit-tag v="ND"/>
-            </equal>
-          </test>
-              <let>
+                <lit-tag v="PD"/>
+              </equal>
+              <equal>
                 <clip pos="1" part="nbr"/>
-                <lit-tag v="sg"/>
-              </let>
+                <lit-tag v="ND"/>
+              </equal>
+              <or>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# adrift"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# damned"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# shocked"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# bleeding to death"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# stuck"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# called"/></equal>
+                <equal caseless="yes"><clip pos="1" part="lem"/><lit v="be# consistent"/></equal>
+              </or>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" part="nbr"/>
+            <lit-tag v="sg"/>
+          </let>
+          <let>
+            <clip pos="1" part="pers"/>
+            <lit-tag v="p3"/>
+          </let>
         </when>
+        <otherwise>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="1" part="pers"/>
+                  <lit-tag v="PD"/>
+                </equal>
+              </test>
+                  <let>
+                    <clip pos="1" part="pers"/>
+                    <lit-tag v="p3"/>
+                  </let>
+            </when>
+          </choose>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <clip pos="1" part="nbr"/>
+                  <lit-tag v="ND"/>
+                </equal>
+              </test>
+                  <let>
+                    <clip pos="1" part="nbr"/>
+                    <lit-tag v="sg"/>
+                  </let>
+            </when>
+          </choose>
+        </otherwise>
       </choose>
     </def-macro>
 
@@ -200,6 +236,7 @@
               <or>
                 <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be"/></equal>
                 <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# adrift"/></equal>
+                <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# damned"/></equal>
                 <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# shocked"/></equal>
                 <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# bleeding to death"/></equal>
                 <equal caseless="yes"><clip pos="2" part="lem"/><lit v="be# stuck"/></equal>
@@ -626,9 +663,9 @@
     </rule>
 
 
-    <rule comment="REGLA: FMAINV → FMAINV">
+    <rule comment="REGLA: SV → SV">
       <pattern>
-        <pattern-item n="FMAINV"/>
+        <pattern-item n="SV"/>
       </pattern>
       <action> 
         <call-macro n="concord_subj_verb1">

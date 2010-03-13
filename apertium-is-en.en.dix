@@ -33033,6 +33033,7 @@
     <e lm="go berserk"><i></i><par n="/go__vblex"/><p><l><b/>berserk</l><r><g><b/>berserk</g></r></p></e>
     <e lm="go on strike"><i></i><par n="/go__vblex"/><p><l><b/>on<b/>strike</l><r><g><b/>on<b/>strike</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
+    <e lm="be damned"><i></i><par n="/be__vblex"/><p><l><b/>damned</l><r><g><b/>damned</g></r></p></e>
     <e lm="be shocked"><i></i><par n="/be__vblex"/><p><l><b/>shocked</l><r><g><b/>shocked</g></r></p></e>
     <e lm="be stuck"><i></i><par n="/be__vblex"/><p><l><b/>stuck</l><r><g><b/>stuck</g></r></p></e>
     <e lm="be able to"><i></i><par n="/be__vblex"/><p><l><b/>able<b/>to</l><r><g><b/>able<b/>to</g></r></p></e>
@@ -33063,6 +33064,8 @@
     <e lm="hurt"><i>hurt</i><par n="cost__vblex"/></e>
 
     <e lm="guard"><i>guard</i><par n="accept__vblex"/></e>
+    <e lm="long"><i>long</i><par n="accept__vblex"/></e>
+    <e lm="long for"><i>long</i><par n="accept__vblex"/><p><l><b/>for</l><r><g><b/>for</g></r></p></e>
     <e lm="grimace"><i>grimac</i><par n="liv/e__vblex"/></e>
     <e lm="fade"><i>fad</i><par n="liv/e__vblex"/></e>
     <e lm="rage"><i>rag</i><par n="liv/e__vblex"/></e>
@@ -33856,6 +33859,7 @@
     <e lm="get"><i>g</i><par n="g/et__vblex"/></e>
     <e lm="get hold of"><i>g</i><par n="g/et__vblex"/><p><l><b/>hold<b/>of</l><r><g><b/>hold<b/>of</g></r></p></e>
     <e lm="get dark"><i>g</i><par n="g/et__vblex"/><p><l><b/>dark</l><r><g><b/>dark</g></r></p></e>
+    <e lm="get longer"><i>g</i><par n="g/et__vblex"/><p><l><b/>longer</l><r><g><b/>longer</g></r></p></e>
     <e lm="get into"><i>g</i><par n="g/et__vblex"/><p><l><b/>into</l><r><g><b/>into</g></r></p></e>
     <e lm="get windy"><i>g</i><par n="g/et__vblex"/><p><l><b/>windy</l><r><g><b/>windy</g></r></p></e>
     <e lm="get there"><i>g</i><par n="g/et__vblex"/><p><l><b/>there</l><r><g><b/>there</g></r></p></e>
@@ -34487,7 +34491,7 @@
     <e lm="specify"><i>specif</i><par n="appl/y__vblex"/></e>
     <e lm="speed"><i>speed</i><par n="accept__vblex"/></e>
     <e lm="spell"><i>spel</i><par n="spel/l__vblex"/></e>
-    <e lm="bleed"><i>bleed</i><par n="ble/ed__vblex"/></e>
+    <e lm="bleed"><i>ble</i><par n="ble/ed__vblex"/></e>
     <e lm="bleed to death"><i>ble</i><par n="ble/ed__vblex"/><p><l><b/>to<b/>death</l><r><g><b/>to<b/>death</g></r></p></e>
     <e lm="spend"><i>spen</i><par n="ben/d__vblex"/></e>
     <e lm="spill"><i>spil</i><par n="spel/l__vblex"/></e>
