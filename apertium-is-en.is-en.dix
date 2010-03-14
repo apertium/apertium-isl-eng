@@ -17647,7 +17647,6 @@
     <e slr="1"><p><l>gin<s n="n"/><s n="nt"/></l><r>gin<s n="n"/></r></p></e>
     <e c="0"><p><l>girðing<s n="n"/><s n="f"/></l><r>fence<s n="n"/></r></p></e>
     <e slr="1"><p><l>girðing<s n="n"/><s n="f"/></l><r>enclosure<s n="n"/></r></p></e> <!-- (field, meadow, etc) -->
-    <e><p><l>gisting<s n="n"/><s n="f"/></l><r>night's<b/>lodging<s n="n"/></r></p></e>
     <e><p><l>gjafabréf<s n="n"/><s n="nt"/></l><r>gift<b/>certificate<s n="n"/></r></p></e>
     <e><p><l>gjalddagi<s n="n"/><s n="m"/></l><r>date<b/>due<s n="n"/></r></p></e>
     <e><p><l>gjaldfrestur<s n="n"/><s n="m"/></l><r>term<b/>of<b/>payment<s n="n"/></r></p></e>
@@ -26375,6 +26374,7 @@
     <!--<e><p><l>lengja<s n="vblex"/></l><r>lengthen<s n="vblex"/></r></p></e>-->
     <e><p><l>lengja<s n="vblex"/></l><r>get<g><b/>longer</g><s n="vblex"/></r></p></e>
     <e><p><l>lengja<g><b/>eftir</g><s n="vblex"/></l><r>long<g><b/>for</g><s n="vblex"/></r></p></e>
+    <e><p><l>snúa<g><b/>aftur</g><s n="vblex"/></l><r>return<s n="vblex"/></r></p></e>
 
 
     <e><p><l>aðgreinir<s n="n"/><s n="m"/></l><r>identifier<s n="n"/></r></p></e>
@@ -26940,6 +26940,8 @@
     <e><p><l>þýskumælandi<s n="n"/><s n="m"/></l><r>German<b/>speaker<s n="n"/></r></p></e>
     <e><p><l>kommúnistaflokkur<s n="n"/><s n="m"/></l><r>Communist<b/>party<s n="n"/></r></p></e>
     <e><p><l>eyðieyja<s n="n"/><s n="f"/></l><r>desert<b/>island<s n="n"/></r></p></e>
+    <!--<e><p><l>gisting<s n="n"/><s n="f"/></l><r>night's<b/>lodging<s n="n"/></r></p></e>-->
+    <e><p><l>gisting<s n="n"/><s n="f"/></l><r>accommodation<s n="n"/></r></p></e>
 
 
     <e><p><l>Perú<s n="np"/><s n="top"/><s n="nt"/></l><r>Peru<s n="np"/><s n="top"/></r></p></e>
