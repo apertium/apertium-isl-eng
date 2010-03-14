@@ -31360,6 +31360,7 @@
     <e lm="disabled"><i>disabled</i><par n="expensive__adj"/></e>
     <e lm="disappointing"><i>disappointing</i><par n="expensive__adj"/></e>
     <e lm="disastrous"><i>disastrous</i><par n="expensive__adj"/></e>
+    <e lm="discharged"><i>discharged</i><par n="expensive__adj"/></e>
     <e lm="disciplinary"><i>disciplinary</i><par n="expensive__adj"/></e>
     <e lm="discontinuous"><i>discontinuous</i><par n="expensive__adj"/></e>
     <e lm="discreet"><i>discreet</i><par n="common/__adj"/></e>
@@ -31502,7 +31503,6 @@
     <e lm="just"><i>just</i><par n="long/__adj"/></e>
     <e lm="fat"><i>fat</i><par n="hot/__adj"/></e>
     <e lm="fatal"><i>fatal</i><par n="expensive__adj"/></e>
-    <e lm="organisational"><i>organisational</i><par n="expensive__adj"/></e>
     <e lm="fateful"><i>fateful</i><par n="expensive__adj"/></e>
     <e lm="favorable"><i>favorable</i><par n="expensive__adj"/></e>
     <e lm="favourable"><i>favourable</i><par n="expensive__adj"/></e>
@@ -32030,6 +32030,8 @@
     <e lm="orange"><i>orange</i><par n="expensive__adj"/></e>
     <e lm="ordinary"><i>ordinary</i><par n="expensive__adj"/></e>
     <e lm="organic"><i>organic</i><par n="expensive__adj"/></e>
+    <e lm="organisational"><i>organisational</i><par n="expensive__adj"/></e>
+    <e lm="organised"><i>organised</i><par n="expensive__adj"/></e>
     <e lm="oriental"><i>oriental</i><par n="expensive__adj"/></e>
     <e lm="original"><i>original</i><par n="expensive__adj"/></e>
     <e lm="orthographical"><i>orthographical</i><par n="expensive__adj"/></e>
