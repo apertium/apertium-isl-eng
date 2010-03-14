@@ -60,7 +60,6 @@
      <cat-item tags="vbhaver.prs.*"/>
      <cat-item tags="vbhaver.past.*"/>
      <cat-item tags="vbhaver.pss.*"/>
-
   </def-cat>
 
   <def-cat n="verbcj">
@@ -253,6 +252,14 @@
 
   <def-cat n="verða">
      <cat-item lemma="verða" tags="vblex.*"/>
+  </def-cat>
+
+  <def-cat n="munu">
+     <cat-item lemma="munu" tags="vaux.*"/>
+  </def-cat>
+
+  <def-cat n="hafa">
+     <cat-item lemma="hafa" tags="vbhaver.*"/>
   </def-cat>
 
   <def-cat n="geta">
@@ -6236,6 +6243,128 @@
      </action>
   </rule>
 
+  <rule comment="REGLA: munu hafa → may have | mun hafa → may have">
+     <pattern>
+       <pattern-item n="munu"/>
+       <pattern-item n="hafa"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_verb_fin"/>
+         <concat>
+           <lit v="may"/>
+           <lit-tag v="vaux.inf"/>
+         </concat>
+       </let>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="temps"/>
+               <lit-tag v="pss"/>
+             </equal>
+           </test>
+           <let>
+             <var n="cur_verb_fin"/>
+             <concat>
+               <lit v="would"/>
+               <lit-tag v="vaux.inf"/>
+             </concat>
+           </let>
+         </when>
+       </choose>
+       <out>
+         <chunk name="aux_inf" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+  <rule comment="REGLA: munu verða PP → will be PP | mun verða barinn → will be beaten">
+     <pattern>
+       <pattern-item n="munu"/>
+       <pattern-item n="verða"/>
+       <pattern-item n="pp"/>
+     </pattern>
+     <action>
+       <call-macro n="firstWord">
+         <with-param pos="1"/>
+       </call-macro>
+       <let>
+         <var n="cur_verb_fin"/>
+         <concat>
+           <lit v="will"/>
+           <lit-tag v="vaux.inf"/>
+         </concat>
+       </let>
+       <choose>
+         <when>
+           <test>
+             <equal>
+               <clip pos="1" side="sl" part="temps"/>
+               <lit-tag v="pss"/>
+             </equal>
+           </test>
+           <let>
+             <var n="cur_verb_fin"/>
+             <concat>
+               <lit v="would"/>
+               <lit-tag v="vaux.inf"/>
+             </concat>
+           </let>
+         </when>
+       </choose>
+
+       <out>
+         <chunk name="aux_be_pp" case="caseFirstWord">
+           <tags>
+             <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="syntax"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="cur_verb_fin"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.inf"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="pp"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+     </action>
+  </rule>
+
+
 
 
   <rule comment="REGLA: AUXCJ INF → AUXCJ INF | mun koma → will come">
@@ -6274,6 +6403,7 @@
         </out>
      </action>
   </rule>
+
 
   <rule comment="REGLA: AUX að INF → AUX GER | er að læra → am learning">
      <pattern>
