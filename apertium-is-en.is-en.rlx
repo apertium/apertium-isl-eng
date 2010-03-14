@@ -299,7 +299,10 @@ REMOVE IndefPron IF (-1 BOS | EOS) (0 IndefPron) (0 InterrPron) ;
 # Ég sá ekki 
 # finnst þér þá
 #ég þakka þeim kærlega fyrir
-REMOVE DemPron IF (0 DemPron) (0 PersPron); ## this needs fixing
+#Fá þeir íbúar, sem ekki geta eða vilja snúa aftur í íbúðirnar yfir nóttina, aðstoð með gistingu ef þörf krefur.
+REMOVE DemPron + Nom IF (0 DemPron) (0 PersPron); ## this needs fixing
+#SELECT DemPron + $$GENDER + $$NUMBER + $$NAGD IF (1C N + $$GENDER + $$NUMBER + $$NAGD);
+
 REMOVE DemPron IF (-1C PersPron) ;
 REMOVE ("<þá>"ri) + DemPron IF (1 VerbFin) (NOT 1 Rel); # þá sem ...
 REMOVE ("<þá>"ri) + DemPron IF (1 Conj OR Adv) (-1 BOS); # Þá þegar ...
@@ -418,6 +421,9 @@ SELECT Gen IF (-1C N) (-1C Nom OR Acc OR Dat) (NOT 0 VerbFin);
 #################################################################################
 
 REMOVE (imp) (NOT -1 CLB); 
+
+#Fá þeir íbúar, sem ekki geta eða vilja snúa aftur í íbúðirnar yfir nóttina, aðstoð með gistingu ef þörf krefur.
+REMOVE Inf IF (-1 BOS) (NOT 1* VerbFin BARRIER CLB);
 
 SELECT Inf IF (-1 ("að"ri)) (-2 ("við"ri));
 

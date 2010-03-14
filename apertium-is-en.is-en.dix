@@ -3856,6 +3856,12 @@
     <e r="LR"><p><l>þessi<s n="det"/><s n="dem"/><s n="nt"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="RL"><p><l>þessi<s n="det"/><s n="dem"/><s n="GD"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
 
+    <e r="LR"><p><l>sá<s n="det"/><s n="dem"/><s n="m"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>sá<s n="det"/><s n="dem"/><s n="f"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>sá<s n="det"/><s n="dem"/><s n="nt"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
+    <e r="RL"><p><l>sá<s n="det"/><s n="dem"/><s n="GD"/></l><r>that<s n="det"/><s n="dem"/></r></p></e>
+
+
     <e r="LR"><p><l>báðir<s n="det"/><s n="ind"/><s n="m"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>báðir<s n="det"/><s n="ind"/><s n="f"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>báðir<s n="det"/><s n="ind"/><s n="nt"/></l><r>both<s n="det"/><s n="ind"/></r></p></e>

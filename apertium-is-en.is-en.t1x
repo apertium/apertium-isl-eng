@@ -4070,7 +4070,7 @@
          <with-param pos="1"/>
        </call-macro>
        <call-macro n="set_curr_syntag">
-         <with-param pos="1"/>
+         <with-param pos="2"/>
        </call-macro>
            <out>
              <chunk name="det_nom" case="caseFirstWord">
