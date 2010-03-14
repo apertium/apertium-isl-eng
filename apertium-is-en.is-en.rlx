@@ -126,6 +126,9 @@ REMOVE N IF (1 PP | VerbSupine) (0 ("hafa"));
 REMOVE Rel IF (0 ("sem")) (NOT 1* VerbFin BARRIER CLB);
 REMOVE Conj IF (0 ("er")) (-1 Conj); 
 
+#Ekki er búið að boða hvenær það hefst.
+REMOVE Rel IF (NOT -1 COMMA) ;
+
 #################################################################################
 # Proper nouns
 #################################################################################
