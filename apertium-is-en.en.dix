@@ -14044,6 +14044,32 @@
     <e lm="morality"><i>moralit</i><par n="bab/y__n"/></e>
     <e lm="moratorium"><i>moratorium</i><par n="house__n"/></e>
     <e lm="morning"><i>morning</i><par n="house__n"/></e>
+
+    <e lm="Monday morning"><par n="Mm"/><i>onday<b/>morning</i><par n="house__n"/></e>
+    <e lm="Tuesday morning"><par n="Tt"/><i>uesday<b/>morning</i><par n="house__n"/></e>
+    <e lm="Wednesday morning"><par n="Ww"/><i>ednesday<b/>morning</i><par n="house__n"/></e>
+    <e lm="Thursday morning"><par n="Tt"/><i>hursday<b/>morning</i><par n="house__n"/></e>
+    <e lm="Friday morning"><par n="Ff"/><i>riday<b/>morning</i><par n="house__n"/></e>
+    <e lm="Saturday morning"><par n="Ss"/><i>aturday<b/>morning</i><par n="house__n"/></e>
+    <e lm="Sunday morning"><par n="Ss"/><i>unday<b/>morning</i><par n="house__n"/></e>
+
+    <e lm="Monday evening"><par n="Mm"/><i>onday<b/>evening</i><par n="house__n"/></e>
+    <e lm="Tuesday evening"><par n="Tt"/><i>uesday<b/>evening</i><par n="house__n"/></e>
+    <e lm="Wednesday evening"><par n="Ww"/><i>ednesday<b/>evening</i><par n="house__n"/></e>
+    <e lm="Thursday evening"><par n="Tt"/><i>hursday<b/>evening</i><par n="house__n"/></e>
+    <e lm="Friday evening"><par n="Ff"/><i>riday<b/>evening</i><par n="house__n"/></e>
+    <e lm="Saturday evening"><par n="Ss"/><i>aturday<b/>evening</i><par n="house__n"/></e>
+    <e lm="Sunday evening"><par n="Ss"/><i>unday<b/>evening</i><par n="house__n"/></e>
+
+    <e lm="Monday night"><par n="Mm"/><i>onday<b/>night</i><par n="house__n"/></e>
+    <e lm="Tuesday night"><par n="Tt"/><i>uesday<b/>night</i><par n="house__n"/></e>
+    <e lm="Wednesday night"><par n="Ww"/><i>ednesday<b/>night</i><par n="house__n"/></e>
+    <e lm="Thursday night"><par n="Tt"/><i>hursday<b/>night</i><par n="house__n"/></e>
+    <e lm="Friday night"><par n="Ff"/><i>riday<b/>night</i><par n="house__n"/></e>
+    <e lm="Saturday night"><par n="Ss"/><i>aturday<b/>night</i><par n="house__n"/></e>
+    <e lm="Sunday night"><par n="Ss"/><i>unday<b/>night</i><par n="house__n"/></e>
+
+
     <e lm="morphology"><i>morpholog</i><par n="bab/y__n"/></e>
     <e lm="mortality"><i>mortalit</i><par n="bab/y__n"/></e>
     <e lm="mortar"><i>mortar</i><par n="house__n"/></e>
