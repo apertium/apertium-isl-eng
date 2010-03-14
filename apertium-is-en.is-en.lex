@@ -12,6 +12,7 @@ LIST Ord              = (ord) ("fyrstur"ri);
 LIST Num              = (num) ("milljarður") ("þúsund") ("milljón");
 LIST N                = (n);
 LIST Verb             = (vblex);
+LIST Inf              = (inf);
 LIST Prep             = (pr);
 LIST Adv              = (adv);
 LIST Coord            = (cnjcoo);
@@ -112,6 +113,7 @@ SUBSTITUTE ("halda") ("halda:1") ("halda") + Verb (1 ("að"));
 
 # "telja" : {0:"count", 1:"reckon"};
 SUBSTITUTE ("telja") ("telja:1") ("telja") + Verb (1 ("að"));
+SUBSTITUTE ("telja") ("telja:1") ("telja") + Verb (1C* ("að") BARRIER CLB);
 
 # "afgreiða" : {0: "serve", 1: "deal# with"};
 SUBSTITUTE ("afgreiða") ("afgreiða:1") ("afgreiða") + Verb (1 ("mál"));

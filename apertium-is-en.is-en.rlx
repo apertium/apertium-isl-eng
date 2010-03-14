@@ -129,6 +129,9 @@ REMOVE Conj IF (0 ("er")) (-1 Conj);
 #Ekki er búið að boða hvenær það hefst.
 REMOVE Rel IF (0 ("er")) (NOT -1 COMMA) ;
 
+#Töldu margir þingmenn að skýrslan gæti verið gott innlegg í umræðuna og gæti aukið jöfnuð á ný meðal Kínverja.
+REMOVE ("gæta") IF (0 ("gæta")) (0 ("geta")) (1 Adj | PP | VerbSupine);
+
 #################################################################################
 # Proper nouns
 #################################################################################
