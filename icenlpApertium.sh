@@ -28,7 +28,7 @@ apertiumPipeline="cg-proc is-en.rlx.bin | cg-proc -n is-en.lex.bin | apertium-pr
 
 standardIceNLP="java -Xmx768M -classpath $ICENLP/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -tm $ICENLP/dict/icetagger/otb.apertium.dict -sf -mt end"
 
-clientIceNLP="java -jar $ICENLP/tools/IceNLPClient/IceNLPClient.jar --host=localhost $1" 
+clientIceNLP="java -jar $IceNLPClient/IceNLPClient.jar --host=localhost $1" 
 
 
 # Execution

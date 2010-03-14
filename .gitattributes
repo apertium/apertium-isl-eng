@@ -108,3 +108,4 @@ dev/testvoc-summary.txt -text
 /regression-tests-Ice.sh -text
 /regression-tests.sh -text
 /run-tests.sh -text
+/runIceNLPServer.sh -text
