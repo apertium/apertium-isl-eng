@@ -1,13 +1,31 @@
-Icelandic and English
+The is-en system can be used in two ways:
 
-pipelineApertium.sh 
---------------
-Runs the Apertium pipeline. Should be equivalent to "apertium -d . is-en" 
+I. Using the standard Apertium pipeline, e.g.:
+echo "gamli maðurinn borðaði kalda súpu með mjög góðri lyst" | apertium -d . is-en
 
-pipelineIce.sh 
---------------
-Used to run IceTagger for morphological analysis and PoS tagging and then run the rest of the Apertium pipeline. This starts up IceTagger for each input sentence submitted to the shell. Slow!
+II. Use IceNLP in the pipeline (for morphological analysis and PoS tagging)
 
-pipelineIceClient.sh 
---------------
-Used to run "a client version" of IceTagger for morphological analysis and PoS tagging and then run the rest of the Apertium pipeline.  This assumes that the IceNLPServer daemon has been started. IceNLPServer starts IceTagger and waits in memory for input (on a socket). Fast!
+For the latter, do the following:
+
+1) Get IceNLPCore.zip, IceNLPServer.zip and IceNLPClient.zip from http://sourceforge.net/projects/icenlp/files/ (only applications, no source)
+or
+2) check out the source with https://icenlp.svn.sourceforge.net/svnroot/icenlp. For compiling these sources, refer to the README files found in the core and server subdirectories.
+ 
+Hereafter, we assume that you have selected item 1)
+       
+3) Unzip IceNLPCore.zip to a directory IceNLPCore. Unzip IceNLPServer.zip to a directory IceNLPServer. Unzip IceNLPClient.zip to a directory IceNLPClient.        
+        
+4) Put into your .profile or .bashrc:
+        
+        export IceNLPCore=/your_path/IceNLPCore
+        export IceNLPServer=/your_path/IceNLPServer
+        export IceNLPClient=/your_path/IceNLPClient
+        
+        These environment variables are needed to make some shell scripts work properly.
+
+5) From the apertum-is-en directory, execute 
+./runIceNLPServer.sh
+(this runs the daemonised version of IceNLP)
+        
+6) Thereafter, for testing a translation do: 
+echo "gamli maðurinn borðaði kalda súpu með mjög góðri lyst" | ./icenlpApertium.sh

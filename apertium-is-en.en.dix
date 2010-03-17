@@ -34031,6 +34031,7 @@
     <e lm="iron"><i>iron</i><par n="accept__vblex"/></e>
     <e lm="isolate"><i>isolat</i><par n="liv/e__vblex"/></e>
     <e lm="issue"><i>issu</i><par n="liv/e__vblex"/></e>
+    <e lm="jog"><i>jog</i><par n="plug__vblex"/></e>
     <e lm="join"><i>join</i><par n="accept__vblex"/></e>
     <e lm="joint"><i>joint</i><par n="accept__vblex"/></e>
     <e lm="judge"><i>judg</i><par n="liv/e__vblex"/></e>
@@ -34668,6 +34669,7 @@
     <e lm="treat"><i>treat</i><par n="accept__vblex"/></e>
     <e lm="tremble"><i>trembl</i><par n="liv/e__vblex"/></e>
     <e lm="trigger"><i>trigger</i><par n="accept__vblex"/></e>
+    <e lm="trot"><i>trot</i><par n="cut__vblex"/></e>
     <e lm="truncate"><i>truncat</i><par n="liv/e__vblex"/></e>
     <e lm="trust"><i>trust</i><par n="accept__vblex"/></e>
     <e lm="turn"><i>turn</i><par n="accept__vblex"/></e>

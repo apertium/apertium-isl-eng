@@ -56,5 +56,5 @@ if [ -x /usr/bin/calc ]; then
 	echo $WORKING"%";
 fi
 
-#cp $SRCLIST srclist.tmp;
+cp $SRCLIST srclist.tmp;
 rm $SRCLIST $TRGLIST $TSTLIST;
