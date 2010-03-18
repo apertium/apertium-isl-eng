@@ -1,6 +1,7 @@
 # This program assumes that IceNLPServer (the demonized version of IceNLP) is already running 
 # The program relies on IceNLP to perform morphological analysis and tagging and then runs the rest of the Apertium pipeline to finish the translation process
-# The ICENLP envirionment variable needs to be set to the root directory of IceNLP
+# The IceNLPCore envirionment variable needs to be set to the root directory of the IceNLPCore distribution
+# The IceNLPSever envirionment variable needs to be set to the root directory of the IceNLPServer distribution
 #
 #  Flags:
 # -t only perform PoS tagging
@@ -28,8 +29,8 @@ apertiumPipeline="cg-proc is-en.rlx.bin | cg-proc -n is-en.lex.bin | apertium-pr
 
 standardIceNLP="java -Xmx768M -classpath $IceNLPCore/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -tm $IceNLPCore/dict/icetagger/otb.apertium.dict -sf -mt end"
 
-clientIceNLP="java -jar $IceNLPClient/IceNLPClient.jar --host=localhost $1" 
-
+#clientIceNLP="java -jar $IceNLPClient/IceNLPClient.jar --host=localhost $1" 
+clientIceNLP=$IceNLPServer/sh/RunClient.sh $1
 
 # Execution
 if [ -n "$flagStandardIce" ]  # Is the variable defined?
