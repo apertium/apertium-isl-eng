@@ -7,19 +7,18 @@ II. Use IceNLP in the pipeline (for morphological analysis and PoS tagging)
 
 For the latter, do the following:
 
-1) Get IceNLPCore.zip, IceNLPServer.zip and IceNLPClient.zip from http://sourceforge.net/projects/icenlp/files/ (only applications, no source)
+1) Get IceNLPCore.zip and IceNLPServer.zip from http://sourceforge.net/projects/icenlp/files/ (only applications, no source)
 or
 2) check out the source with https://icenlp.svn.sourceforge.net/svnroot/icenlp. For compiling these sources, refer to the README files found in the core and server subdirectories.
  
 Hereafter, we assume that you have selected item 1)
        
-3) Unzip IceNLPCore.zip to a directory IceNLPCore. Unzip IceNLPServer.zip to a directory IceNLPServer. Unzip IceNLPClient.zip to a directory IceNLPClient.        
+3) Unzip IceNLPCore.zip to a directory IceNLPCore. Unzip IceNLPServer.zip to a directory IceNLPServer. 
         
 4) Put into your .profile or .bashrc:
         
         export IceNLPCore=/your_path/IceNLPCore
         export IceNLPServer=/your_path/IceNLPServer
-        export IceNLPClient=/your_path/IceNLPClient
         
         These environment variables are needed to make some shell scripts work properly.
 
