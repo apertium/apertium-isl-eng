@@ -1,3 +1,6 @@
+Icelandic--English translator
+===================================================================
+
 The is-en system can be used in two ways:
 
 I. Using the standard Apertium pipeline, e.g.:
@@ -28,3 +31,9 @@ Hereafter, we assume that you have selected item 1)
         
 6) Thereafter, for testing a translation do: 
 echo "gamli maðurinn borðaði kalda súpu með mjög góðri lyst" | ./icenlpApertium.sh
+
+===================================================================
+
+More information about this module, and others can be found on
+the Apertium: Wiki, http://wiki.apertium.org
+
