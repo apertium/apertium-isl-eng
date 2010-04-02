@@ -144,7 +144,7 @@ SELECT ProperNom IF (-1C AccPrep) (1 Acc) ;
 SELECT ProperNom IF (-1C DatPrep) (1 Dat) ;
 
 # Hildar Guðmundsdóttur
-SELECT ProperNom IF (-1C ProperNom) (-1C Gen) (0 ("<.*dóttur>")) (0 Gen) ; 	# !tag.isCase(GENITIVE) ;
+SELECT ProperNom IF (-1C ProperNom) (-1C Gen) (0 ("<.*dóttur>"r)) (0 Gen) ; 	# !tag.isCase(GENITIVE) ;
 SELECT ProperNom IF (-1C ProperNom) (-1C Fem) ; 				# !tag.isGender(FEMININE) ;
 SELECT ProperNom IF (-1C ProperNom) (-1C Msc) ; 				# !tag.isGender(MASCULINE) ;
 
