@@ -148,25 +148,25 @@
     <cat-item tags="prn.*"/>
   </def-cat>
 
-  <def-cat n="ppres">
-     <cat-item tags="vblex.*.ppres"/>
+  <def-cat n="pprs">
+     <cat-item tags="vblex.*.pprs"/>
      <cat-item tags="vblex.*.ger"/>
-     <cat-item tags="vblex.ppres"/>
+     <cat-item tags="vblex.pprs"/>
      <cat-item tags="vblex.ger"/>
 
-     <cat-item tags="vbhaver.*.ppres"/>
+     <cat-item tags="vbhaver.*.pprs"/>
      <cat-item tags="vbhaver.*.ger"/>
-     <cat-item tags="vbhaver.ppres"/>
+     <cat-item tags="vbhaver.pprs"/>
      <cat-item tags="vbhaver.ger"/>
 
-     <cat-item tags="vbser.*.ppres"/>
+     <cat-item tags="vbser.*.pprs"/>
      <cat-item tags="vbser.*.ger"/>
-     <cat-item tags="vbser.ppres"/>
+     <cat-item tags="vbser.pprs"/>
      <cat-item tags="vbser.ger"/>
 
-     <cat-item tags="vaux.*.ppres"/>
+     <cat-item tags="vaux.*.pprs"/>
      <cat-item tags="vaux.*.ger"/>
-     <cat-item tags="vaux.ppres"/>
+     <cat-item tags="vaux.pprs"/>
      <cat-item tags="vaux.ger"/>
 
   </def-cat>
@@ -378,7 +378,7 @@
      <attr-item tags="ger"/>
      <attr-item tags="supn"/>
      <attr-item tags="pp"/>
-     <attr-item tags="ppres"/>
+     <attr-item tags="pprs"/>
   </def-attr>
 
   <def-attr n="gen">
@@ -2448,21 +2448,21 @@
 
   <rule comment="REGLA: Present Participle"><!-- rule for present participles-->
      <pattern>
-       <pattern-item n="ppres"/>
+       <pattern-item n="pprs"/>
      </pattern>
      <action>
        <call-macro n="firstWord">
          <with-param pos="1"/>
        </call-macro>
            <out>
-             <chunk name="ppres" case="caseFirstWord">
+             <chunk name="pprs" case="caseFirstWord">
                <tags>
                  <tag><lit-tag v="SN"/></tag>
                </tags>
               <lu>
                  <clip pos="1" side="tl" part="lemh"/>
                  <clip pos="1" side="tl" part="a_verb"/>
-                 <lit-tag v="ger"/>  <!-- Input can be ppres or ger -->
+                 <lit-tag v="ger"/>  <!-- Input can be pprs or ger -->
                  <clip pos="1" side="tl" part="lemq"/>
                </lu>
              </chunk>
@@ -5983,7 +5983,7 @@
      <pattern>
        <pattern-item n="auxcj"/>
        <pattern-item n="sadv"/>
-       <pattern-item n="ppres"/>
+       <pattern-item n="pprs"/>
      </pattern>
      <action>
        <call-macro n="firstWord">

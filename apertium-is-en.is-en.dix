@@ -29,7 +29,7 @@
     <sdef n="vblex" /> 
     <sdef n="pp" /> 
     <sdef n="supn" /> 
-    <sdef n="ppres" /> 
+    <sdef n="pprs" /> 
     <sdef n="ger" /> 
     <sdef n="top" /> 
     <sdef n="al" /> 
@@ -4352,13 +4352,13 @@
     <e><p><l>geta<s n="vblex"/><s n="actv"/><s n="pp"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n="actv"/><s n="supn"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n="midv"/><s n="supn"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
-    <e><p><l>geta<s n="vblex"/><s n="ppres"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
+    <e><p><l>geta<s n="vblex"/><s n="pprs"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
 
     <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
 
     <e><p><l>mega<s n="vaux"/><s n="pp"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>mega<s n="vaux"/><s n="supn"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
-    <e><p><l>mega<s n="vaux"/><s n="ppres"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
+    <e><p><l>mega<s n="vaux"/><s n="pprs"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
 
 
     <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
