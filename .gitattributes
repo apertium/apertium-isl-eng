@@ -18,13 +18,13 @@
 /apertium-is-en.is.dix -text
 /apertium-is-en.is.tsx -text
 /apertium-is-en.post-en.dix -text
-/apertiumtag-to-visl.cg3 -text
 /autogen.sh -text
 /configure.ac -text
 /demo.sh -text
 /detailedDemo.sh -text
 dev/NOTES -text
 dev/apertium-is-en.is-en.dix.sorted -text
+dev/apertiumtag-to-visl.cg3 -text
 dev/data/apertium-is-en.is-en.dix.sorted -text
 dev/data/is-en.freelang.xml -text
 dev/data/is-en.interwiki.xml -text
