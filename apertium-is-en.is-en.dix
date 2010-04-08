@@ -4036,6 +4036,7 @@
     <e slr="1"><p><l>við<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
     <e slr="2"><p><l>við<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
     <e><p><l>yfir<s n="pr"/></l><r>over<s n="pr"/></r></p></e>
+    <e><p><l>yfir<s n="adv"/></l><r>over<s n="adv"/></r></p></e>
     <e><p><l>á<b/>milli<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>mitt<b/>á<b/>milli<s n="pr"/></l><r>half<b/>way<b/>between<s n="pr"/></r></p></e>
     <e><p><l>á<b/>móti<s n="pr"/></l><r>opposite<s n="pr"/></r></p></e>
@@ -4807,6 +4808,7 @@
 <!--<p><l>færa<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>-->
     <e><p><l>færa<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
     <e><p><l>fæða<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>
+<!--e><p><l>fæða<s n="vblex"/><s n="actv"/><s n="pp"/></l><r>born<s n="adj"/></r></p></e-->
 <!--<p><l>fæða<s n="vblex"/></l><r>give<b/>birth<s n="vblex"/></r></p></e>-->
 <!--<p><l>fórna<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>-->
     <e><p><l>fórna<s n="vblex"/></l><r>sacrifice<s n="vblex"/></r></p></e>
