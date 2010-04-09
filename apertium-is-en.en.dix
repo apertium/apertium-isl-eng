@@ -1265,6 +1265,7 @@
       <e>      <p>        <l>ears</l>        <r>ear<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>ore</l>        <r>ear<s n="vblex"/><s n="past"/></r></p></e>
       <e>      <p>        <l>orne</l>        <r>ear<s n="vblex"/><s n="pp"/></r></p></e>
+      <e>      <p>        <l>orn</l>        <r>ear:1<s n="vblex"/><s n="pp"/></r></p></e>
       <e>      <p>        <l>earing</l>        <r>ear<s n="vblex"/><s n="ger"/></r></p></e>
       <e>      <p>        <l>earing</l>        <r>ear<s n="vblex"/><s n="pprs"/></r></p></e>
       <e>      <p>        <l>earing</l>        <r>ear<s n="vblex"/><s n="subs"/></r></p></e>
@@ -33299,6 +33300,7 @@
     <e lm="wind up"><i>w</i><par n="f/ind__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="buy"><i>b</i><par n="b/uy__vblex"/></e>
     <e lm="bear"><i>b</i><par n="b/ear__vblex"/></e>
+    <e lm="bear:1"><i>b</i><par n="b/ear__vblex"/></e>
     <e lm="beat"><i>b</i><par n="b/eat__vblex"/></e>
     <e lm="back"><i>back</i><par n="accept__vblex"/></e>
     <e lm="baffle"><i>baffl</i><par n="liv/e__vblex"/></e>

@@ -4808,6 +4808,7 @@
 <!--<p><l>færa<s n="vblex"/></l><r>bring<s n="vblex"/></r></p></e>-->
     <e><p><l>færa<s n="vblex"/></l><r>move<s n="vblex"/></r></p></e>
     <e><p><l>fæða<s n="vblex"/></l><r>feed<s n="vblex"/></r></p></e>
+    <e><p><l>fæða<s n="vblex"/><s n="pp"/></l><r>bear:1<s n="vblex"/><s n="pp"/></r></p></e>
 <!--e><p><l>fæða<s n="vblex"/><s n="actv"/><s n="pp"/></l><r>born<s n="adj"/></r></p></e-->
 <!--<p><l>fæða<s n="vblex"/></l><r>give<b/>birth<s n="vblex"/></r></p></e>-->
 <!--<p><l>fórna<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>-->
