@@ -3811,6 +3811,7 @@
                    <clip pos="2" side="tl" part="lem"/>
                  </get-case-from>
                  <clip pos="2" side="tl" part="a_adj"/>
+                 <var n="cur_adj_grau1"/>
                </lu>
                <b pos="1"/>
                <lu>
