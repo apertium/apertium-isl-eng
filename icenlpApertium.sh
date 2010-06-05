@@ -39,26 +39,25 @@ then
 	if [ -n "$flagOnlyTagging" ]  # Is the variable defined?
 	then
 		command=$standardIceNLP
-	else
 		if [ -n "$flagCG" ]  # Is the variable defined?
 		then
-			command=$standardIceNLP"|"$apertiumPipelineCG
-		else
-			command=$standardIceNLP"|"$apertiumPipeline
+			command=$standardIceNLP" | "$apertiumPipelineCG
 		fi
+	else
+		command=$standardIceNLP" | "$apertiumPipeline
 	fi
 else
 	if [ -n "$flagOnlyTagging" ]  # Is the variable defined?
 	then
 		command=$clientIceNLP
-	else
 		if [ -n "$flagCG" ]  # Is the variable defined?
 		then
-			command=$standardIceNLP"|"$apertiumPipelineCG
-		else
-			command=$standardIceNLP"|"$apertiumPipeline
+			command=$clientIceNLP" | "$apertiumPipelineCG
 		fi
+	else
+		command=$clientIceNLP" | "$apertiumPipeline
 	fi
 fi
 
+#echo $command
 eval $command
