@@ -7210,8 +7210,6 @@
 <e><p><l>kvitta<s n="vblex"/></l><r>sign<s n="vblex"/></r></p></e>
 <e><p><l>kvíslast<s n="vblex"/></l><r>branch<b/>out<s n="vblex"/></r></p></e>
 <e><p><l>kynbæta<s n="vblex"/></l><r>breed<s n="vblex"/></r></p></e>
-<e c="0"><p><l>kynda<s n="vblex"/></l><r>heat<b/>up<s n="vblex"/></r></p></e>
-<e slr="1"><p><l>kynda<s n="vblex"/></l><r>light<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>kynna<s n="vblex"/></l><r>make<b/>known<s n="vblex"/></r></p></e>
 <e c="0"><p><l>kynna<s n="vblex"/></l><r>introduce<s n="vblex"/></r></p></e>
 <e slr="2"><p><l>kynna<s n="vblex"/></l><r>present<s n="vblex"/></r></p></e>
@@ -8064,7 +8062,6 @@
 <e c="0"><p><l>yfirstíga<s n="vblex"/></l><r>overcome<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>yfirstíga<s n="vblex"/></l><r>exceed<s n="vblex"/></r></p></e>
 <e><p><l>yfirvega<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
-<e><p><l>yfirvinna<s n="vblex"/></l><r>overcome<s n="vblex"/></r></p></e>
 <e><p><l>ylja<s n="vblex"/></l><r>warm<b/>up<s n="vblex"/></r></p></e>
 <e><p><l>yngja<s n="vblex"/></l><r>rejuvenate<s n="vblex"/></r></p></e>
 <e c="0"><p><l>áminna<s n="vblex"/></l><r>remind<s n="vblex"/></r></p></e>
@@ -19062,7 +19059,6 @@
     <e><p><l>krumla<s n="n"/><s n="f"/></l><r>paw<s n="n"/></r></p></e>
     <e><p><l>krummi<s n="n"/><s n="m"/></l><r>raven<s n="n"/></r></p></e>
     <e><p><l>krumpa<s n="n"/><s n="f"/></l><r>crumple<s n="n"/></r></p></e>
-    <e><p><l>krydd<s n="n"/><s n="nt"/></l><r>spice<s n="n"/></r></p></e>
     <e><p><l>kryddjurt<s n="n"/><s n="f"/></l><r>herb<s n="n"/></r></p></e>
     <e><p><l>kryddlögur<s n="n"/><s n="m"/></l><r>marinade<s n="n"/></r></p></e>
     <e><p><l>kryppa<s n="n"/><s n="f"/></l><r>hump<s n="n"/></r></p></e>

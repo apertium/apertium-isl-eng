@@ -60,7 +60,7 @@
 
 4596	Fjórir stærstu stjórnmálaflokkarnir halda flestum, ef ekki öllum sætum á þinginu.
 4596	The four big political parties hold most, if not all sat on the parliament.
-4596	The four big political parties hold most, if not all seats in the parliament.
+4596	The four biggest political parties hold most, if not all seats in the parliament.
 
 4659	Veðurfarið í Porto er milt. 
 4659	The climate in *Porto is tender. 
