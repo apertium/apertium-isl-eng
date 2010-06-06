@@ -70,12 +70,6 @@
     <sdef n="GD" /> 
     <sdef n="ND" /> 
     <sdef n="PD" /> 
-    <sdef n=":0" /> 
-    <sdef n=":1" /> 
-    <sdef n=":2" /> 
-    <sdef n=":3" /> 
-    <sdef n=":4" /> 
-    <sdef n=":5" /> 
   </sdefs>
 
   <pardefs>
@@ -7197,7 +7191,7 @@
 <e><p><l>kryfja<s n="vblex"/></l><r>dissect<s n="vblex"/></r></p></e>
 <e><p><l>krókna<s n="vblex"/></l><r>die<b/>from<b/>cold<s n="vblex"/></r></p></e>
 <e><p><l>krúnuraka<s n="vblex"/></l><r>tonsure<s n="vblex"/></r></p></e>
-<e><p><l>kulna<s n="vblex"/><s  n=":0"/></l><r>grow<b/>cold<s n="vblex"/></r></p></e>
+<e><p><l>kulna<s n="vblex"/></l><r>grow<b/>cold<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>kulna<s n="vblex"/></l><r>burn<b/>out<s n="vblex"/></r></p></e>
 <e><p><l>kunngera<s n="vblex"/></l><r>announce<s n="vblex"/></r></p></e>
 <e><p><l>kvaka<s n="vblex"/></l><r>chirp<s n="vblex"/></r></p></e>
@@ -7613,7 +7607,7 @@
 <e slr="2"><p><l>skrá<s n="vblex"/></l><r>list<s n="vblex"/></r></p></e>
 <e slr="3"><p><l>skrá<s n="vblex"/></l><r>register<s n="vblex"/></r></p></e>
 <e slr="4"><p><l>skrá<s n="vblex"/></l><r>quote<s n="vblex"/></r></p></e>
-<e><p><l>skrá<s n="vblex"/><s n=":5"/></l><r>catalogue<s n="vblex"/></r></p></e>
+<e slr="5"><p><l>skrá<s n="vblex"/></l><r>catalogue<s n="vblex"/></r></p></e>
 <e c="0"><p><l>skrásetja<s n="vblex"/></l><r>register<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>skrásetja<s n="vblex"/></l><r>record<s n="vblex"/></r></p></e>
 <e><p><l>skrækja<s n="vblex"/></l><r>screech<s n="vblex"/></r></p></e>
@@ -14742,7 +14736,7 @@
     <e><p><l>kryfja<s n="vblex"/></l><r>dissect<s n="vblex"/></r></p></e>
     <e><p><l>krókna<s n="vblex"/></l><r>die<b/>from<b/>cold<s n="vblex"/></r></p></e>
     <e><p><l>krúnuraka<s n="vblex"/></l><r>tonsure<s n="vblex"/></r></p></e>
-    <e><p><l>kulna<s n="vblex"/><s  n=":0"/></l><r>grow<b/>cold<s n="vblex"/></r></p></e>
+    <e><p><l>kulna<s n="vblex"/></l><r>grow<b/>cold<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>kulna<s n="vblex"/></l><r>burn<b/>out<s n="vblex"/></r></p></e>
     <e><p><l>kunngera<s n="vblex"/></l><r>announce<s n="vblex"/></r></p></e>
     <e><p><l>kvaka<s n="vblex"/></l><r>chirp<s n="vblex"/></r></p></e>
@@ -15155,12 +15149,6 @@
     <e slr="1"><p><l>skrimta<s n="vblex"/></l><r>eke<b/>out<b/>one's<b/>existence<s n="vblex"/></r></p></e>
     <e><p><l>skrjáfa<s n="vblex"/></l><r>rustle<s n="vblex"/></r></p></e>
     <e><p><l>skruna<s n="vblex"/></l><r>scroll<s n="vblex"/></r></p></e>
-    <e c="0"><p><l>skrá<s n="vblex"/></l><r>note<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>skrá<s n="vblex"/></l><r>record<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>skrá<s n="vblex"/></l><r>list<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>skrá<s n="vblex"/></l><r>register<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>skrá<s n="vblex"/></l><r>quote<s n="vblex"/></r></p></e>
-    <e><p><l>skrá<s n="vblex"/><s n=":5"/></l><r>catalogue<s n="vblex"/></r></p></e>
     <e c="0"><p><l>skrásetja<s n="vblex"/></l><r>register<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>skrásetja<s n="vblex"/></l><r>record<s n="vblex"/></r></p></e>
     <e><p><l>skrækja<s n="vblex"/></l><r>screech<s n="vblex"/></r></p></e>
@@ -19408,7 +19396,7 @@
     <e slr="2"><p><l>leiðsla<s n="n"/><s n="f"/></l><r>cable<s n="n"/></r></p></e>
     <e slr="3"><p><l>leiðsla<s n="n"/><s n="f"/></l><r>distraction<s n="n"/></r></p></e>
     <e slr="4"><p><l>leiðsla<s n="n"/><s n="f"/></l><r>trance<s n="n"/></r></p></e>
-    <e><p><l>leiðsla<s n="n"/><s n=":5"/><s n="f"/></l><r>ecstasy<s n="n"/></r></p></e>
+    <e slr="5"><p><l>leiðsla<s n="n"/><s n="f"/></l><r>ecstasy<s n="n"/></r></p></e>
     <e><p><l>lekandi<s n="n"/><s n="m"/></l><r>gonorrhea<s n="n"/></r></p></e>
     <e><p><l>lend<s n="n"/><s n="f"/></l><r>loin<s n="n"/></r></p></e>
     <e><p><l>lending<s n="n"/><s n="f"/></l><r>landing<s n="n"/></r></p></e>
