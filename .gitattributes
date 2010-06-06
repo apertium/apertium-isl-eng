@@ -53,7 +53,11 @@ dev/data/snara.uk.open -text
 dev/data/snara.untranslated.nouns -text
 dev/data/snara.us.open -text
 dev/data/snara.verbs.final.xml -text
-dev/eval/eval.2010-03.txt -text
+dev/eval/eval.2010-03.apertium.txt -text
+dev/eval/eval.2010-05.apertium.txt -text
+dev/eval/eval.2010-05.google.txt -text
+dev/eval/eval.2010-05.icenlp.txt -text
+dev/eval/eval.2010-05.tungutorg.txt -text
 dev/example.dix -text
 dev/icetagger.ruleset -text
 dev/inconsistency-summary.sh -text
