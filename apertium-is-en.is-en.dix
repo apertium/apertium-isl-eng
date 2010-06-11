@@ -4353,6 +4353,11 @@
     <e><p><l>munu<s n="vaux"/></l><r>will<s n="vaux"/></r></p></e>
     <e><p><l>skulu<s n="vaux"/></l><r>shall<s n="vaux"/></r></p></e>
 
+    <e c="0"><p><l>skulu<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e> <!-- (to express resolution/conviction) -->
+    <e slr="1"><p><l>skulu<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>skulu<s n="vblex"/></l><r>let<g><b/>us</g><s n="vblex"/></r></p></e>
+
+
 <!--<p><l>afgreiða<s n="vblex"/></l><r>dispatch<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>fulfill<s n="vblex"/></r></p></e>-->
 <!--<p><l>afgreiða<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>-->
@@ -7592,11 +7597,7 @@
 <e><p><l>skrúfa<s n="vblex"/></l><r>screw<s n="vblex"/></r></p></e>
 <e><p><l>skrýða<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
 <e><p><l>skuldfæra<s n="vblex"/></l><r>debit<s n="vblex"/></r></p></e>
-<e c="0"><p><l>skulu<s n="vblex"/></l><r>shall<s n="vblex"/></r></p></e>
-<e slr="1"><p><l>skulu<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
-<e slr="2"><p><l>skulu<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e> <!-- (to express resolution/conviction) -->
-<e slr="3"><p><l>skulu<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e> <!-- (mainly to express willingness) -->
-<e slr="4"><p><l>skulu<s n="vblex"/></l><r>let<b/>us<s n="vblex"/></r></p></e>
+
 <e><p><l>skunda<s n="vblex"/></l><r>hurry<s n="vblex"/></r></p></e>
 <e c="0"><p><l>skutla<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
 <e slr="1"><p><l>skutla<s n="vblex"/></l><r>harpoon<s n="vblex"/></r></p></e>
@@ -15130,11 +15131,7 @@
     <e><p><l>skrúfa<s n="vblex"/></l><r>screw<s n="vblex"/></r></p></e>
     <e><p><l>skrýða<s n="vblex"/></l><r>decorate<s n="vblex"/></r></p></e>
     <e><p><l>skuldfæra<s n="vblex"/></l><r>debit<s n="vblex"/></r></p></e>
-    <e c="0"><p><l>skulu<s n="vblex"/></l><r>shall<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>skulu<s n="vblex"/></l><r>need<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>skulu<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e> <!-- (to express resolution/conviction) -->
-    <e slr="3"><p><l>skulu<s n="vblex"/></l><r>will<s n="vblex"/></r></p></e> <!-- (mainly to express willingness) -->
-    <e slr="4"><p><l>skulu<s n="vblex"/></l><r>let<b/>us<s n="vblex"/></r></p></e>
+
     <e><p><l>skunda<s n="vblex"/></l><r>hurry<s n="vblex"/></r></p></e>
     <e c="0"><p><l>skutla<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>skutla<s n="vblex"/></l><r>harpoon<s n="vblex"/></r></p></e>
