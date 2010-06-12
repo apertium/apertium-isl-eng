@@ -5525,11 +5525,11 @@
 
     <e><p><l>má<s n="vblex"/></l><r>erase<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>má<s n="vblex"/></l><r>blur<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>má<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>-->
-    <e slr="3"><p><l>má<s n="vblex"/></l><r>delete<s n="vblex"/></r></p></e>-->
-    <e slr="4"><p><l>má<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>-->
-    <e slr="5"><p><l>má<s n="vblex"/></l><r>obliterate<s n="vblex"/></r></p></e>-->
-    <e slr="6"><p><l>má<s n="vblex"/></l><r>wear<s n="vblex"/></r></p></e>--> <!-- as in wear and tear, get used up -->
+    <e slr="2"><p><l>má<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
+    <e slr="3"><p><l>má<s n="vblex"/></l><r>delete<s n="vblex"/></r></p></e>
+    <e slr="4"><p><l>má<s n="vblex"/></l><r>remove<s n="vblex"/></r></p></e>
+    <e slr="5"><p><l>má<s n="vblex"/></l><r>obliterate<s n="vblex"/></r></p></e>
+    <e slr="6"><p><l>má<s n="vblex"/></l><r>wear<s n="vblex"/></r></p></e> <!-- as in wear and tear, get used up -->
 
     <e><p><l>mála<s n="vblex"/></l><r>paint<s n="vblex"/></r></p></e>
 <!--<p><l>mæla<s n="vblex"/></l><r>measure<s n="vblex"/></r></p></e>-->
@@ -5772,7 +5772,7 @@
 
     <e c="0"><p><l>semja<s n="vblex"/></l><r>compose<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>semja<s n="vblex"/></l><r>negotiate<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>semja<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>-->
+    <e slr="2"><p><l>semja<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
 
     <e><p><l>senda<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
     <e><p><l>sería<s n="vblex"/></l><r>series<s n="vblex"/></r></p></e>
@@ -8650,7 +8650,7 @@
     <e><p><l>brynja<s n="n"/><s n="f"/></l><r>armour<s n="n"/></r></p></e> <!-- (armor) -->
     <e><p><l>brá<s n="n"/><s n="f"/></l><r>eyelash<s n="n"/></r></p></e>
     <e c="0"><p><l>bráð<s n="n"/><s n="f"/></l><r>wild<b/>animal<s n="n"/></r></p></e>
-    <e slr="1"><p><l>bráð<s n="n"/><s n="f"/></l><r>game<s n="n"/></r></p></e>-->
+    <e slr="1"><p><l>bráð<s n="n"/><s n="f"/></l><r>game<s n="n"/></r></p></e>
     <e slr="2"><p><l>bráð<s n="n"/><s n="f"/></l><r>victim<s n="n"/></r></p></e>
     <e><p><l>bræðslumark<s n="n"/><s n="nt"/></l><r>melting<b/>point<s n="n"/></r></p></e>
     <e><p><l>bréf<s n="n"/><s n="nt"/></l><r>letter<s n="n"/></r></p></e> <!-- (mail) -->
@@ -10840,9 +10840,9 @@
     <e><p><l>meginland<s n="n"/><s n="nt"/></l><r>mainland<s n="n"/></r></p></e>
     <e><p><l>megn<s n="n"/><s n="nt"/></l><r>strength<s n="n"/></r></p></e>
 
-    <e c="0"><p><l>mein<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>-->
+    <e c="0"><p><l>mein<s n="n"/><s n="nt"/></l><r>damage<s n="n"/></r></p></e>
     <e slr="1"><p><l>mein<s n="n"/><s n="nt"/></l><r>harm<s n="n"/></r></p></e>
-    <e slr="2"><p><l>mein<s n="n"/><s n="nt"/></l><r>disease<s n="n"/></r></p></e> --> <!-- (an abnormal condition of the body causing discomfort or dysfunction) -->
+    <e slr="2"><p><l>mein<s n="n"/><s n="nt"/></l><r>disease<s n="n"/></r></p></e>  <!-- (an abnormal condition of the body causing discomfort or dysfunction) -->
 
     <e><p><l>meinsæri<s n="n"/><s n="nt"/></l><r>perjury<s n="n"/></r></p></e>
     <!--<e><p><l>meirihluti<s n="n"/><s n="m"/></l><r>greater<b/>part<s n="n"/></r></p></e>-->
@@ -11812,7 +11812,7 @@
     <e><p><l>smiðja<s n="n"/><s n="f"/></l><r>smithy<s n="n"/></r></p></e>
     <e><p><l>smiður<s n="n"/><s n="m"/></l><r>carpenter<s n="n"/></r></p></e>
     <e c="0"><p><l>skósmiður<s n="n"/><s n="m"/></l><r>cobbler<s n="n"/></r></p></e>
-    <e slr="1"><p><l>skósmiður<s n="n"/><s n="m"/></l><r>shoemaker<s n="n"/></r></p></e>-->
+    <e slr="1"><p><l>skósmiður<s n="n"/><s n="m"/></l><r>shoemaker<s n="n"/></r></p></e>
     <!--<e><p><l>smiður<s n="n"/><s n="m"/></l><r>smith<s n="n"/></r></p></e>-->
     <e><p><l>smjör<s n="n"/><s n="nt"/></l><r>butter<s n="n"/></r></p></e>
     <e><p><l>smjörlíki<s n="n"/><s n="nt"/></l><r>margarine<s n="n"/></r></p></e>
@@ -12385,7 +12385,7 @@
     <e><p><l>tölvumús<s n="n"/><s n="f"/></l><r>computer<b/>mouse<s n="n"/></r></p></e>
     <e><p><l>tölvunarfræði<s n="n"/><s n="f"/></l><r>computer<b/>science<s n="n"/></r></p></e>
     <e><p><l>töng<s n="n"/><s n="f"/></l><r>pincers<s n="n"/></r></p></e>
-    <e slr="1"><p><l>töng<s n="n"/><s n="f"/></l><r>pliers<s n="n"/></r></p><par n="lögregla_police__n"/></e>-->
+    <e slr="1"><p><l>töng<s n="n"/><s n="f"/></l><r>pliers<s n="n"/></r></p><par n="lögregla_police__n"/></e>
     <e><p><l>tönn<s n="n"/><s n="f"/></l><r>tooth<s n="n"/></r></p></e>
     <e><p><l>túba<s n="n"/><s n="f"/></l><r>tuba<s n="n"/></r></p></e>
     <e><p><l>túlkur<s n="n"/><s n="m"/></l><r>interpreter<s n="n"/></r></p></e>
@@ -18885,7 +18885,7 @@
     <e c="0"><p><l>klausa<s n="n"/><s n="f"/></l><r>paragraph<s n="n"/></r></p></e>
     <e slr="1"><p><l>klausa<s n="n"/><s n="f"/></l><r>short<b/>article<s n="n"/></r></p></e>
     <e slr="2"><p><l>klausa<s n="n"/><s n="f"/></l><r>clause<s n="n"/></r></p></e> <!-- (legal) -->
-    <e slr="3"><p><l>klausa<s n="n"/><s n="f"/></l><r>passage<s n="n"/></r></p></e> --> <!-- (of text), clause -->
+    <e slr="3"><p><l>klausa<s n="n"/><s n="f"/></l><r>passage<s n="n"/></r></p></e> <!-- (of text), clause -->
 
     <e><p><l>kleina<s n="n"/><s n="f"/></l><r>cruller<s n="n"/></r></p></e>
     <e><p><l>kleinuhringur<s n="n"/><s n="m"/></l><r>doughnut<s n="n"/></r></p></e>
