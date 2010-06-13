@@ -50,10 +50,10 @@ then
 else
 	if [ -n "$flagOnlyTagging" ]  # Is the variable defined?
 	then
-		command=$clientIceNLPstart
+		command=$clientIceNLP
 		if [ -n "$flagCG" ]  # Is the variable defined?
 		then
-			command=$clientIceNLPstart" | "$apertiumPipelineCG
+			command=$clientIceNLP" | "$apertiumPipelineCG
 		fi
 	else
 		command=$apertiumdeformatter" | "$clientIceNLP" | "$apertiumPipeline
