@@ -60,5 +60,5 @@ else
 	fi
 fi
 
-echo $command
+#echo $command
 eval $command
