@@ -4343,6 +4343,13 @@
     <e><p><l>geta<s n="vblex"/><s n="midv"/><s n="supn"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
     <e><p><l>geta<s n="vblex"/><s n="pprs"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
 
+    <!-- Might lexical selection better be done here manually? Surely 'beget' is used in few, fairly fixed contexts. -->
+    <e c="0"><p><l>geta<s n="vblex"/></l><r>be<b/>able<b/>to<s n="vblex"/></r></p></e>
+    <e slr="1"><p><l>geta<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>geta<s n="vblex"/></l><r>guess<s n="vblex"/></r></p></e>
+    <e slr="3"><p><l>geta<s n="vblex"/></l><r>mention<s n="vblex"/></r></p></e>
+    <e slr="4"><p><l>geta<s n="vblex"/></l><r>beget<s n="vblex"/></r></p></e>
+
     <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
 
     <e><p><l>mega<s n="vaux"/><s n="pp"/></l><r>be<g><b/>allowed<b/>to</g><s n="vblex"/><s n="pp"/></r></p></e>
@@ -6873,11 +6880,7 @@
 <e><p><l>gereyða<s n="vblex"/></l><r>wipe<b/>out<s n="vblex"/></r></p></e>
 <e><p><l>gerilsneyða<s n="vblex"/></l><r>pasteurise<s n="vblex"/></r></p></e>
 <e><p><l>gerjast<s n="vblex"/></l><r>ferment<s n="vblex"/></r></p></e>
-<e c="0"><p><l>geta<s n="vblex"/></l><r>be<b/>able<b/>to<s n="vblex"/></r></p></e>
-<e slr="1"><p><l>geta<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
-<e slr="2"><p><l>geta<s n="vblex"/></l><r>guess<s n="vblex"/></r></p></e>
-<e slr="3"><p><l>geta<s n="vblex"/></l><r>mention<s n="vblex"/></r></p></e>
-<e slr="4"><p><l>geta<s n="vblex"/></l><r>beget<s n="vblex"/></r></p></e>
+
 <e><p><l>geysast<s n="vblex"/></l><r>dash<s n="vblex"/></r></p></e>
 <e><p><l>gifta<s n="vblex"/></l><r>give<g><b/>in<b/>marriage</g><s n="vblex"/></r></p></e>
 <e><p><l>giftast<s n="vblex"/></l><r>get<b/>married<s n="vblex"/></r></p></e>
@@ -14400,11 +14403,7 @@
     <e><p><l>gereyða<s n="vblex"/></l><r>wipe<b/>out<s n="vblex"/></r></p></e>
     <e><p><l>gerilsneyða<s n="vblex"/></l><r>pasteurise<s n="vblex"/></r></p></e>
     <e><p><l>gerjast<s n="vblex"/></l><r>ferment<s n="vblex"/></r></p></e>
-    <e c="0"><p><l>geta<s n="vblex"/></l><r>be<b/>able<b/>to<s n="vblex"/></r></p></e>
-    <e slr="1"><p><l>geta<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
-    <e slr="2"><p><l>geta<s n="vblex"/></l><r>guess<s n="vblex"/></r></p></e>
-    <e slr="3"><p><l>geta<s n="vblex"/></l><r>mention<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>geta<s n="vblex"/></l><r>beget<s n="vblex"/></r></p></e>
+
     <e><p><l>geysast<s n="vblex"/></l><r>dash<s n="vblex"/></r></p></e>
     <e><p><l>gildna<s n="vblex"/></l><r>get<b/>fatter<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>ginna<s n="vblex"/></l><r>allure<s n="vblex"/></r></p></e>
