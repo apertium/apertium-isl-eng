@@ -1,5 +1,5 @@
-SOFT-DELIMITERS = "<,>" (cm);
-DELIMITERS = "<.>" "<:>" "<!>" "<?>" "<|>" "<$.>" "<$:>" "<$!>" "<$?>" "<$|>" (sent);
+SOFT-DELIMITERS = "<,>" cm; 
+DELIMITERS = "<.>" "<:>" "<!>" "<?>" "<|>" "<$.>" "<$:>" "<$!>" "<$?>" "<$|>" sent ;
 
 LIST BOS              = (>>>);
 LIST EOS              = (<<<);
