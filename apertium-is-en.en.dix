@@ -12273,6 +12273,7 @@
     <e lm="detail"><i>detail</i><par n="house__n"/></e>
     <e lm="whole nation"><i>whole<b/>nation</i><par n="east__n"/></e>
     <e lm="insomnia"><i>insomnia</i><par n="east__n"/></e>
+    <e lm="schizophrenia"><i>schizophrenia</i><par n="east__n"/></e>
     <e lm="detection"><i>detection</i><par n="house__n"/></e>
     <e lm="detective"><i>detective</i><par n="house__n"/></e>
     <e lm="detector"><i>detector</i><par n="house__n"/></e>
@@ -13220,6 +13221,7 @@
     <e lm="hour"><i>hour</i><par n="house__n"/></e>
     <e lm="agenda"><i>agenda</i><par n="house__n"/></e>
     <e lm="house"><i>house</i><par n="house__n"/></e>
+    <e lm="chute"><i>chute</i><par n="house__n"/></e>
     <e lm="use"><i>use</i><par n="house__n"/></e>
     <e lm="frost"><i>frost</i><par n="house__n"/></e>
     <e lm="household"><i>household</i><par n="house__n"/></e>
@@ -31493,6 +31495,7 @@
     <e lm="exotic"><i>exotic</i><par n="expensive__adj"/></e>
     <e lm="expansionary"><i>expansionary</i><par n="expensive__adj"/></e>
     <e lm="expensive"><i>expensive</i><par n="expensive__adj"/></e>
+    <e lm="indulgent"><i>indulgent</i><par n="expensive__adj"/></e>
     <e lm="experimental"><i>experimental</i><par n="expensive__adj"/></e>
     <e lm="expert"><i>expert</i><par n="expensive__adj"/></e>
     <e lm="explanatory"><i>explanatory</i><par n="expensive__adj"/></e>
@@ -33888,6 +33891,7 @@
     <e lm="give up"><i>g</i><par n="g/ive__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="give in marriage"><i>g</i><par n="g/ive__vblex"/><p><l><b/>in<b/>marriage</l><r><g><b/>in<b/>marriage</g></r></p></e>
     <e lm="get"><i>g</i><par n="g/et__vblex"/></e>
+    <e lm="beget"><i>beg</i><par n="beg/et__vblex"/></e>
     <e lm="get hold of"><i>g</i><par n="g/et__vblex"/><p><l><b/>hold<b/>of</l><r><g><b/>hold<b/>of</g></r></p></e>
     <e lm="get dark"><i>g</i><par n="g/et__vblex"/><p><l><b/>dark</l><r><g><b/>dark</g></r></p></e>
     <e lm="get longer"><i>g</i><par n="g/et__vblex"/><p><l><b/>longer</l><r><g><b/>longer</g></r></p></e>
