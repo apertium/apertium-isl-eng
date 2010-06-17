@@ -309,11 +309,11 @@
 
     <e><p><l>í<b/>vor<s n="adv"/></l><r>this<b/>spring<s n="adv"/></r></p></e>
     <e><p><l>í<b/>sumar<s n="adv"/></l><r>this<b/>summer<s n="adv"/></r></p></e>
-    <e><p><l>í<b/>haust<s n="adv"/></l><r>this<b/>fall<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>haust<s n="adv"/></l><r>this<b/>autumn<s n="adv"/></r></p></e>
     <e><p><l>í<b/>vetur<s n="adv"/></l><r>this<b/>winter<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrravor<s n="adv"/></l><r>last<b/>spring<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrrasumar<s n="adv"/></l><r>last<b/>summer<s n="adv"/></r></p></e>
-    <e><p><l>í<b/>fyrrahaust<s n="adv"/></l><r>last<b/>fall<s n="adv"/></r></p></e>
+    <e><p><l>í<b/>fyrrahaust<s n="adv"/></l><r>last<b/>autumn<s n="adv"/></r></p></e>
     <e><p><l>í<b/>fyrravetur<s n="adv"/></l><r>last<b/>winter<s n="adv"/></r></p></e>
 
     <e><p><l>klukkan<b/>eitt<s n="adv"/></l><r>one<b/>o'clock<s n="adv"/></r></p></e>
@@ -4344,11 +4344,13 @@
     <e><p><l>geta<s n="vblex"/><s n="pprs"/></l><r>be<g><b/>able<b/>to</g><s n="vblex"/><s n="ger"/></r></p></e>
 
     <!-- Might lexical selection better be done here manually? Surely 'beget' is used in few, fairly fixed contexts. -->
+    <!-- Added 'get' as a possible acception -->
     <e c="0"><p><l>geta<s n="vblex"/></l><r>be<b/>able<b/>to<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>geta<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
     <e slr="2"><p><l>geta<s n="vblex"/></l><r>guess<s n="vblex"/></r></p></e>
     <e slr="3"><p><l>geta<s n="vblex"/></l><r>mention<s n="vblex"/></r></p></e>
-    <e slr="4"><p><l>geta<s n="vblex"/></l><r>beget<s n="vblex"/></r></p></e>
+    <e slr="4"><p><l>geta<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
+    <e slr="5"><p><l>geta<s n="vblex"/></l><r>beget<s n="vblex"/></r></p></e>
 
     <e><p><l>mega<s n="vaux"/></l><r>may<s n="vaux"/></r></p></e>
 
@@ -6129,6 +6131,9 @@
     <e><p><l>teikna<s n="vblex"/></l><r>draw<s n="vblex"/></r></p></e>
     <e><p><l>telja<s n="vblex"/></l><r>count<s n="vblex"/></r></p></e>
     <e slr="1"><p><l>telja<s n="vblex"/></l><r>reckon<s n="vblex"/></r></p></e>
+    <e slr="2"><p><l>telja<s n="vblex"/></l><r>think<s n="vblex"/></r></p></e> <!-- FMT: 'think' is used more often than 'reckon' -->
+    <e slr="3"><p><l>telja<s n="vblex"/></l><r>believe<s n="vblex"/></r></p></e>
+    <e slr="4"><p><l>telja<s n="vblex"/></l><r>estimate<s n="vblex"/></r></p></e>
 <!--<p><l>temja<s n="vblex"/></l><r>break<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>bust<s n="vblex"/></r></p></e>-->
 <!--<p><l>temja<s n="vblex"/></l><r>domesticise<s n="vblex"/></r></p></e>-->
@@ -8200,6 +8205,9 @@
     <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
     <e slr="1"><p><l>maður<s n="n"/><s n="m"/><s n="sg"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
     <e slr="1"><p><l>maður<s n="n"/><s n="m"/><s n="pl"/></l><r>person<s n="n"/><s n="pl"/></r></p></e>
+    <e slr="2"><p><l>maður<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e> <!-- (short for eiginmaður)  -->
+    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>human<s n="n"/></r></p></e>-->
+    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>human<b/>being<s n="n"/></r></p></e>-->
 
     <e><p><l>ræðumaður<s n="n"/><s n="m"/></l><r>speaker<s n="n"/></r></p></e>
     <e><p><l>frændi<s n="n"/><s n="m"/></l><r>uncle<s n="n"/></r></p></e>
@@ -9041,7 +9049,12 @@
     <e><p><l>fagott<s n="n"/><s n="nt"/></l><r>bassoon<s n="n"/></r></p></e>
     <e><p><l>fagurfræði<s n="n"/><s n="f"/></l><r>aesthetics<s n="n"/></r></p></e>
     <e><p><l>faldur<s n="n"/><s n="m"/></l><r>hem<s n="n"/></r></p></e>
-    <e><p><l>fall<s n="n"/><s n="nt"/></l><r>fall<s n="n"/></r></p></e>
+    <e c="0"><p><l>fall<s n="n"/><s n="nt"/></l><r>fall<s n="n"/></r></p></e>
+    <e slr="1"><p><l>fall<s n="n"/><s n="nt"/></l><r>defeat<s n="n"/></r></p></e>
+    <e slr="2"><p><l>fall<s n="n"/><s n="nt"/></l><r>failure<s n="n"/></r></p></e>
+    <e slr="4"><p><l>fall<s n="n"/><s n="nt"/></l><r>birth<s n="n"/></r></p></e>
+    <e slr="5"><p><l>fall<s n="n"/><s n="nt"/></l><r>case<s n="n"/></r></p></e>
+    <e slr="6"><p><l>fall<s n="n"/><s n="nt"/></l><r>function<s n="n"/></r></p></e>
     <e><p><l>fallbyssa<s n="n"/><s n="f"/></l><r>cannon<s n="n"/></r></p></e>
     <!--<e><p><l>fangelsi<s n="n"/><s n="nt"/></l><r>gaol<s n="n"/></r></p></e>-->
     <!--<e><p><l>fangelsi<s n="n"/><s n="nt"/></l><r>jail<s n="n"/></r></p></e>-->
@@ -9885,11 +9898,10 @@
     <e slr="1"><p><l>hor<s n="n"/><s n="m"/></l><r>snot<s n="n"/></r></p></e>
     <e slr="2"><p><l>hor<s n="n"/><s n="m"/></l><r>bogie<s n="n"/></r></p></e>
 
-<!--
     <e r="LR"><p><l>horfur<s n="n"/><s n="f"/><s n="pl"/></l><r>prognosis<s n="n"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>horfur<s n="n"/><s n="f"/><s n="pl"/></l><r>prognosis<s n="n"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>horfur<s n="n"/><s n="f"/><s n="pl"/></l><r>prognosis<s n="n"/><s n="pl"/></r></p></e>
--->
+
     <e><p><l>hormón<s n="n"/><s n="nt"/></l><r>hormone<s n="n"/></r></p></e>
     <!--<e><p><l>horn<s n="n"/><s n="nt"/></l><r>angle<s n="n"/></r></p></e>-->
     <e><p><l>horn<s n="n"/><s n="nt"/></l><r>corner<s n="n"/></r></p></e>
@@ -10836,10 +10848,6 @@
     <e><p><l>maurildi<s n="n"/><s n="nt"/></l><r>phosphorescence<s n="n"/></r></p><par n="jarðfræði_geology__n"/></e>
     <!--<e><p><l>maurildi<s n="n"/><s n="nt"/></l><r>seafire<s n="n"/></r></p></e>-->
     <e><p><l>maí<s n="n"/><s n="nt"/></l><r>May<s n="n"/></r></p></e>
-    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>human<s n="n"/></r></p></e>-->
-    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e> --> <!-- (short for eiginmaður)  -->
-    <!--<e><p><l>maður<s n="n"/><s n="m"/></l><r>human<b/>being<s n="n"/></r></p></e>-->
-    <e><p><l>maður<s n="n"/><s n="m"/></l><r>man<s n="n"/></r></p></e>
     <e><p><l>meginland<s n="n"/><s n="nt"/></l><r>mainland<s n="n"/></r></p></e>
     <e><p><l>megn<s n="n"/><s n="nt"/></l><r>strength<s n="n"/></r></p></e>
 
@@ -13867,7 +13875,6 @@
     <e r="LR"><p><l>jólaleyfi<s n="n"/><s n="nt"/><s n="sg"/></l><r>Christmas<b/>holiday<s n="n"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>jólaleyfi<s n="n"/><s n="nt"/><s n="pl"/></l><r>Christmas<b/>holiday<s n="n"/><s n="pl"/></r></p></e>
     <e r="RL"><p><l>jólaleyfi<s n="n"/><s n="nt"/><s n="GD"/></l><r>Christmas<b/>holiday<s n="n"/><s n="pl"/></r></p></e>
-
 
     <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="sg"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>
     <e r="LR"><p><l>sérsveit<s n="n"/><s n="f"/><s n="pl"/></l><r>special<b/>forces<s n="n"/><s n="pl"/></r></p></e>

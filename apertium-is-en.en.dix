@@ -33066,6 +33066,7 @@
     <e lm="go berserk"><i></i><par n="/go__vblex"/><p><l><b/>berserk</l><r><g><b/>berserk</g></r></p></e>
     <e lm="go on strike"><i></i><par n="/go__vblex"/><p><l><b/>on<b/>strike</l><r><g><b/>on<b/>strike</g></r></p></e>
     <e lm="be born"><i></i><par n="/be__vblex"/><p><l><b/>born</l><r><g><b/>born</g></r></p></e>
+    <e lm="be of use"><i></i><par n="/be__vblex"/><p><l><b/>of<b/>use</l><r><g><b/>of<b/>use</g></r></p></e>
     <e lm="be damned"><i></i><par n="/be__vblex"/><p><l><b/>damned</l><r><g><b/>damned</g></r></p></e>
     <e lm="be shocked"><i></i><par n="/be__vblex"/><p><l><b/>shocked</l><r><g><b/>shocked</g></r></p></e>
     <e lm="be stuck"><i></i><par n="/be__vblex"/><p><l><b/>stuck</l><r><g><b/>stuck</g></r></p></e>
