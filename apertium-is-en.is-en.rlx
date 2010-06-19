@@ -212,7 +212,7 @@ REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 Ver
 REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER Conj LINK 1 VerbFin) (0 VerbFin) (0 Conj);
 
 #Að því loknu verður málið rætt á þingi.
-REMOVE N + Acc IF (0 Nom) (0 Acc) (NOT -1* N + Nom BARRIER CLB) (NOT 1* N + Nom BARRIER CLB) (NOT 1* ACCSUBJVERB BARRIER CLB) (NOT -1* ACCSUBJVERB BARRIER CLB);
+REMOVE N + Acc IF (0 Nom) (0 Acc) (NOT -1* Pron + Nom OR N + Nom BARRIER CLB) (NOT 1* Pron + Nom OR N + Nom BARRIER CLB) (NOT 1* ACCSUBJVERB BARRIER CLB) (NOT -1* ACCSUBJVERB BARRIER CLB);
 
 #Þór býr í höll sem heitir Bilskirnir
 REMOVE Adj IF (-1C Prep) (1 Conj | Rel);
@@ -555,6 +555,7 @@ MAP (@←SUBJ) TARGET ProperNom + Nom (-1C VerbFin) (0C ProperNom + Nom) (NOT -1
 #Litlu músina hafði stóra uglan étið í gær
 MAP (@OBJ→) TARGET N + Acc (1C VerbFin) (0C N + Acc);
 MAP (@←OBJ) TARGET N + Acc (-1C VerbFin) (0C N + Acc);
+MAP (@←OBJ) TARGET N + Acc (-1C VerbFin LINK -1C @SUBJ→) (0 N + Acc);
 
 # Check these 'auxv' with pp/supn and 'modv' with 'inf' ?
 MAP (@+FAUXV) TARGET VerbAux + TempsFin (NOT 1C* VerbAux + TempsFin BARRIER CLB) 
@@ -605,6 +606,8 @@ MAP (@X) TARGET VerbFin;
 MAP (@X) TARGET N;
 MAP (@X) TARGET ProperNom;
 MAP (@X) TARGET Det;
+
+#REMOVE (@X);
 
 # ganga# í vs. ganga+í
 #SUBSTITUTE (pr @X) (pr) Verb (0 (+í));

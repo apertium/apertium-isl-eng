@@ -83,7 +83,7 @@ SUBSTITUTE ("maður") ("maður:1") ("maður") + N (-1 @N→) (0 Gen);
 SUBSTITUTE ("maður") ("maður:1") ("maður") + N (-1 Num) (0 Gen);
 
 # "lag"       : {0: "layer", 2: "song"};
-SUBSTITUTE ("lag") ("lag:1") ("lag") + N (-1* ("syngja") + Verb BARRIER CLB);
+SUBSTITUTE ("lag") ("lag:1") ("lag") + N ((-1* ("syngja") + Verb BARRIER CLB) OR (1* ("syngja") + Verb BARRIER CLB));
 
 # "rektor"    : {0: "vice chancellor", 1: "headmaster"};
 
@@ -153,7 +153,11 @@ SUBSTITUTE ("á") ("á:2") ("á") + Prep (1C BUILDINGS);
 ## 
 
 # "rómanskur" : {0: "Romance", 1: "Latin"};
-SUBSTITUTE ("rómanskur") ("rómanskur:1") ("rómanskur") + Verb (1C ("Ameríka"));
+SUBSTITUTE ("rómanskur") ("rómanskur:1") ("rómanskur" adj) (1C ("Ameríka"));
+
+# "almennur": {0: "universal", 1: "common", 2: "general"}
+SUBSTITUTE:auto_r764  ("almennur") ("almennur:2") ("almennur" adj) (0 ("almennur")) (1 ("kosning"));
+SUBSTITUTE:auto_r78216  ("almennur") ("almennur:2") ("almennur" adj) (0 ("almennur")) (1 ("sjúkrahús")); 
 
 ## 
 ## ADVERBS
