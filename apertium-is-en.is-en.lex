@@ -118,9 +118,10 @@ SUBSTITUTE ("telja") ("telja:1") ("telja") + Verb (1C* ("að") BARRIER CLB);
 # "afgreiða" : {0: "serve", 1: "deal# with"};
 SUBSTITUTE ("afgreiða") ("afgreiða:1") ("afgreiða") + Verb (1 ("mál"));
 
-# "fylgja" :  {0:"accompany", 1:"keep# up", 2:"pay# attention"};
-SUBSTITUTE ("fylgja") ("fylgja:1") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB);
-SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja") + VerbMidv (1C* ("með") BARRIER CLB LINK 1* @←OBJ | @X BARRIER CLB);
+# "fylgja" :  {0:"accompany", 1:"keep# up", 2:"pay# attention", 3: "guide", 4: "support", 5: "follow"};
+SUBSTITUTE ("fylgja") ("fylgja:1") ("fylgja" midv) (1C* ("með") BARRIER CLB);
+SUBSTITUTE ("fylgja") ("fylgja:2") ("fylgja" midv) (1C* ("með") BARRIER CLB LINK 1* @←OBJ | @X BARRIER CLB);
+SUBSTITUTE ("fylgja") ("fylgja:5") ("fylgja" vblex) (0 ("fylgja" vblex)) (1* ("tengill") + @←OBJ | @X BARRIER CLB) ;
 
 # "heita"  : {0:"be# called", 1:"promise"};
 SUBSTITUTE ("heita") ("heita:1") ("heita") + Verb (1 Dat) (-1 Nom);
