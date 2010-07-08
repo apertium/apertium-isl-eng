@@ -32,7 +32,7 @@ apertiumPipelineCG="cg-proc is-en.rlx.bin | cg-proc -n is-en.lex.bin"
 
 standardIceNLP="java -Xmx768M -classpath $IceNLPCore/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -tm $IceNLPCore/dict/icetagger/otb.apertium.dict -sf -mt end"
 
-clientIceNLP=$IceNLPServer/sh/RunClient.sh $1
+clientIceNLP="$IceNLPServer/sh/RunClient.sh $1 | $IceNLPServer/sh/apertium-destxt.sh"
 
 # Execution
 if [ -n "$flagStandardIce" ]  # Is the variable defined?
