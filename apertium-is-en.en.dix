@@ -11895,6 +11895,7 @@
     <e lm="configuration"><i>configuration</i><par n="house__n"/></e>
     <e lm="confinement"><i>confinement</i><par n="house__n"/></e>
     <e lm="conflict"><i>conflict</i><par n="house__n"/></e>
+    <e lm="clash"><i>clash</i><par n="house__n"/></e>
     <e lm="conformism"><i>conformism</i><par n="house__n"/></e>
     <e lm="conformity"><i>conformit</i><par n="bab/y__n"/></e>
     <e lm="confrerie"><i>confrerie</i><par n="house__n"/></e>
