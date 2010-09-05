@@ -14212,6 +14212,7 @@
     <e lm="normalisation"><i>normalisation</i><par n="house__n"/></e>
 
     <e lm="smoking"><i>smoking</i><par n="east__n"/></e>
+    <e lm="abroad"><i>abroad</i><par n="east__n"/></e>
 
     <e lm="north"><i>north</i><par n="east__n"/></e>
     <e lm="east"><i>east</i><par n="east__n"/></e>
