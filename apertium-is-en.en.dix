@@ -38507,6 +38507,43 @@
     <e lm="e.g."><i>e.g.</i><par n="e.g.__abbr"/></e>
     <e lm="approx."><i>approx.</i><par n="e.g.__abbr"/></e>
     <e lm="BiH"><i>BiH</i><par n="e.g.__abbr"/></e> <!-- Bosnia and Hercegovina -->
+    <e lm="EU"><i>EU</i><par n="e.g.__abbr"/></e>
+    <e lm="NATO"><i>NATO</i><par n="e.g.__abbr"/></e>
+    <e lm="AFP"><i>AFP</i><par n="e.g.__abbr"/></e>
+    <e lm="RS"><i>RS</i><par n="e.g.__abbr"/></e>
+    <e lm="TV"><i>TV</i><par n="e.g.__abbr"/></e>
+    <e lm="OSCE"><i>OSCE</i><par n="e.g.__abbr"/></e>
+    <e lm="EC"><i>EC</i><par n="e.g.__abbr"/></e>
+    <e lm="UNMIK"><i>UNMIK</i><par n="e.g.__abbr"/></e>
+    <e lm="PKK"><i>PKK</i><par n="e.g.__abbr"/></e>
+    <e lm="RTS"><i>RTS</i><par n="e.g.__abbr"/></e>
+    <e lm="IMF"><i>IMF</i><par n="e.g.__abbr"/></e>
+    <e lm="HRT"><i>HRT</i><par n="e.g.__abbr"/></e>
+    <e lm="KFOR"><i>KFOR</i><par n="e.g.__abbr"/></e>
+    <e lm="AKP"><i>AKP</i><par n="e.g.__abbr"/></e>
+    <e lm="SFOR"><i>SFOR</i><par n="e.g.__abbr"/></e>
+    <e lm="VMRO"><i>VMRO</i><par n="e.g.__abbr"/></e>
+    <e lm="VOA"><i>VOA</i><par n="e.g.__abbr"/></e>
+    <e lm="RFE"><i>RFE</i><par n="e.g.__abbr"/></e>
+    <e lm="EP"><i>EP</i><par n="e.g.__abbr"/></e>
+    <e lm="EUFOR"><i>EUFOR</i><par n="e.g.__abbr"/></e>
+    <e lm="PSD"><i>PSD</i><par n="e.g.__abbr"/></e>
+    <e lm="HDZ"><i>HDZ</i><par n="e.g.__abbr"/></e>
+    <e lm="SDP"><i>SDP</i><par n="e.g.__abbr"/></e>
+    <e lm="DSS"><i>DSS</i><par n="e.g.__abbr"/></e>
+    <e lm="PASOK"><i>PASOK</i><par n="e.g.__abbr"/></e>
+    <e lm="BSP"><i>BSP</i><par n="e.g.__abbr"/></e>
+    <e lm="HIV"><i>HIV</i><par n="e.g.__abbr"/></e>
+    <e lm="SRS"><i>SRS</i><par n="e.g.__abbr"/></e>
+    <e lm="SDS"><i>SDS</i><par n="e.g.__abbr"/></e>
+    <e lm="BBC"><i>BBC</i><par n="e.g.__abbr"/></e>
+    <e lm="PNL"><i>PNL</i><par n="e.g.__abbr"/></e>
+    <e lm="UNESCO"><i>UNESCO</i><par n="e.g.__abbr"/></e>
+    <e lm="km"><i>km</i><par n="e.g.__abbr"/></e>
+    <e lm="m"><i>m</i><par n="e.g.__abbr"/></e>
+    <e lm="UN"><i>UN</i><par n="e.g.__abbr"/></e>
+    <e lm="Dr"><i>Dr</i><par n="e.g.__abbr"/></e>
+
 
 
     <e lm="according to" r="RL"><i>according<b/>to</i><par n="e.g.__abbr"/></e>
