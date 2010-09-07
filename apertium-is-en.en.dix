@@ -2397,6 +2397,8 @@
     <pardef n="prsubj__prn">
       <e>      <p>        <l>I</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>you</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p>        <l>you</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p>        <l>you</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
       <e>      <p>        <l>he</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>she</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>it</l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
@@ -2407,6 +2409,8 @@
     <pardef n="probj__prn">
       <e>      <p>        <l>me</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>you</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p>        <l>you</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p>        <l>you</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
       <e>      <p>        <l>him</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>her</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e>      <p>        <l>it</l>        <r>prpers<s n="prn"/><s n="obj"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e>
@@ -6748,6 +6752,7 @@
 
 
     <e lm="Erdogan"><i>Erdogan</i><par n="Smith__np"/></e>
+    <e lm="Zukorlić"><i>Zukorlić</i><par n="Smith__np"/></e>
     <e lm="Mladić"><i>Mladić</i><par n="Smith__np"/></e>
     <e lm="Tadić"><i>Tadić</i><par n="Smith__np"/></e>
     <e lm="Koštunica"><i>Koštunica</i><par n="Smith__np"/></e>
@@ -35621,6 +35626,7 @@
     <e lm="consider"><i>consider</i><par n="accept__vblex"/></e>
     <e lm="consign"><i>consign</i><par n="accept__vblex"/></e>
     <e lm="consist"><i>consist</i><par n="accept__vblex"/></e>
+    <e lm="consist of"><i>consist</i><par n="accept__vblex"/><p><l><b/>of</l><r><g><b/>of</g></r></p></e>
     <e lm="consolidate"><i>consolidat</i><par n="liv/e__vblex"/></e>
     <e lm="conspire"><i>conspir</i><par n="liv/e__vblex"/></e>
     <e lm="constitute"><i>constitut</i><par n="liv/e__vblex"/></e>
@@ -36745,6 +36751,7 @@
     <e lm="take care"><i>t</i><par n="t/ake__vblex"/><p><l><b/>care</l><r><g><b/>care</g></r></p></e>
     <e lm="take part"><i>t</i><par n="t/ake__vblex"/><p><l><b/>part</l><r><g><b/>part</g></r></p></e>
     <e lm="take place"><i>t</i><par n="t/ake__vblex"/><p><l><b/>place</l><r><g><b/>place</g></r></p></e>
+    <e lm="take over"><i>t</i><par n="t/ake__vblex"/><p><l><b/>over</l><r><g><b/>over</g></r></p></e>
     <e lm="tie"><i>t</i><par n="d/ie__vblex"/></e>
     <e lm="take advantage of"><i>t</i><par n="t/ake__vblex"/><p><l><b/>advantage<b/>of</l><r><g><b/>advantage<b/>of</g></r></p></e>
     <e lm="teach"><i>t</i><par n="t/each__vblex"/></e>
@@ -36873,7 +36880,8 @@
     <e lm="underwrite"><i>underwr</i><par n="wr/ite__vblex"/></e>
     <e lm="smite"><i>sm</i><par n="wr/ite__vblex"/></e>
     <e lm="write"><i>wr</i><par n="wr/ite__vblex"/></e>
-    <e lm="write"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>about</l><r><j/>about<s n="pr"/></r></p></e>
+    <e lm="write about"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>about</l><r><j/>about<s n="pr"/></r></p></e>
+    <e lm="write down"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>down</l><r><j/>down<s n="pr"/></r></p></e>
     <e lm="wrap"><i>wrap</i><par n="step__vblex"/></e>
     <e lm="zone"><i>zon</i><par n="liv/e__vblex"/></e>
 
