@@ -302,6 +302,11 @@
       <e r="LR"><i>Y</i></e>
       <e r="RL"><p><l>Y</l><r>y</r></p></e>
     </pardef>
+     
+    <pardef n="Zz">
+      <e r="LR"><i>Z</i></e>
+      <e r="RL"><p><l>Z</l><r>z</r></p></e>
+    </pardef>
         
     <pardef n="expensive__adj">
       <e>      <p>        <l></l>        <r><s n="adj"/></r></p></e>
@@ -32574,6 +32579,103 @@
     <e lm="unsuspecting"><i>unsuspecting</i><par n="expensive__adj"/></e>
     <e lm="happy looking"><i>happy<b/>looking</i><par n="expensive__adj"/></e>
 
+    <e lm="Adriatic"><par n="Aa"/><i>driatic</i><par n="expensive__adj"/></e>
+    <e lm="Algerian"><par n="Aa"/><i>lgerian</i><par n="expensive__adj"/></e>
+    <e lm="Anatolian"><par n="Aa"/><i>natolian</i><par n="expensive__adj"/></e>
+    <e lm="April"><par n="Aa"/><i>pril</i><par n="expensive__adj"/></e>
+    <e lm="Argentine"><par n="Aa"/><i>rgentine</i><par n="expensive__adj"/></e>
+    <e lm="Armenian"><par n="Aa"/><i>rmenian</i><par n="expensive__adj"/></e>
+    <e lm="Azerbaijani"><par n="Aa"/><i>zerbaijani</i><par n="expensive__adj"/></e>
+    <e lm="Banat"><par n="Bb"/><i>anat</i><par n="expensive__adj"/></e>
+    <e lm="Belgrade"><par n="Bb"/><i>elgrade</i><par n="expensive__adj"/></e>
+    <e lm="Berlin"><par n="Bb"/><i>erlin</i><par n="expensive__adj"/></e>
+    <e lm="Bitola"><par n="Bb"/><i>itola</i><par n="expensive__adj"/></e>
+    <e lm="Black Sea"><par n="Bb"/><i>lack<b/>Sea</i><par n="expensive__adj"/></e>
+    <e lm="Bologna"><par n="Bb"/><i>ologna</i><par n="expensive__adj"/></e>
+    <e lm="Bosnian"><par n="Bb"/><i>osnian</i><par n="expensive__adj"/></e>
+    <e lm="Caucasian"><par n="Cc"/><i>aucasian</i><par n="expensive__adj"/></e>
+    <e lm="Central Asian"><par n="Cc"/><i>entral<b/>Asian</i><par n="expensive__adj"/></e>
+    <e lm="Central European"><par n="Cc"/><i>entral<b/>European</i><par n="expensive__adj"/></e>
+    <e lm="Chechen"><par n="Cc"/><i>hechen</i><par n="expensive__adj"/></e>
+    <e lm="Christian-democratic"><par n="Cc"/><i>hristian-democratic</i><par n="expensive__adj"/></e>
+    <e lm="Croatian"><par n="Cc"/><i>roatian</i><par n="expensive__adj"/></e>
+    <e lm="Dalmatian"><par n="Dd"/><i>almatian</i><par n="expensive__adj"/></e>
+    <e lm="Danube"><par n="Dd"/><i>anube</i><par n="expensive__adj"/></e>
+    <e lm="Dayton"><par n="Dd"/><i>ayton</i><par n="expensive__adj"/></e>
+    <e lm="Dublin"><par n="Dd"/><i>ublin</i><par n="expensive__adj"/></e>
+    <e lm="East European"><par n="Ee"/><i>ast<b/>European</i><par n="expensive__adj"/></e>
+    <e lm="Estonian"><par n="Ee"/><i>stonian</i><par n="expensive__adj"/></e>
+    <e lm="Eurasian"><par n="Ee"/><i>urasian</i><par n="expensive__adj"/></e>
+    <e lm="Euro-Atlantic"><par n="Ee"/><i>uro-Atlantic</i><par n="expensive__adj"/></e>
+    <e lm="February"><par n="Ff"/><i>ebruary</i><par n="expensive__adj"/></e>
+    <e lm="Franciscan"><par n="Ff"/><i>ranciscan</i><par n="expensive__adj"/></e>
+    <e lm="Francophone"><par n="Ff"/><i>rancophone</i><par n="expensive__adj"/></e>
+    <e lm="Frankfurt"><par n="Ff"/><i>rankfurt</i><par n="expensive__adj"/></e>
+    <e lm="Herzegovinian"><par n="Hh"/><i>erzegovinian</i><par n="expensive__adj"/></e>
+    <e lm="Hittite"><par n="Hh"/><i>ittite</i><par n="expensive__adj"/></e>
+    <e lm="Islamist"><par n="Ii"/><i>slamist</i><par n="expensive__adj"/></e>
+    <e lm="Istanbul"><par n="Ii"/><i>stanbul</i><par n="expensive__adj"/></e>
+    <e lm="January"><par n="Jj"/><i>anuary</i><par n="expensive__adj"/></e>
+    <e lm="Kabul"><par n="Kk"/><i>abul</i><par n="expensive__adj"/></e>
+    <e lm="Kazakhstani"><par n="Kk"/><i>azakhstani</i><par n="expensive__adj"/></e>
+    <e lm="Kosovar"><par n="Kk"/><i>osovar</i><par n="expensive__adj"/></e>
+    <e lm="Kuwaiti"><par n="Kk"/><i>uwaiti</i><par n="expensive__adj"/></e>
+    <e lm="Latin American"><par n="Ll"/><i>atin<b/>American</i><par n="expensive__adj"/></e>
+    <e lm="Libyan"><par n="Ll"/><i>ibyan</i><par n="expensive__adj"/></e>
+    <e lm="Lichensteinian"><par n="Ll"/><i>ichensteinian</i><par n="expensive__adj"/></e>
+    <e lm="Lisbon"><par n="Ll"/><i>isbon</i><par n="expensive__adj"/></e>
+    <e lm="Ljubljana"><par n="Ll"/><i>jubljana</i><par n="expensive__adj"/></e>
+    <e lm="London"><par n="Ll"/><i>ondon</i><par n="expensive__adj"/></e>
+    <e lm="Madrid"><par n="Mm"/><i>adrid</i><par n="expensive__adj"/></e>
+    <e lm="Malaysian"><par n="Mm"/><i>alaysian</i><par n="expensive__adj"/></e>
+    <e lm="Mandarin"><par n="Mm"/><i>andarin</i><par n="expensive__adj"/></e>
+    <e lm="Moldovan"><par n="Mm"/><i>oldovan</i><par n="expensive__adj"/></e>
+    <e lm="Mongol"><par n="Mm"/><i>ongol</i><par n="expensive__adj"/></e>
+    <e lm="Morrocan"><par n="Mm"/><i>orrocan</i><par n="expensive__adj"/></e>
+    <e lm="Moscovite"><par n="Mm"/><i>oscovite</i><par n="expensive__adj"/></e>
+    <e lm="Neolithic"><par n="Nn"/><i>eolithic</i><par n="expensive__adj"/></e>
+    <e lm="New Zealand"><par n="Nn"/><i>ew<b/>Zealand</i><par n="expensive__adj"/></e>
+    <e lm="North American"><par n="Nn"/><i>orth<b/>American</i><par n="expensive__adj"/></e>
+    <e lm="North Anatolian"><par n="Nn"/><i>orth<b/>Anatolian</i><par n="expensive__adj"/></e>
+    <e lm="Novi Sad"><par n="Nn"/><i>ovi<b/>Sad</i><par n="expensive__adj"/></e>
+    <e lm="Ohrid"><par n="Oo"/><i>hrid</i><par n="expensive__adj"/></e>
+    <e lm="Ottoman"><par n="Oo"/><i>ttoman</i><par n="expensive__adj"/></e>
+    <e lm="Pakistani"><par n="Pp"/><i>akistani</i><par n="expensive__adj"/></e>
+    <e lm="Peloponnesian"><par n="Pp"/><i>eloponnesian</i><par n="expensive__adj"/></e>
+    <e lm="Priština"><par n="Pp"/><i>riština</i><par n="expensive__adj"/></e>
+    <e lm="Qatar"><par n="Qq"/><i>atar</i><par n="expensive__adj"/></e>
+    <e lm="Roma"><par n="Rr"/><i>oma</i><par n="expensive__adj"/></e>
+    <e lm="Sarajevan"><par n="Ss"/><i>arajevan</i><par n="expensive__adj"/></e>
+    <e lm="Saudi"><par n="Ss"/><i>audi</i><par n="expensive__adj"/></e>
+    <e lm="Saxon"><par n="Ss"/><i>axon</i><par n="expensive__adj"/></e>
+    <e lm="Schengen"><par n="Ss"/><i>chengen</i><par n="expensive__adj"/></e>
+    <e lm="Shiite"><par n="Ss"/><i>hiite</i><par n="expensive__adj"/></e>
+    <e lm="Siberian"><par n="Ss"/><i>iberian</i><par n="expensive__adj"/></e>
+    <e lm="Singaporean"><par n="Ss"/><i>ingaporean</i><par n="expensive__adj"/></e>
+    <e lm="Skopjan"><par n="Ss"/><i>kopjan</i><par n="expensive__adj"/></e>
+    <e lm="Slavic"><par n="Ss"/><i>lavic</i><par n="expensive__adj"/></e>
+    <e lm="Slovak"><par n="Ss"/><i>lovak</i><par n="expensive__adj"/></e>
+    <e lm="South African"><par n="Ss"/><i>outh<b/>African</i><par n="expensive__adj"/></e>
+    <e lm="South European"><par n="Ss"/><i>outh<b/>European</i><par n="expensive__adj"/></e>
+    <e lm="South Korean"><par n="Ss"/><i>outh<b/>Korean</i><par n="expensive__adj"/></e>
+    <e lm="South Slavic"><par n="Ss"/><i>outh<b/>Slavic</i><par n="expensive__adj"/></e>
+    <e lm="Split"><par n="Ss"/><i>plit</i><par n="expensive__adj"/></e>
+    <e lm="Taliban"><par n="Tt"/><i>aliban</i><par n="expensive__adj"/></e>
+    <e lm="Thessaloniki"><par n="Tt"/><i>hessaloniki</i><par n="expensive__adj"/></e>
+    <e lm="Thracian"><par n="Tt"/><i>hracian</i><par n="expensive__adj"/></e>
+    <e lm="Tibetan"><par n="Tt"/><i>ibetan</i><par n="expensive__adj"/></e>
+    <e lm="Tirana"><par n="Tt"/><i>irana</i><par n="expensive__adj"/></e>
+    <e lm="Transylvanian"><par n="Tt"/><i>ransylvanian</i><par n="expensive__adj"/></e>
+    <e lm="Turkmen"><par n="Tt"/><i>urkmen</i><par n="expensive__adj"/></e>
+    <e lm="Uzbekistani"><par n="Uu"/><i>zbekistani</i><par n="expensive__adj"/></e>
+    <e lm="Venezuelan"><par n="Vv"/><i>enezuelan</i><par n="expensive__adj"/></e>
+    <e lm="Viennese"><par n="Vv"/><i>iennese</i><par n="expensive__adj"/></e>
+    <e lm="Washington"><par n="Ww"/><i>ashington</i><par n="expensive__adj"/></e>
+    <e lm="Western Balkan"><par n="Ww"/><i>estern<b/>Balkan</i><par n="expensive__adj"/></e>
+    <e lm="West European"><par n="Ww"/><i>est<b/>European</i><par n="expensive__adj"/></e>
+    <e lm="Zagreb"><par n="Zz"/><i>agreb</i><par n="expensive__adj"/></e>
+
+
     <e lm="two" r="RL"><i>two</i><par n="expensive__adj"/></e>
 
     <e lm="outrageous"><i>outrageous</i><par n="expensive__adj"/></e>
@@ -38243,6 +38345,7 @@
     <e lm="in addition to"><i>in<b/>addition<b/>to</i><par n="at__pr"/></e>
     <e lm="in compliance with"><i>in<b/>compliance<b/>with</i><par n="at__pr"/></e>
     <e lm="in front of"><i>in<b/>front<b/>of</i><par n="at__pr"/></e>
+    <e lm="in the middle of"><i>in<b/>the<b/>middle<b/>of</i><par n="at__pr"/></e>
     <e lm="in excess of"><i>in<b/>excess<b/>of</i><par n="at__pr"/></e>
     <e lm="in regard to"><i>in<b/>regard<b/>to</i><par n="at__pr"/></e>
     <e lm="in spite of"><i>in<b/>spite<b/>of</i><par n="at__pr"/></e>
