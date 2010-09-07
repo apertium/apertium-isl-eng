@@ -577,7 +577,7 @@
     </pardef>
     
     <pardef n="something__prn">
-      <e>      <p>        <l></l>        <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l></l>        <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/></r></p></e>
     </pardef>
     
     <pardef n="th/is__prn">
@@ -30577,6 +30577,7 @@
     <e lm="well made"><i>well<b/>made</i><par n="expensive__adj"/></e>
 
     <e lm="youthful"><i>youthful</i><par n="expensive__adj"/></e>
+    <e lm="safety"><i>safety</i><par n="expensive__adj"/></e> 
     <e lm="sinful"><i>sinful</i><par n="expensive__adj"/></e>
     <e lm="colourful"><i>colourful</i><par n="expensive__adj"/></e>
     <e lm="unsuspecting"><i>unsuspecting</i><par n="expensive__adj"/></e>
@@ -31059,6 +31060,7 @@
     <e lm="Portuguese"><par n="Pp"/><i>ortuguese</i><par n="expensive__adj"/></e>
     <e lm="Protestant"><par n="Pp"/><i>rotestant</i><par n="expensive__adj"/></e>
     <e lm="Russian"><par n="Rr"/><i>ussian</i><par n="expensive__adj"/></e>
+    <e lm="Romanian"><par n="Rr"/><i>omanian</i><par n="expensive__adj"/></e>
     <e lm="Scandinavian"><par n="Ss"/><i>candinavian</i><par n="expensive__adj"/></e>
     <e lm="Scottish"><par n="Ss"/><i>cottish</i><par n="expensive__adj"/></e>
     <e lm="Somali"><par n="Ss"/><i>omali</i><par n="expensive__adj"/></e>
