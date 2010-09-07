@@ -9968,6 +9968,70 @@
     <e lm="Adriana"><i>Adriana</i><par n="Mary__np"/></e>
     <e lm="Adrià"><i>Adrià</i><par n="Mark__np"/></e>
 
+    <e lm="Skopje"><i>Skopje</i><par n="Barcelona__np"/></e>
+    <e lm="Sarajevo"><i>Sarajevo</i><par n="Barcelona__np"/></e>
+    <e lm="Zagreb"><i>Zagreb</i><par n="Barcelona__np"/></e>
+    <e lm="Pristina"><i>Pristina</i><par n="Barcelona__np"/></e>
+    <e lm="The Hague"><i>The<b/>Hague</i><par n="Barcelona__np"/></e>
+    <e lm="Podgorica"><i>Podgorica</i><par n="Barcelona__np"/></e>
+    <e lm="Thessaloniki"><i>Thessaloniki</i><par n="Barcelona__np"/></e>
+    <e lm="Mostar"><i>Mostar</i><par n="Barcelona__np"/></e>
+    <e lm="Nicosia"><i>Nicosia</i><par n="Barcelona__np"/></e>
+    <e lm="Danube"><i>Danube</i><par n="Barcelona__np"/></e>
+    <e lm="Moldova"><i>Moldova</i><par n="Barcelona__np"/></e>
+    <e lm="Durrës"><i>Durrës</i><par n="Barcelona__np"/></e>
+    <e lm="Ohrid"><i>Ohrid</i><par n="Barcelona__np"/></e>
+    <e lm="Vojvodina"><i>Vojvodina</i><par n="Barcelona__np"/></e>
+    <e lm="Nicosia"><i>Nicosia</i><par n="Barcelona__np"/></e>
+    <e lm="Georgia "><i>Georgia<b/></i><par n="Barcelona__np"/></e>
+    <e lm="Dubrovnik"><i>Dubrovnik</i><par n="Barcelona__np"/></e>
+    <e lm="Burgas"><i>Burgas</i><par n="Barcelona__np"/></e>
+    <e lm="Split "><i>Split<b/></i><par n="Barcelona__np"/></e>
+    <e lm="Beijing"><i>Beijing</i><par n="Barcelona__np"/></e>
+    <e lm="Famagusta"><i>Famagusta</i><par n="Barcelona__np"/></e>
+    <e lm="Ljubljana"><i>Ljubljana</i><par n="Barcelona__np"/></e>
+    <e lm="Tetovo"><i>Tetovo</i><par n="Barcelona__np"/></e>
+    <e lm="Vatican City"><i>Vatican<b/>City</i><par n="Barcelona__np"/></e>
+    <e lm="Azerbaijan"><i>Azerbaijan</i><par n="Barcelona__np"/></e>
+    <e lm="Niš"><i>Niš</i><par n="Barcelona__np"/></e>
+    <e lm="Plovdiv"><i>Plovdiv</i><par n="Barcelona__np"/></e>
+    <e lm="Dalmatia"><i>Dalmatia</i><par n="Barcelona__np"/></e>
+    <e lm="Belarus"><i>Belarus</i><par n="Barcelona__np"/></e>
+    <e lm="Vidin"><i>Vidin</i><par n="Barcelona__np"/></e>
+    <e lm="Sliven"><i>Sliven</i><par n="Barcelona__np"/></e>
+    <e lm="Venice"><i>Venice</i><par n="Barcelona__np"/></e>
+    <e lm="Stara Zagora"><i>Stara<b/>Zagora</i><par n="Barcelona__np"/></e>
+    <e lm="Petrich"><i>Petrich</i><par n="Barcelona__np"/></e>
+    <e lm="Montana"><i>Montana</i><par n="Barcelona__np"/></e>
+    <e lm="Veliko Tarnovo"><i>Veliko<b/>Tarnovo</i><par n="Barcelona__np"/></e>
+    <e lm="Dimitrovgrad"><i>Dimitrovgrad</i><par n="Barcelona__np"/></e>
+    <e lm="Blagoevgrad"><i>Blagoevgrad</i><par n="Barcelona__np"/></e>
+    <e lm="Shumen"><i>Shumen</i><par n="Barcelona__np"/></e>
+    <e lm="Pleven"><i>Pleven</i><par n="Barcelona__np"/></e>
+    <e lm="Lom"><i>Lom</i><par n="Barcelona__np"/></e>
+    <e lm="Kazanlak"><i>Kazanlak</i><par n="Barcelona__np"/></e>
+    <e lm="Goce Delchev"><i>Goce<b/>Delchev</i><par n="Barcelona__np"/></e>
+    <e lm="Yambol"><i>Yambol</i><par n="Barcelona__np"/></e>
+    <e lm="Svishtov"><i>Svishtov</i><par n="Barcelona__np"/></e>
+    <e lm="Razgrad"><i>Razgrad</i><par n="Barcelona__np"/></e>
+    <e lm="Lovech"><i>Lovech</i><par n="Barcelona__np"/></e>
+    <e lm="Dobrich"><i>Dobrich</i><par n="Barcelona__np"/></e>
+    <e lm="Byzantia"><i>Byzantia</i><par n="Barcelona__np"/></e>
+    <e lm="Romania"><i>Romania</i><par n="Barcelona__np"/></e>
+    <e lm="Pazardzhik"><i>Pazardzhik</i><par n="Barcelona__np"/></e>
+    <e lm="Vratsa"><i>Vratsa</i><par n="Barcelona__np"/></e>
+    <e lm="Vojvodina"><i>Vojvodina</i><par n="Barcelona__np"/></e>
+    <e lm="Vit"><i>Vit</i><par n="Barcelona__np"/></e>
+    <e lm="USSR"><i>USSR</i><par n="Barcelona__np"/></e>
+    <e lm="Tirana"><i>Tirana</i><par n="Barcelona__np"/></e>
+    <e lm="Smolyan"><i>Smolyan</i><par n="Barcelona__np"/></e>
+    <e lm="Russia"><i>Russia</i><par n="Barcelona__np"/></e>
+    <e lm="Kyustendil"><i>Kyustendil</i><par n="Barcelona__np"/></e>
+    <e lm="Kosovo"><i>Kosovo</i><par n="Barcelona__np"/></e>
+    <e lm="Japan"><i>Japan</i><par n="Barcelona__np"/></e>
+    <e lm="Greece"><i>Greece</i><par n="Barcelona__np"/></e>
+
+
     <e lm="Florida"><i>Florida</i><par n="Barcelona__np"/></e>
     <e lm="Macedonia"><i>Macedonia</i><par n="Barcelona__np"/></e>
     <e lm="Finnmark"><i>Finnmark</i><par n="Barcelona__np"/></e>
@@ -10533,6 +10597,205 @@
 
     <e lm="a day's journey"><p><l>a<b/>day's<b/>journey</l><r>a<b/>day's<b/>journey<s n="n"/><s n="sg"/></r></p></e>
     <e lm="a day's journey"><p><l>some<b/>days'<b/>journey</l><r>a<b/>day's<b/>journey<s n="n"/><s n="pl"/></r></p></e>
+
+    <e lm="plea"><i>plea</i><par n="house__n"/></e>
+    <e lm="media"><i>media</i><par n="east__n"/></e>
+    <e lm="Serb"><par n="Ss"/><i>erb</i><par n="house__n"/></e>
+    <e lm="statistic"><i>statistic</i><par n="house__n"/></e>
+    <e lm="olympiad"><i>olympiad</i><par n="house__n"/></e>
+    <e lm="download"><i>download</i><par n="house__n"/></e>
+    <e lm="statehood"><i>statehood</i><par n="east__n"/></e>
+    <e lm="Kurd"><par n="Kk"/><i>urd</i><par n="house__n"/></e>
+    <e lm="bribe"><i>bribe</i><par n="house__n"/></e>
+    <e lm="rememberance"><i>rememberance</i><par n="house__n"/></e>
+    <e lm="tolerance"><i>tolerance</i><par n="east__n"/></e>
+    <e lm="insurance"><i>insurance</i><par n="east__n"/></e>
+    <e lm="inconvenience"><i>inconvenience</i><par n="house__n"/></e>
+    <e lm="prevalence"><i>prevalence</i><par n="east__n"/></e>
+    <e lm="indifference"><i>indifference</i><par n="east__n"/></e>
+    <e lm="teleconference"><i>teleconference</i><par n="house__n"/></e>
+    <e lm="hand grenade"><i>hand<b/>grenade</i><par n="house__n"/></e>
+    <e lm="criminal code"><i>criminal<b/>code</i><par n="house__n"/></e>
+    <e lm="signage"><i>signage</i><par n="east__n"/></e>
+    <e lm="stoppage"><i>stoppage</i><par n="east__n"/></e>
+    <e lm="voyage"><i>voyage</i><par n="house__n"/></e>
+    <e lm="middle"><i>middle</i><par n="house__n"/></e>
+    <e lm="self-rule"><i>self-rule</i><par n="east__n"/></e>
+    <e lm="regime"><i>regime</i><par n="house__n"/></e>
+    <e lm="aubergine"><i>aubergine</i><par n="house__n"/></e>
+    <e lm="deadline"><i>deadline</i><par n="house__n"/></e>
+    <e lm="oil pipeline"><i>oil<b/>pipeline</i><par n="house__n"/></e>
+    <e lm="gas pipeline"><i>gas<b/>pipeline</i><par n="house__n"/></e>
+    <e lm="shore"><i>shore</i><par n="house__n"/></e>
+    <e lm="trimestre"><i>trimestre</i><par n="house__n"/></e>
+    <e lm="compromise"><i>compromise</i><par n="house__n"/></e>
+    <e lm="expanse"><i>expanse</i><par n="house__n"/></e>
+    <e lm="mandate"><i>mandate</i><par n="house__n"/></e>
+    <e lm="stalemate"><i>stalemate</i><par n="house__n"/></e>
+    <e lm="directorate"><i>directorate</i><par n="house__n"/></e>
+    <e lm="revote"><i>revote</i><par n="house__n"/></e>
+    <e lm="freeze"><i>freeze</i><par n="house__n"/></e>
+    <e lm="general staff"><i>general<b/>staff</i><par n="house__n"/></e>
+    <e lm="refinancing"><i>refinancing</i><par n="east__n"/></e>
+    <e lm="loading"><i>loading</i><par n="east__n"/></e>
+    <e lm="spending"><i>spending</i><par n="east__n"/></e>
+    <e lm="flooding"><i>flooding</i><par n="east__n"/></e>
+    <e lm="skiing"><i>skiing</i><par n="east__n"/></e>
+    <e lm="baking"><i>baking</i><par n="east__n"/></e>
+    <e lm="decision-making"><i>decision-making</i><par n="east__n"/></e>
+    <e lm="labelling"><i>labelling</i><par n="east__n"/></e>
+    <e lm="dismantling"><i>dismantling</i><par n="east__n"/></e>
+    <e lm="naming"><i>naming</i><par n="east__n"/></e>
+    <e lm="renaming"><i>renaming</i><par n="east__n"/></e>
+    <e lm="streamlining"><i>streamlining</i><par n="east__n"/></e>
+    <e lm="mining"><i>mining</i><par n="east__n"/></e>
+    <e lm="air-conditioning"><i>air-conditioning</i><par n="east__n"/></e>
+    <e lm="questioning"><i>questioning</i><par n="east__n"/></e>
+    <e lm="cloning"><i>cloning</i><par n="house__n"/></e>
+    <e lm="kidnapping"><i>kidnapping</i><par n="house__n"/></e>
+    <e lm="laundering"><i>laundering</i><par n="east__n"/></e>
+    <e lm="racketeering"><i>racketeering</i><par n="east__n"/></e>
+    <e lm="tampering"><i>tampering</i><par n="east__n"/></e>
+    <e lm="cleansing"><i>cleansing</i><par n="east__n"/></e>
+    <e lm="central heating"><i>central<b/>heating</i><par n="east__n"/></e>
+    <e lm="vote-counting"><i>vote-counting</i><par n="east__n"/></e>
+    <e lm="borough"><i>borough</i><par n="house__n"/></e>
+    <e lm="ash"><i>ash</i><par n="access__n"/></e>
+    <e lm="outbreak"><i>outbreak</i><par n="house__n"/></e>
+    <e lm="tribunal"><i>tribunal</i><par n="house__n"/></e>
+    <e lm="admiral"><i>admiral</i><par n="house__n"/></e>
+    <e lm="spill"><i>spill</i><par n="house__n"/></e>
+    <e lm="sewerage system"><i>sewerage<b/>system</i><par n="house__n"/></e>
+    <e lm="hooliganism"><i>hooliganism</i><par n="east__n"/></e>
+    <e lm="secularism"><i>secularism</i><par n="east__n"/></e>
+    <e lm="Armenian"><par n="Aa"/><i>rmenian</i><par n="house__n"/></e>
+    <e lm="win"><i>win</i><par n="house__n"/></e>
+    <e lm="evasion"><i>evasion</i><par n="house__n"/></e>
+    <e lm="accession"><i>accession</i><par n="house__n"/></e>
+    <e lm="defusion"><i>defusion</i><par n="house__n"/></e>
+    <e lm="prequalification"><i>prequalification</i><par n="east__n"/></e>
+    <e lm="nullification"><i>nullification</i><par n="east__n"/></e>
+    <e lm="clarification"><i>clarification</i><par n="east__n"/></e>
+    <e lm="verification"><i>verification</i><par n="east__n"/></e>
+    <e lm="gasification"><i>gasification</i><par n="east__n"/></e>
+    <e lm="falsification"><i>falsification</i><par n="east__n"/></e>
+    <e lm="beatification"><i>beatification</i><par n="east__n"/></e>
+    <e lm="ratification"><i>ratification</i><par n="east__n"/></e>
+    <e lm="demystification"><i>demystification</i><par n="east__n"/></e>
+    <e lm="relocation"><i>relocation</i><par n="east__n"/></e>
+    <e lm="consolidation"><i>consolidation</i><par n="east__n"/></e>
+    <e lm="liquidation"><i>liquidation</i><par n="east__n"/></e>
+    <e lm="escalation"><i>escalation</i><par n="east__n"/></e>
+    <e lm="hyperinflation"><i>hyperinflation</i><par n="east__n"/></e>
+    <e lm="violation"><i>violation</i><par n="east__n"/></e>
+    <e lm="insulation"><i>insulation</i><par n="east__n"/></e>
+    <e lm="capitulation"><i>capitulation</i><par n="east__n"/></e>
+    <e lm="estimation"><i>estimation</i><par n="east__n"/></e>
+    <e lm="resignation"><i>resignation</i><par n="east__n"/></e>
+    <e lm="vaccination"><i>vaccination</i><par n="east__n"/></e>
+    <e lm="contamination"><i>contamination</i><par n="east__n"/></e>
+    <e lm="domination"><i>domination</i><par n="house__n"/></e>
+    <e lm="extermination"><i>extermination</i><par n="east__n"/></e>
+    <e lm="donation"><i>donation</i><par n="house__n"/></e>
+    <e lm="preoccupation"><i>preoccupation</i><par n="east__n"/></e>
+    <e lm="reparation"><i>reparation</i><par n="east__n"/></e>
+    <e lm="peacekeeping operation"><i>peacekeeping<b/>operation</i><par n="house__n"/></e>
+    <e lm="co-operation"><i>co-operation</i><par n="east__n"/></e>
+    <e lm="european integration"><i>european<b/>integration</i><par n="east__n"/></e>
+    <e lm="aspiration"><i>aspiration</i><par n="house__n"/></e>
+    <e lm="commemoration"><i>commemoration</i><par n="house__n"/></e>
+    <e lm="lustration"><i>lustration</i><par n="east__n"/></e>
+    <e lm="reconfiguration"><i>reconfiguration</i><par n="house__n"/></e>
+    <e lm="politicisation"><i>politicisation</i><par n="east__n"/></e>
+    <e lm="standardisation"><i>standardisation</i><par n="east__n"/></e>
+    <e lm="finalisation"><i>finalisation</i><par n="east__n"/></e>
+    <e lm="denationalisation"><i>denationalisation</i><par n="east__n"/></e>
+    <e lm="institutionalisation"><i>institutionalisation</i><par n="east__n"/></e>
+    <e lm="personalisation"><i>personalisation</i><par n="east__n"/></e>
+    <e lm="demoralisation"><i>demoralisation</i><par n="east__n"/></e>
+    <e lm="destabilisation"><i>destabilisation</i><par n="east__n"/></e>
+    <e lm="demobilisation"><i>demobilisation</i><par n="east__n"/></e>
+    <e lm="demilitarisation"><i>demilitarisation</i><par n="east__n"/></e>
+    <e lm="authorisation"><i>authorisation</i><par n="east__n"/></e>
+    <e lm="sensation"><i>sensation</i><par n="house__n"/></e>
+    <e lm="accreditation"><i>accreditation</i><par n="house__n"/></e>
+    <e lm="rehabilitation"><i>rehabilitation</i><par n="east__n"/></e>
+    <e lm="confrontation"><i>confrontation</i><par n="house__n"/></e>
+    <e lm="redaction"><i>redaction</i><par n="house__n"/></e>
+    <e lm="self-satisfaction"><i>self-satisfaction</i><par n="east__n"/></e>
+    <e lm="retraction"><i>retraction</i><par n="house__n"/></e>
+    <e lm="defection"><i>defection</i><par n="house__n"/></e>
+    <e lm="rejection"><i>rejection</i><par n="house__n"/></e>
+    <e lm="injection"><i>injection</i><par n="house__n"/></e>
+    <e lm="sanction"><i>sanction</i><par n="house__n"/></e>
+    <e lm="coproduction"><i>coproduction</i><par n="house__n"/></e>
+    <e lm="electricity production"><i>electricity<b/>production</i><par n="east__n"/></e>
+    <e lm="non-recognition"><i>non-recognition</i><par n="east__n"/></e>
+    <e lm="munition"><i>munition</i><par n="house__n"/></e>
+    <e lm="imposition"><i>imposition</i><par n="house__n"/></e>
+    <e lm="absorption"><i>absorption</i><par n="house__n"/></e>
+    <e lm="electricity distribution"><i>electricity<b/>distribution</i><par n="east__n"/></e>
+    <e lm="prosecution"><i>prosecution</i><par n="house__n"/></e>
+    <e lm="scenario"><i>scenario</i><par n="house__n"/></e>
+    <e lm="veto"><i>veto</i><par n="house__n"/></e>
+    <e lm="phone tap"><i>phone<b/>tap</i><par n="house__n"/></e>
+    <e lm="wasp"><i>wasp</i><par n="house__n"/></e>
+    <e lm="cover-up"><i>cover-up</i><par n="house__n"/></e>
+    <e lm="denar"><i>denar</i><par n="house__n"/></e>
+    <e lm="clergyman"><i>clergyman</i><par n="house__n"/></e>
+    <e lm="slander"><i>slander</i><par n="east__n"/></e>
+    <e lm="remainder"><i>remainder</i><par n="house__n"/></e>
+    <e lm="deputy prime minister"><i>deputy<b/>prime<b/>minister</i><par n="house__n"/></e>
+    <e lm="lawmaker"><i>lawmaker</i><par n="house__n"/></e>
+    <e lm="coworker"><i>coworker</i><par n="house__n"/></e>
+    <e lm="wrestler"><i>wrestler</i><par n="house__n"/></e>
+    <e lm="commissioner"><i>commissioner</i><par n="house__n"/></e>
+    <e lm="charter"><i>charter</i><par n="house__n"/></e>
+    <e lm="mediator"><i>mediator</i><par n="house__n"/></e>
+    <e lm="aeronautics"><i>aeronautics</i><par n="east__n"/></e>
+    <e lm="damages"><i>damages</i><par n="personnel__n"/></e>
+    <e lm="neighbourly relations"><i>neighbourly<b/>relations</i><par n="personnel__n"/></e>
+    <e lm="bass"><i>bass</i><par n="house__n"/></e>
+    <e lm="indebtedness"><i>indebtedness</i><par n="east__n"/></e>
+    <e lm="remoteness"><i>remoteness</i><par n="east__n"/></e>
+    <e lm="constructiveness"><i>constructiveness</i><par n="east__n"/></e>
+    <e lm="unwillingness"><i>unwillingness</i><par n="east__n"/></e>
+    <e lm="readiness"><i>readiness</i><par n="east__n"/></e>
+    <e lm="openness"><i>openness</i><par n="east__n"/></e>
+    <e lm="diplomat"><i>diplomat</i><par n="house__n"/></e>
+    <e lm="Croat"><par n="Cc"/><i>roat</i><par n="house__n"/></e>
+    <e lm="social democrat"><i>social<b/>democrat</i><par n="house__n"/></e>
+    <e lm="reinforcement"><i>reinforcement</i><par n="house__n"/></e>
+    <e lm="embezzlement"><i>embezzlement</i><par n="east__n"/></e>
+    <e lm="procurement"><i>procurement</i><par n="east__n"/></e>
+    <e lm="impeachment"><i>impeachment</i><par n="east__n"/></e>
+    <e lm="fulfillment"><i>fulfillment</i><par n="east__n"/></e>
+    <e lm="medical equipment"><i>medical<b/>equipment</i><par n="east__n"/></e>
+    <e lm="enactment"><i>enactment</i><par n="house__n"/></e>
+    <e lm="adjustment"><i>adjustment</i><par n="house__n"/></e>
+    <e lm="deployment"><i>deployment</i><par n="house__n"/></e>
+    <e lm="radio broadcast"><i>radio<b/>broadcast</i><par n="house__n"/></e>
+    <e lm="mistrust"><i>mistrust</i><par n="east__n"/></e>
+    <e lm="walkout"><i>walkout</i><par n="house__n"/></e>
+    <e lm="throw"><i>throw</i><par n="house__n"/></e>
+    <e lm="piracy"><i>piracy</i><par n="house__n"/></e>
+    <e lm="inefficiency"><i>inefficiency</i><par n="east__n"/></e>
+    <e lm="apology"><i>apolog</i><par n="bab/y__n"/></e>
+    <e lm="water supply"><i>water<b/>suppl</i><par n="bab/y__n"/></e>
+    <e lm="judiciary"><i>judiciar</i><par n="bab/y__n"/></e>
+    <e lm="under secretary"><i>under<b/>secretary</i><par n="bab/y__n"/></e>
+    <e lm="biochemistry"><i>biochemistry</i><par n="east__n"/></e>
+    <e lm="multi-ethnicity"><i>multi-ethnicity</i><par n="east__n"/></e>
+    <e lm="validity"><i>validity</i><par n="east__n"/></e>
+    <e lm="spontaneity"><i>spontaneity</i><par n="east__n"/></e>
+    <e lm="formality"><i>formality</i><par n="bab/y__n"/></e>
+    <e lm="unfunctionality"><i>unfunctionality</i><par n="east__n"/></e>
+    <e lm="universality"><i>universality</i><par n="east__n"/></e>
+    <e lm="stability"><i>stability</i><par n="east__n"/></e>
+    <e lm="instability"><i>instability</i><par n="east__n"/></e>
+    <e lm="loyalty"><i>loyalty</i><par n="east__n"/></e>
+    <e lm="faculty"><i>facult</i><par n="bab/y__n"/></e>
+
 
     <e lm="panda"><i>panda</i><par n="house__n"/></e>
     <e lm="koala"><i>koala</i><par n="house__n"/></e>
