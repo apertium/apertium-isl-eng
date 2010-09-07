@@ -12681,6 +12681,7 @@
     <e lm="excess"><i>excess</i><par n="access__n"/></e>
     <e lm="exchange"><i>exchange</i><par n="house__n"/></e>
     <e lm="foreign exchange"><i>foreign<b/>exchange</i><par n="house__n"/></e>
+    <e lm="stock exchange"><i>stock<b/>exchange</i><par n="house__n"/></e>
     <e lm="excitation"><i>excitation</i><par n="house__n"/></e>
     <e lm="excitement"><i>excitement</i><par n="house__n"/></e>
     <e lm="exclusion"><i>exclusion</i><par n="house__n"/></e>
@@ -30972,6 +30973,8 @@
     <e lm="Arab"><par n="Aa"/><i>rab</i><par n="expensive__adj"/></e>
     <e lm="Argentinian"><par n="Aa"/><i>rgentinian</i><par n="expensive__adj"/></e>
     <e lm="Asian"><par n="Aa"/><i>sian</i><par n="expensive__adj"/></e>
+    <e lm="Athenian"><par n="Aa"/><i>thenian</i><par n="expensive__adj"/></e>
+    <e lm="Athens"><par n="Aa"/><i>thens</i><par n="expensive__adj"/></e>
     <e lm="Australian"><par n="Aa"/><i>ustralian</i><par n="expensive__adj"/></e>
     <e lm="Austrian"><par n="Aa"/><i>ustrian</i><par n="expensive__adj"/></e>
     <e lm="Balearic"><par n="Bb"/><i>alearic</i><par n="expensive__adj"/></e>
@@ -31373,6 +31376,7 @@
     <e lm="cutting"><i>cutting</i><par n="expensive__adj"/></e>
     <e lm="daily"><i>daily</i><par n="expensive__adj"/></e>
     <e lm="dangerous"><i>dangerous</i><par n="expensive__adj"/></e>
+    <e lm="deadly"><i>deadly</i><par n="expensive__adj"/></e>
     <e lm="dark"><i>dark</i><par n="long/__adj"/></e>
     <e lm="dark brown"><i>dark</i><par n="long/__adj"/><p><l><b/>brown</l><r><g><b/>brown</g></r></p></e>
     <e lm="dead"><i>dead</i><par n="expensive__adj"/></e>
