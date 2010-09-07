@@ -13240,6 +13240,7 @@
     <e lm="agenda"><i>agenda</i><par n="house__n"/></e>
     <e lm="house"><i>house</i><par n="house__n"/></e>
     <e lm="chute"><i>chute</i><par n="house__n"/></e>
+    <e lm="donor"><i>donor</i><par n="house__n"/></e>
     <e lm="use"><i>use</i><par n="house__n"/></e>
     <e lm="frost"><i>frost</i><par n="house__n"/></e>
     <e lm="household"><i>household</i><par n="house__n"/></e>
@@ -15052,6 +15053,7 @@
     <e lm="repercussion"><i>repercussion</i><par n="house__n"/></e>
     <e lm="repertoire"><i>repertoire</i><par n="house__n"/></e>
     <e lm="repetition"><i>repetition</i><par n="house__n"/></e>
+    <e lm="petition"><i>petition</i><par n="house__n"/></e>
     <e lm="reply"><i>repl</i><par n="bab/y__n"/></e>
     <e lm="replication"><i>replication</i><par n="house__n"/></e>
     <e lm="report"><i>report</i><par n="house__n"/></e>
