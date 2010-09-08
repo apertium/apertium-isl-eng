@@ -6748,6 +6748,8 @@
     <e lm="Johan"><i>Johan</i><par n="Mark__np"/></e>
     <e lm="John"><i>John</i><par n="Mark__np"/></e>
     <e lm="Slobodan"><i>Slobodan</i><par n="Mark__np"/></e>
+    <e lm="Filip"><i>Filip</i><par n="Mark__np"/></e>
+    <e lm="Ivica"><i>Ivica</i><par n="Mark__np"/></e>
 
 
 
@@ -6823,7 +6825,7 @@
     <e lm="Đinđić"><i>Đinđić</i><par n="Smith__np"/></e>
     <e lm="Golem"><i>Golem</i><par n="Smith__np"/></e>
     <e lm="Mitreva"><i>Mitreva</i><par n="Smith__np"/></e>
-    <e lm="Štajner"><i>Štajner</i><par n="Smith__np"/></e>
+    <e lm="Steiner"><i>Steiner</i><par n="Smith__np"/></e>
     <e lm="Rugova"><i>Rugova</i><par n="Smith__np"/></e>
     <e lm="Čavić"><i>Čavić</i><par n="Smith__np"/></e>
     <e lm="Labus"><i>Labus</i><par n="Smith__np"/></e>
@@ -10356,6 +10358,7 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/></e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/></e>
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
+    <e lm="Xinhua"><i>Xinhua</i><par n="Linux__np"/></e>
     <e lm="Atlantic Ocean"><par n="Aa"/><i>tlantic<b/>Ocean</i><par n="Linux__np"/></e>
     <e lm="Pacific Ocean"><par n="Pp"/><i>acific<b/>Ocean</i><par n="Linux__np"/></e>
     <e lm="Morgunblað"><par n="Mm"/><i>orgunblað</i><par n="Linux__np"/></e>
@@ -12465,7 +12468,6 @@
     <e lm="workman"><i>workm</i><par n="m/an__n"/></e>
     <e lm="wrestling"><i>wrestling</i><par n="house__n"/></e>
     <e lm="zeppelin"><i>zeppelin</i><par n="house__n"/></e>
-    <e lm="zero"><i>zero</i><par n="house__n"/></e>
     <e lm="zip"><i>zip</i><par n="house__n"/></e>
 	
     <e lm="garda"><i>garda</i><par n="house__n"/></e>
@@ -32850,8 +32852,18 @@
     <e lm="disorderly"><i>disorderly</i><par n="expensive__adj"/></e>
     <e lm="fatherly"><i>fatherly</i><par n="expensive__adj"/></e>
     <e lm="soldierly"><i>soldierly</i><par n="expensive__adj"/></e>
+
+    <e lm="keen"><i>keen</i><par n="expensive__adj"/></e>
+
+    <e lm="eastern"><i>eastern</i><par n="expensive__adj"/></e>
+    <e lm="southern"><i>southern</i><par n="expensive__adj"/></e>
+    <e lm="western"><i>western</i><par n="expensive__adj"/></e>
+    <e lm="northern"><i>northern</i><par n="expensive__adj"/></e>
+    <e lm="easterly"><i>easterly</i><par n="expensive__adj"/></e>
+    <e lm="southerly"><i>southerly</i><par n="expensive__adj"/></e>
     <e lm="westerly"><i>westerly</i><par n="expensive__adj"/></e>
     <e lm="northerly"><i>northerly</i><par n="expensive__adj"/></e>
+
     <e lm="miserly"><i>miserly</i><par n="expensive__adj"/></e>
     <e lm="masterly"><i>masterly</i><par n="expensive__adj"/></e>
     <e lm="measly"><i>measl</i><par n="happ/y__adj"/></e>
@@ -32936,6 +32948,7 @@
     <e lm="toothless"><i>toothless</i><par n="expensive__adj"/></e>
     <e lm="aimless"><i>aimless</i><par n="expensive__adj"/></e>
     <e lm="bottomless"><i>bottomless</i><par n="expensive__adj"/></e>
+    <e lm="tourist"><i>tourist</i><par n="expensive__adj"/></e>
     <e lm="harmless"><i>harmless</i><par n="expensive__adj"/></e>
     <e lm="helpless"><i>helpless</i><par n="expensive__adj"/></e>
     <e lm="fearless"><i>fearless</i><par n="expensive__adj"/></e>
@@ -34142,7 +34155,6 @@
     <e lm="non-existent"><i>non-existent</i><par n="expensive__adj"/></e>
     <e lm="normal"><i>normal</i><par n="expensive__adj"/></e>
     <e lm="normative"><i>normative</i><par n="expensive__adj"/></e>
-    <e lm="north"><i>north</i><par n="long/__adj"/></e>
     <e lm="northern"><i>northern</i><par n="expensive__adj"/></e>
     <e lm="notable"><i>notable</i><par n="expensive__adj"/></e>
     <e lm="notarial"><i>notarial</i><par n="expensive__adj"/></e>
@@ -38186,6 +38198,7 @@
     <!-- Numerals -->
 	
     <e lm="one"><i>one</i><par n="one__num"/></e>
+    <e lm="zero"><i>zero</i><par n="two__num"/></e>
     <e lm="a hundred"><i>a<b/>hundred</i><par n="million__num"/></e>
     <e lm="a thousand"><i>a<b/>thousand</i><par n="million__num"/></e>
     <e lm="a million"><i>a<b/>million</i><par n="million__num"/></e>
