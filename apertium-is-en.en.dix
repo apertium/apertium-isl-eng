@@ -10438,6 +10438,8 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/></e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/></e>
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
+    <e lm="Insite"><i>Insite</i><par n="Linux__np"/></e>
+    <e lm="Airlines"><i>Airlines</i><par n="Linux__np"/></e>
     <e lm="Xinhua"><i>Xinhua</i><par n="Linux__np"/></e>
     <e lm="Atlantic Ocean"><par n="Aa"/><i>tlantic<b/>Ocean</i><par n="Linux__np"/></e>
     <e lm="Pacific Ocean"><par n="Pp"/><i>acific<b/>Ocean</i><par n="Linux__np"/></e>
@@ -10730,6 +10732,63 @@
     <e lm="freeze"><i>freeze</i><par n="house__n"/></e>
     <e lm="general staff"><i>general<b/>staff</i><par n="house__n"/></e>
     <e lm="refinancing"><i>refinancing</i><par n="east__n"/></e>
+
+    <e lm="beating"><i>beating</i><par n="east__n"/></e>
+    <e lm="blocking"><i>blocking</i><par n="east__n"/></e>
+    <e lm="boosting"><i>boosting</i><par n="east__n"/></e>
+    <e lm="bullying"><i>bullying</i><par n="east__n"/></e>
+    <e lm="burning"><i>burning</i><par n="east__n"/></e>
+    <e lm="causing"><i>causing</i><par n="east__n"/></e>
+    <e lm="constituting"><i>constituting</i><par n="east__n"/></e>
+    <e lm="deepening"><i>deepening</i><par n="east__n"/></e>
+    <e lm="discrediting"><i>discrediting</i><par n="east__n"/></e>
+    <e lm="electrical"><i>electrical</i><par n="east__n"/></e>
+    <e lm="engineering"><i>engineering</i><par n="east__n"/></e>
+    <e lm="favouring"><i>favouring</i><par n="east__n"/></e>
+    <e lm="fruit-growing"><i>fruit-growing</i><par n="east__n"/></e>
+    <e lm="hiding"><i>hiding</i><par n="east__n"/></e>
+    <e lm="initialling"><i>initialling</i><par n="east__n"/></e>
+    <e lm="licensing"><i>licensing</i><par n="east__n"/></e>
+    <e lm="listening"><i>listening</i><par n="east__n"/></e>
+    <e lm="loansharking"><i>loansharking</i><par n="east__n"/></e>
+    <e lm="mentioning"><i>mentioning</i><par n="east__n"/></e>
+    <e lm="microfinancing"><i>microfinancing</i><par n="east__n"/></e>
+    <e lm="mixing"><i>mixing</i><par n="east__n"/></e>
+    <e lm="modelling"><i>modelling</i><par n="east__n"/></e>
+    <e lm="naming"><i>naming</i><par n="east__n"/></e>
+    <e lm="nearing"><i>nearing</i><par n="east__n"/></e>
+    <e lm="non-functioning"><i>non-functioning</i><par n="east__n"/></e>
+    <e lm="overcharging"><i>overcharging</i><par n="east__n"/></e>
+    <e lm="overcoming"><i>overcoming</i><par n="east__n"/></e>
+    <e lm="overcrowding"><i>overcrowding</i><par n="east__n"/></e>
+    <e lm="overheating"><i>overheating</i><par n="east__n"/></e>
+    <e lm="prolonging"><i>prolonging</i><par n="east__n"/></e>
+    <e lm="provoking"><i>provoking</i><par n="east__n"/></e>
+    <e lm="questioning"><i>questioning</i><par n="east__n"/></e>
+    <e lm="raising"><i>raising</i><par n="east__n"/></e>
+    <e lm="redrawing"><i>redrawing</i><par n="east__n"/></e>
+    <e lm="refining"><i>refining</i><par n="east__n"/></e>
+    <e lm="regrouping"><i>regrouping</i><par n="east__n"/></e>
+    <e lm="resisting"><i>resisting</i><par n="east__n"/></e>
+    <e lm="restarting"><i>restarting</i><par n="east__n"/></e>
+    <e lm="sailing boat"><i>sailing<b/>boat</i><par n="house__n"/></e>
+    <e lm="shouting"><i>shouting</i><par n="east__n"/></e>
+    <e lm="skiing"><i>skiing</i><par n="east__n"/></e>
+    <e lm="sorting"><i>sorting</i><par n="east__n"/></e>
+    <e lm="spending"><i>spending</i><par n="east__n"/></e>
+    <e lm="spying"><i>spying</i><par n="east__n"/></e>
+    <e lm="tampering"><i>tampering</i><par n="east__n"/></e>
+    <e lm="terrorising"><i>terrorising</i><par n="east__n"/></e>
+    <e lm="testing"><i>testing</i><par n="east__n"/></e>
+    <e lm="undermining"><i>undermining</i><par n="east__n"/></e>
+    <e lm="upholding"><i>upholding</i><par n="east__n"/></e>
+    <e lm="usurping"><i>usurping</i><par n="east__n"/></e>
+    <e lm="washing"><i>washing</i><par n="east__n"/></e>
+    <e lm="wearing"><i>wearing</i><par n="east__n"/></e>
+
+
+
+
     <e lm="loading"><i>loading</i><par n="east__n"/></e>
     <e lm="spending"><i>spending</i><par n="east__n"/></e>
     <e lm="flooding"><i>flooding</i><par n="east__n"/></e>
@@ -12652,6 +12711,7 @@
     <e lm="African"><par n="Aa"/><i>frican</i><par n="house__n"/></e>
     <e lm="cardigan"><i>cardigan</i><par n="house__n"/></e>
     <e lm="Romanian"><par n="Rr"/><i>omanian</i><par n="house__n"/></e>
+    <e lm="Roma"><par n="Rr"/><i>oma</i><par n="house__n"/></e>
     <e lm="Hungarian"><par n="Hh"/><i>ungarian</i><par n="house__n"/></e>
     <e lm="hangman"><i>hangman</i><par n="house__n"/></e>
     <e lm="catamaran"><i>catamaran</i><par n="house__n"/></e>
@@ -35365,6 +35425,7 @@
     <e lm="evangelist"><i>evangelist</i><par n="expensive__adj"/></e>
     <e lm="extra"><i>extra</i><par n="expensive__adj"/></e>
     <e lm="extra"><i>extra</i><par n="maybe__adv"/></e>
+    <e lm="in total"><i>in<b/>total</i><par n="maybe__adv"/></e>
     <e lm="on average"><i>on<b/>average</i><par n="maybe__adv"/></e>
     <e lm="gross"><i>gross</i><par n="maybe__adv"/></e>
     <e lm="net"><i>net</i><par n="maybe__adv"/></e>
@@ -35811,6 +35872,7 @@
     <e lm="dive"><i>div</i><par n="liv/e__vblex"/></e>
     <e lm="hypnotise"><i>hypnotis</i><par n="liv/e__vblex"/></e>
     <e lm="screech"><i>screech</i><par n="approach__vblex"/></e>
+    <e lm="fetch"><i>fetch</i><par n="approach__vblex"/></e>
     <e lm="prolong"><i>prolong</i><par n="accept__vblex"/></e>
     <e lm="inch"><i>inch</i><par n="approach__vblex"/></e>
     <e lm="pinch"><i>pinch</i><par n="approach__vblex"/></e>
