@@ -2606,6 +2606,17 @@
     <e lm="such"><i>such</i><par n="other__det"/></e>
 
 
+    <e lm="Pedi"><i>Pedi</i><par n="Mary__np"/></e>
+    <e lm="Dora"><i>Dora</i><par n="Mary__np"/></e>
+    <e lm="Marija"><i>Marija</i><par n="Mary__np"/></e>
+    <e lm="Condoleezza"><i>Condoleezza</i><par n="Mary__np"/></e>
+    <e lm="Ilinka"><i>Ilinka</i><par n="Mary__np"/></e>
+    <e lm="Radmila"><i>Radmila</i><par n="Mary__np"/></e>
+    <e lm="Bet"><i>Bet</i><par n="Mary__np"/></e>
+    <e lm="Jadranka"><i>Jadranka</i><par n="Mary__np"/></e>
+    <e lm="Labina"><i>Labina</i><par n="Mary__np"/></e>
+    <e lm="Adi"><i>Adi</i><par n="Mary__np"/></e>
+
     <e lm="Jörgína"><i>Jörgína</i><par n="Mary__np"/></e>
     <e lm="Þóra"><i>Þóra</i><par n="Mary__np"/></e>
     <e lm="Ýr"><i>Ýr</i><par n="Mary__np"/></e>
@@ -4259,6 +4270,7 @@
     <e lm="Zunilda"><i>Zunilda</i><par n="Mary__np"/></e>
 
 
+    <e lm="Recep"><i>Recep</i><par n="Mark__np"/></e>
     <e lm="Rehn"><i>Rehn</i><par n="Mark__np"/></e>
     <e lm="Abdula"><i>Abdula</i><par n="Mark__np"/></e>
     <e lm="Hop"><i>Hop</i><par n="Mark__np"/></e>
@@ -6839,7 +6851,7 @@
     <e lm="Tadić"><i>Tadić</i><par n="Smith__np"/></e>
     <e lm="Koštunica"><i>Koštunica</i><par n="Smith__np"/></e>
     <e lm="Ashdown"><i>Ashdown</i><par n="Smith__np"/></e>
-    <e lm="Basescu"><i>Basescu</i><par n="Smith__np"/></e>
+    <e lm="Băsescu"><i>Băsescu</i><par n="Smith__np"/></e>
     <e lm="Gul"><i>Gul</i><par n="Smith__np"/></e>
     <e lm="Ponte"><i>Ponte</i><par n="Smith__np"/></e>
     <e lm="Sanader"><i>Sanader</i><par n="Smith__np"/></e>
@@ -10060,8 +10072,35 @@
     <e lm="Adriana"><i>Adriana</i><par n="Mary__np"/></e>
     <e lm="Adrià"><i>Adrià</i><par n="Mark__np"/></e>
 
+    <e lm="Srebrenica"><i>Srebrenica</i><par n="Barcelona__np"/></e>
+    <e lm="Radovan"><i>Radovan</i><par n="Barcelona__np"/></e>
+    <e lm="Mitrovica"><i>Mitrovica</i><par n="Barcelona__np"/></e>
+    <e lm="Vukovar"><i>Vukovar</i><par n="Barcelona__np"/></e>
+    <e lm="Brčko"><i>Brčko</i><par n="Barcelona__np"/></e>
+    <e lm="Split"><i>Split</i><par n="Barcelona__np"/></e>
+    <e lm="Osijek"><i>Osijek</i><par n="Barcelona__np"/></e>
+    <e lm="Diyarbakır"><i>Diyarbakır</i><par n="Barcelona__np"/></e>
+    <e lm="Kozloduj"><i>Kozloduj</i><par n="Barcelona__np"/></e>
+    <e lm="Alexandroupoli"><i>Alexandroupoli</i><par n="Barcelona__np"/></e>
+    <e lm="Foča"><i>Foča</i><par n="Barcelona__np"/></e>
+    <e lm="Krajina"><i>Krajina</i><par n="Barcelona__np"/></e>
+    <e lm="Mitrovica"><i>Mitrovica</i><par n="Barcelona__np"/></e>
+    <e lm="Srebrenica"><i>Srebrenica</i><par n="Barcelona__np"/></e>
+    <e lm="Diyarbakir"><i>Diyarbakir</i><par n="Barcelona__np"/></e>
+    <e lm="Split"><i>Split</i><par n="Barcelona__np"/></e>
+    <e lm="Brčko"><i>Brčko</i><par n="Barcelona__np"/></e>
+    <e lm="Osijek"><i>Osijek</i><par n="Barcelona__np"/></e>
+    <e lm="Vukovar"><i>Vukovar</i><par n="Barcelona__np"/></e>
+    <e lm="Trnovo"><i>Trnovo</i><par n="Barcelona__np"/></e>
+    <e lm="Kozloduj"><i>Kozloduj</i><par n="Barcelona__np"/></e>
+    <e lm="Peštera"><i>Peštera</i><par n="Barcelona__np"/></e>
+    <e lm="Karnobat"><i>Karnobat</i><par n="Barcelona__np"/></e>
+    <e lm="Foča"><i>Foča</i><par n="Barcelona__np"/></e>
+
+
     <e lm="Skopje"><i>Skopje</i><par n="Barcelona__np"/></e>
     <e lm="Sarajevo"><i>Sarajevo</i><par n="Barcelona__np"/></e>
+    <e lm="Mitrovica"><i>Mitrovica</i><par n="Barcelona__np"/></e>
     <e lm="Zagreb"><i>Zagreb</i><par n="Barcelona__np"/></e>
     <e lm="Pristina"><i>Pristina</i><par n="Barcelona__np"/></e>
     <e lm="The Hague"><i>The<b/>Hague</i><par n="Barcelona__np"/></e>
@@ -32584,6 +32623,7 @@
     <e lm="phew"><i>phew</i><par n="hello__ij"/></e>
     <e lm="pshaw"><i>pshaw</i><par n="hello__ij"/></e>
     <e lm="shush"><i>shush</i><par n="hello__ij"/></e>
+    <e lm="just" r="RL"><i>just</i><par n="hello__ij"/></e>
     <e lm="see you later"><i>see<b/>you<b/>later</i><par n="hello__ij"/></e>
     <e lm="it takes all sorts to make a world"><i>it<b/>takes<b/>all<b/>sorts<b/>to<b/>make<b/>a<b/>world</i><par n="hello__ij"/></e>
     <e r="RL"><i>well</i><par n="hello__ij"/></e>
@@ -32681,6 +32721,14 @@
     <e lm="thousandth"><i>thousandth</i><par n="second__adj"/></e>
     <e lm="twelfth"><i>twelfth</i><par n="second__adj"/></e>
     <e lm="twentieth"><i>twentieth</i><par n="second__adj"/></e>
+    <e lm="two hundredth"><i>two<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="three hundredth"><i>three<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="four hundredth"><i>four<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="five hundredth"><i>five<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="six hundredth"><i>six<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="seven hundredth"><i>seven<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="eight hundredth"><i>eight<b/>hundredth</i><par n="second__adj"/></e>
+    <e lm="nine hundredth"><i>nine<b/>hundredth</i><par n="second__adj"/></e>
 
     <e lm="absolutely crazy"><i>absolutely<b/>crazy</i><par n="expensive__adj"/></e>
     <e lm="absolutely impossible"><i>absolutely<b/>impossible</i><par n="expensive__adj"/></e>
@@ -32782,7 +32830,7 @@
     <e lm="Moscovite"><par n="Mm"/><i>oscovite</i><par n="expensive__adj"/></e>
     <e lm="Neolithic"><par n="Nn"/><i>eolithic</i><par n="expensive__adj"/></e>
     <e lm="New Zealand"><par n="Nn"/><i>ew<b/>Zealand</i><par n="expensive__adj"/></e>
-    <e lm="North American"><par n="Nn"/><i>orth<b/>American</i><par n="expensive__adj"/></e>
+    <e lm="North Korean"><par n="Nn"/><i>orth<b/>Korean</i><par n="expensive__adj"/></e>
     <e lm="North Anatolian"><par n="Nn"/><i>orth<b/>Anatolian</i><par n="expensive__adj"/></e>
     <e lm="Novi Sad"><par n="Nn"/><i>ovi<b/>Sad</i><par n="expensive__adj"/></e>
     <e lm="Ohrid"><par n="Oo"/><i>hrid</i><par n="expensive__adj"/></e>
@@ -33570,7 +33618,7 @@
     <e lm="tennis"><i>tennis</i><par n="expensive__adj"/></e>
     <e lm="three-day"><i>three-day</i><par n="expensive__adj"/></e>
     <e lm="three-party"><i>three-party</i><par n="expensive__adj"/></e>
-    <e lm="tight"><i>tight</i><par n="expensive__adj"/></e>
+    <e lm="tight"><i>tight</i><par n="long/__adj"/></e>
     <e lm="titled"><i>titled</i><par n="expensive__adj"/></e>
     <e lm="titular"><i>titular</i><par n="expensive__adj"/></e>
     <e lm="tobacco"><i>tobacco</i><par n="expensive__adj"/></e>
@@ -35643,6 +35691,7 @@
     <e lm="clockwise"><i>clockwise</i><par n="maybe__adv"/></e>
     <e lm="freehand"><i>freehand</i><par n="maybe__adv"/></e>
     <e lm="bareback"><i>bareback</i><par n="maybe__adv"/></e>
+    <e lm="than" r="RL"><i>than</i><par n="maybe__adv"/></e>
     <e lm="yearly"><i>yearly</i><par n="maybe__adv"/></e>
     <e lm="comprehensively"><i>comprehensively</i><par n="maybe__adv"/></e>
     <e lm="conditionally"><i>conditionally</i><par n="maybe__adv"/></e>
@@ -35863,6 +35912,84 @@
     <e lm="publicise"><i>publicis</i><par n="liv/e__vblex"/></e>
     <e lm="theorise"><i>theoris</i><par n="liv/e__vblex"/></e>
 
+    <e lm="rob"><i>rob</i><par n="dub__vblex"/></e>
+    <e lm="plead"><i>plead</i><par n="accept__vblex"/></e>
+    <e lm="ground"><i>ground</i><par n="accept__vblex"/></e>
+    <e lm="wound"><i>wound</i><par n="accept__vblex"/></e>
+    <e lm="regard"><i>regard</i><par n="accept__vblex"/></e>
+    <e lm="cloud"><i>cloud</i><par n="accept__vblex"/></e>
+    <e lm="brace"><i>brac</i><par n="liv/e__vblex"/></e>
+    <e lm="cofinance"><i>cofinanc</i><par n="liv/e__vblex"/></e>
+    <e lm="distance"><i>distanc</i><par n="liv/e__vblex"/></e>
+    <e lm="upgrade"><i>upgrad</i><par n="liv/e__vblex"/></e>
+    <e lm="side"><i>sid</i><par n="liv/e__vblex"/></e>
+    <e lm="preside"><i>presid</i><par n="liv/e__vblex"/></e>
+    <e lm="discourage"><i>discourag</i><par n="liv/e__vblex"/></e>
+    <e lm="pledge"><i>pledg</i><par n="liv/e__vblex"/></e>
+    <e lm="infringe"><i>infring</i><par n="liv/e__vblex"/></e>
+    <e lm="plunge"><i>plung</i><par n="liv/e__vblex"/></e>
+    <e lm="smuggle"><i>smuggl</i><par n="liv/e__vblex"/></e>
+    <e lm="dismantle"><i>dismantl</i><par n="liv/e__vblex"/></e>
+    <e lm="battle"><i>battl</i><par n="liv/e__vblex"/></e>
+    <e lm="resettle"><i>resettl</i><par n="liv/e__vblex"/></e>
+    <e lm="belittle"><i>belittl</i><par n="liv/e__vblex"/></e>
+    <e lm="inflame"><i>inflam</i><par n="liv/e__vblex"/></e>
+    <e lm="welcome"><i>welcom</i><par n="liv/e__vblex"/></e>
+    <e lm="shape"><i>shap</i><par n="liv/e__vblex"/></e>
+    <e lm="persevere"><i>persever</i><par n="liv/e__vblex"/></e>
+    <e lm="expire"><i>expir</i><par n="liv/e__vblex"/></e>
+    <e lm="assure"><i>assur</i><par n="liv/e__vblex"/></e>
+    <e lm="mediate"><i>mediat</i><par n="liv/e__vblex"/></e>
+    <e lm="misappropriate"><i>misappropriat</i><par n="liv/e__vblex"/></e>
+    <e lm="congratulate"><i>congratulat</i><par n="liv/e__vblex"/></e>
+    <e lm="elimate"><i>elimat</i><par n="liv/e__vblex"/></e>
+    <e lm="underestimate"><i>underestimat</i><par n="liv/e__vblex"/></e>
+    <e lm="extradite"><i>extradit</i><par n="liv/e__vblex"/></e>
+    <e lm="starve"><i>starv</i><par n="liv/e__vblex"/></e>
+    <e lm="encroach"><i>encroach</i><par n="approach__vblex"/></e>
+    <e lm="lynch"><i>lynch</i><par n="approach__vblex"/></e>
+    <e lm="deblock"><i>deblock</i><par n="accept__vblex"/></e>
+    <e lm="rock"><i>rock</i><par n="accept__vblex"/></e>
+    <e lm="tank"><i>tank</i><par n="accept__vblex"/></e>
+    <e lm="blackmail"><i>blackmail</i><par n="accept__vblex"/></e>
+    <e lm="trail"><i>trail</i><par n="accept__vblex"/></e>
+    <e lm="stall"><i>stall</i><par n="accept__vblex"/></e>
+    <e lm="conform"><i>conform</i><par n="accept__vblex"/></e>
+    <e lm="refrain"><i>refrain</i><par n="accept__vblex"/></e>
+    <e lm="train"><i>train</i><par n="accept__vblex"/></e>
+    <e lm="ruin"><i>ruin</i><par n="accept__vblex"/></e>
+    <e lm="pardon"><i>pardon</i><par n="accept__vblex"/></e>
+    <e lm="overlap"><i>overlap</i><par n="step__vblex"/></e>
+    <e lm="skip"><i>skip</i><par n="step__vblex"/></e>
+    <e lm="gear"><i>gear</i><par n="accept__vblex"/></e>
+    <e lm="launder"><i>launder</i><par n="accept__vblex"/></e>
+    <e lm="water"><i>water</i><par n="accept__vblex"/></e>
+    <e lm="falter"><i>falter</i><par n="accept__vblex"/></e>
+    <e lm="bypass"><i>bypass</i><par n="approach__vblex"/></e>
+    <e lm="regress"><i>regress</i><par n="approach__vblex"/></e>
+    <e lm="intersect"><i>intersect</i><par n="accept__vblex"/></e>
+    <e lm="inhabit"><i>inhabit</i><par n="accept__vblex"/></e>
+    <e lm="prohibit"><i>prohibit</i><par n="admit__vblex"/></e>
+    <e lm="vomit"><i>vomit</i><par n="admit__vblex"/></e>
+    <e lm="account"><i>account</i><par n="accept__vblex"/></e>
+    <e lm="recount"><i>recount</i><par n="accept__vblex"/></e>
+    <e lm="amount"><i>amount</i><par n="accept__vblex"/></e>
+    <e lm="exempt"><i>exempt</i><par n="accept__vblex"/></e>
+    <e lm="broadcast"><i>broadcast</i><par n="accept__vblex"/></e>
+    <e lm="reinvest"><i>reinvest</i><par n="accept__vblex"/></e>
+    <e lm="oust"><i>oust</i><par n="accept__vblex"/></e>
+    <e lm="narrow"><i>narrow</i><par n="accept__vblex"/></e>
+    <e lm="avow"><i>avow</i><par n="accept__vblex"/></e>
+    <e lm="vblex>"><i>vblex></i><par n="accept__vblex"/></e>
+    <e lm="lobby"><i>lobb</i><par n="appl/y__vblex"/></e>
+    <e lm="survey"><i>survey</i><par n="accept__vblex"/></e>
+    <e lm="solidify"><i>solidif</i><par n="appl/y__vblex"/></e>
+    <e lm="qualify"><i>qualif</i><par n="appl/y__vblex"/></e>
+    <e lm="disqualify"><i>disqualif</i><par n="appl/y__vblex"/></e>
+    <e lm="verify"><i>verif</i><par n="appl/y__vblex"/></e>
+    <e lm="ratify"><i>ratif</i><par n="appl/y__vblex"/></e>
+
+
     <e lm="utilise"><i>utilis</i><par n="liv/e__vblex"/></e>
     <e lm="rinse"><i>rins</i><par n="liv/e__vblex"/></e>
     <e lm="browse"><i>brows</i><par n="liv/e__vblex"/></e>
@@ -36054,6 +36181,7 @@
     <e lm="bind"><i>b</i><par n="f/ind__vblex"/></e>
     <e lm="wind"><i>w</i><par n="f/ind__vblex"/></e>
     <e lm="wind up"><i>w</i><par n="f/ind__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
+    <e lm="wind down"><i>w</i><par n="f/ind__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="buy"><i>b</i><par n="b/uy__vblex"/></e>
     <e lm="bear"><i>b</i><par n="b/ear__vblex"/></e>
     <e lm="bear:1"><i>b</i><par n="b/ear__vblex"/></e>
@@ -36152,6 +36280,7 @@
     <e lm="carry out"><i>carr</i><par n="appl/y__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="carry"><i>carr</i><par n="appl/y__vblex"/></e>
     <e lm="carry on"><i>carr</i><par n="appl/y__vblex"/><p><l><b/>on</l><r><g><b/>on</g></r></p></e>
+    <e lm="carry out"><i>carr</i><par n="appl/y__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="cast"><i>cast</i><par n="cost__vblex"/></e>
     <e lm="castrate"><i>castrat</i><par n="liv/e__vblex"/></e>
     <e lm="catalog"><i>catalog</i><par n="accept__vblex"/></e>
@@ -36445,6 +36574,7 @@
     <e lm="sink"><i>s</i><par n="dr/ink__vblex"/></e>
     <e lm="draw"><i>dr</i><par n="dr/aw__vblex"/></e>
     <e lm="drive"><i>dr</i><par n="dr/ive__vblex"/></e>
+    <e lm="drive away"><i>dr</i><par n="dr/ive__vblex"/><p><l><b/>away</l><r><g><b/>away</g></r></p></e>
     <e lm="dry"><i>dr</i><par n="appl/y__vblex"/></e>
     <e lm="draft"><i>draft</i><par n="accept__vblex"/></e>
     <e lm="drag"><i>drag</i><par n="plug__vblex"/></e>
@@ -36787,6 +36917,7 @@
     <e lm="invoke"><i>invok</i><par n="liv/e__vblex"/></e>
     <e lm="involve"><i>involv</i><par n="liv/e__vblex"/></e>
     <e lm="iron"><i>iron</i><par n="accept__vblex"/></e>
+    <e lm="iron out"><i>iron</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="isolate"><i>isolat</i><par n="liv/e__vblex"/></e>
     <e lm="issue"><i>issu</i><par n="liv/e__vblex"/></e>
     <e lm="jog"><i>jog</i><par n="plug__vblex"/></e>
@@ -36809,6 +36940,7 @@
     <e lm="knock"><i>knock</i><par n="accept__vblex"/></e>
     <e lm="knock out"><i>knock</i><par n="accept__vblex"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="lay off"><i>la</i><par n="pa/y__vblex"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
+    <e lm="lay down"><i>la</i><par n="pa/y__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="lay"><i>la</i><par n="pa/y__vblex"/></e>
     <e lm="label"><i>label</i><par n="control__vblex"/></e>
     <e lm="lack"><i>lack</i><par n="accept__vblex"/></e>
@@ -37279,6 +37411,7 @@
     <e r="LR"><i>spe</i><par n="ble/ed__vblex"/></e>
     <e lm="specify"><i>specif</i><par n="appl/y__vblex"/></e>
     <e lm="speed"><i>speed</i><par n="accept__vblex"/></e>
+    <e lm="speed up"><i>speed</i><par n="accept__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="spell"><i>spel</i><par n="spel/l__vblex"/></e>
     <e lm="bleed"><i>ble</i><par n="ble/ed__vblex"/></e>
     <e lm="bleed to death"><i>ble</i><par n="ble/ed__vblex"/><p><l><b/>to<b/>death</l><r><g><b/>to<b/>death</g></r></p></e>
@@ -37371,6 +37504,8 @@
     <e lm="take off"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>off</l><r><g><b/>off</g></r></p></e>
     <e lm="take out"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>out</l><r><g><b/>out</g></r></p></e>
     <e lm="take care"><i>t</i><par n="t/ake__vblex"/><p><l><b/>care</l><r><g><b/>care</g></r></p></e>
+    <e lm="take effect"><i>t</i><par n="t/ake__vblex"/><p><l><b/>effect</l><r><g><b/>effect</g></r></p></e>
+    <e lm="take up"><i>t</i><par n="t/ake__vblex"/><p><l><b/>up</l><r><g><b/>up</g></r></p></e>
     <e lm="take part"><i>t</i><par n="t/ake__vblex"/><p><l><b/>part</l><r><g><b/>part</g></r></p></e>
     <e lm="take place"><i>t</i><par n="t/ake__vblex"/><p><l><b/>place</l><r><g><b/>place</g></r></p></e>
     <e lm="take over"><i>t</i><par n="t/ake__vblex"/><p><l><b/>over</l><r><g><b/>over</g></r></p></e>
@@ -37504,6 +37639,7 @@
     <e lm="write"><i>wr</i><par n="wr/ite__vblex"/></e>
     <e lm="write about"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>about</l><r><j/>about<s n="pr"/></r></p></e>
     <e lm="write down"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>down</l><r><j/>down<s n="pr"/></r></p></e>
+    <e lm="write down"><i>wr</i><par n="wr/ite__vblex"/><p><l><b/>down</l><r><g><b/>down</g></r></p></e>
     <e lm="wrap"><i>wrap</i><par n="step__vblex"/></e>
     <e lm="zone"><i>zon</i><par n="liv/e__vblex"/></e>
 
@@ -38828,6 +38964,8 @@
     <e lm="hundred" r="RL"><i>hundred</i><par n="two__num"/></e>
     <e lm="million" r="RL"><i>million</i><par n="two__num"/></e>
     <e lm="billion" r="RL"><i>billion</i><par n="two__num"/></e>
+    <e lm="thousand" r="RL"><i>thousand</i><par n="two__num"/></e>
+    <e lm="trillion" r="RL"><i>trillion</i><par n="two__num"/></e>
     <e lm="eleven"><i>eleven</i><par n="two__num"/></e>
     <e lm="twelve"><i>twelve</i><par n="two__num"/></e>
     <e lm="thirteen"><i>thirteen</i><par n="two__num"/></e>
@@ -38928,6 +39066,9 @@
 	
     <e><i>'s</i><par n="'s__gen"/></e>
     <e lm="about"><i>about</i><par n="at__pr"/></e>
+    <e lm="than"><i>than</i><par n="at__pr"/></e>
+    <e lm="plus"><i>plus</i><par n="at__pr"/></e>
+    <e lm="in the amount of"><i>in<b/>the<b/>amount<b/>of</i><par n="at__pr"/></e>
     <e lm="above"><i>above</i><par n="at__pr"/></e>
     <e lm="according"><i>according</i><par n="at__pr"/></e>
     <e lm="according to"><i>according<b/>to</i><par n="at__pr"/></e>
@@ -39112,6 +39253,63 @@
     <e lm="go Dutch"><i></i><par n="/go__vblex"/><p><l><b/>Dutch</l><r><g><b/>Dutch</g></r></p></e>
     <e r="RL"><i>sho</i><par n="sho/ot__vblex"/><p><l><b/>in<b/>the<b/>dark</l><r><g><b/>in<b/>the<b/>dark</g></r></p></e>
     <e lm="take for granted"><i>t</i><par n="t/ake__vblex__sep"/><par n="probj_dem__prn"/><p><l><b/>for<b/>granted</l><r><g><b/>for<b/>granted</g></r></p></e>
+
+
+    <e lm="cm"><i>cm</i><par n="e.g.__abbr"/></e>
+    <e lm="gr"><i>gr</i><par n="e.g.__abbr"/></e>
+    <e lm="AA"><i>AA</i><par n="e.g.__abbr"/></e>
+    <e lm="AG"><i>AG</i><par n="e.g.__abbr"/></e>
+    <e lm="ANA"><i>ANA</i><par n="e.g.__abbr"/></e>
+    <e lm="AO"><i>AO</i><par n="e.g.__abbr"/></e>
+    <e lm="AP"><i>AP</i><par n="e.g.__abbr"/></e>
+    <e lm="ATA"><i>ATA</i><par n="e.g.__abbr"/></e>
+    <e lm="BA"><i>BA</i><par n="e.g.__abbr"/></e>
+    <e lm="BAN"><i>BAN</i><par n="e.g.__abbr"/></e>
+    <e lm="BV"><i>BV</i><par n="e.g.__abbr"/></e>
+    <e lm="BVB"><i>BVB</i><par n="e.g.__abbr"/></e>
+    <e lm="BGNES"><i>BGNES</i><par n="e.g.__abbr"/></e>
+    <e lm="BIRN"><i>BIRN</i><par n="e.g.__abbr"/></e>
+    <e lm="BMW"><i>BMW</i><par n="e.g.__abbr"/></e>
+    <e lm="BNB"><i>BNB</i><par n="e.g.__abbr"/></e>
+    <e lm="BNR"><i>BNR</i><par n="e.g.__abbr"/></e>
+    <e lm="BNT"><i>BNT</i><par n="e.g.__abbr"/></e>
+    <e lm="BOK"><i>BOK</i><par n="e.g.__abbr"/></e>
+    <e lm="BTA"><i>BTA</i><par n="e.g.__abbr"/></e>
+    <e lm="BF"><i>BF</i><par n="e.g.__abbr"/></e>
+    <e lm="DZI"><i>DZI</i><par n="e.g.__abbr"/></e>
+    <e lm="DP"><i>DP</i><par n="e.g.__abbr"/></e>
+    <e lm="DPA"><i>DPA</i><par n="e.g.__abbr"/></e>
+    <e lm="DS"><i>DS</i><par n="e.g.__abbr"/></e>
+    <e lm="DSK"><i>DSK</i><par n="e.g.__abbr"/></e>
+    <e lm="DUI"><i>DUI</i><par n="e.g.__abbr"/></e>
+    <e lm="EBRD"><i>EBRD</i><par n="e.g.__abbr"/></e>
+    <e lm="EOD"><i>EOD</i><par n="e.g.__abbr"/></e>
+    <e lm="EON"><i>EON</i><par n="e.g.__abbr"/></e>
+    <e lm="MIA"><i>MIA</i><par n="e.g.__abbr"/></e>
+    <e lm="MPA"><i>MPA</i><par n="e.g.__abbr"/></e>
+    <e lm="NTV"><i>NTV</i><par n="e.g.__abbr"/></e>
+    <e lm="OVK"><i>OVK</i><par n="e.g.__abbr"/></e>
+    <e lm="DU"><i>DU</i><par n="e.g.__abbr"/></e>
+    <e lm="OHR"><i>OHR</i><par n="e.g.__abbr"/></e>
+    <e lm="PBS"><i>PBS</i><par n="e.g.__abbr"/></e>
+    <e lm="RTK"><i>RTK</i><par n="e.g.__abbr"/></e>
+    <e lm="RTRS"><i>RTRS</i><par n="e.g.__abbr"/></e>
+    <e lm="SDSM"><i>SDSM</i><par n="e.g.__abbr"/></e>
+    <e lm="SNSD"><i>SNSD</i><par n="e.g.__abbr"/></e>
+    <e lm="SP"><i>SP</i><par n="e.g.__abbr"/></e>
+    <e lm="SRNA"><i>SRNA</i><par n="e.g.__abbr"/></e>
+    <e lm="SS"><i>SS</i><par n="e.g.__abbr"/></e>
+    <e lm="TRT"><i>TRT</i><par n="e.g.__abbr"/></e>
+    <e lm="UPI"><i>UPI</i><par n="e.g.__abbr"/></e>
+    <e lm="FENA"><i>FENA</i><par n="e.g.__abbr"/></e>
+    <e lm="FP"><i>FP</i><par n="e.g.__abbr"/></e>
+    <e lm="FT"><i>FT</i><par n="e.g.__abbr"/></e>
+    <e lm="HINA"><i>HINA</i><par n="e.g.__abbr"/></e>
+    <e lm="HLC"><i>HLC</i><par n="e.g.__abbr"/></e>
+    <e lm="CIK"><i>CIK</i><par n="e.g.__abbr"/></e>
+    <e lm="bTV"><i>bTV</i><par n="e.g.__abbr"/></e>
+    <e lm="bg"><i>bg</i><par n="e.g.__abbr"/></e>
+    <e lm="St"><i>St</i><par n="e.g.__abbr"/></e>
 
 
     <e lm="A.D."><i>A.D.</i><par n="e.g.__abbr"/></e>
