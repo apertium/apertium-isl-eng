@@ -4273,7 +4273,10 @@
 
 
     <e lm="Recep"><i>Recep</i><par n="Mark__np"/></e>
-    <e lm="Rehn"><i>Rehn</i><par n="Mark__np"/></e>
+    <e lm="Ventsislav"><i>Ventsislav</i><par n="Mark__np"/></e>
+    <e lm="Dimitar"><i>Dimitar</i><par n="Mark__np"/></e>
+    <e lm="Ilija"><i>Ilija</i><par n="Mark__np"/></e>
+    <e lm="Mirča"><i>Mirča</i><par n="Mark__np"/></e>
     <e lm="Abdula"><i>Abdula</i><par n="Mark__np"/></e>
     <e lm="Hop"><i>Hop</i><par n="Mark__np"/></e>
     <e lm="Kalin"><i>Kalin</i><par n="Mark__np"/></e>
@@ -10292,6 +10295,24 @@
     <e lm="Beirut"><i>Beirut</i><par n="Barcelona__np"/></e>
     <e lm="Belgium"><i>Belgium</i><par n="Barcelona__np"/></e>
     <e lm="Belgrade"><i>Belgrade</i><par n="Barcelona__np"/></e>
+
+
+    <e lm="Varna"><i>Varna</i><par n="Barcelona__np"/></e>
+    <e lm="Dobruja"><i>Dobruja</i><par n="Barcelona__np"/></e>
+    <e lm="Dupnitsa"><i>Dupnitsa</i><par n="Barcelona__np"/></e>
+    <e lm="Rumelia"><i>Rumelia</i><par n="Barcelona__np"/></e>
+    <e lm="Silistra"><i>Silistra</i><par n="Barcelona__np"/></e>
+    <e lm="Nova Zagora"><i>Nova<b/>Zagora</i><par n="Barcelona__np"/></e>
+    <e lm="Gorna Orjahovica"><i>Gorna<b/>Orjahovica</i><par n="Barcelona__np"/></e>
+    <e lm="Asenovgrad"><i>Asenovgrad</i><par n="Barcelona__np"/></e>
+    <e lm="Aytos"><i>Aytos</i><par n="Barcelona__np"/></e>
+    <e lm="Botevgrad"><i>Botevgrad</i><par n="Barcelona__np"/></e>
+    <e lm="Velingrad"><i>Velingrad</i><par n="Barcelona__np"/></e>
+    <e lm="Pernik"><i>Pernik</i><par n="Barcelona__np"/></e>
+    <e lm="Samokov"><i>Samokov</i><par n="Barcelona__np"/></e>
+    <e lm="Troyan"><i>Troyan</i><par n="Barcelona__np"/></e>
+
+
     <e lm="Tirana"><i>Tirana</i><par n="Barcelona__np"/></e>
     <e lm="Berlin"><i>Berlin</i><par n="Barcelona__np"/></e>
     <e lm="Bernard"><i>Bernard</i><par n="Mark__np"/></e>
@@ -10479,6 +10500,166 @@
     <e lm="Libya"><i>Libya</i><par n="Barcelona__np"/></e>
     <e lm="Lima"><i>Lima</i><par n="Barcelona__np"/></e>
     <e lm="God"><i>God</i><par n="Linux__np"/></e>
+
+
+    <e lm="Blitz"><i>Blitz</i><par n="Linux__np"/></e>
+    <e lm="Sega"><i>Sega</i><par n="Linux__np"/></e>
+    <e lm="Vatan"><i>Vatan</i><par n="Linux__np"/></e>
+    <e lm="Vjesnik"><i>Vjesnik</i><par n="Linux__np"/></e>
+    <e lm="Guardian"><i>Guardian</i><par n="Linux__np"/></e>
+    <e lm="Danas"><i>Danas</i><par n="Linux__np"/></e>
+    <e lm="Darik"><i>Darik</i><par n="Linux__np"/></e>
+    <e lm="Dnevnik"><i>Dnevnik</i><par n="Linux__np"/></e>
+    <e lm="Evenimentul"><i>Evenimentul</i><par n="Linux__np"/></e>
+    <e lm="Express"><i>Express</i><par n="Linux__np"/></e>
+    <e lm="Ergenekon"><i>Ergenekon</i><par n="Linux__np"/></e>
+    <e lm="Euronews"><i>Euronews</i><par n="Linux__np"/></e>
+    <e lm="Zaman"><i>Zaman</i><par n="Linux__np"/></e>
+    <e lm="Independent"><i>Independent</i><par n="Linux__np"/></e>
+    <e lm="Makfax"><i>Makfax</i><par n="Linux__np"/></e>
+    <e lm="Mediapool"><i>Mediapool</i><par n="Linux__np"/></e>
+    <e lm="Mediafax"><i>Mediafax</i><par n="Linux__np"/></e>
+    <e lm="Miliyet"><i>Miliyet</i><par n="Linux__np"/></e>
+    <e lm="Monitor"><i>Monitor</i><par n="Linux__np"/></e>
+    <e lm="Naftemporiki"><i>Naftemporiki</i><par n="Linux__np"/></e>
+    <e lm="Olypmics"><i>Olypmics</i><par n="Linux__np"/></e>
+    <e lm="Radical"><i>Radical</i><par n="Linux__np"/></e>
+    <e lm="Rompres"><i>Rompres</i><par n="Linux__np"/></e>
+    <e lm="Tanjug"><i>Tanjug</i><par n="Linux__np"/></e>
+    <e lm="Turk"><i>Turk</i><par n="Linux__np"/></e>
+    <e lm="Focus"><i>Focus</i><par n="Linux__np"/></e>
+    <e lm="Fonet"><i>Fonet</i><par n="Linux__np"/></e>
+    <e lm="Hurriet"><i>Hurriet</i><par n="Linux__np"/></e>
+    <e lm="Shqip"><i>Shqip</i><par n="Linux__np"/></e>
+    <e lm="insite"><i>insite</i><par n="Linux__np"/></e>
+    <e lm="Channel"><i>Channel</i><par n="Linux__np"/></e>
+    <e lm="Interpol"><i>Interpol</i><par n="Linux__np"/></e>
+    <e lm="Beta"><i>Beta</i><par n="Linux__np"/></e>
+    <e lm="Kosova"><i>Kosova</i><par n="Linux__np"/></e>
+    <e lm="Pobjeda"><i>Pobjeda</i><par n="Linux__np"/></e>
+    <e lm="Realitatea"><i>Realitatea</i><par n="Linux__np"/></e>
+    <e lm="Fena"><i>Fena</i><par n="Linux__np"/></e>
+    <e lm="Aro"><i>Aro</i><par n="Linux__np"/></e>
+    <e lm="Večernji"><i>Večernji</i><par n="Linux__np"/></e>
+    <e lm="Vijesti"><i>Vijesti</i><par n="Linux__np"/></e>
+    <e lm="Dojče"><i>Dojče</i><par n="Linux__np"/></e>
+    <e lm="Zeri"><i>Zeri</i><par n="Linux__np"/></e>
+    <e lm="Katimerini"><i>Katimerini</i><par n="Linux__np"/></e>
+    <e lm="Kohajone"><i>Kohajone</i><par n="Linux__np"/></e>
+    <e lm="Nezavisne"><i>Nezavisne</i><par n="Linux__np"/></e>
+    <e lm="Turkish"><i>Turkish</i><par n="Linux__np"/></e>
+    <e lm="Shekulli"><i>Shekulli</i><par n="Linux__np"/></e>
+    <e lm="Gazette"><i>Gazette</i><par n="Linux__np"/></e>
+    <e lm="Javnosti"><i>Javnosti</i><par n="Linux__np"/></e>
+    <e lm="Anadolu"><i>Anadolu</i><par n="Linux__np"/></e>
+    <e lm="Avaz"><i>Avaz</i><par n="Linux__np"/></e>
+
+    <e lm="Milutinović"><i>Milutinović</i><par n="Smith__np"/></e>
+    <e lm="Stambolić"><i>Stambolić</i><par n="Smith__np"/></e>
+    <e lm="Pavković"><i>Pavković</i><par n="Smith__np"/></e>
+    <e lm="Acevski"><i>Acevski</i><par n="Smith__np"/></e>
+    <e lm="Berezovski"><i>Berezovski</i><par n="Smith__np"/></e>
+    <e lm="Blaževski"><i>Blaževski</i><par n="Smith__np"/></e>
+    <e lm="Božinovski"><i>Božinovski</i><par n="Smith__np"/></e>
+    <e lm="Važikovski"><i>Važikovski</i><par n="Smith__np"/></e>
+    <e lm="Velinovski"><i>Velinovski</i><par n="Smith__np"/></e>
+    <e lm="Dvorzinski"><i>Dvorzinski</i><par n="Smith__np"/></e>
+    <e lm="Dramski"><i>Dramski</i><par n="Smith__np"/></e>
+    <e lm="Zafirovski"><i>Zafirovski</i><par n="Smith__np"/></e>
+    <e lm="Kambovski"><i>Kambovski</i><par n="Smith__np"/></e>
+    <e lm="Kanarski"><i>Kanarski</i><par n="Smith__np"/></e>
+    <e lm="Klimovski"><i>Klimovski</i><par n="Smith__np"/></e>
+    <e lm="Kokunešoski"><i>Kokunešoski</i><par n="Smith__np"/></e>
+    <e lm="Lečevski"><i>Lečevski</i><par n="Smith__np"/></e>
+    <e lm="Mladenovski"><i>Mladenovski</i><par n="Smith__np"/></e>
+    <e lm="Nikovski"><i>Nikovski</i><par n="Smith__np"/></e>
+    <e lm="Peloponeski"><i>Peloponeski</i><par n="Smith__np"/></e>
+    <e lm="Samardžioski"><i>Samardžioski</i><par n="Smith__np"/></e>
+    <e lm="Spasovski"><i>Spasovski</i><par n="Smith__np"/></e>
+    <e lm="Stojmenovski"><i>Stojmenovski</i><par n="Smith__np"/></e>
+    <e lm="Stranski"><i>Stranski</i><par n="Smith__np"/></e>
+    <e lm="Trpčeski"><i>Trpčeski</i><par n="Smith__np"/></e>
+    <e lm="Cvetkoski"><i>Cvetkoski</i><par n="Smith__np"/></e>
+    <e lm="Žečev"><i>Žečev</i><par n="Smith__np"/></e>
+    <e lm="Štajner"><i>Štajner</i><par n="Smith__np"/></e>
+    <e lm="Đurđić"><i>Đurđić</i><par n="Smith__np"/></e>
+    <e lm="Jević"><i>Jević</i><par n="Smith__np"/></e>
+    <e lm="Jeknić"><i>Jeknić</i><par n="Smith__np"/></e>
+    <e lm="Johić"><i>Johić</i><par n="Smith__np"/></e>
+    <e lm="Juričić"><i>Juričić</i><par n="Smith__np"/></e>
+    <e lm="Dželić"><i>Dželić</i><par n="Smith__np"/></e>
+    <e lm="Alispahić"><i>Alispahić</i><par n="Smith__np"/></e>
+    <e lm="Besić"><i>Besić</i><par n="Smith__np"/></e>
+    <e lm="Bečibašić"><i>Bečibašić</i><par n="Smith__np"/></e>
+    <e lm="Blagaić"><i>Blagaić</i><par n="Smith__np"/></e>
+    <e lm="Boživić"><i>Boživić</i><par n="Smith__np"/></e>
+    <e lm="Božilović"><i>Božilović</i><par n="Smith__np"/></e>
+    <e lm="Bojičić"><i>Bojičić</i><par n="Smith__np"/></e>
+    <e lm="Bratić"><i>Bratić</i><par n="Smith__np"/></e>
+    <e lm="Varagić"><i>Varagić</i><par n="Smith__np"/></e>
+    <e lm="Velimirović"><i>Velimirović</i><par n="Smith__np"/></e>
+    <e lm="Viletić"><i>Viletić</i><par n="Smith__np"/></e>
+    <e lm="Vodinelić"><i>Vodinelić</i><par n="Smith__np"/></e>
+    <e lm="Vojković"><i>Vojković</i><par n="Smith__np"/></e>
+    <e lm="Davirović"><i>Davirović</i><par n="Smith__np"/></e>
+    <e lm="Dejanović"><i>Dejanović</i><par n="Smith__np"/></e>
+    <e lm="Dimitriević"><i>Dimitriević</i><par n="Smith__np"/></e>
+    <e lm="Dičić"><i>Dičić</i><par n="Smith__np"/></e>
+    <e lm="Dropulić"><i>Dropulić</i><par n="Smith__np"/></e>
+    <e lm="Ivančević"><i>Ivančević</i><par n="Smith__np"/></e>
+    <e lm="Ivić"><i>Ivić</i><par n="Smith__np"/></e>
+    <e lm="Kalaperović"><i>Kalaperović</i><par n="Smith__np"/></e>
+    <e lm="Kaluđerović"><i>Kaluđerović</i><par n="Smith__np"/></e>
+    <e lm="Kapaković"><i>Kapaković</i><par n="Smith__np"/></e>
+    <e lm="Kitarović"><i>Kitarović</i><par n="Smith__np"/></e>
+    <e lm="Kolobarić"><i>Kolobarić</i><par n="Smith__np"/></e>
+    <e lm="Kremenović"><i>Kremenović</i><par n="Smith__np"/></e>
+    <e lm="Krivdić"><i>Krivdić</i><par n="Smith__np"/></e>
+    <e lm="Križanić"><i>Križanić</i><par n="Smith__np"/></e>
+    <e lm="Lazić"><i>Lazić</i><par n="Smith__np"/></e>
+    <e lm="Lajsić"><i>Lajsić</i><par n="Smith__np"/></e>
+    <e lm="Leković"><i>Leković</i><par n="Smith__np"/></e>
+    <e lm="Lisčević"><i>Lisčević</i><par n="Smith__np"/></e>
+    <e lm="Maksumić"><i>Maksumić</i><par n="Smith__np"/></e>
+    <e lm="Mareković"><i>Mareković</i><par n="Smith__np"/></e>
+    <e lm="Martnović"><i>Martnović</i><par n="Smith__np"/></e>
+    <e lm="Medenić"><i>Medenić</i><par n="Smith__np"/></e>
+    <e lm="Mešković"><i>Mešković</i><par n="Smith__np"/></e>
+    <e lm="Mileković"><i>Mileković</i><par n="Smith__np"/></e>
+    <e lm="Mijić"><i>Mijić</i><par n="Smith__np"/></e>
+    <e lm="Mlivončić"><i>Mlivončić</i><par n="Smith__np"/></e>
+    <e lm="Nedić"><i>Nedić</i><par n="Smith__np"/></e>
+    <e lm="Niković"><i>Niković</i><par n="Smith__np"/></e>
+    <e lm="Ničić"><i>Ničić</i><par n="Smith__np"/></e>
+    <e lm="Novković"><i>Novković</i><par n="Smith__np"/></e>
+    <e lm="Pašić"><i>Pašić</i><par n="Smith__np"/></e>
+    <e lm="Pejanović"><i>Pejanović</i><par n="Smith__np"/></e>
+    <e lm="Pirgić"><i>Pirgić</i><par n="Smith__np"/></e>
+    <e lm="Polić"><i>Polić</i><par n="Smith__np"/></e>
+    <e lm="Pušić"><i>Pušić</i><par n="Smith__np"/></e>
+    <e lm="Rankić"><i>Rankić</i><par n="Smith__np"/></e>
+    <e lm="Redžepagić"><i>Redžepagić</i><par n="Smith__np"/></e>
+    <e lm="Ružić"><i>Ružić</i><par n="Smith__np"/></e>
+    <e lm="Santić"><i>Santić</i><par n="Smith__np"/></e>
+    <e lm="Simončić"><i>Simončić</i><par n="Smith__np"/></e>
+    <e lm="Stažić"><i>Stažić</i><par n="Smith__np"/></e>
+    <e lm="Staletović"><i>Staletović</i><par n="Smith__np"/></e>
+    <e lm="Stipčević"><i>Stipčević</i><par n="Smith__np"/></e>
+    <e lm="Sutlić"><i>Sutlić</i><par n="Smith__np"/></e>
+    <e lm="Tepavčević"><i>Tepavčević</i><par n="Smith__np"/></e>
+    <e lm="Terselić"><i>Terselić</i><par n="Smith__np"/></e>
+    <e lm="Trgovčević"><i>Trgovčević</i><par n="Smith__np"/></e>
+    <e lm="Hamović"><i>Hamović</i><par n="Smith__np"/></e>
+    <e lm="Hadžikapatanović"><i>Hadžikapatanović</i><par n="Smith__np"/></e>
+    <e lm="Cilić"><i>Cilić</i><par n="Smith__np"/></e>
+    <e lm="Čurić"><i>Čurić</i><par n="Smith__np"/></e>
+    <e lm="Šekarić"><i>Šekarić</i><par n="Smith__np"/></e>
+    <e lm="Škekić"><i>Škekić</i><par n="Smith__np"/></e>
+    <e lm="Elenovski"><i>Elenovski</i><par n="Smith__np"/></e>
+    <e lm="del Ponte"><i>del<b/>Ponte</i><par n="Smith__np"/></e>
+
+
+
     <e lm="Insite"><i>Insite</i><par n="Linux__np"/></e>
     <e lm="Airlines"><i>Airlines</i><par n="Linux__np"/></e>
     <e lm="Xinhua"><i>Xinhua</i><par n="Linux__np"/></e>
@@ -32616,6 +32797,8 @@
     <e lm="hello"><i>hello</i><par n="hello__ij"/></e>
     <e lm="thanks anyway"><i>thanks<b/>anyway</i><par n="hello__ij"/></e>
     <e lm="oh"><i>oh</i><par n="hello__ij"/></e>
+    <e lm="ok"><i>ok</i><par n="hello__ij"/></e>
+    <e lm="enough"><i>enough</i><par n="hello__ij"/></e>
     <e lm="yes"><i>yes</i><par n="hello__ij"/></e>
     <e lm="thanks"><i>thanks</i><par n="hello__ij"/></e>
     <e lm="thankyou"><i>thankyou</i><par n="hello__ij"/></e>
@@ -32824,6 +33007,7 @@
     <e lm="Ljubljana"><par n="Ll"/><i>jubljana</i><par n="expensive__adj"/></e>
     <e lm="London"><par n="Ll"/><i>ondon</i><par n="expensive__adj"/></e>
     <e lm="Madrid"><par n="Mm"/><i>adrid</i><par n="expensive__adj"/></e>
+    <e lm="Mycenaean"><par n="Mm"/><i>ycenaean</i><par n="expensive__adj"/></e>
     <e lm="Malaysian"><par n="Mm"/><i>alaysian</i><par n="expensive__adj"/></e>
     <e lm="Mandarin"><par n="Mm"/><i>andarin</i><par n="expensive__adj"/></e>
     <e lm="Moldovan"><par n="Mm"/><i>oldovan</i><par n="expensive__adj"/></e>
@@ -38824,6 +39008,7 @@
     <e lm="quite"><i>quite</i><par n="maybe__adv"/></e>
     <e lm="outer"><i>outer</i><par n="maybe__adv"/></e>
     <e lm="thrice"><i>thrice</i><par n="maybe__adv"/></e>
+    <e lm="by day"><i>by<b/>day</i><par n="maybe__adv"/></e>
     <e lm="onward"><i>onward</i><par n="maybe__adv"/></e>
     <e lm="homewards"><i>homewards</i><par n="maybe__adv"/></e>
     <e lm="in this country"><i>in<b/>this<b/>country</i><par n="maybe__adv"/></e>
