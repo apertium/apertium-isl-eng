@@ -445,6 +445,7 @@
   <def-var n="cur_verb_lem"/>
   <def-var n="cur_verb_fin"/>
   <def-var n="cur_subj_prn"/>
+  <def-var n="cur_subj"/>
   <def-var n="cur_subj_gen" v="&lt;m&gt;"/>
   <def-var n="cur_sent_adv"/>
   <def-var n="cur_adv_lema"/>
@@ -536,6 +537,7 @@
     <let><var n="cur_verb_lem"/>       <lit v=""/></let>
     <let><var n="cur_verb_fin"/>       <lit v=""/></let>
     <let><var n="cur_subj_prn"/>       <lit v=""/></let>
+    <let><var n="cur_subj"/>           <lit v=""/></let>
     <let><var n="cur_sent_adv"/>       <lit v=""/></let>
     <let><var n="cur_adv_lema"/>       <lit v=""/></let>
     <let><var n="cur_prn_lema"/>       <lit v=""/></let>
@@ -565,6 +567,31 @@
           <clip pos="1" side="sl" part="syntax"/>
         </let>
       </otherwise> 
+    </choose>
+
+    <choose>
+      <when>
+        <test>
+          <or>
+            <equal>
+              <clip pos="1" side="sl" part="syntax"/>
+              <lit-tag v="@←SUBJ"/>
+            </equal>
+            <equal>
+              <clip pos="1" side="sl" part="syntax"/>
+              <lit-tag v="@SUBJ→"/>
+            </equal>
+          </or>
+        </test>
+        <let>
+          <var n="cur_subj"/>
+          <concat>
+            <clip pos="1" side="sl" part="gen"/>
+            <clip pos="1" side="sl" part="nbr"/>
+          </concat>
+        </let>
+      </when>
+
     </choose>
   </def-macro>
 
@@ -1856,10 +1883,16 @@
         <choose>
          <when>
            <test>
-             <equal>
-               <var n="cur_subj_prn"/>
-               <lit v=""/>
-             </equal>
+             <and>
+               <equal>
+                 <var n="cur_subj"/>
+                 <lit v=""/>
+               </equal>
+               <equal>
+                 <var n="cur_subj_prn"/>
+                 <lit v=""/>
+               </equal>
+             </and>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
@@ -1976,10 +2009,16 @@
          </when>
          <when>
            <test>
-             <equal>
-               <var n="cur_subj_prn"/>
-               <lit-tag v="p3.nt.sg"/>
-             </equal>
+             <or>
+               <equal>
+                 <var n="cur_subj"/>
+                 <lit-tag v="nt.sg"/>
+               </equal>
+               <equal>
+                 <var n="cur_subj_prn"/>
+                 <lit-tag v="p3.nt.sg"/>
+               </equal>
+             </or>
            </test>
            <let>
              <clip pos="1" side="tl" part="lem"/>
