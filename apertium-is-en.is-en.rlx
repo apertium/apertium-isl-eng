@@ -105,7 +105,7 @@ SET OBL = Acc | Dat | Gen ;
 
 SET POST-DET = Adj | Det | N | Num | Adv ;
 SET PRE-N =  Adj | Det | (N Gen) | Num | (Pron Gen) | (Pron Dem) | CC ; # Det???
-
+SET NP-HEAD = N | Pron ; 
 SET WORD = N | Verb | Adj | Prep | Pron | Det | Adv | CC | CS | Interj | Num | ("\?") ;
 SET MARK =  COMMA | ("\\") | ("\;") ; #"
 SET WORDMARK = WORD | MARK ;
@@ -212,10 +212,13 @@ REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 Ver
 REMOVE Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER Conj LINK 1 VerbFin) (0 VerbFin) (0 Conj);
 
 #Að því loknu verður málið rætt á þingi.
-REMOVE N + Acc IF (0 Nom) (0 Acc) (NOT -1* Pron + Nom OR N + Nom BARRIER CLB) (NOT 1* Pron + Nom OR N + Nom BARRIER CLB) (NOT 1* ACCSUBJVERB BARRIER CLB) (NOT -1* ACCSUBJVERB BARRIER CLB);
+REMOVE N + Acc IF (0 Nom OR Acc) (NOT -1* Pron + Nom OR N + Nom BARRIER CLB) (NOT 1* Pron + Nom OR N + Nom BARRIER CLB) (NOT 1* ACCSUBJVERB BARRIER CLB) (NOT -1* ACCSUBJVERB BARRIER CLB);
 
 #Þór býr í höll sem heitir Bilskirnir
 REMOVE Adj IF (-1C Prep) (1 Conj | Rel);
+
+#Nánast allir Íslendingar nota nú netið með ADSL.
+REMOVE Nom IF (0C Nom OR Acc) (-1C* NP-HEAD + Nom + $$NUMBER LINK 1* VerbFin + $$NUMBER BARRIER CLB) (NOT -1* DATSUBJVERB OR ACCSUBJVERB BARRIER CLB);
 
 #################################################################################
 # Adverbs
