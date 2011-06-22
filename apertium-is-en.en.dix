@@ -390,6 +390,18 @@
       <e r="LR"><p>        <l>r</l>        <r><s n="adj"/><s n="comp"/></r></p></e>
       <e r="LR"><p>        <l>st</l>        <r><s n="adj"/><s n="sup"/></r></p></e>
     </pardef>
+
+    <pardef n="/many__adj">
+      <e>      <p>        <l>many</l>        <r>many<s n="adj"/><s n="sint"/></r></p></e>
+      <e>      <p>        <l>more</l>        <r>many<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+      <e>      <p>        <l>most</l>        <r>many<s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+    </pardef>
+
+    <pardef n="/much__adj">
+      <e>      <p>        <l>much</l>        <r>much<s n="adj"/><s n="sint"/></r></p></e>
+      <e>      <p>        <l>more</l>        <r>much<s n="adj"/><s n="sint"/><s n="comp"/></r></p></e>
+      <e>      <p>        <l>most</l>        <r>much<s n="adj"/><s n="sint"/><s n="sup"/></r></p></e>
+    </pardef>
     
     <pardef n="/good__adj">
       <e>      <p>        <l>good</l>        <r>good<s n="adj"/><s n="sint"/></r></p></e>
@@ -34260,6 +34272,8 @@
     <e lm="not bad"><i>not<b/></i><par n="/bad__adj"/></e>
     <e lm="skinny"><i>skinn</i><par n="happ/y__adj"/></e>
     <e lm="heavy"><i>heav</i><par n="happ/y__adj"/></e>
+    <e lm="many"><i></i><par n="/many__adj"/></e>
+    <e lm="much"><i></i><par n="/much__adj"/></e>
     <e lm="good"><i></i><par n="/good__adj"/></e>
     <e lm="respected"><i>respected</i><par n="expensive__adj"/></e>
     <e lm="separated"><i>separated</i><par n="expensive__adj"/></e>
@@ -36401,6 +36415,7 @@
     <e lm="rocky"><i>rock</i><par n="happ/y__adj"/></e>
     <e lm="unfriendly"><i>unfriendl</i><par n="happ/y__adj"/></e>
     <e lm="equally"><i>equally</i><par n="expensive__adj"/></e>
+    <e lm="equally many"><i>equally many</i><par n="expensive__adj"/></e>
     <e lm="externally"><i>externally</i><par n="maybe__adv"/></e>
     <e lm="centrally"><i>centrally</i><par n="maybe__adv"/></e>
     <e lm="fully"><i>fully</i><par n="expensive__adj"/></e>

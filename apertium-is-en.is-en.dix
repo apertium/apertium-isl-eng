@@ -1307,7 +1307,7 @@
 <!--<p><l>innlendur<s n="adj"/></l><r>local<s n="adj"/></r></p></e>-->
     <e><p><l>innri<s n="adj"/></l><r>inner<s n="adj"/></r></p></e>
 <!--<p><l>innri<s n="adj"/></l><r>internal<s n="adj"/></r></p></e>-->
-    <e><p><l>jafnmargur<s n="adj"/></l><r>equally<s n="adj"/></r></p></e> <!-- # many -->
+    <e><p><l>jafnmargur<s n="adj"/></l><r>equally many<s n="adj"/></r></p></e> <!-- # many -->
 <!--<p><l>jafnmikill<s n="adj"/></l><r>equable<s n="adj"/></r></p></e>-->
     <e><p><l>jafnmikill<s n="adj"/></l><r>equivalent<s n="adj"/></r></p></e>
 <!--<p><l>jafnmikill<s n="adj"/></l><r>even<s n="adj"/></r></p></e>-->
@@ -1512,7 +1512,7 @@
 <!--<p><l>marglitur<s n="adj"/></l><r>motley<s n="adj"/></r></p></e>-->
     <e><p><l>marglitur<s n="adj"/></l><r>multicoloured<s n="adj"/></r></p></e>
 <!--<p><l>marglitur<s n="adj"/></l><r>polychrome<s n="adj"/></r></p></e>-->
-    <e><p><l>margur<s n="adj"/></l><r>many<s n="adj"/></r></p></e>
+    <e><p><l>margur<s n="adj"/></l><r>many<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>margvíslegur<s n="adj"/></l><r>diverse<s n="adj"/></r></p></e>
 <!--<p><l>margvíslegur<s n="adj"/></l><r>varied<s n="adj"/></r></p></e>-->
     <e><p><l>markaðsettur<s n="adj"/></l><r>marketed<s n="adj"/></r></p></e>
@@ -1530,7 +1530,7 @@
     <e><p><l>meðallangur<s n="adj"/></l><r>medium<g><b/>length</g><s n="adj"/></r></p></e>
 <!--<p><l>mikill<s n="adj"/></l><r>big<s n="adj"/></r></p></e>-->
 <!--<p><l>mikill<s n="adj"/></l><r>great<s n="adj"/><s n="sint"/></r></p></e>-->
-    <e><p><l>mikill<s n="adj"/></l><r>much<s n="adj"/></r></p></e>
+    <e><p><l>mikill<s n="adj"/></l><r>much<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>mikilvægur<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
     <e><p><l>minniháttar<s n="adj"/></l><r>minor<s n="adj"/></r></p></e>
 <!--<p><l>minniháttar<s n="adj"/></l><r>secondary<s n="adj"/></r></p></e>-->
