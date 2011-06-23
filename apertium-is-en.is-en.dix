@@ -13559,7 +13559,8 @@
     <e><p><l>sakleysislegur<s n="adj"/></l><r>innocent<b/>looking<s n="adj"/></r></p></e>
     <e><p><l>loðinn<s n="adj"/></l><r>hairy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>veikur<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e> 	 
+    <e><p><l>samur<s n="adj"/></l><r>same<s n="adj"/></r></p></e> 
+    <!--e><p><l>samur<s n="prn"/></l><r>same<s n="adj"/></r></p></e--> 	 
     <e><p><l>óheppilegur<s n="adj"/></l><r>unfortunate<s n="adj"/></r></p></e> 	 
     <e><p><l>einn<s n="adj"/></l><r>only<s n="adj"/></r></p></e> 	 
     <e slr="1"><p><l>einn<s n="adj"/></l><r>alone<s n="adj"/></r></p></e> 	 
