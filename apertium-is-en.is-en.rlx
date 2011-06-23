@@ -341,6 +341,10 @@ SELECT Rel IF (-1C Coma) (0 ("er")) (1C* VerbFin BARRIER CLB);
 # sem hann sér í dag.
 REMOVE Refl IF (0 Refl) (0 VerbFin) (NOT -1* VerbFin BARRIER CLB) (NOT 1 VerbFin BARRIER CLB);
 
+# Hann meiddi sig, Hún meiddi sig, Það meiddi sig, Þeir meiddu sig ...
+SELECT Refl + $$GENDER + $$NUMBER IF (-1* PersPron + $$GENDER + $$NUMBER BARRIER CLB);
+SELECT Refl + $$GENDER + $$NUMBER IF (-1* N + $$GENDER + $$NUMBER BARRIER CLB);
+
 #################################################################################
 # Interrogative pronouns 
 #################################################################################

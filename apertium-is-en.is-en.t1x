@@ -1959,7 +1959,7 @@
              <lit-tag v="sg"/>
            </let>
          </when>
-         <when>
+         <!--when>
            <test>
              <equal>
                <var n="cur_subj_prn"/>
@@ -1982,8 +1982,8 @@
              <clip pos="1" side="tl" part="nbr"/>
              <lit-tag v="sg"/>
            </let>
-         </when>
-         <when>
+         </when-->
+         <!--when>
            <test>
              <equal>
                <var n="cur_subj_prn"/>
@@ -2006,8 +2006,8 @@
              <clip pos="1" side="tl" part="nbr"/>
              <lit-tag v="sg"/>
            </let>
-         </when>
-         <when>
+         </when-->
+         <!--when>
            <test>
              <or>
                <equal>
@@ -2036,7 +2036,7 @@
              <clip pos="1" side="tl" part="nbr"/>
              <lit-tag v="sg"/>
            </let>
-         </when>
+         </when-->
          <when>
            <test>
              <equal>
@@ -2085,7 +2085,7 @@
              <lit-tag v="pl"/>
            </let>
          </when>
-         <when>
+         <!--when>
            <test>
              <or>
                <equal>
@@ -2118,7 +2118,7 @@
              <clip pos="1" side="tl" part="nbr"/>
              <lit-tag v="pl"/>
            </let>
-         </when>
+         </when-->
        </choose>
       </when>
     </choose>
