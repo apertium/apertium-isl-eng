@@ -398,12 +398,12 @@
     <e><p><l>hvaða<s n="prn"/><s n="itg"/></l><r>which<s n="prn"/><s n="itg"/></r></p><par n="hvaða_which__prn"/></e>
 
     <!--e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="GD"/><s n="ND"/></r></p></e-->
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>himself<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>herself<s n="prn"/><s n="ref"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></l><r>itself<s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="sg"/></r></p></e> 
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="pl"/></r></p></e> 
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="f"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="pl"/></r></p></e> 
-    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="p3"/><s n="nt"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="p3"/><s n="pl"/></r></p></e> 
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="m"/><s n="sg"/></l><r>himself<s n="prn"/><s n="ref"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="f"/><s n="sg"/></l><r>herself<s n="prn"/><s n="ref"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="nt"/><s n="sg"/></l><r>itself<s n="prn"/><s n="ref"/><s n="nt"/><s n="sg"/></r></p></e> 
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="m"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="f"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
+    <e><p><l>sig<s n="prn"/><s n="ref"/><s n="nt"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
     <e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
     <!-- END Pronouns -->
 <!-- END Don't sort alphabetically -->
