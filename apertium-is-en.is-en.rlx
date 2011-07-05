@@ -14,11 +14,11 @@ DELIMITERS = "<.>" "<:>" "<!>" "<?>" "<|>" "<$.>" "<$:>" "<$!>" "<$?>" "<$|>" se
 LIST BOS = (>>>) (<s>) (sent) sent ; 
 LIST EOS = (<<<) (</s>) (sent) sent ; 
 
-LIST CLB = (sent) (cnjsub) (cm) (rel) (cnjcoo); 
+LIST CLB = sent cnjsub cm rel cnjcoo; 
 
 LIST Coma = (cm);
 LIST N = (n) ;
-LIST Num = (num) ("þúsund" n) ("milljón" n) ("milljarður" n) ("hundrað" n);
+LIST Num = (num) ("þúsund"i n) ("milljón"i n) ("milljarður"i n) ("hundrað"i n);
 LIST ProperNom = (np) ;
 LIST Adj = (adj) ;
 LIST Weak = (vei) ;
@@ -40,11 +40,11 @@ LIST VerbSpecAux = (vaux) ;
 LIST VerbAux = (vaux) (vbhaver) (vbser) ("verða" vblex) ("geta" vblex); ## check verða = aux ?
 LIST VerbSupine = (vblex supn) ;
 LIST VerbBe = (vbser) ;
-LIST Verb = (vblex) (vbser) (vbhaver) (vaux);
+LIST Verb = vblex vbser vbhaver vaux;
 LIST TempsFin = (pri) (past) (prs) (pss);
 LIST TempsIrreal = (prs) (pss);
 LIST Rel = (rel) ;
-LIST Conj = (cnjcoo) (cnjadv) (cnjsub) ;
+LIST Conj = cnjcoo cnjadv cnjsub ;
 LIST CC = (cnjcoo) ;
 LIST CS = (cnjsub) ;
 LIST Exclamation = (ij) ;
@@ -111,6 +111,7 @@ SET MARK =  COMMA | ("\\") | ("\;") ; #"
 SET WORDMARK = WORD | MARK ;
 
 SET NPNHA = WORDMARK - PRE-N - Adv ;
+
 
 
 SECTION
@@ -493,20 +494,27 @@ SELECT MODV + $$PERSON IF (1C PersPron + $$PERSON) (NOT 0 ("er"));
 REMOVE PP IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 PP);
 
 # Þetta er besti árangur minn.
-REMOVE ("er"ri) + Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 Conj);
+REMOVE ("er"i) + Conj IF (NOT -1* VerbFin BARRIER BOS) (NOT 1* VerbFin BARRIER EOS) (0 VerbFin) (0 Conj);
 
 
 # Haítí, Port-au-Prince, er rústir einar.
-REMOVE ("er"ri) + Conj IF (-1C Coma LINK -1 N | ProperNom LINK -1C Coma);
+REMOVE ("er"i) + Conj IF (-1C Coma LINK -1 N | ProperNom LINK -1C Coma);
+
+#Þetta er portúgalgasti maður sem ég hef séð
+REMOVE Conj IF (0 ("er"i)) (0 VerbFin OR Conj) (NOT -1* VerbFin BARRIER CLB) (NOT 1* VerbFin BARRIER CLB);
 
 # en fjölskylda hans tilkynnti ekki um hvarfið fyrr en í nóvember þar sem hún hélt að hann væri á sólarströnd við Karabíska hafið.
 REMOVE Verb IF (-1C Adj) (0 N) (0 Verb) (1 EOS);
+
+REMOVE VerbFin IF (0 ("sem")) (1 PersPron + $$PERSON LINK 1* VerbFin + $$PERSON) ;
+#Þetta er portúgalgasti maður sem ég hef séð
 
 ##
 # Specific pre-disambiguation lexical selection
 # 
 
 SELECT ("stig"ri) IF (0 ("<stiga>"ri)) (1 ("frost"ri) OR ("hiti"ri));
+
 
 #################################################################################
 # Syntax  
