@@ -18,6 +18,7 @@
 /apertium-is-en.is.dix -text
 /apertium-is-en.is.tsx -text
 /apertium-is-en.post-en.dix -text
+/apertiumIceNLP.sh -text
 /autogen.sh -text
 /configure.ac -text
 /demo.sh -text
