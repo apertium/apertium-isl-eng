@@ -100,6 +100,12 @@
     </pardef>
     <pardef n="hvaða_which__prn">
       <e r="LR"><p><l><s n="mf"/><s n="sp"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="LR"><p><l><s n="nt"/><s n="pl"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="allur_all__prn">
       <e r="LR"><p><l><s n="m"/><s n="sg"/></l><r><s n="mf"/><s n="sp"/></r></p></e>
