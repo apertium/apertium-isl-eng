@@ -6293,8 +6293,8 @@
 <!--<p><l>venja<s n="vblex"/></l><r>cling<s n="vblex"/></r></p></e>-->
 <!--<p><l>venja<s n="vblex"/></l><r>condition<s n="vblex"/></r></p></e>-->
 <!--<p><l>venja<s n="vblex"/></l><r>learn<s n="vblex"/></r></p></e>-->
-    <e><p><l>vera<g><b/>á<b/>reki</g><s n="vblex"/></l><r>be<g><b/>adrift</g><s n="vblex"/></r></p></e>
-    <e><p><l>vera<g><b/>í<b/>samræmi</g><s n="vblex"/></l><r>be<g><b/>consistent</g><s n="vblex"/></r></p></e>
+    <e><p><l>vera<g><b/>á<b/>reki</g><s n="vbser"/></l><r>be<g><b/>adrift</g><s n="vblex"/></r></p></e>
+    <e><p><l>vera<g><b/>í<b/>samræmi</g><s n="vbser"/></l><r>be<g><b/>consistent</g><s n="vblex"/></r></p></e>
     <e><p><l>verja<s n="vblex"/></l><r>defend<s n="vblex"/></r></p></e>
 <!--<p><l>verja<s n="vblex"/></l><r>spend<s n="vblex"/></r></p></e>--> <!-- spend money -->
 <!--<p><l>verka<s n="vblex"/></l><r>cure<s n="vblex"/></r></p></e>-->
