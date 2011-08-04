@@ -27,7 +27,7 @@ shift $(($OPTIND - 1))
 # Set commands to be used below
 
 # Apertium Morpho Analyzer. This is the first part of the pipeline
-ltproc="lt-proc is-en.automorf.bin"
+ltproc="lt-proc $apertium/is-en.automorf.bin"
 
 # IceNLP that uses an external morpho analyzer
 icenlpStandard="java -Xmx256M -classpath $IceNLPCore/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -tm $IceNLPCore/dict/icetagger/otb.apertium.dict -x apertium -sf -of 2"
