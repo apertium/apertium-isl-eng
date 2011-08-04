@@ -36,7 +36,7 @@ icenlpStandard="java -Xmx256M -classpath $IceNLPCore/dist/IceNLPCore.jar is.iclt
 icenlpServer="java -classpath $IceNLPServer/dist/IceNLPServer.jar is.iclt.icenlp.client.runner.Runner --port=1234 --host=localhost"
 
 # The rest of the pipeline, this receives the tagged text and translates it
-apertiumPipeline="cg-proc is-en.rlx.bin | cg-proc -n is-en.lex.bin | apertium-pretransfer | apertium-transfer apertium-is-en.is-en.t1x is-en.t1x.bin is-en.autobil.bin  | apertium-interchunk apertium-is-en.is-en.t2x is-en.t2x.bin | apertium-postchunk apertium-is-en.is-en.t3x is-en.t3x.bin | lt-proc -d is-en.autogen.bin | lt-proc -p is-en.autopgen.bin"
+apertiumPipeline="cg-proc $apertium/is-en.rlx.bin | cg-proc -n $apertium/is-en.lex.bin | apertium-pretransfer | apertium-transfer $apertium/apertium-is-en.is-en.t1x $apertium/is-en.t1x.bin $apertium/is-en.autobil.bin  | apertium-interchunk $apertium/apertium-is-en.is-en.t2x $apertium/is-en.t2x.bin | apertium-postchunk $apertium/apertium-is-en.is-en.t3x $apertium/is-en.t3x.bin | lt-proc -d $apertium/is-en.autogen.bin | lt-proc -p $apertium/is-en.autopgen.bin"
 
 # This will take plain text and translate it
 fullStandardPipeline=$ltproc" | "$icenlpStandard" | "$apertiumPipeline
