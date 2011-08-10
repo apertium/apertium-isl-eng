@@ -595,7 +595,8 @@ MAP (@+FMAINV) TARGET VerbFin + $$PERSON + $$NUMBER (NOT 1* @+FMAINV BARRIER CLB
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1 Rel) (1C VerbAux + TempsFin);
 
 MAP (@-FMAINV) TARGET VerbSupine | Participle (-1C* VerbAux + TempsFin BARRIER CLB);
-MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N); 
+# Hann er að læra. Most taggers mark "að" as infinitive. Make sure that only the verb gets the FMAINV marker
+MAP (@-FMAINV) TARGET Inf (-1C* MODV + TempsFin BARRIER CLB + PRE-N) (NOT 0C ("<að>")); 
 
 MAP (@←N) TARGET Adj + $$NAGD + $$NUMBER (0C Adj) (-1C N + $$NAGD + $$NUMBER);
 SELECT Adj + @←N (0C Adj) (NOT 1* N + $$NAGD + $$NUMBER) (-1C N + $$NAGD + $$NUMBER); ## ugly hack.
