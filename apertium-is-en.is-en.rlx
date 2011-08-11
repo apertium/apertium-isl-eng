@@ -335,6 +335,9 @@ REMOVE DemPron IF (0 DemPron) (0 VerbFin) (NOT -1* VerbFin BARRIER CLB) (NOT 1 V
 #Þetta er borgin, er hann kom frá.
 SELECT Rel IF (-1C Coma) (0 ("er")) (1C* VerbFin BARRIER CLB);
 
+# Eftir þetta fór hann til Kaupmannahafnar
+REMOVE Nom IF (-1C AccDatPrep) (0C Nom OR Acc);
+
 #################################################################################
 # Reflexive pronouns 
 #################################################################################
