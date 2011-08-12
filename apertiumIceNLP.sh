@@ -1,15 +1,14 @@
 # This program assumes that IceNLPServer (the demonized version of IceNLP) is already running 
-# The program relies on IceNLP to perform morphological analysis and tagging and then runs the rest of the Apertium pipeline to finish the translation process
-# The IceNLPCore envirionment variable needs to be set to the root directory of the IceNLPCore distribution
-# The IceNLPServer envirionment variable needs to be set to the root directory of the IceNLPServer distribution
+# The program relies on IceTagger to perform part-of-speech tagging and then runs the rest of the Apertium pipeline to finish the translation process
+# The IceNLPCore environment variable needs to be set to the root directory of the IceNLPCore distribution
+# The IceNLPServer environment variable needs to be set to the root directory of the IceNLPServer distribution
 #
 #  Flags:
 # -t only perform PoS tagging
-# -c run tagging and constraint grammar
 # -s run standard version of IceNLP instead of IceNLPServer
-# -f run full pipeline but output tags into tagfile as well
+# -h make IceTagger run an HMM model as well
 
-# Make sure we are in this apertium directory
+# Make sure we are in this Apertium directory
 cd `dirname $0`
 
 # Process command line arguments
