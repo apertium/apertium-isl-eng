@@ -22,9 +22,26 @@ done
 
 hmmCommands=""
 
-if [ -n "$flagWithHMM" ]
+if [ -n "$flagWithHMM" ] ;
 then
 	hmmCommands="-m $IceNLPCore/ngrams/models/otb -mt startend"
+fi
+
+if [ -z "${IceNLPCore+xxx}" ] ;
+then
+	echo "The environment variable IceNLPCore is not set"
+	exit;
+fi
+
+if [ -z "${IceNLPServer+xxx}" ] ;
+then
+	echo "The environment variable IceNLPServer is not set"
+	exit;
+fi
+
+if [ -z "${apertium+xxx}" ] ;
+then
+	apertium="."
 fi
 
 #  Decrements the argument pointer so it points to next argument.
