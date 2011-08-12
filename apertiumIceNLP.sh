@@ -13,12 +13,20 @@
 cd `dirname $0`
 
 # Process command line arguments
-while getopts "tscf" flag
+while getopts "sth" flag
 do
 	#echo "$flag" $OPTIND $OPTARG
 	if [ "$flag" = "s" ] ; then flagStandard=1 ; fi
 	if [ "$flag" = "t" ] ; then flagOnlyTagging=1 ; fi
+	if [ "$flag" = "h" ] ; then flagWithHMM=1 ; fi
 done
+
+hmmCommands=""
+
+if [ -n "$flagWithHMM" ]
+then
+	hmmCommands="-m $IceNLPCore/ngrams/models/otb -mt startend"
+fi
 
 #  Decrements the argument pointer so it points to next argument.
 #  $1 now references the first non-option item supplied on the command-line
@@ -30,13 +38,22 @@ shift $(($OPTIND - 1))
 ltproc="lt-proc $apertium/is-en.automorf.bin"
 
 # IceNLP that uses an external morpho analyzer
-icenlpStandard="java -Xmx256M -classpath $IceNLPCore/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -tm $IceNLPCore/dict/icetagger/otb.apertium.dict -x apertium -sf -of 2"
+icenlpStandard="java -Xmx256M -classpath $IceNLPCore/dist/IceNLPCore.jar is.iclt.icenlp.runner.RunIceTaggerApertium -ner $hmmCommands -tm $IceNLPCore/dict/icetagger/otb.apertium.dict -x apertium -sf -of 2"
 
 # IceNLP Server that uses the external morpho analyzer
 icenlpServer="java -classpath $IceNLPServer/dist/IceNLPServer.jar is.iclt.icenlp.client.runner.Runner --port=1234 --host=localhost"
 
 # The rest of the pipeline, this receives the tagged text and translates it
-apertiumPipeline="cg-proc $apertium/is-en.rlx.bin | cg-proc -n $apertium/is-en.lex.bin | apertium-pretransfer | apertium-transfer $apertium/apertium-is-en.is-en.t1x $apertium/is-en.t1x.bin $apertium/is-en.autobil.bin  | apertium-interchunk $apertium/apertium-is-en.is-en.t2x $apertium/is-en.t2x.bin | apertium-postchunk $apertium/apertium-is-en.is-en.t3x $apertium/is-en.t3x.bin | lt-proc -d $apertium/is-en.autogen.bin | lt-proc -p $apertium/is-en.autopgen.bin"
+apertiumPipeline="cg-proc $apertium/is-en.rlx.bin |
+cg-proc -n -w $apertium/is-en.lex.bin |
+apertium-pretransfer | 
+apertium-transfer -n $apertium/apertium-is-en.is-en.t0x $apertium/is-en.t0x.bin | 
+apertium-transfer $apertium/apertium-is-en.is-en.t1x $apertium/is-en.t1x.bin $apertium/is-en.autobil.bin  | 
+apertium-interchunk $apertium/apertium-is-en.is-en.t2x  $apertium/is-en.t2x.bin | 
+apertium-interchunk $apertium/apertium-is-en.is-en.t3x  $apertium/is-en.t3x.bin | 
+apertium-postchunk $apertium/apertium-is-en.is-en.t4x $apertium/is-en.t4x.bin | 
+lt-proc -d $apertium/is-en.autogen.bin | 
+lt-proc -p $apertium/is-en.autopgen.bin"
 
 # This will take plain text and translate it
 fullStandardPipeline=$ltproc" | "$icenlpStandard" | "$apertiumPipeline
