@@ -13643,7 +13643,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
 <e><p><l>á<b/>seinni<b/>árum<s n="adv"/></l><r>in<b/>recent<b/>years<s n="adv"/></r></p></e>
 <e><p><l>að<b/>mjög<b/>litlu<b/>leyti<s n="adv"/></l><r>to<b/>a<b/>very<b/>small<b/>degree<s n="adv"/></r></p></e>
 
-<e><p><l>því<s n="adv"/></l><r>why<s n="adv"/></r></p></e> <!-- was 'therefore' ??? -->
+<e><p><l>því<s n="adv"/></l><r>therefore<s n="adv"/></r></p></e> <!-- was 'why' but that is formal -->
 <e><p><l>harðlega<s n="adv"/></l><r>strongly<s n="adv"/></r></p></e>
 <e><p><l>réttilega<s n="adv"/></l><r>rightly<s n="adv"/></r></p></e>
 <e><p><l>ranglega<s n="adv"/></l><r>wrongly<s n="adv"/></r></p></e>
