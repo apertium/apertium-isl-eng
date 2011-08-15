@@ -410,7 +410,14 @@
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="m"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="f"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
     <e><p><l>sig<s n="prn"/><s n="ref"/><s n="nt"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
-    <e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/><s n="m"/><s n="sg"/></l><r>himself<s n="prn"/><s n="ref"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/><s n="f"/><s n="sg"/></l><r>herself<s n="prn"/><s n="ref"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/><s n="nt"/><s n="sg"/></l><r>itself<s n="prn"/><s n="ref"/><s n="nt"/><s n="sg"/></r></p></e> 
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/><s n="m"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/><s n="f"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
+    <e><p><l>sjálfur<s n="prn"/><s n="ref"/><s n="nt"/><s n="pl"/></l><r>themselves<s n="prn"/><s n="ref"/><s n="pl"/></r></p></e> 
+    <!--<e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>-->
+    <!--<e><p><l>sjálfur<s n="prn"/><s n="ref"/></l><r>oneself<s n="prn"/><s n="ref"/><s n="PD"/><s n="GD"/><s n="ND"/></r></p></e>-->
     <!-- END Pronouns -->
 <!-- END Don't sort alphabetically -->
 
