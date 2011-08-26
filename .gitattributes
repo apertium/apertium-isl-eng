@@ -28,7 +28,7 @@ dev/data/is-en.interwiki.xml -text
 dev/data/is-en.wiktionary.xml -text
 dev/data/is.wordlist.txt -text
 dev/data/is_en.txt -text
-dev/data/mánuðir -text
+dev/data/manudir -text
 dev/data/newResults.txt.adverbs.xml -text
 dev/data/newResults.txt.conj.xml -text
 dev/data/newResults.txt.interj.xml -text
