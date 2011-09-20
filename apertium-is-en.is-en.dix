@@ -1601,7 +1601,7 @@
 <!--<p><l>neikvæður<s n="adj"/></l><r>downbeat<s n="adj"/></r></p></e>-->
 <!--<p><l>neikvæður<s n="adj"/></l><r>minus<s n="adj"/></r></p></e>-->
     <e><p><l>neikvæður<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
-    <e><p><l>neðri<s n="adj"/></l><r>low<s n="adj"/><s n="comp"/></r></p></e>
+    <e><p><l>neðri<s n="adj"/></l><r>low<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>niðursokkinn<s n="adj"/></l><r>absorbed<s n="adj"/></r></p></e>
 <!--<p><l>niðursokkinn<s n="adj"/></l><r>intent<s n="adj"/></r></p></e>-->
 <!--<p><l>niðursokkinn<s n="adj"/></l><r>preoccupied<s n="adj"/></r></p></e>-->
@@ -4016,6 +4016,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
 <e><p><l>inni<b/>í<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
 <e><p><l>jafnframt<s n="pr"/></l><r>along<b/>with<s n="pr"/></r></p></e>
 <e><p><l>kringum<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
+<e><p><l>kringum<s n="adv"/></l><r>about<s n="adv"/></r></p></e>
 <e><p><l>með<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 <e><p><l>með<s n="adv"/></l><r>with<s n="adv"/></r></p></e>
 <e><p><l>meðal<s n="pr"/></l><r>amongst<s n="pr"/></r></p></e>
