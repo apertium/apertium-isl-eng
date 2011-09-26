@@ -954,6 +954,14 @@
       <e>      <p>        <l></l>        <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     
+    <!-- Special, to handle icelandic lastnames that are not translated but are in both singular and plural -->
+    <pardef n="Johnson__np">
+      <e>      <p>        <l></l>        <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l></l>        <r><s n="np"/><s n="ant"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>      <p>        <l></l>        <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>      <p>        <l></l>        <r><s n="np"/><s n="ant"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
     <pardef n="Mary__np">
       <e>      <p>        <l></l>        <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
@@ -2557,10 +2565,13 @@
       <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Mark__np"/></e>
       <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sen</re><p><l></l><r></r></p><par n="Mark__np"/></e>
     </pardef>
+    <pardef n="lastnames">
+        <!-- Stakt eftirnafn: Jónsson, Loftsson. Tekið sem Mark því það beygist ekki -->
+        <e><re>[A-ZÞÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+sson</re><p><l></l><r></r></p><par n="Johnson__np"/></e>
+        <e><re>[A-ZÞÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+son</re><p><l></l><r></r></p><par n="Johnson__np"/></e>
+        <e><re>[A-ZÞÁÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+dóttir</re><p><l></l><r></r></p><par n="Johnson__np"/></e>
+    </pardef>
   </pardefs>  
-
-
-
 
   <section id="main" type="standard">
 	
@@ -40242,6 +40253,7 @@
     <e><par n="paresq"/></e>
     <e><par n="pardret"/></e>
     <e><par n="persons"/></e>
+    <e><par n="lastnames"/></e>
     <e><par n="organisations"/></e>
     <e><par n="separ"/></e>
     <e><par n="guionet"/></e>

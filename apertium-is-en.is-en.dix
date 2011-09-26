@@ -206,6 +206,11 @@
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ ([A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+|[A-ZÁÞÐÉÍÓÚÝÖÅ])?.? ?[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+s</re><p><l>en<s n="np"/><s n="ant"/><s n="m"/></l><r>en<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
+    <!-- Standalone lastnames -->
+    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+ss</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+s</re><p><l>on<s n="np"/><s n="ant"/><s n="m"/></l><r>on<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><re>[A-ZÁÞÐÉÍÓÚÝÖÅ][a-záðéíóúýöå]+d</re><p><l>óttir<s n="np"/><s n="ant"/><s n="f"/></l><r>óttir<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+
     <e><re>[A-ZÁÆÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+( [A-ZÆÁÞÐÉÍÓÚÝÖÅ][a-zæáðéíóúýöå]+)?</re><p><l><b/>hf.</l><r><b/>Ltd.<s n="np"/><s n="org"/><s n="sp"/></r></p></e>
 
     <e><re>[2-3]?[0,4-9]</re><p><l>.<b/></l><r>th<b/></r></p><par n="mánuðir__months__num"/></e>
