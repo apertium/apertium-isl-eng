@@ -25009,7 +25009,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>ljóðrænn<s n="adj"/></l><r>lyrical<s n="adj"/></r></p></e>
     <e><p><l>ljúffengur<s n="adj"/></l><r>tasty<s n="adj"/></r></p></e>
     <e><p><l>ljúfsár<s n="adj"/></l><r>bittersweet<s n="adj"/></r></p></e>
-    <e><p><l>ljúfur<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>ljúfur<s n="adj"/></l><r>mild<s n="adj"/><s n="sint"/></r></p></e>
     <e slr="1"><p><l>ljúfur<s n="adj"/></l><r>amiable<s n="adj"/></r></p></e>
     <e slr="2"><p><l>ljúfur<s n="adj"/></l><r>sweet<s n="adj"/><s n="sint"/></r></p></e>
 <!--<p><l>ljúfur<s n="adj"/></l><r>benign<s n="adj"/></r></p></e>-->
