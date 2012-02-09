@@ -125,11 +125,11 @@ apertium_is_en_DATA=$(PREFIX1).automorf.bin \
 install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	cp *.mode modes/
-	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_is_modesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t0x $(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(apertium_is_endir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_is_modesdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t0x $(DESTDIR)$(apertium_is_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_is_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_is_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_is_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(DESTDIR)$(apertium_is_endir)
 
 CLEANFILES = -rf $(TARGETS_COMMON) .deps modes
