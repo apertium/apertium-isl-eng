@@ -12,19 +12,26 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =  \
      $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-     $(PREFIX1).autopgen.bin (PREFIX1).t0x.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).t4x.bin \
-     $(PREFIX1).lex.bin $(PREFIX1).rlx.bin $(PREFIX1).mode
+     $(PREFIX1).autopgen.bin $(PREFIX1).t0x.bin $(PREFIX1).t1x.bin  $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).t4x.bin \
+     $(PREFIX1).lex.bin $(PREFIX1).rlx.bin
 
 ##
 ## 	DICTIONARIES (ANALYSER / BILINGUAL / GENERATOR / POSTGEN)
 ##
 
+# Use this goal for creating .deps, otherwise make -j2 will give problems:
+.deps/.d:
+	if [ ! -d .deps ]; then mkdir .deps; fi
+	touch $@
+
+# Prevent the .d file from being removed automatically:
+.PRECIOUS: .deps/.d
+
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
 	lt-comp lr $(BASENAME).$(LANG1).dix $@
 
-.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl
-	if [ ! -d .deps ]; then mkdir .deps; fi
+.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
 	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
 $(PREFIX1).autobil.bin: .deps/$(BASENAME).$(PREFIX1).dix
@@ -82,18 +89,18 @@ $(PREFIX1).t4x.bin: $(BASENAME).$(PREFIX1).t4x
 #	MODE FILE(S)
 #
 
-$(PREFIX1).mode: modes.xml 
+modes/$(PREFIX1).mode: modes.xml
+	apertium-validate-modes modes.xml
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
 
-## 
+##
 ##	FILES WHICH AREN'T BUILD BUT ARE DISTRIBUTED
-## 
+##
 
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
            $(BASENAME).post-$(LANG2).dix \
-           $(PREFIX1).prob  \
            $(BASENAME).$(PREFIX1).t0x \
 	   $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
 	   $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX1).t4x \
@@ -103,34 +110,32 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   ACKNOWLEDGEMENTS \
 	   modes.xml
 
-#           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README 
+#           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README
 
 apertium_is_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_is_modesdir=$(prefix)/share/apertium/modes/
 
-apertium_is_en_DATA=$(PREFIX1).automorf.bin \
-                    $(PREFIX1).autobil.bin  \
-                    $(PREFIX1).autogen.bin \
-                    $(PREFIX1).autopgen.bin \
-		    $(PREFIX1).lex.bin \
-		    $(PREFIX1).rlx.bin \
-		    $(PREFIX1).t0x.bin \
-		    $(PREFIX1).t1x.bin \
-		    $(PREFIX1).t2x.bin \
-		    $(PREFIX1).t3x.bin \
-		    $(PREFIX1).t4x.bin \
-                    $(PREFIX1).prob \
-	            $(PREFIX1).mode modes.xml
-		  
+apertium_is_en_DATA=$(TARGETS_COMMON) \
+                    $(PREFIX1).prob  \
+                    modes.xml
+
+# All modes are created by the same goal, listing several will just give problems with make -j2
+noinst_DATA=modes/$(PREFIX1).mode
+
 install-data-local:
+	mv modes modes.bak
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	cp *.mode modes/
+	rm -rf modes
+	mv modes.bak modes
 	test -d $(DESTDIR)$(apertium_is_modesdir) || mkdir $(DESTDIR)$(apertium_is_modesdir)
 	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_is_modesdir)
+	rm $(PREFIX1).mode
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t0x $(DESTDIR)$(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_is_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(DESTDIR)$(apertium_is_endir)
 
-CLEANFILES = -rf $(TARGETS_COMMON) .deps modes
+CLEANFILES = $(TARGETS_COMMON)
+clean-local:
+	-rm -rf .deps modes
