@@ -1,0 +1,112 @@
+<rules>
+  <rule>
+    <match lemma="bóndi" tags="n.*"><select lemma="farmer" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <match lemma="bóndi" tags="n.*"><select lemma="husband" tags="n.*"/></match>
+    <or>
+      <match tags="prn.pos.*"/>
+      <match tags="prn.p1.mf.*.gen"/>
+      <match tags="prn.p2.mf.*.gen"/>
+      <match tags="prn.p3.f.*.gen"/>
+      <match tags="prn.p3.m.*.gen"/>
+    </or>
+  </rule>
+
+  <rule>
+    <match lemma="kona" tags="n.*"><select lemma="woman" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <match lemma="kona" tags="n.*"><select lemma="wife" tags="n.*"/></match>
+    <or>
+      <match tags="prn.pos.*"/>
+      <match tags="prn.p1.mf.*.gen"/>
+      <match tags="prn.p2.mf.*.gen"/>
+      <match tags="prn.p3.f.*.gen"/>
+      <match tags="prn.p3.m.*.gen"/>
+    </or>
+  </rule>
+
+  <rule>
+    <match lemma="himinn" tags="n.*"><select lemma="heaven" tags="n.*"/></match>
+    <match lemma="og"/>
+    <match lemma="jörð"/>
+  </rule>
+
+  <rule>
+    <match lemma="land" tags="n.*"><select lemma="land" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <or>
+      <match tags="n.*.*.*.@→N"/>
+      <match tags="adj.*.*.*.@→N"/>
+      <match tags="num.*.*.*.@→N"/>
+    </or>
+    <match lemma="land" tags="n.*"><select lemma="country" tags="n.*"/></match>
+  </rule>
+
+
+  <rule>
+    <match lemma="land" tags="n.*"><select lemma="country" tags="n.*"/></match>
+    <or>
+      <match tags="n.*.*.*.@N←"/>
+      <match tags="adj.*.*.*.@N←"/>
+      <match tags="num.*.*.*.@N←"/>
+    </or>
+  </rule>
+
+  <rule>
+    <match lemma="sæti" tags="n.*"><select lemma="seat" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <or>
+      <match tags="num.ord.*"/>
+      <match lemma="fyrstur"/>
+    </or>
+    <match lemma="sæti" tags="n.*"><select lemma="place" tags="n.*"/></match>
+  </rule>
+  
+  <rule>
+    <match lemma="dalur" tags="n.*"><select lemma="valley" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <match tags="num.*"/>
+    <match lemma="dalur" tags="n.*"><select lemma="dollar" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <match lemma="mynt" tags="n.*"><select lemma="coin" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <match lemma="í"/>
+    <match lemma="mynt" tags="n.*"><select lemma="currency" tags="n.*"/></match>
+  </rule>
+
+  <rule>
+    <match lemma="almennur" tags="adj.*"><select lemma="universal" tags="adj.*"/></match>
+  </rule>
+ 
+  <rule>
+    <match lemma="almennur" tags="adj.*"><select lemma="general" tags="adj.*"/></match>
+    <or>
+      <match lemma="kosning"/>
+      <match lemma="sjúkrahús"/>
+    </or>
+  </rule>
+   
+  <rule>
+    <match lemma="rómanskur" tags="adj.*"><select lemma="romance" tags="adj.*"/></match>
+  </rule>
+
+  <rule>
+    <match lemma="rómanskur" tags="adj.*"><select lemma="latin" tags="adj.*"/></match>
+    <match lemma="Ameríka"/>
+  </rule>
+
+</rules>
