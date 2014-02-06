@@ -524,10 +524,10 @@
     <e><p><l>hundraðasti<s n="adj"/><s n="ord"/></l><r>hundredth<s n="adj"/><s n="ord"/></r></p></e>
     <e><p><l>þúsundasti<s n="adj"/><s n="ord"/></l><r>thousandth<s n="adj"/><s n="ord"/></r></p></e>
 
-<!--<p><l>afbrýðisamur<s n="adj"/></l><r>envious<s n="adj"/></r></p></e>-->
-<!--<p><l>afbrýðisamur<s n="adj"/></l><r>green-eyed<s n="adj"/></r></p></e>-->
-    <e><p><l>afbrýðisamur<s n="adj"/></l><r>jealous<s n="adj"/></r></p></e>
-<!--<p><l>afbrýðisamur<s n="adj"/></l><r>resentful<s n="adj"/></r></p></e>-->
+    <e c="0"><p><l>afbrýðisamur<s n="adj"/></l><r>jealous<s n="adj"/></r></p></e>
+    <e slr="1"><p><l>afbrýðisamur<s n="adj"/></l><r>envious<s n="adj"/></r></p></e>
+    <e slr="2"><p><l>afbrýðisamur<s n="adj"/></l><r>green-eyed<s n="adj"/></r></p></e>
+    <e slr="3"><p><l>afbrýðisamur<s n="adj"/></l><r>resentful<s n="adj"/></r></p></e>
 <!--<p><l>afdrifaríkur<s n="adj"/></l><r>dramatic<s n="adj"/></r></p></e>-->
     <e><p><l>afdrifaríkur<s n="adj"/></l><r>fateful<s n="adj"/></r></p></e>
 <!--<p><l>afdrifaríkur<s n="adj"/></l><r>important<s n="adj"/></r></p></e>-->
@@ -8801,7 +8801,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
 <e><p><l>bón<s n="n"/><s n="f"/></l><r>request<s n="n"/></r></p></e>
 <!--<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>master<s n="n"/></r></p></e>-->
 <!--<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>-->
-<e><p><l>bóndi<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
+<e c="0"><p><l>bóndi<s n="n"/><s n="m"/></l><r>farmer<s n="n"/></r></p></e>
 <e slr="1"><p><l>bóndi<s n="n"/><s n="m"/></l><r>husband<s n="n"/></r></p></e>
 <e><p><l>bór<s n="n"/><s n="nt"/></l><r>boron<s n="n"/></r></p></e>
 <e><p><l>bót<s n="n"/><s n="f"/></l><r>cure<s n="n"/></r></p></e>
@@ -26011,7 +26011,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>áhrifagjarn<s n="adj"/></l><r>impressionable<s n="adj"/></r></p></e>
     <e><p><l>áhættusamur<s n="adj"/></l><r>risky<s n="adj"/></r></p></e>
     <e><p><l>ákjósanlegur<s n="adj"/></l><r>desirable<s n="adj"/></r></p></e>
-    <e><p><l>álitlegur<s n="adj"/></l><r>handsome<s n="adj"/></r></p></e>
+    <e c="0"><p><l>álitlegur<s n="adj"/></l><r>handsome<s n="adj"/></r></p></e>
     <e slr="1"><p><l>álitlegur<s n="adj"/></l><r>promising<s n="adj"/></r></p></e>
     <e><p><l>álkulegur<s n="adj"/></l><r>gangly<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>álútur<s n="adj"/></l><r>stooping<s n="adj"/></r></p></e>
@@ -26031,7 +26031,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>áttavilltur<s n="adj"/></l><r>bewildered<s n="adj"/></r></p></e>
     <e><p><l>ávalur<s n="adj"/></l><r>convex<s n="adj"/></r></p></e>
     <e><p><l>ærinn<s n="adj"/></l><r>considerable<s n="adj"/></r></p></e>
-    <e><p><l>ærlegur<s n="adj"/></l><r>honest<s n="adj"/></r></p></e>
+    <e c="0"><p><l>ærlegur<s n="adj"/></l><r>honest<s n="adj"/></r></p></e>
     <e slr="1"><p><l>ærlegur<s n="adj"/></l><r>proper<s n="adj"/></r></p></e>
     <e><p><l>ærslafenginn<s n="adj"/></l><r>rollicking<s n="adj"/></r></p></e>
     <e><p><l>ætilegur<s n="adj"/></l><r>edible<s n="adj"/></r></p></e>
@@ -26083,7 +26083,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>ófyrirgefanlegur<s n="adj"/></l><r>unforgivable<s n="adj"/></r></p></e>
     <e><p><l>ófyrirleitinn<s n="adj"/></l><r>impertinent<s n="adj"/></r></p></e>
     <e><p><l>ófáanlegur<s n="adj"/></l><r>unobtainable<s n="adj"/></r></p></e>
-    <e><p><l>ófær<s n="adj"/></l><r>impassable<s n="adj"/></r></p></e>
+    <e c="0"><p><l>ófær<s n="adj"/></l><r>impassable<s n="adj"/></r></p></e>
     <e slr="1"><p><l>ófær<s n="adj"/></l><r>impossible<s n="adj"/></r></p></e>
     <e slr="2"><p><l>ófær<s n="adj"/></l><r>incapable<s n="adj"/></r></p></e>
     <e><p><l>ógeðfelldur<s n="adj"/></l><r>unpleasant<s n="adj"/></r></p></e>
@@ -26136,7 +26136,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>ómótstæðilegur<s n="adj"/></l><r>irresistible<s n="adj"/></r></p></e>
     <e><p><l>ómóttækilegur<s n="adj"/></l><r>insusceptible<s n="adj"/></r></p></e>
     <e><p><l>ónauðsynlegur<s n="adj"/></l><r>unnecessary<s n="adj"/></r></p></e>
-    <e><p><l>ónotalegur<s n="adj"/></l><r>offensive<s n="adj"/></r></p></e>
+    <e c="0"><p><l>ónotalegur<s n="adj"/></l><r>offensive<s n="adj"/></r></p></e>
     <e slr="1"><p><l>ónotalegur<s n="adj"/></l><r>unpleasant<s n="adj"/></r></p></e>
     <e slr="2"><p><l>ónotalegur<s n="adj"/></l><r>chilly<s n="adj"/><s n="sint"/></r></p></e>
     <e c="0"><p><l>ónæmur<s n="adj"/></l><r>insensitive<s n="adj"/></r></p></e>
@@ -26176,7 +26176,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>ósmekklegur<s n="adj"/></l><r>tasteless<s n="adj"/></r></p></e>
     <e><p><l>ósnortinn<s n="adj"/></l><r>untouched<s n="adj"/></r></p></e>
     <e><p><l>óstilltur<s n="adj"/></l><r>restless<s n="adj"/></r></p></e>
-    <e><p><l>óstjórnlegur<s n="adj"/></l><r>unruly<s n="adj"/></r></p></e>
+    <e c="0"><p><l>óstjórnlegur<s n="adj"/></l><r>unruly<s n="adj"/></r></p></e>
     <e slr="1"><p><l>óstjórnlegur<s n="adj"/></l><r>excessive<s n="adj"/></r></p></e>
     <e><p><l>óstundvís<s n="adj"/></l><r>unpunctual<s n="adj"/></r></p></e>
     <e><p><l>óstýrilátur<s n="adj"/></l><r>wild<s n="adj"/><s n="sint"/></r></p></e>
@@ -26187,7 +26187,6 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
     <e><p><l>ótrauður<s n="adj"/></l><r>intrepid<s n="adj"/></r></p></e>
     <e><p><l>ótrúr<s n="adj"/></l><r>unfaithful<s n="adj"/></r></p></e>
     <e><p><l>óttalegur<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
-    <e slr="1"><p><l>óttalegur<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
     <e><p><l>ótvíræður<s n="adj"/></l><r>clear<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ótækur<s n="adj"/></l><r>useless<s n="adj"/></r></p></e>
     <e><p><l>ótímabær<s n="adj"/></l><r>premature<s n="adj"/></r></p></e>
