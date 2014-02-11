@@ -64,6 +64,7 @@ dev/example.dix -text
 dev/icetagger.ruleset -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
+dev/is-isen-missing-list -text
 dev/is-tags.mapping.txt -text
 dev/run-testvoc.sh -text
 dev/sorting/bidixSort.sh -text
