@@ -27,9 +27,15 @@ TARGETS_COMMON =  \
 # Prevent the .d file from being removed automatically:
 .PRECIOUS: .deps/.d
 
-$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
-	lt-comp lr $(BASENAME).$(LANG1).dix $@
+$(PREFIX2).autogen.bin: $(AP_LIB1)/$(LANG1).autogen.bin
+	cp $< $@
+
+$(PREFIX1).automorf.bin: $(AP_LIB1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $^ $@
+
+#$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
+#	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
+#	lt-comp lr $(BASENAME).$(LANG1).dix $@
 
 .deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
 	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
