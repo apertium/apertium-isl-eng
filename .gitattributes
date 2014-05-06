@@ -6,19 +6,19 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-is-en.en.dix -text
-/apertium-is-en.is-en.dix -text
-/apertium-is-en.is-en.lex -text
-/apertium-is-en.is-en.lrx -text
-/apertium-is-en.is-en.rlx -text
-/apertium-is-en.is-en.t0x -text
-/apertium-is-en.is-en.t1x -text
-/apertium-is-en.is-en.t2x -text
-/apertium-is-en.is-en.t3x -text
-/apertium-is-en.is-en.t4x -text
-/apertium-is-en.is.dix -text
-/apertium-is-en.is.tsx -text
-/apertium-is-en.post-en.dix -text
+/apertium-isl-eng.eng.dix -text
+/apertium-isl-eng.isl-eng.dix -text
+/apertium-isl-eng.isl-eng.lex -text
+/apertium-isl-eng.isl-eng.lrx -text
+/apertium-isl-eng.isl-eng.rlx -text
+/apertium-isl-eng.isl-eng.t0x -text
+/apertium-isl-eng.isl-eng.t1x -text
+/apertium-isl-eng.isl-eng.t2x -text
+/apertium-isl-eng.isl-eng.t3x -text
+/apertium-isl-eng.isl-eng.t4x -text
+/apertium-isl-eng.isl.dix -text
+/apertium-isl-eng.isl.tsx -text
+/apertium-isl-eng.post-eng.dix -text
 /apertiumIceNLP.sh -text
 /autogen.sh -text
 /configure.ac -text
@@ -107,9 +107,9 @@ dev/sorting/temp_sorting/vblex.xml.pseudo -text
 dev/sorting/temp_sorting/vblex.xml.restored -text
 dev/sorting/temp_sorting/vblex.xml.sorted -text
 dev/testvoc-summary.txt -text
-/en-is.prob -text svneol=unset#unset
+/eng-isl.prob -text svneol=unset#unset
 /icenlpApertium.sh -text
-/is-en.prob -text
+/isl-eng.prob -text
 /lexchoicebil.xsl -text
 /modes.xml -text
 /pending-tests.sh -text
