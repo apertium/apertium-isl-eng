@@ -6759,7 +6759,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
 <e><p><l>doka<s n="vblex"/></l><r>wait<s n="vblex"/></r></p></e>
 <e><p><l>dorga<s n="vblex"/></l><r>angling<s n="vblex"/></r></p></e>
 <e><p><l>dorma<s n="vblex"/></l><r>doze<s n="vblex"/></r></p></e>
-<e><p><l>dotta<s n="vblex"/></l><r>nod<b/>off<s n="vblex"/></r></p></e>
+<e><p><l>dotta<s n="vblex"/></l><r>nod<g><b/>off</g><s n="vblex"/></r></p></e>
 <!--<e><p><l>drabba<s n="vblex"/></l><r>lead<b/>a<b/>frivolous<b/>life<s n="vblex"/></r></p></e>--> <!-- MDB: I suspect this is an incorrect translation, but am not sure -->
 <e><p><l>drafa<s n="vblex"/></l><r>drawl<s n="vblex"/></r></p></e>
 <e><p><l>drattast<s n="vblex"/></l><r>drag<b/>oneself<b/>along<s n="vblex"/></r></p></e>
@@ -16043,7 +16043,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
 <e><p><l>augnamið<s n="n"/><s n="nt"/></l><r>intention<s n="n"/></r></p></e>
 <e><p><l>augnaráð<s n="n"/><s n="nt"/></l><r>look<s n="n"/></r></p></e>
 <e><p><l>augnatóft<s n="n"/><s n="f"/></l><r>eyehole<s n="n"/></r></p></e>
-<e><p><l>augnayndi<s n="n"/><s n="nt"/></l><r>sight<b/>for<b/>sore<b/>eyes<s n="n"/></r></p></e>
+<e><p><l>augnayndi<s n="n"/><s n="nt"/></l><r>sight<g><b/>for<b/>sore<b/>eyes</g><s n="n"/></r></p></e>
 <e><p><l>augnsjúkdómur<s n="n"/><s n="m"/></l><r>eye<b/>disease<s n="n"/></r></p></e>
 <e><p><l>aukaatriði<s n="n"/><s n="nt"/></l><r>minor<b/>point<s n="n"/></r></p></e>
 <e><p><l>aukaefni<s n="n"/><s n="nt"/></l><r>extra<b/>material<s n="n"/></r></p></e>
@@ -16142,7 +16142,7 @@ cnjadv = adverbial conjunction "he doesn't want to _so_ he doesn't fly"
 <e slr="1"><p><l>bali<s n="n"/><s n="m"/></l><r>tub<s n="n"/></r></p></e>
 <e><p><l>ballett<s n="n"/><s n="m"/></l><r>ballet<s n="n"/></r></p></e>
 <e><p><l>banalega<s n="n"/><s n="f"/></l><r>deathbed<s n="n"/></r></p></e>
-<e><p><l>banamein<s n="n"/><s n="nt"/></l><r>cause<b/>of<b/>death<s n="n"/></r></p></e>
+<e><p><l>banamein<s n="n"/><s n="nt"/></l><r>cause<g><b/>of<b/>death</g><s n="n"/></r></p></e>
 <e><p><l>banani<s n="n"/><s n="m"/></l><r>banana<s n="n"/></r></p></e>
 <e><p><l>banatilræði<s n="n"/><s n="nt"/></l><r>attempt<b/>on<b/>sby's<b/>life<s n="n"/></r></p></e>
 <e><p><l>bandstrik<s n="n"/><s n="nt"/></l><r>hyphen<s n="n"/></r></p></e>
