@@ -19,7 +19,7 @@ AC_ARG_WITH(icenlp,
 AM_CONDITIONAL([ICENLP], false)
 
 m4_define([required_apertium_version], [3.2.0])
-PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
+PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version)
 
 
 AC_SUBST(APERTIUM_VER)
@@ -62,6 +62,10 @@ if test x$ac_cv_path_XSLTPROC = xno
 then
   AC_MSG_ERROR([You don't have xsltproc installed.])
 fi
+
+AP_CHECK_LING([1], [apertium-isl])
+
+AP_MKINCLUDE
 
 
 AC_OUTPUT([Makefile])
