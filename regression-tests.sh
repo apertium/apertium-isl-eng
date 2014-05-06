@@ -17,7 +17,7 @@ TRGLIST=`mktemp /tmp/regression.trg.XXXXX`;
 TSTLIST=`mktemp /tmp/regression.tst.XXXXX`;
 
 basedir=`pwd`;
-mode=is-en
+mode=isl-eng
 
 wget -O - -q http://wiki.apertium.org/wiki/Icelandic_and_English/Regression_tests | grep '<li>' | sed 's/<.*li>//g' | sed 's/ /_/g' | cut -f2 -d')' | sed 's/<i>//g' | sed 's/<\/i>//g' | cut -f2 -d'*' | sed 's/→/!/g' | cut -f1 -d'!' | sed 's/(note:/!/g' | sed 's/_/ /g' | sed 's/$/../g' > $SRCLIST;
 wget -O - -q http://wiki.apertium.org/wiki/Icelandic_and_English/Regression_tests | grep '<li>' | sed 's/<.*li>//g' | sed 's/ /_/g' | sed 's/(\w\w)//g' | sed 's/<i>//g' | cut -f2 -d'*' | sed 's/<\/i>_→/!/g' | cut -f2 -d'!' | sed 's/_/ /g' | sed 's/^ *//g' | sed 's/ *$//g' | sed 's/$/../g' > $TRGLIST;

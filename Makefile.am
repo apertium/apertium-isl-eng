@@ -1,6 +1,6 @@
 VERSION=0.1.0
-LANG1=is
-LANG2=en
+LANG1=isl
+LANG2=eng
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
@@ -112,10 +112,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 
 #           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README
 
-apertium_is_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_is_modesdir=$(prefix)/share/apertium/modes/
+apertium_isl_engdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_isl_modesdir=$(prefix)/share/apertium/modes/
 
-apertium_is_en_DATA=$(TARGETS_COMMON) \
+apertium_isl_eng_DATA=$(TARGETS_COMMON) \
                     $(PREFIX1).prob  \
                     modes.xml
 
@@ -127,14 +127,14 @@ install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	rm -rf modes
 	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_is_modesdir) || mkdir $(DESTDIR)$(apertium_is_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_is_modesdir)
+	test -d $(DESTDIR)$(apertium_isl_modesdir) || mkdir $(DESTDIR)$(apertium_isl_modesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_isl_modesdir)
 	rm $(PREFIX1).mode
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t0x $(DESTDIR)$(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_is_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(DESTDIR)$(apertium_is_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t0x $(DESTDIR)$(apertium_isl_engdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_isl_engdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_isl_engdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_isl_engdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(DESTDIR)$(apertium_isl_engdir)
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
