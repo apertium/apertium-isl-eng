@@ -16,8 +16,6 @@
 /apertium-isl-eng.isl-eng.t2x -text
 /apertium-isl-eng.isl-eng.t3x -text
 /apertium-isl-eng.isl-eng.t4x -text
-/apertium-isl-eng.isl.dix -text
-/apertium-isl-eng.isl.tsx -text
 /apertium-isl-eng.post-eng.dix -text
 /apertiumIceNLP.sh -text
 /autogen.sh -text
