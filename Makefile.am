@@ -27,10 +27,10 @@ TARGETS_COMMON =  \
 # Prevent the .d file from being removed automatically:
 .PRECIOUS: .deps/.d
 
-$(PREFIX2).autogen.bin: $(AP_LIB1)/$(LANG1).autogen.bin
+$(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	cp $< $@
 
-$(PREFIX1).automorf.bin: $(AP_LIB1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
 	lt-trim $^ $@
 
 #$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
