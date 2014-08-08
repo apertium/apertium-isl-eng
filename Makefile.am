@@ -122,8 +122,7 @@ apertium_isl_engdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_isl_modesdir=$(prefix)/share/apertium/modes/
 
 apertium_isl_eng_DATA=$(TARGETS_COMMON) \
-                    $(PREFIX1).prob  \
-                    modes.xml
+                    $(PREFIX1).prob
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
