@@ -122,7 +122,12 @@ apertium_isl_engdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_isl_modesdir=$(prefix)/share/apertium/modes/
 
 apertium_isl_eng_DATA=$(TARGETS_COMMON) \
-                    $(PREFIX1).prob
+	$(BASENAME).$(PREFIX1).t0x \
+	$(BASENAME).$(PREFIX1).t1x \
+	$(BASENAME).$(PREFIX1).t2x \
+	$(BASENAME).$(PREFIX1).t3x \
+	$(BASENAME).$(PREFIX1).t4x \
+	$(PREFIX1).prob
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
@@ -135,11 +140,6 @@ install-data-local:
 	test -d $(DESTDIR)$(apertium_isl_modesdir) || mkdir $(DESTDIR)$(apertium_isl_modesdir)
 	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_isl_modesdir)
 	rm $(PREFIX1).mode
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t0x $(DESTDIR)$(apertium_isl_engdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_isl_engdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_isl_engdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_isl_engdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t4x $(DESTDIR)$(apertium_isl_engdir)
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
