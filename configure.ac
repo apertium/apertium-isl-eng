@@ -13,7 +13,7 @@ AC_PROG_LN_S
 AC_PROG_AWK
 
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version)
-PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= required_lttolbox_version)
+PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= required_lttoolbox_version)
 
 AC_ARG_WITH(icenlp,
             [AC_HELP_STRING([--with-icenlp=PATH], [(optional) path to IceNLP toolkit])],
