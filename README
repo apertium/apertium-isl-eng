@@ -4,7 +4,7 @@ Icelandic--English translator
 The is-en system can be used in two ways:
 
 I. Using the standard Apertium pipeline, e.g.:
-echo "gamli maðurinn borðaði kalda súpu með mjög góðri lyst" | apertium -d . is-en
+echo "gamli maðurinn borðaði kalda súpu með mjög góðri lyst" | apertium -d . isl-eng
 
 II. Use IceNLP in the pipeline (for morphological analysis and PoS tagging)
 
