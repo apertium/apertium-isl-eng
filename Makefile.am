@@ -1,4 +1,3 @@
-VERSION=0.1.0
 LANG1=isl
 LANG2=eng
 PREFIX1=$(LANG1)-$(LANG2)
@@ -20,12 +19,7 @@ TARGETS_COMMON =  \
 ##
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
-.deps/.d:
-	if [ ! -d .deps ]; then mkdir .deps; fi
-	touch $@
-
-# Prevent the .d file from being removed automatically:
-.PRECIOUS: .deps/.d
+@ap_include@
 
 $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	cp $< $@
@@ -90,16 +84,6 @@ $(PREFIX1).t4x.bin: $(BASENAME).$(PREFIX1).t4x
 	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t4x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t4x $@
 
-
-#
-#	MODE FILE(S)
-#
-
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
 ##
 ##	FILES WHICH AREN'T BUILD BUT ARE DISTRIBUTED
 ##
@@ -119,7 +103,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 #           $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README
 
 apertium_isl_engdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_isl_modesdir=$(prefix)/share/apertium/modes/
 
 apertium_isl_eng_DATA=$(TARGETS_COMMON) \
 	$(BASENAME).$(PREFIX1).t0x \
@@ -132,14 +115,7 @@ apertium_isl_eng_DATA=$(TARGETS_COMMON) \
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_isl_modesdir) || mkdir $(DESTDIR)$(apertium_isl_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_isl_modesdir)
-	rm $(PREFIX1).mode
+install-data-local: install-modes
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
