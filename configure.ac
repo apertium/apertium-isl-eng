@@ -17,7 +17,7 @@ AC_ARG_WITH(icenlp,
 
 AM_CONDITIONAL([ICENLP], false)
 
-m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
+m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: https://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
 AP_CHECK_LING([1], [apertium-isl], [0.1.1])
 
