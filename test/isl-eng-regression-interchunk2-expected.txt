@@ -1,0 +1,402 @@
+[-VTlRB_0CARf#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^suspect<SV><@+FMAINV><pres>{^suspect<vblex><3><4><5>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p3><sg>{^be<vbser><pres><p3><sg>$ ^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/-VTlRB_0CARf]
+[-fwj0rUUcD5b#0] ^Prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^do<SV><@+FMAINV><past><p2><pl>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/-fwj0rUUcD5b]
+[0TZ76GTq17e6#0] ^Adj_nom<SN><@X><sg>{^small<adj><sint>$ ^cat<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/0TZ76GTq17e6]
+[0apGPXmSuQtm#0] ^Nom<SN><@X><sg>{^rose<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/0apGPXmSuQtm]
+[0x7zeIodb200#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^be_going_to_inf<SV><@+FAUXV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^go<vblex><ger>$ ^to<pr>$ ^beat<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/0x7zeIodb200]
+[14Vh4w9k3mid#0] ^ant<SN><@SUBJ→><f><sg>{^María<np><ant><3><4>$}$ ^come<SV><@+FMAINV><pres><p3><sg>{^come<vblex><3><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/14Vh4w9k3mid]
+[1b9W1Y-3GK3B#0] ^ant<SN><@SUBJ→><m><sg>{^Þorvaldur<np><ant><3><4>$}$ ^love<SV><@+FMAINV><pres><p3><sg>{^love<vblex><3><4><5>$}$ ^ant<SN><@X><f><sg>{^Súsanna<np><ant><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/1b9W1Y-3GK3B]
+[1hKxADhcmKEQ#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^learn<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/1hKxADhcmKEQ]
+[1nKgB8m4ArSh#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^need<SV><@+FMAINV><pres>{^need<vblex><3><4><5>$}$ ^nom<SN><@←OBJ><sg>{^help<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/1nKgB8m4ArSh]
+[2678AURc14Tp#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^see<SV><@+FMAINV><past><p1><sg>{^see<vblex><3>$}$ ^det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^sick<adj><sint>$ ^woman<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/2678AURc14Tp]
+[28MuFulUyx_A#0] ^Nom<SN><@X><sg>{^word<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/28MuFulUyx_A]
+[2HNGbAEXQHg8#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$}$ ^pp<SA><@-FMAINV>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/2HNGbAEXQHg8]
+[2KRyZmVAHKxJ#0] ^Prn<SN><mf><sg>{^this<prn><dem><mf><sg>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^det_adj_nom<SN><sg>{^my<det><pos><sp>$ ^good<adj><sint><sup>$ ^success<n><2>$}$^sent<SENT>{^.<sent>$}$
+[/2KRyZmVAHKxJ]
+[2VA4k9ogBSSQ#0] ^Prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^do<SV><@+FMAINV><past><p2><sg>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><m><sg>{^himself<prn><ref><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/2VA4k9ogBSSQ]
+[2g3FL4N7WcWk#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^do<SV><@+FMAINV><past><p3><sg>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><m><sg>{^himself<prn><ref><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/2g3FL4N7WcWk]
+[3FhU0qZAePki#0] ^Nom<SN><@X><sg>{^cat<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/3FhU0qZAePki]
+[3Re2cmNPGAsD#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^carry<SV><@+FMAINV><pres><p1><sg>{^carry<vblex><3>$}$^sent<SENT>{^.<sent>$}$
+[/3Re2cmNPGAsD]
+[3_vbbxkEjAhV#0] ^Det_nom_gen_det_num_nom<SN><@X><pl>{^The<det><def><pl>$ ^representative<n><3>$ ^of<pr>$ ^the<det><def><pl>$ ^three<num><sp>$ ^nation<n><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/3_vbbxkEjAhV]
+[3bRKAeV8iyN3#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^do<SVdo><pres>{^do<vbdo><pres>$}$ ^ekki<SADV>{^not<adv>$}$ ^know<SV><@+FMAINV><inf>{^know<vblex><3>$}$ ^hvort<CS>{^whether<cnjsub>$}$ ^ant<SN><@SUBJ→><m><sg>{^Jón<np><ant><3><4>$}$ ^have<SV><@+FAUXV><past><p3><sg>{^have<vbhaver><3>$}$ ^adv_pp<SA><@-FMAINV>{^never<adv>$ ^read<vblex><pp>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/3bRKAeV8iyN3]
+[3p5OsN9o8kRy#0] ^Det_nom<SN><@X><sg>{^His<det><pos><sg>$ ^husband<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/3p5OsN9o8kRy]
+[4A4Ox-ehePt-#0] ^Num_nom<SN><@SUBJ→><pl>{^two<num><sp>$ ^policeman<n><3>$}$ ^be<SV><@+FMAINV><past><p3><pl>{^be<vbser><past>$}$ ^í<PREP>{^in<pr>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^car<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/4A4Ox-ehePt-]
+[4M94tpscvDXK#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^hurt<SV><@+FMAINV><past><p3><pl>{^hurt<vblex><3>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/4M94tpscvDXK]
+[4WZUxTUkJkoF#0] ^Prn<SN><mf><sg>{^this<prn><dem><mf><sg>$}$ ^det_adj_nom<SN><@←SUBJ><sg>{^my<det><pos><sp>$ ^good<adj><sint><sup>$ ^success<n><3>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4WZUxTUkJkoF]
+[4nz-dzSV2OfL#0] ^Det_adj_nom<SN><@SUBJ→><pl>{^all<det><qnt><pl>$ ^the<det><def><3>$ ^big<adj><sint>$ ^boy<n><3>$}$ ^eat<SV><@+FMAINV><past><p3><pl>{^eat<vblex><3>$}$ ^det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^good<adj><sint>$ ^soup<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/4nz-dzSV2OfL]
+[4p0C9P4izCPl#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^pig<n><3>$}$ ^hurt<SV><@+FMAINV><past><p3><sg>{^hurt<vblex><3>$}$ ^prn_ref<SN><nt><sg>{^itself<prn><ref><nt><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4p0C9P4izCPl]
+[4tSuJdkB9IGz#0] ^Adj_adj_nom<SN><sg>{^Big<adj><sint>$ ^grey<adj><sint>$ ^dog<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/4tSuJdkB9IGz]
+[52SE2JJvLbYs#0] ^Hví<ITG>{^why<adv><itg>$}$^Sent<SENT>{^?<sent>$}$
+[/52SE2JJvLbYs]
+[5Evt5KxknL5A#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/5Evt5KxknL5A]
+[5agpn4x0-hBn#0] ^Af Hverju<ITG>{^why<adv><itg>$}$ ^ekki<SADV>{^not<adv>$}$^sent<SENT>{^?<sent>$}$
+[/5agpn4x0-hBn]
+[61bjzgUT9YYH#0] ^ant<SN><@SUBJ→><m><sg>{^Jón<np><ant><3><4>$}$ ^aldrei<SADV>{^never<adv>$}$ ^read<SV><@+FMAINV><past><p3><sg>{^read<vblex><3>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/61bjzgUT9YYH]
+[6XV_p_l1c_CX#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_be_pp<SV><@+FAUXV><pri><p1><sg>{^will<vaux><inf>$ ^be<vbser><inf>$ ^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/6XV_p_l1c_CX]
+[6mgJx7XnnXkm#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^be<vbser><past><p1><sg>$ ^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/6mgJx7XnnXkm]
+[6s25D92fZldx#0] ^Adv_adj_nom<SN><sg>{^Very<preadv>$ ^small<adj><sint>$ ^cat<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/6s25D92fZldx]
+[7TXxUV-8Petk#0] ^Det_nom<SN><@X><pl>{^the<det><def><3>$ ^bank<n><3>$}$ ^adj<SA>{^big<adj><sint>$}$^sent<SENT>{^.<sent>$}$
+[/7TXxUV-8Petk]
+[7VjfCoSNSGd2#0] ^Prn<SN><@SUBJ→><p3><nt><sg>{^prpers<prn><subj><p3><nt><sg>$}$ ^do<SV><@+FMAINV><past><p3><sg>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><nt><sg>{^itself<prn><ref><nt><sg>$}$^sent<SENT>{^.<sent>$}$
+[/7VjfCoSNSGd2]
+[7hB_uLUmJqGc#0] ^Í<PREP>{^in<pr>$}$ ^det_nom<SN><@X><sg>{^this<det><dem><sg>$ ^paper<n><3>$}$^sent<SENT>{^...<sent>$}$
+[/7hB_uLUmJqGc]
+[7slsLR1SAVdf#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^have<SV><@+FMAINV><pres><p1><sg>{^have<vbhaver><3>$}$^sent<SENT>{^.<sent>$}$
+[/7slsLR1SAVdf]
+[8Kf-MlJp-gcc#0] ^Adj_nom_gen_det_nom<SN><pl>{^Angry<adj><sint>$ ^resident<n><pl>$ ^of<pr>$ ^the<det><def><pl>$ ^capital<n><pl>$}$ ^num<SN><mf><sp>{^two<num><sp>$}$^sent<SENT>{^.<sent>$}$
+[/8Kf-MlJp-gcc]
+[8gJJPsLlCoI6#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^read<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/8gJJPsLlCoI6]
+[A38iRuAgvYhG#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^have<SV><@+FMAINV><past><p1><sg>{^have<vbhaver><3>$}$ ^á<PREP>{^on<pr>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^feeling<n><3>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><past><p1><sg>{^be<vbser><past><p1><sg>$ ^work<vblex><ger>$}$ ^eins og<CS>{^like<cnjsub>$}$ ^nom<SN><@X><sg>{^slave<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/A38iRuAgvYhG]
+[AwFjYhZD2XIo#0] ^Adj_adj_nom<SN><sg>{^Small<adj><sint>$ ^black<adj><sint>$ ^cat<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/AwFjYhZD2XIo]
+[BMzqsJjL8Ou-#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^fight<SV><@+FMAINV><past><p1><sg>{^fight<vblex><3>$}$^sent<SENT>{^.<sent>$}$
+[/BMzqsJjL8Ou-]
+[CVxOtshTVPxc#0] ^top<SN><@X><sg>{^Finland<np><top><3>$}$ ^og<CC>{^and<cnjcoo>$}$ ^top<SN><@X><sg>{^Sweden<np><top><3>$}$ ^own<SV><@+FMAINV><pres><p3><pl>{^own<vblex><3>$}$ ^num_nom_adj_nom<SN><@N→><sg>{^700<num>$ ^year<n><pl>$ ^of<pr>$ ^joint<adj>$ ^history<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/CVxOtshTVPxc]
+[D9PrhvLlNPWD#0] ^ant<SN><@SUBJ→><m><sg>{^Jón<np><ant><3><4>$}$ ^say<SVrep><@+FMAINV><pres><p3><sg>{^say<vblex><3><4><5>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^come<SV><@+FMAINV><pres><p3><sg>{^come<vblex><3><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/D9PrhvLlNPWD]
+[E9wVPVXGs9sQ#0] ^Num<SN>{^2nd december<num>$}$^Sent<SENT>{^.<sent>$}$
+[/E9wVPVXGs9sQ]
+[EPvh-HF-B0XM#0] ^Prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^be<SV><@+FMAINV><pres><p2><sg>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/EPvh-HF-B0XM]
+[F3T3Toj4L59f#0] ^ant<SN><@SUBJ→><m><sg>{^Gunnar<np><ant><3><4>$}$ ^own<SV><@+FMAINV><past><p3><sg>{^own<vblex><3>$}$ ^nom<SN><@←OBJ><sg>{^horse<n><3>$}$ ^adj<SA>{^grey<adj><sint>$}$^sent<SENT>{^.<sent>$}$
+[/F3T3Toj4L59f]
+[Ff-RuTDDITH6#0] ^Þess Vegna<ADV>{^for that reason<adv>$}$ ^prn<SN><@←SUBJ><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^do<SVdo><pres>{^do<vbdo><pres>$}$ ^ekki<SADV>{^not<adv>$}$ ^want<SV><@+FAUXV><inf>{^want<vblex><3>$}$ ^inf<SV><@-FMAINV><inf>{^to<pr>$ ^join<vblex><inf>$}$ ^det_top<SN><@X><sg>{^the<det><def><3>$ ^European Union<np><top><3>$}$^sent<SENT>{^.<sent>$}$
+[/Ff-RuTDDITH6]
+[Fm82Fy07Gxy7#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^sky<n><3>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^adj<SA>{^blue<adj><sint>$}$^sent<SENT>{^.<sent>$}$
+[/Fm82Fy07Gxy7]
+[GeisiU6unbgX#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pri><p1><sg>{^may<vaux><inf>$ ^have<vbhaver><inf>$}$^sent<SENT>{^.<sent>$}$
+[/GeisiU6unbgX]
+[Gq8TNg0BYKQM#0] ^Det_nom<SN><@X><sg>{^the<det><def><3>$ ^rose<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/Gq8TNg0BYKQM]
+[GuVOLUzzJfrO#0] ^Adj_nom<SN><@SUBJ→><pl>{^many<adj><sint>$ ^woman<n><3>$}$ ^eat<SV><@+FMAINV><pres><p3><pl>{^eat<vblex><3>$}$ ^nom<SN><@X><sg>{^soup<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/GuVOLUzzJfrO]
+[GzqAxiPPXfgy#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^carry<SV><@+FMAINV><pres><p1><sg>{^carry<vblex><3>$}$^sent<SENT>{^.<sent>$}$
+[/GzqAxiPPXfgy]
+[HEf3zQlotpoX#0] ^Hver<PRN><ITG>{^what<prn><itg><mf><sp>$}$ ^be<SV><@+FAUXV><pres><p2><sg>{^be<vbser><pres>$}$ ^prn<SN><@←SUBJ><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^ger<SV><@-FMAINV><ger>{^do<vblex><ger>$}$^sent<SENT>{^?<sent>$}$
+[/HEf3zQlotpoX]
+[Hx49_zt4Uerp#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^damage<n><3>$}$ ^auxcj_inf<SV><@+FMAINV><past><p3><sg>{^can<vaux><past>$ ^be<vbser><inf>$}$ ^meira en<CS>{^more than<cnjsub>$}$ ^num_nom_nom<SN><@X><pl>{^15<num>$ ^billion<n><sg>$ ^dollar<n><3>$}$ ^eða<CC>{^or<cnjcoo>$}$ ^um<PREP>{^about<pr>$}$ ^num_nom_adj_nom<SN><@N→><pl>{^1.950<num>$ ^billion<n><sg>$ ^Icelandic<adj>$ ^krona<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/Hx49_zt4Uerp]
+[I0PjRkzShnUb#0] ^Adj_adj_adj_nom<SN><sg>{^Big<adj><sint>$ ^grey<adj><sint>$ ^hairy<adj><sint>$ ^dog<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/I0PjRkzShnUb]
+[IFBIeo42r7P1#0] ^Prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^suspect<SV><@+FMAINV><pres>{^suspect<vblex><3><4><5>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p3><sg>{^be<vbser><pres><p3><sg>$ ^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/IFBIeo42r7P1]
+[IXzqH1iIw0ug#0] ^Adj_adj_adj_nom<SN><sg>{^Small<adj><sint>$ ^black<adj><sint>$ ^skinny<adj><sint>$ ^cat<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/IXzqH1iIw0ug]
+[JHmIMMJjLyS4#0] ^Hvenær<ITG>{^when<adv><itg>$}$ ^do<SVdo><pres>{^do<vbdo><pres>$}$ ^prn<SN><@←SUBJ><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^come<SV><@+FMAINV><inf>{^come<vblex><3>$}$^sent<SENT>{^?<sent>$}$
+[/JHmIMMJjLyS4]
+[JJXtJ0v_BNdm#0] ^Prn<SN><@SUBJ→><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^do<SV><@+FMAINV><past><p1><pl>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/JJXtJ0v_BNdm]
+[JOzlnh61NJpI#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pss><p1><sg>{^would<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^be<vbser><pp>$}$ ^pp<SA><@-FMAINV>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/JOzlnh61NJpI]
+[KWyid-ltQ-gJ#0] ^Det_nom<SN><@X><pl>{^the<det><def><3>$ ^hand<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/KWyid-ltQ-gJ]
+[KtS29l8bUnrJ#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^girl<n><3>$}$ ^hurt<SV><@+FMAINV><past><p3><sg>{^hurt<vblex><3>$}$ ^prn_ref<SN><f><sg>{^herself<prn><ref><f><sg>$}$^sent<SENT>{^.<sent>$}$
+[/KtS29l8bUnrJ]
+[KvEzgjgMhOBd#0] ^Num<SN>{^11th december<num>$}$^Sent<SENT>{^.<sent>$}$
+[/KvEzgjgMhOBd]
+[MS3B0786fU_L#0] ^Adv_det_nom<SN><@SUBJ→><pl>{^practically<adv>$ ^all<det><qnt><pl>$ ^Icelander<n><3>$}$ ^nú<ADV>{^now<adv>$}$ ^use<SV><@+FMAINV><pres><p3><pl>{^use<vblex><3>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^net<n><3>$}$ ^með<PREP>{^with<pr>$}$ ^unknown<unknown>{^*ADSL$}$^sent<SENT>{^.<sent>$}$
+[/MS3B0786fU_L]
+[MdoprrU6VvUm#0] ^Nú<ADV>{^now<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^Independence Party<np><org><3>$}$ ^have<SV><@+FMAINV><pres><p3><sg>{^have<vbhaver><3><4><5>$}$ ^num_nom<SN><@X><pl>{^four<num><sp>$ ^representative<n><3>$}$ ^í<PREP>{^in<pr>$}$ ^nom<SN><@X><sg>{^town council<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/MdoprrU6VvUm]
+[MiP7NOySvfp8#0] ^Det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^big<adj><sint>$ ^dog<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/MiP7NOySvfp8]
+[MqK21TEy3Un-#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_adv_inf<SV><@+FAUXV><inf><p1><sg>{^will<vaux><inf>$ ^always<adv>$ ^remember<vblex><inf>$}$ ^top<SN><@X><sg>{^Cuba<np><top><3>$}$^sent<SENT>{^.<sent>$}$
+[/MqK21TEy3Un-]
+[MxCTwzN4OYbm#0] ^Prn<SN><@SUBJ→><p3><f><sg>{^prpers<prn><subj><p3><f><sg>$}$ ^suspect<SV><@+FMAINV><pres><p3><sg>{^suspect<vblex><3><4><5>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p3><sg>{^be<vbser><pres><p3><sg>$ ^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/MxCTwzN4OYbm]
+[N8FqNwppBi_D#0] ^Det_adv_adj_nom<SN><sg>{^The<det><def><2>$ ^really<preadv>$ ^big<adj><sint>$ ^dog<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/N8FqNwppBi_D]
+[NRIWC7354ZLa#0] ^Det_adj_adj_adj_nom<SN><sg>{^The<det><def><2>$ ^small<adj><sint>$ ^complicated<adj>$ ^red<adj><sint>$ ^rose<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/NRIWC7354ZLa]
+[NTTvcAm_IB75#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^hope<SV><@+FMAINV><pres><p1><sg>{^hope<vblex><3>$}$ ^að<CS>{^that<cnjsub>$}$ ^det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^condition<n><3>$}$ ^improve<SV><@+FMAINV><pres><p3><sg>{^improve<vblex><3><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/NTTvcAm_IB75]
+[NkIuTzVKCCqT#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^fight<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/NkIuTzVKCCqT]
+[Nz-zLQMshues#0] ^Prn<SN><@SUBJ→><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^auxcj_adv_inf<SV><@+FAUXV><inf><p1><pl>{^can<vaux><inf>$ ^not<adv>$ ^tolerate<vblex><inf>$}$ ^nom<SN><@X><sg>{^presence<n><3>$}$ ^det<DET>{^that<det><dem><pl>$}$ ^á<PREP>{^on<pr>$}$ ^det_nom<SN><@X><sg>{^our<det><pos><pl>$ ^island<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/Nz-zLQMshues]
+[Okrbbm4NJsk0#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pri><p1><sg>{^may<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^be<vbser><pp>$}$ ^pp<SA><@-FMAINV>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/Okrbbm4NJsk0]
+[Ox7bjiZU2OsL#0] ^Hver<PRN><ITG>{^what<prn><itg><mf><sp>$}$ ^do<SVdo><pres>{^do<vbdo><pres>$}$ ^prn<SN><@←SUBJ><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^want<SV><@+FMAINV><inf>{^want<vblex><3>$}$^sent<SENT>{^?<sent>$}$
+[/Ox7bjiZU2OsL]
+[PuSMEcmzLPYv#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^go<SV><@+FMAINV><past><p3><sg>{^go<vblex><3>$}$^sent<SENT>{^.<sent>$}$
+[/PuSMEcmzLPYv]
+[QJI5rP28CbTQ#0] ^Á Morgun<ADV>{^tomorrow<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^man<n><3>$}$ ^come<SV><@+FMAINV><pres><p3><sg>{^come<vblex><3><4><5>$}$ ^compose<SV><@+FMAINV><pres><p1><sg>{^compose<vblex><3>$}$ ^prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^see<SV><@+FMAINV><pres><p2><sg>{^see<vblex><3>$}$ ^í dag<ADV>{^today<adv>$}$^sent<SENT>{^.<sent>$}$
+[/QJI5rP28CbTQ]
+[QM_rLDuz7rUo#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^suspect<SV><@+FMAINV><pres><p3><sg>{^suspect<vblex><3><4><5>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p3><sg>{^be<vbser><pres><p3><sg>$ ^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/QM_rLDuz7rUo]
+[QiXFLJVbjYvO#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$}$ ^pp<SA><@-FMAINV>{^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/QiXFLJVbjYvO]
+[Qs611cnIgk4g#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pss><p1><sg>{^would<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^be<vbser><pp>$}$^sent<SENT>{^.<sent>$}$
+[/Qs611cnIgk4g]
+[QwZd5PbGhgoI#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^hope<SV><@+FMAINV><pres><p1><sg>{^hope<vblex><3>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><f><sg>{^prpers<prn><subj><p3><f><sg>$}$ ^get# better<SV><@+FMAINV><pres><p3><sg>{^get<vblex><3><4><5># better$}$^sent<SENT>{^.<sent>$}$
+[/QwZd5PbGhgoI]
+[RH3rBTXcfrdf#0] ^Prn<SN><mf><sg>{^this<prn><dem><mf><sg>$}$ ^det_adj_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^most<preadv>$ ^influential<adj>$ ^book<n><3>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RH3rBTXcfrdf]
+[RMrix5WoEeQZ#0] ^Adj_nom_gen_num_nom<SN><pl>{^Angry<adj><sint>$ ^resident<n><2>$ ^of<pr>$ ^two<num><sp>$ ^capital<n><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/RMrix5WoEeQZ]
+[RV-JX00TOS6g#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^do<SV><@+FMAINV><past><p1><sg>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><m><sg>{^himself<prn><ref><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RV-JX00TOS6g]
+[SEQ3Q--a4l5z#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^fight<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/SEQ3Q--a4l5z]
+[SQSdsVBSmwg4#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$ ^read<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/SQSdsVBSmwg4]
+[SU1L-oiWTkK7#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pri><p1><sg>{^may<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/SU1L-oiWTkK7]
+[TbrhowaDOCMy#0] ^Nom<SN><@X><pl>{^relation<n><3>$}$ ^num_nom<SN><@X><pl>{^two<num><sp>$ ^country<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/TbrhowaDOCMy]
+[Tyah5-plLkAP#0] ^Adv_det_det_nom<SN><@X><pl>{^despite<adv>$ ^all<det><qnt><pl>$ ^our<det><pos><pl>$ ^attempt<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/Tyah5-plLkAP]
+[UAXWclYXEHBT#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^be<SV><@+FMAINV><pres><p3><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/UAXWclYXEHBT]
+[UDGY2ncdEF1E#0] ^Adj_nom_gen_det_nom<SN><pl>{^Angry<adj><sint>$ ^resident<n><pl>$ ^of<pr>$ ^the<det><def><sg>$ ^capital<n><sg>$}$^Sent<SENT>{^.<sent>$}$
+[/UDGY2ncdEF1E]
+[UWjn6dhse5u9#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^say<SVrep><@+FMAINV><past><p3><sg>{^say<vblex><3>$}$ ^að<CS>{^that<cnjsub>$}$ ^det_nom<SN><@SUBJ→><pl>{^the<det><def><3>$ ^ship<n><3>$}$ ^go<SV><@+FMAINV><inf><p3><pl>{^would<vaux><inf>$ ^go<vblex><inf>$}$ ^á morgun<ADV>{^tomorrow<adv>$}$^sent<SENT>{^.<sent>$}$
+[/UWjn6dhse5u9]
+[VKXKjkZSf78t#0] ^Det_num_adj_nom<SN><@X><pl>{^the<det><def><3>$ ^10<num>$ ^most<preadv>$ ^popular<adj>$ ^film<n><3>$}$ ^í<PREP>{^in<pr>$}$ ^adj_nom<SN><@X><pl>{^American<adj>$ ^cinema<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/VKXKjkZSf78t]
+[VTcl9LZAh7tS#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$ ^read<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/VTcl9LZAh7tS]
+[VUAweChltpnW#0] ^Prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^be<SV><@+FMAINV><pres><p2><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/VUAweChltpnW]
+[W7c4q_95oneg#0] ^Prn<SN><@SUBJ→><p3><f><sg>{^prpers<prn><subj><p3><f><sg>$}$ ^do<SV><@+FMAINV><past><p3><sg>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/W7c4q_95oneg]
+[WVJpf706N6zo#0] ^Det_nom<SN><@X><sg>{^My<det><pos><sp>$ ^husband<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/WVJpf706N6zo]
+[WeyEbbm267b9#0] ^Nom<SN><@SUBJ→><pl>{^american<n><3>$}$ ^enn<ADV>{^still<adv>$}$ ^do<SVdo><pres>{^do<vbdo><pres>$}$ ^ekki<SADV>{^not<adv>$}$ ^sense<SV><@+FMAINV><inf>{^sense<vblex><3>$}$ ^nom<SN><@X><sg>{^recovery<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/WeyEbbm267b9]
+[WgJdI1JG2pqy#0] ^Det_adj_adj_nom<SN><sg>{^The<det><def><2>$ ^beautiful<adj>$ ^red<adj><sint>$ ^rose<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/WgJdI1JG2pqy]
+[Wp1X-21y_xVu#0] ^Num<SN>{^1st december<num>$}$^Sent<SENT>{^.<sent>$}$
+[/Wp1X-21y_xVu]
+[WwtVb4A80cCR#0] ^Adj_nom<SN><@X><sg>{^old<adj><sint><sup>$ ^polar bear<n><3>$}$ ^í<ADV>{^in<adv>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^world<n><3>$}$ ^pp<SA>{^find<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/WwtVb4A80cCR]
+[WxYjVohQ3MYK#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^be<SV><@+FMAINV><pres><p3><pl>{^be<vbser><pres>$}$ ^undir<PREP>{^under<pr>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^bed<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/WxYjVohQ3MYK]
+[XFcfJj-uJTJD#0] ^ant<SN><@SUBJ→><m><sg>{^Gunnar<np><ant><3><4>$}$ ^own<SV><@+FMAINV><past><p3><sg>{^own<vblex><3>$}$ ^adj_nom<SN><@X><sg>{^grey<adj><sint>$ ^horse<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/XFcfJj-uJTJD]
+[YMmc6VTGBzrC#0] ^Det_nom<SN><@X><sg>{^Your<det><pos><pl>$ ^husband<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/YMmc6VTGBzrC]
+[YclWtQkeBxZZ#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^do<SVdo><pres>{^do<vbdo><pres>$}$ ^ekki<SADV>{^not<adv>$}$ ^know<SV><@+FMAINV><inf>{^know<vblex><3>$}$ ^hvort<CS>{^whether<cnjsub>$}$ ^ant<SN><@SUBJ→><m><sg>{^Jón<np><ant><3><4>$}$ ^aldrei<SADV>{^never<adv>$}$ ^read<SV><@+FMAINV><past><p3><sg>{^read<vblex><3>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/YclWtQkeBxZZ]
+[Z9ydaS874qBB#0] ^ant<SN><@SUBJ→><f><sg>{^María<np><ant><3><4>$}$ ^auxcj_inf<SV><@+FAUXV><inf><p3><sg>{^will<vaux><inf>$ ^come<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/Z9ydaS874qBB]
+[ZPd_EyiLZcP4#0] ^ant<SN><@SUBJ→><m><sg>{^Jón<np><ant><3><4>$}$ ^have<SV><@+FAUXV><pres><p3><sg>{^have<vbhaver><3><4><5>$}$ ^adv_pp<SA><@-FMAINV>{^never<adv>$ ^read<vblex><pp>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/ZPd_EyiLZcP4]
+[Zam-NHn8Z63u#0] ^Nom<SN><@X><sg>{^farmer<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/Zam-NHn8Z63u]
+[ZnoBfRSEBQFF#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^boy<n><3>$}$ ^hurt<SV><@+FMAINV><past><p3><sg>{^hurt<vblex><3>$}$ ^prn_ref<SN><m><sg>{^himself<prn><ref><m><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ZnoBfRSEBQFF]
+[Zx3HDhgSeIvL#0] ^Á Morgun<ADV>{^tomorrow<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^man<n><3>$}$ ^come<SV><@+FMAINV><pres><p3><sg>{^come<vblex><3><4><5>$}$ ^compose<SV><@+FMAINV><pres><p1><sg>{^compose<vblex><3>$}$ ^prn<SN><@SUBJ→><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$ ^see<SV><@+FMAINV><past><p2><sg>{^see<vblex><3>$}$ ^í gær<ADV>{^yesterday<adv>$}$^sent<SENT>{^.<sent>$}$
+[/Zx3HDhgSeIvL]
+[ZzMUPIt5zrfW#0] ^Det_nom<SN><@X><sg>{^the<det><def><3>$ ^word<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/ZzMUPIt5zrfW]
+[_1f-NW9WFw_x#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^say<SVrep><@+FMAINV><pres><p3><sg>{^say<vblex><3><4><5>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@SUBJ→><p3><nt><sg>{^prpers<prn><subj><p3><nt><sg>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^í<PREP>{^in<pr>$}$ ^det_nom_gen_nom<SN><@X><pl>{^the<det><def><3>$ ^hand<n><pl>$ ^of<pr>$ ^the<det><def><3>$ ^parliament<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_1f-NW9WFw_x]
+[_3XlJAUrpLHA#0] ^Ennfremur<ADV>{^furthermore<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^matter<n><3>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^default<default>{^very<preadv>$}$ ^adj<SA>{^sensitive<adj>$}$ ^í<PREP>{^in<pr>$}$ ^det_top<SN><@X><sg>{^the<det><def><3>$ ^Netherlands<np><top><3>$}$^sent<SENT>{^.<sent>$}$
+[/_3XlJAUrpLHA]
+[__3W5-CNAnvy#0] ^Í Gær<ADV>{^yesterday<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^girl<n><3>$}$ ^see<SV><@+FMAINV><past><p3><sg>{^see<vblex><3>$}$ ^á<PREP>{^on<pr>$}$ ^det_nom_nom<SN><@X><sg>{^the<det><def><3>$ ^mountain<n><sg>$ ^horse<n><3>$}$ ^í<PREP>{^in<pr>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^forest<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/__3W5-CNAnvy]
+[_k7aP7457bJS#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^appoint<SV><@+FMAINV><pres><p1><sg>{^appoint<vblex><3>$}$ ^prn<SN><mf><pl>{^the one<prn><dem><mf><pl>$}$^sent<SENT>{^.<sent>$}$
+[/_k7aP7457bJS]
+[a1IMadJRAsFW#0] ^Det_nom<SN><@X><sg>{^Her<det><pos><sg>$ ^husband<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/a1IMadJRAsFW]
+[bRWj4uFHZlAe#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^do<SV><@+FMAINV><past><p3><pl>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/bRWj4uFHZlAe]
+[beNVe8Q997on#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^think<SV><@+FMAINV><past><p1><sg>{^think<vblex><3>$}$ ^að<PREP>{^to<pr>$}$ ^prn<SN><@X><p3><mf><pl>{^prpers<prn><obj><p3><mf><pl>$}$ ^be<SV><@+FMAINV><past><p3><pl>{^be<vbser><past>$}$ ^uppi í<PREP>{^up in<pr>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^sky<n><3>$}$ ^eða<CC>{^or<cnjcoo>$}$ ^úti á<PREP>{^out at<pr>$}$ ^nom<SN><@X><sg>{^sea<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/beNVe8Q997on]
+[bntHSrUDOH35#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^post<n><3>$}$ ^have<SV><@+FAUXV><pres><p3><sg>{^have<vbhaver><3><4><5>$}$ ^adv_pp<SA><@-FMAINV>{^not<adv>$ ^come<vblex><pp>$}$ ^í morgun<ADV>{^this morning<adv>$}$^sent<SENT>{^.<sent>$}$
+[/bntHSrUDOH35]
+[cIurilmbQmYN#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^be_going_to_inf<SV><@+FMAINV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^go<vblex><ger>$ ^to<pr>$ ^be<vbser><inf>$}$ ^pp<SA>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/cIurilmbQmYN]
+[cfwgp3AcK2pM#0] ^sent<SENT>{^...<sent>$}$ ^Og<CC>{^and<cnjcoo>$}$ ^þrátt fyrir<ADV>{^despite<adv>$}$ ^adj_nom<SN><@X><sg>{^hard<adj><sint>$ ^resistance<n><3>$}$ ^det_adj_nom<SN><@X><pl>{^the<det><def><3>$ ^argentinian<adj>$ ^soldier<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/cfwgp3AcK2pM]
+[cwPKhrklTHH4#0] ^Det_adj_adj_nom<SN><sg>{^The<det><def><2>$ ^big<adj><sint>$ ^black<adj><sint>$ ^dog<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/cwPKhrklTHH4]
+[d6_7MQ09OjLe#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^write<SV><@+FMAINV><past><p3><sg>{^write<vblex><3>$}$ ^det_nom<SN><@←OBJ><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/d6_7MQ09OjLe]
+[dCWlRg5mgd1f#0] ^Nom<SN><@X><sg>{^dog<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/dCWlRg5mgd1f]
+[dSQIM_YrfHDO#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aldrei<SADV>{^never<adv>$}$ ^talk<SV><@+FMAINV><past><p1><sg>{^talk<vblex><3>$}$ ^við:1<PREP>{^to<pr>$}$ ^ant<SN><@X><f><sg>{^Súsanna<np><ant><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/dSQIM_YrfHDO]
+[d_sQPQKzYRJH#0] ^Adv_adj_nom<SN><sg>{^Really<preadv>$ ^big<adj><sint>$ ^dog<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/d_sQPQKzYRJH]
+[fTq8zOIV9pZi#0] ^sent<SENT>{^...<sent>$}$^Og<CC>{^and<cnjcoo>$}$ ^prn<SN><@←SUBJ><p3><f><sg>{^prpers<prn><subj><p3><f><sg>$}$ ^become<SV><@+FMAINV><pres><p3><sg>{^become<vblex><3><4><5>$}$ ^pp<SA><@-FMAINV>{^discharge<vblex><pp>$}$ ^þaðan<ADV>{^from there<adv>$}$ ^síðar<ADV>{^later<adv>$}$ ^í dag<ADV>{^today<adv>$}$^sent<SENT>{^.<sent>$}$
+[/fTq8zOIV9pZi]
+[fdzuy7Up_Fga#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^conference<n><3>$}$ ^be<SV><@+FMAINV><past><p3><sg>{^be<vbser><past><p3><sg>$}$ ^frá upphafi<ADV>{^from the beginning<adv>$}$ ^adj<SA>{^evil<adj>$}$ ^pp<SA><@-FMAINV>{^organise<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/fdzuy7Up_Fga]
+[g2_ntEytm0xz#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$}$^sent<SENT>{^.<sent>$}$
+[/g2_ntEytm0xz]
+[g2nfyEorYfvX#0] ^Nom_top<SN><@X><sg>{^foreign minister<n><3>$ ^of<pr>$ ^the<det><def><3>$ ^United States<np><top><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/g2nfyEorYfvX]
+[g6qxlulepPdr#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^feel<SV><@+FMAINV><pres><p3><sg>{^feel<vblex><3><4><5>$}$ ^vel<ADV>{^well<adv>$}$^sent<SENT>{^.<sent>$}$
+[/g6qxlulepPdr]
+[gEffGcVDMJ4v#0] ^Prn<SN><@SUBJ→><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^be<SV><@+FMAINV><pres><p1><pl>{^be<vbser><pres>$}$^sent<SENT>{^.<sent>$}$
+[/gEffGcVDMJ4v]
+[gEn1ULqHQJbb#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^read<vblex><pp>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/gEn1ULqHQJbb]
+[gMGP__nNTDw5#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/gMGP__nNTDw5]
+[h2_SEQXL9kci#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^inni í<PREP>{^inside<pr>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^car<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/h2_SEQXL9kci]
+[heu7DHCPGpvu#0] ^Det_nom<SN><@X><sg>{^Our<det><pos><pl>$ ^husband<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/heu7DHCPGpvu]
+[iTu_jZhJ0vw1#0] ^Adj_nom<SN><@X><sg>{^big<adj><sint>$ ^dog<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/iTu_jZhJ0vw1]
+[jH7hD_fgLZn8#0] ^Á Morgun<ADV>{^tomorrow<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^man<n><3>$}$ ^come<SV><@+FMAINV><pres><p3><sg>{^come<vblex><3><4><5>$}$ ^compose<SV><@+FMAINV><pres><p1><sg>{^compose<vblex><3>$}$ ^prn<SN><@X><p3><m><sg>{^prpers<prn><obj><p3><m><sg>$}$ ^see<SV><@+FMAINV><past><p3><sg>{^see<vblex><3>$}$ ^í gær<ADV>{^yesterday<adv>$}$^sent<SENT>{^.<sent>$}$
+[/jH7hD_fgLZn8]
+[jtKm9gnEz7Ke#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pss><p1><sg>{^would<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^fight<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/jtKm9gnEz7Ke]
+[jzsZAJnCyy5l#0] ^Adj_nom<SN><@SUBJ→><pl>{^many<adj><sint><comp>$ ^woman<n><3>$}$ ^eat<SV><@+FMAINV><pres><p3><pl>{^eat<vblex><3>$}$ ^nom<SN><@X><sg>{^soup<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/jzsZAJnCyy5l]
+[kU4ovhOU4_wn#0] ^Á Morgun<ADV>{^tomorrow<adv>$}$ ^det_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^man<n><3>$}$ ^come<SV><@+FMAINV><pres><p3><sg>{^come<vblex><3><4><5>$}$ ^compose<SV><@+FMAINV><pres><p1><sg>{^compose<vblex><3>$}$ ^prn<SN><@X><p3><m><sg>{^prpers<prn><obj><p3><m><sg>$}$ ^see<SV><@+FMAINV><pres><p3><sg>{^see<vblex><3><4><5>$}$ ^í dag<ADV>{^today<adv>$}$^sent<SENT>{^.<sent>$}$
+[/kU4ovhOU4_wn]
+[kkHGfepnNOpK#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^go<SV><@+FMAINV><past><p3><sg>{^go<vblex><3>$}$ ^í gær<ADV>{^yesterday<adv>$}$^sent<SENT>{^.<sent>$}$
+[/kkHGfepnNOpK]
+[knIndtShNkI2#0] ^Det_adj_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^big<adj><sint>$ ^owl<n><3>$}$ ^eat<SV><@+FMAINV><past><p3><sg>{^eat<vblex><3>$}$ ^det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^small<adj><sint>$ ^mouse<n><3>$}$ ^í gær<ADV>{^yesterday<adv>$}$^sent<SENT>{^.<sent>$}$
+[/knIndtShNkI2]
+[krqGu6jq-Sdw#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$}$ ^pp<SA><@-FMAINV>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/krqGu6jq-Sdw]
+[l7eH9UWFojqc#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^see<SV><@+FMAINV><past><p1><sg>{^see<vblex><3>$}$ ^nom<SN><@X><pl>{^horse<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/l7eH9UWFojqc]
+[lfklJgYR9mnz#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^hurt<SV><@+FMAINV><past><p3><pl>{^hurt<vblex><3>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/lfklJgYR9mnz]
+[m-eq4UFK4swK#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^bake<SV><@+FMAINV><past><p1><sg>{^bake<vblex><3>$}$ ^nom<SN><@X><sg>{^bread<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/m-eq4UFK4swK]
+[mNl3Ryc-2qPT#0] ^ant<SN><@SUBJ→><f><sg>{^Súsanna<np><ant><3><4>$}$ ^love<SV><@+FMAINV><pres><p3><sg>{^love<vblex><3><4><5>$}$ ^ant<SN><@X><m><sg>{^Þorvaldur<np><ant><3><4>$}$^sent<SENT>{^.<sent>$}$
+[/mNl3Ryc-2qPT]
+[mtzzrzBDbtYO#0] ^Det_nom<SN><@X><sg>{^the<det><def><3>$ ^dog<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/mtzzrzBDbtYO]
+[mxIE2qyCkMJg#0] ^Um<PREP>{^about<pr>$}$ ^num_nom_nom<SN><@X><pl>{^1,2<num>$ ^million<n><sg>$ ^person<n><3>$}$ ^be<SV><@+FMAINV><pres><p3><pl>{^be<vbser><pres>$}$ ^adj<SA>{^homeless<adj>$}$^sent<SENT>{^.<sent>$}$
+[/mxIE2qyCkMJg]
+[nKgqT6FGPCgd#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^be<SV><@+FMAINV><pres><p1><sg>{^be<vbser><pres><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/nKgqT6FGPCgd]
+[nLCkmCkEP2wM#0] ^Det_adj_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^big<adj><sint>$ ^owl<n><3>$}$ ^have<SV><@+FMAINV><past><p3><sg>{^have<vbhaver><3>$}$ ^pp<SA><@-FMAINV>{^eat<vblex><pp>$}$ ^det_adj_nom<SN><@OBJ→><sg>{^the<det><def><3>$ ^small<adj><sint>$ ^mouse<n><3>$}$ ^í gær<ADV>{^yesterday<adv>$}$^sent<SENT>{^.<sent>$}$
+[/nLCkmCkEP2wM]
+[o2dtl1fiqxYp#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/o2dtl1fiqxYp]
+[oD_bDfa7so5-#0] ^Det_adj_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^big<adj><sint>$ ^owl<n><3>$}$ ^auxcj_pp<SV><@+FAUXV><past><p3><sg>{^have<vbhaver><3>$ ^eat<vblex><pp>$}$ ^det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^small<adj><sint>$ ^mouse<n><3>$}$ ^í gær<ADV>{^yesterday<adv>$}$^sent<SENT>{^.<sent>$}$
+[/oD_bDfa7so5-]
+[oH9nDuYnT1_O#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^want<SV><@+FMAINV><past><p3><sg>{^want<vblex><3>$}$ ^det_nom<SN><@SUBJ→><pl>{^the<det><def><3>$ ^award<n><3>$}$ ^go<SV><@+FMAINV><inf>{^to<pr>$ ^go<vblex><3>$}$ ^til<PREP>{^to<pr>$}$ ^prn<SN><@X><p3><mf><pl>{^prpers<prn><obj><p3><mf><pl>$}$^sent<SENT>{^.<sent>$}$
+[/oH9nDuYnT1_O]
+[oQgulCDxSIJI#0] ^Prn<SN><@SUBJ→><p1><mf><pl>{^prpers<prn><subj><p1><mf><pl>$}$ ^be<SV><@+FAUXV><pres><p1><pl>{^be<vbser><pres>$}$ ^bara<ADV>{^only<adv>$}$ ^ger<SV><@-FMAINV><ger>{^look<vblex><ger># at$}$^sent<SENT>{^...<sent>$}$
+[/oQgulCDxSIJI]
+[oW_0QPYf8hPd#0] ^Einungis<ADV>{^only<adv>$}$ ^nom_gen_nom<SN><@SUBJ→><sg>{^third<n><3>$ ^of<pr>$ ^Norwegian<n><pl>$}$ ^want<SV><@+FMAINV><pres><p3><sg>{^want<vblex><3><4><5>$}$ ^det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^land<n><3>$}$ ^join<SV><@+FMAINV><inf>{^to<pr>$ ^join<vblex><3><4><5>$}$ ^det_top<SN><@X><sg>{^the<det><def><3>$ ^European Union<np><top><3>$}$^sent<SENT>{^.<sent>$}$
+[/oW_0QPYf8hPd]
+[okFEm3Ck2Amh#0] ^det_nom<SN><@SUBJ→><sg>{^The<det><def><3>$ ^Independence Party<np><org><3>$}$ ^nú<ADV>{^now<adv>$}$ ^have<SV><@+FMAINV><pres><p3><sg>{^have<vbhaver><3><4><5>$}$ ^num_nom<SN><@X><pl>{^four<num><sp>$ ^representative<n><3>$}$ ^í<PREP>{^in<pr>$}$ ^nom<SN><@X><sg>{^town council<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/okFEm3Ck2Amh]
+[oqnBoQKPeAZ9#0] ^Nom<SN><@SUBJ→><pl>{^american<n><3>$}$ ^hins vegar<ADV>{^however<adv>$}$ ^support<SV><@+FMAINV><pres><p3><pl>{^support<vblex><3>$}$ ^det_nom<SN><@←SUBJ><pl>{^the<det><def><3>$ ^election<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/oqnBoQKPeAZ9]
+[p8HjP_L4RvPN#0] ^Í Gær<ADV>{^yesterday<adv>$}$ ^det_adj_nom<SN><@←SUBJ><sg>{^the<det><def><3>$ ^big<adj><sint>$ ^owl<n><3>$}$ ^eat<SV><@+FMAINV><past><p3><sg>{^eat<vblex><3>$}$ ^det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^small<adj><sint>$ ^mouse<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/p8HjP_L4RvPN]
+[pAfbAysownjO#0] ^Det_nom_gen_det_num_nom<SN><@X><pl>{^The<det><def><pl>$ ^relation<n><3>$ ^of<pr>$ ^the<det><def><pl>$ ^two<num><sp>$ ^country<n><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/pAfbAysownjO]
+[po9iqFeFWPij#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pss><p1><sg>{^would<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^have<vbhaver><pp>$}$^sent<SENT>{^.<sent>$}$
+[/po9iqFeFWPij]
+[ps7bRUVQAw97#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pri><p1><sg>{^may<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^fight<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/ps7bRUVQAw97]
+[q2WM_Vjcl2Dl#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^see<SV><@+FMAINV><pres><p3><sg>{^see<vblex><3><4><5>$}$ ^nom<SN><@X><pl>{^horse<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/q2WM_Vjcl2Dl]
+[qdvijTYT5xfw#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><past><p1><sg>{^be<vbser><past><p1><sg>$ ^read<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/qdvijTYT5xfw]
+[qnwaTdfeatVI#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^have<vbhaver><pp>$}$^sent<SENT>{^.<sent>$}$
+[/qnwaTdfeatVI]
+[rU1JdVROkFuP#0] ^Adj_nom_gen_det_nom<SN><pl>{^Angry<adj><sint>$ ^resident<n><pl>$ ^of<pr>$ ^the<det><def><pl>$ ^capital<n><pl>$}$^Sent<SENT>{^.<sent>$}$
+[/rU1JdVROkFuP]
+[rZStmW3Ei82b#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pri><p1><sg>{^may<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^have<vbhaver><pp>$}$^sent<SENT>{^.<sent>$}$
+[/rZStmW3Ei82b]
+[rs8_YJvurPE8#0] ^Prn<SN><@SUBJ→><p3><f><sg>{^prpers<prn><subj><p3><f><sg>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^adj<SA>{^awake<adj>$}$^sent<SENT>{^.<sent>$}$
+[/rs8_YJvurPE8]
+[rvCtfeTHRFyK#0] ^Prn<SN><@SUBJ→><p3><m><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^be<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$}$ ^adj<SA>{^sleeping<adj>$}$^sent<SENT>{^.<sent>$}$
+[/rvCtfeTHRFyK]
+[sO293Wv8Xn8b#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$}$ ^pp<SA><@-FMAINV>{^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/sO293Wv8Xn8b]
+[sZ3MiMn3hpLM#0] ^Det_adj_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^scottish<adj>$ ^woman<n><3>$}$ ^will_be_pp<SV><@+FAUXV><pres><p3><sg>{^will<vaux><inf>$ ^be<vbser><inf>$ ^discharge<vblex><pp>$}$ ^þaðan<ADV>{^from there<adv>$}$ ^síðar<ADV>{^later<adv>$}$ ^í dag<ADV>{^today<adv>$}$^sent<SENT>{^.<sent>$}$
+[/sZ3MiMn3hpLM]
+[spQRdYPlkLZs#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^beat<SV><@+FMAINV><past><p1><sg>{^beat<vblex><3>$}$^sent<SENT>{^.<sent>$}$
+[/spQRdYPlkLZs]
+[srxubNlOOZSb#0] ^Num<SN>{^24th december<num>$}$^Sent<SENT>{^.<sent>$}$
+[/srxubNlOOZSb]
+[suWs_wZZmrEy#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/suWs_wZZmrEy]
+[svQ33539ga52#0] ^Prn<SN><@X><p3><mf><pl>{^prpers<prn><obj><p3><mf><pl>$}$ ^auxcj_pp<SV><@+FAUXV><past><p3><sg>{^be<vbser><past><p3><sg>$ ^release<vblex><pp>$}$ ^eftir<PREP>{^after<pr>$}$ ^num_nom<SN><@X><pl>{^two<num><sp>$ ^week<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/svQ33539ga52]
+[tShx_6HcxVGc#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_be_pp<SV><@+FAUXV><pss><p1><sg>{^would<vaux><inf>$ ^be<vbser><inf>$ ^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/tShx_6HcxVGc]
+[u2_BzXDa0hzs#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^have<vbhaver><3>$ ^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/u2_BzXDa0hzs]
+[u4_cKtjRRS_A#0] ^Í Gær<ADV>{^yesterday<adv>$}$ ^det_adj_nom<SN><@←SUBJ><pl>{^all<det><qnt><pl>$ ^the<det><def><3>$ ^big<adj><sint>$ ^boy<n><3>$}$ ^eat<SV><@+FMAINV><past><p3><pl>{^eat<vblex><3>$}$ ^det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^good<adj><sint>$ ^soup<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/u4_cKtjRRS_A]
+[u5yc_MXhN5kU#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^be<vbser><pp>$}$^sent<SENT>{^.<sent>$}$
+[/u5yc_MXhN5kU]
+[uFxxK9IRRd3s#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_inf<SV><@+FMAINV><inf><p1><sg>{^can<vaux><inf>$ ^read<vblex><inf>$}$ ^det_nom<SN><@X><sg>{^the<det><def><3>$ ^book<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/uFxxK9IRRd3s]
+[uT2MCCl1OV6M#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^do<SV><@+FMAINV><past><p3><pl>{^do<vblex><3>$}$ ^prn<SN><@X><p3><nt><sg>{^prpers<prn><obj><p3><nt><sg>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/uT2MCCl1OV6M]
+[uTtYNj9vBx_D#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pss><p1><sg>{^would<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^beat<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/uTtYNj9vBx_D]
+[uYQyGSy8i46H#0] ^Det_adj_adj_adj_nom<SN><sg>{^The<det><def><2>$ ^big<adj><sint>$ ^grey<adj><sint>$ ^hairy<adj><sint>$ ^dog<n><2>$}$^Sent<SENT>{^.<sent>$}$
+[/uYQyGSy8i46H]
+[vwWJePA1qsjh#0] ^Prn<SN><@SUBJ→><p3><mf><pl>{^prpers<prn><subj><p3><mf><pl>$}$ ^hurt<SV><@+FMAINV><past><p3><pl>{^hurt<vblex><3>$}$ ^prn_ref<SN><pl>{^themselves<prn><ref><pl>$}$^sent<SENT>{^.<sent>$}$
+[/vwWJePA1qsjh]
+[wIfcQTZ3Q2Ed#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^see<SV><@+FMAINV><pres><p1><sg>{^see<vblex><3>$}$ ^nom<SN><@X><pl>{^horse<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/wIfcQTZ3Q2Ed]
+[wbHKxBabKx7p#0] ^Hvar<ITG>{^where<adv><itg>$}$ ^be<SV><@+FMAINV><pres><p2><sg>{^be<vbser><pres>$}$ ^prn<SN><@←SUBJ><p2><mf><sp>{^prpers<prn><subj><p2><mf><sp>$}$^sent<SENT>{^?<sent>$}$
+[/wbHKxBabKx7p]
+[ww6itE2vgj_I#0] ^Adj_nom<SN><@SUBJ→><pl>{^many<adj><sint><sup>$ ^woman<n><3>$}$ ^eat<SV><@+FMAINV><pres><p3><pl>{^eat<vblex><3>$}$ ^nom<SN><@X><sg>{^soup<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/ww6itE2vgj_I]
+[xGhmJyJ4A2_c#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^order<SV><@+FMAINV><pres><p1><sg>{^order<vblex><3>$}$ ^prn<SN><@X><p3><mf><pl>{^prpers<prn><obj><p3><mf><pl>$}$^sent<SENT>{^.<sent>$}$
+[/xGhmJyJ4A2_c]
+[xa1k49U8A_DU#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><pres><p1><sg>{^have<vbhaver><3>$ ^have<vbhaver><pp>$}$^sent<SENT>{^.<sent>$}$
+[/xa1k49U8A_DU]
+[xnkpnkNGlJyR#0] ^ant<SN><@SUBJ→><m><sg>{^Jón<np><ant><3><4>$}$ ^auxcj_adv_ger<SV><@+FMAINV><pres><p3><sg>{^be<vbser><pres><p3><sg>$ ^always<adv>$ ^eat<vblex><ger>$}$^sent<SENT>{^.<sent>$}$
+[/xnkpnkNGlJyR]
+[yLivjYlejY0U#0] ^Num<SN>{^3rd december<num>$}$^Sent<SENT>{^.<sent>$}$
+[/yLivjYlejY0U]
+[yMyDFI51MdOd#0] ^Prn<SN><@SUBJ→><p3><f><sg>{^prpers<prn><subj><p3><f><sg>$}$ ^need<SV><@+FMAINV><pres><p3><sg>{^need<vblex><3><4><5>$}$ ^nom<SN><@←OBJ><sg>{^money<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/yMyDFI51MdOd]
+[yNoN5xgrLJTk#0] ^Í Gær<ADV>{^yesterday<adv>$}$ ^prn<SN><@←SUBJ><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^go<SV><@+FMAINV><past><p1><sg>{^go<vblex><3>$}$ ^inf<SV><inf>{^to<pr>$ ^wash<vblex><inf>$}$ ^det_nom<SN><@X><sg>{^my<det><pos><sp>$ ^car<n><3>$}$^sent<SENT>{^.<sent>$}$
+[/yNoN5xgrLJTk]
+[yOJndmDIvH5V#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_ger<SV><@+FAUXV><pres><p1><sg>{^be<vbser><pres><p1><sg>$ ^move<vblex><ger>$}$ ^frá<PREP>{^from<pr>$}$ ^top<SN><@X><sg>{^Akureyri<np><top><3>$}$ ^til<PREP>{^to<pr>$}$ ^top<SN><@X><sg>{^Reykjavík<np><top><3>$}$ ^í eitt ár<ADV>{^for one year<adv>$}$^sent<SENT>{^.<sent>$}$
+[/yOJndmDIvH5V]
+[yrv0py7gdFrD#0] ^Det_nom<SN><@SUBJ→><sg>{^the<det><def><3>$ ^bread<n><3>$}$ ^auxcj_pp<SV><@+FAUXV><past><p3><sg>{^be<vbser><past><p3><sg>$ ^bake<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/yrv0py7gdFrD]
+[z3bodqLlESUm#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^aux_inf<SV><@+FAUXV><pri><p1><sg>{^may<vaux><inf>$ ^have<vbhaver><inf>$}$ ^pp<SA><@-FMAINV>{^be<vbser><pp>$}$^sent<SENT>{^.<sent>$}$
+[/z3bodqLlESUm]
+[zH0aB2iC3ANi#0] ^Det_adj_nom<SN><@X><sg>{^the<det><def><3>$ ^red<adj><sint>$ ^rose<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/zH0aB2iC3ANi]
+[zNzk310kmtJ0#0] ^Det_nom<SN><@X><sg>{^Your<det><pos><sp>$ ^husband<n><3>$}$^Sent<SENT>{^.<sent>$}$
+[/zNzk310kmtJ0]
+[zpYiVPHSy-2A#0] ^Prn<SN><@SUBJ→><p1><mf><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^auxcj_pp<SV><@+FAUXV><past><p1><sg>{^be<vbser><past><p1><sg>$ ^go<vblex><pp>$}$^sent<SENT>{^.<sent>$}$
+[/zpYiVPHSy-2A]

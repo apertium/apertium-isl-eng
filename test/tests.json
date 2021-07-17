@@ -1,0 +1,10 @@
+{
+    "isl-eng-pending": {
+        "input": "isl-eng-pending-input.txt",
+        "mode": "isl-eng"
+    },
+    "isl-eng-regression": {
+        "input": "isl-eng-regression-input.txt",
+        "mode": "isl-eng"
+    }
+}
